@@ -15271,6 +15271,10 @@
     "title": "Black Dinner",
     "url": "/wiki/entities/blackdinner/"
   },
+  "BlackEnglishSystematicity": {
+    "title": "Black English Systematicity",
+    "url": "/wiki/concepts/blackenglishsystematicity/"
+  },
   "BlackForestLabs": {
     "title": "Black Forest Labs",
     "url": "/wiki/entities/blackforestlabs/"
@@ -28586,6 +28590,10 @@
   "DigitalPublicSphereEpistemicAuthority": {
     "title": "Digital Public Sphere Epistemic Authority / 数字公共领域知识权威",
     "url": "/wiki/concepts/digitalpublicsphereepistemicauthority/"
+  },
+  "DigitalPunctuationTone": {
+    "title": "Digital Punctuation Tone",
+    "url": "/wiki/concepts/digitalpunctuationtone/"
   },
   "DigitalSexualSubstituteRisk": {
     "title": "Digital Sexual Substitute Risk",
@@ -52250,6 +52258,10 @@
   "JohnMcEwen": {
     "title": "John McEwen",
     "url": "/wiki/entities/johnmcewen/"
+  },
+  "JohnMcWhorter": {
+    "title": "John McWhorter",
+    "url": "/wiki/entities/johnmcwhorter/"
   },
   "JohnMethuen": {
     "title": "John Methuen",
@@ -76143,6 +76155,10 @@
     "title": "Prompt-Only Autonomous Malware",
     "url": "/wiki/concepts/promptonlyautonomousmalware/"
   },
+  "PronounTrouble": {
+    "title": "Pronoun Trouble",
+    "url": "/wiki/entities/pronountrouble/"
+  },
   "ProofOfLifeDiplomacy": {
     "title": "Proof of Life Diplomacy",
     "url": "/wiki/concepts/proofoflifediplomacy/"
@@ -79118,6 +79134,10 @@
   "RegionalVariationInRuralChina": {
     "title": "Regional Variation in Rural China / 中国农村的区域差异",
     "url": "/wiki/concepts/regionalvariationinruralchina/"
+  },
+  "RegisterSwitchingSocialIdentity": {
+    "title": "Register Switching and Social Identity",
+    "url": "/wiki/concepts/registerswitchingsocialidentity/"
   },
   "RegistryBasedPoliticalExclusion": {
     "title": "Registry-Based Political Exclusion / 登记造册式政治禁锢",
@@ -83578,6 +83598,10 @@
   "SecondOpiumWar": {
     "title": "第二次鸦片战争 / Second Opium War",
     "url": "/wiki/entities/secondopiumwar/"
+  },
+  "SecondPersonNumberRepair": {
+    "title": "Second-Person Number Repair",
+    "url": "/wiki/concepts/secondpersonnumberrepair/"
   },
   "SecondPunicWar": {
     "title": "Second Punic War / 第二次布匿战争",
@@ -114398,6 +114422,10 @@
   "the-nfl-1": {
     "title": "The NFL",
     "url": "/wiki/sources/the-nfl-1/"
+  },
+  "the-origin-of-you-a-conversation-with-john-mcwhorter-the-origin-of-you-a-conversation-with-john-mcwhorter": {
+    "title": "The Origin of “You”: A Conversation with John McWhorter",
+    "url": "/wiki/sources/the-origin-of-you-a-conversation-with-john-mcwhorter-the-origin-of-you-a-conversation-with-john-mcwhorter/"
   },
   "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough": {
     "title": "The real horror of 'Alien' and how it explains why we're not paid enough",

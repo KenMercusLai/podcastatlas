@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-11-15] ingest | The Origin of “You”: A Conversation with John McWhorter
+
+Added the [[RevisionistHistory]] conversation with [[JohnMcWhorter]] about recorded speech, dialect, identity, pronouns, and digital tone; created [[PronounTrouble]], [[BlackEnglishSystematicity]], [[RegisterSwitchingSocialIdentity]], [[SecondPersonNumberRepair]], and [[DigitalPunctuationTone]]. Core synthesis: nonstandard dialect forms can be rule-governed; a speaker's repertoire, identity, and audience perception do not automatically align; English speakers repeatedly repair the number ambiguity of “you”; and punctuation acquires relationship-specific meanings in digital writing. No settled contradiction was adopted. Historical chronology, dialect distributions, etymologies, prevalence, cross-language comparisons, and broad claims about writing or mainstream Black English diffusion remain episode-scoped because the supplied file is a structured summary rather than a transcript, corpus study, dialect survey, or comparative linguistic history. The positive reading of borrowing does not settle appropriation or unequal social penalties. Broad [[MalcolmGladwell]], Revisionist History, existing dialect pages, and the automatic `wiki/overview.md` were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,013 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-15] ingest | The Alabama Murders - Part 3: A Peculiar Institution
 
 Added Part 3 of [[TheAlabamaMurders]], reconstructing the trial evidence behind [[JohnForrestParker]]'s disputed murder conviction and the institutional path from his jury's 10-2 life recommendation to judicially imposed death. Created [[JudicialOverrideCapitalSentencing]]; and resynthesized Parker, [[ElizabethSennett]], [[KennethSmith]], and The Alabama Murders from each page's complete preserved evidence inventory before appending the new source once.
@@ -40141,5 +40145,9 @@ Core synthesis: face-recognition ability varies from prosopagnosia through typic
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,012 sources across 810 overview paragraphs and nine topics.
 
 ## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14286
+wiki_total_pages: 14288
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1139,6 +1139,9 @@ wiki_pages:
   - key: "PrometheusBound"
     title: "Prometheus Bound / 《被缚的普罗米修斯》"
     url: "/wiki/entities/prometheusbound/"
+  - key: "PronounTrouble"
+    title: "Pronoun Trouble"
+    url: "/wiki/entities/pronountrouble/"
   - key: "PropagandaDue"
     title: "Propaganda Due / P2"
     url: "/wiki/entities/propagandadue/"

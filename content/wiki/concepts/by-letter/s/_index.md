@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11332
+wiki_total_pages: 11336
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "SecondLifeEVBatteryStorage"
     title: "Second-Life EV Battery Storage"
     url: "/wiki/concepts/secondlifeevbatterystorage/"
+  - key: "SecondPersonNumberRepair"
+    title: "Second-Person Number Repair"
+    url: "/wiki/concepts/secondpersonnumberrepair/"
   - key: "SecondStageReuseConstraint"
     title: "Second-Stage Reuse Constraint"
     url: "/wiki/concepts/secondstagereuseconstraint/"

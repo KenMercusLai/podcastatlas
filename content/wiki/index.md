@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Origin of “You”: A Conversation with John McWhorter](sources/the-origin-of-you-a-conversation-with-john-mcwhorter-the-origin-of-you-a-conversation-with-john-mcwhorter.md) — Revisionist History connects systematic Black English, register switching, second-person pronoun repair, and digital punctuation to identity and language change.
 - [Nooks & Crannies](sources/nooks-crannies-nooks-crannies.md) — Revisionist History examines Bimbo Bakeries USA v. Botticella as an unresolved conflict among trade-secret protection, confidential business information, litigation power, and employee mobility.
 - [The Formula](sources/the-formula-the-formula.md) — Revisionist History reverse-engineers Thomas' English muffins and contrasts corporate trade-secret enforcement with trust-based Carthusian secrecy.
 - [Encores](sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc.md) — Malcolm Gladwell introduces four Revisionist History music stories through the autobiographical persistence of songs and his perspective as an enthusiastic non-musician.
@@ -5136,6 +5137,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [John McWhorter](entities/JohnMcWhorter.md) — Historical linguist connecting archival speech, dialect systems, identity, pronouns, and digital tone.
+- [Pronoun Trouble](entities/PronounTrouble.md) — John McWhorter book using pronoun histories and controversies to examine English language change.
 - [Lawrence Cole](entities/LawrenceCole.md) — Early psychologist whose raccoon puzzle-box work offered a neglected alternative to rat-centered comparative psychology.
 - [Michael Pettit](entities/MichaelPettit.md) — Historian who recovers raccoon research and questions the institutional selection of psychology's dominant animal model.
 - [Suzanne MacDonald](entities/SuzanneMacDonald.md) — Animal-cognition researcher whose Toronto observations qualify the myth of the brilliant raccoon.
@@ -19515,6 +19518,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Black English Systematicity](concepts/BlackEnglishSystematicity.md) — Principle that recurring Black English forms constitute patterned grammar rather than failed standard English.
+- [Register Switching and Social Identity](concepts/RegisterSwitchingSocialIdentity.md) — Speech shifts that reposition relationship, stance, and perceived identity across settings.
+- [Second-Person Number Repair](concepts/SecondPersonNumberRepair.md) — Plural forms such as “y'all” and “yous” that repair ambiguity after singular and plural “you” merged.
+- [Digital Punctuation Tone](concepts/DigitalPunctuationTone.md) — Baseline-dependent use of punctuation to signal warmth, distance, and conversational stance in digital writing.
 - [Model Organism Selection Bias](concepts/ModelOrganismSelectionBias.md) — Risk that convenience, infrastructure, and controllability determine a field's dominant organism and shape its general theories.
 - [Experimental Tractability–Validity Tradeoff](concepts/ExperimentalTractabilityValidityTradeoff.md) — Tension between laboratory control and the natural variation or target similarity needed for findings to generalize.
 - [Product Reverse Engineering](concepts/ProductReverseEngineering.md) — Iterative reconstruction separating product resemblance, perceptual identity, and user preference.

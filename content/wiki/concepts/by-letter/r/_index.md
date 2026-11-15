@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11332
+wiki_total_pages: 11336
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "RegionalVariationInRuralChina"
     title: "Regional Variation in Rural China / 中国农村的区域差异"
     url: "/wiki/concepts/regionalvariationinruralchina/"
+  - key: "RegisterSwitchingSocialIdentity"
+    title: "Register Switching and Social Identity"
+    url: "/wiki/concepts/registerswitchingsocialidentity/"
   - key: "RegistryBasedPoliticalExclusion"
     title: "Registry-Based Political Exclusion / 登记造册式政治禁锢"
     url: "/wiki/concepts/registrybasedpoliticalexclusion/"

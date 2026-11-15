@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11332
+wiki_total_pages: 11336
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "DigitalPublicSphereEpistemicAuthority"
     title: "Digital Public Sphere Epistemic Authority / 数字公共领域知识权威"
     url: "/wiki/concepts/digitalpublicsphereepistemicauthority/"
+  - key: "DigitalPunctuationTone"
+    title: "Digital Punctuation Tone"
+    url: "/wiki/concepts/digitalpunctuationtone/"
   - key: "DigitalSexualSubstituteRisk"
     title: "Digital Sexual Substitute Risk"
     url: "/wiki/concepts/digitalsexualsubstituterisk/"

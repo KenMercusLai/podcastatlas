@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11332
+wiki_total_pages: 11336
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "BlackDeathHistoricalShock"
     title: "Black Death Historical Shock"
     url: "/wiki/concepts/blackdeathhistoricalshock/"
+  - key: "BlackEnglishSystematicity"
+    title: "Black English Systematicity"
+    url: "/wiki/concepts/blackenglishsystematicity/"
   - key: "BlackHairCareMarketOwnership"
     title: "Black Hair-Care Market Ownership"
     url: "/wiki/concepts/blackhaircaremarketownership/"
