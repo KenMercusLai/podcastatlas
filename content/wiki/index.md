@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Joe Rogan Intervention](sources/the-joe-rogan-intervention-the-joe-rogan-intervention.md) — Revisionist History contrasts conversational rapport with audience-facing duties to interpret evidence, pursue consequential claims, and move beyond rehearsed narratives.
 - [The Origin of “You”: A Conversation with John McWhorter](sources/the-origin-of-you-a-conversation-with-john-mcwhorter-the-origin-of-you-a-conversation-with-john-mcwhorter.md) — Revisionist History connects systematic Black English, register switching, second-person pronoun repair, and digital punctuation to identity and language change.
 - [Nooks & Crannies](sources/nooks-crannies-nooks-crannies.md) — Revisionist History examines Bimbo Bakeries USA v. Botticella as an unresolved conflict among trade-secret protection, confidential business information, litigation power, and employee mobility.
 - [The Formula](sources/the-formula-the-formula.md) — Revisionist History reverse-engineers Thomas' English muffins and contrasts corporate trade-secret enforcement with trust-based Carthusian secrecy.
@@ -5137,6 +5138,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Matt Walsh](entities/MattWalsh.md) — Commentator used in the episode's example of an unexamined historical generalization about slavery.
+- [Michael Gervais](entities/MichaelGervais.md) — Psychologist and interviewer presented as a constructive model of attentive emotional follow-up.
 - [John McWhorter](entities/JohnMcWhorter.md) — Historical linguist connecting archival speech, dialect systems, identity, pronouns, and digital tone.
 - [Pronoun Trouble](entities/PronounTrouble.md) — John McWhorter book using pronoun histories and controversies to examine English language change.
 - [Lawrence Cole](entities/LawrenceCole.md) — Early psychologist whose raccoon puzzle-box work offered a neglected alternative to rat-centered comparative psychology.
@@ -12901,7 +12904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abbott Nutrition](entities/AbbottNutrition.md) — Similac company context whose 2022 recall and facility shutdown illustrate concentrated formula-supply risk.
 - [WIC](entities/WIC.md) — U.S. nutrition program whose formula contracts shape brand access for many eligible families.
 - [U.S. Department of Health and Human Services](entities/USDepartmentOfHealthAndHumanServices.md) — Federal department context for Bobbie's formula-policy engagement.
-- [Robert F. Kennedy Jr.](entities/RobertFKennedyJr.md) — HHS secretary named in the source-scoped 2025 Bobbie policy-meeting section.
+- [Robert F. Kennedy Jr.](entities/RobertFKennedyJr.md) — US health-policy official and proponent of a disputed 1918-pandemic vaccine theory in the bounded sources.
 - [Bobbie for Change](entities/BobbieForChange.md) — Bobbie-linked advocacy group working on infant-feeding policy, including formula coverage after breast cancer.
 - [Google Finance](entities/GoogleFinance.md) — Google product area where Laura Modi worked in product operations before Airbnb and Bobbie.
 - [Vans](entities/Vans.md) — Classic skate and canvas-footwear brand used as a current decline case around comfort demand, subculture dilution, and product innovation debt.
@@ -17729,7 +17732,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [中国女足 / China Women's National Football Team](entities/ChinaWomensNationalFootballTeam.md) — National-team context for Zhao Lina's goalkeeper confidence, World Cup visibility, and women's football comparison pressure.
 - [FIFA Women's World Cup](entities/FIFAWomensWorldCup.md) — Women's international football tournament node created from Zhao Lina's 2015 Canada World Cup memory.
 - [Lex Fridman](entities/LexFridman.md) — Long-form interviewer and AI/robotics researcher connecting learning systems, human-machine relationships, shared time, and grief.
-- [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
+- [Joe Rogan](entities/JoeRogan.md) — Long-form host illustrating both conversational openness and the accountability limits of rapport without sustained follow-up.
 - [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
 - [Rick Rubin](entities/RickRubin.md) — Music producer and creativity-process figure linking felt judgment, open attention, phase-specific constraints, outcome independence, idea capture, and protected daily routines.
 - [魏小康 / Wei Xiaokang](entities/WeiXiaokang.md) — AI recruiting founder and former ByteDance/Meituan organization participant explaining business-model-shaped organization design, recruiting supply, reference checks, and AI-era small-team structure.
@@ -19498,7 +19501,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colin Campbell (British Army officer)](entities/ColinCampbellBritishArmy.md) — India-tested Highland Brigade commander whose exclusion from supreme command illustrates class-filtered military appointment.
 - [Jacques Leroy de Saint-Arnaud](entities/JacquesLeroyDeSaintArnaud.md) — French Crimean commander combining Algerian experience, coup politics, coalition ambition, and concern over lethal conditions at Varna.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
-- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, analogy, cross-domain comparison, and historical argument to test social and institutional claims.
+- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, source interpretation, analogy, and historical argument to test public claims.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 - [Battle of Issus](entities/BattleOfIssus.md) — 333 BC victory where constrained terrain, a Macedonian center crisis, Darius's departure, and rout transformed Alexander's campaign.
 - [Battle of the Granicus](entities/BattleOfGranicus.md) — 334 BC river victory joining disputed tactics, Alexander's near death, Greek-mercenary destruction, and access to captured revenue.
@@ -19518,6 +19521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Public Interview Audience Duty](concepts/PublicInterviewAudienceDuty.md) — Obligation to test consequential claims and pursue revealing openings for the benefit of a public audience.
 - [Black English Systematicity](concepts/BlackEnglishSystematicity.md) — Principle that recurring Black English forms constitute patterned grammar rather than failed standard English.
 - [Register Switching and Social Identity](concepts/RegisterSwitchingSocialIdentity.md) — Speech shifts that reposition relationship, stance, and perceived identity across settings.
 - [Second-Person Number Repair](concepts/SecondPersonNumberRepair.md) — Plural forms such as “y'all” and “yous” that repair ambiguity after singular and plural “you” merged.

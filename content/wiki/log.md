@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-11-16] ingest | The Joe Rogan Intervention
+
+Added source `the-joe-rogan-intervention-the-joe-rogan-intervention`; created [[MichaelGervais]], [[MattWalsh]], and [[PublicInterviewAudienceDuty]]; resynthesized [[JoeRogan]], [[RobertFKennedyJr|Robert F. Kennedy Jr.]], [[MalcolmGladwell]], [[EmpathicAdversarialInterviewing]], [[ConversationAsSelfRevelation]], and [[CreatorFactCheckingResponsibility]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: public interviews owe duties beyond rapport—finding a source is not the same as interpreting it, secondary bacterial pneumonia does not erase influenza as an initiating cause, and persistent follow-up can either test consequential claims or move a guest beyond a rehearsed story. No settled contradiction was adopted. Gladwell's critique qualifies the existing positive long-form-conversation use of Rogan without invalidating that format; Kennedy's 1918-pandemic interpretation is rejected within the source, while the paper, source genealogy, dialogue, motives, and imagined alternative questions remain episode-scoped because the supplied file is a structured summary rather than the underlying interviews, biomedical literature, or archival record. Broad [[RevisionistHistory]], Oprah, Musk, Fauci, and medical-literacy pages and the automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,014 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-15] ingest | The Origin of “You”: A Conversation with John McWhorter
 
 Added the [[RevisionistHistory]] conversation with [[JohnMcWhorter]] about recorded speech, dialect, identity, pronouns, and digital tone; created [[PronounTrouble]], [[BlackEnglishSystematicity]], [[RegisterSwitchingSocialIdentity]], [[SecondPersonNumberRepair]], and [[DigitalPunctuationTone]]. Core synthesis: nonstandard dialect forms can be rule-governed; a speaker's repertoire, identity, and audience perception do not automatically align; English speakers repeatedly repair the number ambiguity of “you”; and punctuation acquires relationship-specific meanings in digital writing. No settled contradiction was adopted. Historical chronology, dialect distributions, etymologies, prevalence, cross-language comparisons, and broad claims about writing or mainstream Black English diffusion remain episode-scoped because the supplied file is a structured summary rather than a transcript, corpus study, dialect survey, or comparative linguistic history. The positive reading of borrowing does not settle appropriation or unequal social penalties. Broad [[MalcolmGladwell]], Revisionist History, existing dialect pages, and the automatic `wiki/overview.md` were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,013 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
@@ -40145,6 +40149,10 @@ Core synthesis: face-recognition ability varies from prosopagnosia through typic
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,012 sources across 810 overview paragraphs and nine topics.
 
 ## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
 

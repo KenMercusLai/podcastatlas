@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11336
+wiki_total_pages: 11337
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2768,6 +2768,9 @@ wiki_pages:
   - key: "PublicInterestAI"
     title: "Public Interest AI"
     url: "/wiki/concepts/publicinterestai/"
+  - key: "PublicInterviewAudienceDuty"
+    title: "Public Interview Audience Duty"
+    url: "/wiki/concepts/publicinterviewaudienceduty/"
   - key: "PublicListingControlTradeoff"
     title: "Public Listing Control Tradeoff"
     url: "/wiki/concepts/publiclistingcontroltradeoff/"

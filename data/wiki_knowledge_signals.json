@@ -64714,9 +64714,9 @@
       "url": "/wiki/concepts/conveniencestoredensityeconomics/"
     },
     "ConversationAsSelfRevelation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqBW_yofWhs8RpT3W0XSe_g9ajJ1 [lqBW_yofWhs8RpT3W0XSe_g9ajJ1].md",
@@ -64724,9 +64724,16 @@
           "show": "罗永浩的十字路口",
           "title": "蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实",
           "url": "/wiki/sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1/"
+        },
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/conversationasselfrevelation/"
     },
     "ConversationalAIPoliticalPersuasion": {
@@ -67304,6 +67311,43 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/creatorevaluationpressure/"
+    },
+    "CreatorFactCheckingResponsibility": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP264 踏访“唐诗之路”：盛唐气象少年心 [loo2DFuxFFIzPbL4Si5nWCIXnngi].md",
+          "key": "ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi",
+          "show": "Talk三联",
+          "title": "EP264 踏访“唐诗之路”：盛唐气象少年心",
+          "url": "/wiki/sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi/"
+        },
+        {
+          "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
+          "key": "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp",
+          "show": "起朱楼宴宾客",
+          "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+          "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+        },
+        {
+          "episode_file": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了 [llUK9KruHVEoKkBMFo0aDrJ7EtpJ].md",
+          "key": "141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj",
+          "show": "起朱楼宴宾客",
+          "title": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了",
+          "url": "/wiki/sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj/"
+        },
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/creatorfactcheckingresponsibility/"
     },
     "CreatorFormatReinvention": {
       "episode_count": 1,
@@ -92468,9 +92512,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmpathicAdversarialInterviewing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7125421200 [SCIM7125421200].md",
@@ -92478,9 +92522,16 @@
           "show": "Huberman Lab",
           "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
           "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        },
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/empathicadversarialinterviewing/"
     },
     "EmpathyBoundaries": {
@@ -166354,6 +166405,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/joeparvizi/"
     },
+    "JoeRogan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
+          "key": "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5",
+          "show": "蜉蝣天地 Meanders",
+          "title": "汉洋：为什么做《蜉蝣天地》",
+          "url": "/wiki/sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5/"
+        },
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/joerogan/"
+    },
     "JoelZivot": {
       "episode_count": 3,
       "show_count": 1,
@@ -198099,9 +198173,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -198228,9 +198302,16 @@
           "show": "Revisionist History",
           "title": "Face Value",
           "url": "/wiki/sources/face-value-face-value/"
+        },
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/malcolmgladwell/"
     },
     "MalcolmTurnbull": {
@@ -202829,6 +202910,22 @@
       ],
       "updated": "2026-11-01",
       "url": "/wiki/entities/mattmills/"
+    },
+    "MattWalsh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mattwalsh/"
     },
     "MatthewCoriotti": {
       "episode_count": 1,
@@ -208152,6 +208249,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/michaelfoot/"
+    },
+    "MichaelGervais": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/michaelgervais/"
     },
     "MichaelGove": {
       "episode_count": 1,
@@ -251071,6 +251184,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/publicintellectualerrorcorrection/"
     },
+    "PublicInterviewAudienceDuty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/publicinterviewaudienceduty/"
+    },
     "PublicMutualFundEcosystem": {
       "episode_count": 7,
       "show_count": 3,
@@ -264281,6 +264410,29 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/robertfkennedy/"
+    },
+    "RobertFKennedyJr": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
+          "key": "bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69",
+          "show": "How I Built This with Guy Raz",
+          "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
+          "url": "/wiki/sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69/"
+        },
+        {
+          "episode_file": "The_Joe_Rogan_Intervention [The_Joe_Rogan_Intervention].md",
+          "key": "the-joe-rogan-intervention-the-joe-rogan-intervention",
+          "show": "Revisionist History",
+          "title": "The Joe Rogan Intervention",
+          "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/robertfkennedyjr/"
     },
     "RobertFitzRoy": {
       "episode_count": 2,
