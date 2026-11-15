@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP97 特朗普的期中考试，一场 120 亿美元的溃败](sources/lqhxgskquudxpffa0qixn6o25rfi.md) — 一劳永逸 connects household costs and the reported Democratic midterm sweep to divided-government constraints, political-risk valuation, AI campaign content, prediction-market integrity, and investment-commitment execution.
 - [Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing](sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad.md) — Gladwell and Liliana Segura connect medicalized execution, secrecy, judicial tolerance, racial history, and abolition in an examination of Alabama's death penalty.
 - [Twas the Night Before Christmas](sources/twas-the-night-before-christmas-twas-the-night-before-christmas.md) — Revisionist History investigates the Livingston challenge to Moore's authorship, the poem's role in domestic Christmas, and how expert authority and false balance sustain weak controversies.
 - [Christmas in Connecticut](sources/christmas-in-connecticut-christmas-in-connecticut.md) — Revisionist History oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
@@ -5121,6 +5122,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Ken Paxton](entities/KenPaxton.md) — Texas Republican figure used by the episode as a candidate-quality, endorsement, and party-accountability case.
 - [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
 - [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose childhood trauma, failed lethal-injection attempt, and nitrogen-hypoxia case connect developmental harm to hidden execution procedure.
 - [The Alabama Murders](entities/TheAlabamaMurders.md) — Revisionist History series connecting trauma, care, Alabama capital cases, execution methods, secrecy, and abolition.
@@ -19462,6 +19464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Political Risk-Premium Valuation](concepts/PoliticalRiskPremiumValuation.md) — How tariffs, subsidies, regulation, and divided-government uncertainty affect expected cash flow, discount rates, and sector dispersion.
 - [Medicalized Execution Opacity](concepts/MedicalizedExecutionOpacity.md) — Clinical appearance and restricted observation make execution seem controlled while hiding competence, failure, and experienced suffering.
 - [Ministry of Presence](concepts/MinistryOfPresence.md) — Reliable accompaniment that refuses abandonment through distress, death, and aftermath.
 - [Nitrogen Hypoxia Execution Risk](concepts/NitrogenHypoxiaExecutionRisk.md) — Framework separating oxygen-displacement theory from mask, breathing, contingency, expertise, and first-use outcome uncertainty.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3534
+topic_total_pages: 3536
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3403,6 +3403,9 @@ topic_concepts:
   - key: "PoliticalResourceCurse"
     title: "Political Resource Curse"
     url: "/wiki/concepts/politicalresourcecurse/"
+  - key: "PoliticalRiskPremiumValuation"
+    title: "Political Risk-Premium Valuation"
+    url: "/wiki/concepts/politicalriskpremiumvaluation/"
   - key: "PoliticalRoleAdaptability"
     title: "Political Role Adaptability"
     url: "/wiki/concepts/politicalroleadaptability/"
@@ -7121,6 +7124,9 @@ topic_entities:
   - key: "KemiBadenoch"
     title: "Kemi Badenoch"
     url: "/wiki/entities/kemibadenoch/"
+  - key: "KenPaxton"
+    title: "Ken Paxton"
+    url: "/wiki/entities/kenpaxton/"
   - key: "KevinRudd"
     title: "Kevin Rudd"
     url: "/wiki/entities/kevinrudd/"

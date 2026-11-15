@@ -5396,6 +5396,36 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/aiplatformecosystemdiffusion/"
     },
+    "AIPoliticalAdDisclosurePatchwork": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260105_0105_MP_TECH_pod_128 [tech_20260105_0105_MP_TECH_pod_128].md",
+          "key": "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How U.S. political campaigns have used generative AI",
+          "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "lqHXgsKQuUdxpFFa0QiXn6o25rfi [lqHXgsKQuUdxpFFa0QiXn6o25rfi].md",
+          "key": "lqhxgskquudxpffa0qixn6o25rfi",
+          "show": "一劳永逸",
+          "title": "EP97 特朗普的期中考试，一场 120 亿美元的溃败",
+          "url": "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/aipoliticaladdisclosurepatchwork/"
+    },
     "AIPrivateMarketConcentration": {
       "episode_count": 1,
       "show_count": 1,
@@ -170514,6 +170544,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/kenlangone/"
     },
+    "KenPaxton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqHXgsKQuUdxpFFa0QiXn6o25rfi [lqHXgsKQuUdxpFFa0QiXn6o25rfi].md",
+          "key": "lqhxgskquudxpffa0qixn6o25rfi",
+          "show": "一劳永逸",
+          "title": "EP97 特朗普的期中考试，一场 120 亿美元的溃败",
+          "url": "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/kenpaxton/"
+    },
     "KenauSimonsdochterHasselaer": {
       "episode_count": 1,
       "show_count": 1,
@@ -241027,6 +241073,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/politicalresourcecurse/"
     },
+    "PoliticalRiskPremiumValuation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqHXgsKQuUdxpFFa0QiXn6o25rfi [lqHXgsKQuUdxpFFa0QiXn6o25rfi].md",
+          "key": "lqhxgskquudxpffa0qixn6o25rfi",
+          "show": "一劳永逸",
+          "title": "EP97 特朗普的期中考试，一场 120 亿美元的溃败",
+          "url": "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/politicalriskpremiumvaluation/"
+    },
     "PoliticalRiskPrevention": {
       "episode_count": 1,
       "show_count": 1,
@@ -241143,6 +241205,36 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/politicaltrialsovereigntyperformance/"
+    },
+    "PoliticalVetoPointBargaining": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "lqHXgsKQuUdxpFFa0QiXn6o25rfi [lqHXgsKQuUdxpFFa0QiXn6o25rfi].md",
+          "key": "lqhxgskquudxpffa0qixn6o25rfi",
+          "show": "一劳永逸",
+          "title": "EP97 特朗普的期中考试，一场 120 亿美元的溃败",
+          "url": "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/politicalvetopointbargaining/"
     },
     "PollTax": {
       "episode_count": 2,
@@ -306818,6 +306910,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/toyotaproductionsystempersonalwaste/"
     },
+    "TradeDealCapitalStructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "lqHXgsKQuUdxpFFa0QiXn6o25rfi [lqHXgsKQuUdxpFFa0QiXn6o25rfi].md",
+          "key": "lqhxgskquudxpffa0qixn6o25rfi",
+          "show": "一劳永逸",
+          "title": "EP97 特朗普的期中考试，一场 120 亿美元的溃败",
+          "url": "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/tradedealcapitalstructure/"
+    },
     "TradeDiversificationStabilityParadox": {
       "episode_count": 2,
       "show_count": 1,
@@ -311564,6 +311679,57 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/unitedstatesairforce/"
+    },
+    "UnitedStatesCongress": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548 [default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548].md",
+          "key": "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what",
+          "show": "Planet Money",
+          "title": "The Supreme Court struck down a bunch of Trump's tariffs. Now what?",
+          "url": "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
+        },
+        {
+          "episode_file": "tech_20260713_TECH_pod_128 [tech_20260713_TECH_pod_128].md",
+          "key": "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The high cost of vacuuming carbon from the sky",
+          "url": "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260409_0409_MP_TECH_pod_128 [tech_20260409_0409_MP_TECH_pod_128].md",
+          "key": "tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trust in government data practices is rapidly deteriorating",
+          "url": "/wiki/sources/tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9553125b9143a79bd131d52ccba0675f_30684964 [default.mp3_ywr3ahjkcgo_9553125b9143a79bd131d52ccba0675f_30684964].md",
+          "key": "jerome-powell-and-the-test-of-fed-independence",
+          "show": "Planet Money",
+          "title": "Jerome Powell and the Test of Fed Independence",
+          "url": "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"
+        },
+        {
+          "episode_file": "lqHXgsKQuUdxpFFa0QiXn6o25rfi [lqHXgsKQuUdxpFFa0QiXn6o25rfi].md",
+          "key": "lqhxgskquudxpffa0qixn6o25rfi",
+          "show": "一劳永逸",
+          "title": "EP97 特朗普的期中考试，一场 120 亿美元的溃败",
+          "url": "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/unitedstatescongress/"
     },
     "UnitedStatesPresidentialElection1884": {
       "episode_count": 1,

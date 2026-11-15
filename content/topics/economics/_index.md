@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2405
+topic_total_pages: 2407
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2545,6 +2545,9 @@ topic_concepts:
   - key: "PoliticalRegulatoryLeverage"
     title: "Political Regulatory Leverage"
     url: "/wiki/concepts/politicalregulatoryleverage/"
+  - key: "PoliticalRiskPremiumValuation"
+    title: "Political Risk-Premium Valuation"
+    url: "/wiki/concepts/politicalriskpremiumvaluation/"
   - key: "PollinationServiceMarket"
     title: "Pollination Service Market"
     url: "/wiki/concepts/pollinationservicemarket/"
@@ -6681,6 +6684,9 @@ topic_sources:
   - key: "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly"
     title: "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来"
     url: "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+  - key: "lqhxgskquudxpffa0qixn6o25rfi"
+    title: "EP97 特朗普的期中考试，一场 120 亿美元的溃败"
+    url: "/wiki/sources/lqhxgskquudxpffa0qixn6o25rfi/"
   - key: "kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7"
     title: "Episode 21: 抗压、应变与终生动力：CZ 的人事和天命"
     url: "/wiki/sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7/"

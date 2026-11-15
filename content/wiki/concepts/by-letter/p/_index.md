@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11312
+wiki_total_pages: 11313
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1373,6 +1373,9 @@ wiki_pages:
   - key: "PoliticalResourceCurse"
     title: "Political Resource Curse"
     url: "/wiki/concepts/politicalresourcecurse/"
+  - key: "PoliticalRiskPremiumValuation"
+    title: "Political Risk-Premium Valuation"
+    url: "/wiki/concepts/politicalriskpremiumvaluation/"
   - key: "PoliticalRoleAdaptability"
     title: "Political Role Adaptability"
     url: "/wiki/concepts/politicalroleadaptability/"

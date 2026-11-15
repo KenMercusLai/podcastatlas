@@ -55615,6 +55615,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "KenPaxton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KenanVoiceChanger": [
     {
       "key": "technology",
@@ -73886,6 +73893,18 @@
     }
   ],
   "PoliticalResourceCurse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalRiskPremiumValuation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -110889,6 +110908,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "lqhxgskquudxpffa0qixn6o25rfi": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lqrlbs47ruozcivwkh0ltyydbysn": [
