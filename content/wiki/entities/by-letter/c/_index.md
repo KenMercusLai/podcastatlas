@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14126
+wiki_total_pages: 14129
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2135,6 +2135,9 @@ wiki_pages:
   - key: "CuiLinLateHan"
     title: "崔林 / Cui Lin (late Han)"
     url: "/wiki/entities/cuilinlatehan/"
+  - key: "CuiShiCaoZhiWife"
+    title: "崔氏 / Cui Shi (Cao Zhi's Wife)"
+    url: "/wiki/entities/cuishicaozhiwife/"
   - key: "CuiShiZhuMaichenWife"
     title: "崔氏 / Cui Shi (Zhu Maichen's Wife)"
     url: "/wiki/entities/cuishizhumaichenwife/"
@@ -2390,6 +2393,9 @@ wiki_pages:
   - key: "CanghaiJun"
     title: "沧海君 / Canghai Jun"
     url: "/wiki/entities/canghaijun/"
+  - key: "ChunyuShiLateHan"
+    title: "淳于式 / Chunyu Shi (late Han)"
+    url: "/wiki/entities/chunyushilatehan/"
   - key: "ChunyuYi"
     title: "淳于意 / Chunyu Yi"
     url: "/wiki/entities/chunyuyi/"

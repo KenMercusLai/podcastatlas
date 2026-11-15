@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？](sources/zizhi-tongjian-hanji-1161-caocao-wei-shenme-yao-cisi-erxifu-lhv36g01hxpxaabh77bbyosdjzfr.md) — 芮淇讲透资治通鉴以曹植夫妇、汉中开局和陆逊回应举报，讨论家规与权力、分兵弱点及逆境中的不迁怒。
 - [《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急](sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i.md) — 芮淇讲透资治通鉴以218年许都之乱、北方乌桓平叛和汉中争夺，对照仓促突袭、信号判断、跨区调人及前线—后方一体化。
 - [Wolfgang's Law - Part One](sources/wolfgang-s-law-part-one.md) — Revisionist History connects concentrated violence networks, expressive retaliation, weekly case review, and trusted community interruption in Baltimore.
 - [695. Can the U.S. Close Its Fertility Gap?](sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813.md) — Freakonomics Radio separates desired from completed family size and compares marriage, parenting norms, remote work, housing, and financial policy as qualified constraints.
@@ -5079,6 +5080,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [崔氏 / Cui Shi (Cao Zhi's Wife)](entities/CuiShiCaoZhiWife.md) — 曹植之妻，其被迫离异与死亡被节目置于家规、储位警告和清河崔氏政治的交汇处。
+- [吴兰 / Wu Lan (late Han)](entities/WuLanLateHan.md) — 汉中进军初期分兵驻扎的刘备方将领，因局部兵力较弱成为曹洪集中攻击的目标。
+- [淳于式 / Chunyu Shi (late Han)](entities/ChunyuShiLateHan.md) — 举报陆逊征调扰民、又因关切地方民生而获陆逊肯定和推荐的会稽官员。
 - [金祎 / Jin Yi (late Han)](entities/JinYiLateHan.md) — 参与218年许都忠汉起事、但个人行动仍受集体化和戏剧化叙事限制的汉末人物。
 - [许都之乱（218年） / Xu Rebellion (218 CE)](entities/XuduRebellion218LateHan.md) — 以节庆突袭和斩首为核心、局部得手却未切断曹军指挥并引发扩大清洗的忠汉起事。
 - [曹彰 / Cao Zhang (late Han)](entities/CaoZhangLateHan.md) — 受命平定乌桓并以战果威慑鲜卑、同时受君臣军令约束的曹操之子。
@@ -19298,6 +19302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [逆境中的不迁怒 / Non-Retaliatory Conduct Under Adversity](concepts/NonRetaliatoryAdversityConduct.md) — 在受伤、失败或被批评时不把痛苦转嫁给无关者，并保留识别批评者公共价值的能力。
 - [Frontline–Rear Governance Integration / 前线作战与后方治理一体化](concepts/FrontlineRearGovernanceIntegration.md) — 将兵员、粮草、地方行政和政治稳定视为同一持续作战系统的战略原则。
 - [Public-Signal Intent Inference / 公开信号下的意图判断](concepts/PublicSignalIntentInference.md) — 通过公开程度是否符合行动所需保密性来评估威胁意图、同时保留双重欺骗可能的判断方法。
 - [Cross-Regional Talent Reallocation Risk / 跨区域人才调配风险](concepts/CrossRegionalTalentReallocationRisk.md) — 调动能臣填补一地缺口时，另一地区可能失去关系、知识和合法性嵌入的治理风险。

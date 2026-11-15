@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14126
+wiki_total_pages: 14129
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "WuGongHenanWesternHan"
     title: "吴公 / Wu Gong (Henan commandery governor)"
     url: "/wiki/entities/wugonghenanwesternhan/"
+  - key: "WuLanLateHan"
+    title: "吴兰 / Wu Lan (late Han)"
+    url: "/wiki/entities/wulanlatehan/"
   - key: "WuKuangLateHan"
     title: "吴匡 / Wu Kuang (late Han)"
     url: "/wiki/entities/wukuanglatehan/"

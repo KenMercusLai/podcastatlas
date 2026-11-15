@@ -39591,3 +39591,13 @@ Core synthesis: a local surprise does not become strategic success while command
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | 《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？
+
+Added the [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode connecting [[CuiShiCaoZhiWife|崔氏]]'s death, the opening of the [[HanzhongCampaign218LateHan|218 CE Hanzhong campaign]], and [[LuXunDongWu|陆逊]]'s response to [[ChunyuShiLateHan|淳于式]]. Created bounded profiles for Cui Shi, [[WuLanLateHan|吴兰]], and Chunyu Shi; resynthesized [[CaoZhi|曹植]], Lu Xun, and the Hanzhong campaign from their complete preserved evidence inventories; and added [[NonRetaliatoryAdversityConduct|逆境中的不迁怒]].
+
+Core synthesis: the source offers household austerity, succession warning, and clan politics as overlapping but unproven explanations for Cui Shi's death; Fa Zheng's opportunity judgment opens a campaign whose separated deployment exposes Wu Lan's weaker wing; and Lu Xun's acknowledgment of civilian burdens preserves a critic's public value without making the burden harmless. No settled contradiction was adopted. Motives, chronology, dialogue, troop dispositions, death accounts, civilian effects, and personnel outcomes remain source-scoped because the supplied file is a structured summary rather than a transcript or cited historical edition. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,956 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
