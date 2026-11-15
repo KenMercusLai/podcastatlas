@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14115
+wiki_total_pages: 14118
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "LVMH"
     title: "LVMH"
     url: "/wiki/entities/lvmh/"
+  - key: "LymanStone"
+    title: "Lyman Stone"
+    url: "/wiki/entities/lymanstone/"
   - key: "LyndonBJohnson"
     title: "Lyndon B. Johnson"
     url: "/wiki/entities/lyndonbjohnson/"

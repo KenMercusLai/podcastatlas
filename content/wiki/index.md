@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [695. Can the U.S. Close Its Fertility Gap?](sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813.md) — Freakonomics Radio separates desired from completed family size and compares marriage, parenting norms, remote work, housing, and financial policy as qualified constraints.
 - [Wolfgang's Law - Part Two](sources/wolfgang-s-law-part-two.md) — Revisionist History compares minimally invasive bypass with focused deterrence to explain team-, identity-, and institution-level barriers to adopting promising methods.
 - [The Story of Stories](sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361.md) — Hidden Brain connects explanation's learning value to overconfidence, rival-account correction, and a carefully bounded mood-system frame for depression.
 - [The $5 Billion Effort to Help Secure the World’s Shared Software](sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared.md) — Sponsored Revisionist History episode on Project Lightwell, open-source maintenance incentives, AI-accelerated vulnerability discovery, and pooled repair.
@@ -5076,6 +5077,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [Freakonomics Radio](entities/FreakonomicsRadio.md) — Economics podcast using expert disagreement to examine fertility preferences, work, housing, and family policy.
+- [Melissa Kearney](entities/MelissaKearney.md) — Economist interpreting U.S. fertility cohorts, intensive parenting, policy limits, and historical mortgage access.
+- [Lyman Stone](entities/LymanStone.md) — Demographer framing pronatalism as voluntary preference realization and emphasizing marriage, incentives, and family-suitable housing.
 - [David M. Kennedy](entities/DavidKennedyCriminologist.md) — Criminologist and focused-deterrence strategist associated with Boston's Operation Ceasefire and Baltimore's delayed adoption.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
@@ -19284,6 +19288,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Fertility Gap](concepts/FertilityGap.md) — Difference between desired and completed family size, shaped by interacting biological, relationship, work, parenting, and housing constraints.
+- [Housing Access and Family Formation](concepts/HousingAccessFamilyFormation.md) — Mechanism linking stable, affordable housing and lower wealth thresholds to earlier household formation, marriage, and births.
+- [Intensive Parenting as a Fertility Constraint](concepts/IntensiveParentingFertilityConstraint.md) — Hypothesis that high-investment supervision and activity norms raise the expected burden of becoming a parent.
 - [Focused Deterrence](concepts/FocusedDeterrence.md) — Violence-reduction strategy combining narrow network targeting, direct communication, practical support, community legitimacy, and credible enforcement.
 - [Team-Based Service Delivery](concepts/TeamBasedServiceDelivery.md) — Operating model in which specialized actors share information, authority, timing, and accountability for an outcome.
 - [Institutional Innovation Adoption Resistance](concepts/InstitutionalInnovationAdoptionResistance.md) — Gap between promising evidence and the skills, identity, authority, coordination, and capacity changes required for adoption.

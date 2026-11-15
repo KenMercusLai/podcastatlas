@@ -35311,6 +35311,10 @@
     "title": "Fertility Energy Availability",
     "url": "/wiki/concepts/fertilityenergyavailability/"
   },
+  "FertilityGap": {
+    "title": "Fertility Gap",
+    "url": "/wiki/concepts/fertilitygap/"
+  },
   "FertilitySubsidyLimits": {
     "title": "Fertility Subsidy Limits / 生育补贴边界",
     "url": "/wiki/concepts/fertilitysubsidylimits/"
@@ -37310,6 +37314,10 @@
   "FrauEva": {
     "title": "Frau Eva / 夏娃夫人",
     "url": "/wiki/entities/fraueva/"
+  },
+  "FreakonomicsRadio": {
+    "title": "Freakonomics Radio",
+    "url": "/wiki/entities/freakonomicsradio/"
   },
   "FredJordan": {
     "title": "Fred Jordan",
@@ -45359,6 +45367,10 @@
     "title": "后舍男生 / Houshe Nansheng",
     "url": "/wiki/entities/houshenansheng/"
   },
+  "HousingAccessFamilyFormation": {
+    "title": "Housing Access and Family Formation",
+    "url": "/wiki/concepts/housingaccessfamilyformation/"
+  },
   "HousingAffordabilitySupplyMechanics": {
     "title": "Housing Affordability Supply Mechanics",
     "url": "/wiki/concepts/housingaffordabilitysupplymechanics/"
@@ -48290,6 +48302,10 @@
   "IntensiveCareAsTimeBuying": {
     "title": "Intensive Care as Time-Buying",
     "url": "/wiki/concepts/intensivecareastimebuying/"
+  },
+  "IntensiveParentingFertilityConstraint": {
+    "title": "Intensive Parenting as a Fertility Constraint",
+    "url": "/wiki/concepts/intensiveparentingfertilityconstraint/"
   },
   "IntentContext": {
     "title": "Intent Context",
@@ -59631,6 +59647,10 @@
     "title": "Lý Thường Kiệt / 李常杰",
     "url": "/wiki/entities/lythuongkiet/"
   },
+  "LymanStone": {
+    "title": "Lyman Stone",
+    "url": "/wiki/entities/lymanstone/"
+  },
   "LymphaticFlowSupport": {
     "title": "Lymphatic Flow Support",
     "url": "/wiki/concepts/lymphaticflowsupport/"
@@ -62502,6 +62522,10 @@
   "MelissaIlardo": {
     "title": "Melissa Ilardo",
     "url": "/wiki/entities/melissailardo/"
+  },
+  "MelissaKearney": {
+    "title": "Melissa Kearney",
+    "url": "/wiki/entities/melissakearney/"
   },
   "MelitaCyril": {
     "title": "Melita Cyril",
@@ -107754,6 +107778,10 @@
   "default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773": {
     "title": "How bodegas led to the Yemeni coffeehouse explosion",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773/"
+  },
+  "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813": {
+    "title": "695. Can the U.S. Close Its Fertility Gap?",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
   },
   "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176": {
     "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",

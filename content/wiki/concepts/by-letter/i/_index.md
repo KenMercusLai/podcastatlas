@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11237
+wiki_total_pages: 11240
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "IntensiveCareAsTimeBuying"
     title: "Intensive Care as Time-Buying"
     url: "/wiki/concepts/intensivecareastimebuying/"
+  - key: "IntensiveParentingFertilityConstraint"
+    title: "Intensive Parenting as a Fertility Constraint"
+    url: "/wiki/concepts/intensiveparentingfertilityconstraint/"
   - key: "IntentContext"
     title: "Intent Context"
     url: "/wiki/concepts/intentcontext/"

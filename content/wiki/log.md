@@ -39529,6 +39529,7 @@ No settled contradiction was adopted. The episode's “greatest lost opportunity
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-11-15] ingest | 378-歌德如何看待通用人工智能
 
 Added the source note and connected Goethe's broom, Homunculus, and Faust's land-reclamation project to control and corrigibility, artificial-life generation, and the boundary between technical execution and worthy human goals.
@@ -39558,6 +39559,16 @@ Core synthesis: relationship labels conceal different purposes; ally, pal, and c
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | 695. Can the U.S. Close Its Fertility Gap?
+
+Added the [[FreakonomicsRadio]] episode with [[MelissaKearney]], [[LymanStone]], and [[NickBloom]]; created [[FertilityGap]], [[HousingAccessFamilyFormation]], and [[IntensiveParentingFertilityConstraint]]; and resynthesized [[WorkFromHomeEvidence]] and [[FertilitySubsidyLimits]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the welfare question is whether people can realize their own family goals; cash may reduce burden or produce some births without closing the gap; and work flexibility, attainable housing, relationship timing, and parenting norms can constrain family formation through different mechanisms.
+
+No settled contradiction was adopted. The speakers disagree over the size and cost-effectiveness of financial-policy effects, remote-work findings conflict across study populations, and desired-family-size surveys, cohort projections, mental-health associations, smartphone effects, and historical mortgage estimates remain episode-attributed because the supplied file is a structured summary rather than the underlying studies. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,953 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-15] lint | Wiki health check
 

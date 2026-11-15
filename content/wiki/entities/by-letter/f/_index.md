@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14115
+wiki_total_pages: 14118
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -749,6 +749,9 @@ wiki_pages:
   - key: "FrauEva"
     title: "Frau Eva / 夏娃夫人"
     url: "/wiki/entities/fraueva/"
+  - key: "FreakonomicsRadio"
+    title: "Freakonomics Radio"
+    url: "/wiki/entities/freakonomicsradio/"
   - key: "FredJordan"
     title: "Fred Jordan"
     url: "/wiki/entities/fredjordan/"

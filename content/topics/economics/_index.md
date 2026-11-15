@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2403
+topic_total_pages: 2404
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4331,6 +4331,9 @@ topic_entities:
   - key: "FrancescoDelGiocondo"
     title: "Francesco del Giocondo"
     url: "/wiki/entities/francescodelgiocondo/"
+  - key: "FreakonomicsRadio"
+    title: "Freakonomics Radio"
+    url: "/wiki/entities/freakonomicsradio/"
   - key: "FredJordan"
     title: "Fred Jordan"
     url: "/wiki/entities/fredjordan/"

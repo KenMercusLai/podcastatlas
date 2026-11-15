@@ -40903,6 +40903,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FreakonomicsRadio": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FredJordan": [
     {
       "key": "technology",

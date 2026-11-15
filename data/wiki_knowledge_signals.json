@@ -105702,10 +105702,26 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/fertilityenergyavailability/"
     },
+    "FertilityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/fertilitygap/"
+    },
     "FertilitySubsidyLimits": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽” [loWze7hAOmxBmQRrajpL51DVvXe7].md",
@@ -105720,9 +105736,16 @@
           "show": "罗永浩的十字路口",
           "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
           "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/fertilitysubsidylimits/"
     },
     "FertilizerSupplyChainShock": {
@@ -112003,6 +112026,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/fraternitypartysexualviolencerisk/"
+    },
+    "FreakonomicsRadio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/freakonomicsradio/"
     },
     "FredJordan": {
       "episode_count": 1,
@@ -141385,6 +141424,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/householdwaterqualityfiltration/"
     },
+    "HousingAccessFamilyFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/housingaccessfamilyformation/"
+    },
     "HousingLeverageRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -152904,6 +152959,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/intensivecareastimebuying/"
+    },
+    "IntensiveParentingFertilityConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/intensiveparentingfertilityconstraint/"
     },
     "IntentionalLivingAgency": {
       "episode_count": 3,
@@ -191911,6 +191982,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/lythuongkiet/"
     },
+    "LymanStone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/lymanstone/"
+    },
     "LymphaticFlowSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -201341,6 +201428,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/melissailardo/"
+    },
+    "MelissaKearney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/melissakearney/"
     },
     "MelitaCyril": {
       "episode_count": 1,
@@ -217048,6 +217151,29 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/entities/nicholaspelham/"
+    },
+    "NickBloom": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_36ada388f5b671301673fec9862c9545_33212857 [default.mp3_ywr3ahjkcgo_36ada388f5b671301673fec9862c9545_33212857].md",
+          "key": "would-you-trust-an-economist-with-your-economy",
+          "show": "Planet Money",
+          "title": "Would you trust an economist with your economy?",
+          "url": "/wiki/sources/would-you-trust-an-economist-with-your-economy/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/nickbloom/"
     },
     "NickCullinan": {
       "episode_count": 1,
@@ -321478,6 +321604,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/woodrowwilson/"
+    },
+    "WorkFromHomeEvidence": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_36ada388f5b671301673fec9862c9545_33212857 [default.mp3_ywr3ahjkcgo_36ada388f5b671301673fec9862c9545_33212857].md",
+          "key": "would-you-trust-an-economist-with-your-economy",
+          "show": "Planet Money",
+          "title": "Would you trust an economist with your economy?",
+          "url": "/wiki/sources/would-you-trust-an-economist-with-your-economy/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+          "key": "default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813",
+          "show": "Freakonomics Radio",
+          "title": "695. Can the U.S. Close Its Fertility Gap?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/workfromhomeevidence/"
     },
     "WorkRelatedSuicideRecognition": {
       "episode_count": 1,
