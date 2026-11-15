@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14155
+wiki_total_pages: 14158
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "WuZhangWesternHan"
     title: "Wu Zhang (Western Han) / 吴章"
     url: "/wiki/entities/wuzhangwesternhan/"
+  - key: "WuTangClan"
+    title: "Wu-Tang Clan"
+    url: "/wiki/entities/wutangclan/"
   - key: "WudangMountain"
     title: "Wudang Mountain / 武当山"
     url: "/wiki/entities/wudangmountain/"

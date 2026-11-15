@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11264
+wiki_total_pages: 11266
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "PerioperativePainControl"
     title: "Perioperative Pain Control / 围手术期疼痛控制"
     url: "/wiki/concepts/perioperativepaincontrol/"
+  - key: "PeripheralCreativeIsolation"
+    title: "Peripheral Creative Isolation"
+    url: "/wiki/concepts/peripheralcreativeisolation/"
   - key: "PeripheralInnovationField"
     title: "Peripheral Innovation Field / 边域式创新场域"
     url: "/wiki/concepts/peripheralinnovationfield/"

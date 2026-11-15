@@ -34883,6 +34883,10 @@
     "title": "Federated AI Organization",
     "url": "/wiki/concepts/federatedaiorganization/"
   },
+  "FederatedCreativeAutonomy": {
+    "title": "Federated Creative Autonomy",
+    "url": "/wiki/concepts/federatedcreativeautonomy/"
+  },
   "FederatedMedicalDataSharing": {
     "title": "Federated Medical Data Sharing",
     "url": "/wiki/concepts/federatedmedicaldatasharing/"
@@ -71843,6 +71847,10 @@
     "title": "外镇避祸式生存 / Peripheral Command Exit Strategy",
     "url": "/wiki/concepts/peripheralcommandexitstrategy/"
   },
+  "PeripheralCreativeIsolation": {
+    "title": "Peripheral Creative Isolation",
+    "url": "/wiki/concepts/peripheralcreativeisolation/"
+  },
   "PeripheralInnovationField": {
     "title": "Peripheral Innovation Field / 边域式创新场域",
     "url": "/wiki/concepts/peripheralinnovationfield/"
@@ -77462,6 +77470,10 @@
   "RWKV": {
     "title": "RWKV",
     "url": "/wiki/entities/rwkv/"
+  },
+  "RZA": {
+    "title": "RZA",
+    "url": "/wiki/entities/rza/"
   },
   "RabiesExposurePostExposureCare": {
     "title": "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置",
@@ -85538,6 +85550,10 @@
   "SkippingPlyometricProgression": {
     "title": "Skipping Plyometric Progression",
     "url": "/wiki/concepts/skippingplyometricprogression/"
+  },
+  "SkizFernando": {
+    "title": "Skiz Fernando",
+    "url": "/wiki/entities/skizfernando/"
   },
   "SkyGunasekaran": {
     "title": "Sky Gunasekaran",
@@ -100063,6 +100079,10 @@
     "title": "吴国 / Wu State",
     "url": "/wiki/entities/wustate/"
   },
+  "WuTangClan": {
+    "title": "Wu-Tang Clan",
+    "url": "/wiki/entities/wutangclan/"
+  },
   "WuTao": {
     "title": "吴涛",
     "url": "/wiki/entities/wutao/"
@@ -113542,6 +113562,10 @@
   "the-sneaky-way-companies-get-new-chemicals-into-our-food": {
     "title": "The sneaky way companies get new chemicals into our food",
     "url": "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
+  },
+  "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin": {
+    "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+    "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
   },
   "the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f": {
     "title": "The Staten Island Problem - Part 5: Revenge of the Forgotten Borough",

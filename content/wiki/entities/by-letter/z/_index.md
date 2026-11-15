@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14155
+wiki_total_pages: 14158
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"

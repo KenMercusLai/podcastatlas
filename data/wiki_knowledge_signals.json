@@ -104315,6 +104315,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/federalistparty/"
     },
+    "FederatedCreativeAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/federatedcreativeautonomy/"
+    },
     "FedericaFornaciari": {
       "episode_count": 1,
       "show_count": 1,
@@ -195404,9 +195420,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -195449,6 +195465,13 @@
           "show": "Revisionist History",
           "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
           "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
         }
       ],
       "updated": "2026-11-15",
@@ -233319,6 +233342,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/peripheralcommandexitstrategy/"
     },
+    "PeripheralCreativeIsolation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/peripheralcreativeisolation/"
+    },
     "PeripheralInnovationField": {
       "episode_count": 1,
       "show_count": 1,
@@ -233336,9 +233375,9 @@
       "url": "/wiki/concepts/peripheralinnovationfield/"
     },
     "PeripheralPlaceResentment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -233346,6 +233385,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 5: Revenge of the Forgotten Borough",
           "url": "/wiki/sources/the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
         }
       ],
       "updated": "2026-11-15",
@@ -251076,6 +251122,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/rulerframework/"
     },
+    "RZA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/rza/"
+    },
     "RabiesExposurePostExposureCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -257758,9 +257820,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -257803,6 +257865,13 @@
           "show": "Revisionist History",
           "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
           "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
         }
       ],
       "updated": "2026-11-15",
@@ -277821,6 +277890,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/skippingplyometricprogression/"
     },
+    "SkizFernando": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/skizfernando/"
+    },
     "SkyGunasekaran": {
       "episode_count": 1,
       "show_count": 1,
@@ -285228,9 +285313,9 @@
       "url": "/wiki/concepts/statelessexile/"
     },
     "StatenIsland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -285245,15 +285330,22 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 5: Revenge of the Forgotten Borough",
           "url": "/wiki/sources/the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
         }
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/statenisland/"
     },
     "StatenIslandSecession1993": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -285261,6 +285353,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 5: Revenge of the Forgotten Borough",
           "url": "/wiki/sources/the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
         }
       ],
       "updated": "2026-11-15",
@@ -324209,6 +324308,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/wushuwanmagistratelatehan/"
+    },
+    "WuTangClan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin [The_Staten_Island_Problem_-_Part_4_Wu-Tang_vs_Shaolin].md",
+          "key": "the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin",
+          "url": "/wiki/sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/wutangclan/"
     },
     "WuYangYueMarquis": {
       "episode_count": 1,

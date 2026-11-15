@@ -39673,3 +39673,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin
+
+Added the [[RevisionistHistory]] episode connecting [[WuTangClan|Wu-Tang Clan]], [[RZA]], and [[StatenIsland|Staten Island's]] racial and cultural geography to [[PeripheralCreativeIsolation]] and [[FederatedCreativeAutonomy]]. Created bounded profiles for Wu-Tang, RZA, and [[SkizFernando]]; and resynthesized Staten Island, [[StatenIslandSecession1993|the 1993 secession referendum]], [[PeripheralPlaceResentment]], [[MalcolmGladwell]], and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: geographic isolation can give a group room to develop a distinctive repertoire, but the episode does not make segregation, violence, or neglect creative necessities; Wu-Tang's shared brand and production layer preserved member-level styles and solo contracting; and the group's rise is a comparison with political secession, not evidence that RZA followed or was influenced by the campaign. The source also qualifies any unified “forgotten borough” story because Black North Shore residents faced racial exclusion and the local NAACP worried about secession's effects. No settled factual contradiction was adopted. Release timing, sales, biography, contract terms, and industry outcomes remain episode-attributed because the supplied file is a structured summary rather than the underlying records, agreements, interviews, or transcript. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,965 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

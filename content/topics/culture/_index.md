@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3653
+topic_total_pages: 3654
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2626,6 +2626,9 @@ topic_concepts:
   - key: "PerformerHealthAsCareerInfrastructure"
     title: "Performer Health as Career Infrastructure / 表演者健康作为职业基础设施"
     url: "/wiki/concepts/performerhealthascareerinfrastructure/"
+  - key: "PeripheralCreativeIsolation"
+    title: "Peripheral Creative Isolation"
+    url: "/wiki/concepts/peripheralcreativeisolation/"
   - key: "PerpetratorHumanizationResponsibilityBoundary"
     title: "Perpetrator Humanization–Responsibility Boundary / 加害者人性化与责任边界"
     url: "/wiki/concepts/perpetratorhumanizationresponsibilityboundary/"

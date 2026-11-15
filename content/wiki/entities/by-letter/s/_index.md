@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14155
+wiki_total_pages: 14158
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "Skims"
     title: "Skims"
     url: "/wiki/entities/skims/"
+  - key: "SkizFernando"
+    title: "Skiz Fernando"
+    url: "/wiki/entities/skizfernando/"
   - key: "SkyGunasekaran"
     title: "Sky Gunasekaran"
     url: "/wiki/entities/skygunasekaran/"
