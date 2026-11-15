@@ -943,8 +943,8 @@
       "earliest_episode_date": "2023-09-07",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 46,
-      "topic_matched_source_note_count": 16,
+      "source_note_count": 47,
+      "topic_matched_source_note_count": 17,
       "topics": [
         {
           "key": "politics",
@@ -953,15 +953,15 @@
           "source_note_count": 10
         },
         {
-          "key": "history",
-          "label": "History",
-          "url": "/topics/history/",
-          "source_note_count": 3
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 4
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
           "source_note_count": 3
         },
         {
@@ -1031,8 +1031,8 @@
       ],
       "start_here_episode_files": [
         "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-        "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
         "Revisited_Ms_Buchanan_s_Period_of_Adjustment [Revisited_Ms_Buchanan_s_Period_of_Adjustment].md",
+        "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
         "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md"
       ]
     },

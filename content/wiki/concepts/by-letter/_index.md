@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11317
+wiki_total_pages: 11320
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2213,6 +2213,9 @@ wiki_pages:
   - key: "AmericanSportsCapitalInEuropeanFootball"
     title: "American Sports Capital In European Football"
     url: "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  - key: "AmericanaMusic"
+    title: "Americana Music"
+    url: "/wiki/concepts/americanamusic/"
   - key: "Americanization"
     title: "Americanization"
     url: "/wiki/concepts/americanization/"
@@ -2312,6 +2315,9 @@ wiki_pages:
   - key: "AngelicKnowledgeMediation"
     title: "Angelic Knowledge Mediation"
     url: "/wiki/concepts/angelicknowledgemediation/"
+  - key: "AngerAsMoralSignal"
+    title: "Anger as Moral Signal"
+    url: "/wiki/concepts/angerasmoralsignal/"
   - key: "AngerDrivenWarDecision"
     title: "Anger-Driven War Decision / 因怒兴师"
     url: "/wiki/concepts/angerdrivenwardecision/"

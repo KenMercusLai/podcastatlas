@@ -16702,6 +16702,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/americanrightbritainwarningnarrative/"
     },
+    "AmericanaMusic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell [Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell.md",
+          "key": "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+          "url": "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/americanamusic/"
+    },
     "Americanization": {
       "episode_count": 1,
       "show_count": 1,
@@ -19018,6 +19034,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/angelicknowledgemediation/"
+    },
+    "AngerAsMoralSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell [Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell.md",
+          "key": "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+          "url": "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/angerasmoralsignal/"
     },
     "AngerDrivenWarDecision": {
       "episode_count": 5,
@@ -84080,6 +84112,22 @@
       ],
       "updated": "2026-11-09",
       "url": "/wiki/entities/drewhaven/"
+    },
+    "DrewHolcomb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell [Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell.md",
+          "key": "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+          "url": "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/drewholcomb/"
     },
     "DrewTaggart": {
       "episode_count": 1,
@@ -153785,6 +153833,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/inheritedenmityrevision/"
+    },
+    "InheritedFaithReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell [Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell.md",
+          "key": "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+          "url": "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/inheritedfaithreconstruction/"
     },
     "InheritedHistoricalGuilt": {
       "episode_count": 1,
@@ -284272,9 +284336,9 @@
       "url": "/wiki/entities/songtsam/"
     },
     "SongwritingEmotionalProcessing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5781731754 [GLT5781731754].md",
@@ -284282,9 +284346,16 @@
           "show": "The Rest Is History",
           "title": "670. Tom Holland Meets Paul McCartney",
           "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        },
+        {
+          "episode_file": "Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell [Americana_Music_Live_with_Drew_Holcomb_and_Malcolm_Gladwell.md",
+          "key": "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+          "url": "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/songwritingemotionalprocessing/"
     },
     "SonnyLoughran": {

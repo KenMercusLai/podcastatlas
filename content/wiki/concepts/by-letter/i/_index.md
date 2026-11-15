@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11317
+wiki_total_pages: 11320
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "InheritedEnmityRevision"
     title: "Inherited Enmity Revision / 继承仇恨的修正"
     url: "/wiki/concepts/inheritedenmityrevision/"
+  - key: "InheritedFaithReconstruction"
+    title: "Inherited Faith Reconstruction"
+    url: "/wiki/concepts/inheritedfaithreconstruction/"
   - key: "InheritedHistoricalGuilt"
     title: "Inherited Historical Guilt / 继承性历史罪责"
     url: "/wiki/concepts/inheritedhistoricalguilt/"

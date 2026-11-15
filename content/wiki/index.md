@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Americana Music Live with Drew Holcomb and Malcolm Gladwell](sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell.md) — Live Revisionist History conversation and performances connecting Americana, songwriting, grief, inherited faith, anger, influence, and communal music.
 - [The Alabama Murders](sources/the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour.md) — Revisionist History previews a seven-part Alabama murder investigation through the power-grid analogy of a moral failure cascade and the question of systems compounding suffering.
 - [The Alabama Murders - Part 1: The True Church](sources/the-alabama-murders-part-1-the-true-church.md) — Revisionist History opens the series through the Shoals Church of Christ, Charles Sennett's concealed collapse, religious shame and grace, and a human failure cascade.
 - [The Alabama Murders - Part 2: Coon Dog Cemetery Road](sources/the-alabama-murders-part-2-coon-dog-cemetery-road.md) — Revisionist History reconstructs the planned Sennett assault, investigator suspicion of Charles, and the false closure of a crime whose consequences continued for decades.
@@ -5126,6 +5127,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Drew Holcomb](entities/DrewHolcomb.md) — Americana singer-songwriter connecting musical formation with grief, inherited faith, anger, influence, and communal performance.
 - [Charles Sennett](entities/CharlesSennett.md) — Minister suspected of arranging his wife's assault and later advanced by the series as the possible fatal assailant.
 - [Church of Christ](entities/ChurchOfChrist.md) — Christian tradition presented through its Shoals community, simple worship, biblical seriousness, belonging, discipline, and fear of exclusion.
 - [Lee Camp](entities/LeeCamp.md) — Theologian whose insider account joins Church of Christ formation and belonging to criticism of certainty, exclusion, shame, and weak practical grace.
@@ -19472,6 +19474,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Americana Music](concepts/AmericanaMusic.md) — Flexible genre and institutional home for roots-oriented musicians outside narrow commercial-radio categories.
+- [Anger as Moral Signal](concepts/AngerAsMoralSignal.md) — Practice of treating anger as information to investigate rather than as either proof or inherently bad emotion.
+- [Inherited Faith Reconstruction](concepts/InheritedFaithReconstruction.md) — Revision of received religious identity that separates doctrine, culture, institution, community, and personal practice.
 - [True-Crime Resolution False Closure](concepts/TrueCrimeResolutionFalseClosure.md) — Narrative error of treating a solved crime as restored order while family and institutional harms continue.
 - [Human Failure Cascade](concepts/HumanFailureCascade.md) — Sequence in which personal, institutional, justice, and compassion failures amplify one another without making later harm inevitable.
 - [Religious Shame–Grace Gap](concepts/ReligiousShameGraceGap.md) — Strong discipline without an equally credible route to confession, forgiveness, continued belonging, and repair.

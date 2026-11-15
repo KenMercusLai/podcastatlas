@@ -40035,3 +40035,13 @@ Core synthesis: the trailer borrows the 2003 northeastern blackout to describe a
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Americana Music Live with Drew Holcomb and Malcolm Gladwell
+
+Added the live [[RevisionistHistory]] conversation and performances centered on [[DrewHolcomb]]. Created Holcomb's bounded profile and the concepts [[AmericanaMusic]], [[AngerAsMoralSignal]], and [[InheritedFaithReconstruction]]; resynthesized [[SongwritingEmotionalProcessing]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Americana functions in Holcomb's account as an institutional home as well as a genre, allowing mixed roots traditions and varied musical forms outside narrow commercial-radio categories. Songwriting then joins craft to emotional work: bereavement, oral history, solitude, imitation, influence, anger, inherited faith, and live performance can give difficult experience a form without proving a single creative cause or therapeutic effect. Holcomb's religious “third way” retains selected Christian commitments and gratitude for genuine community love while rejecting parts of American evangelical culture; his anger framework treats the emotion as a cue for inquiry rather than proof or uncontrolled rage. No settled contradiction was adopted. Biographical details, family motives, city and genre characterizations, religious development, song meanings, emotional effects, and creative causation remain source-scoped because the supplied file is a structured summary rather than a transcript, archive, independent biography, genre history, theological account, or clinical study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 5,003 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
