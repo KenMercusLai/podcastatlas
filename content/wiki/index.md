@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville](sources/hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville.md) — Revisionist History traces Heinrich Krieger's study of U.S. racial law, Nazi legal borrowing, Jim Crow discretion, and the two-way racial encounter around Berlin 1936.
 - [Hitler’s Olympics, Part 9: A Plague on Both Your Houses](sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses.md) — Revisionist History compares Jim Crow-era Los Angeles 1932 with Nazi Berlin 1936 through Scottsboro, boycott ethics, commercial spectacle, institutional continuity, and athletic value.
 - [The Tipping Point Revisited: An Excerpt](sources/the-tipping-point-revisited-an-excerpt.md) — Revisionist History excerpt connecting Los Angeles bank-robbery organization, medical-practice geography, and Waldorf vaccination clusters to bounded social contagion and small-area variation.
 - [The Tipping Point Revisited: Georgetown Massacre Part 1](sources/the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1.md) — Revisionist History episode on the Khoury prosecution, Donovan's intermediary account, Brenda Smith's fundraising emails, and the boundary between bribery and institutionally accepted financial influence.
@@ -5168,6 +5169,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [Heinrich Krieger](entities/HeinrichKrieger.md) — Nazi legal researcher who systematized American racial law for German policy deliberation.
+- [Lisa Lindquist Dorr](entities/LisaLindquistDorr.md) — Historian whose Virginia case research illuminates Jim Crow's variable enforcement.
+- [Jonathan Wiesen](entities/JonathanWiesen.md) — Historian interpreting Krieger's admiration for American racial ordering and criticism of its disorder.
 - [Scottsboro Boys](entities/ScottsboroBoys.md) — Nine Black defendants whose prosecution exposed Jim Crow legal structure and unequal Olympic moral scrutiny.
 - [Billy Garland](entities/BillyGarland.md) — Los Angeles promoter whose commercially successful 1932 Games became both an institutional lifeline and a spectacle model.
 - [John Wennberg](entities/JohnWennberg.md) — Physician-researcher whose mapped treatment variation anchors the episode's account of local medical norms.
@@ -19620,6 +19624,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Transnational Racial-Law Borrowing](concepts/TransnationalRacialLawBorrowing.md) — Selective adaptation of foreign discriminatory laws, classifications, practices, and legitimacy strategies.
+- [Discretionary Racial Domination](concepts/DiscretionaryRacialDomination.md) — Hierarchical control sustained through variable enforcement, exceptions, informal judgment, and selective leniency.
 - [Sports Boycott Ethics](concepts/SportsBoycottEthics.md) — Conditional framework for withheld legitimacy, protest reach, systemic action, athlete cost, and institutional continuity.
 - [Bounded Social Contagion](concepts/BoundedSocialContagion.md) — Framework connecting influential actors, organizational replication, local opportunity, group norms, and limits on diffusion.
 - [Small-Area Variation](concepts/SmallAreaVariation.md) — Persistent local differences in practice or belief that underlying need alone does not fully explain.

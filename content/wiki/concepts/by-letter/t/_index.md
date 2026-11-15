@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11398
+wiki_total_pages: 11400
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "TranslationPublishingWorkflow"
     title: "Translation Publishing Workflow"
     url: "/wiki/concepts/translationpublishingworkflow/"
+  - key: "TransnationalRacialLawBorrowing"
+    title: "Transnational Racial-Law Borrowing"
+    url: "/wiki/concepts/transnationalraciallawborrowing/"
   - key: "TransparentAIUse"
     title: "Transparent AI Use"
     url: "/wiki/concepts/transparentaiuse/"

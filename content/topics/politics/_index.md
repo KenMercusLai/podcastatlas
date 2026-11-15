@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3546
+topic_total_pages: 3547
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1315,6 +1315,9 @@ topic_concepts:
   - key: "DiscretionaryInsurancePayment"
     title: "Discretionary Insurance Payment"
     url: "/wiki/concepts/discretionaryinsurancepayment/"
+  - key: "DiscretionaryRacialDomination"
+    title: "Discretionary Racial Domination"
+    url: "/wiki/concepts/discretionaryracialdomination/"
   - key: "DispersedBusinessElitePower"
     title: "Dispersed Business-Elite Power"
     url: "/wiki/concepts/dispersedbusinesselitepower/"

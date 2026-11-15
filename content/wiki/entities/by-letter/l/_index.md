@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14358
+wiki_total_pages: 14361
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "LisaKSolomon"
     title: "Lisa K. Solomon"
     url: "/wiki/entities/lisaksolomon/"
+  - key: "LisaLindquistDorr"
+    title: "Lisa Lindquist Dorr"
+    url: "/wiki/entities/lisalindquistdorr/"
   - key: "LisaMosconi"
     title: "Lisa Mosconi"
     url: "/wiki/entities/lisamosconi/"

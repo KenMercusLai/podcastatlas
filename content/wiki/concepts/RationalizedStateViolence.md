@@ -8,7 +8,8 @@ sources:
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
   - 407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144
   - 30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm
-last_updated: 2026-10-08
+  - hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,10 +31,14 @@ The Eastern forced-labor source extends the model through racial categories, cam
 
 Formal cross-departmental coordination at [[WannseeConference|Wannsee]] joined diplomacy, policing, law, occupied-territory administration, railway capacity, labor, property, and killing systems as interoperable parts of genocide. The meeting did not create Nazi racial ideology or begin mass murder, but it helped convert direction and existing violence into an organized implementation chain.
 
+The American-law case adds a transnational input into rationalization. [[HeinrichKrieger]] catalogued segregation, marriage restrictions, competing racial definitions, court practice, reputation, appearance, and discretion for German officials seeking enforceable categories. The attraction did not require copying a coherent system: foreign variation could supply techniques, while the United States' continued prestige suggested that legal racial subordination could coexist with international legitimacy.
+
+[[LisaLindquistDorr]]'s Virginia cases add a qualification to any equation of rationalization with uniformity. A hierarchy can remain durable through variable punishment, acquittal, pardon, extralegal violence, and selective leniency. Centralized rules and local discretion are alternative or combined ways of operationalizing domination.
+
 ## Key Claims
 
-- Administratively usable categories can be powerful even when their alleged science is false.
-- Law can stabilize and deepen coercion rather than restrain it.
+- Administratively usable categories can be borrowed, recombined, and enforced even when their alleged science is false.
+- Law and discretionary judgment can stabilize and deepen coercion rather than restrain it.
 - Records, genealogy, professional specialization, and logistics extend violence across daily life and territory.
 - Direct violence and bureaucratic organization reinforce rather than exclude one another.
 - Selective nonintervention can be an operational state action.
@@ -47,16 +52,18 @@ Formal cross-departmental coordination at [[WannseeConference|Wannsee]] joined d
 - Annexation administration: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects legal absorption, police records, mass detention, institutional takeover, resource seizure, and centralized forced emigration.
 - Forced-labor organization: [[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] connects Eastern-worker categories, camps, factories, racial hierarchy, transport, and postwar fear.
 - Cross-departmental genocide: [[30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm]] connects Wannsee to ministerial jurisdiction, diplomacy, policing, transport, property, labor, and killing operations.
+- Transnational legal repertoire: [[hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville]] connects Krieger's American research to German use of anti-miscegenation law, variable classification, reputation evidence, and judicial discretion.
+- Flexible enforcement: [[hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville]] uses Virginia case variation to show that hierarchical control need not produce uniform outcomes.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that modernity, meetings, law, bureaucracy, statistics, or expertise necessarily produce violence. It should not make physical cruelty abstract: victims experienced dispossession, humiliation, exclusion, forced labor, beating, detention, family separation, and death. Comparing organizational mechanisms must preserve ideological differences, victim experience, and unequal responsibility. The Austrian source's detention and resource figures and the Wannsee source's exact command, participant, chronology, and implementation claims remain source-scoped.
+The concept does not claim that modernity, meetings, law, bureaucracy, statistics, expertise, or discretion necessarily produce violence. It should not make physical cruelty abstract: victims experienced dispossession, humiliation, exclusion, forced labor, beating, detention, family separation, and death. Comparing organizational mechanisms must preserve ideological differences, victim experience, and unequal responsibility. American influence on German debate does not establish sole causation or equivalence, while variation in Jim Crow outcomes does not make the hierarchy fair. The Austrian source's detention and resource figures, the Wannsee source's exact command and implementation claims, and the American case totals and influence claims remain source-scoped.
 
 ## What Changed
 
-- Added formal cross-departmental coordination as a mechanism joining specialized state capacities into genocidal implementation.
-- Distinguished the meeting's coordinating role from the earlier ideology, persecution, shootings, and killing experiments it did not originate.
-- Added paperwork and logistics as responsibility-bearing action rather than morally neutral distance from direct killing.
+- Added selective foreign legal borrowing as an input into administrative coercion.
+- Distinguished rationalization through uniform central rules from domination sustained through discretionary variation.
+- Added international prestige as evidence that oppressive legal systems may be treated as usable models.
 
 ## Related Concepts
 
@@ -69,3 +76,5 @@ The concept does not claim that modernity, meetings, law, bureaucracy, statistic
 - [[Anschluss]] - case joining military coercion to legal absorption and administrative scaling.
 - [[WannseeConference]] - case of formal coordination across institutions participating in genocide.
 - [[MeetingAsInstitutionalConversion]] - broader mechanism by which authority, records, and implementation channels give meetings durable force.
+- [[TransnationalRacialLawBorrowing]] - process through which discriminatory legal techniques move across jurisdictions.
+- [[DiscretionaryRacialDomination]] - mechanism showing how variable enforcement can preserve hierarchy.

@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville
+
+Added the [[RevisionistHistory]] episode tracing [[HeinrichKrieger]] from Arkansas and Library of Congress research into German legal deliberations over racial exclusion. Created Heinrich Krieger, [[LisaLindquistDorr]], [[JonathanWiesen]], [[TransnationalRacialLawBorrowing]], and [[DiscretionaryRacialDomination]], then resynthesized [[JesseOwens]], the [[NurembergLaws]], and [[RationalizedStateViolence]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: American racial law supplied Nazi jurists with examples, vocabulary, classification techniques, discretion, and a reputational lesson, but the episode does not establish sole causation, complete copying, or equivalence between Jim Crow and Nazi rule. Dorr's reported Virginia cases show that inconsistent punishment and selective leniency can preserve hierarchy rather than disprove it. Krieger's objection to lynching reflected a preference for orderly state coercion, not opposition to racist violence. No settled contradiction was adopted. Case totals, athlete recollections, dialogue, motives, legal influence, and conference dynamics remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival legal study, or underlying court dataset. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,045 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Hitler’s Olympics, Part 9: A Plague on Both Your Houses
 
 Added the Revisionist History finale comparing Los Angeles 1932 under Jim Crow with Berlin 1936 under Nazi rule through the [[ScottsboroBoys]], [[BillyGarland]], [[SportsBoycottEthics]], institutional continuity, and the independent value of athletic performance. Created the Scottsboro Boys and Billy Garland profiles and the boycott-ethics framework, then resynthesized the Modern Olympic Games, [[AveryBrundage]], [[SydneyMcLaughlin]], and [[OlympicHostCityLegacy]] from their complete preserved evidence inventories before appending the new source once.
@@ -40204,6 +40212,7 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-11-16] ingest | Did I Really Do That?
 
 Added the [[HiddenBrain]] episode in which [[SaulKassin]] explains voluntary, compliant, and internalized false confessions, the situational pressures that can produce them, and the unusual power of confession evidence over jurors and investigators. Established [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]], updated Hidden Brain from its complete four-source inventory, and migrated [[StanleyMilgram]] from its complete two-source inventory to the synthesis-first contract while adding the qualified interrogation-pressure comparison.
@@ -40496,6 +40505,10 @@ Added the [[RevisionistHistory]] excerpt connecting Los Angeles's bank-robbery s
 Core synthesis: exceptional actors and favorable opportunity can accelerate a social outbreak, but exposure alone does not explain diffusion; local professional, institutional, and community boundaries shape where practices scale and where they stop. No settled contradiction was adopted. Robbery totals, post-arrest trends, treatment rates, vaccination percentages, dialogue, and cross-domain causality remain source-scoped because the supplied file is a structured summary rather than the transcript, crime data, court records, medical studies, or school datasets. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,043 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

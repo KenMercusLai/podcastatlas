@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11398
+wiki_total_pages: 11400
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "DiscretionaryInsurancePayment"
     title: "Discretionary Insurance Payment"
     url: "/wiki/concepts/discretionaryinsurancepayment/"
+  - key: "DiscretionaryRacialDomination"
+    title: "Discretionary Racial Domination"
+    url: "/wiki/concepts/discretionaryracialdomination/"
   - key: "DisneyRenaissance"
     title: "Disney Renaissance"
     url: "/wiki/concepts/disneyrenaissance/"
