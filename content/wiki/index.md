@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Zootopia Exposed! (Part One)](sources/zootopia-exposed-part-one-zootopia-exposed-part-one.md) — Revisionist History reconstructs Gary Goldman's failed Zootopia claim and asks why Zootopia 2 appears to echo it through Gary De'Snake and a stolen-invention plot.
 - [Zootopia Exposed! (Part Two)](sources/zootopia-exposed-part-two-zootopia-exposed-part-two.md) — Revisionist History reads Zootopia 2 as possible symbolic acknowledgment of Gary Goldman and connects its restoration plot to the Bush family's resistance to exclusion.
 - [Behind the Scenes with Andrew Jarecki](sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki.md) — Revisionist History on The Alabama Solution, incarcerated phone evidence and collaboration, prison deaths, forced labor, parole, disclosure ethics, and continuing retaliation risk.
 - [The Sony Hack | The Mistakes Series](sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series.md) — Revisionist History on the 2014 Sony Pictures hack, an exceptional film approval, schema-driven process failure, and a physical-to-cyber threat-model gap.
@@ -5108,6 +5109,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Angus Fletcher](entities/AngusFletcher.md) — Narrative scholar and Gary Goldman advocate who frames Zootopia 2 as a possible allegory of Goldman's authorship dispute.
 - [Gary Goldman](entities/GaryGoldman.md) — Filmmaker whose unsuccessful Zootopia appropriation claim is interpreted as the real-world referent for Gary De'Snake's grievance.
 - [Jared Bush](entities/JaredBush.md) — Disney screenwriter interpreted through Zootopia 2's restoration themes and his family's history of challenging exclusion.
 - [Lester Bush Jr.](entities/LesterBushJr.md) — Physician-historian whose archival work reframed the Mormon priesthood ban as historically contingent policy.
@@ -19409,6 +19411,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Copyright Idea–Expression Boundary](concepts/CopyrightIdeaExpressionBoundary.md) — Distinction between unprotectable creative ideas and copyright-protected expression, applied to Gary Goldman's failed Zootopia claim.
 - [Symbolic Creative Restitution](concepts/SymbolicCreativeRestitution.md) — Artistic acknowledgment that can restore dignity or meaning without changing legal rights, credit, compensation, or liability.
 - [Historical Research as Institutional Reform](concepts/HistoricalResearchAsInstitutionalReform.md) — Archival reframing that shows an exclusionary rule was contingent and creates justificatory room for institutional change.
 - [Incarcerated Collaborative Documentary Authorship](concepts/IncarceratedCollaborativeDocumentaryAuthorship.md) — Production relationship in which imprisoned participants create evidence, shape representation, and remain exposed to post-release retaliation.

@@ -19254,6 +19254,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/angloukrainianrelations/"
     },
+    "AngusFletcher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
+          "key": "zootopia-exposed-part-one-zootopia-exposed-part-one",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part One)",
+          "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/angusfletcher/"
+    },
     "AnhuiXiaoMujiang": {
       "episode_count": 2,
       "show_count": 1,
@@ -64300,6 +64316,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/coordinationtax/"
+    },
+    "CopyrightIdeaExpressionBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
+          "key": "zootopia-exposed-part-one-zootopia-exposed-part-one",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part One)",
+          "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/copyrightideaexpressionboundary/"
     },
     "CordeliersClub": {
       "episode_count": 1,
@@ -118308,9 +118340,9 @@
       "url": "/wiki/entities/garrettboone/"
     },
     "GaryGoldman": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
@@ -118318,6 +118350,13 @@
           "show": "Revisionist History",
           "title": "Zootopia Exposed! (Part Two)",
           "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        },
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
+          "key": "zootopia-exposed-part-one-zootopia-exposed-part-one",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part One)",
+          "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -293635,9 +293674,9 @@
       "url": "/wiki/concepts/symbolicauthorityexile/"
     },
     "SymbolicCreativeRestitution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
@@ -293645,6 +293684,13 @@
           "show": "Revisionist History",
           "title": "Zootopia Exposed! (Part Two)",
           "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        },
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
+          "key": "zootopia-exposed-part-one-zootopia-exposed-part-one",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part One)",
+          "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -347624,9 +347670,9 @@
       "url": "/wiki/entities/zongzilatehan/"
     },
     "Zootopia2Film": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "llTxpvjI9ZEeWoYGycdyvRnJbN4c [llTxpvjI9ZEeWoYGycdyvRnJbN4c].md",
@@ -347641,6 +347687,13 @@
           "show": "Revisionist History",
           "title": "Zootopia Exposed! (Part Two)",
           "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        },
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
+          "key": "zootopia-exposed-part-one-zootopia-exposed-part-one",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part One)",
+          "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
         }
       ],
       "updated": "2026-11-15",
