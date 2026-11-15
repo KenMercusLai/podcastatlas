@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11347
+wiki_total_pages: 11349
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1889,6 +1889,9 @@ wiki_pages:
   - key: "PredeterminedMeetingProcess"
     title: "Predetermined Meeting Process / 既定结果会议程序"
     url: "/wiki/concepts/predeterminedmeetingprocess/"
+  - key: "PredictableNarrativeTradeoff"
+    title: "Predictable Narrative Tradeoff"
+    url: "/wiki/concepts/predictablenarrativetradeoff/"
   - key: "PredictionMarketEthics"
     title: "Prediction Market Ethics"
     url: "/wiki/concepts/predictionmarketethics/"

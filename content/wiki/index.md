@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [In Defense of PAW Patrol](sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol.md) — Revisionist History weighs predictable rescue as emotional scaffolding against lost imaginative exercise, then defends dependable collective service as a civic aspiration.
 - [Running Hot](sources/running-hot.md) — Revisionist History connects ambulance crash risk, modest time savings, dispatch reform, siren noise, alarm fatigue, and inherited urgency norms to selective lights-and-sirens use.
 - [Relationships 2.0: Why Did You Do That?](sources/default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568.md) — Hidden Brain connects intention-sensitive moral judgment and group-biased motive attribution to forgiveness that preserves boundaries and requires accountable repair.
 - [The Joe Rogan Intervention](sources/the-joe-rogan-intervention-the-joe-rogan-intervention.md) — Revisionist History contrasts conversational rapport with audience-facing duties to interpret evidence, pursue consequential claims, and move beyond rehearsed narratives.
@@ -5222,7 +5223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Los Angeles County Sheriff's Department](entities/LosAngelesCountySheriffsDepartment.md) — Ajay's employer, search authority, and subject of disputed case-handling allegations.
 - [Devil's Punchbowl Natural Area](entities/DevilsPunchbowlNaturalArea.md) — Rugged Antelope Valley landscape where Ajay began his final known run and the search was centered.
 - [Valley of Shadows](entities/ValleyOfShadowsPodcast.md) — Investigative podcast series linking an unresolved disappearance to questions of law-enforcement accountability.
-- [Angus Fletcher](entities/AngusFletcher.md) — Narrative scholar and Gary Goldman advocate who frames Zootopia 2 as a possible allegory of Goldman's authorship dispute.
+- [Angus Fletcher](entities/AngusFletcher.md) — Narrative scholar interpreting Zootopia 2's authorship allegory and critiquing predetermined children's stories as lost imaginative exercise.
 - [Gary Goldman](entities/GaryGoldman.md) — Filmmaker whose unsuccessful Zootopia appropriation claim is interpreted as the real-world referent for Gary De'Snake's grievance.
 - [Jared Bush](entities/JaredBush.md) — Disney screenwriter interpreted through Zootopia 2's restoration themes and his family's history of challenging exclusion.
 - [Lester Bush Jr.](entities/LesterBushJr.md) — Physician-historian whose archival work reframed the Mormon priesthood ban as historically contingent policy.
@@ -5325,7 +5326,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Homunculus in Goethe's Faust / 歌德《浮士德》中的人造小人](entities/HomunculusGoethe.md) — Artificial thinker whose departure and search for embodiment separate intelligence from complete life.
 - [Mitt Romney](entities/MittRomney.md) — Republican governor introduced as Ted Kennedy's later Massachusetts health-reform partner and part of the ACA's policy lineage.
 - [Stuart Altman](entities/StuartAltman.md) — Nixon health-policy designer and secret negotiator in the lost 1974 universal-coverage talks.
-- [Revisionist History](entities/RevisionistHistory.md) — Narrative podcast connecting personal experience, institutional change, violence policy, constitutional history, and democratic memory.
+- [Revisionist History](entities/RevisionistHistory.md) — Narrative podcast connecting personal experience, institutional change, public policy, cultural interpretation, and qualified reframing.
 - [AFK](entities/AFK.md) — 何嘉琛创办的企业级 Agent 公司，主张以共享而个性化的系统积累组织经验并蒸馏重复任务。
 - [AFFiNE](entities/AFFiNE.md) — 开源多模态工作空间，在何嘉琛的复盘中成为从固定编辑界面转向跨环境 Agent 的前序案例。
 - [何嘉琛 / He Jiachen](entities/HeJiachen.md) — AFFiNE 与 AFK 创业者，提出组织级共享 Agent、任务记忆蒸馏及角色融合等产品判断。
@@ -18229,7 +18230,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [热乎乱炖](entities/RehuLuandun.md) — AI-assisted Keji Luandun news aggregation and host-style commentary project built from prior transcript voice patterns.
 - [Ronnen Harary](entities/RonnenHarary.md) — Spin Master co-founder and Advice Line guest advising consumer founders on material constraints, scaling ambition, storytelling, and founder work boundaries.
 - [Spin Master](entities/SpinMaster.md) — Toy and children's entertainment company behind PAW Patrol, used as a case for balancing acquisition, internal innovation, and franchise renewal.
-- [PAW Patrol](entities/PAWPatrol.md) — Spin Master children's franchise illustrating how long-running consumer IP must be refreshed through new stories, characters, toys, and movies.
+- [PAW Patrol](entities/PAWPatrol.md) — Spin Master franchise joining consumer-IP renewal, child competence, predictable rescue, and competing institutional-value readings.
 - [Yearly Co.](entities/YearlyCo.md) — Fine jewelry brand built around anniversary bangles and exposed to rising gold prices.
 - [Anne Williams](entities/AnneWilliams.md) — Yearly Co. founder weighing how to broaden milestone products without diluting the brand's solid-gold quality promise.
 - [Island Bee Company](entities/IslandBeeCompany.md) — Martha's Vineyard family apiary weighing B2B, retail, social, and distributor paths for sustainable growth.
@@ -19513,7 +19514,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colin Campbell (British Army officer)](entities/ColinCampbellBritishArmy.md) — India-tested Highland Brigade commander whose exclusion from supreme command illustrates class-filtered military appointment.
 - [Jacques Leroy de Saint-Arnaud](entities/JacquesLeroyDeSaintArnaud.md) — French Crimean commander combining Algerian experience, coup politics, coalition ambition, and concern over lethal conditions at Varna.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
-- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, source interpretation, analogy, and historical argument to test public claims.
+- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, source interpretation, analogy, autobiography, and qualified reframing to test public claims.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 - [Battle of Issus](entities/BattleOfIssus.md) — 333 BC victory where constrained terrain, a Macedonian center crisis, Darius's departure, and rout transformed Alexander's campaign.
 - [Battle of the Granicus](entities/BattleOfGranicus.md) — 334 BC river victory joining disputed tactics, Alexander's near death, Greek-mercenary destruction, and access to captured revenue.
@@ -19533,6 +19534,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Predictable Narrative Tradeoff](concepts/PredictableNarrativeTradeoff.md) — Tension between a repeated story's emotional scaffolding and its reduced invitation to uncertainty and alternative problem-solving.
+- [Civic Institutional Fantasy](concepts/CivicInstitutionalFantasy.md) — Story-world in which specialized helpers and dependable institutions coordinate in service of shared public needs.
 - [Lights and Sirens Risk Calibration](concepts/LightsAndSirensRiskCalibration.md) — Benefit-risk rule reserving emergency warning devices for calls where marginal time plausibly changes outcomes.
 - [Emergency Dispatch Triage](concepts/EmergencyDispatchTriage.md) — Structured call classification matching response mode and warning-device use to expected time sensitivity.
 - [Siren Noise Externalities](concepts/SirenNoiseExternalities.md) — Community and responder health costs excluded by a response-time-only frame.
@@ -24722,8 +24725,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ukraine Export Chokepoint](concepts/UkraineExportChokepoint.md) — War-economic pressure where attacks on ports, ships, and harvest logistics threaten GDP and state capacity.
 - [China Mental Health Access Gap](concepts/ChinaMentalHealthAccessGap.md) — Gap between rising need and shortages, high costs, uneven public understanding, and limited service capacity in China.
 - [Mental Health Service Regulation Gap](concepts/MentalHealthServiceRegulationGap.md) — Lack of licensing, supervision, and quality controls in counseling and mental-health support markets.
-- [Children's Media Values Debate](concepts/ChildrensMediaValuesDebate.md) — Debate over whether children's entertainment transmits politics, institutional lessons, values, or psychological reassurance.
-- [Child Competence Wish Fulfillment](concepts/ChildCompetenceWishFulfillment.md) — Appeal of stories where child-aligned characters solve adult problems and turn anxiety into competence.
+- [Children's Media Values Debate](concepts/ChildrensMediaValuesDebate.md) — Debate over how children's entertainment transmits political, institutional, emotional, and cognitive lessons.
+- [Child Competence Wish Fulfillment](concepts/ChildCompetenceWishFulfillment.md) — Appeal of child-aligned helpers who turn danger and fear into predictable, manageable action.
 - [Non-Algorithmic Capabilities / 非算法能力](concepts/NonAlgorithmicCapabilities.md) — AI-era judgment, connection, self-definition, resilience, real-world contact, and original question-setting abilities reinforced by EP275 and EP278.
 - [Human-Scale AI Use / 人作为 AI 的尺度](concepts/HumanScaleAIUse.md) — Standard for judging AI by whether it improves human work quality, life quality, value creation, and agency rather than token consumption or adoption pressure.
 - [AI Productivity Ratchet / AI 生产率棘轮](concepts/AIProductivityRatchet.md) — Workplace pattern where AI-fluent workers receive more tasks, review burden, and responsibility when productivity gains become a new baseline.

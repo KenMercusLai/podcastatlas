@@ -40203,3 +40203,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | In Defense of PAW Patrol
+
+Added the [[RevisionistHistory]] episode in which [[AngusFletcher]] critiques PAW Patrol's predetermined rescue formula and [[MalcolmGladwell]] defends its emotional reassurance and civic ideal. Established [[PredictableNarrativeTradeoff]] and [[CivicInstitutionalFantasy]], then resynthesized [[PAWPatrol]], Fletcher, Gladwell, Revisionist History, [[ChildrensMediaValuesDebate]], and [[ChildCompetenceWishFulfillment]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: predictable stories can orient preschool viewers and make fear manageable while reducing the unresolved tension that invites counterfactual thought. Gladwell's public-service defense changes the evaluative question rather than disproving Fletcher's developmental critique: dependable, specialized helpers can model competent collective service even when the plot supplies its solution. No settled contradiction was adopted. Child-development effects, national-cultural contrasts, and the response of Gladwell's daughter remain source-scoped because the supplied file is a structured summary rather than a transcript, developmental study, viewing experiment, or comparative cultural analysis. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,018 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

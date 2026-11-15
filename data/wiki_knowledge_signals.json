@@ -19395,9 +19395,9 @@
       "url": "/wiki/concepts/angloukrainianrelations/"
     },
     "AngusFletcher": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
@@ -19405,9 +19405,16 @@
           "show": "Revisionist History",
           "title": "Zootopia Exposed! (Part One)",
           "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
+        },
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/angusfletcher/"
     },
     "AnhuiXiaoMujiang": {
@@ -51686,6 +51693,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
+    "ChildCompetenceWishFulfillment": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/childcompetencewishfulfillment/"
+    },
     "ChildDeathEducation": {
       "episode_count": 2,
       "show_count": 2,
@@ -51920,6 +51950,29 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/childrensliteraturemoraldialogue/"
+    },
+    "ChildrensMediaValuesDebate": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/childrensmediavaluesdebate/"
     },
     "Chile": {
       "episode_count": 4,
@@ -55538,6 +55591,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/citytypesampling/"
+    },
+    "CivicInstitutionalFantasy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/civicinstitutionalfantasy/"
     },
     "CivilConstitutionOfTheClergy": {
       "episode_count": 1,
@@ -198411,9 +198480,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -198561,6 +198630,13 @@
           "show": "Revisionist History",
           "title": "Running Hot",
           "url": "/wiki/sources/running-hot/"
+        },
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
         }
       ],
       "updated": "2026-11-16",
@@ -231099,6 +231175,36 @@
       "updated": "2026-11-10",
       "url": "/wiki/entities/pane/"
     },
+    "PAWPatrol": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        },
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/pawpatrol/"
+    },
     "PCOSCardiometabolicRisk": {
       "episode_count": 4,
       "show_count": 1,
@@ -246218,6 +246324,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/preconceptiontimingandtesting/"
+    },
+    "PredictableNarrativeTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/predictablenarrativetradeoff/"
     },
     "PredictionMarketEthics": {
       "episode_count": 8,
@@ -261745,9 +261867,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -261881,6 +262003,13 @@
           "show": "Revisionist History",
           "title": "Running Hot",
           "url": "/wiki/sources/running-hot/"
+        },
+        {
+          "episode_file": "In_Defense_of_PAW_Patrol [In_Defense_of_PAW_Patrol].md",
+          "key": "in-defense-of-paw-patrol-in-defense-of-paw-patrol",
+          "show": "Revisionist History",
+          "title": "In Defense of PAW Patrol",
+          "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
         }
       ],
       "updated": "2026-11-16",

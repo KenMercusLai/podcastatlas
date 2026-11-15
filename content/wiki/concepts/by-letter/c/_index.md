@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11347
+wiki_total_pages: 11349
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "CivicAudienceEtiquette"
     title: "Civic Audience Etiquette"
     url: "/wiki/concepts/civicaudienceetiquette/"
+  - key: "CivicInstitutionalFantasy"
+    title: "Civic Institutional Fantasy"
+    url: "/wiki/concepts/civicinstitutionalfantasy/"
   - key: "CivicRelationshipsAsCrisisInfrastructure"
     title: "Civic Relationships As Crisis Infrastructure"
     url: "/wiki/concepts/civicrelationshipsascrisisinfrastructure/"
