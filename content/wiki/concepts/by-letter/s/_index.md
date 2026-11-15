@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11397
+wiki_total_pages: 11398
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "SportsBettingSponsorshipExit"
     title: "Sports Betting Sponsorship Exit"
     url: "/wiki/concepts/sportsbettingsponsorshipexit/"
+  - key: "SportsBoycottEthics"
+    title: "Sports Boycott Ethics"
+    url: "/wiki/concepts/sportsboycottethics/"
   - key: "SportsBroadcastPublicAccess"
     title: "Sports Broadcast Public Access"
     url: "/wiki/concepts/sportsbroadcastpublicaccess/"

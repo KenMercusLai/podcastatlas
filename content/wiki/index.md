@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 9: A Plague on Both Your Houses](sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses.md) — Revisionist History compares Jim Crow-era Los Angeles 1932 with Nazi Berlin 1936 through Scottsboro, boycott ethics, commercial spectacle, institutional continuity, and athletic value.
 - [The Tipping Point Revisited: An Excerpt](sources/the-tipping-point-revisited-an-excerpt.md) — Revisionist History excerpt connecting Los Angeles bank-robbery organization, medical-practice geography, and Waldorf vaccination clusters to bounded social contagion and small-area variation.
 - [The Tipping Point Revisited: Georgetown Massacre Part 1](sources/the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1.md) — Revisionist History episode on the Khoury prosecution, Donovan's intermediary account, Brenda Smith's fundraising emails, and the boundary between bribery and institutionally accepted financial influence.
 - [The Tipping Point Revisited: Georgetown Massacre Part 2](sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2.md) — Revisionist History episode on Catherine Khoury's testimony, the acquittal of Ayman Khoury, Georgetown's donor-capacity research, and the boundary between reasonable doubt and ethical approval.
@@ -5167,6 +5168,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [Scottsboro Boys](entities/ScottsboroBoys.md) — Nine Black defendants whose prosecution exposed Jim Crow legal structure and unequal Olympic moral scrutiny.
+- [Billy Garland](entities/BillyGarland.md) — Los Angeles promoter whose commercially successful 1932 Games became both an institutional lifeline and a spectacle model.
 - [John Wennberg](entities/JohnWennberg.md) — Physician-researcher whose mapped treatment variation anchors the episode's account of local medical norms.
 - [Robert Sheldon Brown](entities/RobertSheldonBrown.md) — “Casper,” the Los Angeles robbery organizer used to illustrate scalable practice and disproportionate influence.
 - [Donzell Thompson](entities/DonzellThompson.md) — “Sea Dog,” Brown's partner in the episode's account of a crew-based bank-robbery organization.
@@ -19617,6 +19620,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Sports Boycott Ethics](concepts/SportsBoycottEthics.md) — Conditional framework for withheld legitimacy, protest reach, systemic action, athlete cost, and institutional continuity.
 - [Bounded Social Contagion](concepts/BoundedSocialContagion.md) — Framework connecting influential actors, organizational replication, local opportunity, group norms, and limits on diffusion.
 - [Small-Area Variation](concepts/SmallAreaVariation.md) — Persistent local differences in practice or belief that underlying need alone does not fully explain.
 - [Bribery–Institutional Influence Boundary](concepts/BriberyInstitutionalInfluenceBoundary.md) — Distinction between an unauthorized private exchange and institutionally accepted practices that let wealth shape access or selection.

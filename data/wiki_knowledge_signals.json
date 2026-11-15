@@ -27553,9 +27553,9 @@
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "AveryBrundage": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -27563,9 +27563,16 @@
           "show": "The Rest Is History",
           "title": "81. Modern Olympics - Part 2",
           "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/averybrundage/"
     },
     "AviationFinanceLeasing": {
@@ -34310,6 +34317,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/entities/billyevans/"
+    },
+    "BillyGarland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/billygarland/"
     },
     "BillyHughes": {
       "episode_count": 1,
@@ -214199,9 +214222,9 @@
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -214223,9 +214246,16 @@
           "show": "The Rest Is History",
           "title": "79. Ancient Olympics",
           "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/modernolympicgames/"
     },
     "ModernOlympicRevivalism": {
@@ -228756,9 +228786,9 @@
       "url": "/wiki/concepts/olympiccoldwarrivalry/"
     },
     "OlympicHostCityLegacy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -228766,9 +228796,16 @@
           "show": "The Rest Is History",
           "title": "81. Modern Olympics - Part 2",
           "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/olympichostcitylegacy/"
     },
     "OlympicTruce": {
@@ -274772,6 +274809,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/scottishreformationroyalresistance/"
     },
+    "ScottsboroBoys": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/scottsboroboys/"
+    },
     "ScreenActorsGuild": {
       "episode_count": 1,
       "show_count": 1,
@@ -290235,6 +290288,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/sportsbettingrevenuealignment/"
     },
+    "SportsBoycottEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sportsboycottethics/"
+    },
     "SportsCapitalCannotBuyLegitimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -298864,9 +298933,9 @@
       "url": "/wiki/concepts/sycophanticaicompanionrisk/"
     },
     "SydneyMcLaughlin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
@@ -298874,9 +298943,16 @@
           "show": "Revisionist History",
           "title": "The Big Birthday Party",
           "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
+          "key": "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
+          "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/sydneymclaughlin/"
     },
     "SylviaBeach": {

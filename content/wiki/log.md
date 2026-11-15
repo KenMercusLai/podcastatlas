@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Hitler’s Olympics, Part 9: A Plague on Both Your Houses
+
+Added the Revisionist History finale comparing Los Angeles 1932 under Jim Crow with Berlin 1936 under Nazi rule through the [[ScottsboroBoys]], [[BillyGarland]], [[SportsBoycottEthics]], institutional continuity, and the independent value of athletic performance. Created the Scottsboro Boys and Billy Garland profiles and the boycott-ethics framework, then resynthesized the Modern Olympic Games, [[AveryBrundage]], [[SydneyMcLaughlin]], and [[OlympicHostCityLegacy]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: unequal boycott pressure reflected the normalization of American racism, the lesser political weight granted to Black suffering, Nazism's novelty, and Berlin's explicit ideological staging. Refusal can withhold legitimacy, but its value depends on reach, leverage, relationship to systemic action, athlete cost, and institutional survival. Los Angeles's profitable spectacle preserved the Games and supplied Berlin with techniques a dictatorship could appropriate, while McLaughlin's performance anchors a distinction between compromised Olympic machinery and genuine athletic value. No settled contradiction was adopted. Comparing Jim Crow and Nazi rule exposes inconsistent scrutiny without making their histories or crimes identical; trial details, voting figures, attendance, profit, motives, dialogue, and boycott counterfactuals remain episode-scoped because the supplied file is a structured summary rather than a transcript, court record, financial archive, or comprehensive comparative history. Broad [[MalcolmGladwell]], [[BenNaddaffHafrey]], Revisionist History, [[JesseOwens]], and [[AuthoritarianSportsPropaganda]] pages were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,044 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | John Birch vs. the PTA
 
 Added the [[RevisionistHistory]] episode connecting [[RobertWelchJr]], the [[JohnBirchSociety]], the [[ParentTeacherAssociation]], [[OrvilleLeroux]], and [[ZeldaFelchlin]] to the local mechanics and human costs of conspiracy politics. Created bounded profiles for the five central people and organizations, plus [[LocalCivicInstitutionCapture]] and [[EvidenceBasedCivicCooperation]].
@@ -40488,6 +40496,10 @@ Added the [[RevisionistHistory]] excerpt connecting Los Angeles's bank-robbery s
 Core synthesis: exceptional actors and favorable opportunity can accelerate a social outbreak, but exposure alone does not explain diffusion; local professional, institutional, and community boundaries shape where practices scale and where they stop. No settled contradiction was adopted. Robbery totals, post-arrest trends, treatment rates, vaccination percentages, dialogue, and cross-domain causality remain source-scoped because the supplied file is a structured summary rather than the transcript, crime data, court records, medical studies, or school datasets. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,043 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

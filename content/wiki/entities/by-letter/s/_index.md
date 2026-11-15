@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14356
+wiki_total_pages: 14358
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "ScottVincentBorba"
     title: "Scott Vincent Borba"
     url: "/wiki/entities/scottvincentborba/"
+  - key: "ScottsboroBoys"
+    title: "Scottsboro Boys"
+    url: "/wiki/entities/scottsboroboys/"
   - key: "ScreenActorsGuild"
     title: "Screen Actors Guild"
     url: "/wiki/entities/screenactorsguild/"

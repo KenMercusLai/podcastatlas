@@ -6,7 +6,8 @@ sources:
   - 81-modern-olympics-part-2-glt4846758176
   - 80-modern-olympics-part-1-glt3795252606
   - 79-ancient-olympics-glt9627584488
-last_updated: 2026-10-03
+  - hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ Berlin 1936 is the decisive prewar institutional and aesthetic turn in that sour
 
 Together, the sources make politics constitutive rather than exceptional. Yet they refuse a wholly cynical profile: comic early stories, Durando Pietri, Jesse Owens, Barcelona's favorable reputation, and Derek Redmond finishing with his father preserve athlete and audience meanings that exceed official objectives without validating governance failures.
 
+[[hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses|Hitler’s Olympics, Part 9]] makes that tension a direct institutional dilemma. Los Angeles 1932 turned Hollywood, urban promotion, an athletes' village, and commercial realism into a profitable spectacle despite Jim Crow injustice; Berlin then adapted the model to explicit authoritarian theater. Boycott choices therefore affect both political legitimacy and the survival of an institution that gives athletes a global stage. The source's final appeal to [[SydneyMcLaughlin]] locates the strongest preservation case in extraordinary performance rather than the moral purity of hosts or organizers.
+
 ## Key Characteristics
 
 - Claims of continuity rest on selective revival and invention because the ancient and modern Games differ in religious foundation, social logic, event culture, and institutional form.
@@ -34,7 +37,7 @@ Together, the sources make politics constitutive rather than exceptional. Yet th
 - Amateurism and eligibility rules can hide class advantage or materially different forms of athlete support.
 - Institutional claims of political neutrality repeatedly encounter nationalism, war, protest, boycott, terrorism, propaganda, and repression.
 - Host-city value is uneven and must include debt, displacement, public services, participation, image, and resident welfare.
-- Athlete narratives can retain emotional and ethical power even when Olympic governance or host-city policy fails.
+- Athlete narratives can retain emotional and ethical power even when Olympic governance or host-city policy fails, but that independent value does not make participation politically neutral.
 
 ## Evidence
 
@@ -45,17 +48,17 @@ Together, the sources make politics constitutive rather than exceptional. Yet th
 - Political stage: [[81-modern-olympics-part-2-glt4846758176]] follows Cold War medal rivalry, protest, boycotts, Munich, and state propaganda.
 - Host-city exposure: [[81-modern-olympics-part-2-glt4846758176]] uses Montreal, Athens, Beijing, London, Rio, and Barcelona to compare costs and legacies.
 - Enduring emotional meaning: [[81-modern-olympics-part-2-glt4846758176]] closes with persistence, family support, and patriotic identification.
+- Prewar continuity dilemma: [[hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses]] contrasts Los Angeles and Berlin through boycott legitimacy, commercial survival, and athletic value.
 
 ## Qualifications
 
-The current profile is bounded to three conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, or city rankings. Difference from the ancient festival does not mean the modern movement drew no real inspiration from antiquity, while multiple modern antecedents do not mean equal causal influence. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. A poor fiscal or political legacy does not establish that every resident, athlete, or viewer receives no value, while memorable sporting moments do not validate governance failures.
+The current profile is bounded to four conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, city rankings, boycott counterfactuals, or host finances. Difference from the ancient festival does not mean the modern movement drew no real inspiration from antiquity, while multiple modern antecedents do not mean equal causal influence. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. Comparing Los Angeles and Berlin reveals unequal scrutiny without making Jim Crow and Nazism identical. A poor fiscal or political legacy does not establish that every resident, athlete, or viewer receives no value, while memorable sporting moments do not validate governance failures or participation.
 
 ## What Changed
 
-- Extended the profile backward from postwar transformation to the Games' constructed, multi-origin revival.
-- Added amateurism as a class and support-system problem rather than a neutral absence of pay.
-- Added Berlin 1936 as a template for ceremony, film, concealment, and host-state image management.
-- Sharpened the boundary between the modern institution and the ancient sacred festival it selectively invokes.
+- Added boycott legitimacy and institutional survival as competing dimensions of Olympic continuity.
+- Distinguished athlete-centered value from moral endorsement of hosts, organizers, or participation.
+- Extended Los Angeles 1932 from ceremonial prehistory into a commercial spectacle model transferable to Berlin.
 
 ## Relationships
 
@@ -67,3 +70,4 @@ The current profile is bounded to three conversational historical surveys and do
 - [[OlympicHostCityLegacy]] - framework for evaluating host-city costs, gains, and distribution.
 - [[SportsMegaEventWelfareAccounting]] - broader welfare method that separates public value from headline GDP claims.
 - [[AuthoritarianSportsPropaganda]] - political use of sport and spectacle by regimes.
+- [[SportsBoycottEthics]] - framework for deciding when refusing participation withholds legitimacy without losing sight of athlete and institutional costs.

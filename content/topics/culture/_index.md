@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3703
+topic_total_pages: 3704
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3346,6 +3346,9 @@ topic_concepts:
   - key: "SportsBettingSponsorshipExit"
     title: "Sports Betting Sponsorship Exit"
     url: "/wiki/concepts/sportsbettingsponsorshipexit/"
+  - key: "SportsBoycottEthics"
+    title: "Sports Boycott Ethics"
+    url: "/wiki/concepts/sportsboycottethics/"
   - key: "SportsBroadcastPublicAccess"
     title: "Sports Broadcast Public Access"
     url: "/wiki/concepts/sportsbroadcastpublicaccess/"
