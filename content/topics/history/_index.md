@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2797
+topic_total_pages: 2798
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -190,6 +190,9 @@ topic_concepts:
   - key: "CelestialOmenPoliticalResponsibility"
     title: "Celestial Omen Political Responsibility / 天象政治责任"
     url: "/wiki/concepts/celestialomenpoliticalresponsibility/"
+  - key: "ChanceSensitiveCausality"
+    title: "Chance-Sensitive Causality"
+    url: "/wiki/concepts/chancesensitivecausality/"
   - key: "ChancellorCenteredGovernance"
     title: "Chancellor-Centered Governance / 宰相中心治理"
     url: "/wiki/concepts/chancellorcenteredgovernance/"

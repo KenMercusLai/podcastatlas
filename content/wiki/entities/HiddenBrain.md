@@ -8,6 +8,7 @@ sources:
   - default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568
   - default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014
   - default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116
+  - default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, biased motive attribution, forgiveness, false-confession research, and difficult conversations.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, forgiveness, false-confession research, difficult conversations, and chance-sensitive causality.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -28,14 +29,16 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116|The Conversations that Bring Us Closer]] has [[AlisonWoodBrooks]] treat difficult interaction as a problem of arousal, goals, perspective discovery, visible openness, and repair. [[ConversationalReceptiveness]] combines questions, acknowledgment, validation without agreement, qualified language, and common ground; apology and emotional reframing remain useful only within the episode's good-faith and safety boundaries.
 
+[[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697|Fluke: How Chance and Chaos Shape Our Lives]] has [[BrianKlaas]] connect personal survival, atomic targeting, coup failure, evolutionary history, and chaos theory through [[ChanceSensitiveCausality]]. [[MagnitudeBias]] explains resistance to small or distributed causes, while the practical branch connects uncertainty to slack, decoupling, intrinsic meaning, and resilient influence rather than complete control.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
-- Connects research ideas to relationships, politics, justice, and mental health.
+- Connects research ideas to relationships, politics, justice, mental health, history, and systems design.
 - Pairs reframing with qualifications about evidence, severity, and individual variation.
 - Moves from observed human experience to mechanisms, population evidence, and usable everyday practices.
 - Preserves safety, accountability, and evidential limits when translating charitable interpretation or forgiveness into advice.
 - Uses wrongful-conviction cases and experiments to challenge intuitive confidence in confession evidence and to motivate transparent investigation reform.
-- Translates difficult-conversation research into observable language, emotional self-monitoring, and repair practices.
+- Translates difficult-conversation and uncertainty research into observable practices without claiming complete control.
 
 ## Evidence
 - Explanation and reasoning - [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361]] develops [[ExplanationDrivenSensemaking]], [[SelfExplanationKnowledgeCalibration]], and [[ExplanatoryOverreach]].
@@ -45,12 +48,13 @@ The current bounded evidence shows the program combining research explanation, c
 - Forgiveness and repair - [[default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568]] distinguishes [[ForgivenessWithoutReconciliation]] from [[AccountableSelfForgiveness]].
 - Confession and investigation - [[default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014]] develops [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]] through case and experimental evidence.
 - Difficult conversations - [[default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116]] develops [[ConversationalReceptiveness]] and extends [[DifficultConversationDelivery]] through learning, acknowledgment, perspective questions, and apology.
+- Chance, explanation, and resilience - [[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697]] develops [[ChanceSensitiveCausality]] and [[MagnitudeBias]] while extending [[QueueingTheorySlack]] and [[UncertaintyToleranceResilience]].
 
 ## Qualifications
-The profile is based on five supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, personal conversation examples, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, or independent study review. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, and confession-reliability claims remain episode-scoped. Charitable interpretation, receptiveness, apology, and forgiveness do not erase credible danger, boundaries, accountability, power differences, or the injured person's control over contact; false-confession research does not imply that every confession is unreliable.
+The profile is based on six supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, personal examples, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering analysis, or independent study review. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, and system-resilience claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, and causal humility do not erase credible danger, boundaries, accountability, power differences, or preventable institutional failure.
 
 ## What Changed
-- Added the difficult-conversation branch connecting arousal, goal choice, visible openness, perspective discovery, and apology.
+- Added the chance-and-chaos branch connecting causal sensitivity, magnitude bias, system slack, and resilient influence.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -67,3 +71,6 @@ The profile is based on five supplied episode summaries and does not establish t
 - [[PostConfessionEvidenceContamination]] - mechanism by which confession evidence reshapes later proof.
 - [[AlisonWoodBrooks]] - behavioral scientist guiding the difficult-conversation branch.
 - [[ConversationalReceptiveness]] - visible openness framework presented by the show.
+- [[BrianKlaas]] - political scientist guiding the chance, causality, and resilience branch.
+- [[ChanceSensitiveCausality]] - causal-humility framework presented by the show.
+- [[MagnitudeBias]] - explanation bias developed in the chance-and-chaos episode.

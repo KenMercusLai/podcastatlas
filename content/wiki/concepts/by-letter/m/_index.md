@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11365
+wiki_total_pages: 11367
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "MagneticTapeColdStorage"
     title: "Magnetic Tape Cold Storage / 磁带冷存储"
     url: "/wiki/concepts/magnetictapecoldstorage/"
+  - key: "MagnitudeBias"
+    title: "Magnitude Bias"
+    url: "/wiki/concepts/magnitudebias/"
   - key: "MainContradictionAllocation"
     title: "Main Contradiction Allocation / 主要矛盾式资产配置"
     url: "/wiki/concepts/maincontradictionallocation/"

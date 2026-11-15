@@ -5,7 +5,8 @@ tags: [operations-management, productivity, scheduling]
 sources:
   - ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k
   - ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv
-last_updated: 2026-09-14
+  - default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ For knowledge workers, slack is not idleness. It is planned resilience against r
 
 EP87 extends the same slack logic from operations flow into [[ScarcityMindset|scarcity psychology]]. Slack is the unassigned margin that absorbs mistakes, surprise, low energy, extra cost, and emotional load. Without it, ordinary variance becomes emergency, emergency creates [[TunnelingTax|tunneling]], tunneling consumes [[MentalBandwidth|bandwidth]], and the person or system is pushed toward [[TimeAndPaydayLoanTrap|borrowing from the future]].
 
+The cascade boundary extends slack beyond personal scheduling and queue flow. Hyperconnected systems transmit local shocks quickly, while optimization around a few critical links removes containment capacity. Slack can therefore include time buffers, spare operating capacity, modularity, and regional separation. These are not interchangeable engineering designs, but each sacrifices some apparent short-term efficiency to prevent one disruption from consuming the whole system. [[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697]]
+
 ## Key Claims
 - Random arrivals require spare capacity because queues grow when demand exceeds throughput.
 - High utilization can make waiting time explode even if average capacity seems adequate.
@@ -28,6 +31,7 @@ EP87 extends the same slack logic from operations flow into [[ScarcityMindset|sc
 - Batched message and feedback windows reduce randomness entering deep-work time.
 - Slack can be an operational design feature rather than a personality preference.
 - Slack also functions as a psychological safety margin because it prevents small surprises from becoming scarcity traps.
+- In tightly coupled systems, slack and decoupling can contain a local failure before it becomes a cascade.
 
 ## Evidence
 - Queueing example evidence: [[ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k]] uses airport security throughput to show queues growing when arrivals exceed service rate.
@@ -36,15 +40,18 @@ EP87 extends the same slack logic from operations flow into [[ScarcityMindset|sc
 - Interruption evidence: [[ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k]] suggests concentrating message replies, feedback checks, and group chats in fixed periods.
 - Scarcity-resilience evidence: [[ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv]] uses the suitcase metaphor, safety-margin examples, and reserve operating capacity to argue that slack reduces hard choices, absorbs errors, and protects bandwidth.
 - System-efficiency evidence: [[ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv]] describes a hospital holding one operating room open and seeing more admissions with fewer overtime surgeries, illustrating slack as throughput protection rather than waste.
+- Cascade-resilience evidence: [[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697]] connects schedule buffers, the Suez blockage, and regionalized electricity design to shock absorption and failure containment.
 
 ## Counterevidence & Qualifications
 The 75% calendar target is source-scoped advice, not a universal capacity rule. Different jobs, service levels, safety margins, and dependency structures require different buffers.
 
 EP87's psychological extension should not be flattened into "always add more buffer." Slack has opportunity costs, and people in poverty or institutional constraint may not have enough control to create it individually.
 
+The regional-grid example and Suez estimate are episode-reported rather than a comparative engineering or economic analysis. Decoupling can introduce duplication, coordination costs, and local capacity limits; the appropriate buffer depends on service requirements and failure consequences.
+
 ## What Changed
-- Added a queueing-theory frame for calendar slack, batched interruptions, and utilization restraint.
-- Added EP87's scarcity-psychology extension: slack as safety margin, bandwidth protection, and anti-fire-drill capacity.
+- Extended slack from queue and scarcity management to containment of cascading failures in hyperconnected systems.
+- Clarified that buffers can include time, capacity, or modular separation, with different costs and design requirements.
 
 ## Related Concepts
 - [[OperationsManagementWorkflow]] - parent process-view frame.
@@ -54,3 +61,5 @@ EP87's psychological extension should not be flattened into "always add more buf
 - [[FlowMasterPersonalWorkflow]] - role responsible for protecting buffer when execution slips.
 - [[ScarcityMindset]] - psychological condition that worsens when slack disappears.
 - [[SystemDesignOverWillpower]] - design frame that preserves slack instead of relying on discipline.
+- [[ChanceSensitiveCausality]] - explains why small disruptions can become system-level outcomes.
+- [[ShockReadyStrategicResilience]] - broader organizational preparation before severe disruption.

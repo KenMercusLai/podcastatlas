@@ -38499,6 +38499,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/briankeating/"
     },
+    "BrianKlaas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
+          "key": "default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697",
+          "show": "Hidden Brain",
+          "title": "Fluke: How Chance and Chaos Shape Our Lives",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/brianklaas/"
+    },
     "BrianLehrer": {
       "episode_count": 1,
       "show_count": 1,
@@ -47454,6 +47470,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/chanzuckerberginitiative/"
+    },
+    "ChanceSensitiveCausality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
+          "key": "default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697",
+          "show": "Hidden Brain",
+          "title": "Fluke: How Chance and Chaos Shape Our Lives",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/chancesensitivecausality/"
     },
     "ChancellorCenteredGovernance": {
       "episode_count": 3,
@@ -139733,9 +139765,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -139771,6 +139803,13 @@
           "show": "Hidden Brain",
           "title": "The Conversations that Bring Us Closer",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
+          "key": "default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697",
+          "show": "Hidden Brain",
+          "title": "Fluke: How Chance and Chaos Shape Our Lives",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
         }
       ],
       "updated": "2026-11-16",
@@ -198434,6 +198473,22 @@
       "updated": "2026-10-30",
       "url": "/wiki/concepts/magnetictapecoldstorage/"
     },
+    "MagnitudeBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
+          "key": "default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697",
+          "show": "Hidden Brain",
+          "title": "Fluke: How Chance and Chaos Shape Our Lives",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/magnitudebias/"
+    },
     "MagnusTheGood": {
       "episode_count": 1,
       "show_count": 1,
@@ -254931,9 +254986,9 @@
       "url": "/wiki/concepts/queersafetyretreat/"
     },
     "QueueingTheorySlack": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIMAOaD7VBjtRSQTOtC4k [GKwRIMAOaD7VBjtRSQTOtC4k].md",
@@ -254948,9 +255003,16 @@
           "show": "纵横四海",
           "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
           "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
+          "key": "default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697",
+          "show": "Hidden Brain",
+          "title": "Fluke: How Chance and Chaos Shape Our Lives",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/queueingtheoryslack/"
     },
     "QuietAIAdoptionDeparture": {
@@ -313835,9 +313897,9 @@
       "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
     },
     "UncertaintyToleranceResilience": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -313852,9 +313914,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
           "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
+          "key": "default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697",
+          "show": "Hidden Brain",
+          "title": "Fluke: How Chance and Chaos Shape Our Lives",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/uncertaintytoleranceresilience/"
     },
     "UnconsciousComplexRepetition": {

@@ -40311,3 +40311,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Fluke: How Chance and Chaos Shape Our Lives
+
+Added the [[HiddenBrain]] episode in which [[BrianKlaas]] connects small contextual inputs, historical contingency, chaos, magnitude bias, hyperconnectivity, and optimization to causal humility and resilience. Created [[ChanceSensitiveCausality]] and [[MagnitudeBias]], then resynthesized Hidden Brain, [[QueueingTheorySlack]], and [[UncertaintyToleranceResilience]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: models and retrospective stories can discard as noise the weather, timing, material details, and ordinary encounters that become decisive inside interacting causal chains. This does not make events uncaused or erase agency and responsibility; it separates causal contribution, practical predictability, sole authorship, and moral blame. Hyperconnected, near-fully utilized systems amplify local shocks, so time and capacity buffers, modular separation, scenario thinking, intrinsic meaning, and exploration can preserve action under surprise. No settled contradiction was adopted. Historical counterfactuals, scientific mechanisms, weather horizons, dollar estimates, system-design outcomes, and psychological effects remain source-scoped because the supplied file is a structured summary rather than a transcript, archive, dataset, study report, or engineering analysis. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,028 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Fluke: How Chance and Chaos Shape Our Lives](sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697.md) — Hidden Brain and Brian Klaas on chance-sensitive causality, magnitude bias, cascading fragility, slack, and resilient influence under uncertainty.
 - [The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau](sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli.md) — Revisionist History interview on patient-centered access, secure medicine authentication, treatment feedback, patient-controlled health data, wearables, long drug-development horizons, and AI-assisted discovery.
 - [Malcolm Breaks Down the Perfect Break Up Song](sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song.md) — Revisionist History compares R&B, folk, and country through autobiographical songwriting, empathetic observation, sad-song companionship, and the narrative specificity of breakup songs.
 - [The Conversations that Bring Us Closer](sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116.md) — Hidden Brain and Alison Wood Brooks on difficult-conversation goals, visible receptiveness, perspective questions, emotional reframing, and apology.
@@ -5151,6 +5152,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Brian Klaas](entities/BrianKlaas.md) — Political scientist connecting chance-sensitive explanation to causal humility, system slack, and resilience over complete control.
 - [Diogo Rau](entities/DiogoRau.md) — Eli Lilly technology executive connecting experience-led healthcare design to access, secure medicines, patient data, sensing, adherence, and AI-assisted discovery.
 - [Babyface](entities/Babyface.md) — R&B songwriter connecting infatuation, heartbreak, observation, empathy, and remembered detail to composition.
 - [Alison Wood Brooks](entities/AlisonWoodBrooks.md) — Behavioral scientist connecting difficult conversations to visible receptiveness, perspective discovery, emotional regulation, and apology.
@@ -5333,7 +5335,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
-- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, forgiveness, false-confession research, and difficult conversations.
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, forgiveness, false confessions, difficult conversations, and chance-sensitive causality.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
@@ -19556,6 +19558,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Chance-Sensitive Causality](concepts/ChanceSensitiveCausality.md) — Account of small, context-specific inputs becoming decisive through interacting causal chains while remaining difficult to predict.
+- [Magnitude Bias](concepts/MagnitudeBias.md) — Tendency to expect dramatic outcomes to have equally dramatic, intentional, or narratively satisfying causes.
 - [Patient-Centered Healthcare Delivery](concepts/PatientCenteredHealthcareDelivery.md) — Experience-led care model joining timely access, patient data agency, and continuing support while preserving clinical and safety boundaries.
 - [Medication Authentication and Safety](concepts/MedicationAuthenticationAndSafety.md) — Verifiable medicine identity layer bounded by custody, privacy, workflow, and dose-level implementation constraints.
 - [Treatment Feedback and Adherence](concepts/TreatmentFeedbackAndAdherence.md) — Hypothesis that timely, valid, interpretable treatment-response signals can support engagement and earlier review.
@@ -23355,7 +23359,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operations Management Workflow](concepts/OperationsManagementWorkflow.md) — Process-view frame translating operations management into personal and organizational workflow design.
 - [Theory of Constraints for Personal Workflow](concepts/TheoryOfConstraintsPersonalWorkflow.md) — Bottleneck-first workflow method for improving total output rather than local speed.
 - [WIP Limit Personal Productivity](concepts/WIPLimitPersonalProductivity.md) — Little's Law-based practice of reducing started-but-unfinished tasks to shorten cycle time and mental load.
-- [Queueing Theory Slack](concepts/QueueingTheorySlack.md) — Capacity-buffer logic for random demand, calendar design, and batched interruptions.
+- [Queueing Theory Slack](concepts/QueueingTheorySlack.md) — Capacity-buffer logic for random demand, calendar design, scarcity protection, and cascading-failure containment.
 - [Critical Path Method Personal Planning](concepts/CriticalPathMethodPersonalPlanning.md) — Dependency-mapping method for finding tasks that determine total project duration.
 - [Bullwhip Effect Information Amplification](concepts/BullwhipEffectInformationAmplification.md) — Supply-chain, organizational, and personal pattern where small signals are exaggerated or muted across layers.
 - [Toyota Production System Personal Waste](concepts/ToyotaProductionSystemPersonalWaste.md) — TPS-inspired personal workflow frame for waste removal, pull, Jidoka, Andon, and continuous improvement.
@@ -23762,7 +23766,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mindful Eating Cue Control](concepts/MindfulEatingCueControl.md) — Practice of separating hunger, emotion, craving, and environmental triggers through mindful checks, body scans, scene changes, and cue removal.
 - [Stress Biological Aging](concepts/StressBiologicalAging.md) — Source-scoped frame linking chronic stress, recovery, meaning, telomeres, telomerase, mitochondria, inflammation, caregiving, and meditation evidence.
 - [Radical Acceptance Chronic Stress](concepts/RadicalAcceptanceChronicStress.md) — Practice of recognizing an unwanted reality that cannot currently be changed and redirecting effort toward what remains controllable or meaningful.
-- [Uncertainty Tolerance Resilience](concepts/UncertaintyToleranceResilience.md) — Capacity to stay regulated, curious, and action-ready when the future cannot be made fully predictable or controllable.
+- [Uncertainty Tolerance Resilience](concepts/UncertaintyToleranceResilience.md) — Capacity to stay regulated, meaningful, and action-ready without confusing incomplete control with lack of influence.
 - [Positive Stress Breathwork](concepts/PositiveStressBreathwork.md) — Source-scoped high-arousal stress-regulation branch around controlled activation, exercise, Wim Hof breathing, positive emotion, and pending biomarkers.
 - [Constituent Nation Sporting Identity](concepts/ConstituentNationSportingIdentity.md) — Pattern where sub-state national teams use sport, anthem choice, and rivalry to express identities that do not map cleanly onto sovereignty.
 - [Brandmauer Cordon Sanitaire](concepts/BrandmauerCordonSanitaire.md) — German coalition-firewall norm meant to keep AfD out of government.
