@@ -7191,6 +7191,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/aaronburr/"
     },
+    "AaronChalfin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/aaronchalfin/"
+    },
     "AbbasidCaliphate": {
       "episode_count": 4,
       "show_count": 1,
@@ -18537,6 +18553,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/andrewpalmer/"
+    },
+    "AndrewPapachristos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/andrewpapachristos/"
     },
     "AndrewPreston": {
       "episode_count": 3,
@@ -39325,6 +39357,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/broadcom/"
     },
+    "BrokenWindowsPolicing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/brokenwindowspolicing/"
+    },
     "BrokerClearingLiquidityRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -48428,6 +48476,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/charlesalexandredecalonne/"
+    },
+    "CharlesBranas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/charlesbranas/"
     },
     "CharlesDarwin": {
       "episode_count": 8,
@@ -74463,6 +74527,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/davidfishman/"
+    },
+    "DavidFloyd": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/davidfloyd/"
     },
     "DavidGalenson": {
       "episode_count": 1,
@@ -199484,9 +199564,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -199648,6 +199728,13 @@
           "show": "Revisionist History",
           "title": "How to Trust and Be Trusted with Rachel Botsman",
           "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
         }
       ],
       "updated": "2026-11-16",
@@ -241680,6 +241767,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/placebasedexhibitioncuration/"
     },
+    "PlaceBasedViolencePrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/placebasedviolenceprevention/"
+    },
     "PlaceboNoceboExpectationEffects": {
       "episode_count": 3,
       "show_count": 2,
@@ -252871,9 +252974,9 @@
       "url": "/wiki/concepts/publicillnesswriting/"
     },
     "PublicIntellectualErrorCorrection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell_Doesn't_Mind_Being_Wrong_From_Hasan_Minhaj_Doesn't_Know [Malcolm_Gladwell_Doesn't_Mind_Being_Wrong_From.md",
@@ -252881,6 +252984,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know",
           "url": "/wiki/sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
         }
       ],
       "updated": "2026-11-15",
@@ -263348,9 +263458,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -263498,6 +263608,13 @@
           "show": "Revisionist History",
           "title": "How to Trust and Be Trusted with Rachel Botsman",
           "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
         }
       ],
       "updated": "2026-11-16",
@@ -319262,9 +319379,9 @@
       "url": "/wiki/entities/vinland/"
     },
     "ViolenceConcentration": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
@@ -319286,6 +319403,13 @@
           "show": "Revisionist History",
           "title": "Memorial Day, 2020 | Part 2",
           "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Broken_Windows [The_Tipping_Point_Revisited_Broken_Windows].md",
+          "key": "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Broken Windows",
+          "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
         }
       ],
       "updated": "2026-11-16",

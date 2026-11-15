@@ -26,6 +26,7 @@ sources:
   - running-hot
   - in-defense-of-paw-patrol-in-defense-of-paw-patrol
   - how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman
+  - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -87,6 +88,8 @@ In [[running-hot|Running Hot]], Gladwell frames routine emergency sirens as a po
 In [[in-defense-of-paw-patrol-in-defense-of-paw-patrol|In Defense of PAW Patrol]], Gladwell turns a parenting preference into a dispute about narrative development and civic values. He concedes [[AngusFletcher]]'s argument that predetermined rescue leaves little room for counterfactual problem-solving, but reframes dependable coordination as emotional security and [[CivicInstitutionalFantasy|a Canadian ideal of competent public service]]. The defense therefore changes the evaluative question rather than disproving the critique.
 
 In [[how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman|How to Trust and Be Trusted]], Gladwell gives [[RachelBotsman]] room to define trust, challenge the transparency myth, and connect uncertainty tolerance to team autonomy. The audiobook excerpt then carries the episode from interview into instruction through familiarity, convenience, intuition, verification, and the trust pause.
+
+In [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows|The Tipping Point Revisited: Broken Windows]], Gladwell performs the correction in full narrative form. He reconstructs why he credited disorder enforcement, tests the prediction against the post-2013 collapse in stops, centers [[DavidFloyd]]'s experience, and replaces neighborhood-wide suspicion with guarded network and place-level alternatives. His apology is specific, but the episode's effect estimates and replacement mechanisms remain bounded to the cited research summaries.
 
 ## Key Characteristics
 
@@ -194,6 +197,10 @@ In [[how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted
 
 - [[how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman]] uses Botsman's definitions and narrated examples to distinguish trust from control and turn common judgment errors into a practical pause.
 
+### Full-form public correction
+
+- [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] joins failed prediction, [[DavidFloyd]]'s policy burden, [[AndrewPapachristos]]'s network research, and [[CharlesBranas]]'s vacant-lot study to retract the policing version of broken windows without claiming a complete causal account of New York's crime decline.
+
 ## Qualifications
 
 This profile is bounded to structured episode summaries. Personal stories, historical interpretations, close readings, psychobiography, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may underweight evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy; neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey; and the Wu-Tang–secession parallel lacks evidence of direct influence. The golf episode is openly polemical. The Brown episode deliberately corrects a triumphal narrative but is not a comprehensive legal or education history. The *Encores* introduction establishes only Gladwell's retrospective selection and autobiographical framing, not the announced stories' conclusions. The *Good Old Boys* episode offers one historically framed interpretation of Newman's intent and audience response; discomfort and ambiguity do not by themselves prove artistic value, and a few reception cases cannot establish how the album is generally understood. The parapraxis episode reports a patterned archive and revealing live errors but cannot establish one unconscious cause, exclude performance and health factors, or diagnose its participants. *The King of Tears* offers selected musical comparisons rather than a representative lyric corpus or controlled reception study; its country-rock contrast, compression figures, cultural grouping, autobiographical interpretations, and listener responses remain source-scoped. *Hallelujah* offers selected success stories and a heuristic innovation binary rather than a representative study of artists, failed drafts, institutional selection, or reception; persistence, later popularity, and retrospective lineage do not prove latent genius or one decisive cause. Dan's favorable cancer outcome does not establish that minority opinions, surgery, intuition, or extensive consultation are generally superior. The two punishment conversations provide Gladwell's and his interlocutors' accounts rather than independent causal, legal, medical, or historical review; they give limited space to capital-punishment defenses, and acknowledging institutional cruelty does not by itself establish every case detail or constitutional conclusion. His face-recognition account is autobiographical rather than a documented diagnostic evaluation, and it does not establish prevalence, severity, cause, or the reliability of any compensatory cue. Both Kennedy episodes are polemical structured summaries requiring the underlying trial, package insert, paper, interviews, and wider evidence; their source critiques are more directly supported than their claims about Kennedy's motives or reading process.
@@ -204,11 +211,13 @@ This profile is bounded to structured episode summaries. Personal stories, histo
 
 *How to Trust and Be Trusted* adds a twenty-third bounded source. Gladwell mainly frames Botsman's account rather than testing it adversarially, and the supplied summary does not independently validate the cited survey, experiments, or workplace effects.
 
+*The Tipping Point Revisited* adds a twenty-fourth bounded source. It strengthens the evidence that Gladwell explicitly corrected his earlier position, but its homicide trends, stop figures, comparative statistics, network estimates, targeted-enforcement effects, and vacant-lot result require the underlying datasets and studies. Disconfirming mass stops as necessary does not establish a complete alternative explanation.
+
 ## What Changed
 
-- Added a trust-framework interview that moves from conceptual clarification into narrated decision instruction.
-- Added the distinction between trust-based autonomy and reassurance produced by visibility or control.
-- Preserved the need for context-specific oversight and primary verification of the cited research.
+- Added the full narrative audit behind Gladwell's broken-windows correction.
+- Connected failed prediction and apology to the human burden represented by [[DavidFloyd]].
+- Distinguished network- and place-focused alternatives from a complete causal account of crime decline.
 
 ## Relationships
 
@@ -279,3 +288,7 @@ This profile is bounded to structured episode summaries. Personal stories, histo
 - [[RachelBotsman]] - guest whose trust model Gladwell elicits and frames.
 - [[TrustDecisionQuality]] - practical framework developed through the episode's audiobook excerpt.
 - [[TrustControlTransparencyBoundary]] - distinction between openness and monitoring developed in the conversation.
+- [[DavidFloyd]] - plaintiff whose experience and lawsuit make the cost and policy turning point of mass stops concrete.
+- [[AndrewPapachristos]] - criminologist whose network research supports a narrower violence diagnosis.
+- [[BrokenWindowsPolicing]] - earlier explanation Gladwell now explicitly rejects in its arrest-centered form.
+- [[PlaceBasedViolencePrevention]] - literal repair-oriented alternative developed through Philadelphia vacant lots.

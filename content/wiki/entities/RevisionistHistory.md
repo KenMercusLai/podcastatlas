@@ -24,6 +24,7 @@ sources:
   - running-hot
   - in-defense-of-paw-patrol-in-defense-of-paw-patrol
   - how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman
+  - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -75,6 +76,8 @@ An everyday-noise complaint becomes an emergency-systems investigation in [[runn
 A parent's defense becomes a narrative and civic-values argument in [[in-defense-of-paw-patrol-in-defense-of-paw-patrol|In Defense of PAW Patrol]]. The show lets [[AngusFletcher]] make the strongest case that predetermined rescue suppresses uncertainty and counterfactual thought, then has Gladwell concede that criterion while defending emotional reassurance and [[CivicInstitutionalFantasy|competent collective service]] as different goods.
 
 An expert conversation and audiobook excerpt add a practical trust-education form. In [[how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman|How to Trust and Be Trusted]], [[RachelBotsman]] separates trust from continuous visibility, then turns familiarity, convenience, intuition, missing information, and a deliberate pause into tools for [[TrustDecisionQuality]].
+
+[[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows|The Tipping Point Revisited: Broken Windows]] turns self-correction into a full episode structure. It moves from autobiographical fear and the original epidemic metaphor through [[DavidFloyd]]'s stop and the post-ruling crime trend to [[AndrewPapachristos]]'s network analysis and [[CharlesBranas]]'s vacant-lot research. The result distinguishes disconfirming an old causal claim from proving every element of a replacement account.
 
 ## Key Characteristics
 
@@ -169,6 +172,10 @@ An expert conversation and audiobook excerpt add a practical trust-education for
 
 - [[how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman]] combines expert conversation, workplace examples, a family story, and an audiobook excerpt to distinguish trust from control and make consequential trust decisions more deliberate.
 
+### Narrative correction and policy alternatives
+
+- [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] reconstructs an influential error, tests its prediction, centers policy burden, and separates network- and place-focused alternatives from indiscriminate enforcement.
+
 ## Qualifications
 
 The bounded sources do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
@@ -179,11 +186,13 @@ The bounded sources do not establish the full range of the show. The health-refo
 
 *How to Trust and Be Trusted* adds a twenty-first bounded source. Its survey, experiments, research attributions, and family story require the cited originals; its trust pause and monitoring boundary are practical frameworks rather than proof that slower decisions or less oversight always produce better outcomes.
 
+*The Tipping Point Revisited* adds a twenty-second bounded source. It is a structured summary of an argumentative retrospective rather than the court opinion, administrative data, criminology studies, or a comprehensive account of New York's crime decline. Its strongest conclusion is the failed necessity prediction; its program-effect estimates and alternative mechanisms require primary verification.
+
 ## What Changed
 
-- Added expert-led trust education as another format joining conceptual definition to practical decision prompts.
-- Distinguished openness and accountability from continuous visibility and surveillance.
-- Preserved proportional oversight for safety, law, safeguarding, and demonstrated risk.
+- Added full-episode self-correction as a distinct Revisionist History form.
+- Joined intellectual accountability to constitutional and human policy costs.
+- Preserved a boundary between refuting mass enforcement as necessary and proving replacement strategies.
 
 ## Relationships
 
@@ -244,3 +253,7 @@ The bounded sources do not establish the full range of the show. The health-refo
 - [[AngusFletcher]] - critic whose “vacuous agon” argument supplies the episode's developmental challenge.
 - [[PredictableNarrativeTradeoff]] - framework separating emotional security from open-ended problem-solving.
 - [[CivicInstitutionalFantasy]] - public-service ideal developed through the rescue team's dependable coordination.
+- [[DavidFloyd]] - plaintiff whose encounter and lawsuit anchor the policy turning point.
+- [[BrokenWindowsPolicing]] - earlier arrest-centered theory the episode rejects.
+- [[ViolenceConcentration]] - network-level alternative to neighborhood-wide danger labels.
+- [[PlaceBasedViolencePrevention]] - environmental repair branch developed through vacant-lot improvement.

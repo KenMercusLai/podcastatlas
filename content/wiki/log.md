@@ -40432,3 +40432,15 @@ Added a sponsored Revisionist History source on firefighter decision support, T-
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Tipping Point Revisited: Broken Windows
+
+Added the [[RevisionistHistory]] episode in which [[MalcolmGladwell]] retracts his earlier claim that [[BrokenWindowsPolicing]] and mass Stop and Frisk caused New York's crime decline. Created [[DavidFloyd]], [[AndrewPapachristos]], [[AaronChalfin]], [[CharlesBranas]], Broken-Windows Policing, and [[PlaceBasedViolencePrevention]], then resynthesized Gladwell, Revisionist History, [[PublicIntellectualErrorCorrection]], and [[ViolenceConcentration]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the continued homicide decline after stops fell sharply disconfirms a simple claim that mass stops were necessary, but does not identify every cause of New York's multidecade crime decline. Network concentration can support narrower prevention without establishing individual guilt, while physical repair offers a non-carceral interpretation of broken windows. No new settled contradiction was adopted beyond Gladwell's explicit correction of his own earlier position. Stop totals, homicide trends, comparative city statistics, network sizes, targeted-enforcement effects, and vacant-lot estimates remain episode-scoped because the supplied file is a structured summary rather than a transcript, court record, administrative dataset, or underlying study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,039 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

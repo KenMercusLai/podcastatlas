@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14338
+wiki_total_pages: 14342
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "AaronBurr"
     title: "Aaron Burr / 阿伦·伯尔"
     url: "/wiki/entities/aaronburr/"
+  - key: "AaronChalfin"
+    title: "Aaron Chalfin"
+    url: "/wiki/entities/aaronchalfin/"
   - key: "AaronCheung"
     title: "Aaron Cheung"
     url: "/wiki/entities/aaroncheung/"
@@ -1358,6 +1361,9 @@ wiki_pages:
   - key: "AndrewPalmer"
     title: "Andrew Palmer"
     url: "/wiki/entities/andrewpalmer/"
+  - key: "AndrewPapachristos"
+    title: "Andrew Papachristos"
+    url: "/wiki/entities/andrewpapachristos/"
   - key: "AndrewPreston"
     title: "Andrew Preston"
     url: "/wiki/entities/andrewpreston/"

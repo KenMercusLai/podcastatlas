@@ -6,6 +6,7 @@ sources:
   - wolfgang-s-law-part-one
   - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
   - memorial-day-2020-part-2-memorial-day-2020-part-2
+  - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -25,6 +26,8 @@ Concentration is a population-level diagnostic, not an inference of guilt. Netwo
 The Lehrer interview adds the practical claim that even large high-violence communities may contain only a few hundred people at immediate risk of shooting or being shot. That scale can support intensive, person-specific help, but the same precision claim increases the need for transparent inclusion criteria, correction, and separation of supportive outreach from automatic criminal suspicion.
 
 A cross-domain comparison with police complaints and repeat dangerous officers reinforces the policy value of locating concentrated harm while showing why each domain needs different evidence, safeguards, and interventions. A shared fat-tail distribution does not make community violence and police misconduct equivalent.
+
+Network distance makes the policy contrast more specific. [[AndrewPapachristos]]'s account places the highest shooting risk within a few social connections of a victim; if that pattern holds, millions of low-yield frisks across a broad population are not merely burdensome but operate at the wrong resolution. That conclusion supports narrower inquiry and support, not automatic suspicion of everyone in a mapped network.
 
 ## Key Claims
 
@@ -46,6 +49,11 @@ A cross-domain comparison with police complaints and repeat dangerous officers r
 
 - [[wolfgang-s-law-part-one]] reports roughly 700 people in 18 groups in Baltimore's Western District, about 400 central people in a Chicago neighborhood, a half-percent estimate for New Orleans shootings, and a six-person reassessment in a Stockholm case.
 - [[brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns]] repeats Western Baltimore and Chicago examples to argue for individualized attention rather than broad neighborhood enforcement.
+- [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] reports that shooting risk in Papachristos's Chicago network was highest within roughly one to three connections of a victim and declined beyond that range.
+
+### Broad-versus-narrow intervention
+
+- [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] contrasts the network diagnosis with 2.3 million frisks, a reported 1.5 percent weapon-recovery rate, and later hotspot and targeted-investigation tactics.
 
 ### Cross-domain concentration boundary
 
@@ -53,13 +61,13 @@ A cross-domain comparison with police complaints and repeat dangerous officers r
 
 ## Counterevidence & Qualifications
 
-The episodes summarize rather than reproduce the underlying studies. Recorded offending reflects enforcement and measurement as well as conduct, while network boundaries and causal roles can be uncertain. Concentration can support narrower prevention, but it can also make a small group bear intensive surveillance or intervention without adequate process. Complaint distributions likewise reflect reporting access, assignment, exposure, investigation, and substantiation practices; a shared distribution shape does not make police misconduct and community violence morally or operationally equivalent.
+The episodes summarize rather than reproduce the underlying studies. Recorded offending and co-arrest ties reflect enforcement and measurement as well as conduct and relationships, while network boundaries and causal roles can be uncertain. Concentration can support narrower prevention, but it can also make a small group bear intensive surveillance or intervention without adequate process. Complaint distributions likewise reflect reporting access, assignment, exposure, investigation, and substantiation practices; a shared distribution shape does not make police misconduct and community violence morally or operationally equivalent. Reported gang-takedown effects do not establish that coercive enforcement is the only or best response to network risk.
 
 ## What Changed
 
-- Established a guarded synthesis separating a useful network-level diagnostic from individual prediction or guilt.
-- Added the operational case for individualized support over neighborhood-wide enforcement.
-- Added police misconduct as a qualified cross-domain comparison and made the non-equivalence of datasets and remedies explicit.
+- Added network distance as a more specific account of concentrated victimization risk.
+- Sharpened the contrast between broad low-yield stops and network-resolution prevention.
+- Preserved the boundary between narrow diagnosis and guilt, coercion, or unqualified causal claims.
 
 ## Related Concepts
 

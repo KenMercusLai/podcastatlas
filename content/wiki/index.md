@@ -5160,6 +5160,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rat vs. Raccoon](sources/rat-vs-raccoon-rat-vs-raccoon.md) — Revisionist History uses Toronto raccoons and psychology's laboratory-rat history to examine model selection, experimental tractability, external validity, and species-specific cognition.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 - [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg.md) — 十字路口Crossing对话赵晨阳，以低成本自动化评估为核心串联RSI、开源代码治理、廉价智能、Computer Use、交互式语音和权责对等。
+- [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
 - [3AM Innovations](entities/ThreeAMInnovations.md) — Public-safety technology company combining radio analysis, sensor data, and three-dimensional responder location for incident commanders.
@@ -19592,6 +19593,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thebes](entities/Thebes.md) — Major Greek city whose isolated revolt ended in massacre, enslavement, near-total destruction, and deterrent shock across Greece.
 - [Arrian](entities/Arrian.md) — Roman-era military historian whose detailed Alexander narrative is late, selective, and generally favorable to its subject.
 
+- [David Floyd](entities/DavidFloyd.md) — Named Stop-and-Frisk plaintiff whose encounter and lawsuit anchor Gladwell's broken-windows correction.
+- [Andrew Papachristos](entities/AndrewPapachristos.md) — Criminologist using social-network analysis to locate concentrated shooting and victimization risk.
+- [Aaron Chalfin](entities/AaronChalfin.md) — Criminologist connecting New York's post-stop homicide trend to a shift toward narrower policing tactics.
+- [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
+
 ## Concepts
 - [Emergency-Response Decision Support](concepts/EmergencyResponseDecisionSupport.md) — Human-supervised integration of AI, radio, sensors, location, and connectivity to reduce incident uncertainty and cognitive load.
 - [Decentralized Health Monitoring](concepts/DecentralizedHealthMonitoring.md) — Home and community sensing model whose value depends on interoperability, accountable escalation, access, and clinical interpretation.
@@ -31089,5 +31095,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interactive AI / 交互式人工智能](concepts/InteractiveAI.md) — Continuous and interruptible AI interaction spanning native full-duplex, turn-based audio, and cascaded voice systems.
 - [Voice Input Workflow / 语音输入工作流](concepts/VoiceInputWorkflow.md) — Speech-first composition joining ASR with contextual language-model correction, formatting, and transformation.
 - [Open-Source AI Code Governance / AI时代开源代码治理](concepts/OpenSourceAICodeGovernance.md) — Explicit merge gates, scoped authority, and accountable maintenance for AI-amplified contribution volume.
+
+- [Broken-Windows Policing](concepts/BrokenWindowsPolicing.md) — Disorder-enforcement model separated from the intrinsic value of orderly public space and rejected as a necessary cause of New York's crime decline.
+- [Place-Based Violence Prevention](concepts/PlaceBasedViolencePrevention.md) — Environmental repair approach acting on neglected spaces without making broad low-level arrest the primary intervention.
 
 ## Syntheses

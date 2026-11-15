@@ -4,6 +4,7 @@ type: concept
 tags: [epistemology, accountability, public-writing, belief-revision]
 sources:
   - malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from
+  - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ Public intellectual error correction is the responsibility to revise a public cl
 
 ## Current Synthesis
 
-The source develops the concept through [[MalcolmGladwell]]'s retrospective rejection of his broken-windows account of New York's crime decline. The crucial evidence is not simply that he feels less certain: after a court curtailed Stop and Frisk, crime continued falling rather than rising as he and many others predicted. He therefore accepts that the explanation in *The Tipping Point* was wrong and that a widely read argument helped form the climate around an aggressive policy imposed disproportionately on young Black men.
+The sources develop the concept through [[MalcolmGladwell]]'s retrospective rejection of his broken-windows account of New York's crime decline. The crucial evidence is not simply that he feels less certain: after a court curtailed Stop and Frisk, crime continued falling rather than rising as he and many others predicted. He therefore accepts that the explanation in *The Tipping Point* was wrong and that a widely read argument helped form the climate around an aggressive policy imposed disproportionately on young Black men.
+
+[[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows|The Tipping Point Revisited]] strengthens the correction by reconstructing the original theory, centering [[DavidFloyd]]'s encounter and lawsuit, naming the failed prediction, and offering narrower alternatives. The episode does not replace one monocausal citywide story with another: it separates the disconfirmation of mass stops as necessary from the still-open question of every cause of New York's crime decline.
 
 Correction has three linked parts. Knowledge remains provisional because fields and evidence change. Influence creates a duty to name downstream consequences rather than presenting revision as private intellectual play. Credibility can survive or improve when a person makes the evidence and changed judgment legible; refusal to update in a changing world is the deeper threat to trust.
 
@@ -34,10 +37,12 @@ Correction has three linked parts. Knowledge remains provisional because fields 
 ### Failed prediction and changed judgment
 
 - [[malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from]] reports that crime kept falling after Stop and Frisk was curtailed, contrary to Gladwell's broken-windows expectation.
+- [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] reconstructs the prediction and reports that stops fell roughly 90–95 percent while homicide continued to decline.
 
 ### Influence and ownership
 
 - [[malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from]] has Gladwell accept that *The Tipping Point* contributed to public support for aggressive policing rather than treating the error as consequence-free.
+- [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] connects the correction to [[DavidFloyd]]'s experience, the constitutional ruling, and the broad human burden of Stop and Frisk.
 
 ### Provisional public knowledge
 
@@ -48,12 +53,14 @@ Correction has three linked parts. Knowledge remains provisional because fields 
 - One corrected claim does not establish a general record of accuracy, openness, or adequate repair.
 - A falling crime rate after policy change can disconfirm a simple necessity claim without by itself establishing the full causal explanation for the decline.
 - Public correction does not undo earlier harms or determine what restitution, policy reversal, or platforming response is sufficient.
-- The source is Gladwell's retrospective account in a friendly interview, not an independent history of broken-windows scholarship, Stop and Frisk, crime trends, or the influence of *The Tipping Point*.
+- Both sources are Gladwell-centered retrospective accounts, not independent histories of broken-windows scholarship, Stop and Frisk, crime trends, or the influence of *The Tipping Point*.
+- The later episode's network, targeted-enforcement, and vacant-lot alternatives carry their own causal, measurement, due-process, and generalizability limits; correction should not turn them into a new unqualified orthodoxy.
 
 ## What Changed
 
-- Created the concept around the link among failed prediction, public influence, and explicit correction.
-- Distinguished revisable enthusiasm from certainty and from consequence-free contrition.
+- Strengthened the correction with the original theory, explicit failed prediction, and a policy turning point.
+- Added the requirement that replacement explanations remain proportionate to their evidence.
+- Connected intellectual ownership more directly to the people exposed to the earlier policy climate.
 
 ## Related Concepts
 
