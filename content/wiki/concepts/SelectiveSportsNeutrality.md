@@ -6,6 +6,7 @@ sources:
   - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
   - hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia
   - hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache
+  - hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Selective sports neutrality is an institutional posture that treats event contin
 [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour|Hitler’s Olympics, Part 5]] makes neutrality testable at the level of conditions rather than declarations. [[AveryBrundage]] said Olympic participation should be free of class, creed, and racial discrimination, yet his German inspection relied on Nazi interpreters, questioned Jewish representatives in front of regime officials, discounted reports of exclusion and assault, and accepted promises of formal eligibility without equal access to preparation.
 
 [[MargaretLambert]] shows the failure of that posture. Her coerced candidacy could be displayed as inclusion while the regime controlled facilities, competition, family pressure, and final selection. A neutrality doctrine therefore becomes selective when it protects the institution from boycott pressure but does not protect athletes from the political conditions determining who can qualify or speak safely.
+
+The 1933 Vienna agreement shows the conceptual narrowing that came first. The IOC declined to intervene in Germany's domestic sporting order but demanded a written promise that race or religion would not formally determine Olympic team selection. That distinction treated visible persecution as external to Olympic fairness and left the same state in control of the pathway by which an athlete could become selectable, as documented in [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock|Hitler’s Olympics, Part 2]].
 
 The belief structure can precede the visible asymmetry. Brundage treated amateur sport as a pure, measurable refuge from social corruption and sought authority inside an elite Olympic hierarchy. That sincerity does not make later neutrality more credible: when a rule system becomes part of an official's moral identity and status, protecting the institution can feel like protecting fairness even as host-state exclusion remains unexamined, as the formative account in [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia|Hitler’s Olympics, Part 4]] suggests.
 
@@ -38,6 +41,8 @@ The earlier diplomatic case sharpens the distinction between a formal exception 
 
 ## Evidence
 
+- Narrowed jurisdiction: [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock]] describes the IOC's separation of internal German persecution from Olympic selection.
+- Assurance without control: [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock]] shows a written nondiscrimination promise being treated as sufficient while the Nazi state retained authority over sporting conditions and selection.
 - Managed inquiry: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] describes Brundage's reliance on Nazi interpreters and questioning in officials' presence.
 - Unequal conditions: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] reports closed facilities, disrupted events, assaults, and inadequate preparation for Jewish athletes.
 - Token inclusion: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] connects Lambert's coerced candidacy to international propaganda.
@@ -50,12 +55,12 @@ The earlier diplomatic case sharpens the distinction between a formal exception 
 
 ## Counterevidence & Qualifications
 
-The three sources do not establish that every neutrality claim is cynical, that participation always produces more harm than refusal, or that Sherrill, Brundage, or the IOC alone controlled American and international decisions. Part 3's account of Sherrill's psychology and class is interpretive; Part 4 supports sincere belief alongside status ambition while treating shame and jealousy as inference; and Part 5 finds no explicit appointment bargain. The concept should diagnose asymmetric standards and ignored conditions, not substitute for case-specific evidence about authority, intent, or boycott effects.
+The four sources do not establish that every neutrality claim is cynical, that participation always produces more harm than refusal, or that Sherrill, Brundage, or the IOC alone controlled American and international decisions. Part 2 does not independently establish the legal force or full implementation of the Vienna assurance; Part 3's account of Sherrill's psychology and class is interpretive; Part 4 supports sincere belief alongside status ambition while treating shame and jealousy as inference; and Part 5 finds no explicit appointment bargain. The concept should diagnose asymmetric standards and ignored conditions, not substitute for case-specific evidence about authority, intent, or boycott effects.
 
 ## What Changed
 
-- Added the difference between a host-controlled exception and system-level equality.
-- Added Sherrill and Mayer as a diplomatic precursor to Brundage and Lambert's later inspection-and-selection case.
+- Located selective neutrality one step earlier: in the decision to exclude domestic persecution from the Olympic question.
+- Distinguished written nondiscrimination from independent control over access, preparation, and selection.
 
 ## Related Concepts
 

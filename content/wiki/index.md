@@ -5173,6 +5173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg.md) — 十字路口Crossing对话赵晨阳，以低成本自动化评估为核心串联RSI、开源代码治理、廉价智能、Computer Use、交互式语音和权责对等。
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 - [Pushkin Goes to the Olympics](sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics.md) — Revisionist History compilation on women's distance-running exclusion, MRI/AI muscle mapping, and the historically disputed Owens–Long friendship story.
+- [Hitler’s Olympics, Part 2: Pangloss, Polonius, Prufrock](sources/hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock.md) — Revisionist History profile of Charles Sherrill, the IOC's 1933 eligibility guarantee, and elite procedural accommodation of Nazi persecution.
 
 ## Entities
 - [Charles Hitchcock Sherrill](entities/CharlesHitchcockSherrill.md) — American IOC official whose elite deference, strongman admiration, and token-inclusion diplomacy helped secure participation in Berlin 1936.

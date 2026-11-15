@@ -40588,3 +40588,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Hitler’s Olympics, Part 2: Pangloss, Polonius, Prufrock
+
+Added a [[RevisionistHistory]] episode profiling [[CharlesHitchcockSherrill]] as a self-mythologizing elite insider whose confidence, social prestige, and faith in personal diplomacy shaped the IOC response to Nazi exclusion. Resynthesized Sherrill, the [[InternationalOlympicCommittee]], [[SelectiveSportsNeutrality]], and [[EliteStatusComplicity]] from their preserved evidence inventories before appending the new source once.
+
+Core synthesis: the 1933 Vienna agreement narrowed a visible moral crisis to a written promise of formally nondiscriminatory team selection, leaving Nazi Germany in control of access, preparation, and selection while letting Olympic officials claim a victory for equality. The source adds the procedural precursor to the later token-athlete and controlled-candidacy cases rather than contradicting them. Personality, motive, influence, the crouching-start claim, memoir and scrapbook meaning, and the agreement's exact legal force remain source-scoped because the supplied file is a structured summary rather than a transcript, archive, IOC minutes, or German government record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,052 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

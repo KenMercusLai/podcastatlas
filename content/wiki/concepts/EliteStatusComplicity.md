@@ -4,6 +4,7 @@ type: concept
 tags: [complicity, elites, status, authoritarianism, institutions]
 sources:
   - hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache
+  - hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,11 @@ Elite status complicity is accommodation of injustice driven by the habits and r
 
 ## Current Synthesis
 
-[[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache|Hitler’s Olympics, Part 3]] develops the mechanism through [[CharlesHitchcockSherrill]]. His optimism was not merely good temperament; it helped turn personal success into evidence that the social order was sound. Elite codes encouraged flattery and discouraged public criticism among peers, while antisemitism and racial hierarchy kept outsiders' complaints from carrying equal moral weight.
+[[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock|Hitler’s Olympics, Part 2]] develops the mechanism through [[CharlesHitchcockSherrill]] before his open admiration for fascist power. Athletic success, diplomatic access, memoir, scrapbook, and a disputed claim to have invented the crouching start supported a self-story in which confidence repeatedly passed for competence. The episode's Polonius, Pangloss, Prufrock, and “Mr. B” types describe an insider who adopts his class's values and treats whatever is succeeding as worthy of deference.
+
+That disposition shaped institutional judgment at Vienna in 1933. Sherrill celebrated a written German eligibility promise as a victory for equality even as Nazi persecution was already visible. Personal diplomacy and a formal assurance allowed an elite official to experience himself as the solver of a moral crisis while leaving the persecuting regime's power largely intact.
+
+[[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache|Hitler’s Olympics, Part 3]] extends the mechanism through the social order that rewarded him. His optimism was not merely good temperament; it helped turn personal success into evidence that the social order was sound. Elite codes encouraged flattery and discouraged public criticism among peers, while antisemitism and racial hierarchy kept outsiders' complaints from carrying equal moral weight.
 
 Status attraction then converted hierarchy into political perception. Sherrill admired [[BenitoMussolini]] and [[AdolfHitler]] as forceful, visibly successful men, valued honors and access, and interpreted a meeting with Hitler as a contest among consequential individuals. The threatened people became background to the preservation of an institution and to Sherrill's own diplomatic role.
 
@@ -24,7 +29,7 @@ Status attraction then converted hierarchy into political perception. Sherrill a
 
 ## Key Claims
 
-- Personal success within a hierarchy can make that hierarchy appear naturally legitimate.
+- Personal success and repeated public validation can make confidence feel like evidence of competence and hierarchy feel naturally legitimate.
 - Elite mutual deference can suppress criticism precisely when peers gain dangerous power.
 - Prejudice need not match an authoritarian movement's full ideology to ease accommodation with it.
 - Honors, access, ceremony, and visible success can displace attention from those harmed by policy.
@@ -33,6 +38,8 @@ Status attraction then converted hierarchy into political perception. Sherrill a
 
 ## Evidence
 
+- Self-mythology and validation: [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock]] connects Sherrill's athletic legend, disputed crouching-start claim, memoir, scrapbooks, and powerful acquaintances to his self-certainty.
+- Procedural self-exoneration: [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock]] describes how a negotiated guarantee let Sherrill claim defense of equality without confronting the host regime's broader persecution.
 - Hierarchy and optimism: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] connects Sherrill's happy, privileged life to defense of the social order.
 - Deference and prejudice: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] describes elite codes of mutual flattery alongside routine exclusion of Jews and Black subordinates.
 - Attraction to power: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] recounts Sherrill's admiration for Mussolini and Hitler, his honors, and his Nuremberg enthusiasm.
@@ -41,12 +48,12 @@ Status attraction then converted hierarchy into political perception. Sherrill a
 
 ## Counterevidence & Qualifications
 
-The concept is interpretive and should not reduce every elite actor to one psychology or make outsider status a guarantee of sound judgment. The source does not independently prove Sherrill's inner motives, the representativeness of his class, or Thompson's full account of fascism. Status incentives, prejudice, institutional loyalty, ideology, fear, and strategic calculation may coexist in different proportions. Responsibility also remains differentiated: accommodation by an Olympic official is consequential but not identical to the authority or guilt of regime leaders and direct persecutors.
+The concept is interpretive and should not reduce every elite actor to one psychology or make outsider status a guarantee of sound judgment. The two sources do not independently prove Sherrill's inner motives, the truth or meaning of every memoir and scrapbook episode, the representativeness of his class, or Thompson's full account of fascism. Status incentives, prejudice, institutional loyalty, ideology, fear, and strategic calculation may coexist in different proportions. Responsibility also remains differentiated: accommodation by an Olympic official is consequential but not identical to the authority or guilt of regime leaders and direct persecutors.
 
 ## What Changed
 
-- Created a mechanism linking privilege, optimism, mutual deference, status attraction, and token accommodation.
-- Added outsider-oriented attention as a contrastive aid to perception rather than a deterministic virtue.
+- Added self-mythology and repeated public validation as mechanisms that can convert confidence into unearned authority.
+- Identified procedural victory as a form of self-exoneration when an elite negotiator leaves the underlying coercive system intact.
 
 ## Related Concepts
 

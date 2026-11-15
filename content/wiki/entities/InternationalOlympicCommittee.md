@@ -7,6 +7,7 @@ sources:
   - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
   - hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia
   - hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache
+  - hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The International Olympic Committee is the governing institution of the [[Modern
 
 The episode's criticism centers especially on [[AveryBrundage]], but its wider argument is institutional: continuity, ceremony, and claimed political separation can protect the event while leaving repression, athlete rights, security, and public cost insufficiently addressed.
 
+The committee's 1933 Vienna response to Nazi antisemitism shows how that selectivity could be built into the question itself. IOC officials treated Germany's persecution of Jewish people as an internal matter while insisting only that race or religion not formally determine Olympic team selection. [[CharlesHitchcockSherrill]] secured a written German assurance on that narrow point, and public praise made the promise appear to solve the crisis even though the host state controlled the conditions and selection process, as documented in [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock|Hitler’s Olympics, Part 2]].
+
 The Berlin 1936 case adds an institutional-entry problem. Brundage sought an IOC seat while helping secure American participation, then joined the committee shortly before the Games after accepting Nazi assurances that qualified Jewish athletes could compete. The evidence does not establish an explicit appointment bargain, but it shows how elite recruitment, event continuity, and a host's international legitimacy could align while [[MargaretLambert]] remained excluded, as documented in [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour|Hitler’s Olympics, Part 5]].
 
 [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia|Hitler’s Olympics, Part 4]] supplies the social and psychological prehistory of that entry. It depicts the IOC as an aristocratic hierarchy whose prestige attracted a self-made builder who both believed in Olympic merit and wanted recognition from inherited elites. Brundage's candidacy arriving alongside the Berlin exclusion dispute therefore created a conflict before any explicit bargain: the institution's gatekeeping power could reward an official whose defense of Olympic continuity advanced the host's legitimacy.
@@ -37,7 +40,7 @@ An earlier Berlin internal-diplomacy case adds [[CharlesHitchcockSherrill]] and 
 - Influences host-city obligations whose costs and benefits are distributed beyond the sporting institution.
 - Must balance event continuity against athlete welfare, protest rights, security, and public legitimacy.
 - Elite recruitment and informal ambition can create conflicts between independent scrutiny and preserving a host event.
-- Hierarchical prestige and internal diplomacy can align sincere institutional belief with status incentives and turn one controlled exception into apparent compliance, even without a provable exchange.
+- Hierarchical prestige and internal diplomacy can align sincere institutional belief with status incentives, narrowing persecution to a written eligibility promise and later turning one controlled exception into apparent compliance.
 
 ## Evidence
 
@@ -45,6 +48,8 @@ An earlier Berlin internal-diplomacy case adds [[CharlesHitchcockSherrill]] and 
 - Protest and repression: [[81-modern-olympics-part-2-glt4846758176]] connects Mexico 1968 to the massacre and the punishment of Tommie Smith and John Carlos.
 - Crisis continuity: [[81-modern-olympics-part-2-glt4846758176]] describes the decision to resume competition after the Munich killings.
 - Host-city model: [[81-modern-olympics-part-2-glt4846758176]] criticizes costly commitments and uncertain economic or participation returns.
+- Vienna eligibility boundary: [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock]] describes the IOC's separation of German domestic persecution from formal Olympic selection.
+- Written-assurance limit: [[hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock]] connects Sherrill's negotiated guarantee to continued planning without independent control over athlete conditions or selection.
 - Berlin entry and legitimacy: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] connects Brundage's IOC ambition and appointment to his acceptance of Nazi eligibility assurances and the American participation decision.
 - Athlete exclusion: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] contrasts institutional continuity with Lambert's coerced candidacy and exclusion.
 - Elite hierarchy: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] presents Brundage's pursuit of IOC membership as a meeting of Olympic conviction, outsider ambition, and aristocratic recognition.
@@ -54,12 +59,12 @@ An earlier Berlin internal-diplomacy case adds [[CharlesHitchcockSherrill]] and 
 
 ## Qualifications
 
-This page records four episodes' critical interpretations rather than a complete institutional history or legal account of the IOC. Part 3's account does not establish Baillet-Latour's full authority or the committee's collective knowledge; Part 4's account of aristocratic hierarchy and Brundage's status ambition is interpretive; and Part 5 does not prove an explicit exchange of American participation for his appointment. The page does not independently establish current IOC rules, finances, host contracts, or reforms after the periods discussed.
+This page records five episodes' critical interpretations rather than a complete institutional history or legal account of the IOC. Part 2 does not independently establish the full Vienna record, legal force of the German assurance, or every member's knowledge; Part 3 does not establish Baillet-Latour's full authority or the committee's collective knowledge; Part 4's account of aristocratic hierarchy and Brundage's status ambition is interpretive; and Part 5 does not prove an explicit exchange of American participation for his appointment. The page does not independently establish current IOC rules, finances, host contracts, or reforms after the periods discussed.
 
 ## What Changed
 
-- Added Sherrill and Baillet-Latour's internal diplomacy as an earlier route from procedural minimum to event continuity.
-- Added Mayer's invitation as a test of the difference between one controlled exception and equal sporting conditions.
+- Moved the origin of Berlin accommodation back to the IOC's 1933 decision to separate persecution from formal selection.
+- Identified the written German guarantee as the procedural precursor to later token compliance.
 
 ## Relationships
 
