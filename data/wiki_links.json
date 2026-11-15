@@ -8763,6 +8763,10 @@
     "title": "Alabama",
     "url": "/wiki/entities/alabama/"
   },
+  "AlabamaDepartmentOfCorrections": {
+    "title": "Alabama Department of Corrections",
+    "url": "/wiki/entities/alabamadepartmentofcorrections/"
+  },
   "AlamoDrafthouseCinema": {
     "title": "Alamo Drafthouse Cinema",
     "url": "/wiki/entities/alamodrafthousecinema/"
@@ -10258,6 +10262,10 @@
   "AndrewJackson": {
     "title": "Andrew Jackson / 安德鲁·杰克逊",
     "url": "/wiki/entities/andrewjackson/"
+  },
+  "AndrewJarecki": {
+    "title": "Andrew Jarecki",
+    "url": "/wiki/entities/andrewjarecki/"
   },
   "AndrewJohnson": {
     "title": "Andrew Johnson",
@@ -18051,6 +18059,10 @@
     "title": "Carceral Labor Governance",
     "url": "/wiki/concepts/carcerallaborgovernance/"
   },
+  "CarceralLaborParoleConflict": {
+    "title": "Carceral Labor–Parole Conflict",
+    "url": "/wiki/concepts/carcerallaborparoleconflict/"
+  },
   "CardiacImplantableDeviceDifferentiation": {
     "title": "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分",
     "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
@@ -19410,6 +19422,10 @@
   "CharlotteHoward": {
     "title": "Charlotte Howard",
     "url": "/wiki/entities/charlottehoward/"
+  },
+  "CharlotteKaufman": {
+    "title": "Charlotte Kaufman",
+    "url": "/wiki/entities/charlottekaufman/"
   },
   "CharlotteShultz": {
     "title": "Charlotte Shultz",
@@ -24014,6 +24030,10 @@
   "ContinuousLearningAgainstDisplacement": {
     "title": "Continuous Learning Against Displacement / 以持续学习对抗替代",
     "url": "/wiki/concepts/continuouslearningagainstdisplacement/"
+  },
+  "ContrabandPhoneAccountabilityEvidence": {
+    "title": "Contraband Phone Accountability Evidence",
+    "url": "/wiki/concepts/contrabandphoneaccountabilityevidence/"
   },
   "ContraceptionSexualHealthRiskLiteracy": {
     "title": "Contraception and Sexual-Health Risk Literacy / 避孕与性健康风险素养",
@@ -29094,6 +29114,10 @@
   "DocumentChunking": {
     "title": "Document Chunking",
     "url": "/wiki/concepts/documentchunking/"
+  },
+  "DocumentaryContextualDisclosure": {
+    "title": "Documentary Contextual Disclosure",
+    "url": "/wiki/concepts/documentarycontextualdisclosure/"
   },
   "DocumentaryEthicalRestraint": {
     "title": "Documentary Ethical Restraint / 纪录片伦理克制",
@@ -47591,6 +47615,10 @@
     "title": "Inca Civil War",
     "url": "/wiki/concepts/incacivilwar/"
   },
+  "IncarceratedCollaborativeDocumentaryAuthorship": {
+    "title": "Incarcerated Collaborative Documentary Authorship",
+    "url": "/wiki/concepts/incarceratedcollaborativedocumentaryauthorship/"
+  },
   "IncenseFormulaReconstruction": {
     "title": "Incense Formula Reconstruction / 古方香复刻",
     "url": "/wiki/concepts/incenseformulareconstruction/"
@@ -53646,6 +53674,10 @@
   "Kinderhymne": {
     "title": "Kinderhymne",
     "url": "/wiki/entities/kinderhymne/"
+  },
+  "KineticJustice": {
+    "title": "Robert Earl Council / Kinetic Justice",
+    "url": "/wiki/entities/kineticjustice/"
   },
   "KingArthur": {
     "title": "King Arthur",
@@ -88191,6 +88223,10 @@
     "title": "Stephen Cohen",
     "url": "/wiki/entities/stephencohen/"
   },
+  "StephenDavis": {
+    "title": "Stephen Davis",
+    "url": "/wiki/entities/stephendavis/"
+  },
   "StephenFry": {
     "title": "Stephen Fry",
     "url": "/wiki/entities/stephenfry/"
@@ -91754,6 +91790,10 @@
   "TheAITurningPoint": {
     "title": "The AI Turning Point",
     "url": "/wiki/entities/theaiturningpoint/"
+  },
+  "TheAlabamaSolution": {
+    "title": "The Alabama Solution",
+    "url": "/wiki/entities/thealabamasolution/"
   },
   "TheAmericanWayOfKilling": {
     "title": "The American Way of Killing",
@@ -107806,6 +107846,10 @@
   "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705": {
     "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
     "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+  },
+  "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki": {
+    "title": "Behind the Scenes with Andrew Jarecki",
+    "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
   },
   "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198": {
     "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14199
+wiki_total_pages: 14205
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "Alabama"
     title: "Alabama"
     url: "/wiki/entities/alabama/"
+  - key: "AlabamaDepartmentOfCorrections"
+    title: "Alabama Department of Corrections"
+    url: "/wiki/entities/alabamadepartmentofcorrections/"
   - key: "AlamoDrafthouseCinema"
     title: "Alamo Drafthouse Cinema"
     url: "/wiki/entities/alamodrafthousecinema/"
@@ -1310,6 +1313,9 @@ wiki_pages:
   - key: "AndrewJackson"
     title: "Andrew Jackson / 安德鲁·杰克逊"
     url: "/wiki/entities/andrewjackson/"
+  - key: "AndrewJarecki"
+    title: "Andrew Jarecki"
+    url: "/wiki/entities/andrewjarecki/"
   - key: "AndrewJohnson"
     title: "Andrew Johnson"
     url: "/wiki/entities/andrewjohnson/"

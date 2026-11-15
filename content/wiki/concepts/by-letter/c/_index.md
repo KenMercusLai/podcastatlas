@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11289
+wiki_total_pages: 11293
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "CarceralLaborGovernance"
     title: "Carceral Labor Governance"
     url: "/wiki/concepts/carcerallaborgovernance/"
+  - key: "CarceralLaborParoleConflict"
+    title: "Carceral Labor–Parole Conflict"
+    url: "/wiki/concepts/carcerallaborparoleconflict/"
   - key: "CardiacImplantableDeviceDifferentiation"
     title: "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分"
     url: "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
@@ -2603,6 +2606,9 @@ wiki_pages:
   - key: "ContinuousLearningAgainstDisplacement"
     title: "Continuous Learning Against Displacement / 以持续学习对抗替代"
     url: "/wiki/concepts/continuouslearningagainstdisplacement/"
+  - key: "ContrabandPhoneAccountabilityEvidence"
+    title: "Contraband Phone Accountability Evidence"
+    url: "/wiki/concepts/contrabandphoneaccountabilityevidence/"
   - key: "ContraceptionSexualHealthRiskLiteracy"
     title: "Contraception and Sexual-Health Risk Literacy / 避孕与性健康风险素养"
     url: "/wiki/concepts/contraceptionsexualhealthriskliteracy/"

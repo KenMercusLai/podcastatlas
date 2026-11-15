@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Behind the Scenes with Andrew Jarecki](sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki.md) — Revisionist History on The Alabama Solution, incarcerated phone evidence and collaboration, prison deaths, forced labor, parole, disclosure ethics, and continuing retaliation risk.
 - [The Sony Hack | The Mistakes Series](sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series.md) — Revisionist History on the 2014 Sony Pictures hack, an exceptional film approval, schema-driven process failure, and a physical-to-cyber threat-model gap.
 - [A Tragedy in Texas | The Mistakes Series](sources/a-tragedy-in-texas-the-mistakes-series-a-tragedy-in-texas-the-mistakes-series.md) — Revisionist History on the Air Force's unreported conviction, rapid institutional ownership, community presence, and servant leadership after the Sutherland Springs shooting.
 - [The Worst Poet in the World | From Cautionary Tales](sources/the-worst-poet-in-the-world-from-cautionary-tales-the-worst-poet-in-the-world-from-cautionary-tales.md) — Cautionary Tales reconsiders William McGonagall through creative persistence, public humiliation, and the unresolved boundary between naïve failure and deliberate clowning.
@@ -5106,6 +5107,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Andrew Jarecki](entities/AndrewJarecki.md) — Documentary filmmaker whose Alabama investigation joins discovery-led reporting, incarcerated collaboration, and continuing participant protection.
+- [Charlotte Kaufman](entities/CharlotteKaufman.md) — The Alabama Solution co-director whose fieldwork follows Stephen Davis's death and family notification.
+- [The Alabama Solution](entities/TheAlabamaSolution.md) — Documentary using incarcerated phone evidence to investigate Alabama prison violence, labor, parole, secrecy, and organizing.
+- [Stephen Davis](entities/StephenDavis.md) — Incarcerated man whose death anchors the documentary's alleged-brutality and cover-up investigation.
+- [Robert Earl Council / Kinetic Justice](entities/KineticJustice.md) — Incarcerated organizer connecting prison-labor litigation, nonviolent protest, and documentary collaboration.
+- [Alabama Department of Corrections](entities/AlabamaDepartmentOfCorrections.md) — State prison institution examined through managed access, participant evidence, labor, parole, and alleged retaliation.
 - [2014 Sony Pictures Hack](entities/SonyPicturesHack2014.md) — Destructive breach and disclosure crisis linking film governance, geopolitical risk, and cyber retaliation.
 - [The Interview (film)](entities/TheInterviewFilm.md) — Sony political comedy whose exceptional approval and contested release anchor the 2014 hack case.
 - [Heather Wilson](entities/HeatherWilson.md) — Air Force secretary who accepted responsibility for an inherited reporting failure and led rapid disclosure and corrective review.
@@ -19398,6 +19405,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Incarcerated Collaborative Documentary Authorship](concepts/IncarceratedCollaborativeDocumentaryAuthorship.md) — Production relationship in which imprisoned participants create evidence, shape representation, and remain exposed to post-release retaliation.
+- [Contraband Phone Accountability Evidence](concepts/ContrabandPhoneAccountabilityEvidence.md) — Contemporaneous documentation made with prohibited phones inside a closed institution and used to test official accounts.
+- [Carceral Labor–Parole Conflict](concepts/CarceralLaborParoleConflict.md) — Potential incentive conflict when reliable incarcerated workers are trusted for outside labor while release removes their economic value.
+- [Documentary Contextual Disclosure](concepts/DocumentaryContextualDisclosure.md) — Relevance-based decision about disclosing prejudicial subject history without turning biography into permission for abuse.
 - [Decision Guardrail Bypass](concepts/DecisionGuardrailBypass.md) — Exceptional commitment outside cross-functional review that removes independent risk testing and cooling-off time.
 - [Schema-Context Mismatch](concepts/SchemaContextMismatch.md) — Adaptive emotional or interpretive pattern applied where its action rule conflicts with present duties and stakes.
 - [Threat-Channel Blindness](concepts/ThreatChannelBlindness.md) — Risk-analysis failure caused by evaluating one retaliation channel while overlooking another credible route.

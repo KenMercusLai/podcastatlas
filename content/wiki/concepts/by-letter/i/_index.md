@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11289
+wiki_total_pages: 11293
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "IncaCivilWar"
     title: "Inca Civil War"
     url: "/wiki/concepts/incacivilwar/"
+  - key: "IncarceratedCollaborativeDocumentaryAuthorship"
+    title: "Incarcerated Collaborative Documentary Authorship"
+    url: "/wiki/concepts/incarceratedcollaborativedocumentaryauthorship/"
   - key: "IncenseFormulaReconstruction"
     title: "Incense Formula Reconstruction / 古方香复刻"
     url: "/wiki/concepts/incenseformulareconstruction/"

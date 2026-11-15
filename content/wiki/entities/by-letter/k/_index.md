@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14199
+wiki_total_pages: 14205
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "KuseRing"
     title: "Ring (Kuse)"
     url: "/wiki/entities/kusering/"
+  - key: "KineticJustice"
+    title: "Robert Earl Council / Kinetic Justice"
+    url: "/wiki/entities/kineticjustice/"
   - key: "KuseTom"
     title: "Tom (Kuse)"
     url: "/wiki/entities/kusetom/"

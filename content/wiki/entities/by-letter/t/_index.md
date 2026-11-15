@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14199
+wiki_total_pages: 14205
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "TheAITurningPoint"
     title: "The AI Turning Point"
     url: "/wiki/entities/theaiturningpoint/"
+  - key: "TheAlabamaSolution"
+    title: "The Alabama Solution"
+    url: "/wiki/entities/thealabamasolution/"
   - key: "TheAmericanWayOfKilling"
     title: "The American Way of Killing"
     url: "/wiki/entities/theamericanwayofkilling/"

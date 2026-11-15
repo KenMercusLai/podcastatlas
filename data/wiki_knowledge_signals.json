@@ -13230,6 +13230,45 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/alqaeda/"
     },
+    "Alabama": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/alabama/"
+    },
+    "AlabamaDepartmentOfCorrections": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/alabamadepartmentofcorrections/"
+    },
     "AlamoDrafthouseCinema": {
       "episode_count": 1,
       "show_count": 1,
@@ -18165,6 +18204,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/andrewhuberman/"
+    },
+    "AndrewJarecki": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/andrewjarecki/"
     },
     "AndrewJohnson": {
       "episode_count": 6,
@@ -44273,6 +44328,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/carbohydraterestrictionmentalhealth/"
     },
+    "CarceralLaborParoleConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/carcerallaborparoleconflict/"
+    },
     "CardiacImplantableDeviceDifferentiation": {
       "episode_count": 2,
       "show_count": 1,
@@ -48598,6 +48669,22 @@
       ],
       "updated": "2026-11-02",
       "url": "/wiki/entities/charlottehoward/"
+    },
+    "CharlotteKaufman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/charlottekaufman/"
     },
     "CharteredCompanySovereignty": {
       "episode_count": 2,
@@ -63761,6 +63848,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/continuousglucosemonitoring/"
+    },
+    "ContrabandPhoneAccountabilityEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/contrabandphoneaccountabilityevidence/"
     },
     "ContraceptionSexualHealthRiskLiteracy": {
       "episode_count": 3,
@@ -80816,10 +80919,26 @@
       "updated": "2026-10-26",
       "url": "/wiki/concepts/doctoraltrainingcareeralignment/"
     },
+    "DocumentaryContextualDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/documentarycontextualdisclosure/"
+    },
     "DocumentaryEthicalRestraint": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
@@ -80834,9 +80953,16 @@
           "show": "电影巨辩",
           "title": "20世纪专制史，电影先清算一部分",
           "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
+        },
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/documentaryethicalrestraint/"
     },
     "DogBloodCase": {
@@ -151266,6 +151392,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/incacivilwar/"
     },
+    "IncarceratedCollaborativeDocumentaryAuthorship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/incarceratedcollaborativedocumentaryauthorship/"
+    },
     "IncentiveCompatibleAISafety": {
       "episode_count": 2,
       "show_count": 2,
@@ -170600,6 +170742,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/kinderhymne/"
+    },
+    "KineticJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/kineticjustice/"
     },
     "KingArthur": {
       "episode_count": 5,
@@ -287043,6 +287201,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/stephenchow/"
     },
+    "StephenDavis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/stephendavis/"
+    },
     "StephenFry": {
       "episode_count": 1,
       "show_count": 1,
@@ -298382,6 +298556,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/entities/theaiceobook/"
+    },
+    "TheAlabamaSolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Behind_the_Scenes_with_Andrew_Jarecki [Behind_the_Scenes_with_Andrew_Jarecki].md",
+          "key": "behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki",
+          "show": "Revisionist History",
+          "title": "Behind the Scenes with Andrew Jarecki",
+          "url": "/wiki/sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/thealabamasolution/"
     },
     "TheAmericanWayOfKilling": {
       "episode_count": 2,
