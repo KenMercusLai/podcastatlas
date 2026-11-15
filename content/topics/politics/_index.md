@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3536
+topic_total_pages: 3537
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2497,6 +2497,9 @@ topic_concepts:
   - key: "JudicialIndependencePublicOpinion"
     title: "Judicial Independence And Public Opinion"
     url: "/wiki/concepts/judicialindependencepublicopinion/"
+  - key: "JudicialOverrideCapitalSentencing"
+    title: "Judicial Override in Capital Sentencing"
+    url: "/wiki/concepts/judicialoverridecapitalsentencing/"
   - key: "JudicializedOppositionSuppression"
     title: "Judicialized Opposition Suppression"
     url: "/wiki/concepts/judicializedoppositionsuppression/"

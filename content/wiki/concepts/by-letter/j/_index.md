@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11313
+wiki_total_pages: 11314
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "JudicialIndependencePublicOpinion"
     title: "Judicial Independence And Public Opinion"
     url: "/wiki/concepts/judicialindependencepublicopinion/"
+  - key: "JudicialOverrideCapitalSentencing"
+    title: "Judicial Override in Capital Sentencing"
+    url: "/wiki/concepts/judicialoverridecapitalsentencing/"
   - key: "JudicializedOppositionSuppression"
     title: "Judicialized Opposition Suppression"
     url: "/wiki/concepts/judicializedoppositionsuppression/"

@@ -8,6 +8,7 @@ sources:
   - the-alabama-murders-part-6-the-porterfield-sessions
   - the-alabama-murders-part-5-cruel-and-unusual
   - the-alabama-murders-part-4-the-protocol
+  - the-alabama-murders-part-3-a-peculiar-institution
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -16,63 +17,64 @@ last_updated: 2026-11-15
 
 ## Overview
 
-*The Alabama Murders* is a [[RevisionistHistory]] series described as beginning with trauma psychology and developing into an investigation of Alabama's death-penalty system.
+*The Alabama Murders* is a [[RevisionistHistory]] series that develops from trauma psychology into an investigation of the killing of [[ElizabethSennett]], disputed culpability, Alabama capital sentencing, execution methods, institutional secrecy, and repair.
 
 ## Current Profile
 
-The project follows the killing of [[ElizabethSennett]] and the treatment of [[JohnForrestParker]] and [[KennethSmith]], the two men convicted of killing her. Its wider inquiry moves through developmental trauma, lethal injection, nitrogen hypoxia, judicial override, racial history, secrecy, care, and the moral limits of state punishment. Part 4 joins Parker's 10-2 life recommendation and judicially imposed death to [[TomPerryJr]]'s sustained accompaniment and [[JoelZivot]]'s pulmonary-autopsy evidence. Part 5 then reconstructs the gap between Smith's 11-1 life recommendation and death sentence, and between lethal injection's clinical appearance and hours of hidden access attempts. Porterfield's sessions connect that failed execution to bodily memory and childhood violence without excusing the murder; the finale tests Alabama's first-use nitrogen protocol against courtroom admissions, animal research, expert warnings, eyewitness observation, and the state's success narrative.
+The bounded sources now cover Parts 3-7 and a later interview. Part 3 moves the inquiry back to the murder trial: the recovered knife did not fit the fatal chest wounds, the episode's timeline places [[JohnForrestParker]] and [[KennethSmith]] away before those wounds, and testimony about Charles Sennett's abuse supports an alternative-assailant theory without independently proving it. The series then follows separate jury recommendations for life, judicial overrides imposing death, and Alabama's prospective-only repeal.
+
+Parts 4-7 move from Parker's execution and [[TomPerryJr]]'s sustained presence to lethal injection's untested origin, pulmonary injury, Smith's failed first execution, childhood and execution trauma, and Alabama's first-use nitrogen protocol. Across these stages, the project tests whether institutions correct earlier error or instead convert disputed evidence, displaced jury judgment, hidden procedure, and avoidable suffering into settled legality and official success.
 
 ## Key Characteristics
 
-- Began from Kate Porterfield's trauma work rather than a preselected death-penalty thesis.
-- Uses individual cases, autopsy evidence, repeated access failures, and hidden staff qualifications to examine concealed suffering and whether procedural calm represents competence.
-- Connects execution methods to courts, bureaucracy, racial history, and public perception.
+- Reconstructs the physical evidence and timeline behind a disputed murder conviction while preserving admitted violent participation.
+- Separates guilt verdicts, jury sentencing recommendations, judicial overrides, and later execution procedure.
+- Uses individual cases, medical evidence, access failures, and hidden qualifications to test whether procedural calm represents competence.
+- Connects execution methods to courts, bureaucracy, racial history, secrecy, trauma, care, and non-retroactive reform.
 - Develops an abolitionist argument that survives hypothetical procedural perfection.
-- Preserves the victim and her family's grief while examining trauma imposed on condemned people, their families, ministers, clinicians, and counsel.
-- Uses conflict among protocol claims, scientific warnings, witness observations, and official interpretation to test institutional accountability.
-- Rejects a strict victim-perpetrator binary while keeping psychological context distinct from exculpation.
+- Preserves Sennett and her family's grief while examining harm imposed on condemned people and those around them.
+- Rejects a strict victim-perpetrator binary without treating trauma or institutional failure as automatic exculpation.
 
 ## Evidence
 
-### Project origin and case focus
+### Murder evidence and disputed culpability
 
-- [[understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad]] describes Porterfield's case involvement as redirecting Gladwell's original trauma inquiry toward Parker, Smith, and capital punishment.
-- [[the-alabama-murders-part-6-the-porterfield-sessions]] shows that trauma inquiry in practice by joining Smith's post-execution symptoms to childhood domestic violence and caregiving while retaining the murder and victim-family boundary.
+- [[the-alabama-murders-part-3-a-peculiar-institution]] joins the missing smaller knife, rapidly fatal wound testimony, survival timeline, domestic-abuse evidence, pretrial assumptions, and an alternative theory involving Charles Sennett.
 
-### Parker, presence, and the first lethal-injection case
+### Sentencing authority and incomplete reform
 
-- [[the-alabama-murders-part-4-the-protocol]] connects Parker's overridden 10-2 life recommendation and disputed account of culpability to Perry's decades of accompaniment and Parker's 2010 execution.
-- [[the-alabama-murders-part-4-the-protocol]] traces the untested three-drug protocol from rapid adoption to autopsy evidence of pulmonary edema that visible paralysis may conceal.
+- [[the-alabama-murders-part-3-a-peculiar-institution]] reconstructs Parker's 10-2 life recommendation, judicial override, prospective repeal, and failed 2024 resentencing bill.
+- [[the-alabama-murders-part-5-cruel-and-unusual]] reports Smith's separate 11-1 life recommendation, override sentence, and failed first execution.
 
-### Institutional scope
+### Parker, presence, and lethal injection
 
-- [[understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad]] connects the series to method design, judicial override, secrecy, racial violence, and abolition.
-- [[the-alabama-murders-part-5-cruel-and-unusual]] reconstructs Smith's judicial override, the James and Miller access failures, Smith's prolonged first attempt, and Alabama's decision to extend the execution window.
+- [[the-alabama-murders-part-4-the-protocol]] connects Parker's disputed culpability and execution to Perry's accompaniment and [[JoelZivot]]'s pulmonary-autopsy evidence.
 
-### Final protocol test and human aftermath
+### Trauma, nitrogen hypoxia, and institutional scope
 
-- [[the-alabama-murders-part-7-the-second-warrant]] follows Smith's second warrant, reported PTSD, the nitrogen-hypoxia challenge, the execution, and conflicting witness and state accounts.
-- [[the-alabama-murders-part-7-the-second-warrant]] closes by holding the Sennett family's loss beside the later grief experienced by Smith's family, lawyer, and psychologist without treating those losses as interchangeable.
+- [[the-alabama-murders-part-6-the-porterfield-sessions]] joins Smith's post-execution symptoms to childhood violence and caregiving while retaining the victim boundary.
+- [[the-alabama-murders-part-7-the-second-warrant]] tests the first-use nitrogen protocol against expert warnings, animal research, eyewitness observation, and the state's success narrative.
+- [[understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad]] connects the series to secrecy, court doctrine, racial history, and abolition.
 
 ## Qualifications
 
-This profile derives from one interview summary and structured summaries of Parts 4-7 rather than the complete series, transcripts, production archive, court files, family testimony, clinical evidence, execution records, or a developed defense of Alabama's methods and capital punishment. Parker's statements do not independently resolve his precise role in Sennett's death, and childhood trauma does not establish a deterministic path to violence or excuse the murder. Reported autopsy findings, first-attempt experience, witness movement, and animal evidence require their underlying records and do not independently resolve staff competence, awareness, pain, or legality.
+The profile derives from related structured summaries rather than transcripts, production archives, complete court and legislative records, family testimony, medical files, protocols, or a developed defense of Alabama's actions and capital punishment. Part 3's weapon and timing case materially strengthens the reasonable-doubt account but does not independently establish the identity of the fatal assailant or erase admitted participation. Childhood trauma does not determine later violence, and reported autopsy findings, execution experiences, animal evidence, and witness movement do not independently resolve awareness, pain, staff competence, or legality.
 
 ## What Changed
 
-- Added Parker's separate 10-2 life recommendation, disputed culpability, prison transformation, and 2010 execution to the case profile.
-- Extended the lethal-injection inquiry backward from access failure to protocol origin, pulmonary-autopsy evidence, and paralysis-concealed suffering.
-- Added Perry's sustained presence as the series' explicit counterexample to institutional indifference.
+- Extended the series backward from punishment into the physical evidence and public assumptions behind Parker's conviction.
+- Added domestic abuse and an alternative-assailant theory while preserving its circumstantial, episode-scoped status.
+- Added non-retroactive repeal and failed resentencing as a separate correction failure after judicial override.
 
 ## Relationships
 
 - [[RevisionistHistory]] - parent podcast.
 - [[MalcolmGladwell]] - host and investigator.
-- [[KennethSmith]] - central capital-case subject.
-- [[JohnForrestParker]] - capital-case subject whose overridden sentence and execution anchor Part 4.
-- [[TomPerryJr]] - prison minister whose sustained accompaniment supplies the series' care framework.
-- [[MedicalizedExecutionOpacity]] - principal institutional mechanism examined by the project.
+- [[ElizabethSennett]] - victim whose life, injuries, and family set the moral and evidentiary boundary.
+- [[JohnForrestParker]] - defendant whose disputed conviction, overridden sentence, and execution anchor Parts 3 and 4.
+- [[KennethSmith]] - co-defendant whose override, failed execution, trauma, and nitrogen execution anchor Parts 5-7.
+- [[JudicialOverrideCapitalSentencing]] - sentencing and retroactivity mechanism examined across the two cases.
+- [[MedicalizedExecutionOpacity]] - principal execution-procedure mechanism examined by the project.
 - [[NitrogenHypoxiaExecutionRisk]] - first-use method and protocol uncertainty examined in the finale.
-- [[KatePorterfield]] - psychologist whose trauma work helped shape the series and its final human frame.
 - [[FailedExecutionTrauma]] - clinical framework developed through Smith's survival of the first attempt.
-- [[Parentification]] - developmental role reversal used to interpret Smith's childhood caregiving.
+- [[TomPerryJr]] - prison minister whose sustained accompaniment supplies the series' care framework.

@@ -7,6 +7,7 @@ sources:
   - the-alabama-murders-part-7-the-second-warrant
   - the-alabama-murders-part-6-the-porterfield-sessions
   - the-alabama-murders-part-5-cruel-and-unusual
+  - the-alabama-murders-part-3-a-peculiar-institution
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -19,11 +20,11 @@ Kenneth “Kenny” Smith is presented as one of two men convicted of killing El
 
 ## Current Profile
 
-The sources use Smith's case to expose the gap between formal sentencing and execution protocols and lived procedure. His jury recommended life imprisonment without parole 11-1, but the judge imposed death. During Alabama's first attempt to execute him, personnel repeatedly sought arm and central venous access over several hours, largely outside witness view, before the warrant expired. Porterfield's account adds a developmental history of domestic violence, childhood caregiving, and later heavy drinking while treating these as context rather than excuse for Sennett's murder. She says the failed attempt caused severe post-traumatic stress and later depression; Alabama then isolated Smith under a second warrant and executed him with a first-use nitrogen-hypoxia protocol.
+The sources use Smith's case to expose gaps between trial evidence, jury judgment, judicial sentence, and lived execution procedure. Part 3 says Smith and [[JohnForrestParker]] admitted assaulting [[ElizabethSennett]] but argues that a missing smaller knife and the survival timeline place them away before the fatal wounds; that remains an episode theory rather than a reversal of Smith's conviction. His own jury later recommended life imprisonment without parole 11-1, but the judge imposed death. Alabama's first attempt to execute him involved hours of arm and central venous access efforts outside ordinary witness view; [[KatePorterfield]] later attributed severe post-traumatic stress and depression to that attempt. Alabama ultimately executed Smith with a first-use nitrogen-hypoxia protocol.
 
 ## Key Characteristics
 
-- Alabama capital defendant and subject of [[TheAlabamaMurders]].
+- Admitted participant in Sennett's assault whose role in the fatal stabbing is disputed by the Part 3 reconstruction.
 - Received a death sentence through judicial override after an 11-1 jury recommendation for life without parole.
 - Survived a failed lethal-injection attempt after prolonged arm and central-line access efforts.
 - Became a central case in the adoption of nitrogen hypoxia.
@@ -35,6 +36,7 @@ The sources use Smith's case to expose the gap between formal sentencing and exe
 
 ### Capital case and failed procedure
 
+- [[the-alabama-murders-part-3-a-peculiar-institution]] reports Smith's admitted assault, substance use with Parker, the weapon mismatch, and the episode's conclusion that both men had left before the fatal wounds.
 - [[understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad]] connects Smith to the Sennett killing, the failed intravenous-access attempt, and Alabama's later nitrogen-hypoxia method.
 - [[the-alabama-murders-part-5-cruel-and-unusual]] reports the jury recommendation, judicial override, late litigation, repeated arm and chest access attempts, Smith's pain and panic, his post-attempt impairment, and abandonment near the warrant deadline.
 
@@ -54,17 +56,19 @@ The sources use Smith's case to expose the gap between formal sentencing and exe
 
 ## Qualifications
 
-This is not a complete account of the murder, Smith's conduct, trial, appeals, victims, sentencing record, childhood, substance use, failed execution, PTSD diagnosis, or nitrogen execution. The four sources are related podcast material rather than independent confirmation. Developmental trauma may contextualize later violence but does not establish a single causal path or diminish responsibility. The first-attempt account partly relies on Smith and a report commissioned by his legal team; the medical, legal, procedural, and clinical claims require underlying records, state responses, and specialist evidence.
+This is not a complete account of the murder, Smith's conduct, trial, appeals, victims, sentencing record, childhood, substance use, failed execution, PTSD diagnosis, or nitrogen execution. The five sources are related podcast material rather than independent confirmation. Part 3 supplies a substantial reasonable-doubt argument but not an independent finding that Smith could not be legally responsible or that Charles Sennett inflicted the fatal wounds. Developmental trauma may contextualize later violence but does not establish a single causal path or diminish responsibility. Medical, legal, procedural, and clinical claims require underlying records, state responses, and specialist evidence.
 
 ## What Changed
 
-- Added the 11-1 life recommendation and judicial override to the sentencing profile.
-- Reconstructed the first attempt as hours of hidden arm and central-line access efforts rather than a generic IV failure.
-- Added Smith's reported pain, panic, breathing difficulty, and immediate physical impairment as the event preceding the later trauma assessment.
+- Added the weapon mismatch and timing argument that dispute Smith's role in the fatal stabbing while preserving his admitted assault.
+- Separated the challenge to murder culpability from his later jury recommendation, override sentence, and execution-method history.
 
 ## Relationships
 
 - [[TheAlabamaMurders]] - series in which his case is investigated.
+- [[JohnForrestParker]] - co-defendant who joined the assault and whose Part 3 trial supplies the detailed alternative account.
+- [[ElizabethSennett]] - victim whose assault Smith admitted and whose fatal injuries the episode reconstructs separately.
+- [[JudicialOverrideCapitalSentencing]] - mechanism through which a judge displaced his jury's life recommendation.
 - [[MalcolmGladwell]] - host using the case to question humane-execution claims.
 - [[LilianaSegura]] - journalist placing the case within wider execution practice.
 - [[MedicalizedExecutionOpacity]] - concept the failed and concealed procedure illustrates.

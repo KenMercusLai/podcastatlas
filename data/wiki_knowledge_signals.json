@@ -90168,9 +90168,9 @@
       "url": "/wiki/entities/elizabethporter/"
     },
     "ElizabethSennett": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_7_The_Second_Warrant [The_Alabama_Murders_-_Part_7_The_Second_Warrant].md",
@@ -90199,6 +90199,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 4: The Protocol",
           "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_3_A_Peculiar_Institution [The_Alabama_Murders_-_Part_3_A_Peculiar_Institution].md",
+          "key": "the-alabama-murders-part-3-a-peculiar-institution",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 3: A Peculiar Institution",
+          "url": "/wiki/sources/the-alabama-murders-part-3-a-peculiar-institution/"
         }
       ],
       "updated": "2026-11-15",
@@ -166310,9 +166317,9 @@
       "url": "/wiki/entities/johnfetterman/"
     },
     "JohnForrestParker": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
@@ -166320,6 +166327,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 4: The Protocol",
           "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_3_A_Peculiar_Institution [The_Alabama_Murders_-_Part_3_A_Peculiar_Institution].md",
+          "key": "the-alabama-murders-part-3-a-peculiar-institution",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 3: A Peculiar Institution",
+          "url": "/wiki/sources/the-alabama-murders-part-3-a-peculiar-institution/"
         }
       ],
       "updated": "2026-11-15",
@@ -168595,6 +168609,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/judicialabuserebelliontrigger/"
     },
+    "JudicialOverrideCapitalSentencing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_3_A_Peculiar_Institution [The_Alabama_Murders_-_Part_3_A_Peculiar_Institution].md",
+          "key": "the-alabama-murders-part-3-a-peculiar-institution",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 3: A Peculiar Institution",
+          "url": "/wiki/sources/the-alabama-murders-part-3-a-peculiar-institution/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/judicialoverridecapitalsentencing/"
+    },
     "JueJiHengshan": {
       "episode_count": 1,
       "show_count": 1,
@@ -170685,9 +170715,9 @@
       "url": "/wiki/entities/kennethrogoff/"
     },
     "KennethSmith": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -170716,6 +170746,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 5: Cruel and Unusual",
           "url": "/wiki/sources/the-alabama-murders-part-5-cruel-and-unusual/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_3_A_Peculiar_Institution [The_Alabama_Murders_-_Part_3_A_Peculiar_Institution].md",
+          "key": "the-alabama-murders-part-3-a-peculiar-institution",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 3: A Peculiar Institution",
+          "url": "/wiki/sources/the-alabama-murders-part-3-a-peculiar-institution/"
         }
       ],
       "updated": "2026-11-15",
@@ -299883,9 +299920,9 @@
       "url": "/wiki/entities/theaiceobook/"
     },
     "TheAlabamaMurders": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -299921,6 +299958,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 4: The Protocol",
           "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_3_A_Peculiar_Institution [The_Alabama_Murders_-_Part_3_A_Peculiar_Institution].md",
+          "key": "the-alabama-murders-part-3-a-peculiar-institution",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 3: A Peculiar Institution",
+          "url": "/wiki/sources/the-alabama-murders-part-3-a-peculiar-institution/"
         }
       ],
       "updated": "2026-11-15",
