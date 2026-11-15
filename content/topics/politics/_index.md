@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3510
+topic_total_pages: 3511
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9789,6 +9789,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693"
     title: "Politicians are afraid to fix taxes. So 100 citizens tried."
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+  - key: "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel"
+    title: "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America"
+    url: "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
   - key: "pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66"
     title: "Pump and circumstance: is China the new OPEC?"
     url: "/wiki/sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66/"

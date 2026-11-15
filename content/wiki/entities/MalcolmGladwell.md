@@ -8,6 +8,7 @@ sources:
   - wolfgang-s-law-part-one
   - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
   - the-invention-of-an-epidemic-the-invention-of-an-epidemic
+  - president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Malcolm Gladwell is an author and the host of [[RevisionistHistory]]. The bounded sources show him using interviews, autobiography, analogy, historical argument, and cross-domain comparison to test relationship frameworks, explain why institutions resist promising new methods, and translate violence-network research into a public-policy argument.
+Malcolm Gladwell is an author and the host of [[RevisionistHistory]]. The bounded sources show him using interviews, autobiography, analogy, historical argument, and cross-domain comparison to test relationship frameworks, explain institutional resistance, translate research into public-policy argument, and connect historical memory to present democratic conflict.
 
 ## Current Profile
 
@@ -32,15 +33,17 @@ In the [[BrianLehrer]] interview about [[TheAmericanWayOfKilling]], Gladwell pla
 
 [[the-invention-of-an-epidemic-the-invention-of-an-epidemic|The Invention of an Epidemic]] develops the constitutional branch in detail. Gladwell combines the [[StonoRebellion]], [[SlavePatrolMilitiaSystem|slave-patrol militias]], [[CarrieSullivan]]'s corpus analysis, and [[CarlBogus]]'s reading of Virginia ratification to challenge [[DistrictOfColumbiaVHeller|Heller]]. The method is characteristically synthetic and provocative, while the source's limited treatment of competing scholarship keeps the conclusion qualified.
 
+In [[president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel|How Reconstruction Still Defines America]], Gladwell uses a long-form historical interview with [[BarackObama]] to test whether Reconstruction should be judged by its immediate collapse or its multi-generational constitutional afterlife. His prompts foreground forgotten history, the meaning of 1877, institutional barriers, and the possibility that failed reforms plant ideas later movements can revive.
+
 ## Key Characteristics
 
 - Uses playful disagreement and counterexamples to pressure-test a guest's framework.
 - Connects abstract psychology to autobiographical cases involving friendship, parenting, work, and gatherings.
 - Treats shared activity and constructed identity as tools for making connection easier.
 - Pushes provocative analogies far enough to expose disagreements over consent, truth, and social usefulness.
-- Uses cross-domain comparison to identify shared organizational mechanisms behind slow adoption.
-- Moves between population research and individual stories to make a network-level policy argument legible.
+- Uses cross-domain comparison and individual stories to make institutional and network-level mechanisms legible.
 - Combines provocative policy claims with historical lineage, linguistic evidence, and explicit criticism of interpretive avoidance.
+- Uses counterfactual and multi-generational questions to complicate simple success-or-failure judgments about political reform.
 
 ## Evidence
 
@@ -69,17 +72,21 @@ In the [[BrianLehrer]] interview about [[TheAmericanWayOfKilling]], Gladwell pla
 
 - [[the-invention-of-an-epidemic-the-invention-of-an-epidemic]] joins rebellion narrative, militia institutions, historical grammar, and ratification politics to make a slavery-centered argument about the Second Amendment.
 
+### Reconstruction and democratic memory
+
+- [[president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel]] uses 1877, the Lost Cause, public education, representation, and the filibuster to connect historical interpretation to present democratic capacity.
+
 ## Qualifications
 
-This profile is bounded to five structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may illuminate some adoption failures while underweighting evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy, the staffing argument depends on organizational practice rather than headcount alone, and the slavery-centered constitutional account is not a balanced scholarly survey.
+This profile is bounded to six structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may illuminate some adoption failures while underweighting evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy, the staffing argument depends on organizational practice rather than headcount alone, and neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey.
 
 ## What Changed
 
 - Created a source-bounded profile of Gladwell as an interviewer and designer of argumentative social examples.
 - Extended the profile from relationship psychology to cross-domain analysis of institutional adoption.
 - Added his research-to-narrative method for explaining violence concentration and community interruption.
-- Added his integrated historical and policy argument about staffing, legitimacy, guns, and immediate violence prevention.
-- Clarified his constitutional method as a combination of narrative history, corpus linguistics, and contested political interpretation.
+- Added his integrated historical and constitutional argument about staffing, legitimacy, guns, corpus linguistics, and contested interpretation.
+- Added his use of multi-generational judgment and counterfactual questioning in the Reconstruction conversation.
 
 ## Relationships
 
@@ -99,3 +106,5 @@ This profile is bounded to five structured episode summaries. Personal stories, 
 - [[PoliceStaffingRelationalCapacity]] - conditional staffing argument he advances.
 - [[GunRightsHistoricalPathDependence]] - historical argument he uses to challenge timeless gun-rights narratives.
 - [[CarrieSullivan]] and [[CarlBogus]] - specialists whose grammatical and political evidence he combines.
+- [[BarackObama]] - interview partner whose Reconstruction interpretation Gladwell tests through memory, institutions, and political counterfactuals.
+- [[ReconstructionConstitutionalAfterlife]] - framework supported by the conversation's rejection of a total-failure verdict.

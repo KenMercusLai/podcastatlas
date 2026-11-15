@@ -18091,9 +18091,9 @@
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewJohnson": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
@@ -18122,9 +18122,16 @@
           "show": "The Rest Is History",
           "title": "591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)",
           "url": "/wiki/sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/andrewjohnson/"
     },
     "AndrewLange": {
@@ -29485,6 +29492,99 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/baoxieroad/"
+    },
+    "BarackObama": {
+      "episode_count": 12,
+      "show_count": 8,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+          "key": "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe",
+          "show": "面基",
+          "title": "激发动物精神，创造更多机会",
+          "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+        },
+        {
+          "episode_file": "TSR-S5-RonConway-v5 [TSR-S5-RonConway-v5].md",
+          "key": "tsr-s5-ronconway-v5-tsr-s5-ronconway-v5",
+          "show": "The Social Radars",
+          "title": "Ron Conway, Founder, SV Angel: Silicon Valley Bank Crisis",
+          "url": "/wiki/sources/tsr-s5-ronconway-v5-tsr-s5-ronconway-v5/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_769525f09db2de7a0f5a8663e45c92a6_26387189 [default.mp3_ywr3ahjkcgo_769525f09db2de7a0f5a8663e45c92a6_26387189].md",
+          "key": "why-economists-got-free-trade-with-china-so-wrong",
+          "show": "Planet Money",
+          "title": "Why economists got free trade with China so wrong",
+          "url": "/wiki/sources/why-economists-got-free-trade-with-china-so-wrong/"
+        },
+        {
+          "episode_file": "sp.04 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考(上)：关于民粹、私刑和死刑 [790230209].md",
+          "key": "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209",
+          "show": "蜜獾吃书",
+          "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
+          "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_994393ee1ed8674343c10f953b381597_29731599 [default.mp3_ywr3ahjkcgo_994393ee1ed8674343c10f953b381597_29731599].md",
+          "key": "dark-times-for-cubas-economic-experiment",
+          "show": "Planet Money",
+          "title": "Dark times for Cuba's economic experiment",
+          "url": "/wiki/sources/dark-times-for-cubas-economic-experiment/"
+        },
+        {
+          "episode_file": "TSR-S3-DanSiroker-v3 [TSR-S3-DanSiroker-v3].md",
+          "key": "tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3",
+          "show": "The Social Radars",
+          "title": "Dan Siroker on Optimizely, Rewind, and Limitless AI",
+          "url": "/wiki/sources/tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738 [default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738].md",
+          "key": "iran-protests-and-sanctions",
+          "show": "Planet Money",
+          "title": "Iran, protests, and sanctions",
+          "url": "/wiki/sources/iran-protests-and-sanctions/"
+        },
+        {
+          "episode_file": "Gulf-co-operation counsel： what next for the region [6a4387d73fa89e3338f83da6].md",
+          "key": "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6",
+          "show": "Economist Podcasts",
+          "title": "Gulf-co-operation counsel: what next for the region",
+          "url": "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+        },
+        {
+          "episode_file": "Coming in Andy： Britain's prime minister-in-waiting [6a3512974a2a3be0f419384b].md",
+          "key": "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b",
+          "show": "Economist Podcasts",
+          "title": "Coming in Andy: Britain's prime minister-in-waiting",
+          "url": "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"
+        },
+        {
+          "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
+          "key": "ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab",
+          "show": "一劳永逸",
+          "title": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱",
+          "url": "/wiki/sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/barackobama/"
     },
     "BaratundeThurston": {
       "episode_count": 1,
@@ -106473,9 +106573,9 @@
       "url": "/wiki/entities/fila/"
     },
     "FilibusterMinorityRights": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Senators John Fetterman and Dave McCormick： Bipartisanship, Money in DC, Datacenters, Graham Platner [41603230].md",
@@ -106483,9 +106583,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/filibusterminorityrights/"
     },
     "FilippoBrunelleschi": {
@@ -112347,9 +112454,9 @@
       "url": "/wiki/entities/frederickbenteen/"
     },
     "FrederickDouglass": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1124511401 [GLT1124511401].md",
@@ -112357,9 +112464,16 @@
           "show": "The Rest Is History",
           "title": "200: American Civil War: The Causes (Part 1)",
           "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/frederickdouglass/"
     },
     "FrederickIIHolyRomanEmperor": {
@@ -188433,9 +188547,9 @@
       "url": "/wiki/concepts/lossofcontroleating/"
     },
     "LostCauseMyth": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -188464,9 +188578,16 @@
           "show": "The Rest Is History",
           "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
           "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/lostcausemyth/"
     },
     "LostCivilizationPseudohistory": {
@@ -194905,9 +195026,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -194943,6 +195064,13 @@
           "show": "Revisionist History",
           "title": "The Invention of an Epidemic",
           "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
       "updated": "2026-11-15",
@@ -252490,9 +252618,9 @@
       "url": "/wiki/concepts/recommendationsystemproductization/"
     },
     "ReconstructionConstitutionalAfterlife": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -252500,9 +252628,16 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/reconstructionconstitutionalafterlife/"
     },
     "ReconstructionElectoralTerror": {
@@ -252545,9 +252680,9 @@
       "url": "/wiki/concepts/reconstructionfederalenforcement/"
     },
     "ReconstructionRollback": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -252576,9 +252711,16 @@
           "show": "The Rest Is History",
           "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
           "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/reconstructionrollback/"
     },
     "ReconstructiveMemory": {
@@ -257128,9 +257270,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -257166,6 +257308,13 @@
           "show": "Revisionist History",
           "title": "The Invention of an Epidemic",
           "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        },
+        {
+          "episode_file": "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+          "key": "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel",
+          "show": "Revisionist History",
+          "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+          "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
         }
       ],
       "updated": "2026-11-15",

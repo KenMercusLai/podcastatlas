@@ -8,6 +8,7 @@ sources:
   - wolfgang-s-law-part-one
   - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
   - the-invention-of-an-epidemic-the-invention-of-an-epidemic
+  - president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation with [[AdamGrant]], and connected treatments of policing, violence reduction, and constitutional gun history.
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, connected treatments of policing and constitutional gun history, and a Reconstruction interview about democratic memory and institutional afterlife.
 
 ## Current Profile
 
@@ -28,15 +29,17 @@ The [[BrianLehrer]] conversation widens that branch from Baltimore practice to a
 
 [[the-invention-of-an-epidemic-the-invention-of-an-epidemic|The Invention of an Epidemic]] then narrows the lens to the Second Amendment. The show moves from the [[StonoRebellion]] through slave-patrol militias and Virginia ratification to [[DistrictOfColumbiaVHeller|Heller]], using historical linguistics as a bridge between narrative context and legal interpretation.
 
+The [[president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel|Barack Obama conversation]] adds a reflective interview form. It moves from forgotten Reconstruction history through constitutional amendments, the Compromise of 1877, public education, Black representation, and the filibuster to ask how democratic gains survive defeat and become usable by later generations.
+
 ## Key Characteristics
 
-- Narrative history podcast connecting personal experience to institutional and policy change.
-- Uses the 1974 Nixon-Kennedy negotiations as a lost-opportunity case.
+- Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
 - Frames later Massachusetts reform as part of the Affordable Care Act's political genealogy.
 - Also publishes live intellectual conversations built around argument, personal examples, and research claims.
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
+- Uses long-form historical dialogue to connect public memory, counterfactual leadership, and the institutional durability of incomplete reform.
 
 ## Evidence
 
@@ -57,9 +60,13 @@ The [[BrianLehrer]] conversation widens that branch from Baltimore practice to a
 
 - [[the-invention-of-an-epidemic-the-invention-of-an-epidemic]] combines rebellion narrative, [[CarrieSullivan]]'s corpus analysis, and [[CarlBogus]]'s ratification interpretation to challenge *Heller*.
 
+### Democratic memory
+
+- [[president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel]] treats Reconstruction as both political defeat and a surviving constitutional resource for later democratic action.
+
 ## Qualifications
 
-Only five episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, the live event's research claims and personal stories are not independently verified here, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolate the effect of the featured strategies. The Second Amendment episode gives limited space to competing historical and legal interpretations.
+Only six episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, the live event's research claims and personal stories are not independently verified here, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolate the effect of the featured strategies. The Second Amendment and Reconstruction episodes give limited space to competing historical interpretations.
 
 ## What Changed
 
@@ -67,6 +74,7 @@ Only five episodes currently inform this page, so they do not establish the full
 - Added investigative violence-reduction storytelling that moves between network research and relationship-level action.
 - Extended the violence branch into historical gun institutions and contested police-capacity policy.
 - Added a constitutional-history form that combines narrative, corpus linguistics, and revisionist legal interpretation.
+- Added a democratic-memory interview that evaluates reform across generations rather than only by immediate outcomes.
 
 ## Relationships
 
@@ -83,3 +91,5 @@ Only five episodes currently inform this page, so they do not establish the full
 - [[PoliceLegitimacyClearanceCapacity]] - trust-and-investigation mechanism discussed in the interview.
 - [[SlavePatrolMilitiaSystem]] - coercive institution at the center of the constitutional-history episode.
 - [[DistrictOfColumbiaVHeller]] - modern decision the episode challenges.
+- [[BarackObama]] - historical and political interlocutor in the Reconstruction conversation.
+- [[ReconstructionRollback]] and [[ReconstructionConstitutionalAfterlife]] - paired verdicts developed through that conversation.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America](sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel.md) — Revisionist History conversation on Reconstruction's rollback, constitutional afterlife, public memory, representation, and reversible democratic progress.
 - [The Invention of an Epidemic](sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic.md) — Revisionist History links slave-patrol militias, Madison's grammar, Virginia ratification, and Heller in a qualified slavery-centered account of the Second Amendment.
 - [Brian Lehrer and Malcolm Gladwell Talk Policing and Guns](sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns.md) — Revisionist History interview connecting conditional police capacity, legitimacy, gun-rights history, expressive violence, and individualized prevention.
 - [《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？](sources/zizhi-tongjian-hanji-1161-caocao-wei-shenme-yao-cisi-erxifu-lhv36g01hxpxaabh77bbyosdjzfr.md) — 芮淇讲透资治通鉴以曹植夫妇、汉中开局和陆逊回应举报，讨论家规与权力、分兵弱点及逆境中的不迁怒。
@@ -5122,7 +5123,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Homunculus in Goethe's Faust / 歌德《浮士德》中的人造小人](entities/HomunculusGoethe.md) — Artificial thinker whose departure and search for embodiment separate intelligence from complete life.
 - [Mitt Romney](entities/MittRomney.md) — Republican governor introduced as Ted Kennedy's later Massachusetts health-reform partner and part of the ACA's policy lineage.
 - [Stuart Altman](entities/StuartAltman.md) — Nixon health-policy designer and secret negotiator in the lost 1974 universal-coverage talks.
-- [Revisionist History](entities/RevisionistHistory.md) — Narrative podcast investigating the personal, political, and institutional origins of U.S. health reform.
+- [Revisionist History](entities/RevisionistHistory.md) — Narrative podcast connecting personal experience, institutional change, violence policy, constitutional history, and democratic memory.
 - [AFK](entities/AFK.md) — 何嘉琛创办的企业级 Agent 公司，主张以共享而个性化的系统积累组织经验并蒸馏重复任务。
 - [AFFiNE](entities/AFFiNE.md) — 开源多模态工作空间，在何嘉琛的复盘中成为从固定编辑界面转向跨环境 Agent 的前序案例。
 - [何嘉琛 / He Jiachen](entities/HeJiachen.md) — AFFiNE 与 AFK 创业者，提出组织级共享 Agent、任务记忆蒸馏及角色融合等产品判断。
@@ -7083,7 +7084,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mike Pitts](entities/MikePitts.md) — Archaeologist and writer interpreting Stonehenge through material evidence, social construction, and explicit uncertainty.
 - [Durrington Walls](entities/DurringtonWalls.md) — Neolithic settlement and feasting site that places Stonehenge within a broader lived landscape.
 - [John Brown](entities/JohnBrown.md) — Militant abolitionist whose Kansas violence, Harpers Ferry raid, trial, and execution intensified sectional fear.
-- [Frederick Douglass](entities/FrederickDouglass.md) — Escaped enslaved writer and orator whose abolitionist witness challenged slavery and racist assumptions.
+- [Frederick Douglass](entities/FrederickDouglass.md) — Escaped enslaved writer, orator, abolitionist witness, and democratic thinker presented as a founder outside formal office.
 - [Anthony Burns](entities/AnthonyBurns.md) — Fugitive from slavery whose forced rendition from Boston made federal slave-catching visible in a free state.
 - [Dred Scott](entities/DredScott.md) — Enslaved plaintiff whose failed freedom suit widened fear of slavery's constitutional nationalization.
 - [Fugitive Slave Act of 1850](entities/FugitiveSlaveAct1850.md) — Federal enforcement law that extended slave-property claims into Northern communities.
@@ -17624,7 +17625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cass Sunstein](entities/CassSunstein.md) — Legal scholar whose impeachment framework treats removal as constitutional repair rather than ordinary punishment or partisan dissatisfaction.
 - [《弹劾》 / Impeachment: A Citizen's Guide](entities/ImpeachmentBook.md) — Sunstein book used by the episode to define impeachment around office abuse, public trust, and constitutional order.
 - [Alexander Hamilton](entities/AlexanderHamilton.md) — Federalist state-builder, executive-power theorist, and fatal participant in the Hamilton-Burr duel.
-- [Andrew Johnson](entities/AndrewJohnson.md) — First impeached U.S. president, used as a historical case for legal charges amid wider constitutional-political conflict.
+- [Andrew Johnson](entities/AndrewJohnson.md) — Lincoln's successor and first impeached U.S. president, central to Reconstruction leadership and constitutional conflict.
 - [Richard Nixon](entities/RichardNixon.md) — Politically resilient U.S. president whose outsider identity, controlled style, diplomacy, institutional pressure, and Watergate obstruction define a mixed legacy.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
@@ -18185,7 +18186,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Kennedy's crisis successor and reform president whose Vietnam escalation, credibility crisis, and withdrawal opened the 1968 race.
 - [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
-- [Barack Obama](entities/BarackObama.md) — U.S. political figure used both as an America-at-250 hope/backlash marker and as a cleaner post-office political-identity-premium case.
+- [Barack Obama](entities/BarackObama.md) — Former U.S. president interpreted across governing policy, campaign experimentation, crisis advice, public memory, and Reconstruction's unfinished democratic project.
 - [George W. Bush](entities/GeorgeWBush.md) — U.S. president represented through business networks, constitutional procedure, religious pluralism, universal mission, and war-on-terror overreach.
 - [Shopify](entities/Shopify.md) — E-commerce platform that grew into merchant infrastructure and is later cited as an early AI-assistant commerce integration partner.
 - [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
@@ -19307,7 +19308,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colin Campbell (British Army officer)](entities/ColinCampbellBritishArmy.md) — India-tested Highland Brigade commander whose exclusion from supreme command illustrates class-filtered military appointment.
 - [Jacques Leroy de Saint-Arnaud](entities/JacquesLeroyDeSaintArnaud.md) — French Crimean commander combining Algerian experience, coup politics, coalition ambition, and concern over lethal conditions at Varna.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
-- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host who pressure-tests relationship psychology through autobiography, analogy, and argumentative counterexamples.
+- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, analogy, cross-domain comparison, and historical argument to test social and institutional claims.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
@@ -21102,10 +21103,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confederate Cost-Imposition Strategy](concepts/ConfederateCostImpositionStrategy.md) — Route to independence through casualties, morale, invasion, and elections making continued Union war politically intolerable.
 - [Civil War Democratic Unionism](concepts/CivilWarDemocraticUnionism.md) — Claim that resisting secession after lawful election tested the survival of constitutional representative government.
 - [Civil War Industrial Transition](concepts/CivilWarIndustrialTransition.md) — Coexistence of Napoleonic expectations with mass mobilization, industrial capacity, entrenchment, and home-front strain.
-- [Reconstruction Constitutional Afterlife](concepts/ReconstructionConstitutionalAfterlife.md) — Survival of citizenship and equality principles after Reconstruction's political coalition and protective capacity collapsed.
+- [Reconstruction Constitutional Afterlife](concepts/ReconstructionConstitutionalAfterlife.md) — Survival of citizenship and equality principles as democratic capacity after Reconstruction's protective coalition collapsed.
 - [Civil War Memory and Political Afterlife](concepts/CivilWarMemoryPoliticalAfterlife.md) — Persistence of Civil War conflicts through commemoration, popular culture, party alignment, and disputes over race, citizenship, and authority.
-- [Lost Cause Myth](concepts/LostCauseMyth.md) — Confederate memory that replaces slavery and rebellion with honor, states' rights, resource imbalance, and white victimhood.
-- [Reconstruction Rollback](concepts/ReconstructionRollback.md) — Defeat of secure multiracial democracy through violence, institutional complicity, shallow federal commitment, exclusion, and segregation.
+- [Lost Cause Myth](concepts/LostCauseMyth.md) — Confederate memory that legitimates white restoration through honor, victimhood, education, monuments, and mass culture.
+- [Reconstruction Rollback](concepts/ReconstructionRollback.md) — Defeat of secure multiracial democracy through violence, labor coercion, institutional complicity, political settlement, exclusion, and segregation.
 - [Problematic Classic Contextualization](concepts/ProblematicClassicContextualization.md) — Practice of preserving access to an influential work while confronting its distortions, harms, exclusions, and effects.
 - [British Constitutional Conventions](concepts/BritishConstitutionalConventions.md) — Unwritten but politically enforceable expectations governing confidence, restraint, and transfer of power in Britain's parliamentary system.
 - [Political Role Adaptability](concepts/PoliticalRoleAdaptability.md) — Capacity to shift credibly among campaign, communication, administrative, crisis, and constitutional leadership roles.
@@ -23027,7 +23028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [天下中国 / Tianxia China](concepts/TianxiaChina.md) — Source-bounded political-order concept covering indirect rule, cultural recognition, suzerainty, jimi offices, and protectorates.
 - [Punitive Currency Enforcement Backfire / 惩罚性货币执法反噬](concepts/PunitiveCurrencyEnforcementBackfire.md) — Late-Xin pattern where private-coinage policing turns into collective punishment, forced labor, household separation, and mass social harm.
 - [Bipartisan Swing-State Representation](concepts/BipartisanSwingStateRepresentation.md) — Divided-state pattern where mixed constituencies encourage cross-party trust, policy unbundling, and recognition of political opponents as legitimate.
-- [Filibuster Minority Rights](concepts/FilibusterMinorityRights.md) — Senate-procedure argument that the filibuster slows majority action but protects minority leverage and forces negotiation.
+- [Filibuster Minority Rights](concepts/FilibusterMinorityRights.md) — Contested Senate-procedure claim balancing minority-party leverage against gridlock and civil-rights obstruction.
 - [Pennsylvania AI Infrastructure Boom](concepts/PennsylvaniaAIInfrastructureBoom.md) — Source-scoped thesis that Pennsylvania can turn AI data centers, energy assets, industrial sites, and skilled trades into blue-collar growth.
 - [Primary Extremism Pressure](concepts/PrimaryExtremismPressure.md) — Party-selection pressure where primaries, activist networks, and anti-opponent backlash reward sharper ideological signals or controversial candidates.
 - [Campaign Spending Arms Race](concepts/CampaignSpendingArmsRace.md) — Escalation pattern where competitive races require enormous fundraising and outside spending, turning elections into media and reputation contests.

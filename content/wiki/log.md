@@ -39621,3 +39621,13 @@ Core synthesis: the episode argues that Madison's militia clause supplied the re
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
+
+Added the [[RevisionistHistory]] conversation in which [[MalcolmGladwell]] and [[BarackObama]] interpret Reconstruction as a radical but unfinished attempt to create multiracial democracy. Resynthesized Obama, Gladwell, Revisionist History, [[AndrewJohnson]], [[FrederickDouglass]], [[ReconstructionConstitutionalAfterlife]], [[ReconstructionRollback]], [[LostCauseMyth]], and [[FilibusterMinorityRights]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Reconstruction's political defeat did not erase the constitutional standards, educational institutions, and representational possibilities later movements could reactivate; Black Codes, racial terror, labor control, the Compromise of 1877, and Lost Cause culture explain how rollback became durable; and symbolic progress remains reversible without enforcement and political organization. No settled factual contradiction was adopted. The filibuster sources retain a normative conflict between minority-party leverage and a history of blocking anti-lynching and civil-rights legislation, while claims about alternative presidential leadership remain counterfactual. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,959 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
