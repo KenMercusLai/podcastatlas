@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14259
+wiki_total_pages: 14262
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "HeGuangzhiStandup"
     title: "He Guangzhi / 何广智"
     url: "/wiki/entities/heguangzhistandup/"
+  - key: "HeStoppedLovingHerToday"
+    title: "He Stopped Loving Her Today"
+    url: "/wiki/entities/hestoppedlovinghertoday/"
   - key: "HeTao"
     title: "He Tao"
     url: "/wiki/entities/hetao/"

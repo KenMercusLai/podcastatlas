@@ -35770,6 +35770,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/bobnardelli/"
     },
+    "BobbyBraddock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
+          "key": "encore-the-king-of-tears-encore-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "Encore: The King of Tears",
+          "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/bobbybraddock/"
+    },
     "BobbyScamardella": {
       "episode_count": 1,
       "show_count": 1,
@@ -92088,6 +92104,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/emotionalresponsibilityboundary/"
     },
+    "EmotionalSpecificityInStorytelling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
+          "key": "encore-the-king-of-tears-encore-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "Encore: The King of Tears",
+          "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/emotionalspecificityinstorytelling/"
+    },
     "EmotionalStabilityAsSocialNorm": {
       "episode_count": 2,
       "show_count": 2,
@@ -121650,6 +121682,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/georgeiv/"
     },
+    "GeorgeJones": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
+          "key": "encore-the-king-of-tears-encore-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "Encore: The King of Tears",
+          "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/georgejones/"
+    },
     "GeorgeLucas": {
       "episode_count": 4,
       "show_count": 4,
@@ -135295,6 +135343,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/hesongeasternhan/"
+    },
+    "HeStoppedLovingHerToday": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
+          "key": "encore-the-king-of-tears-encore-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "Encore: The King of Tears",
+          "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/hestoppedlovinghertoday/"
     },
     "HeTieshou": {
       "episode_count": 1,
@@ -197540,9 +197604,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -197641,6 +197705,13 @@
           "show": "Revisionist History",
           "title": "Encore: Analysis, Parapraxis, Elvis",
           "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
+        },
+        {
+          "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
+          "key": "encore-the-king-of-tears-encore-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "Encore: The King of Tears",
+          "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
         }
       ],
       "updated": "2026-11-15",
@@ -276240,6 +276311,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/sharedcausefactionalerosion/"
+    },
+    "SharedCulturalLanguageStorytelling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
+          "key": "encore-the-king-of-tears-encore-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "Encore: The King of Tears",
+          "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/sharedculturallanguagestorytelling/"
     },
     "SharedLifeFictionEthics": {
       "episode_count": 1,

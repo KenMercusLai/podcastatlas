@@ -40065,3 +40065,15 @@ Core synthesis: repeated, passage-specific, and temporally situated errors can p
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Encore: The King of Tears
+
+Added the [[RevisionistHistory]] episode on [[BobbyBraddock]], [[GeorgeJones]], and [[HeStoppedLovingHerToday]]. Created bounded profiles for the songwriter, singer, and song; established [[EmotionalSpecificityInStorytelling]] and [[SharedCulturalLanguageStorytelling]]; and resynthesized [[MalcolmGladwell]] from his complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: beauty, authenticity, and melancholy establish an emotional field, while precise places, objects, relationships, and narrative turns make grief personally recognizable. Braddock's difficult experience supplies qualified creative context rather than a proven origin for each song; Jones's biography intensifies the central performance without reducing artistry to addiction or illness; and the memorial performance shows an existing song gaining a new referent. The broader community argument proposes that shared cultural language can support emotional candor and complicated stories, but the country-rock contrast, lyric-compression figures, cultural grouping, autobiographical interpretations, and reception claims remain source-scoped because the supplied file is a structured summary rather than a transcript, representative corpus, recording analysis, independent biography, or reception study. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,006 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

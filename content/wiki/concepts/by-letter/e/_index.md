@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11322
+wiki_total_pages: 11324
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "EmotionalServicePlatformIncentives"
     title: "Emotional Service Platform Incentives / 情绪服务平台激励"
     url: "/wiki/concepts/emotionalserviceplatformincentives/"
+  - key: "EmotionalSpecificityInStorytelling"
+    title: "Emotional Specificity in Storytelling"
+    url: "/wiki/concepts/emotionalspecificityinstorytelling/"
   - key: "EmotionalStabilityAsSocialNorm"
     title: "Emotional Stability As Social Norm / 情绪稳定作为社会规范"
     url: "/wiki/concepts/emotionalstabilityassocialnorm/"

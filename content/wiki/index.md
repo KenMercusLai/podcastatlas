@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Encore: The King of Tears](sources/encore-the-king-of-tears-encore-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, narrative specificity, musical community, and memorial performance to country music's emotional force.
 - [Encore: Analysis, Parapraxis, Elvis](sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 - [Encore: Good Old Boys](sources/encore-good-old-boys-encore-good-old-boys.md) — Revisionist History reconstructs Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, and the reception risk of satire that audiences can appropriate.
 - [Americana Music Live with Drew Holcomb and Malcolm Gladwell](sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell.md) — Live Revisionist History conversation and performances connecting Americana, songwriting, grief, inherited faith, anger, influence, and communal music.
@@ -5129,6 +5130,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Bobby Braddock](entities/BobbyBraddock.md) — Country songwriter whose detailed narratives and emotional alignment underpin his “King of Tears” profile.
+- [George Jones](entities/GeorgeJones.md) — Country singer whose biography, central performance, and memorial recontextualize “He Stopped Loving Her Today.”
+- [He Stopped Loving Her Today](entities/HeStoppedLovingHerToday.md) — Song joining writer, singer, frail fictional character, and later memorial meaning.
 - [Elvis Presley](entities/ElvisPresley.md) — Singer whose repeated, section-specific errors anchor the episode's qualified parapraxis case.
 - [Jack White](entities/JackWhite.md) — Musician whose analysis and rehearsal substitution connect performance difficulty with emotional investment.
 - [Are You Lonesome Tonight?](entities/AreYouLonesomeTonight.md) — Elvis song whose exposed spoken bridge contains the episode's concentrated error pattern.
@@ -19481,6 +19485,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Emotional Specificity in Storytelling](concepts/EmotionalSpecificityInStorytelling.md) — Craft hypothesis that melancholy gains force when concrete detail enables personal recognition.
+- [Shared Cultural Language and Storytelling](concepts/SharedCulturalLanguageStorytelling.md) — Qualified account of how close creative communities can support detailed narrative and emotional candor.
 - [Parapraxis](concepts/Parapraxis.md) — Qualified framework for treating patterned slips and memory failures as possible emotional evidence without making them diagnoses.
 - [Compromised-Narrator Satire](concepts/CompromisedNarratorSatire.md) — First-person satire that makes a morally compromised voice intelligible while risking identification, repetition, and appropriation.
 - [Americana Music](concepts/AmericanaMusic.md) — Flexible genre and institutional home for roots-oriented musicians outside narrow commercial-radio categories.

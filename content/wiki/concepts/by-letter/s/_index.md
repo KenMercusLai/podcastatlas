@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11322
+wiki_total_pages: 11324
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "ShanzhaiPhones"
     title: "Shanzhai Phones"
     url: "/wiki/concepts/shanzhaiphones/"
+  - key: "SharedCulturalLanguageStorytelling"
+    title: "Shared Cultural Language and Storytelling"
+    url: "/wiki/concepts/sharedculturallanguagestorytelling/"
   - key: "SharedHousingRevival"
     title: "Shared Housing Revival"
     url: "/wiki/concepts/sharedhousingrevival/"

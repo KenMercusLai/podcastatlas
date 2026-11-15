@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3684
+topic_total_pages: 3685
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3196,6 +3196,9 @@ topic_concepts:
   - key: "ShanghaiMulticulturalUrbanCulture"
     title: "Shanghai Multicultural Urban Culture / 上海多元城市文化"
     url: "/wiki/concepts/shanghaimulticulturalurbanculture/"
+  - key: "SharedCulturalLanguageStorytelling"
+    title: "Shared Cultural Language and Storytelling"
+    url: "/wiki/concepts/sharedculturallanguagestorytelling/"
   - key: "SharedSensoryCommunityRepair"
     title: "Shared Sensory Community Repair"
     url: "/wiki/concepts/sharedsensorycommunityrepair/"
