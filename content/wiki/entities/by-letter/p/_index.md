@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14328
+wiki_total_pages: 14333
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "Parcoursup"
     title: "Parcoursup"
     url: "/wiki/entities/parcoursup/"
+  - key: "ParentTeacherAssociation"
+    title: "Parent-Teacher Association"
+    url: "/wiki/entities/parentteacherassociation/"
   - key: "PareshDave"
     title: "Paresh Dave"
     url: "/wiki/entities/pareshdave/"

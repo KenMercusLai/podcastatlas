@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [John Birch vs. the PTA](sources/john-birch-vs-the-pta-john-birch-vs-the-pta.md) — Revisionist History contrasts John Birch Society infiltration, meeting attrition, and harassment with the PTA's evidence-based civic cooperation.
 - [Gambling with Michael Lewis](sources/gambling-with-michael-lewis-gambling-with-michael-lewis.md) — Michael Lewis contrasts older sharp-informed bookmaking with mobile sportsbooks that promote high-margin bets, profile customers, and limit likely winners inside a league-media-state revenue system.
 - [A Very Terminator Christmas](sources/a-very-terminator-christmas-a-very-terminator-christmas.md) — Earlier, longer release of Revisionist History's oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
 - [Leading Through Crisis: Courage, Hope, and Compassion Under Pressure](sources/default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783-default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783.md) — Hidden Brain contrasts defensive self-protection with hopeful, calm, competent, and compassionate leadership in maritime, cave, and aviation emergencies.
@@ -5160,6 +5161,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg.md) — 十字路口Crossing对话赵晨阳，以低成本自动化评估为核心串联RSI、开源代码治理、廉价智能、Computer Use、交互式语音和权责对等。
 
 ## Entities
+- [Robert Welch Jr.](entities/RobertWelchJr.md) — Candy manufacturer and anti-communist organizer who founded the John Birch Society around an unsupported hidden-enemy account.
+- [John Birch Society](entities/JohnBirchSociety.md) — Secretive decentralized movement that targeted local PTAs and schools for political capture.
+- [Parent-Teacher Association](entities/ParentTeacherAssociation.md) — Civic education network connecting families, schools, and national reform through local participation.
+- [Orville Leroux](entities/OrvilleLeroux.md) — Montana superintendent whose family and district show the community costs of escalating conspiratorial harassment.
+- [Zelda Felchlin](entities/ZeldaFelchlin.md) — PTA newsletter editor whose 1962 message defended fair inquiry and revisable belief.
 - [Michael Lewis (Author)](entities/MichaelLewisAuthor.md) — Author and journalist investigating the platform design and institutional incentives of legalized U.S. sports betting.
 - [Against the Rules](entities/AgainstTheRules.md) — Michael Lewis podcast series examining mobile sportsbooks, market history, and the post-legalization betting ecosystem.
 - [Roxy Roxborough](entities/RoxyRoxborough.md) — Veteran bettor and odds-maker supplying the episode's older market-making baseline.
@@ -19581,6 +19587,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arrian](entities/Arrian.md) — Roman-era military historian whose detailed Alexander narrative is late, selective, and generally favorable to its subject.
 
 ## Concepts
+- [Local Civic Institution Capture](concepts/LocalCivicInstitutionCapture.md) — Coordinated entry, procedural attrition, and bloc voting used to convert open local participation into downstream policy control.
+- [Evidence-Based Civic Cooperation](concepts/EvidenceBasedCivicCooperation.md) — Public work grounded in fair inquiry, patient procedure, kindness, and willingness to revise belief.
 - [Mobile Sportsbook Customer Selection](concepts/MobileSportsbookCustomerSelection.md) — Account-level profiling used to reward, steer, restrict, or remove bettors according to expected operator value or risk.
 - [Sportsbook Parlay Margin](concepts/SportsbookParlayMargin.md) — Operator advantage created when bundled long-shot payouts are more salient than compounded probability and price.
 - [Sports Betting Revenue Alignment](concepts/SportsBettingRevenueAlignment.md) — Shared growth incentives joining sportsbooks, leagues, sports media, and state governments after legalization.

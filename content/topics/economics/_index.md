@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2407
+topic_total_pages: 2408
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5219,6 +5219,9 @@ topic_entities:
   - key: "RobertSmith"
     title: "Robert Smith"
     url: "/wiki/entities/robertsmith/"
+  - key: "RobertWelchJr"
+    title: "Robert Welch Jr."
+    url: "/wiki/entities/robertwelchjr/"
   - key: "RobertoRidolfi"
     title: "Roberto Ridolfi"
     url: "/wiki/entities/robertoridolfi/"

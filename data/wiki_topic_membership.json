@@ -37395,6 +37395,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EvidenceBasedCivicCooperation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EvidenceBasedDevelopmentPolicy": [
     {
       "key": "economics",
@@ -59550,6 +59557,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "LocalCivicInstitutionCapture": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LocalExperienceAsCreativeArchive": [
     {
       "key": "culture",
@@ -70466,6 +70485,13 @@
       "url": "/topics/science/"
     }
   ],
+  "OrvilleLeroux": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "OscarWilde": [
     {
       "key": "culture",
@@ -71208,6 +71234,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ParentTeacherAssociation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ParentalDefenseConflict": [
@@ -80639,6 +80672,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RobertWelchJr": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "RobertoRidolfi": [
@@ -103570,6 +103610,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ZeldaFelchlin": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ZenPayroll": [

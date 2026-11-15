@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3698
+topic_total_pages: 3702
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2149,6 +2149,9 @@ topic_concepts:
   - key: "LoanCapAccessRisk"
     title: "Loan Cap Access Risk"
     url: "/wiki/concepts/loancapaccessrisk/"
+  - key: "LocalCivicInstitutionCapture"
+    title: "Local Civic Institution Capture"
+    url: "/wiki/concepts/localcivicinstitutioncapture/"
   - key: "LocalExperienceAsCreativeArchive"
     title: "Local Experience as Creative Archive / 地方经验作为创作档案"
     url: "/wiki/concepts/localexperienceascreativearchive/"
@@ -6047,6 +6050,9 @@ topic_entities:
   - key: "OprahWinfrey"
     title: "Oprah Winfrey"
     url: "/wiki/entities/oprahwinfrey/"
+  - key: "OrvilleLeroux"
+    title: "Orville Leroux"
+    url: "/wiki/entities/orvilleleroux/"
   - key: "OscarWilde"
     title: "Oscar Wilde / 王尔德"
     url: "/wiki/entities/oscarwilde/"
@@ -6062,6 +6068,9 @@ topic_entities:
   - key: "Parcoursup"
     title: "Parcoursup"
     url: "/wiki/entities/parcoursup/"
+  - key: "ParentTeacherAssociation"
+    title: "Parent-Teacher Association"
+    url: "/wiki/entities/parentteacherassociation/"
   - key: "Paris"
     title: "Paris"
     url: "/wiki/entities/paris/"
@@ -7136,6 +7145,9 @@ topic_entities:
   - key: "ZannyMintonBeddoes"
     title: "Zanny Minton Beddoes"
     url: "/wiki/entities/zannymintonbeddoes/"
+  - key: "ZeldaFelchlin"
+    title: "Zelda Felchlin"
+    url: "/wiki/entities/zeldafelchlin/"
   - key: "ZhangBoAnimalLaw"
     title: "Zhang Bo / 张博"
     url: "/wiki/entities/zhangboanimallaw/"

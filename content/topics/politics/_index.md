@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3543
+topic_total_pages: 3546
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1579,6 +1579,9 @@ topic_concepts:
   - key: "EverydayHumanitarianismInWarFilm"
     title: "Everyday Humanitarianism In War Film / 战争片世俗人道主义"
     url: "/wiki/concepts/everydayhumanitarianisminwarfilm/"
+  - key: "EvidenceBasedCivicCooperation"
+    title: "Evidence-Based Civic Cooperation"
+    url: "/wiki/concepts/evidencebasedciviccooperation/"
   - key: "EVTOLCertificationRamp"
     title: "eVTOL Certification Ramp"
     url: "/wiki/concepts/evtolcertificationramp/"
@@ -2647,6 +2650,9 @@ topic_concepts:
   - key: "LoanCapAccessRisk"
     title: "Loan Cap Access Risk"
     url: "/wiki/concepts/loancapaccessrisk/"
+  - key: "LocalCivicInstitutionCapture"
+    title: "Local Civic Institution Capture"
+    url: "/wiki/concepts/localcivicinstitutioncapture/"
   - key: "LocalExposureElectoralSalience"
     title: "Local Exposure Electoral Salience"
     url: "/wiki/concepts/localexposureelectoralsalience/"
@@ -8573,6 +8579,9 @@ topic_entities:
   - key: "Zeiss"
     title: "Zeiss"
     url: "/wiki/entities/zeiss/"
+  - key: "ZeldaFelchlin"
+    title: "Zelda Felchlin"
+    url: "/wiki/entities/zeldafelchlin/"
   - key: "ZhaoZiyang"
     title: "Zhao Ziyang"
     url: "/wiki/entities/zhaoziyang/"

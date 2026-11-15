@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14328
+wiki_total_pages: 14333
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "Zeiss"
     title: "Zeiss"
     url: "/wiki/entities/zeiss/"
+  - key: "ZeldaFelchlin"
+    title: "Zelda Felchlin"
+    url: "/wiki/entities/zeldafelchlin/"
   - key: "Zenefits"
     title: "Zenefits"
     url: "/wiki/entities/zenefits/"
