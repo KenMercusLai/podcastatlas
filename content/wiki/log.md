@@ -40131,3 +40131,15 @@ Core synthesis: rats supplied scale, docility, repeatability, and institutional 
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Face Value
+
+Added the [[RevisionistHistory]] episode connecting [[JJGoode]] and [[MissyKurzweil]]'s friendship misunderstanding to prosopagnosia, [[MalcolmGladwell]]'s recognition difficulty, [[LucySullivan]]'s exceptional laboratory performance, and [[JoeDeGutis]]'s distinction between seeing a face and identifying the person. Created bounded profiles for Goode, Kurzweil, Sullivan, and DeGutis; established [[FaceRecognitionAbilitySpectrum]]; resynthesized [[CognitiveDifferenceReframing]], [[SocialMisprediction]], [[SocialEmbarrassmentFear]], Malcolm Gladwell, and the show from each page's complete preserved evidence inventory before appending the new source once; and migrated [[BillClinton]] to the synthesis-first schema while retaining his three prior sources in order.
+
+Core synthesis: face-recognition ability varies from prosopagnosia through typical performance to controlled super-recognition, while seeing features and emotion can remain distinct from retrieving identity. Because outward nonrecognition can look like rejection or aloofness, contextual cues, disclosure, inclusive greeting, and more cautious intent inference can reduce relationship harm without making ability a measure of care or character. Clinton's long-delay recognition stories remain an untested hypothesis rather than a super-recognizer classification. No settled contradiction was adopted. Prevalence estimates, causes, evolutionary framing, test interpretation, and individual anecdotes remain source-scoped because the supplied file is a structured summary rather than a transcript, diagnostic record, methods paper, test dataset, or population study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,012 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

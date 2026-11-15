@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14282
+wiki_total_pages: 14286
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1586,6 +1586,9 @@ wiki_pages:
   - key: "Mississippi"
     title: "Mississippi"
     url: "/wiki/entities/mississippi/"
+  - key: "MissyKurzweil"
+    title: "Missy Kurzweil"
+    url: "/wiki/entities/missykurzweil/"
   - key: "MistralAI"
     title: "Mistral AI"
     url: "/wiki/entities/mistralai/"

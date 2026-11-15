@@ -33891,6 +33891,43 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/billackman/"
     },
+    "BillClinton": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
+          "key": "ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab",
+          "show": "一劳永逸",
+          "title": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱",
+          "url": "/wiki/sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab/"
+        },
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/billclinton/"
+    },
     "BillDally": {
       "episode_count": 1,
       "show_count": 1,
@@ -58489,9 +58526,9 @@
       "url": "/wiki/concepts/cognitivebehavioralinterpretationchain/"
     },
     "CognitiveDifferenceReframing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305 [default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305].md",
@@ -58499,9 +58536,16 @@
           "show": "Tomorrow, Today",
           "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
+        },
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/cognitivedifferencereframing/"
     },
     "CognitiveDiversityAIAdoption": {
@@ -102576,6 +102620,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/faceprojectgovernance/"
+    },
+    "FaceRecognitionAbilitySpectrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/facerecognitionabilityspectrum/"
     },
     "FaceSavingRemonstrance": {
       "episode_count": 1,
@@ -159676,6 +159736,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/jdwhitebar/"
     },
+    "JJGoode": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jjgoode/"
+    },
     "JLAustin": {
       "episode_count": 1,
       "show_count": 1,
@@ -166181,6 +166257,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/joebiden/"
+    },
+    "JoeDeGutis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/joedegutis/"
     },
     "JoeGormley": {
       "episode_count": 1,
@@ -194069,6 +194161,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/lucylethbridge/"
     },
+    "LucySullivan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/lucysullivan/"
+    },
     "LudwigBeck": {
       "episode_count": 1,
       "show_count": 1,
@@ -197943,9 +198051,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -198065,6 +198173,13 @@
           "show": "Revisionist History",
           "title": "Encores",
           "url": "/wiki/sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc/"
+        },
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
         }
       ],
       "updated": "2026-11-15",
@@ -210871,6 +210986,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/mississippi/"
+    },
+    "MissyKurzweil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/missykurzweil/"
     },
     "MistakeWitnessResponsibility": {
       "episode_count": 1,
@@ -261137,9 +261268,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -261252,6 +261383,13 @@
           "show": "Revisionist History",
           "title": "The Formula",
           "url": "/wiki/sources/the-formula-the-formula/"
+        },
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
         }
       ],
       "updated": "2026-11-15",
@@ -283382,9 +283520,9 @@
       "url": "/wiki/concepts/socialdarwinism/"
     },
     "SocialEmbarrassmentFear": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luag5VkVmErd4sl805M1Gdehyngs [luag5VkVmErd4sl805M1Gdehyngs].md",
@@ -283392,9 +283530,16 @@
           "show": "罗永浩的十字路口",
           "title": "“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年",
           "url": "/wiki/sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs/"
+        },
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/socialembarrassmentfear/"
     },
     "SocialEmotionInferenceLimits": {
@@ -283906,9 +284051,9 @@
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SocialMisprediction": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -283930,9 +284075,16 @@
           "show": "Huberman Lab",
           "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
           "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        },
+        {
+          "episode_file": "Face_Value [Face_Value].md",
+          "key": "face-value-face-value",
+          "show": "Revisionist History",
+          "title": "Face Value",
+          "url": "/wiki/sources/face-value-face-value/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/socialmisprediction/"
     },
     "SocialRankFlexibility": {

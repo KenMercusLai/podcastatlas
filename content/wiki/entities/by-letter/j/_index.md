@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14282
+wiki_total_pages: 14286
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "JiuzhaiHuanglongAirport"
     title: "Jiuzhai Huanglong Airport / 九寨黄龙机场"
     url: "/wiki/entities/jiuzhaihuanglongairport/"
+  - key: "JJGoode"
+    title: "JJ Goode"
+    url: "/wiki/entities/jjgoode/"
   - key: "JKMolina"
     title: "JK Molina"
     url: "/wiki/entities/jkmolina/"
@@ -833,6 +836,9 @@ wiki_pages:
   - key: "JoeBiden"
     title: "Joe Biden"
     url: "/wiki/entities/joebiden/"
+  - key: "JoeDeGutis"
+    title: "Joe DeGutis"
+    url: "/wiki/entities/joedegutis/"
   - key: "JoeGebbia"
     title: "Joe Gebbia"
     url: "/wiki/entities/joegebbia/"

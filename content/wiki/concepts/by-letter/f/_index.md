@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11331
+wiki_total_pages: 11332
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "FaceProjectGovernance"
     title: "Face-Project Governance / 面子工程式治理"
     url: "/wiki/concepts/faceprojectgovernance/"
+  - key: "FaceRecognitionAbilitySpectrum"
+    title: "Face-Recognition Ability Spectrum"
+    url: "/wiki/concepts/facerecognitionabilityspectrum/"
   - key: "FaceSlappingReversalNarrative"
     title: "Face-Slapping Reversal Narrative / 打脸反杀叙事"
     url: "/wiki/concepts/faceslappingreversalnarrative/"

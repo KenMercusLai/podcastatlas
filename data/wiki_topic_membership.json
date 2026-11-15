@@ -38019,6 +38019,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FaceRecognitionAbilitySpectrum": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FaceSavingSubmissionFailure": [
     {
       "key": "science",
@@ -109525,6 +109532,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "face-value-face-value": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "faguo-50-wan-ren-shangjie-yichang-gaozhong-kangyi-ruhe-shaobian-quanguo-400332274631798b431d5bcde6337d90": [

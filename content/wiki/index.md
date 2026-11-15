@@ -5133,6 +5133,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 7: The Second Warrant](sources/the-alabama-murders-part-7-the-second-warrant.md) — Revisionist History finale on execution-induced trauma, Alabama's first-use nitrogen protocol, conflicting scientific and eyewitness evidence, and the state's success narrative.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 - [Rat vs. Raccoon](sources/rat-vs-raccoon-rat-vs-raccoon.md) — Revisionist History uses Toronto raccoons and psychology's laboratory-rat history to examine model selection, experimental tractability, external validity, and species-specific cognition.
+- [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
 - [Lawrence Cole](entities/LawrenceCole.md) — Early psychologist whose raccoon puzzle-box work offered a neglected alternative to rat-centered comparative psychology.
@@ -19508,6 +19509,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dannagal Young](entities/DannagalYoung.md) — Communication scholar connecting news use to comprehension, control, community, political sorting, and framing.
 - [Ethan Jordan](entities/EthanJordan.md) — North Carolina farmer whose mixed media diet illustrates local-news scarcity, aggregation, social testimony, and political identity.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
+- [Lucy Sullivan](entities/LucySullivan.md) — Revisionist History producer whose controlled test results place her at the super-recognizer end of face-recognition ability.
+- [JJ Goode](entities/JJGoode.md) — Writer whose prosopagnosia and inclusive greeting strategy anchor Face Value's friendship case.
+- [Missy Kurzweil](entities/MissyKurzweil.md) — Writer whose understandable rejection inference makes the observer-side cost of nonrecognition visible.
+- [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
 - [Model Organism Selection Bias](concepts/ModelOrganismSelectionBias.md) — Risk that convenience, infrastructure, and controllability determine a field's dominant organism and shape its general theories.
@@ -30948,5 +30953,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Partisan Framing Across Exposure](concepts/PartisanFramingAcrossExposure.md) — Hostile interpretive packaging that preserves visibility of opponents while discouraging understanding.
 - [Media Golden-Age Exclusion](concepts/MediaGoldenAgeExclusion.md) — Qualification that apparent media consensus can rest on unequal access to public representation.
 - [Failed Execution Trauma](concepts/FailedExecutionTrauma.md) — Psychological and bodily injury after surviving a state procedure genuinely intended to cause imminent death.
+- [Face-Recognition Ability Spectrum](concepts/FaceRecognitionAbilitySpectrum.md) — Variation from prosopagnosia through typical recognition to controlled super-recognition, including compensation and social misinterpretation.
 
 ## Syntheses

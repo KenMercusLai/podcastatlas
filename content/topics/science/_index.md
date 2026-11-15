@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1650
+topic_total_pages: 1652
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -898,6 +898,9 @@ topic_concepts:
   - key: "ExtremeWildfire"
     title: "Extreme Wildfire"
     url: "/wiki/concepts/extremewildfire/"
+  - key: "FaceRecognitionAbilitySpectrum"
+    title: "Face-Recognition Ability Spectrum"
+    url: "/wiki/concepts/facerecognitionabilityspectrum/"
   - key: "FailureDesensitization"
     title: "Failure Desensitization"
     url: "/wiki/concepts/failuredesensitization/"
@@ -4371,6 +4374,9 @@ topic_sources:
   - key: "essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371"
     title: "Essentials: Using Your Nervous System to Enhance Your Immune System"
     url: "/wiki/sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371/"
+  - key: "face-value-face-value"
+    title: "Face Value"
+    url: "/wiki/sources/face-value-face-value/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
