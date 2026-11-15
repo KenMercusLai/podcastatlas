@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14158
+wiki_total_pages: 14161
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1601,6 +1601,9 @@ wiki_pages:
   - key: "StatenIsland"
     title: "Staten Island"
     url: "/wiki/entities/statenisland/"
+  - key: "StatenIslandersForUnifiedNewYork"
+    title: "Staten Islanders for Unified New York"
+    url: "/wiki/entities/statenislandersforunifiednewyork/"
   - key: "StatsBomb"
     title: "StatsBomb"
     url: "/wiki/entities/statsbomb/"

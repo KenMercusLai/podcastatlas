@@ -39683,3 +39683,13 @@ Core synthesis: geographic isolation can give a group room to develop a distinct
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Staten Island Problem - Part 3: The Tuvalu Effect
+
+Added the [[RevisionistHistory]] episode contrasting the fiscal and administrative case for remaining in New York City with the identity-based appeal of [[StatenIsland|Staten Island]] self-government. Created bounded profiles for [[GodfreyBaldacchino]], [[DavidGoldfarb]], and [[StatenIslandersForUnifiedNewYork]], added [[TuvaluEffect|the Tuvalu effect]], and resynthesized Staten Island, [[StatenIslandSecession1993|the 1993 secession referendum]], [[GuyMolinari]], [[PeripheralPlaceResentment]], and [[PlaceBasedDemocraticRecognition]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: studies reported by both camps found that Staten Island received more city spending than it contributed, yet landfill and confinement burdens, bridge tolls, political distance, local trust, and island identity made separation attractive. The Tuvalu effect helps explain that mismatch without reducing the campaign to geography alone; white flight, racism, class, regulation, party politics, and concern for North Shore political power remain essential qualifications. Molinari's late endorsement made secession both a genuine exit project and a source of bargaining leverage. No settled factual contradiction was adopted. Fiscal balances, service costs, water dependence, debate statements, racial motives, archival interpretations, comparative island claims, and Molinari's private strategy remain episode-attributed because the supplied file is a structured summary rather than the underlying studies, transcript, or full archival record. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,966 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

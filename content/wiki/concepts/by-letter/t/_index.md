@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11266
+wiki_total_pages: 11267
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "TutoringRestrictionSubstitutionEffect"
     title: "Tutoring Restriction Substitution Effect / 校外培训限制的替代效应"
     url: "/wiki/concepts/tutoringrestrictionsubstitutioneffect/"
+  - key: "TuvaluEffect"
+    title: "Tuvalu Effect"
+    url: "/wiki/concepts/tuvalueffect/"
   - key: "TVMotionStutter"
     title: "TV Motion Stutter"
     url: "/wiki/concepts/tvmotionstutter/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Staten Island Problem - Part 3: The Tuvalu Effect](sources/the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect.md) — Revisionist History contrasts Staten Island's fiscal dependence with the Tuvalu effect, local trust, tolls, imposed burdens, racial division, and secession leverage.
 - [The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin](sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin.md) — Revisionist History connects Staten Island's racial geography and Wu-Tang's rise to creative isolation, collective autonomy, and a qualified secession analogy.
 - [The Staten Island Problem - Part 5: Revenge of the Forgotten Borough](sources/the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f.md) — Revisionist History connects Staten Island's failed secession vote, Giuliani's mayoral coalition, peripheral resentment, strongman politics, and place-based democratic recognition.
 - [What Art Does For Your Brain](sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403.md) — Hidden Brain and Daisy Fancourt connect arts participation with emotion regulation, social support, multimodal stimulation, and a sustainable practice bounded by observational evidence.
@@ -5089,6 +5090,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 
 ## Entities
+- [Godfrey Baldacchino](entities/GodfreyBaldacchino.md) — Island-studies scholar whose Tuvalu-effect framework connects archipelagic hierarchy, imposed burdens, mobility costs, and separation pressure.
+- [David Goldfarb](entities/DavidGoldfarb.md) — Staten Island attorney who organized against secession through fiscal, service-capacity, and internal-representation arguments.
+- [Staten Islanders for Unified New York](entities/StatenIslandersForUnifiedNewYork.md) — Organized remain campaign that opposed Staten Island's proposed departure from New York City.
 - [RZA](entities/RZA.md) — Producer and organizational architect who built Wu-Tang's place mythology, collective sound, and member-preserving deal structure.
 - [Wu-Tang Clan](entities/WuTangClan.md) — Staten Island hip-hop collective joining a shared “Shaolin” identity to independent solo careers across labels.
 - [Skiz Fernando](entities/SkizFernando.md) — Hip-hop journalist whose early coverage supports the episode's Wu-Tang history and limits its secession analogy.
@@ -19340,6 +19344,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
 
 ## Concepts
+- [Tuvalu Effect](concepts/TuvaluEffect.md) — Centrifugal tendency of islands in an archipelago to seek separation when hierarchy, burdens, costly mobility, and local identity weaken political belonging.
 - [Peripheral Creative Isolation](concepts/PeripheralCreativeIsolation.md) — Qualified mechanism by which distance from a dominant scene can support distinctive cultural recombination.
 - [Federated Creative Autonomy](concepts/FederatedCreativeAutonomy.md) — Organizational design preserving a shared creative brand while members retain independent contracts and paths.
 - [Peripheral Place Resentment](concepts/PeripheralPlaceResentment.md) — Geographic grievance combining perceived inequalities in resources, political power, and social respect.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14158
+wiki_total_pages: 14161
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "GodSaveTheKing"
     title: "God Save the King / Queen"
     url: "/wiki/entities/godsavetheking/"
+  - key: "GodfreyBaldacchino"
+    title: "Godfrey Baldacchino"
+    url: "/wiki/entities/godfreybaldacchino/"
   - key: "GodwinEarlOfWessex"
     title: "Godwin, Earl of Wessex"
     url: "/wiki/entities/godwinearlofwessex/"
