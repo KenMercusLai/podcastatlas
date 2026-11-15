@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14231
+wiki_total_pages: 14237
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "HenryLeach"
     title: "Henry Leach"
     url: "/wiki/entities/henryleach/"
+  - key: "HenryLivingstonJr"
+    title: "Henry Livingston Jr."
+    url: "/wiki/entities/henrylivingstonjr/"
   - key: "HenryMaine"
     title: "Henry Maine"
     url: "/wiki/entities/henrymaine/"

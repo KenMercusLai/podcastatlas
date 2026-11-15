@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14231
+wiki_total_pages: 14237
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "SethBerkowitz"
     title: "Seth Berkowitz"
     url: "/wiki/entities/sethberkowitz/"
+  - key: "SethKaller"
+    title: "Seth Kaller"
+    url: "/wiki/entities/sethkaller/"
   - key: "SethStoughton"
     title: "Seth Stoughton"
     url: "/wiki/entities/sethstoughton/"

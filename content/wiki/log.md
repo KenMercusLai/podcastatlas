@@ -39925,3 +39925,13 @@ Core synthesis: Philip's professional army, senior officers, Asian bridgehead, i
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Twas the Night Before Christmas
+
+Added the [[RevisionistHistory]] episode investigating whether [[ClementClarkeMoore]] or [[HenryLivingstonJr]] wrote [[AVisitFromStNicholas|“A Visit from St. Nicholas”]]. Created focused profiles for the poem, Moore, Livingston, [[MaryVanDusen]], [[DonFoster]], and [[SethKaller]], added [[LiteraryAuthorshipAttribution]] and [[FalseBalanceControversyPersistence]], and resynthesized [[SantaClaus]] and [[ModernChristmasReinvention]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the episode finds the Moore attribution substantially better supported because relevant Moore writings directly weaken the claim that he could not have produced playful, child-oriented, anapestic Christmas verse, while the Livingston case depends on inherited recollection, a lost-manuscript report, selective stylistic comparison, and disputed chronology. Separately, the poem's domestic visitor and eight named reindeer helped redirect Christmas inversion toward children inside the family home. No settled contradiction was adopted; the alternative attribution is preserved as contested rather than treated as equally evidenced. Family recollections, stylistic fingerprints, candidate characterizations, precise cultural causation, and the complete authorship judgment remain source-scoped because the supplied file is a structured summary rather than a transcript, critical edition, full primary archive, or comprehensive specialist review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,992 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

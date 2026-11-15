@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Twas the Night Before Christmas](sources/twas-the-night-before-christmas-twas-the-night-before-christmas.md) — Revisionist History investigates the Livingston challenge to Moore's authorship, the poem's role in domestic Christmas, and how expert authority and false balance sustain weak controversies.
 - [Christmas in Connecticut](sources/christmas-in-connecticut-christmas-in-connecticut.md) — Revisionist History oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
 - [Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know](sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from.md) — Hasan Minhaj interview on public error correction, accessible nonfiction, career-stage work choices, and the certainty–severity tradeoff in punishment.
 - [Invisible Infrastructure with T-Mobile for Business](sources/invisible-infrastructure-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on 5G network slicing, field journalism, remote energy maintenance, and connectivity-enabled workflow redesign.
@@ -5115,6 +5116,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [A Visit from St. Nicholas](entities/AVisitFromStNicholas.md) — Anonymous 1823 poem that helped standardize domestic Santa imagery and remains conventionally attributed to Clement Clarke Moore.
+- [Clement Clarke Moore](entities/ClementClarkeMoore.md) — New York scholar and writer whose relevant light and child-oriented verse supports the conventional attribution of the Christmas poem.
+- [Henry Livingston Jr.](entities/HenryLivingstonJr.md) — Alternative authorship candidate supported by descendants and stylistic resemblance but not a surviving manuscript or public claim.
+- [Mary Van Dusen](entities/MaryVanDusen.md) — Livingston descendant who assembled the large modern research corpus behind the alternative attribution.
+- [Don Foster](entities/DonFoster.md) — Literary-attribution scholar whose stylistic case made the Livingston theory nationally prominent.
+- [Seth Kaller](entities/SethKaller.md) — Historical-document researcher who challenged the Livingston chronology and found relevant parallels in Moore's writing.
 - [Arnold Schwarzenegger](entities/ArnoldSchwarzenegger.md) — Actor and governor represented through a low-risk, highly interventionist, and artistically uneven feature-directing experiment.
 - [Stan Brooks](entities/StanBrooks.md) — Television producer who developed the remake, protected Schwarzenegger's participation, and valued repeated making over prestige scarcity.
 - [Christmas in Connecticut (1992 film)](entities/ChristmasInConnecticut1992.md) — TNT remake remembered more warmly as an improbable shared production than as a critical or directing success.
@@ -19439,6 +19446,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Literary Authorship Attribution](concepts/LiteraryAuthorshipAttribution.md) — Evidence framework combining stylistic comparison with provenance, chronology, corpus design, and disconfirming documents.
+- [False-Balance Controversy Persistence](concepts/FalseBalanceControversyPersistence.md) — Survival of a disputed claim when repeated balanced framing obscures unequal evidentiary support.
 - [Public Intellectual Error Correction](concepts/PublicIntellectualErrorCorrection.md) — Duty to revise an influential public claim when evidence changes and to name both the failed prediction and its consequences.
 - [Punishment Certainty–Severity Tradeoff](concepts/PunishmentCertaintySeverityTradeoff.md) — Distinguishes reliable apprehension and timely response from punishment harshness, irreversibility, and hidden suffering.
 - [Network Slicing](concepts/NetworkSlicing.md) — Configuration of mobile-network characteristics for a defined operational need or user group.

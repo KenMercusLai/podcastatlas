@@ -38118,6 +38118,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FalseBalanceControversyPersistence": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FalseChoiceGovernance": [
     {
       "key": "politics",
@@ -58846,6 +58853,13 @@
     }
   ],
   "LiteraryAmbiguityAsComplexity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "LiteraryAuthorshipAttribution": [
     {
       "key": "culture",
       "label": "Culture",

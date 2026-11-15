@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11306
+wiki_total_pages: 11308
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "LiteraryAmbiguityAsComplexity"
     title: "Literary Ambiguity As Complexity / 文学混沌性"
     url: "/wiki/concepts/literaryambiguityascomplexity/"
+  - key: "LiteraryAuthorshipAttribution"
+    title: "Literary Authorship Attribution"
+    url: "/wiki/concepts/literaryauthorshipattribution/"
   - key: "LiteraryGossipAsContext"
     title: "Literary Gossip As Context"
     url: "/wiki/concepts/literarygossipascontext/"

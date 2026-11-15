@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11306
-- Entities: 14231
-- Sources: 4991
-- Total wiki content pages: 30529
+- Concepts: 11308
+- Entities: 14237
+- Sources: 4992
+- Total wiki content pages: 30538
 
 ## Links
-- Wiki link references: 690823
-- Unique wiki link targets: 30568
-- Missing targets: 49
+- Wiki link references: 690957
+- Unique wiki link targets: 30578
+- Missing targets: 50
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4991
-- Matched episodes: 4991
+- Source pages: 4992
+- Matched episodes: 4992
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -91,6 +91,8 @@ outputs: ["html"]
   - `content/wiki/concepts/FounderRiskCalibration.md`
 - `[[MargaretBeaufort]]`
   - `content/wiki/entities/HenryVII.md`
+- `[[MediaTrust]]`
+  - `content/wiki/concepts/FalseBalanceControversyPersistence.md`
 - `[[MelZiegler]]`
   - `content/wiki/concepts/FounderHealthDebt.md`
 - `[[MissyPark]]`

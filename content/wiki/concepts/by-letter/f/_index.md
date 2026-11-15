@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11306
+wiki_total_pages: 11308
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "FalseChoiceGovernance"
     title: "False Choice Governance"
     url: "/wiki/concepts/falsechoicegovernance/"
+  - key: "FalseBalanceControversyPersistence"
+    title: "False-Balance Controversy Persistence"
+    url: "/wiki/concepts/falsebalancecontroversypersistence/"
   - key: "FalsifiableProductHypothesis"
     title: "Falsifiable Product Hypothesis / 可证伪产品假设"
     url: "/wiki/concepts/falsifiableproducthypothesis/"

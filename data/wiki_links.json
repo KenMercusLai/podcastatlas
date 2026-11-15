@@ -6975,6 +6975,10 @@
     "title": "AV Ride",
     "url": "/wiki/entities/avride/"
   },
+  "AVisitFromStNicholas": {
+    "title": "A Visit from St. Nicholas",
+    "url": "/wiki/entities/avisitfromstnicholas/"
+  },
   "AWEChina": {
     "title": "AWE China / 中国家电及消费电子博览会",
     "url": "/wiki/entities/awechina/"
@@ -21975,6 +21979,10 @@
     "title": "Clement Attlee",
     "url": "/wiki/entities/clementattlee/"
   },
+  "ClementClarkeMoore": {
+    "title": "Clement Clarke Moore",
+    "url": "/wiki/entities/clementclarkemoore/"
+  },
   "CleomenesI": {
     "title": "Cleomenes I",
     "url": "/wiki/entities/cleomenesi/"
@@ -29343,6 +29351,10 @@
     "title": "Don Brash",
     "url": "/wiki/entities/donbrash/"
   },
+  "DonFoster": {
+    "title": "Don Foster",
+    "url": "/wiki/entities/donfoster/"
+  },
   "DonValentine": {
     "title": "Don Valentine",
     "url": "/wiki/entities/donvalentine/"
@@ -34358,6 +34370,10 @@
   "FallsCurfew": {
     "title": "Falls Curfew",
     "url": "/wiki/entities/fallscurfew/"
+  },
+  "FalseBalanceControversyPersistence": {
+    "title": "False-Balance Controversy Persistence",
+    "url": "/wiki/concepts/falsebalancecontroversypersistence/"
   },
   "FalseChoiceGovernance": {
     "title": "False Choice Governance",
@@ -44058,6 +44074,10 @@
   "HenryLeach": {
     "title": "Henry Leach",
     "url": "/wiki/entities/henryleach/"
+  },
+  "HenryLivingstonJr": {
+    "title": "Henry Livingston Jr.",
+    "url": "/wiki/entities/henrylivingstonjr/"
   },
   "HenryMaine": {
     "title": "Henry Maine",
@@ -57415,6 +57435,10 @@
     "title": "Literary Ambiguity As Complexity / 文学混沌性",
     "url": "/wiki/concepts/literaryambiguityascomplexity/"
   },
+  "LiteraryAuthorshipAttribution": {
+    "title": "Literary Authorship Attribution",
+    "url": "/wiki/concepts/literaryauthorshipattribution/"
+  },
   "LiteraryGossipAsContext": {
     "title": "Literary Gossip As Context",
     "url": "/wiki/concepts/literarygossipascontext/"
@@ -61978,6 +62002,10 @@
   "MaryShelley": {
     "title": "Mary Shelley / 玛丽·雪莱",
     "url": "/wiki/entities/maryshelley/"
+  },
+  "MaryVanDusen": {
+    "title": "Mary Van Dusen",
+    "url": "/wiki/entities/maryvandusen/"
   },
   "MaryVetsera": {
     "title": "Mary Vetsera",
@@ -83938,6 +83966,10 @@
   "SethBerkowitz": {
     "title": "Seth Berkowitz",
     "url": "/wiki/entities/sethberkowitz/"
+  },
+  "SethKaller": {
+    "title": "Seth Kaller",
+    "url": "/wiki/entities/sethkaller/"
   },
   "SethStoughton": {
     "title": "Seth Stoughton",
@@ -114446,6 +114478,10 @@
   "tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655": {
     "title": "【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光",
     "url": "/wiki/sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655/"
+  },
+  "twas-the-night-before-christmas-twas-the-night-before-christmas": {
+    "title": "Twas the Night Before Christmas",
+    "url": "/wiki/sources/twas-the-night-before-christmas-twas-the-night-before-christmas/"
   },
   "two-indicators-for-lowering-the-rent": {
     "title": "Two indicators for lowering the rent",
