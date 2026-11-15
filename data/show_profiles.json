@@ -903,7 +903,7 @@
       "earliest_episode_date": "2026-05-21",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 5,
+      "source_note_count": 6,
       "topic_matched_source_note_count": 2,
       "topics": [
         {
@@ -925,14 +925,14 @@
           "title": "Malcolm Gladwell",
           "url": "/wiki/entities/malcolmgladwell/",
           "kind": "person",
-          "episode_count": 3
+          "episode_count": 4
         },
         {
           "key": "BrandonScott",
           "title": "Brandon Scott",
           "url": "/wiki/entities/brandonscott/",
           "kind": "person",
-          "episode_count": 2
+          "episode_count": 3
         },
         {
           "key": "DavidKennedyCriminologist",

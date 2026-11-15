@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Brian Lehrer and Malcolm Gladwell Talk Policing and Guns](sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns.md) — Revisionist History interview connecting conditional police capacity, legitimacy, gun-rights history, expressive violence, and individualized prevention.
 - [《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？](sources/zizhi-tongjian-hanji-1161-caocao-wei-shenme-yao-cisi-erxifu-lhv36g01hxpxaabh77bbyosdjzfr.md) — 芮淇讲透资治通鉴以曹植夫妇、汉中开局和陆逊回应举报，讨论家规与权力、分兵弱点及逆境中的不迁怒。
 - [《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急](sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i.md) — 芮淇讲透资治通鉴以218年许都之乱、北方乌桓平叛和汉中争夺，对照仓促突袭、信号判断、跨区调人及前线—后方一体化。
 - [Wolfgang's Law - Part One](sources/wolfgang-s-law-part-one.md) — Revisionist History connects concentrated violence networks, expressive retaliation, weekly case review, and trusted community interruption in Baltimore.
@@ -5080,6 +5081,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [Brian Lehrer](entities/BrianLehrer.md) — Public-radio interviewer who tests Malcolm Gladwell's policing, gun-history, and violence-prevention claims.
+- [The American Way of Killing](entities/TheAmericanWayOfKilling.md) — Malcolm Gladwell book framing US gun violence as historically and institutionally produced.
 - [崔氏 / Cui Shi (Cao Zhi's Wife)](entities/CuiShiCaoZhiWife.md) — 曹植之妻，其被迫离异与死亡被节目置于家规、储位警告和清河崔氏政治的交汇处。
 - [吴兰 / Wu Lan (late Han)](entities/WuLanLateHan.md) — 汉中进军初期分兵驻扎的刘备方将领，因局部兵力较弱成为曹洪集中攻击的目标。
 - [淳于式 / Chunyu Shi (late Han)](entities/ChunyuShiLateHan.md) — 举报陆逊征调扰民、又因关切地方民生而获陆逊肯定和推荐的会稽官员。
@@ -19302,6 +19305,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Police Staffing as Relational Capacity](concepts/PoliceStaffingRelationalCapacity.md) — Conditional claim that staffing matters when it creates time for local knowledge, prevention, and accountable community presence.
+- [Police Legitimacy and Clearance Capacity](concepts/PoliceLegitimacyClearanceCapacity.md) — Dependence of investigative effectiveness on trust, information sharing, accuracy, and accountable police conduct.
+- [Gun Rights Historical Path Dependence](concepts/GunRightsHistoricalPathDependence.md) — Qualified history linking slavery-era militia politics, frontier regulation, weapon technology, and modern gun-rights ideology.
 - [逆境中的不迁怒 / Non-Retaliatory Conduct Under Adversity](concepts/NonRetaliatoryAdversityConduct.md) — 在受伤、失败或被批评时不把痛苦转嫁给无关者，并保留识别批评者公共价值的能力。
 - [Frontline–Rear Governance Integration / 前线作战与后方治理一体化](concepts/FrontlineRearGovernanceIntegration.md) — 将兵员、粮草、地方行政和政治稳定视为同一持续作战系统的战略原则。
 - [Public-Signal Intent Inference / 公开信号下的意图判断](concepts/PublicSignalIntentInference.md) — 通过公开程度是否符合行动所需保密性来评估威胁意图、同时保留双重欺骗可能的判断方法。

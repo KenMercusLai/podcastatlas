@@ -16187,6 +16187,10 @@
     "title": "Brian Krebs",
     "url": "/wiki/entities/briankrebs/"
   },
+  "BrianLehrer": {
+    "title": "Brian Lehrer",
+    "url": "/wiki/entities/brianlehrer/"
+  },
   "BrianMendoza": {
     "title": "Brian Mendoza",
     "url": "/wiki/entities/brianmendoza/"
@@ -41522,6 +41526,10 @@
   "Gumroad": {
     "title": "Gumroad",
     "url": "/wiki/entities/gumroad/"
+  },
+  "GunRightsHistoricalPathDependence": {
+    "title": "Gun Rights Historical Path Dependence",
+    "url": "/wiki/concepts/gunrightshistoricalpathdependence/"
   },
   "GunnarHellekson": {
     "title": "Gunnar Hellekson",
@@ -73215,6 +73223,14 @@
     "title": "Police Killing Rate Divergence",
     "url": "/wiki/concepts/policekillingratedivergence/"
   },
+  "PoliceLegitimacyClearanceCapacity": {
+    "title": "Police Legitimacy and Clearance Capacity",
+    "url": "/wiki/concepts/policelegitimacyclearancecapacity/"
+  },
+  "PoliceStaffingRelationalCapacity": {
+    "title": "Police Staffing as Relational Capacity",
+    "url": "/wiki/concepts/policestaffingrelationalcapacity/"
+  },
   "PolicyAmbiguityAsMarketTool": {
     "title": "Policy Ambiguity As Market Tool",
     "url": "/wiki/concepts/policyambiguityasmarkettool/"
@@ -91347,6 +91363,10 @@
     "title": "The AI Turning Point",
     "url": "/wiki/entities/theaiturningpoint/"
   },
+  "TheAmericanWayOfKilling": {
+    "title": "The American Way of Killing",
+    "url": "/wiki/entities/theamericanwayofkilling/"
+  },
   "TheAnxiousGeneration": {
     "title": "The Anxious Generation",
     "url": "/wiki/entities/theanxiousgeneration/"
@@ -107446,6 +107466,10 @@
   "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802": {
     "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
     "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
+  },
+  "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns": {
+    "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+    "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
   },
   "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808": {
     "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",

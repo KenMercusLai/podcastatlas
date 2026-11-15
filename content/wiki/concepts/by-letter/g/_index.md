@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11247
+wiki_total_pages: 11250
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "GulfStrategicDiversification"
     title: "Gulf Strategic Diversification"
     url: "/wiki/concepts/gulfstrategicdiversification/"
+  - key: "GunRightsHistoricalPathDependence"
+    title: "Gun Rights Historical Path Dependence"
+    url: "/wiki/concepts/gunrightshistoricalpathdependence/"
   - key: "GunpowderPlot"
     title: "Gunpowder Plot"
     url: "/wiki/concepts/gunpowderplot/"

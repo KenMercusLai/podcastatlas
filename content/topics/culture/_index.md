@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3652
+topic_total_pages: 3653
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6551,6 +6551,9 @@ topic_entities:
   - key: "TheAITurningPoint"
     title: "The AI Turning Point"
     url: "/wiki/entities/theaiturningpoint/"
+  - key: "TheAmericanWayOfKilling"
+    title: "The American Way of Killing"
+    url: "/wiki/entities/theamericanwayofkilling/"
   - key: "TheAnxiousGeneration"
     title: "The Anxious Generation"
     url: "/wiki/entities/theanxiousgeneration/"

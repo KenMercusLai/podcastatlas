@@ -39601,3 +39601,13 @@ Core synthesis: the source offers household austerity, succession warning, and c
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Brian Lehrer and Malcolm Gladwell Talk Policing and Guns
+
+Added the [[RevisionistHistory]] interview in which [[BrianLehrer]] questions [[MalcolmGladwell]] about [[TheAmericanWayOfKilling|The American Way of Killing]]. Created Brian Lehrer, the book, [[PoliceStaffingRelationalCapacity]], [[PoliceLegitimacyClearanceCapacity]], and [[GunRightsHistoricalPathDependence]]; and resynthesized Malcolm Gladwell, Revisionist History, [[BrandonScott]], [[ExpressiveViolenceRetaliation]], [[ViolenceConcentration]], and [[TrustedCommunityViolenceInterruption]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: police headcount is useful only when organizational practice turns it into relational, preventive, and investigative capacity; legitimacy affects homicide investigation through community information sharing; gun politics reflects contested historical institutions rather than an unchanging frontier tradition; and expressive, concentrated violence makes immediate individualized intervention necessary even when long-horizon gun control remains warranted. No settled contradiction was adopted. Cross-national staffing and force comparisons, clearance rates, Baltimore's decline, population estimates, constitutional origins, and frontier rules remain episode-attributed because the supplied file is a structured summary rather than the underlying studies, legal record, or cited historical evidence. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,957 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

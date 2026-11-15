@@ -4,6 +4,7 @@ type: concept
 tags: [criminology, violence-reduction, networks, targeting]
 sources:
   - wolfgang-s-law-part-one
+  - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ Violence concentration is the recurring pattern in which a small share of people
 
 Concentration is a population-level diagnostic, not an inference of guilt. Network position, prior arrest, demographic membership, or group association cannot establish that a specific person will commit violence. Ethical use therefore requires current evidence, proportionality, privacy controls, correction mechanisms, and meaningful support rather than indiscriminate surveillance or punishment.
 
+The Lehrer interview adds the practical claim that even large high-violence communities may contain only a few hundred people at immediate risk of shooting or being shot. That scale can support intensive, person-specific help, but the same precision claim increases the need for transparent inclusion criteria, correction, and separation of supportive outreach from automatic criminal suspicion.
+
 ## Key Claims
 
 - Serious violence can be distributed far more unevenly than neighborhood-level crime labels imply.
@@ -28,6 +31,7 @@ Concentration is a population-level diagnostic, not an inference of guilt. Netwo
 - Concentration estimates depend on place, period, data quality, definitions, and enforcement practices.
 - Population-level association does not establish individual intent, dangerousness, or guilt.
 - Precision claims are legitimate only when matched by safeguards against false positives, stigma, coercion, and unequal treatment.
+- Small-network estimates can make intensive support feasible without justifying neighborhood-wide enforcement.
 
 ## Evidence
 
@@ -38,14 +42,16 @@ Concentration is a population-level diagnostic, not an inference of guilt. Netwo
 ### Network-level replication
 
 - [[wolfgang-s-law-part-one]] reports roughly 700 people in 18 groups in Baltimore's Western District, about 400 central people in a Chicago neighborhood, a half-percent estimate for New Orleans shootings, and a six-person reassessment in a Stockholm case.
+- [[brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns]] repeats Western Baltimore and Chicago examples to argue for individualized attention rather than broad neighborhood enforcement.
 
 ## Counterevidence & Qualifications
 
-The episode summarizes rather than reproduces the underlying studies. Recorded offending reflects enforcement and measurement as well as conduct, while network boundaries and causal roles can be uncertain. Concentration can support narrower prevention, but it can also make a small group bear intensive surveillance or intervention without adequate process.
+The episodes summarize rather than reproduce the underlying studies. Recorded offending reflects enforcement and measurement as well as conduct, while network boundaries and causal roles can be uncertain. Concentration can support narrower prevention, but it can also make a small group bear intensive surveillance or intervention without adequate process.
 
 ## What Changed
 
 - Established a guarded synthesis separating a useful network-level diagnostic from individual prediction or guilt.
+- Added the operational case for individualized support over neighborhood-wide enforcement.
 
 ## Related Concepts
 

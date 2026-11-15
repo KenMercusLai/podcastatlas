@@ -4,6 +4,7 @@ type: concept
 tags: [violence-reduction, community, trust, outreach]
 sources:
   - wolfgang-s-law-part-one
+  - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ The episode's central example shows that the decisive conversation begins long b
 
 Community credibility does not remove the need for institutions. Outreach workers need accurate information, safe working conditions, service options, privacy boundaries, follow-through, and a way to coordinate without being absorbed into indiscriminate surveillance or enforcement. The strongest model joins local standing to accountable [[TeamBasedServiceDelivery]].
 
+The Lehrer interview generalizes the mechanism beyond one intervention story. It describes involving trusted relatives or community figures, addressing emotional escalation and damaged relationships, and offering individualized support without making arrest, prison threat, or armed intimidation the primary tool.
+
 ## Key Claims
 
 - Crisis influence may depend on care and credibility accumulated before violence becomes imminent.
@@ -28,6 +31,7 @@ Community credibility does not remove the need for institutions. Outreach worker
 - Community workers are substantive intervention actors rather than decorative sources of legitimacy.
 - Durable practice requires worker safety, compensation, service capacity, privacy rules, and institutional follow-through.
 - A vivid success story does not establish average effectiveness or eliminate the need for evaluation.
+- Family and community relationships can be part of a tailored intervention when participation and confidentiality are handled responsibly.
 
 ## Evidence
 
@@ -42,15 +46,17 @@ Community credibility does not remove the need for institutions. Outreach worker
 ### Coalition setting
 
 - [[wolfgang-s-law-part-one]] places trusted community figures alongside police, counselors, clergy, outreach staff, and political representatives in weekly case review.
+- [[brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns]] presents individualized Baltimore intervention as an alternative to arrest-led or threat-led response.
 
 ## Counterevidence & Qualifications
 
-The source provides a selected anecdote rather than systematic outcome evidence. Trust may be person-specific and difficult to scale; workers may face danger, burnout, underpayment, or pressure to share sensitive information. Formal agencies can damage the same credibility they seek to use if roles and confidentiality are unclear.
+The sources provide selected examples rather than systematic outcome evidence. Trust may be person-specific and difficult to scale; workers and relatives may face danger, burnout, underpayment, or pressure to share sensitive information. Formal agencies can damage the same credibility they seek to use if roles, consent, and confidentiality are unclear.
 
 ## What Changed
 
 - Established trust as accumulated intervention capacity rather than a generic claim of community engagement.
 - Made institutional support and privacy boundaries part of the mechanism's current synthesis.
+- Extended the mechanism to tailored family, emotional-regulation, and material support.
 
 ## Related Concepts
 

@@ -36896,9 +36896,9 @@
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
     "BrandonScott": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
@@ -36913,6 +36913,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part One",
           "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        },
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
         }
       ],
       "updated": "2026-11-15",
@@ -37661,6 +37668,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/briankeating/"
+    },
+    "BrianLehrer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/brianlehrer/"
     },
     "BrianRudolph": {
       "episode_count": 1,
@@ -99968,9 +99991,9 @@
       "url": "/wiki/concepts/expressivebionicvoicerestoration/"
     },
     "ExpressiveViolenceRetaliation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
@@ -99978,6 +100001,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part One",
           "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        },
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
         }
       ],
       "updated": "2026-11-15",
@@ -126935,6 +126965,22 @@
       ],
       "updated": "2026-11-06",
       "url": "/wiki/entities/guming/"
+    },
+    "GunRightsHistoricalPathDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/gunrightshistoricalpathdependence/"
     },
     "GunnarHellekson": {
       "episode_count": 1,
@@ -194788,9 +194834,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -194812,6 +194858,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part One",
           "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        },
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
         }
       ],
       "updated": "2026-11-15",
@@ -237324,6 +237377,38 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/poland/"
     },
+    "PoliceLegitimacyClearanceCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/policelegitimacyclearancecapacity/"
+    },
+    "PoliceStaffingRelationalCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/policestaffingrelationalcapacity/"
+    },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 2,
       "show_count": 2,
@@ -256965,9 +257050,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -256989,6 +257074,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part One",
           "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        },
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
         }
       ],
       "updated": "2026-11-15",
@@ -295951,6 +296043,22 @@
       "updated": "2026-10-23",
       "url": "/wiki/entities/theaiceobook/"
     },
+    "TheAmericanWayOfKilling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/theamericanwayofkilling/"
+    },
     "TheAnxiousGeneration": {
       "episode_count": 3,
       "show_count": 2,
@@ -304811,9 +304919,9 @@
       "url": "/wiki/concepts/trustreciprocityloop/"
     },
     "TrustedCommunityViolenceInterruption": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
@@ -304821,6 +304929,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part One",
           "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        },
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
         }
       ],
       "updated": "2026-11-15",
@@ -311129,9 +311244,9 @@
       "url": "/wiki/entities/vinland/"
     },
     "ViolenceConcentration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
@@ -311139,6 +311254,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part One",
           "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        },
+        {
+          "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
+          "key": "brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns",
+          "show": "Revisionist History",
+          "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+          "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
         }
       ],
       "updated": "2026-11-15",

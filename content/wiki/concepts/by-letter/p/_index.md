@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11247
+wiki_total_pages: 11250
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1220,6 +1220,12 @@ wiki_pages:
   - key: "PoliceKillingRateDivergence"
     title: "Police Killing Rate Divergence"
     url: "/wiki/concepts/policekillingratedivergence/"
+  - key: "PoliceLegitimacyClearanceCapacity"
+    title: "Police Legitimacy and Clearance Capacity"
+    url: "/wiki/concepts/policelegitimacyclearancecapacity/"
+  - key: "PoliceStaffingRelationalCapacity"
+    title: "Police Staffing as Relational Capacity"
+    url: "/wiki/concepts/policestaffingrelationalcapacity/"
   - key: "PoliceFreeProtestSpace"
     title: "Police-Free Protest Space"
     url: "/wiki/concepts/policefreeprotestspace/"
