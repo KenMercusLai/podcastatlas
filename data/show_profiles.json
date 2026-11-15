@@ -911,14 +911,14 @@
       "earliest_episode_date": "2025-09-22",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 14,
-      "topic_matched_source_note_count": 7,
+      "source_note_count": 15,
+      "topic_matched_source_note_count": 8,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 5
+          "source_note_count": 6
         },
         {
           "key": "history",
@@ -949,16 +949,16 @@
           "episode_count": 3
         },
         {
-          "key": "DavidKennedyCriminologist",
-          "title": "David M. Kennedy",
-          "url": "/wiki/entities/davidkennedycriminologist/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
           "key": "GuyMolinari",
           "title": "Guy Molinari",
           "url": "/wiki/entities/guymolinari/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "DavidKennedyCriminologist",
+          "title": "David M. Kennedy",
+          "url": "/wiki/entities/davidkennedycriminologist/",
           "kind": "person",
           "episode_count": 2
         }

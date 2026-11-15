@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Staten Island Problem - Part 1: The Mayor vs. the Borough President](sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t.md) — Revisionist History contrasts Dinkins's pluralist defense of citywide unity with Molinari's policing, landfill, and forgotten-borough grievance politics.
 - [The Staten Island Problem - Part 2: A New Map](sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map.md) — Revisionist History connects the Board of Estimate ruling, Fresh Kills, grassroots organizing, post-bridge change, and symbolic invisibility to Staten Island's secession campaign.
 - [The Staten Island Problem - Part 3: The Tuvalu Effect](sources/the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect.md) — Revisionist History contrasts Staten Island's fiscal dependence with the Tuvalu effect, local trust, tolls, imposed burdens, racial division, and secession leverage.
 - [The Staten Island Problem - Part 4: Wu-Tang vs. Shaolin](sources/the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin.md) — Revisionist History connects Staten Island's racial geography and Wu-Tang's rise to creative isolation, collective autonomy, and a qualified secession analogy.
@@ -5101,6 +5102,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [RZA](entities/RZA.md) — Producer and organizational architect who built Wu-Tang's place mythology, collective sound, and member-preserving deal structure.
 - [Wu-Tang Clan](entities/WuTangClan.md) — Staten Island hip-hop collective joining a shared “Shaolin” identity to independent solo careers across labels.
 - [Skiz Fernando](entities/SkizFernando.md) — Hip-hop journalist whose early coverage supports the episode's Wu-Tang history and limits its secession analogy.
+- [David Dinkins](entities/DavidDinkins.md) — New York mayor whose pluralist “gorgeous mosaic” and extended Staten Island visit failed to contain the secession conflict.
 - [Guy Molinari](entities/GuyMolinari.md) — Staten Island borough president who linked the secession campaign to Giuliani's outer-borough mayoral coalition.
 - [Katherine Cramer](entities/KatherineCramer.md) — Political scientist whose research organizes place-based resentment around resources, power, and respect.
 - [1993 Staten Island Secession Referendum](entities/StatenIslandSecession1993.md) — Locally successful but legally blocked exit vote whose turnout helped reshape the New York mayoral election.

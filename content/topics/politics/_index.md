@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3518
+topic_total_pages: 3520
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6218,6 +6218,9 @@ topic_entities:
   - key: "DavidCameron"
     title: "David Cameron"
     url: "/wiki/entities/davidcameron/"
+  - key: "DavidDinkins"
+    title: "David Dinkins"
+    url: "/wiki/entities/daviddinkins/"
   - key: "DavidHorowitz"
     title: "David Horowitz"
     url: "/wiki/entities/davidhorowitz/"
@@ -9930,6 +9933,9 @@ topic_sources:
   - key: "the-sneaky-way-companies-get-new-chemicals-into-our-food"
     title: "The sneaky way companies get new chemicals into our food"
     url: "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
+  - key: "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t"
+    title: "The Staten Island Problem - Part 1: The Mayor vs. the Borough President"
+    url: "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
   - key: "the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map"
     title: "The Staten Island Problem - Part 2: A New Map"
     url: "/wiki/sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map/"

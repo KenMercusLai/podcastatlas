@@ -72797,6 +72797,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/daviddesteno/"
     },
+    "DavidDinkins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_the_Borough_President [The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_t.md",
+          "key": "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+          "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/daviddinkins/"
+    },
     "DavidEagleman": {
       "episode_count": 1,
       "show_count": 1,
@@ -128547,9 +128563,9 @@
       "url": "/wiki/entities/guyfawkes/"
     },
     "GuyMolinari": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -128564,6 +128580,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 3: The Tuvalu Effect",
           "url": "/wiki/sources/the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_the_Borough_President [The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_t.md",
+          "key": "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+          "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
         }
       ],
       "updated": "2026-11-15",
@@ -233494,9 +233517,9 @@
       "url": "/wiki/concepts/peripheralinnovationfield/"
     },
     "PeripheralPlaceResentment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -233518,6 +233541,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 3: The Tuvalu Effect",
           "url": "/wiki/sources/the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_the_Borough_President [The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_t.md",
+          "key": "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+          "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
         }
       ],
       "updated": "2026-11-15",
@@ -236790,9 +236820,9 @@
       "url": "/wiki/concepts/pistachiosupplyshock/"
     },
     "PlaceBasedDemocraticRecognition": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -236814,6 +236844,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 2: A New Map",
           "url": "/wiki/sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_the_Borough_President [The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_t.md",
+          "key": "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+          "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
         }
       ],
       "updated": "2026-11-15",
@@ -285453,9 +285490,9 @@
       "url": "/wiki/concepts/statelessexile/"
     },
     "StatenIsland": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -285491,15 +285528,22 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 2: A New Map",
           "url": "/wiki/sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_the_Borough_President [The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_t.md",
+          "key": "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+          "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
         }
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/statenisland/"
     },
     "StatenIslandSecession1993": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -285528,6 +285572,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 2: A New Map",
           "url": "/wiki/sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map/"
+        },
+        {
+          "episode_file": "The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_the_Borough_President [The_Staten_Island_Problem_-_Part_1_The_Mayor_vs_t.md",
+          "key": "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t",
+          "show": "Revisionist History",
+          "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+          "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
         }
       ],
       "updated": "2026-11-15",

@@ -39703,3 +39703,13 @@ Core synthesis: the Supreme Court's one-person-one-vote ruling corrected a sever
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Staten Island Problem - Part 1: The Mayor vs. the Borough President
+
+Added the [[RevisionistHistory]] episode introducing [[StatenIsland|Staten Island's]] secession crisis through the confrontation between Mayor [[DavidDinkins]] and borough president [[GuyMolinari]]. Created a bounded profile for Dinkins; and resynthesized Staten Island, Molinari, [[StatenIslandSecession1993|the 1993 secession referendum]], [[PeripheralPlaceResentment]], and [[PlaceBasedDemocraticRecognition]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Dinkins's “gorgeous mosaic” and week-long borough visit made a serious democratic case for shared membership, but public attention could not substitute for a credible answer on Fresh Kills; Molinari joined that material gap to police loyalty, cultural distance, and local disrespect, turning the visit into evidence for the grievance it was meant to defuse. The episode also treats the movement as racially tinged without reducing every supporter or complaint to one motive. No settled factual contradiction was adopted. The Garcia killing and unrest, fiscal exposure, municipal-worker residence, political motives, and the visit's effects remain episode-attributed because the supplied file is a structured summary rather than the underlying investigation, budgets, transcript, or archival record. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,968 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
