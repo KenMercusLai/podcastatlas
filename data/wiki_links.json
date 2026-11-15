@@ -8815,6 +8815,10 @@
     "title": "Alan Turing / 图灵",
     "url": "/wiki/entities/alanturing/"
   },
+  "AlarmFatigue": {
+    "title": "Alarm Fatigue",
+    "url": "/wiki/concepts/alarmfatigue/"
+  },
   "Alaska": {
     "title": "Alaska / 阿拉斯加",
     "url": "/wiki/entities/alaska/"
@@ -11618,6 +11622,10 @@
   "Arkema": {
     "title": "Arkema",
     "url": "/wiki/entities/arkema/"
+  },
+  "ArlineBronzaft": {
+    "title": "Arline Bronzaft",
+    "url": "/wiki/entities/arlinebronzaft/"
   },
   "ArmagnacBurgundianCivilWar": {
     "title": "Armagnac-Burgundian Civil War",
@@ -32055,6 +32063,10 @@
     "title": "Emergency Diagnostic Revision / 急诊诊断修正",
     "url": "/wiki/concepts/emergencydiagnosticrevision/"
   },
+  "EmergencyDispatchTriage": {
+    "title": "Emergency Dispatch Triage",
+    "url": "/wiki/concepts/emergencydispatchtriage/"
+  },
   "EmergencyFrontierDiscretion": {
     "title": "临机边疆裁量 / Emergency Frontier Discretion",
     "url": "/wiki/concepts/emergencyfrontierdiscretion/"
@@ -32074,6 +32086,10 @@
   "EmergencySuccessionLegitimation": {
     "title": "Emergency Succession Legitimation / 临终就近立储",
     "url": "/wiki/concepts/emergencysuccessionlegitimation/"
+  },
+  "EmergencyTVSeries": {
+    "title": "Emergency! (television series)",
+    "url": "/wiki/entities/emergencytvseries/"
   },
   "EmergencyWarningInfrastructure": {
     "title": "Emergency Warning Infrastructure",
@@ -50703,6 +50719,10 @@
     "title": "Jeff Denning",
     "url": "/wiki/entities/jeffdenning/"
   },
+  "JeffJarvisEMS": {
+    "title": "Jeff Jarvis (EMS physician)",
+    "url": "/wiki/entities/jeffjarvisems/"
+  },
   "JeffLawson": {
     "title": "Jeff Lawson",
     "url": "/wiki/entities/jefflawson/"
@@ -52442,6 +52462,10 @@
   "JonathanAnderson": {
     "title": "Jonathan Anderson",
     "url": "/wiki/entities/jonathananderson/"
+  },
+  "JonathanBayer": {
+    "title": "Jonathan Bayer",
+    "url": "/wiki/entities/jonathanbayer/"
   },
   "JonathanBousenthal": {
     "title": "Jonathan Bousenthal",
@@ -57270,6 +57294,10 @@
   "LightTouchFrontierGovernance": {
     "title": "Light-Touch Frontier Governance / 宽简边疆治理",
     "url": "/wiki/concepts/lighttouchfrontiergovernance/"
+  },
+  "LightsAndSirensRiskCalibration": {
+    "title": "Lights and Sirens Risk Calibration",
+    "url": "/wiki/concepts/lightsandsirensriskcalibration/"
   },
   "LightweightGoldJewelryAdaptation": {
     "title": "Lightweight Gold Jewelry Adaptation / 黄金首饰轻量化",
@@ -86179,6 +86207,10 @@
     "title": "Sir William Hamilton",
     "url": "/wiki/entities/sirwilliamhamilton/"
   },
+  "SirenNoiseExternalities": {
+    "title": "Siren Noise Externalities",
+    "url": "/wiki/concepts/sirennoiseexternalities/"
+  },
   "Sirens": {
     "title": "Sirens",
     "url": "/wiki/entities/sirens/"
@@ -112842,6 +112874,10 @@
   "ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0": {
     "title": "如何「兜住」一颗火箭？｜ S10E21",
     "url": "/wiki/sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0/"
+  },
+  "running-hot": {
+    "title": "Running Hot",
+    "url": "/wiki/sources/running-hot/"
   },
   "salt-020260914-archive-keats-podcast": {
     "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",

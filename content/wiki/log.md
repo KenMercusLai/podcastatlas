@@ -40187,3 +40187,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Running Hot
+
+Added the [[RevisionistHistory]] episode connecting neighborhood siren exposure, ambulance crash risk, modest response-time savings, dispatch triage, national EMS utilization data, fire-service inheritance, television's universal-urgency narrative, and alarm fatigue. Created bounded profiles for [[JonathanBayer]], [[JeffJarvisEMS|Jeff Jarvis]], [[ArlineBronzaft]], and [[EmergencyTVSeries|Emergency!]]; established [[LightsAndSirensRiskCalibration]], [[EmergencyDispatchTriage]], [[SirenNoiseExternalities]], and [[AlarmFatigue]]; and resynthesized [[MalcolmGladwell]], [[BenNaddaffHafrey]], and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: lights and sirens remain justified for narrow time-critical conditions such as cardiac arrest, choking, and respiratory arrest, but routine use adds collision, noise, hearing, burnout, and desensitization costs while usually saving seconds or a few minutes. Berrien County and Jarvis's implementation case show that selective use can sharply reduce warning-device responses with reassuring triage or median-delay checks, although hospital priority, intervention frequency, and medians are incomplete outcome measures. No settled contradiction was adopted. Crash, time-saving, intervention, decibel, and triage figures remain episode-attributed; *Emergency!* is a qualified rather than isolated causal explanation; and the claim that rarer sirens would restore public responsiveness remains untested. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,017 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

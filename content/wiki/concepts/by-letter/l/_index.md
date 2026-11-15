@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11343
+wiki_total_pages: 11347
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "LightTouchFrontierGovernance"
     title: "Light-Touch Frontier Governance / 宽简边疆治理"
     url: "/wiki/concepts/lighttouchfrontiergovernance/"
+  - key: "LightsAndSirensRiskCalibration"
+    title: "Lights and Sirens Risk Calibration"
+    url: "/wiki/concepts/lightsandsirensriskcalibration/"
   - key: "LightweightGoldJewelryAdaptation"
     title: "Lightweight Gold Jewelry Adaptation / 黄金首饰轻量化"
     url: "/wiki/concepts/lightweightgoldjewelryadaptation/"

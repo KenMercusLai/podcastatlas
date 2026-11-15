@@ -7,6 +7,7 @@ sources:
   - coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem
   - christmas-in-connecticut-christmas-in-connecticut
   - the-formula-the-formula
+  - running-hot
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Ben Naddaff-Hafrey is a reporter and producer whose work for [[RevisionistHistory]] ranges from Staten Island's secession politics and Revolutionary-era Loyalism to film-production oral history and an experimental investigation of a famous commercial food.
+Ben Naddaff-Hafrey is a reporter and producer whose work for [[RevisionistHistory]] ranges from Staten Island's secession politics and Revolutionary-era Loyalism through film-production oral history, experimental food reporting, and an evidence-led investigation of emergency siren overuse.
 
 ## Current Profile
 
@@ -29,6 +30,8 @@ In the *Christmas in Connecticut* episode, Naddaff-Hafrey moves from political h
 
 In [[the-formula-the-formula|The Formula]], he turns a legal and branding claim into a practical experiment. After treating [[BimboBakeries]]' suit against [[ChrisBotticella]] as a reason to test the mystique around [[ThomasEnglishMuffins|Thomas' English muffins]], he recruits [[RachelWyman]] and follows iteration, blind testing, and a comparison with [[Chartreuse]]. The result preserves failure as evidence: the team matches the nooks-and-crannies structure but not perceptual identity, then discovers that testers prefer Wyman's sourdough alternative.
 
+In [[running-hot|Running Hot]], a personal noise complaint becomes a systems investigation. Naddaff-Hafrey counts sirens near his Brooklyn apartment, consults [[ArlineBronzaft]] on environmental-noise harms, then follows [[JonathanBayer]] and [[JeffJarvisEMS|Jeff Jarvis]] from crash and response-time evidence into dispatch reform. The reporting abandons an emotionally convenient mascot when the howling dog appears to enjoy sirens, while preserving the stronger evidence-led case for selective use.
+
 ## Key Characteristics
 
 - Reporter linking local political identity to deeper historical structure.
@@ -36,8 +39,8 @@ In [[the-formula-the-formula|The Formula]], he turns a legal and branding claim 
 - Crossover guest who translates cut reporting into a longer narrative while attending to commercial incentives and changing allegiance.
 - Explicitly preserves uncertainty around incomplete records.
 - Oral historian who uses concrete production failures and conflicting memories rather than smoothing them into nostalgia.
-- Separates affection for creative process from a claim that the resulting work is good.
 - Uses practical experiments and explicit test failure to pressure-test legal and cultural mythology.
+- Turns a neighborhood complaint into a risk, triage, and institutional-history investigation while discarding a weak emotional frame.
 
 ## Evidence
 
@@ -65,15 +68,19 @@ In [[the-formula-the-formula|The Formula]], he turns a legal and branding claim 
 
 - [[the-formula-the-formula]] follows his attempt to move from a corporate trade-secret claim through baking iteration, triangle testing, preference testing, and comparison with trust-based secrecy.
 
+### Emergency-response investigation
+
+- [[running-hot]] follows his path from a local siren count through noise expertise, county reform, national EMS data, media history, and the failed attempt to use Davy as a suffering mascot.
+
 ## Qualifications
 
-The page is based on four structured episode summaries rather than a complete biography, bibliography, transcripts, production archives, legal records, or experimental datasets. The trailer establishes Naddaff-Hafrey's hosting role for the Staten Island series but does not independently substantiate its national causal parallels or evaluate the archival sources behind each claim. His *Christmas in Connecticut* interpretation preserves Brownell's distress and concrete filmmaking failures, yet its concluding affection still reflects selected participant memories and his own attachment to the original. The muffin experiment did not produce an indistinguishable copy, used technically knowledgeable students, and cannot adjudicate the legal validity of Bimbo's trade-secret claim.
+The page is based on five structured episode summaries rather than a complete biography, bibliography, transcripts, production archives, legal records, experimental datasets, EMS studies, or dispatch records. The trailer establishes Naddaff-Hafrey's hosting role for the Staten Island series but does not independently substantiate its national causal parallels or evaluate the archival sources behind each claim. His *Christmas in Connecticut* interpretation preserves Brownell's distress and concrete filmmaking failures, yet its concluding affection still reflects selected participant memories and his own attachment to the original. The muffin experiment did not produce an indistinguishable copy, used technically knowledgeable students, and cannot adjudicate the legal validity of Bimbo's trade-secret claim. The siren episode's utilization, crash, time-saving, health, and triage claims remain episode-attributed, while the proposed restoration of public responsiveness is explicitly untested.
 
 ## What Changed
 
-- Extended his profile into experiment-led food and labor reporting.
-- Added his use of failed indistinguishability and successful preference testing as distinct evidence.
-- Preserved the missing legal record, missing corporate response, and nonrepresentative test sample as limits.
+- Extended his profile into evidence-led public-safety and environmental-noise reporting.
+- Added his willingness to discard a sympathetic narrative device when observation does not support it.
+- Preserved the distinction between observed overuse and an untested public-attention benefit.
 
 ## Relationships
 
@@ -90,3 +97,6 @@ The page is based on four structured episode summaries rather than a complete bi
 - [[ProductReverseEngineering]] - experimental method through which he tests the formula's practical mystique.
 - [[TradeSecretAsLaborControl]] - employment-power interpretation motivating the investigation.
 - [[SecrecyAsCommunityBond]] - contrasting model developed through the Carthusian comparison.
+- [[LightsAndSirensRiskCalibration]] - selective-use framework developed through his investigation.
+- [[SirenNoiseExternalities]] - neighborhood and responder costs that motivate the inquiry.
+- [[EmergencyTVSeries|Emergency!]] - media history through which the episode explains inherited urgency expectations.

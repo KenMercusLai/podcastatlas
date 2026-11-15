@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14295
+wiki_total_pages: 14299
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1823,6 +1823,9 @@ wiki_pages:
   - key: "Arkema"
     title: "Arkema"
     url: "/wiki/entities/arkema/"
+  - key: "ArlineBronzaft"
+    title: "Arline Bronzaft"
+    url: "/wiki/entities/arlinebronzaft/"
   - key: "ArmandBenard"
     title: "Armand Benard"
     url: "/wiki/entities/armandbenard/"

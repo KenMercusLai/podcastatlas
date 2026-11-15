@@ -13457,6 +13457,22 @@
       "updated": "2026-10-30",
       "url": "/wiki/entities/alantalmor/"
     },
+    "AlarmFatigue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/alarmfatigue/"
+    },
     "AlaskaFisheriesPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -23006,6 +23022,22 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/entities/arkansastechuniversity/"
+    },
+    "ArlineBronzaft": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/arlinebronzaft/"
     },
     "ArmagnacBurgundianCivilWar": {
       "episode_count": 3,
@@ -32760,9 +32792,9 @@
       "url": "/wiki/entities/benmacintyre/"
     },
     "BenNaddaffHafrey": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -32791,6 +32823,13 @@
           "show": "Revisionist History",
           "title": "The Formula",
           "url": "/wiki/sources/the-formula-the-formula/"
+        },
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
         }
       ],
       "updated": "2026-11-15",
@@ -91545,6 +91584,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/emergencydiagnosticrevision/"
     },
+    "EmergencyDispatchTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/emergencydispatchtriage/"
+    },
     "EmergencyFrontierDiscretion": {
       "episode_count": 2,
       "show_count": 1,
@@ -91643,6 +91698,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/emergencyrescuelegalprotection/"
+    },
+    "EmergencyTVSeries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/emergencytvseries/"
     },
     "EmergentCreation": {
       "episode_count": 1,
@@ -162568,6 +162639,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/jeffdean/"
     },
+    "JeffJarvisEMS": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/jeffjarvisems/"
+    },
     "JeffersonDavis": {
       "episode_count": 2,
       "show_count": 1,
@@ -168256,6 +168343,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/jonathananderson/"
+    },
+    "JonathanBayer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/jonathanbayer/"
     },
     "JonathanBrill": {
       "episode_count": 1,
@@ -182665,6 +182768,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/lighttouchfrontiergovernance/"
+    },
+    "LightsAndSirensRiskCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/lightsandsirensriskcalibration/"
     },
     "LightweightGoldJewelryAdaptation": {
       "episode_count": 1,
@@ -198292,9 +198411,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -198435,6 +198554,13 @@
           "show": "Revisionist History",
           "title": "The RFK Jr. Problem",
           "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        },
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
         }
       ],
       "updated": "2026-11-16",
@@ -261619,9 +261745,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -261748,6 +261874,13 @@
           "show": "Revisionist History",
           "title": "The RFK Jr. Problem",
           "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        },
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
         }
       ],
       "updated": "2026-11-16",
@@ -281537,6 +281670,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/sirwilliamhamilton/"
+    },
+    "SirenNoiseExternalities": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Running_Hot [Running_Hot].md",
+          "key": "running-hot",
+          "show": "Revisionist History",
+          "title": "Running Hot",
+          "url": "/wiki/sources/running-hot/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sirennoiseexternalities/"
     },
     "Sirens": {
       "episode_count": 1,

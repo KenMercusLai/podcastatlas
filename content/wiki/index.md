@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Running Hot](sources/running-hot.md) — Revisionist History connects ambulance crash risk, modest time savings, dispatch reform, siren noise, alarm fatigue, and inherited urgency norms to selective lights-and-sirens use.
 - [Relationships 2.0: Why Did You Do That?](sources/default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568.md) — Hidden Brain connects intention-sensitive moral judgment and group-biased motive attribution to forgiveness that preserves boundaries and requires accountable repair.
 - [The Joe Rogan Intervention](sources/the-joe-rogan-intervention-the-joe-rogan-intervention.md) — Revisionist History contrasts conversational rapport with audience-facing duties to interpret evidence, pursue consequential claims, and move beyond rehearsed narratives.
 - [The RFK Jr. Problem](sources/the-rfk-jr-problem-the-rfk-jr-problem.md) — Revisionist History tests RotaTeq claims against package-insert traceability, placebo-controlled evidence, passive-reporting limits, and a qualified germ-theory–terrain-theory interpretation.
@@ -5140,6 +5141,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Jonathan Bayer](entities/JonathanBayer.md) — Berrien County EMS medical director who treats lights and sirens as a selective high-risk intervention.
+- [Jeff Jarvis (EMS physician)](entities/JeffJarvisEMS.md) — EMS analyst connecting national utilization data, selective response, and alarm fatigue.
+- [Arline Bronzaft](entities/ArlineBronzaft.md) — Environmental psychologist connecting siren exposure to learning, sleep, stress, and health.
+- [Emergency! (television series)](entities/EmergencyTVSeries.md) — Paramedicine advocacy drama whose universal-urgency narrative outlived its founding context.
 - [Liane Young](entities/LianeYoung.md) — Psychologist and neuroscientist connecting theory of mind, intention processing, and moral judgment.
 - [Fred Luskin](entities/FredLuskin.md) — Psychologist distinguishing forgiveness from reconciliation and accountability from continuing self-condemnation.
 - [Matt Walsh](entities/MattWalsh.md) — Commentator used in the episode's example of an unexamined historical generalization about slavery.
@@ -19528,6 +19533,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Lights and Sirens Risk Calibration](concepts/LightsAndSirensRiskCalibration.md) — Benefit-risk rule reserving emergency warning devices for calls where marginal time plausibly changes outcomes.
+- [Emergency Dispatch Triage](concepts/EmergencyDispatchTriage.md) — Structured call classification matching response mode and warning-device use to expected time sensitivity.
+- [Siren Noise Externalities](concepts/SirenNoiseExternalities.md) — Community and responder health costs excluded by a response-time-only frame.
+- [Alarm Fatigue](concepts/AlarmFatigue.md) — Loss of warning discrimination or response when alarms are too frequent or insufficiently selective.
 - [Theory of Mind in Moral Judgment](concepts/TheoryOfMindMoralJudgment.md) — How represented beliefs and intentions distinguish accidents from attempts while interacting with outcomes and context.
 - [Biased Intention Attribution](concepts/BiasedIntentionAttribution.md) — Asymmetric motive inference that excuses self and in-group conduct while reading comparable out-group conduct as hostile.
 - [Forgiveness Without Reconciliation](concepts/ForgivenessWithoutReconciliation.md) — Releasing corrosive resentment without requiring renewed contact, restored trust, or abandoned boundaries.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14295
+wiki_total_pages: 14299
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "EmbeddedPodcast"
     title: "Embedded podcast"
     url: "/wiki/entities/embeddedpodcast/"
+  - key: "EmergencyTVSeries"
+    title: "Emergency! (television series)"
+    url: "/wiki/entities/emergencytvseries/"
   - key: "EmilHacha"
     title: "Emil Hácha"
     url: "/wiki/entities/emilhacha/"

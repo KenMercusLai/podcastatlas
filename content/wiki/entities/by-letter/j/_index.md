@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14295
+wiki_total_pages: 14299
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "JeffDenning"
     title: "Jeff Denning"
     url: "/wiki/entities/jeffdenning/"
+  - key: "JeffJarvisEMS"
+    title: "Jeff Jarvis (EMS physician)"
+    url: "/wiki/entities/jeffjarvisems/"
   - key: "JeffLawson"
     title: "Jeff Lawson"
     url: "/wiki/entities/jefflawson/"
@@ -1244,6 +1247,9 @@ wiki_pages:
   - key: "JonathanAnderson"
     title: "Jonathan Anderson"
     url: "/wiki/entities/jonathananderson/"
+  - key: "JonathanBayer"
+    title: "Jonathan Bayer"
+    url: "/wiki/entities/jonathanbayer/"
   - key: "JonathanBousenthal"
     title: "Jonathan Bousenthal"
     url: "/wiki/entities/jonathanbousenthal/"

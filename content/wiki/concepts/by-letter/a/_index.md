@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11343
+wiki_total_pages: 11347
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1964,6 +1964,9 @@ wiki_pages:
   - key: "AkutagawaSalvationProblem"
     title: "Akutagawa Salvation Problem / 芥川式救赎问题"
     url: "/wiki/concepts/akutagawasalvationproblem/"
+  - key: "AlarmFatigue"
+    title: "Alarm Fatigue"
+    url: "/wiki/concepts/alarmfatigue/"
   - key: "AlaskaFisheriesPolitics"
     title: "Alaska Fisheries Politics"
     url: "/wiki/concepts/alaskafisheriespolitics/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11343
+wiki_total_pages: 11347
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "SingleStockLeveragedETF"
     title: "Single-Stock Leveraged ETF / 个股杠杆 ETF"
     url: "/wiki/concepts/singlestockleveragedetf/"
+  - key: "SirenNoiseExternalities"
+    title: "Siren Noise Externalities"
+    url: "/wiki/concepts/sirennoiseexternalities/"
   - key: "SiteSpecificElectroacupunctureImmunePathway"
     title: "Site-Specific Electroacupuncture Immune Pathway"
     url: "/wiki/concepts/sitespecificelectroacupunctureimmunepathway/"

@@ -21,6 +21,7 @@ sources:
   - the-formula-the-formula
   - face-value-face-value
   - the-rfk-jr-problem-the-rfk-jr-problem
+  - running-hot
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -66,6 +67,8 @@ Experiment-led food reporting adds a direct comparison between institutional for
 Personal cognitive variation supplies another intimate-to-general structure in [[face-value-face-value|Face Value]]. The show begins with [[JJGoode]] and [[MissyKurzweil]]'s near friendship rupture, distinguishes identity recognition from seeing facial features through [[JoeDeGutis]], and tests producer [[LucySullivan]] at the exceptional end of the [[FaceRecognitionAbilitySpectrum]]. The resulting argument joins neuroscience to social interpretation without treating [[BillClinton]]'s anecdotal case as confirmed.
 
 A document-centered medical-evidence form appears in [[the-rfk-jr-problem-the-rfk-jr-problem|The RFK Jr. Problem]]. The show places a public claim beside [[RotaTeq]]'s package insert and placebo group, uses experts and historical wards to restore both statistical method and human stakes, and then marks a boundary between the well-supported trial critique and the more interpretive terrain-theory account of Kennedy's motive.
+
+An everyday-noise complaint becomes an emergency-systems investigation in [[running-hot|Running Hot]]. [[BenNaddaffHafrey]] moves from neighborhood exposure through environmental psychology, crash and time-saving evidence, Berrien County dispatch reform, national EMS records, and the history of [[EmergencyTVSeries|Emergency!]]. The result is a selective rather than abolitionist argument: use warning devices where marginal time plausibly changes outcomes, and count collision, hearing, burnout, noise, and [[AlarmFatigue]] costs elsewhere.
 
 ## Key Characteristics
 
@@ -148,16 +151,21 @@ A document-centered medical-evidence form appears in [[the-rfk-jr-problem-the-rf
 
 - [[the-rfk-jr-problem-the-rfk-jr-problem]] uses package-insert traceability, placebo rates, historical disease burden, and expert testimony to distinguish adverse events after vaccination from evidence of vaccine-caused harm.
 
+### Emergency-response risk and dispatch reform
+
+- [[running-hot]] connects neighborhood observation, environmental-noise expertise, county triage reform, national utilization data, and media history to [[LightsAndSirensRiskCalibration]].
+
 ## Qualifications
 
 Only eighteen sources currently inform this page, so they do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
 
+*Running Hot* adds a nineteenth bounded source. It omits the cited studies, ESO data definitions, dispatch protocols, patient-outcome detail, and comparative causal history; its selective-use evidence is stronger than its television-influence and restored-attention hypotheses.
+
 ## What Changed
 
-- Added personal cognitive variation and controlled testing as a route from intimate misunderstanding to neuroscience and social interpretation.
-- Preserved the distinction between tested exceptional performance and anecdotal speculation.
-- Added document-centered vaccine evidence as another revisionist method.
-- Preserved the distinction between a trial-based critique and an inferred motive.
+- Added a route from everyday urban annoyance to measurable emergency-system reform.
+- Added selective warning-device use as a benefit-risk argument rather than an anti-siren absolute.
+- Preserved the limits of the media-causation and public-attention hypotheses.
 
 ## Relationships
 
@@ -208,3 +216,6 @@ Only eighteen sources currently inform this page, so they do not establish the f
 - [[RotaTeq]] and [[PaulOffit]] - vaccine and developer anchoring the medical-evidence case.
 - [[ControlledTrialAdverseEventInterpretation]] - causal-comparison method made legible through the placebo group.
 - [[GermTheoryTerrainTheoryConflict]] - historical disease-model conflict used as a qualified explanatory frame.
+- [[JonathanBayer]] and [[JeffJarvisEMS|Jeff Jarvis]] - practitioners supplying county reform and national-data evidence.
+- [[LightsAndSirensRiskCalibration]] - central benefit-risk framework of the episode.
+- [[EmergencyDispatchTriage]] - operational layer that makes selective response possible.
