@@ -11599,6 +11599,10 @@
     "title": "Army Abolition as a Democratic Safeguard",
     "url": "/wiki/concepts/armyabolitiondemocraticsafeguard/"
   },
+  "ArmyCommanderBond": {
+    "title": "Army–Commander Bond",
+    "url": "/wiki/concepts/armycommanderbond/"
+  },
   "ArmyOfAfrica": {
     "title": "Army of Africa",
     "url": "/wiki/entities/armyofafrica/"
@@ -13795,6 +13799,10 @@
     "title": "Battle of Ilipa / 伊利帕战役",
     "url": "/wiki/entities/battleofilipa/"
   },
+  "BattleOfIssus": {
+    "title": "Battle of Issus",
+    "url": "/wiki/entities/battleofissus/"
+  },
   "BattleOfJinyang": {
     "title": "Battle of Jinyang / 晋阳之战",
     "url": "/wiki/concepts/battleofjinyang/"
@@ -13950,6 +13958,10 @@
   "Battlecode": {
     "title": "Battlecode",
     "url": "/wiki/entities/battlecode/"
+  },
+  "BattlefieldCohesionAndRout": {
+    "title": "Battlefield Cohesion and Rout",
+    "url": "/wiki/concepts/battlefieldcohesionandrout/"
   },
   "BattlefieldCommanderReplacementRisk": {
     "title": "Battlefield Commander Replacement Risk / 阵前换将风险",
@@ -17414,6 +17426,10 @@
   "CampaignFinanceAccessIncentive": {
     "title": "军费通道利益驱动 / Campaign Finance Access Incentive",
     "url": "/wiki/concepts/campaignfinanceaccessincentive/"
+  },
+  "CampaignLogisticsAndTempo": {
+    "title": "Campaign Logistics and Tempo",
+    "url": "/wiki/concepts/campaignlogisticsandtempo/"
   },
   "CampaignLogisticsBattlefieldSelection": {
     "title": "Campaign Logistics and Battlefield Selection",
@@ -42223,6 +42239,10 @@
     "title": "Haley Stevens",
     "url": "/wiki/entities/haleystevens/"
   },
+  "Halicarnassus": {
+    "title": "Halicarnassus",
+    "url": "/wiki/entities/halicarnassus/"
+  },
   "Halifax": {
     "title": "Halifax / 哈利法克斯",
     "url": "/wiki/entities/halifax/"
@@ -43910,6 +43930,10 @@
   "HenrykSienkiewicz": {
     "title": "Henryk Sienkiewicz / 亨利克·显克维奇",
     "url": "/wiki/entities/henryksienkiewicz/"
+  },
+  "Hephaestion": {
+    "title": "Hephaestion",
+    "url": "/wiki/entities/hephaestion/"
   },
   "Hephaestus": {
     "title": "Hephaestus / 赫淮斯托斯",
@@ -62679,6 +62703,10 @@
     "title": "Memex",
     "url": "/wiki/entities/memex/"
   },
+  "MemnonOfRhodes": {
+    "title": "Memnon of Rhodes",
+    "url": "/wiki/entities/memnonofrhodes/"
+  },
   "MemoVR": {
     "title": "Memo VR",
     "url": "/wiki/entities/memovr/"
@@ -70814,6 +70842,10 @@
   "ParliamentarySystem": {
     "title": "Parliamentary System",
     "url": "/wiki/concepts/parliamentarysystem/"
+  },
+  "Parmenion": {
+    "title": "Parmenion",
+    "url": "/wiki/entities/parmenion/"
   },
   "PartNet": {
     "title": "PartNet / PartNet Mobility",
@@ -107962,6 +107994,10 @@
   "data-risk-and-actuarial-science-in-insurance": {
     "title": "Data, Risk, and Actuarial Science in Insurance",
     "url": "/wiki/sources/data-risk-and-actuarial-science-in-insurance/"
+  },
+  "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv": {
+    "title": "Show 74 - Mania for Subjugation IV",
+    "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
   },
   "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861": {
     "title": "Are wildfires making the future uninsurable?",

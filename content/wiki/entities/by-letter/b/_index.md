@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14150
+wiki_total_pages: 14155
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "BattleOfIlipa"
     title: "Battle of Ilipa / 伊利帕战役"
     url: "/wiki/entities/battleofilipa/"
+  - key: "BattleOfIssus"
+    title: "Battle of Issus"
+    url: "/wiki/entities/battleofissus/"
   - key: "BattleOfLakeTrasimene"
     title: "Battle of Lake Trasimene / 特拉西梅诺湖战役"
     url: "/wiki/entities/battleoflaketrasimene/"

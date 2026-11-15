@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2791
+topic_total_pages: 2792
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7395,6 +7395,9 @@ topic_sources:
   - key: "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel"
     title: "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America"
     url: "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+  - key: "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv"
+    title: "Show 74 - Mania for Subjugation IV"
+    url: "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
   - key: "the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525"
     title: "The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)"
     url: "/wiki/sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525/"

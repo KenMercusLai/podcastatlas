@@ -14100,9 +14100,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 6,
-      "show_count": 3,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -14145,9 +14145,16 @@
           "show": "怪东西Weird History",
           "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
           "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        },
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/alexanderthegreat/"
     },
     "AlexanderVonHumboldt": {
@@ -22807,6 +22814,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/armyabolitiondemocraticsafeguard/"
     },
+    "ArmyCommanderBond": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/armycommanderbond/"
+    },
     "ArmyOfAfrica": {
       "episode_count": 1,
       "show_count": 1,
@@ -30379,6 +30402,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/battleofilipa/"
     },
+    "BattleOfIssus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/battleofissus/"
+    },
     "BattleOfJinyang": {
       "episode_count": 2,
       "show_count": 1,
@@ -31089,6 +31128,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/battleofzama/"
+    },
+    "BattlefieldCohesionAndRout": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/battlefieldcohesionandrout/"
     },
     "BattlefieldContingencyExploitation": {
       "episode_count": 1,
@@ -41547,6 +41602,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
+    },
+    "CampaignLogisticsAndTempo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/campaignlogisticsandtempo/"
     },
     "CampaignLogisticsBattlefieldSelection": {
       "episode_count": 3,
@@ -70354,9 +70425,9 @@
       "url": "/wiki/entities/dallaspolicedepartment/"
     },
     "DanCarlin": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -70371,9 +70442,16 @@
           "show": "The Rest Is History",
           "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
           "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
+        },
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/dancarlin/"
     },
     "DanDriver": {
@@ -71308,9 +71386,9 @@
       "url": "/wiki/entities/dariusi/"
     },
     "DariusIII": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9707946822 [GLT9707946822].md",
@@ -71325,9 +71403,16 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/dariusiii/"
     },
     "DarrenAlpert": {
@@ -129791,6 +129876,22 @@
       "updated": "2026-11-02",
       "url": "/wiki/entities/hakox/"
     },
+    "Halicarnassus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/halicarnassus/"
+    },
     "HallOfNationsIndia": {
       "episode_count": 1,
       "show_count": 1,
@@ -132695,9 +132796,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -132712,9 +132813,16 @@
           "show": "The Rest Is History",
           "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
           "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
+        },
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/hardcorehistory/"
     },
     "HardwareDistributionDefensibility": {
@@ -136215,6 +136323,22 @@
       ],
       "updated": "2026-10-30",
       "url": "/wiki/entities/henryksienkiewicz/"
+    },
+    "Hephaestion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/hephaestion/"
     },
     "Hephaestus": {
       "episode_count": 2,
@@ -202247,6 +202371,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/memex/"
     },
+    "MemnonOfRhodes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/memnonofrhodes/"
+    },
     "MemorialAudienceFraming": {
       "episode_count": 1,
       "show_count": 1,
@@ -206369,9 +206509,9 @@
       "url": "/wiki/entities/mileswilliams/"
     },
     "Miletus": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8965800182 [GLT8965800182].md",
@@ -206379,9 +206519,16 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/miletus/"
     },
     "MilitantToDemocraticPolitics": {
@@ -229710,6 +229857,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/parliamentarysystem/"
+    },
+    "Parmenion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+          "key": "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 74 - Mania for Subjugation IV",
+          "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/parmenion/"
     },
     "ParthenopeanRepublic": {
       "episode_count": 1,

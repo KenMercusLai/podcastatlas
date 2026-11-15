@@ -5,7 +5,8 @@ tags: [person, podcaster, history]
 sources:
   - 184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798
   - 183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177
-last_updated: 2026-10-01
+  - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Carlin's career and working method add practical context to the historical appro
 
 Across both parts, Carlin treats history as useful perspective without denying its capacity to keep grievance politically alive. His approach favors conditional answers: the least-bad besieger depends on status and surrender, Wilhelm's agency operates inside the machinery of 1914, Confederate survival depends on Northern endurance, flawed people can produce consequential achievements, the West could have lost the Cold War, propaganda can distort the propagandist, and the past remains knowable even when every surviving account is mediated.
 
+[[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] shows that method in a sustained narrative. Carlin treats Issus through formation alignment, terrain, supply, fear, animal behavior, pursuit, cultural stereotype, and conflicting ancient testimony rather than tactical diagram alone. He explicitly labels claims about trauma, concussion, Darius's intentions, and Alexander's inner change as possibilities, yet uses them to ask how continual success and near-absolute power may transform a conqueror.
+
 ## Key Characteristics
 
 - Uses counterfactual choices to expose hidden assumptions about privilege, danger, technology, and political control.
@@ -28,6 +31,7 @@ Across both parts, Carlin treats history as useful perspective without denying i
 - Defends historical knowledge while emphasizing uneven evidence, source loss, literary framing, and retrospective manipulation.
 - Separates recognition of an achievement from moral endorsement of the person responsible for it.
 - Treats outcomes from the First World War and Civil War through Soviet collapse and the Ukraine invasion as contingent rather than inevitable.
+- Joins battlefield mechanics to moral cost and political psychology while retaining visible boundaries between event, inference, and speculation.
 
 ## Evidence
 
@@ -35,15 +39,17 @@ Across both parts, Carlin treats history as useful perspective without denying i
 - Comparative method: [[183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177]] uses siege, world-leader, ancient-biography, and Confederate-survival questions to make assumptions and causal mechanisms explicit.
 - Historical method and judgment: [[184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798]] records Carlin's arguments about mediated knowledge, three-dimensional historical figures, and belief as a causal historical reality.
 - Contingency and strategy: both crossover parts treat outcomes as conditional; Part 1 tests Wilhelm, Lenin, nuclear weapons, and the Confederacy, while [[184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798|Part 2]] tests the Cold War and Putin's reading of Ukraine.
+- Sustained narrative method: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] compares Arrian, Diodorus, Curtius, Plutarch, and modern historians while integrating logistics, morale, violence, and qualified psychological reconstruction.
 
 ## Qualifications
 
-This profile comes from two conversational crossover episodes rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, and Ukraine claims are arguments made in the episodes, not independently verified conclusions.
+This profile comes from two conversational crossover episodes and one structured summary rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, and Issus claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger.
 
 ## What Changed
 
-- Added Carlin's podcast origins, research-and-recording method, and intended historically informed audience.
-- Extended his contingency method backward from the Cold War to siege, 1914, Lenin, nuclear weapons, and the American Civil War.
+- Added a direct example of Carlin's long-form military narration and comparative source handling.
+- Extended his method to battlefield cohesion, logistics, post-rout violence, and the political psychology of success.
+- Clarified the boundary between explicitly marked speculation and independent verification.
 
 ## Relationships
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11261
+wiki_total_pages: 11264
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "CampaignLogisticsBattlefieldSelection"
     title: "Campaign Logistics and Battlefield Selection"
     url: "/wiki/concepts/campaignlogisticsbattlefieldselection/"
+  - key: "CampaignLogisticsAndTempo"
+    title: "Campaign Logistics and Tempo"
+    url: "/wiki/concepts/campaignlogisticsandtempo/"
   - key: "CampaignSpendingArmsRace"
     title: "Campaign Spending Arms Race"
     url: "/wiki/concepts/campaignspendingarmsrace/"

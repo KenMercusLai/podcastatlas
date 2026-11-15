@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14150
+wiki_total_pages: 14155
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "Memex"
     title: "Memex"
     url: "/wiki/entities/memex/"
+  - key: "MemnonOfRhodes"
+    title: "Memnon of Rhodes"
+    url: "/wiki/entities/memnonofrhodes/"
   - key: "MemoVR"
     title: "Memo VR"
     url: "/wiki/entities/memovr/"

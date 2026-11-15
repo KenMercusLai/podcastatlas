@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-11-15
-as_of_overview_commit: 412a7f7ccc02f57bd3d7eb4dc34ae8c40fb95e13
-summary: "Durable value joins capability to evidence, implementation, accountability, context, and human judgment; analogy can clarify control without replacing technical proof."
-episode_count: 4947
-source_count: 4947
-paragraph_count: 809
+as_of_overview_commit: 3ca73c1d1871deb99ce60f11a4d7de80c16793c7
+summary: "Durable value joins capability to evidence, implementation, accountability, context, and human judgment; analogy can clarify control without replacing proof."
+episode_count: 4964
+source_count: 4964
+paragraph_count: 810
 topic_count: 9
 ---
 
@@ -29,14 +29,14 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on the coupled system around models: compute, power, data, workflow integration, verification, governance, resilience, and human judgment; literary control analogies clarify distinctions without proving present AI agency or life.
+AI value depends on the coupled system around models: compute, power, data, workflow integration, verification, governance, resilience, and human judgment.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
 
 ### Business and Markets
 
-Durable value requires cash flow, unit economics, governance, distribution, execution, and price, while founder succession and AI demand claims still require observable delivery and independent evidence.
+Durable value requires cash flow, unit economics, governance, distribution, execution, and price, while demand and technology claims need observable proof.
 
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a financial-media market case: [[HongKongEconomicJournal|《信报》]] created value through [[FinancialCommentaryKnowledgeTranslation]], joining markets to economics, institutions, policy, and international affairs in accessible Chinese, while [[LuoYoumei|骆友梅]]'s organizational work and [[AdvertiserPressureEditorialIndependence]] show that public knowledge requires both editorial judgment and a business able to absorb pressure. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[HongKongEconomicJournal]], [[FinancialCommentaryKnowledgeTranslation]], [[LinXingzhi]], [[LuoYoumei]], [[AdvertiserPressureEditorialIndependence]], [[ZhangWuchang]], [[LiKaShing]], [[LiTzarKai]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
@@ -47,7 +47,7 @@ Cross-domain evidence emphasizes matching tools to their actual function while p
 
 ### Culture and Media
 
-Cultural form is infrastructure: medium, material design, provenance, audience practice, and interpretation shape what becomes legible, authoritative, intimate, and durable.
+Cultural form is infrastructure: medium, material design, provenance, audience practice, and interpretation shape what becomes legible and durable.
 
 - [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161]] adds that durable podcast form joins [[PodcastProductionWorkflow]] to [[IndependentPodcastSustainability]]: preparation, complementary host roles, live follow-up, reciprocal accountability, listener connection, bounded commerce, and a [[PodcastPlatformPortfolio]] together shape whether an open-topic show can continue and remain discoverable. Evidence: [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]], [[PodcastProductionWorkflow]], [[IndependentPodcastSustainability]], [[PodcastPlatformPortfolio]], [[WushichaYanjiusuo]].
 - [[434-luther-the-revolution-begins-part-2-glt4080973410|The Luther episode]] adds a historical media case: [[ReformationPrintCulture]] made the Ninety-five Theses portable through printing and directed correspondence, so reproducibility and networked delivery mattered more than the probably legendary church-door scene in turning a university dispute into public revolt. Evidence: [[434-luther-the-revolution-begins-part-2-glt4080973410]], [[ReformationPrintCulture]], [[MartinLuther]], [[Wittenberg]], [[TheRestIsHistory]].
@@ -61,28 +61,28 @@ Institutions work when formal rules are joined to legitimacy, information, capac
 
 ### History and Geopolitics
 
-Historical change emerges from interacting capacity, logistics, institutions, coalitions, information, contingency, and memory, while modern literary readings must remain distinct from documentary prediction claims.
+Historical change emerges from interacting capacity, logistics, institutions, coalitions, information, contingency, and memory rather than single-cause heroism.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].
 
 ### Psychology and Personal Development
 
-Contextual judgment is central: function matters more than labels, regulation is state- and relationship-dependent, and advice needs honest boundaries and transfer limits.
+Contextual judgment is central: function matters more than labels, regulation and collective performance are state-dependent, and historical analogy needs clinical boundaries.
 
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]]. Evidence: [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[ChildMentalHealthFamilySystemsSupport]], [[DreamDistressAndParasomniaEscalation]].
 - Regulation and self-trust emerge through a combined repertoire of body awareness, movement, emotional differentiation, cognitive reappraisal, grounding, environmental adjustment, and safe co-regulation rather than through willpower or insight alone, linking [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], and [[BrainBodyEmotionMapping]]. Evidence: [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], [[BrainBodyEmotionMapping]], [[EmotionalGranularity]], [[EmotionalFlashbackGrounding]], [[MovementPracticeAsAwareness]], [[StressResponseRecovery]].
 
 ### Science, Health, and Climate
 
-Public literacy should keep mechanisms, measurement, uncertainty, environmental context, urgent escalation, and individualized qualified care distinct from cure claims and from literary definitions of life.
+Public literacy should keep mechanisms, measurement, uncertainty, urgent escalation, and individualized qualified care distinct from cure claims.
 
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, relationships, routines, role boundaries, protected access, and human judgment rather than tools or labels alone.
+Learning and social capacity depend on active effort, feedback, relationships, routines, role boundaries, protected access, and human judgment.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

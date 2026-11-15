@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-11-13
-as_of_overview_commit: ce118e884316289eb334c7bb66f502755e003408
-input_digest: 5bc88ed668f7874d8eeb5b296389d75cc182a6bf42bd5efa1bad8d0d2f5c4d09
+last_updated: 2026-11-15
+as_of_overview_commit: 3ca73c1d1871deb99ce60f11a4d7de80c16793c7
+input_digest: 27699243ca29882b0598417ed6136615fe63b663925ef7f602806fb14804ac88
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels or static rankings, regulation and performance are state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.
+Across clinical education, relationships, embodied practice, work, AI, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation and collective performance are state- and relationship-dependent, trust requires boundaries, and narrative examples must remain distinct from diagnosis or universal advice.
 
 ## Cross-source Findings
 
@@ -96,14 +96,15 @@ Moral principle and relational acceptance are strongest when they remain binding
 
 ### Historical Cases Illustrate Judgment Without Clinical Generalization
 
-Historical decision episodes supply bounded illustrations of persuasion, loyalty, shame, emotional restraint, adviser use, timing, alliance, reward, reputation, and survival; [[PoliticalSelfControlTrust]] now adds that conduct under fear, victory, disappointment, and intoxication affects trust near power and can shift costs onto subordinates.
+Historical decision episodes supply bounded illustrations of persuasion, loyalty, emotional restraint, trust, timing, reputation, and survival; [[ArmyCommanderBond]] and [[BattlefieldCohesionAndRout]] add that shared danger and command signals can affect collective performance without reducing military outcomes to personality.
 
-**Evidence:** [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[DignityBasedPersuasion]], [[StrategicEmotionConcealment]], [[AdviceFramingUnderHierarchy]], [[CharacterReadingDelegationTrust]], [[LongTermAchievementDiscipline]], [[PoliticalSelfControlTrust]], [[LadyBianCaoCao]], [[CaoZhi]], [[zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8]]
+**Evidence:** [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[DignityBasedPersuasion]], [[StrategicEmotionConcealment]], [[AdviceFramingUnderHierarchy]], [[CharacterReadingDelegationTrust]], [[LongTermAchievementDiscipline]], [[PoliticalSelfControlTrust]], [[ArmyCommanderBond]], [[BattlefieldCohesionAndRout]], [[BattleOfIssus]], [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]]
 
 **Qualifications:**
 
 - Reported dialogue, motives, personality judgments, counterfactuals, and modern management or empowerment analogies remain source-scoped.
-- Historical actors should not be retrospectively diagnosed from podcast narratives, and one gate incident cannot supply a complete causal account of succession.
+- Historical actors should not be retrospectively diagnosed from podcast narratives; claims about trauma, concussion, corrupting luxury, or inner transformation remain possibilities rather than clinical findings.
+- At Issus, terrain, logistics, training, formation, and command structure interact with trust and morale, so psychological explanation is not sufficient by itself.
 
 ### Evidence Boundaries Preserve Useful Claims
 

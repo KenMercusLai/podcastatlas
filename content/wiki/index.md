@@ -5085,6 +5085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
+- [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 
 ## Entities
 - [Guy Molinari](entities/GuyMolinari.md) — Staten Island borough president who linked the secession campaign to Giuliani's outer-borough mayoral coalition.
@@ -19328,6 +19329,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 - [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, analogy, cross-domain comparison, and historical argument to test social and institutional claims.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
+- [Battle of Issus](entities/BattleOfIssus.md) — 333 BC victory where constrained terrain, a Macedonian center crisis, Darius's departure, and rout transformed Alexander's campaign.
+- [Halicarnassus](entities/Halicarnassus.md) — Fortified Anatolian city where walls and Persian naval access sharply reduced Macedonian field-army advantages.
+- [Parmenion](entities/Parmenion.md) — Philip-era senior general whose cautious counsel helps reveal Alexander's growing authority over the inherited command.
+- [Hephaestion](entities/Hephaestion.md) — Alexander's close companion in the uncertain Issus royal-household identification anecdote.
+- [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
 
 ## Concepts
 - [Peripheral Place Resentment](concepts/PeripheralPlaceResentment.md) — Geographic grievance combining perceived inequalities in resources, political power, and social respect.
@@ -30698,5 +30704,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Allies, Pals, and Companions Framework](concepts/AlliesPalsCompanionsFramework.md) — Fluid vocabulary for goal-pursuing, playful, and emotionally supportive relationship purposes and their expectation mismatches.
 - [Compatibility as an Interaction Dynamic](concepts/CompatibilityAsInteractionDynamic.md) — View that relational fit is discovered and developed across situations rather than reliably inferred from profiles alone.
 - [Shared-Activity Social Scaffolding](concepts/SharedActivitySocialScaffolding.md) — Use of tasks, games, rituals, identities, or problems to make repeated interaction and connection easier.
+- [Army–Commander Bond](concepts/ArmyCommanderBond.md) — Trust and personal identification accumulated through shared danger, visible attention, repeated success, and stable participation.
+- [Battlefield Cohesion and Rout](concepts/BattlefieldCohesionAndRout.md) — Mechanism linking formation gaps, confidence, leader signals, panic, bottlenecks, and pursuit to military collapse.
+- [Campaign Logistics and Tempo](concepts/CampaignLogisticsAndTempo.md) — Interaction among supply, route consumption, fleet cost, treasury, bases, movement speed, and operational timing.
 
 ## Syntheses

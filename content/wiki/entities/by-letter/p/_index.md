@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14150
+wiki_total_pages: 14155
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "ParliamentSquare"
     title: "Parliament Square"
     url: "/wiki/entities/parliamentsquare/"
+  - key: "Parmenion"
+    title: "Parmenion"
+    url: "/wiki/entities/parmenion/"
   - key: "ParthenopeanRepublic"
     title: "Parthenopean Republic"
     url: "/wiki/entities/parthenopeanrepublic/"

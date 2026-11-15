@@ -274,9 +274,16 @@
       "earliest_episode_date": "2025-12-22",
       "latest_episode_date": "2026-07-31",
       "latest_episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",

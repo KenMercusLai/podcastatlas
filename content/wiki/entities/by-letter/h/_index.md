@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14150
+wiki_total_pages: 14155
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "HaleyStevens"
     title: "Haley Stevens"
     url: "/wiki/entities/haleystevens/"
+  - key: "Halicarnassus"
+    title: "Halicarnassus"
+    url: "/wiki/entities/halicarnassus/"
   - key: "Halifax"
     title: "Halifax / 哈利法克斯"
     url: "/wiki/entities/halifax/"
@@ -656,6 +659,9 @@ wiki_pages:
   - key: "HenrykSienkiewicz"
     title: "Henryk Sienkiewicz / 亨利克·显克维奇"
     url: "/wiki/entities/henryksienkiewicz/"
+  - key: "Hephaestion"
+    title: "Hephaestion"
+    url: "/wiki/entities/hephaestion/"
   - key: "Hephaestus"
     title: "Hephaestus / 赫淮斯托斯"
     url: "/wiki/entities/hephaestus/"

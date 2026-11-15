@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11261
+wiki_total_pages: 11264
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "BattleOfWakefield"
     title: "Battle of Wakefield"
     url: "/wiki/concepts/battleofwakefield/"
+  - key: "BattlefieldCohesionAndRout"
+    title: "Battlefield Cohesion and Rout"
+    url: "/wiki/concepts/battlefieldcohesionandrout/"
   - key: "BattlefieldCommanderReplacementRisk"
     title: "Battlefield Commander Replacement Risk / 阵前换将风险"
     url: "/wiki/concepts/battlefieldcommanderreplacementrisk/"

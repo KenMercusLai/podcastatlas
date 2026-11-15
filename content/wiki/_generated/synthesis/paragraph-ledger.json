@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "db527a52393f1b38fbff139f3a01ba168ed954b3ce175d1e2f9a667ddf61185f",
       "7acba36b9cba60f85332ed9e81c7f30f2be3e519f4b0820e77bd13df91931e44",
       "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
       "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
@@ -811,11 +812,34 @@
       "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
       "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a"
     ],
-    "paragraph_count": 809
+    "paragraph_count": 810
   },
-  "overview_commit": "43f9fa96390c965ae575a25245127a90e425cf8b",
-  "overview_digest": "198be3a7b8a680c951f73a7e86461d63ca54a8ca2e855263aedd7e37ab6a1df4",
+  "overview_commit": "3ca73c1d1871deb99ce60f11a4d7de80c16793c7",
+  "overview_digest": "736e04813c6301bb4038af1f10e5dd6c7e4350152941de82ea2ff1bc168b6e17",
   "paragraphs": [
+    {
+      "id": "db527a52393f1b38fbff139f3a01ba168ed954b3ce175d1e2f9a667ddf61185f",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "[[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv|Show 74 - Mania for Subjugation IV]] deepens the wiki's [[AlexanderTheGreat|Alexander the Great]] campaign branch from Granicus through [[Miletus]], [[Halicarnassus]], and the [[BattleOfIssus]]. Its central synthesis is systemic: [[ArmyCommanderBond|personal army trust]], [[CampaignLogisticsAndTempo|speed, supply, finance, and fleet tradeoffs]], siege adaptation, terrain, formation discipline, and [[BattlefieldCohesionAndRout|morale collapse]] interact rather than leaving victory to heroic aggression alone. At Issus, Alexander's right-wing breakthrough coexists with a near-failure of the river-crossing phalanx; [[DariusIII|Darius III's]] departure becomes a wider command shock, and bottlenecks plus pursuit make the rout deadlier than the initial contest. Victory supplies wealth, prestige, and captured royalty while exposing Alexander to a larger model of kingship, but trauma, concussion, corrupting luxury, inner motives, exact numbers, and battlefield sequence remain disputed or source-scoped. Hostile Greek framing of Persian ceremony and Darius's withdrawal must therefore remain visible rather than being converted into transparent fact.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AlexanderTheGreat",
+        "ArmyCommanderBond",
+        "BattleOfIssus",
+        "BattlefieldCohesionAndRout",
+        "CampaignLogisticsAndTempo",
+        "DariusIII",
+        "Halicarnassus",
+        "Miletus",
+        "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv"
+      ]
+    },
     {
       "id": "7acba36b9cba60f85332ed9e81c7f30f2be3e519f4b0820e77bd13df91931e44",
       "primary_topic": "ai-and-technology",

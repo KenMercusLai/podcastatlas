@@ -138,9 +138,10 @@
       "id": "historical-cases-illustrate-judgment-without-clinical-generalization",
       "qualifications": [
         "Reported dialogue, motives, personality judgments, counterfactuals, and modern management or empowerment analogies remain source-scoped.",
-        "Historical actors should not be retrospectively diagnosed from podcast narratives, and one gate incident cannot supply a complete causal account of succession."
+        "Historical actors should not be retrospectively diagnosed from podcast narratives; claims about trauma, concussion, corrupting luxury, or inner transformation remain possibilities rather than clinical findings.",
+        "At Issus, terrain, logistics, training, formation, and command structure interact with trust and morale, so psychological explanation is not sufficient by itself."
       ],
-      "statement": "Historical decision episodes supply bounded illustrations of persuasion, loyalty, shame, emotional restraint, adviser use, timing, alliance, reward, reputation, and survival; [[PoliticalSelfControlTrust]] now adds that conduct under fear, victory, disappointment, and intoxication affects trust near power and can shift costs onto subordinates.",
+      "statement": "Historical decision episodes supply bounded illustrations of persuasion, loyalty, emotional restraint, trust, timing, reputation, and survival; [[ArmyCommanderBond]] and [[BattlefieldCohesionAndRout]] add that shared danger and command signals can affect collective performance without reducing military outcomes to personality.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "PoliticalSurvivalFirst",
@@ -151,9 +152,10 @@
         "CharacterReadingDelegationTrust",
         "LongTermAchievementDiscipline",
         "PoliticalSelfControlTrust",
-        "LadyBianCaoCao",
-        "CaoZhi",
-        "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8"
+        "ArmyCommanderBond",
+        "BattlefieldCohesionAndRout",
+        "BattleOfIssus",
+        "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv"
       ]
     },
     {
@@ -176,6 +178,6 @@
       ]
     }
   ],
-  "summary": "Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels or static rankings, regulation and performance are state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.",
+  "summary": "Across clinical education, relationships, embodied practice, work, AI, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation and collective performance are state- and relationship-dependent, trust requires boundaries, and narrative examples must remain distinct from diagnosis or universal advice.",
   "topic_id": "psychology-and-personal-development"
 }
