@@ -35281,6 +35281,20 @@
       "url": "/topics/politics/"
     }
   ],
+  "ElevatorAvailabilityAccessibilityTradeoff": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ElevatorInstallationCost": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ElevenLabs": [
     {
       "key": "technology",
@@ -64848,6 +64862,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ModelBuildingCodeDiffusion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ModelCapabilityPackaging": [

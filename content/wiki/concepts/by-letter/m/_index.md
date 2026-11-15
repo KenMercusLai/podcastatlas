@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11279
+wiki_total_pages: 11282
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "ModelAsProduct"
     title: "Model as Product / 模型即产品"
     url: "/wiki/concepts/modelasproduct/"
+  - key: "ModelBuildingCodeDiffusion"
+    title: "Model Building Code Diffusion"
+    url: "/wiki/concepts/modelbuildingcodediffusion/"
   - key: "ModelCapabilityPackaging"
     title: "Model Capability Packaging"
     url: "/wiki/concepts/modelcapabilitypackaging/"

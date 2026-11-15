@@ -46150,6 +46150,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/cenovusenergy/"
     },
+    "CenterForBuildingInNorthAmerica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/centerforbuildinginnorthamerica/"
+    },
     "CentersForMedicareAndMedicaidServices": {
       "episode_count": 3,
       "show_count": 2,
@@ -88907,6 +88923,38 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/eleonoraduse/"
     },
+    "ElevatorAvailabilityAccessibilityTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/elevatoravailabilityaccessibilitytradeoff/"
+    },
+    "ElevatorInstallationCost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/elevatorinstallationcost/"
+    },
     "ElevenLabs": {
       "episode_count": 2,
       "show_count": 1,
@@ -126055,6 +126103,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/gregorianreform/"
     },
+    "GregoryAVictor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/gregoryavictor/"
+    },
     "GregoryOfTours": {
       "episode_count": 1,
       "show_count": 1,
@@ -154769,6 +154833,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/internationalairtransportassociation/"
+    },
+    "InternationalCodeCouncil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/internationalcodecouncil/"
     },
     "InternationalMercantileMarine": {
       "episode_count": 1,
@@ -209206,6 +209286,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/modelasproduct/"
+    },
+    "ModelBuildingCodeDiffusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/modelbuildingcodediffusion/"
     },
     "ModelCollapse": {
       "episode_count": 5,
@@ -286592,6 +286688,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/stephenofblois/"
+    },
+    "StephenSmithBuildingPolicy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Great_American_Elevator_Tragedy_The_Mistakes_Series [The_Great_American_Elevator_Tragedy_The_Mistakes_Series].md",
+          "key": "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The Great American Elevator Tragedy | The Mistakes Series",
+          "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/stephensmithbuildingpolicy/"
     },
     "SteppeExpeditionLogistics": {
       "episode_count": 1,

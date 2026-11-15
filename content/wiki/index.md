@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Great American Elevator Tragedy | The Mistakes Series](sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series.md) — Revisionist History on high American elevator costs, large-cabin rules, model-code diffusion, and the tradeoff between ideal emergency performance and broad everyday access.
 - [Revisited: Ms. Buchanan’s Period of Adjustment](sources/revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment.md) — Revisionist History revisits Brown through family choice, teacher gatekeeping, and the displacement of Black educators during integration.
 - [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8.md) — LateTalk将黄仁勋被报道离职连接到英伟达接班、供应链与生态融资，并分析中国算力短缺、国产替代、芯片竞争和 token 分成模式，同时保留政治与市场预测的来源边界。
 - [Reconstruction: The Unfinished Promise](sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise.md) — Revisionist History follows Douglass, Johnson, and Schurz through the opening contest over suffrage, federal protection, congressional Reconstruction, and constitutional refounding.
@@ -5099,6 +5100,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 
 ## Entities
+- [Center for Building in North America](entities/CenterForBuildingInNorthAmerica.md) — Stephen Smith's research organization for comparative building codes and construction practices.
+- [Gregory A. Victor](entities/GregoryAVictor.md) — Glendale fire official who sponsored the seven-foot stretcher elevator amendment.
+- [International Code Council](entities/InternationalCodeCouncil.md) — Model-code organization whose widely adopted building rules can give technical amendments national reach.
+- [Stephen Smith](entities/StephenSmithBuildingPolicy.md) — Building-policy researcher connecting elevator costs and design standards to housing feasibility and accessibility.
 - [Brown v. Board of Education](entities/BrownVBoardOfEducation.md) — 1954 school-desegregation decision reassessed through family agency, teacher authority, and unequal implementation costs.
 - [Linda Brown](entities/LindaBrown.md) — Child at the center of Brown who later used Darla Buchanan’s letter to center displaced Black educators.
 - [Leola Brown](entities/LeolaBrown.md) — Parent whose praise for Monroe School distinguishes equal choice from a deficit account of Black education.
@@ -19373,6 +19378,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Elevator Availability–Accessibility Tradeoff](concepts/ElevatorAvailabilityAccessibilityTradeoff.md) — Risk that maximizing each elevator's capabilities raises cost and footprint enough to reduce overall elevator access.
+- [Elevator Installation Cost](concepts/ElevatorInstallationCost.md) — Labor, assembly, cabin-size, and regulatory mechanisms shaping the cost and feasibility of installing elevators.
+- [Model Building Code Diffusion](concepts/ModelBuildingCodeDiffusion.md) — Process by which model-code amendments acquire wide public force through jurisdictional adoption.
 - [Teacher Representation and Student Opportunity](concepts/TeacherRepresentationStudentOpportunity.md) — How educator identity, knowledge, expectations, and discretion shape recognition, discipline, and access.
 - [Desegregation and Educator Displacement](concepts/DesegregationEducatorDisplacement.md) — Pattern in which integrated enrollment coexisted with closure of Black schools and dismissal of Black educators.
 - [Token Revenue-Sharing Compute](concepts/TokenRevenueSharingCompute.md) — Light-asset arrangement in which a compute provider serves a model through an approved channel and shares token revenue with the model company.

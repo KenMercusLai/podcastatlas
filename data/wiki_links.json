@@ -18743,6 +18743,10 @@
     "title": "Center for Biological Diversity",
     "url": "/wiki/entities/centerforbiologicaldiversity/"
   },
+  "CenterForBuildingInNorthAmerica": {
+    "title": "Center for Building in North America",
+    "url": "/wiki/entities/centerforbuildinginnorthamerica/"
+  },
   "CenterForCounteringDigitalHate": {
     "title": "Center for Countering Digital Hate",
     "url": "/wiki/entities/centerforcounteringdigitalhate/"
@@ -31503,6 +31507,14 @@
     "title": "Eleonora Duse",
     "url": "/wiki/entities/eleonoraduse/"
   },
+  "ElevatorAvailabilityAccessibilityTradeoff": {
+    "title": "Elevator Availability–Accessibility Tradeoff",
+    "url": "/wiki/concepts/elevatoravailabilityaccessibilitytradeoff/"
+  },
+  "ElevatorInstallationCost": {
+    "title": "Elevator Installation Cost",
+    "url": "/wiki/concepts/elevatorinstallationcost/"
+  },
   "ElevenLabs": {
     "title": "ElevenLabs",
     "url": "/wiki/entities/elevenlabs/"
@@ -41155,6 +41167,10 @@
     "title": "Gregorian Reform",
     "url": "/wiki/concepts/gregorianreform/"
   },
+  "GregoryAVictor": {
+    "title": "Gregory A. Victor",
+    "url": "/wiki/entities/gregoryavictor/"
+  },
   "GregoryColeman": {
     "title": "Gregory Coleman",
     "url": "/wiki/entities/gregorycoleman/"
@@ -48670,6 +48686,10 @@
   "InternationalAirTransportAssociation": {
     "title": "International Air Transport Association / IATA",
     "url": "/wiki/entities/internationalairtransportassociation/"
+  },
+  "InternationalCodeCouncil": {
+    "title": "International Code Council",
+    "url": "/wiki/entities/internationalcodecouncil/"
   },
   "InternationalConferenceOnMachineLearning": {
     "title": "International Conference on Machine Learning / ICML",
@@ -64650,6 +64670,10 @@
   "ModelAsProduct": {
     "title": "Model as Product / 模型即产品",
     "url": "/wiki/concepts/modelasproduct/"
+  },
+  "ModelBuildingCodeDiffusion": {
+    "title": "Model Building Code Diffusion",
+    "url": "/wiki/concepts/modelbuildingcodediffusion/"
   },
   "ModelCapabilityPackaging": {
     "title": "Model Capability Packaging",
@@ -88134,6 +88158,10 @@
   "StephenPassaha": {
     "title": "Stephen Passaha",
     "url": "/wiki/entities/stephenpassaha/"
+  },
+  "StephenSmithBuildingPolicy": {
+    "title": "Stephen Smith",
+    "url": "/wiki/entities/stephensmithbuildingpolicy/"
   },
   "StephenStarr": {
     "title": "Stephen Starr",
@@ -113590,6 +113618,10 @@
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",
     "url": "/wiki/sources/the-giant-factory-town-that-might-be-a-giant-mistake/"
+  },
+  "the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series": {
+    "title": "The Great American Elevator Tragedy | The Mistakes Series",
+    "url": "/wiki/sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series/"
   },
   "the-ice-hiring-boom": {
     "title": "The ICE hiring boom",

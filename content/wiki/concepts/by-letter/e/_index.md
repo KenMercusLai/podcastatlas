@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11279
+wiki_total_pages: 11282
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -404,6 +404,12 @@ wiki_pages:
   - key: "ElectronicMagazineTransition"
     title: "Electronic Magazine Transition / 电子杂志过渡"
     url: "/wiki/concepts/electronicmagazinetransition/"
+  - key: "ElevatorAvailabilityAccessibilityTradeoff"
+    title: "Elevator Availability–Accessibility Tradeoff"
+    url: "/wiki/concepts/elevatoravailabilityaccessibilitytradeoff/"
+  - key: "ElevatorInstallationCost"
+    title: "Elevator Installation Cost"
+    url: "/wiki/concepts/elevatorinstallationcost/"
   - key: "EliteCosmopolitanMobility"
     title: "Elite Cosmopolitan Mobility"
     url: "/wiki/concepts/elitecosmopolitanmobility/"

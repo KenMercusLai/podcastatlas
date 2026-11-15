@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14181
+wiki_total_pages: 14185
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "InternationalAirTransportAssociation"
     title: "International Air Transport Association / IATA"
     url: "/wiki/entities/internationalairtransportassociation/"
+  - key: "InternationalCodeCouncil"
+    title: "International Code Council"
+    url: "/wiki/entities/internationalcodecouncil/"
   - key: "InternationalConferenceOnMachineLearning"
     title: "International Conference on Machine Learning / ICML"
     url: "/wiki/entities/internationalconferenceonmachinelearning/"
