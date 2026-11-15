@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics](sources/hitler-s-olympics.md) — Revisionist History previews a nine-part investigation of Berlin 1936, Nazi spectacle, United States participation, Olympic officials, Jesse Owens, and American racial disenfranchisement.
 - [Hitler’s Olympics, Part 1: The Blue-Eyed Tornado](sources/hitler-s-olympics-part-1-the-blue-eyed-tornado-hitler-s-olympics-part-1-the-blue-eyed-tornado.md) — Revisionist History introduces Dorothy Thompson's ideology-first warning, the moral conflict over participation, and Berlin 1936's transformation into a Nazi propaganda spectacle.
 - [Hitler’s Olympics, Part 3: Mustache to Mustache](sources/hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache.md) — Revisionist History contrasts Charles Hitchcock Sherrill's status-driven accommodation and token-inclusion diplomacy with Dorothy Thompson's outsider-oriented recognition of fascist danger.
 - [Hitler’s Olympics, Part 4: Outcast in Olympia](sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia.md) — Revisionist History traces Avery Brundage's conversion to Olympic idealism through class ascent, decathlon failure, strict amateurism, Jim Thorpe, IOC ambition, and the Nazi challenge to supposedly apolitical sport.

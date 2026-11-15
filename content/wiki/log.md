@@ -40612,3 +40612,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Hitler’s Olympics
+
+Added a short [[RevisionistHistory]] season trailer framing Berlin 1936 as a Nazi legitimacy project and United States participation as the central moral question. The preview introduces [[CharlesHitchcockSherrill]], [[AveryBrundage]], [[DorothyThompson]], and [[JesseOwens]], and announces the series' connection between Olympic history and American racial disenfranchisement.
+
+Core synthesis: the trailer is orientation rather than independent historical evidence. It previews the claim that [[NaziGermany]] helped create the modern Olympic spectacle and used it to promote racial supremacy, mobilize Germans, and display international power, while the nine already-ingested full episodes supply the detailed evidence and qualifications. No canonical entity or concept judgment changed, so mature knowledge pages were not rewritten and their source inventories were preserved. No settled contradiction is adopted. Motives, causal influence, the transformation claim, and the implied *Giles v. Harris* connection remain preview-scoped because the supplied file is a structured summary of a four-minute trailer rather than the full series, transcript, or primary archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,054 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
