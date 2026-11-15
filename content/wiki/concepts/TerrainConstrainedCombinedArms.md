@@ -6,6 +6,7 @@ sources:
   - 489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192
   - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
   - zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib
+  - dchha71-mania-for-subjugation-dchha71-mania-for-subjugation
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -26,14 +27,16 @@ The French plan had a combined-arms rationale, but its components became misalig
 
 [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib|Hanji 222 part 1]] extends the interaction model beyond a single medieval battle. [[ChaoCuoWesternHan|晁错]] concedes Xiongnu advantages in mountains, difficult paths, mounted archery, and hardship while assigning Han chariots, cavalry, strong bows, armor, formations, and close combat greater value on plains. His proposal uses submitted frontier peoples in difficult terrain and Han formations on open ground under mutually supporting command. The durable point is role allocation by environment; the episode does not prove the proposed force was created or victorious.
 
+The Macedonian case adds the institutional construction of a flexible system. [[PhilipIIMacedon|Philip II]] combined a deep sarissa phalanx with Companion cavalry, lighter and mountain troops, mercenaries, engineers, siege specialists, and trained coordination. The army's advantage lay not in the long pike alone but in assigning different components to pressure, breakthrough, rough ground, pursuit, and fortified targets. [[Epaminondas]]'s earlier concentration and refused flank supplied one influence, while Macedonian finance and professional training made the synthesis repeatable across campaigns. [[dchha71-mania-for-subjugation-dchha71-mania-for-subjugation]] is the bounded source for this construction.
+
 ## Key Claims
 
 - Terrain changes the usable value of troop numbers by limiting frontage, maneuver, speed, and coordination.
 - Defensive obstacles and missile troops are mutually reinforcing when cavalry cannot freely bypass or overrun them.
 - A failed first attack can physically worsen the ground and disrupt the formations following it.
 - Command precedence can disable a sound plan by changing deployment and subordinating functional roles to status.
-- Initiative matters when delay favors reinforcement; Henry's advance accepted temporary vulnerability to force action on usable terms.
 - Effective mixed forces allocate roles by terrain and troop-specific strength rather than demanding that every component fight in the same way.
+- Professional training, engineering, finance, and command can turn tactical role differentiation into sustained campaign capacity.
 - Battle outcomes should be explained through interacting mechanisms rather than a single decisive weapon, leader, or stereotype.
 
 ## Evidence
@@ -44,16 +47,18 @@ The French plan had a combined-arms rationale, but its components became misalig
 - Crécy system: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects selected ground, divisions, reserves, archers, cannon, trenches, spikes, and wagons to Edward's prepared defense.
 - Crécy cascade: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] links rain, absent Genoese shields, range disadvantage, friendly trampling, arrow fire, and successive cavalry attacks to French collapse.
 - Terrain-specific role allocation: [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib|Hanji 222 part 1]] compares Han and Xiongnu strengths by mountain and plain conditions, then proposes mutually supporting frontier auxiliaries, chariots, cavalry, archers, armor, and formations.
+- Professional system-building: [[dchha71-mania-for-subjugation-dchha71-mania-for-subjugation]] connects phalanx, cavalry, light and mountain troops, mercenaries, engineers, siegecraft, finance, and training inside Philip's Macedonian army.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that terrain mechanically determines battle or that French planning was irrational. The Agincourt source emphasizes contingency: the English advance exposed archers while stakes were reset, the English line was pushed back, and different timing or coordination might have produced another result. Crécy's force ratios, armor-penetration claims, cannon effect, speeches, and exact sequence remain source-scoped. Hanji 222 part 1 supplies a proposed comparative force design rather than a documented battle test; its categories, force ratio, equipment, command structure, voluntariness, and effectiveness remain episode-attributed. Exact troop, arrow, casualty, and timing figures across the cases remain disputed or unaudited here.
+The concept does not prove that terrain mechanically determines battle or that French planning was irrational. The Agincourt source emphasizes contingency: the English advance exposed archers while stakes were reset, the English line was pushed back, and different timing or coordination might have produced another result. Crécy's force ratios, armor-penetration claims, cannon effect, speeches, and exact sequence remain source-scoped. Hanji 222 part 1 supplies a proposed comparative force design rather than a documented battle test; its categories, force ratio, equipment, command structure, voluntariness, and effectiveness remain episode-attributed. The exact novelty of Philip's reforms, direct transmission from Epaminondas, and Chaeronea's sequence remain uncertain. Exact troop, arrow, casualty, and timing figures across the cases remain disputed or unaudited here.
 
 ## What Changed
 
-- Extended the interaction model beyond Crécy and Agincourt to Chao Cuo's Han-Xiongnu comparison, where troop value changes between difficult ground and plains.
-- Added differentiated role allocation and mutual support as the design-side counterpart to the medieval cases' battlefield interaction.
-- Preserved the qualification that a coherent proposal is not evidence of implementation or victory.
+- Added Philip's Macedonian army as an institutional case of repeatable combined-arms role differentiation.
+- Distinguished the system from a single-weapon explanation centered on the sarissa.
+- Added professional training, mineral revenue, engineering, and siegecraft as conditions of sustained tactical flexibility.
+- Kept Epaminondas's influence qualified as adaptation rather than simple copying.
 
 ## Related Concepts
 
@@ -64,3 +69,5 @@ The concept does not prove that terrain mechanically determines battle or that F
 - [[CampaignLogisticsBattlefieldSelection]] - explains how movement and crossings precede the prepared battlefield system.
 - [[NomadicCavalryRaidingAsymmetry]] - supplies the mobile frontier problem behind Chao Cuo's terrain-specific response.
 - [[FrontierSettlerDefense]] - extends the same frontier diagnosis from force design into permanent settlement and local defense.
+- [[BattleOfChaeronea]] - coalition battle in which the Macedonian system produced strategic hegemony despite uncertain tactical detail.
+- [[Epaminondas]] - prior commander associated with concentrated force and delayed engagement later adapted in Macedonian practice.

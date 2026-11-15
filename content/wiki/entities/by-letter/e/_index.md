@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14375
+wiki_total_pages: 14378
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "EOSWorldwide"
     title: "EOS Worldwide"
     url: "/wiki/entities/eosworldwide/"
+  - key: "Epaminondas"
+    title: "Epaminondas"
+    url: "/wiki/entities/epaminondas/"
   - key: "Epicurus"
     title: "Epicurus / 伊壁鸠鲁"
     url: "/wiki/entities/epicurus/"

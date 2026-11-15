@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14375
+wiki_total_pages: 14378
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "LeagueOfArmedNeutrality"
     title: "League of Armed Neutrality"
     url: "/wiki/entities/leagueofarmedneutrality/"
+  - key: "LeagueOfCorinth"
+    title: "League of Corinth"
+    url: "/wiki/entities/leagueofcorinth/"
   - key: "LeahCrum"
     title: "Leah Crum"
     url: "/wiki/entities/leahcrum/"

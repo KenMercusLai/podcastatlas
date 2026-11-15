@@ -274,14 +274,14 @@
       "earliest_episode_date": "2019-10-25",
       "latest_episode_date": "2026-07-31",
       "latest_episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
-      "source_note_count": 3,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 3
+          "source_note_count": 4
         }
       ],
       "entities": [
@@ -290,12 +290,26 @@
           "title": "Alexander the Great / 亚历山大大帝",
           "url": "/wiki/entities/alexanderthegreat/",
           "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "Olympias",
+          "title": "Olympias",
+          "url": "/wiki/entities/olympias/",
+          "kind": "person",
           "episode_count": 3
         },
         {
           "key": "Parmenion",
           "title": "Parmenion",
           "url": "/wiki/entities/parmenion/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "PhilipIIMacedon",
+          "title": "Philip II of Macedon",
+          "url": "/wiki/entities/philipiimacedon/",
           "kind": "person",
           "episode_count": 3
         },
@@ -317,20 +331,6 @@
           "key": "MemnonOfRhodes",
           "title": "Memnon of Rhodes",
           "url": "/wiki/entities/memnonofrhodes/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "Olympias",
-          "title": "Olympias",
-          "url": "/wiki/entities/olympias/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "PhilipIIMacedon",
-          "title": "Philip II of Macedon",
-          "url": "/wiki/entities/philipiimacedon/",
           "kind": "person",
           "episode_count": 2
         }

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Show 71 - Mania for Subjugation
+
+Added the opening [[HardcoreHistory]] installment on [[PhilipIIMacedon|Philip II of Macedon]] as the institutional precondition for [[AlexanderTheGreat|Alexander the Great]]. Created [[BattleOfChaeronea]], [[LeagueOfCorinth]], and [[Epaminondas]], and resynthesized Alexander, Philip, [[Olympias]], [[Thebes]], [[AlexanderLegendFormation]], [[TerrainConstrainedCombinedArms]], and [[HardcoreHistory]] from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: Alexander inherited a professional combined-arms army, mineral-backed campaign finance, experienced officers, siege and engineering capacity, Macedonian hegemony, the League of Corinth, and a Persian expedition already under way. Philip built that platform by combining war with negotiation, bribery, deception, factional intervention, and marriage diplomacy. Chaeronea converted military victory into an unequal Greek peace, while Alexander's regency, revolt suppression, education, and early combat gave him meaningful experience before accession.
+
+The episode also strengthens the wiki's source-critical boundary. Birth portents, childhood prodigy stories, Bucephalus, Olympias's snake and sorcery reputation, Chaeronea's exact tactics, Philip's tomb, and the wider conspiracy behind Pausanias remain legendary, hostile, disputed, or source-scoped. No settled contradiction is adopted. The new evidence deepens rather than reverses the existing judgment that Alexander extended a conquest platform he did not create. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,055 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Hitler’s Olympics, Part 3: Mustache to Mustache
 
 Added the [[RevisionistHistory]] episode contrasting [[CharlesHitchcockSherrill]]'s elite, status-oriented accommodation with [[DorothyThompson]]'s outsider-oriented recognition of fascist danger. Created Sherrill, Thompson, [[HeleneMayer]], [[HenriDeBailletLatour]], and [[EliteStatusComplicity]], then resynthesized the [[InternationalOlympicCommittee]] and [[SelectiveSportsNeutrality]] from their complete preserved evidence inventories before appending the new source once.
@@ -40620,6 +40630,10 @@ Added a short [[RevisionistHistory]] season trailer framing Berlin 1936 as a Naz
 Core synthesis: the trailer is orientation rather than independent historical evidence. It previews the claim that [[NaziGermany]] helped create the modern Olympic spectacle and used it to promote racial supremacy, mobilize Germans, and display international power, while the nine already-ingested full episodes supply the detailed evidence and qualifications. No canonical entity or concept judgment changed, so mature knowledge pages were not rewritten and their source inventories were preserved. No settled contradiction is adopted. Motives, causal influence, the transformation claim, and the implied *Giles v. Harris* connection remain preview-scoped because the supplied file is a structured summary of a four-minute trailer rather than the full series, transcript, or primary archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,054 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

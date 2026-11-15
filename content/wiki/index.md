@@ -5176,6 +5176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 - [Pushkin Goes to the Olympics](sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics.md) — Revisionist History compilation on women's distance-running exclusion, MRI/AI muscle mapping, and the historically disputed Owens–Long friendship story.
 - [Hitler’s Olympics, Part 2: Pangloss, Polonius, Prufrock](sources/hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock.md) — Revisionist History profile of Charles Sherrill, the IOC's 1933 eligibility guarantee, and elite procedural accommodation of Nazi persecution.
+- [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
 - [Charles Hitchcock Sherrill](entities/CharlesHitchcockSherrill.md) — American IOC official whose elite deference, strongman admiration, and token-inclusion diplomacy helped secure participation in Berlin 1936.
@@ -19638,13 +19639,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [JJ Goode](entities/JJGoode.md) — Writer whose prosopagnosia and inclusive greeting strategy anchor Face Value's friendship case.
 - [Missy Kurzweil](entities/MissyKurzweil.md) — Writer whose understandable rejection inference makes the observer-side cost of nonrecognition visible.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
-- [Thebes](entities/Thebes.md) — Major Greek city whose isolated revolt ended in massacre, enslavement, near-total destruction, and deterrent shock across Greece.
+- [Thebes](entities/Thebes.md) — Major Greek city whose military ascendancy influenced Macedon, whose Chaeronea defeat enabled Philip's hegemony, and whose later revolt ended in exemplary destruction.
 - [Arrian](entities/Arrian.md) — Roman-era military historian whose detailed Alexander narrative is late, selective, and generally favorable to its subject.
 
 - [David Floyd](entities/DavidFloyd.md) — Named Stop-and-Frisk plaintiff whose encounter and lawsuit anchor Gladwell's broken-windows correction.
 - [Andrew Papachristos](entities/AndrewPapachristos.md) — Criminologist using social-network analysis to locate concentrated shooting and victimization risk.
 - [Aaron Chalfin](entities/AaronChalfin.md) — Criminologist connecting New York's post-stop homicide trend to a shift toward narrower policing tactics.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
+- [Battle of Chaeronea](entities/BattleOfChaeronea.md) — Philip II's 338 BCE victory over the Athenian-Theban coalition, interpreted through military-system interaction, uncertain tactics, and the creation of Macedonian Greek hegemony.
+- [League of Corinth](entities/LeagueOfCorinth.md) — Macedonian-led Greek peace and Persian-war alliance combining real coordination with unequal coercive control.
+- [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
 - [Elite Status Complicity](concepts/EliteStatusComplicity.md) — Accommodation mechanism linking privilege, mutual deference, attraction to successful power, and preference for institutional harmony over excluded groups' claims.

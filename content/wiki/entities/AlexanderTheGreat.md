@@ -12,6 +12,7 @@ sources:
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
   - dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii
   - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
+  - dchha71-mania-for-subjugation-dchha71-mania-for-subjugation
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-16
 ---
@@ -24,7 +25,9 @@ Alexander the Great / 亚历山大大帝 appears as a tactically adaptive Macedo
 
 ## Current Profile
 
-The campaign profile begins before Alexander's accession. Philip II consolidated Macedon, financed and reorganized its army, defeated Athens and Thebes at Chaeronea, and prepared the Persian invasion. [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] adds Renault's explicitly literary formation story: a child shaped by Homeric models, education associated with [[Aristotle]], dynastic insecurity, and the struggle between Philip and [[Olympias]]. This makes family intimacy part of royal political socialization while leaving precise childhood psychology and dialogue in [[FireFromHeaven|《天堂之火》]] source-scoped.
+The campaign profile begins before Alexander's accession. [[dchha71-mania-for-subjugation-dchha71-mania-for-subjugation]] makes Philip's achievement concrete: he stabilized a vulnerable monarchy, financed and professionalized a differentiated army, joined war to diplomacy, marriage, bribery, and deception, defeated Athens and Thebes at the [[BattleOfChaeronea]], organized the [[LeagueOfCorinth]], and opened a Persian bridgehead. Alexander therefore inherited not only troops but a strategic system, senior officers, Greek hegemony, and a campaign already in motion.
+
+Alexander's formation also joined preparation to legend. He received education associated with [[Aristotle]], served as regent at sixteen, suppressed a northern revolt, and fought at Chaeronea before accession. The birth portents, precocious diplomatic questions, and taming of [[Bucephalus]] come mainly through late, morally shaped traditions and are stronger evidence for [[AlexanderLegendFormation]] than for transparent childhood biography. [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] adds Renault's explicitly literary formation story: a child shaped by Homeric models, dynastic insecurity, and the struggle between Philip and [[Olympias]]. This makes family intimacy part of royal political socialization while leaving precise childhood psychology and dialogue in [[FireFromHeaven|《天堂之火》]] source-scoped.
 
 Alexander secured an uncertain succession at twenty through elite support, army recognition, and the execution of rivals. [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] makes the sequence a first test of his governing method: move faster than opponents can coordinate, combine persuasion with force, expose himself visibly to danger, and convert victory into psychological pressure. In Thrace, across the Danube, and in Illyria, flexible troop roles, surprise, intelligence, and staged display repeatedly overcome difficult terrain. The Illyrian campaign also reveals the cost of the method: aggressive tempo helps create a trap before disciplined withdrawal and a rapid night return reverse it.
 
@@ -44,7 +47,7 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 
 ## Key Characteristics
 
-- Inherits a powerful Macedonian state and combined-arms system, then extends it through battlefield maneuver, siegecraft, and psychological shock.
+- Inherits a powerful Macedonian state after prior education, regency, revolt suppression, and battlefield experience, then extends its combined-arms system through maneuver, siegecraft, and psychological shock.
 - Consolidates a contested accession through coalition support, speed, rival removal, northern campaigns, and exemplary violence against Thebes.
 - Converts an inherited army into a personal following through shared danger, attention, relentless movement, and repeated success.
 - Expands a fiscally pressured invasion through treasury capture, repeated victory, symbolic performance, heroic fame, and refusal of territorial compromise.
@@ -55,6 +58,7 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 ## Evidence
 
 - Inherited platform and accession: [[116-alexander-the-great-part-1-glt3321594885]] connects Philip's reforms and Chaeronea to Alexander's succession, Thebes, and the Asian crossing.
+- Institutional and formative prehistory: [[dchha71-mania-for-subjugation-dchha71-mania-for-subjugation]] connects Philip's statecraft, Chaeronea, the League of Corinth, Aristotle, regency, early command, court conflict, and disputed assassination.
 - Accession and coercive consolidation: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] connects rival removal, Greek submission, northern combined-arms campaigning, operational recovery, and Thebes's destruction.
 - Literary formation: [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] reads *Fire from Heaven* through childhood intelligence, Homeric models, Aristotle, family coercion, and the contested succession.
 - Early expansion and symbolic rule: [[116-alexander-the-great-part-1-glt3321594885]] follows Granicus, Issus, Tyre, Egypt, Alexandria, Siwa, and the refusal of Darius's offers.
@@ -69,14 +73,14 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 
 ## Qualifications
 
-This profile relies on popular-history retellings, a literary discussion, and late ancient traditions rather than contemporary Persian narrative evidence. Philip's assassination and debt, Alexander's part in accession killings, Olympias's responsibility, army costs and sizes, speeches, battlefield details, Theban battle initiation, Granicus timing and casualties, Darius's departure, the royal-family scene, oracles, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Claims about divine self-belief, cumulative trauma, concussion, paranoia, or corruption by luxury are interpretive possibilities, not diagnoses or recovered inner states. Renault's detailed childhood interiority is evidence about historical imagination, not independent biography. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
+This profile relies on popular-history retellings, a literary discussion, and late ancient traditions rather than contemporary Persian narrative evidence. Philip's assassination and debt, Alexander's childhood feats, precise education, role at Chaeronea, part in accession killings, Olympias's responsibility, army costs and sizes, speeches, battlefield details, Theban battle initiation, Granicus timing and casualties, Darius's departure, the royal-family scene, oracles, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Claims about divine self-belief, cumulative trauma, concussion, paranoia, or corruption by luxury are interpretive possibilities, not diagnoses or recovered inner states. Renault's detailed childhood interiority is evidence about historical imagination, not independent biography. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
 
 ## What Changed
 
-- Added the fragile accession, rival removal, and dependence on elite and army recognition.
-- Recast the northern campaign around speed, terrain adaptation, psychological display, and recovery from a self-created Illyrian crisis.
-- Added Thebes as the clearest early case where military success, delegated legality, massacre, enslavement, and deterrent terror converge.
-- Made Arrian's favorable source line and the conflicting allocation of responsibility explicit.
+- Replaced a compressed inheritance claim with Philip's full military, fiscal, diplomatic, and Greek-hegemony platform.
+- Added regency, revolt suppression, and Chaeronea as pre-accession governing and battlefield experience.
+- Reclassified birth portents and childhood-prodigy stories as legend-formation evidence rather than secure biography.
+- Made the succession threat around Philip's final marriage and the unresolved assassination the immediate dynastic setting.
 
 ## Relationships
 
@@ -97,3 +101,5 @@ This profile relies on popular-history retellings, a literary discussion, and la
 - [[Thebes]] - revolt whose destruction converted early consolidation into exemplary terror across Greece.
 - [[Arrian]] - late military historian whose detailed favorable account requires claim-level source criticism.
 - [[CredibleForceDisplayDeterrence]] - mechanism joining disciplined display, unexpected movement, and coercive credibility.
+- [[BattleOfChaeronea]] - formative victory in which Alexander served within Philip's mature war system.
+- [[LeagueOfCorinth]] - coercive Greek coalition and Persian-war platform inherited at accession.
