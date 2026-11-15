@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3523
+topic_total_pages: 3524
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9822,6 +9822,9 @@ topic_sources:
   - key: "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210"
     title: "Putin's options: an oligarch speaks out"
     url: "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+  - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
+    title: "Reconstruction: The Unfinished Promise"
+    url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
   - key: "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128"
     title: "Regulating the tech sector in the AI era"
     url: "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"

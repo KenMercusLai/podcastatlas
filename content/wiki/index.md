@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Reconstruction: The Unfinished Promise](sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise.md) — Revisionist History follows Douglass, Johnson, and Schurz through the opening contest over suffrage, federal protection, congressional Reconstruction, and constitutional refounding.
 - [Frankenfood | The Mistakes Series](sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series.md) — Revisionist History compares GMO backlash with cultivated-meat naming and tasting while preserving scale, safety, cost, regulation, and lifecycle gaps.
 - [Coming Soon: The Staten Island Problem](sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem.md) — Revisionist History previews Staten Island's secession fight as a crisis of democratic belonging while treating its Giuliani and Trump parallels as a thesis for the full series.
 - [Revenge of A Good Walk Spoiled](sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled.md) — Revisionist History revisits Los Angeles golf-course tax privileges and follows the argument into a parcel-tax proposal, public-access bargaining, and delayed policy influence.
@@ -5095,6 +5096,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 
 ## Entities
+- [Carl Schurz](entities/CarlSchurz.md) — German immigrant and 1865 Southern investigator whose findings supported federal protection and Black suffrage against rapid presidential restoration.
 - [Barbara Stuckey](entities/BarbaraStuckey.md) — Food strategist using the GMO backlash to develop less alienating but still differentiating language for cultivated meat.
 - [Upside Foods](entities/UpsideFoods.md) — Cultivated-meat company using restaurant tasting and conventional food formats as consumer adoption proof.
 - [Adrin Nazarian](entities/AdrinNazarian.md) — Los Angeles council member who turns a podcast argument about golf-course tax advantages into a parcel-tax proposal and access negotiation.

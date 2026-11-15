@@ -39743,3 +39743,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Reconstruction: The Unfinished Promise
+
+Added the [[RevisionistHistory]] episode on the opening Reconstruction struggle among [[FrederickDouglass|Frederick Douglass]], [[AndrewJohnson|Andrew Johnson]], and [[CarlSchurz|Carl Schurz]]. Created a bounded profile for Schurz and resynthesized Douglass, Johnson, [[ReconstructionFederalEnforcement]], and [[ReconstructionConstitutionalAfterlife]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: emancipation did not make citizenship self-executing; Schurz's investigation established an early factual case for troops and Black suffrage, Douglass turned presidential refusal into a public demand for equal citizenship and institutional restraint, and congressional victories converted those pressures into civil-rights law and the Reconstruction Amendments. The resulting interracial democracy was real but brief and incomplete. No settled factual contradiction was adopted. Dialogue, motives, circulation figures, causal influence, and compressed claims about state reform remain episode-attributed because the supplied file is a structured summary rather than a transcript or the underlying reports and legislative record. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,972 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 55 unrelated pre-existing broken links; none occur on pages changed by this ingest.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

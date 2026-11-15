@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14170
+wiki_total_pages: 14171
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "CarlSchmitt"
     title: "Carl Schmitt"
     url: "/wiki/entities/carlschmitt/"
+  - key: "CarlSchurz"
+    title: "Carl Schurz"
+    url: "/wiki/entities/carlschurz/"
   - key: "CarlVonClausewitz"
     title: "Carl von Clausewitz / 克劳塞维茨"
     url: "/wiki/entities/carlvonclausewitz/"

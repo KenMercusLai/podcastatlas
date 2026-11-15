@@ -18153,9 +18153,9 @@
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewJohnson": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
@@ -18191,6 +18191,13 @@
           "show": "Revisionist History",
           "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
           "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+        },
+        {
+          "episode_file": "Reconstruction_The_Unfinished_Promise [Reconstruction_The_Unfinished_Promise].md",
+          "key": "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise",
+          "show": "Revisionist History",
+          "title": "Reconstruction: The Unfinished Promise",
+          "url": "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
         }
       ],
       "updated": "2026-11-15",
@@ -44550,6 +44557,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/carlbogus/"
+    },
+    "CarlSchurz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Reconstruction_The_Unfinished_Promise [Reconstruction_The_Unfinished_Promise].md",
+          "key": "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise",
+          "show": "Revisionist History",
+          "title": "Reconstruction: The Unfinished Promise",
+          "url": "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/carlschurz/"
     },
     "CarlWebb": {
       "episode_count": 1,
@@ -112825,9 +112848,9 @@
       "url": "/wiki/entities/frederickbenteen/"
     },
     "FrederickDouglass": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1124511401 [GLT1124511401].md",
@@ -112842,6 +112865,13 @@
           "show": "Revisionist History",
           "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
           "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+        },
+        {
+          "episode_file": "Reconstruction_The_Unfinished_Promise [Reconstruction_The_Unfinished_Promise].md",
+          "key": "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise",
+          "show": "Revisionist History",
+          "title": "Reconstruction: The Unfinished Promise",
+          "url": "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
         }
       ],
       "updated": "2026-11-15",
@@ -253492,9 +253522,9 @@
       "url": "/wiki/concepts/recommendationsystemproductization/"
     },
     "ReconstructionConstitutionalAfterlife": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -253509,6 +253539,13 @@
           "show": "Revisionist History",
           "title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
           "url": "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+        },
+        {
+          "episode_file": "Reconstruction_The_Unfinished_Promise [Reconstruction_The_Unfinished_Promise].md",
+          "key": "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise",
+          "show": "Revisionist History",
+          "title": "Reconstruction: The Unfinished Promise",
+          "url": "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
         }
       ],
       "updated": "2026-11-15",
@@ -253538,9 +253575,9 @@
       "url": "/wiki/concepts/reconstructionelectoralterror/"
     },
     "ReconstructionFederalEnforcement": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2904395784 [GLT2904395784].md",
@@ -253548,9 +253585,16 @@
           "show": "The Rest Is History",
           "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
           "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        },
+        {
+          "episode_file": "Reconstruction_The_Unfinished_Promise [Reconstruction_The_Unfinished_Promise].md",
+          "key": "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise",
+          "show": "Revisionist History",
+          "title": "Reconstruction: The Unfinished Promise",
+          "url": "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/reconstructionfederalenforcement/"
     },
     "ReconstructionRollback": {

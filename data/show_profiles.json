@@ -911,20 +911,20 @@
       "earliest_episode_date": "2025-05-22",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 18,
-      "topic_matched_source_note_count": 9,
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 10,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 7
+          "source_note_count": 8
         },
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "technology",
@@ -956,6 +956,13 @@
           "episode_count": 3
         },
         {
+          "key": "AndrewJohnson",
+          "title": "Andrew Johnson",
+          "url": "/wiki/entities/andrewjohnson/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "BenNaddaffHafrey",
           "title": "Ben Naddaff-Hafrey",
           "url": "/wiki/entities/bennaddaffhafrey/",
@@ -966,6 +973,13 @@
           "key": "DavidKennedyCriminologist",
           "title": "David M. Kennedy",
           "url": "/wiki/entities/davidkennedycriminologist/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "FrederickDouglass",
+          "title": "Frederick Douglass",
+          "url": "/wiki/entities/frederickdouglass/",
           "kind": "person",
           "episode_count": 2
         }

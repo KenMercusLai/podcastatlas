@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2792
+topic_total_pages: 2793
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7395,6 +7395,9 @@ topic_sources:
   - key: "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel"
     title: "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America"
     url: "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"
+  - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
+    title: "Reconstruction: The Unfinished Promise"
+    url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
   - key: "dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv"
     title: "Show 74 - Mania for Subjugation IV"
     url: "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
