@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11298
+wiki_total_pages: 11301
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"
+  - key: "DiscoveryLedAudioStorytelling"
+    title: "Discovery-Led Audio Storytelling"
+    url: "/wiki/concepts/discoveryledaudiostorytelling/"
   - key: "DiscoveryLedDemoSprint"
     title: "Discovery-Led Demo Sprint"
     url: "/wiki/concepts/discoveryleddemosprint/"

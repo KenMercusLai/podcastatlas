@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14217
+wiki_total_pages: 14220
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "MiaFreelancer"
     title: "Mia / 自由职业营销从业者"
     url: "/wiki/entities/miafreelancer/"
+  - key: "MiaBell"
+    title: "Mia Bell"
+    url: "/wiki/entities/miabell/"
   - key: "MiaLiponi"
     title: "Mia Liponi"
     url: "/wiki/entities/mialiponi/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14217
+wiki_total_pages: 14220
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -2069,6 +2069,9 @@ wiki_pages:
   - key: "SydneyBrounstone"
     title: "Sydney Brounstone"
     url: "/wiki/entities/sydneybrounstone/"
+  - key: "SydneyMcLaughlin"
+    title: "Sydney McLaughlin"
+    url: "/wiki/entities/sydneymclaughlin/"
   - key: "SylviaBeach"
     title: "Sylvia Beach"
     url: "/wiki/entities/sylviabeach/"

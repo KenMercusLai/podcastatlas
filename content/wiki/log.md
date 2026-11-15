@@ -39876,3 +39876,13 @@ Core synthesis: Ajay's endurance, wilderness skill, partial return-route sightin
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Big Birthday Party
+
+Added the [[RevisionistHistory]] tenth-anniversary retrospective and created focused profiles for [[MiaBell]], [[CaseyBeathardBowles]], and [[SydneyMcLaughlin]]. Added [[DiscoveryLedAudioStorytelling]], [[EditorialCandorAsRevision]], and [[ListenerParticipatoryDiscovery]]; and resynthesized Revisionist History from its complete preserved twelve-source inventory before appending the new source once.
+
+Core synthesis: documentary audio is deliberately produced but can preserve decisive material that remains outside creator control, including candid answers, emotional slips, failed-plan discoveries, and chance observation; direct collaborator criticism becomes revision when leaders use it to redesign source mix and audience assumptions; and listener correspondence can expand inquiry while leaving verification, consent, credit, representation, and selection duties with the production. No settled factual contradiction was adopted. The retrospective selects memorable successes and gives little attention to failed episodes, criticism, selection effects, or production change across the decade; its biographical, competitive, dialogue, creative-process, and audience claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, production archive, sports record, or correspondence corpus. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,987 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 55 unrelated pre-existing broken links; none occur on pages changed by this ingest.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

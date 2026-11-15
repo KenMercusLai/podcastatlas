@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11298
+wiki_total_pages: 11301
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "EditorAsCulturalProjectManager"
     title: "Editor As Cultural Project Manager"
     url: "/wiki/concepts/editorasculturalprojectmanager/"
+  - key: "EditorialCandorAsRevision"
+    title: "Editorial Candor as Revision"
+    url: "/wiki/concepts/editorialcandorasrevision/"
   - key: "EditorialReading"
     title: "Editorial Reading / 编辑式阅读"
     url: "/wiki/concepts/editorialreading/"

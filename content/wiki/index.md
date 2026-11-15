@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Big Birthday Party](sources/the-big-birthday-party-the-big-birthday-party.md) — Revisionist History's tenth-anniversary retrospective on candid collaboration, discovery-led audio, found moments, and listeners as partners in inquiry.
 - [From Valley of Shadows: The Devil's Punchbowl](sources/from-valley-of-shadows-the-devil-s-punchbowl-from-valley-of-shadows-the-devil-s-punchbowl.md) — Valley of Shadows reconstructs deputy John Ajay's unresolved disappearance and examines early suicide framing, a six-day search, and alleged restrictions on later scrutiny.
 - [Zootopia Exposed! (Part One)](sources/zootopia-exposed-part-one-zootopia-exposed-part-one.md) — Revisionist History reconstructs Gary Goldman's failed Zootopia claim and asks why Zootopia 2 appears to echo it through Gary De'Snake and a stolen-invention plot.
 - [Zootopia Exposed! (Part Two)](sources/zootopia-exposed-part-two-zootopia-exposed-part-two.md) — Revisionist History reads Zootopia 2 as possible symbolic acknowledgment of Gary Goldman and connects its restoration plot to the Bush family's resistance to exclusion.
@@ -5110,6 +5111,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Mia Bell](entities/MiaBell.md) — Early Revisionist History collaborator whose candid critique reshaped the proposed first season.
+- [Casey Beathard Bowles](entities/CaseyBeathardBowles.md) — Singer-songwriter whose repeated lyric lapse became a live example of emotional discovery in audio.
+- [Sydney McLaughlin](entities/SydneyMcLaughlin.md) — Elite runner whose chance UCLA appearance became the show's clearest example of an unscripted found moment.
 - [John Ajay](entities/JohnAjay.md) — LASD deputy, Army veteran, and ultramarathon runner missing from Devil's Punchbowl since June 1998.
 - [Mike Bauer](entities/MikeBauer.md) — Retired LASD captain and insider critic who disputes the department's handling of Ajay's disappearance.
 - [Dave Rathbun](entities/DaveRathbun.md) — Former LASD search specialist who questions the six-day search, suicide attribution, and later file restrictions.
@@ -19420,6 +19424,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Discovery-Led Audio Storytelling](concepts/DiscoveryLedAudioStorytelling.md) — Documentary method that prepares encounters while leaving decisive voices, emotions, and events partly outside creator control.
+- [Editorial Candor as Revision](concepts/EditorialCandorAsRevision.md) — Practice of using direct collaborator criticism to redesign source mix, assumptions, and audience fit.
+- [Listener-Participatory Discovery](concepts/ListenerParticipatoryDiscovery.md) — Audience contribution loop joining public questions, distributed interpretation, editorial selection, and recirculation.
 - [Premature Investigative Closure](concepts/PrematureInvestigativeClosure.md) — Risk that an early favored explanation narrows search, evidence interpretation, and review before alternatives are adequately tested.
 - [Restricted Case-File Opacity](concepts/RestrictedCaseFileOpacity.md) — Accountability problem created when unusual access controls, unclear ownership, or incomplete disclosure block qualified review.
 - [Copyright Idea–Expression Boundary](concepts/CopyrightIdeaExpressionBoundary.md) — Distinction between unprotectable creative ideas and copyright-protected expression, applied to Gary Goldman's failed Zootopia claim.

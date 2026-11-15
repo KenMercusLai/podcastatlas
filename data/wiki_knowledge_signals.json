@@ -45351,6 +45351,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/casereadyintakeai/"
     },
+    "CaseyBeathardBowles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/caseybeathardbowles/"
+    },
     "CaseyHalpern": {
       "episode_count": 3,
       "show_count": 1,
@@ -80305,6 +80321,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/discoveryadvertising/"
     },
+    "DiscoveryLedAudioStorytelling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/discoveryledaudiostorytelling/"
+    },
     "DiscoveryLedDemoSprint": {
       "episode_count": 1,
       "show_count": 1,
@@ -87317,6 +87349,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/editionrevisionexplicitnesstradeoff/"
+    },
+    "EditorialCandorAsRevision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/editorialcandorasrevision/"
     },
     "EditorialReading": {
       "episode_count": 1,
@@ -182076,6 +182124,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/listenercommunitycoproduction/"
     },
+    "ListenerParticipatoryDiscovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/listenerparticipatorydiscovery/"
+    },
     "ListeningBarCulturalExport": {
       "episode_count": 1,
       "show_count": 1,
@@ -205986,6 +206050,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/miwuqiangleader/"
+    },
+    "MiaBell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/miabell/"
     },
     "Miami": {
       "episode_count": 2,
@@ -259332,9 +259412,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -259419,6 +259499,13 @@
           "show": "Revisionist History",
           "title": "The Trust Diagnosis",
           "url": "/wiki/sources/the-trust-diagnosis/"
+        },
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
         }
       ],
       "updated": "2026-11-15",
@@ -293752,6 +293839,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/concepts/sycophanticaicompanionrisk/"
+    },
+    "SydneyMcLaughlin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
+          "key": "the-big-birthday-party-the-big-birthday-party",
+          "show": "Revisionist History",
+          "title": "The Big Birthday Party",
+          "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/sydneymclaughlin/"
     },
     "SylviaBeach": {
       "episode_count": 1,

@@ -18419,6 +18419,10 @@
     "title": "Casetext",
     "url": "/wiki/entities/casetext/"
   },
+  "CaseyBeathardBowles": {
+    "title": "Casey Beathard Bowles",
+    "url": "/wiki/entities/caseybeathardbowles/"
+  },
   "CaseyHalpern": {
     "title": "Casey Halpern",
     "url": "/wiki/entities/caseyhalpern/"
@@ -28915,6 +28919,10 @@
     "title": "Discovery Advertising",
     "url": "/wiki/concepts/discoveryadvertising/"
   },
+  "DiscoveryLedAudioStorytelling": {
+    "title": "Discovery-Led Audio Storytelling",
+    "url": "/wiki/concepts/discoveryledaudiostorytelling/"
+  },
   "DiscoveryLedDemoSprint": {
     "title": "Discovery-Led Demo Sprint",
     "url": "/wiki/concepts/discoveryleddemosprint/"
@@ -31042,6 +31050,10 @@
   "EditorAsCulturalProjectManager": {
     "title": "Editor As Cultural Project Manager",
     "url": "/wiki/concepts/editorasculturalprojectmanager/"
+  },
+  "EditorialCandorAsRevision": {
+    "title": "Editorial Candor as Revision",
+    "url": "/wiki/concepts/editorialcandorasrevision/"
   },
   "EditorialReading": {
     "title": "Editorial Reading / 编辑式阅读",
@@ -57327,6 +57339,10 @@
     "title": "Listener Community Co-Production / 听众社群共创",
     "url": "/wiki/concepts/listenercommunitycoproduction/"
   },
+  "ListenerParticipatoryDiscovery": {
+    "title": "Listener-Participatory Discovery",
+    "url": "/wiki/concepts/listenerparticipatorydiscovery/"
+  },
   "ListenerSupportedMedia": {
     "title": "Listener-Supported Media",
     "url": "/wiki/concepts/listenersupportedmedia/"
@@ -63570,6 +63586,10 @@
   "MiZhu": {
     "title": "糜竺 / Mi Zhu",
     "url": "/wiki/entities/mizhu/"
+  },
+  "MiaBell": {
+    "title": "Mia Bell",
+    "url": "/wiki/entities/miabell/"
   },
   "MiaEcommerce": {
     "title": "蜜芽 / Mia",
@@ -90055,6 +90075,10 @@
     "title": "Sydney Brounstone",
     "url": "/wiki/entities/sydneybrounstone/"
   },
+  "SydneyMcLaughlin": {
+    "title": "Sydney McLaughlin",
+    "url": "/wiki/entities/sydneymclaughlin/"
+  },
   "SylviaBeach": {
     "title": "Sylvia Beach",
     "url": "/wiki/entities/sylviabeach/"
@@ -113750,6 +113774,10 @@
   "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395": {
     "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
     "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+  },
+  "the-big-birthday-party-the-big-birthday-party": {
+    "title": "The Big Birthday Party",
+    "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
   },
   "the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481": {
     "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
