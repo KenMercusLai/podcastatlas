@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11410
+wiki_total_pages: 11412
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"

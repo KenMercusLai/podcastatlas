@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3707
+topic_total_pages: 3709
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1546,6 +1546,9 @@ topic_concepts:
   - key: "FootballYouthAcademyContinuity"
     title: "Football Youth Academy Continuity"
     url: "/wiki/concepts/footballyouthacademycontinuity/"
+  - key: "FormulaicProductionArtisticConfinement"
+    title: "Formulaic Production and Artistic Confinement"
+    url: "/wiki/concepts/formulaicproductionartisticconfinement/"
   - key: "FounderIdentityNarrativeRisk"
     title: "Founder Identity Narrative Risk"
     url: "/wiki/concepts/founderidentitynarrativerisk/"
@@ -10377,6 +10380,9 @@ topic_sources:
   - key: "big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c"
     title: "Big shot: does a cancer vaccine work?"
     url: "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+  - key: "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell"
+    title: "Blue Seattle with Cameron Crowe | Development Hell"
+    url: "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
   - key: "bookstore-economics"
     title: "BOOKstore Economics"
     url: "/wiki/sources/bookstore-economics/"

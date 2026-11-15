@@ -19935,6 +19935,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/anlimiwusun/"
     },
+    "AnnWilson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/annwilson/"
+    },
     "AnnaChennault": {
       "episode_count": 1,
       "show_count": 1,
@@ -36056,6 +36072,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/bluemarblephoto/"
     },
+    "BlueSeattle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/blueseattle/"
+    },
     "Bluegogo": {
       "episode_count": 1,
       "show_count": 1,
@@ -42503,6 +42535,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/camerajet/"
+    },
+    "CameronCrowe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/cameroncrowe/"
     },
     "Cameroon": {
       "episode_count": 2,
@@ -92013,9 +92061,9 @@
       "url": "/wiki/entities/elviscostello/"
     },
     "ElvisPresley": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
@@ -92023,9 +92071,16 @@
           "show": "Revisionist History",
           "title": "Encore: Analysis, Parapraxis, Elvis",
           "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
+        },
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/elvispresley/"
     },
     "EmancipationProclamation": {
@@ -112916,6 +112971,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/formerenemyloyaltyreframing/"
+    },
+    "FormulaicProductionArtisticConfinement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/formulaicproductionartisticconfinement/"
     },
     "FortMcHenry": {
       "episode_count": 1,
@@ -219630,6 +219701,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/nanli/"
     },
+    "NancyWilson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/nancywilson/"
+    },
     "NandanNilekani": {
       "episode_count": 1,
       "show_count": 1,
@@ -317674,6 +317761,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/unlearningexamexpression/"
+    },
+    "UnrealizedCreativeWorkValue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
+          "key": "blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell",
+          "show": "Revisionist History",
+          "title": "Blue Seattle with Cameron Crowe | Development Hell",
+          "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/unrealizedcreativeworkvalue/"
     },
     "UnrestrictedSubmarineWarfare": {
       "episode_count": 1,

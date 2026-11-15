@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14380
+wiki_total_pages: 14384
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1451,6 +1451,9 @@ wiki_pages:
   - key: "AnkerInnovations"
     title: "Anker Innovations / 安克创新"
     url: "/wiki/entities/ankerinnovations/"
+  - key: "AnnWilson"
+    title: "Ann Wilson"
+    url: "/wiki/entities/annwilson/"
   - key: "AnnWroe"
     title: "Ann Wroe"
     url: "/wiki/entities/annwroe/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Blue Seattle with Cameron Crowe | Development Hell](sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell.md) — Cameron Crowe and Malcolm Gladwell use an unproduced Elvis musical and its surviving songs to examine formula, constrained agency, rejection, memory, and the value of unrealized work.
 - [Malcolm on No Small Endeavor](sources/malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor.md) — Lee C. Camp and Malcolm Gladwell connect curious confidence, plural identity, moral storytelling, failure, whole-life comparison, and committed care.
 - [Hitler’s Olympics](sources/hitler-s-olympics.md) — Revisionist History previews a nine-part investigation of Berlin 1936, Nazi spectacle, United States participation, Olympic officials, Jesse Owens, and American racial disenfranchisement.
 - [Hitler’s Olympics, Part 1: The Blue-Eyed Tornado](sources/hitler-s-olympics-part-1-the-blue-eyed-tornado-hitler-s-olympics-part-1-the-blue-eyed-tornado.md) — Revisionist History introduces Dorothy Thompson's ideology-first warning, the moral conflict over participation, and Berlin 1936's transformation into a Nazi propaganda spectacle.
@@ -5180,6 +5181,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Cameron Crowe](entities/CameronCrowe.md) — Filmmaker whose affectionate reconstruction of Elvis musicals became an unproduced screenplay and completed song cycle.
+- [Nancy Wilson](entities/NancyWilson.md) — Musician and Blue Seattle co-creator whose honeymoon collaboration helped produce the surviving demos.
+- [Ann Wilson](entities/AnnWilson.md) — Singer and Blue Seattle co-creator who hosted and participated in the rapid cabin recording session.
+- [Blue Seattle](entities/BlueSeattle.md) — Unproduced Cameron Crowe screenplay and ten-song cycle for an imagined final Elvis movie.
 - [Lee C. Camp](entities/LeeCCamp.md) — Theologian and No Small Endeavor host using curiosity and life stories to examine moral formation and the good life.
 - [No Small Endeavor](entities/NoSmallEndeavor.md) — Interview program connecting biography, theology, philosophy, storytelling, and vocation.
 - [Charles Hitchcock Sherrill](entities/CharlesHitchcockSherrill.md) — American IOC official whose elite deference, strongman admiration, and token-inclusion diplomacy helped secure participation in Berlin 1936.
@@ -19654,6 +19659,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Unrealized Creative Work Value](concepts/UnrealizedCreativeWorkValue.md) — Value an uncompleted project creates through artifacts, collaboration, learning, memory, recognition, and preserved possibility.
+- [Formulaic Production and Artistic Confinement](concepts/FormulaicProductionArtisticConfinement.md) — Tension between repeatable commercial templates and an artist's control, range, or identification with the work.
 - [Curious Confidence](concepts/CuriousConfidence.md) — Humility about one's knowledge joined to enough self-security to admit ignorance and ask questions.
 - [Plural Identity Self-Prioritization](concepts/PluralIdentitySelfPrioritization.md) — Agency to rank and revise the importance of multiple identities while recognizing social constraint.
 - [Narrative Moral Rehearsal](concepts/NarrativeMoralRehearsal.md) — Use of concrete stories to make ethical situations recognizable and possible responses actionable.

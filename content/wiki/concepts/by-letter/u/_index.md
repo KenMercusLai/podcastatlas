@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11410
+wiki_total_pages: 11412
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "UnprotectedOverseasWork"
     title: "Unprotected Overseas Work"
     url: "/wiki/concepts/unprotectedoverseaswork/"
+  - key: "UnrealizedCreativeWorkValue"
+    title: "Unrealized Creative Work Value"
+    url: "/wiki/concepts/unrealizedcreativeworkvalue/"
   - key: "UnreliablePraiseNarration"
     title: "Unreliable Praise Narration / 赞美式不可靠叙述"
     url: "/wiki/concepts/unreliablepraisenarration/"

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Blue Seattle with Cameron Crowe | Development Hell
+
+Added the [[RevisionistHistory]] conversation in which [[CameronCrowe]] reconstructs [[BlueSeattle]], an unproduced screenplay and ten-song cycle created with [[NancyWilson]] and [[AnnWilson]] for an imagined final [[ElvisPresley]] movie. Created focused profiles for Crowe, both Wilson sisters, and the project, then resynthesized Elvis from his complete preserved two-source evidence inventory before appending the new source once.
+
+Core synthesis: the project uses affectionate mastery of the Elvis-film formula to show how repeatable commercial production can create pleasure and reliable output while narrowing artistic agency. Its realized value lies in the songs, collaboration, discovery, memory, and brief fictional recognition it produced without becoming a film. Nonproduction can preserve imaginative possibility, but it also avoids the tests, compromises, learning, and audience response that might reveal weakness or improve the work.
+
+No settled contradiction was adopted. The new Elvis evidence complements rather than displaces the earlier parapraxis profile: one source interprets concentrated live errors, while the other interprets formula-film labor and moments of expressive connection. Dialogue, individual song credits, motives, chronology, private feelings, and claims about what production would have done remain episode-scoped because the supplied file is a structured summary rather than a transcript, screenplay, recordings, production archive, or independent biography. The broad [[MalcolmGladwell]] and [[RevisionistHistory]] pages and automatic `wiki/overview.md` were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,057 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Malcolm on No Small Endeavor
 
 Added [[LeeCCamp]]'s [[NoSmallEndeavor]] interview with [[MalcolmGladwell]] about the family habits, childhood freedom, cultural movement, failure, and work commitments behind Gladwell's public method. Created bounded profiles for Camp and the program, plus [[CuriousConfidence]], [[PluralIdentitySelfPrioritization]], [[NarrativeMoralRehearsal]], and [[WholeLifeComparison]].
@@ -40636,6 +40646,10 @@ Added a short [[RevisionistHistory]] season trailer framing Berlin 1936 as a Naz
 Core synthesis: the trailer is orientation rather than independent historical evidence. It previews the claim that [[NaziGermany]] helped create the modern Olympic spectacle and used it to promote racial supremacy, mobilize Germans, and display international power, while the nine already-ingested full episodes supply the detailed evidence and qualifications. No canonical entity or concept judgment changed, so mature knowledge pages were not rewritten and their source inventories were preserved. No settled contradiction is adopted. Motives, causal influence, the transformation claim, and the implied *Giles v. Harris* connection remain preview-scoped because the supplied file is a structured summary of a four-minute trailer rather than the full series, transcript, or primary archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,054 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

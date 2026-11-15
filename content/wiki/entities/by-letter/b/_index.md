@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14380
+wiki_total_pages: 14384
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "BlueOwlCapital"
     title: "Blue Owl Capital"
     url: "/wiki/entities/blueowlcapital/"
+  - key: "BlueSeattle"
+    title: "Blue Seattle"
+    url: "/wiki/entities/blueseattle/"
   - key: "BlueJ"
     title: "BlueJ"
     url: "/wiki/entities/bluej/"

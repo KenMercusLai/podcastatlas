@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11410
+wiki_total_pages: 11412
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "FormulaSupplyChainResilience"
     title: "Formula Supply Chain Resilience"
     url: "/wiki/concepts/formulasupplychainresilience/"
+  - key: "FormulaicProductionArtisticConfinement"
+    title: "Formulaic Production and Artistic Confinement"
+    url: "/wiki/concepts/formulaicproductionartisticconfinement/"
   - key: "FormContentFit"
     title: "Form–Content Fit / 内容—形式适配"
     url: "/wiki/concepts/formcontentfit/"
