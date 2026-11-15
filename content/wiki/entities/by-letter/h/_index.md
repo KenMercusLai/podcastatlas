@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14209
+wiki_total_pages: 14217
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "HalHodson"
     title: "Hal Hodson"
     url: "/wiki/entities/halhodson/"
+  - key: "HaleyFox"
+    title: "Haley Fox"
+    url: "/wiki/entities/haleyfox/"
   - key: "HaleySalmon"
     title: "Haley Salmon"
     url: "/wiki/entities/haleysalmon/"

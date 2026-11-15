@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [From Valley of Shadows: The Devil's Punchbowl](sources/from-valley-of-shadows-the-devil-s-punchbowl-from-valley-of-shadows-the-devil-s-punchbowl.md) — Valley of Shadows reconstructs deputy John Ajay's unresolved disappearance and examines early suicide framing, a six-day search, and alleged restrictions on later scrutiny.
 - [Zootopia Exposed! (Part One)](sources/zootopia-exposed-part-one-zootopia-exposed-part-one.md) — Revisionist History reconstructs Gary Goldman's failed Zootopia claim and asks why Zootopia 2 appears to echo it through Gary De'Snake and a stolen-invention plot.
 - [Zootopia Exposed! (Part Two)](sources/zootopia-exposed-part-two-zootopia-exposed-part-two.md) — Revisionist History reads Zootopia 2 as possible symbolic acknowledgment of Gary Goldman and connects its restoration plot to the Bush family's resistance to exclusion.
 - [Behind the Scenes with Andrew Jarecki](sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki.md) — Revisionist History on The Alabama Solution, incarcerated phone evidence and collaboration, prison deaths, forced labor, parole, disclosure ethics, and continuing retaliation risk.
@@ -5109,6 +5110,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [John Ajay](entities/JohnAjay.md) — LASD deputy, Army veteran, and ultramarathon runner missing from Devil's Punchbowl since June 1998.
+- [Mike Bauer](entities/MikeBauer.md) — Retired LASD captain and insider critic who disputes the department's handling of Ajay's disappearance.
+- [Dave Rathbun](entities/DaveRathbun.md) — Former LASD search specialist who questions the six-day search, suicide attribution, and later file restrictions.
+- [Betsy Shepherd](entities/BetsyShepherd.md) — Valley of Shadows reporter investigating Ajay's disappearance and LASD's institutional response.
+- [Haley Fox](entities/HaleyFox.md) — Valley of Shadows reporter reconstructing the Ajay case and its unresolved accountability questions.
+- [Los Angeles County Sheriff's Department](entities/LosAngelesCountySheriffsDepartment.md) — Ajay's employer, search authority, and subject of disputed case-handling allegations.
+- [Devil's Punchbowl Natural Area](entities/DevilsPunchbowlNaturalArea.md) — Rugged Antelope Valley landscape where Ajay began his final known run and the search was centered.
+- [Valley of Shadows](entities/ValleyOfShadowsPodcast.md) — Investigative podcast series linking an unresolved disappearance to questions of law-enforcement accountability.
 - [Angus Fletcher](entities/AngusFletcher.md) — Narrative scholar and Gary Goldman advocate who frames Zootopia 2 as a possible allegory of Goldman's authorship dispute.
 - [Gary Goldman](entities/GaryGoldman.md) — Filmmaker whose unsuccessful Zootopia appropriation claim is interpreted as the real-world referent for Gary De'Snake's grievance.
 - [Jared Bush](entities/JaredBush.md) — Disney screenwriter interpreted through Zootopia 2's restoration themes and his family's history of challenging exclusion.
@@ -19411,6 +19420,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Premature Investigative Closure](concepts/PrematureInvestigativeClosure.md) — Risk that an early favored explanation narrows search, evidence interpretation, and review before alternatives are adequately tested.
+- [Restricted Case-File Opacity](concepts/RestrictedCaseFileOpacity.md) — Accountability problem created when unusual access controls, unclear ownership, or incomplete disclosure block qualified review.
 - [Copyright Idea–Expression Boundary](concepts/CopyrightIdeaExpressionBoundary.md) — Distinction between unprotectable creative ideas and copyright-protected expression, applied to Gary Goldman's failed Zootopia claim.
 - [Symbolic Creative Restitution](concepts/SymbolicCreativeRestitution.md) — Artistic acknowledgment that can restore dignity or meaning without changing legal rights, credit, compensation, or liability.
 - [Historical Research as Institutional Reform](concepts/HistoricalResearchAsInstitutionalReform.md) — Archival reframing that shows an exclusionary rule was contingent and creates justificatory room for institutional change.

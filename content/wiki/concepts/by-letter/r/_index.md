@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11296
+wiki_total_pages: 11298
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "RestrainedLuxuryStatus"
     title: "Restrained Luxury Status"
     url: "/wiki/concepts/restrainedluxurystatus/"
+  - key: "RestrictedCaseFileOpacity"
+    title: "Restricted Case-File Opacity"
+    url: "/wiki/concepts/restrictedcasefileopacity/"
   - key: "RestrictedStockUnits"
     title: "Restricted Stock Units / RSU"
     url: "/wiki/concepts/restrictedstockunits/"

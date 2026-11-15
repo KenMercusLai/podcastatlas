@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11296
+wiki_total_pages: 11298
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "PrematureEcosystemBuild"
     title: "Premature Ecosystem Build"
     url: "/wiki/concepts/prematureecosystembuild/"
+  - key: "PrematureInvestigativeClosure"
+    title: "Premature Investigative Closure"
+    url: "/wiki/concepts/prematureinvestigativeclosure/"
   - key: "PremiumBottledWaterEconomics"
     title: "Premium Bottled Water Economics"
     url: "/wiki/concepts/premiumbottledwatereconomics/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14209
+wiki_total_pages: 14217
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "DaveMcCormick"
     title: "Dave McCormick"
     url: "/wiki/entities/davemccormick/"
+  - key: "DaveRathbun"
+    title: "Dave Rathbun"
+    url: "/wiki/entities/daverathbun/"
   - key: "DaveReibstein"
     title: "Dave Reibstein"
     url: "/wiki/entities/davereibstein/"
@@ -716,6 +719,9 @@ wiki_pages:
   - key: "DeutscheBahn"
     title: "Deutsche Bahn"
     url: "/wiki/entities/deutschebahn/"
+  - key: "DevilsPunchbowlNaturalArea"
+    title: "Devil's Punchbowl Natural Area"
+    url: "/wiki/entities/devilspunchbowlnaturalarea/"
   - key: "Devin"
     title: "Devin"
     url: "/wiki/entities/devin/"

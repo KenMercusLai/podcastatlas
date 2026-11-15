@@ -39866,3 +39866,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | From Valley of Shadows: The Devil's Punchbowl
+
+Added the [[RevisionistHistory]] feed introduction to [[ValleyOfShadowsPodcast|Valley of Shadows]], in which [[BetsyShepherd]] and [[HaleyFox]] reconstruct [[JohnAjay]]'s 1998 disappearance from [[DevilsPunchbowlNaturalArea|Devil's Punchbowl]] and examine the [[LosAngelesCountySheriffsDepartment|LASD]] response. Created bounded profiles for Ajay, [[MikeBauer]], [[DaveRathbun]], the reporters, LASD, the landscape, and the series; added [[PrematureInvestigativeClosure]] and [[RestrictedCaseFileOpacity]].
+
+Core synthesis: Ajay's endurance, wilderness skill, partial return-route sightings, and the difficult search terrain make ordinary assumptions about a missing hiker unreliable; the reported appearance of a suicide theory by day three, search termination on day six, unclear case ownership, and unusual later file restrictions warrant process scrutiny. They do not establish accident, suicide, voluntary disappearance, homicide, or cover-up. No settled contradiction was adopted. Colleagues' suicide interpretations conflict, while sightings, search norms, internal reports, access restrictions, quotations, drug-trade leads, and later-season allegations remain episode-scoped because the supplied file is a structured summary rather than a transcript, operational log, case file, death certificate, records production, or forensic review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,986 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
