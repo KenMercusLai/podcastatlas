@@ -34617,6 +34617,45 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/blackamericangiswartimebritain/"
     },
+    "BlackBerry": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-EricM-v2 [TSR-S4-EricM-v2].md",
+          "key": "tsr-s4-ericm-v2-tsr-s4-ericm-v2",
+          "show": "The Social Radars",
+          "title": "Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself",
+          "url": "/wiki/sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2/"
+        },
+        {
+          "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
+          "key": "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The BlackBerry Problem | The Mistakes Series",
+          "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/blackberry/"
+    },
+    "BlackBerryMessenger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
+          "key": "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The BlackBerry Problem | The Mistakes Series",
+          "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/blackberrymessenger/"
+    },
     "BlackCatDetectiveAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -110718,9 +110757,9 @@
       "url": "/wiki/concepts/founderarchetypefit/"
     },
     "FounderBoardRelationshipMaintenance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
@@ -110728,9 +110767,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
           "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        },
+        {
+          "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
+          "key": "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The BlackBerry Problem | The Mistakes Series",
+          "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/founderboardrelationshipmaintenance/"
     },
     "FounderDelegationDiscipline": {
@@ -163374,6 +163420,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/jiluoshanbattlelatehan/"
     },
+    "JimBalsillie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
+          "key": "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The BlackBerry Problem | The Mistakes Series",
+          "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jimbalsillie/"
+    },
     "JimCallaghan": {
       "episode_count": 3,
       "show_count": 1,
@@ -207051,6 +207113,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/miguelgomez/"
+    },
+    "MikeLazaridis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
+          "key": "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The BlackBerry Problem | The Mistakes Series",
+          "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/mikelazaridis/"
     },
     "MikePitts": {
       "episode_count": 1,
@@ -271094,6 +271172,36 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/selfdirectedstateshifting/"
+    },
+    "SelfDisruptionDiscipline": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "AHARO4500147412 [AHARO4500147412].md",
+          "key": "enterprise-sales-with-no-product-landing-a-big-four-customer",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales With No Product: Landing a Big Four Customer",
+          "url": "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"
+        },
+        {
+          "episode_file": "TSR-S3-RonConwayEp1-v4Final [TSR-S3-RonConwayEp1-v4Final].md",
+          "key": "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final",
+          "show": "The Social Radars",
+          "title": "Ron Conway on National Semiconductor, Altos, and Early Angel Investing",
+          "url": "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+        },
+        {
+          "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
+          "key": "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "The BlackBerry Problem | The Mistakes Series",
+          "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/selfdisruptiondiscipline/"
     },
     "SelfDoubtAsCreativeCheck": {
       "episode_count": 2,

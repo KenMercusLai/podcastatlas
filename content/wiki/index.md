@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The BlackBerry Problem | The Mistakes Series](sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series.md) — Revisionist History on BlackBerry's rejected BBM services pivot and why evidence, trust, and board coalition work are distinct requirements.
 - [The Trust Diagnosis](sources/the-trust-diagnosis.md) — Revisionist History case study on conflicting prostate-cancer advice, disciplined second opinions, diagnostic uncertainty, and trust earned through candid reasoning rather than promised outcomes.
 - [The Great American Elevator Tragedy | The Mistakes Series](sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series.md) — Revisionist History on high American elevator costs, large-cabin rules, model-code diffusion, and the tradeoff between ideal emergency performance and broad everyday access.
 - [Revisited: Ms. Buchanan’s Period of Adjustment](sources/revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment.md) — Revisionist History revisits Brown through family choice, teacher gatekeeping, and the displacement of Black educators during integration.
@@ -5101,6 +5102,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 
 ## Entities
+- [Jim Balsillie](entities/JimBalsillie.md) — BlackBerry co-CEO whose rejected cross-platform BBM strategy became a case in strategic foresight, board power, and relational persuasion.
+- [Mike Lazaridis](entities/MikeLazaridis.md) — BlackBerry engineering co-CEO associated with the hardware side of the company's 2011 strategic conflict.
+- [BlackBerry Messenger](entities/BlackBerryMessenger.md) — BlackBerry messaging network proposed as a carrier-bundled, cross-platform post-handset service.
 - [Center for Building in North America](entities/CenterForBuildingInNorthAmerica.md) — Stephen Smith's research organization for comparative building codes and construction practices.
 - [Gregory A. Victor](entities/GregoryAVictor.md) — Glendale fire official who sponsored the seven-foot stretcher elevator amendment.
 - [International Code Council](entities/InternationalCodeCouncil.md) — Model-code organization whose widely adopted building rules can give technical amendments national reach.
@@ -28461,7 +28465,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fixed Human Nature Politics](concepts/FixedHumanNaturePolitics.md) — Political-theory worry that people get treated as permanently defined by one bad nature, species category, class, or identity.
 - [Author-Character Separation](concepts/AuthorCharacterSeparation.md) — Interpretive discipline of not treating a fictional narrator's claims or collapse as the author's direct doctrine.
 - [Founder Agreement Documentation](concepts/FounderAgreementDocumentation.md) — Discipline of writing equity, role, authority, cash, leave, return, and crisis expectations before founder trust is tested by pressure.
-- [Founder-Board Relationship Maintenance](concepts/FounderBoardRelationshipMaintenance.md) — Continuing alignment work that makes founder role, strategy, mission, capital, and executive conflict legible to directors before crisis.
+- [Founder-Board Relationship Maintenance](concepts/FounderBoardRelationshipMaintenance.md) — Continuing alignment work that makes founder role, strategy, mission, and radical pivots legible to directors before crisis or formal rejection.
 - [Fintech Regulatory Window](concepts/FintechRegulatoryWindow.md) — Period when rails, regulators, capital, and incumbent distrust align enough for new financial startups to enter banking or payments markets.
 - [In-House Banking Software](concepts/InHouseBankingSoftware.md) — Building banking, fraud, customer, and operational systems internally so product experience and risk response can move faster.
 - [Banking Product Delight](concepts/BankingProductDelight.md) — User trust and enthusiasm created when financial products make everyday money activity clearer, faster, and more human.
@@ -28770,7 +28774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Pressure Compartmentalization](concepts/FounderPressureCompartmentalization.md) — Founder stress-management pattern of isolating high-pressure problem domains so action can continue under uncertainty.
 - [Founder Advocacy](concepts/FounderAdvocacy.md) — Investor stance where defending and helping founders is treated as part of the job rather than a courtesy after the check.
 - [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
-- [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
+- [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Recognition, replacement capability, and institutional authorization for redirecting an incumbent before the next platform shift forces the change.
 - [Semiconductor Talent Genealogy](concepts/SemiconductorTalentGenealogy.md) — Silicon Valley talent-transfer pattern where semiconductor operators carried technical, sales, equity, and management norms into hardware, software, and later AI layers.
 - [Organized Angel Investor Networks](concepts/OrganizedAngelInvestorNetworks.md) — Early-stage investing structure where recurring meetings, trusted operators, founder pitches, and individual checks make angel investing repeatable.
 - [Equity Compensation Upside](concepts/EquityCompensationUpside.md) — Startup and technology-company compensation pattern where employee ownership can create major upside when timing and company trajectory align.

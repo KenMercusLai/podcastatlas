@@ -4,7 +4,8 @@ type: concept
 tags: [startups, governance, founders, boards]
 sources:
   - seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa
-last_updated: 2026-09-28
+  - the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,12 +17,13 @@ Founder-board relationship maintenance is the continuing work of keeping directo
 
 ## Current Synthesis
 
-The Seventh Generation case shows that board design and voting rights are only part of governance. Both [[AlanNewman]] and [[JeffreyHollender]] were removed in different periods, and both later connected those outcomes to weak board relationships as well as their own stubbornness or failure to bring others along. The concept therefore treats board trust as an operating responsibility without assuming that relationship quality erases genuine disagreements over leadership, mission, activism, employee ownership, or capital.
+The Seventh Generation and BlackBerry cases show that board design and voting rights are only part of governance. [[AlanNewman]] and [[JeffreyHollender]] connected separate removals to weak board relationships, while [[JimBalsillie]] connected the rejection of a radical services strategy to his failure to prepare, persuade, and reassure directors. Board trust is therefore an operating responsibility for role conflicts and strategic pivots alike, without implying that relationship quality erases genuine disagreement or guarantees approval.
 
 ## Key Claims
 
 - Founders need board relationships before a crisis because formal authority becomes decisive when roles, performance, or direction are contested.
 - A founder's strategic conviction does not substitute for explaining the plan, hearing objections, and building enough shared judgment for directors to support it.
+- A radical pivot requires more relational preparation than continuity because directors must revise assumptions about assets, identity, risk, and the existing business.
 - Changes in CEO duties, public activism, capital plans, employee ownership, and executive relationships should be made legible to the board rather than left as personal understandings.
 - Similar founder ousters can arise from different disputes, so board maintenance should not be reduced to a single control tactic.
 - Relationship maintenance cannot guarantee founder tenure, but neglect can make disagreement harder to resolve without removal.
@@ -30,15 +32,17 @@ The Seventh Generation case shows that board design and voting rights are only p
 
 - Parallel founder removals: [[seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa]] records Alan's recognition that both he and Jeffrey failed to maintain strong relationships with their boards before being removed.
 - Strategy and mission alignment: [[seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa]] describes Jeffrey's disputes over capital raising, activism, employee ownership, executive conflict, and the scope of his CEO role, then records his later view that he had not sufficiently brought the board along.
+- Radical strategic change: [[the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series]] records Balsillie's view that he had strong evidence, BBM scale, and carrier support but failed to build board understanding and commitment before asking BlackBerry to abandon hardware.
+- Formal authority: [[the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series]] says the board cancelled the services initiative shortly before launch, demonstrating that an executive's strategic record does not displace directors' decision power.
 
 ## Counterevidence & Qualifications
 
-The source is a joint founder retrospective, not board minutes or a complete independent governance record. Strong relationships can also conceal poor oversight, and directors may properly remove a founder despite excellent communication. The narrower claim is that ongoing alignment improves the chance that real disagreements are understood before they become terminal.
+Both sources are founder or executive retrospectives rather than board minutes or complete independent governance records. Strong relationships can conceal poor oversight, and directors may properly reject a strategy or remove a founder despite excellent communication. The BlackBerry source does not prove that better persuasion would have produced approval or that the BBM counterfactual would have succeeded. The narrower claim is that ongoing alignment improves the chance that real disagreements are understood before they become terminal.
 
 ## What Changed
 
-- Created the concept from the parallel Seventh Generation founder-ouster pattern.
-- Separated relational board work from formal founder control and board composition.
+- Extended the concept from founder removal to board authorization of a radical strategic pivot.
+- Added the distinction between having evidence for a strategy and building collective commitment to execute it.
 
 ## Related Concepts
 
@@ -47,3 +51,4 @@ The source is a joint founder retrospective, not board minutes or a complete ind
 - [[CoFounderRelationshipMaintenance]] - analogous recurring work inside the founding team.
 - [[FounderAgreementDocumentation]] - written expectations that support but do not replace trust.
 - [[FounderRoleTransition]] - role changes that require explicit board alignment.
+- [[SelfDisruptionDiscipline]] - strategic willingness that still requires board authorization and coalition work.

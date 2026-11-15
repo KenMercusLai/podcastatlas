@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3530
+topic_total_pages: 3532
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6950,6 +6950,9 @@ topic_entities:
   - key: "JibinKingdomWesternHan"
     title: "Jibin / 罽宾 (Western Han)"
     url: "/wiki/entities/jibinkingdomwesternhan/"
+  - key: "JimBalsillie"
+    title: "Jim Balsillie"
+    url: "/wiki/entities/jimbalsillie/"
   - key: "JimCallaghan"
     title: "Jim Callaghan"
     url: "/wiki/entities/jimcallaghan/"
@@ -9939,6 +9942,9 @@ topic_sources:
   - key: "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128"
     title: "The Apple vs. OpenAI legal showdown"
     url: "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+  - key: "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series"
+    title: "The BlackBerry Problem | The Mistakes Series"
+    url: "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
   - key: "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f"
     title: "The case of the missing totem: Aung San Suu Kyi"
     url: "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"

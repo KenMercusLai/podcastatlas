@@ -53713,6 +53713,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "JimBalsillie": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JimCallaghan": [
     {
       "key": "politics",
@@ -64205,6 +64212,13 @@
     }
   ],
   "MikeIsaac": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MikeLazaridis": [
     {
       "key": "technology",
       "label": "Technology",
@@ -113814,6 +113828,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "the-business-of-heated-rivalry": [

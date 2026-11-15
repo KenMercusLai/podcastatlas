@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14185
+wiki_total_pages: 14188
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "BlackBerry"
     title: "BlackBerry"
     url: "/wiki/entities/blackberry/"
+  - key: "BlackBerryMessenger"
+    title: "BlackBerry Messenger"
+    url: "/wiki/entities/blackberrymessenger/"
   - key: "Blackmores"
     title: "Blackmores / 澳佳宝"
     url: "/wiki/entities/blackmores/"

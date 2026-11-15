@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14185
+wiki_total_pages: 14188
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "MikeIsaac"
     title: "Mike Isaac"
     url: "/wiki/entities/mikeisaac/"
+  - key: "MikeLazaridis"
+    title: "Mike Lazaridis"
+    url: "/wiki/entities/mikelazaridis/"
   - key: "MikeMoritz"
     title: "Mike Moritz"
     url: "/wiki/entities/mikemoritz/"

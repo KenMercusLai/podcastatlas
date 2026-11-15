@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3852
+topic_total_pages: 3853
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7583,6 +7583,9 @@ topic_entities:
   - key: "MikeIsaac"
     title: "Mike Isaac"
     url: "/wiki/entities/mikeisaac/"
+  - key: "MikeLazaridis"
+    title: "Mike Lazaridis"
+    url: "/wiki/entities/mikelazaridis/"
   - key: "MikePavelko"
     title: "Mike Pavelko"
     url: "/wiki/entities/mikepavelko/"

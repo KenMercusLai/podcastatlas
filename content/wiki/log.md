@@ -39553,6 +39553,11 @@ No settled contradiction was adopted. AFK's architecture, model sizes, task-repr
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-15] ingest | The BlackBerry Problem | The Mistakes Series
+
+Added the [[RevisionistHistory]] episode in which [[JimBalsillie]] revisits [[BlackBerry]]'s rejected 2011 plan to turn [[BlackBerryMessenger|BlackBerry Messenger]] into a carrier-bundled, cross-platform service. Created bounded profiles for Balsillie, [[MikeLazaridis]], and BBM; and resynthesized BlackBerry, [[FounderBoardRelationshipMaintenance]], and [[SelfDisruptionDiscipline]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Balsillie's proposal joined a large messaging network, expanded service capabilities, and reported carrier commitments, but strategic recognition and preparation did not become board authorization. The episode treats his mistake as underinvesting in repeated explanation, trust, reassurance, and coalition-building while overestimating what evidence and his prior record could accomplish alone. No settled factual contradiction was adopted. The claim that open BBM would certainly have remained a major force is counterfactual, and user counts, commitments, timing, motives, and remembered dialogue remain episode-attributed because the supplied file is a structured summary rather than the transcript, board record, consultant report, launch plan, carrier agreements, or market study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,978 sources across 810 overview paragraphs and nine topics.
 
 ## [2026-11-15] ingest | From The Big Dig: Mitt & Ted
 

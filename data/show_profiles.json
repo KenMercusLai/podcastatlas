@@ -912,14 +912,14 @@
       "earliest_episode_date": "2025-01-23",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 23,
-      "topic_matched_source_note_count": 12,
+      "source_note_count": 24,
+      "topic_matched_source_note_count": 13,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 9
+          "source_note_count": 10
         },
         {
           "key": "history",
