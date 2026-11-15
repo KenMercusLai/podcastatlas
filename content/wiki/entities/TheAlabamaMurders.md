@@ -6,6 +6,7 @@ sources:
   - understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad
   - the-alabama-murders-part-7-the-second-warrant
   - the-alabama-murders-part-6-the-porterfield-sessions
+  - the-alabama-murders-part-5-cruel-and-unusual
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -18,12 +19,12 @@ last_updated: 2026-11-15
 
 ## Current Profile
 
-The project follows the killing of [[ElizabethSennett]] and the treatment of John Parker and [[KennethSmith]], the two men convicted of killing her. Its wider inquiry moves through developmental trauma, lethal injection, nitrogen hypoxia, judicial override, racial history, secrecy, and the moral limits of state punishment. Porterfield's sessions connect Smith's failed execution to bodily memory and his childhood experience of domestic violence and premature caregiving without excusing the murder. The final episode then tests Alabama's first-use nitrogen protocol against courtroom admissions, animal research, expert warnings, eyewitness observation, and the state's success narrative.
+The project follows the killing of [[ElizabethSennett]] and the treatment of John Parker and [[KennethSmith]], the two men convicted of killing her. Its wider inquiry moves through developmental trauma, lethal injection, nitrogen hypoxia, judicial override, racial history, secrecy, and the moral limits of state punishment. Part 5 reconstructs the gap between Smith's 11-1 jury recommendation for life and his death sentence, then between lethal injection's clinical appearance and hours of hidden access attempts. Porterfield's sessions connect that failed execution to bodily memory and childhood violence without excusing the murder; the finale tests Alabama's first-use nitrogen protocol against courtroom admissions, animal research, expert warnings, eyewitness observation, and the state's success narrative.
 
 ## Key Characteristics
 
 - Began from Kate Porterfield's trauma work rather than a preselected death-penalty thesis.
-- Uses individual cases to examine institutional procedure and hidden suffering.
+- Uses individual cases, repeated access failures, and hidden staff qualifications to examine institutional procedure, concealed suffering, and whether procedural calm represents competence.
 - Connects execution methods to courts, bureaucracy, racial history, and public perception.
 - Develops an abolitionist argument that survives hypothetical procedural perfection.
 - Preserves the grief of the victim's family while examining trauma imposed on the condemned person, his family, clinicians, and counsel.
@@ -40,6 +41,7 @@ The project follows the killing of [[ElizabethSennett]] and the treatment of Joh
 ### Institutional scope
 
 - [[understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad]] connects the series to method design, judicial override, secrecy, racial violence, and abolition.
+- [[the-alabama-murders-part-5-cruel-and-unusual]] reconstructs Smith's judicial override, the James and Miller access failures, Smith's prolonged first attempt, and Alabama's decision to extend the execution window.
 
 ### Final protocol test and human aftermath
 
@@ -48,13 +50,13 @@ The project follows the killing of [[ElizabethSennett]] and the treatment of Joh
 
 ## Qualifications
 
-This profile derives from one interview summary and structured summaries of Parts 6 and 7 rather than the complete series, transcripts, production archive, court files, family testimony, clinical evidence, execution records, or a developed defense of Alabama's method and capital punishment. Childhood trauma does not establish a deterministic path to violence or excuse the murder. Witness movement cannot establish Smith's subjective awareness or pain, and the animal study cannot be transferred directly to a human execution without fuller evidence.
+This profile derives from one interview summary and structured summaries of Parts 5-7 rather than the complete series, transcripts, production archive, court files, family testimony, clinical evidence, execution records, or a developed defense of Alabama's methods and capital punishment. Childhood trauma does not establish a deterministic path to violence or excuse the murder. Smith's reported first-attempt experience, autopsy interpretation, witness movement, and animal findings require their underlying evidence and do not independently resolve staff competence, awareness, pain, or legality.
 
 ## What Changed
 
-- Added the series' distinction between contextualizing violence and excusing it.
-- Connected failed-execution trauma to childhood domestic violence, premature caregiving, and embodied memory.
-- Clarified how victim and perpetrator categories can overlap without making different harms equivalent.
+- Added Part 5's jury-override and first-attempt reconstruction to the series profile.
+- Made the lethal-injection critique more specific: clinical staging, undisclosed qualifications, prior access failures, hidden preparation, and deadline pressure interact.
+- Added Alabama's extended execution window as institutional response without assuming that more time resolved competence or suffering.
 
 ## Relationships
 

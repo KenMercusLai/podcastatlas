@@ -4,6 +4,7 @@ type: concept
 tags: [trauma, ptsd, capital-punishment, anticipated-death]
 sources:
   - the-alabama-murders-part-6-the-porterfield-sessions
+  - the-alabama-murders-part-5-cruel-and-unusual
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -18,7 +19,7 @@ Failed execution trauma is the psychological and bodily injury that may follow s
 
 The source distinguishes this experience from a mock execution. Both can create overwhelming terror by making death feel immediate, but a failed execution includes an institution's actual authority and intention to kill, prolonged procedural action, loss of control, and survival caused by operational failure rather than withdrawal of a staged threat. Memory can remain coupled to bodily alarm, while future warrants, reused settings, or related procedures may make the danger prospective as well as remembered.
 
-In Smith's reported case, nightmares, intrusive images, nausea, sweating, exhaustion, avoidance, and later depression followed a lethal-injection attempt in which personnel repeatedly sought intravenous access. His attention to family love after the attempt is presented as both a possible avoidance strategy and a meaningful survival anchor, not evidence that the event caused no injury.
+In Smith's reported case, the precipitating event involved hours of restraint, repeated arm punctures, attempted central-line placement, searing pain, breathing difficulty, panic, and immediate inability to walk or dress without help. Nightmares, intrusive images, nausea, sweating, exhaustion, avoidance, and later depression reportedly followed. His attention to family love after the attempt is presented as both a possible avoidance strategy and a meaningful survival anchor, not evidence that the event caused no injury.
 
 ## Key Claims
 
@@ -34,6 +35,7 @@ In Smith's reported case, nightmares, intrusive images, nausea, sweating, exhaus
 ### Anticipated death and genuine intent
 
 - [[the-alabama-murders-part-6-the-porterfield-sessions]] reports Porterfield's distinction between staged near-death threats and Alabama's genuine but unsuccessful attempt to kill Smith.
+- [[the-alabama-murders-part-5-cruel-and-unusual]] reconstructs the genuine attempt as prolonged restraint, repeated arm punctures, attempted central-line placement, reported pain and breathing difficulty, and abandonment only near the warrant deadline.
 
 ### Embodied aftermath
 
@@ -45,12 +47,12 @@ In Smith's reported case, nightmares, intrusive images, nausea, sweating, exhaus
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on one podcast episode's account of one clinician and one person rather than a comparative evidence base. The source does not provide Porterfield's full report, diagnostic testing, treatment records, or competing evaluation. Symptoms such as nightmares, depression, nausea, sweating, and exhaustion are not specific to one diagnosis, and no subjective experience should be inferred for other people who survive execution attempts. Clinical context does not excuse the underlying crime or make the victim's loss interchangeable with state-inflicted trauma.
+The concept currently rests on two related podcast episodes' accounts of one clinician and one person rather than a comparative evidence base. The sources do not provide Porterfield's full report, Smith's commissioned medical report, diagnostic testing, treatment records, or a competing evaluation. Symptoms such as nightmares, depression, nausea, sweating, and exhaustion are not specific to one diagnosis, and no subjective experience should be inferred for other people who survive execution attempts. Clinical context does not excuse the underlying crime or make the victim's loss interchangeable with state-inflicted trauma.
 
 ## What Changed
 
-- Created a bounded framework distinguishing failed execution from simulated anticipated-death trauma.
-- Connected bodily memory, avoidance, attachment, and renewed credible threat without generalizing beyond the supplied case.
+- Added the event-level account of restraint, invasive attempts, pain, panic, breathing difficulty, and immediate physical impairment that precedes the later clinical assessment.
+- Strengthened the distinction between an interrupted state killing and a simulated threat while retaining the single-case evidence boundary.
 
 ## Related Concepts
 

@@ -6,6 +6,7 @@ sources:
   - understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad
   - the-alabama-murders-part-7-the-second-warrant
   - the-alabama-murders-part-6-the-porterfield-sessions
+  - the-alabama-murders-part-5-cruel-and-unusual
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -18,23 +19,24 @@ Kenneth “Kenny” Smith is presented as one of two men convicted of killing El
 
 ## Current Profile
 
-The sources use Smith's case to expose the gap between controlled execution protocols and lived procedure. Alabama's unsuccessful attempt to establish intravenous access occurred outside ordinary clinical conditions and largely outside witness view. Porterfield's account adds a developmental history of domestic violence, childhood caregiving, and later heavy drinking, while carefully treating these as context rather than excuse for Sennett's murder. She says the failed attempt caused severe post-traumatic stress and later depression; Alabama then isolated Smith under a second warrant and executed him with a first-use nitrogen-hypoxia protocol.
+The sources use Smith's case to expose the gap between formal sentencing and execution protocols and lived procedure. His jury recommended life imprisonment without parole 11-1, but the judge imposed death. During Alabama's first attempt to execute him, personnel repeatedly sought arm and central venous access over several hours, largely outside witness view, before the warrant expired. Porterfield's account adds a developmental history of domestic violence, childhood caregiving, and later heavy drinking while treating these as context rather than excuse for Sennett's murder. She says the failed attempt caused severe post-traumatic stress and later depression; Alabama then isolated Smith under a second warrant and executed him with a first-use nitrogen-hypoxia protocol.
 
 ## Key Characteristics
 
 - Alabama capital defendant and subject of [[TheAlabamaMurders]].
-- Survived a failed lethal-injection attempt after prolonged intravenous-access efforts.
+- Received a death sentence through judicial override after an 11-1 jury recommendation for life without parole.
+- Survived a failed lethal-injection attempt after prolonged arm and central-line access efforts.
 - Became a central case in the adoption of nitrogen hypoxia.
 - Illustrates how restricted observation can hide execution preparation and failure.
 - Was reported by [[KatePorterfield]] to have developed execution-induced nightmares, depression, nausea, and severe post-traumatic stress.
-- Was described by family witnesses as a child exposed to domestic violence who assumed care for his mother before later developing heavy alcohol use.
-- Used apology, farewell, family love, and faith to orient himself during and after the failed attempt.
+- Was described through family and clinical testimony as carrying developmental trauma while using apology, farewell, family love, and faith to orient himself during and after the failed attempt.
 
 ## Evidence
 
 ### Capital case and failed procedure
 
 - [[understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad]] connects Smith to the Sennett killing, the failed intravenous-access attempt, and Alabama's later nitrogen-hypoxia method.
+- [[the-alabama-murders-part-5-cruel-and-unusual]] reports the jury recommendation, judicial override, late litigation, repeated arm and chest access attempts, Smith's pain and panic, his post-attempt impairment, and abandonment near the warrant deadline.
 
 ### Institutional meaning
 
@@ -52,14 +54,13 @@ The sources use Smith's case to expose the gap between controlled execution prot
 
 ## Qualifications
 
-This is not a complete account of the murder, Smith's conduct, trial, appeals, victims, sentencing record, childhood, substance use, failed execution, PTSD diagnosis, or nitrogen execution. The three sources are related podcast material rather than independent confirmation. Developmental trauma may contextualize later violence but does not establish a single causal path or diminish responsibility. Witness observation cannot determine subjective awareness or pain, and the family, clinical, medical, legal, and procedural claims require underlying records and specialist evidence.
+This is not a complete account of the murder, Smith's conduct, trial, appeals, victims, sentencing record, childhood, substance use, failed execution, PTSD diagnosis, or nitrogen execution. The four sources are related podcast material rather than independent confirmation. Developmental trauma may contextualize later violence but does not establish a single causal path or diminish responsibility. The first-attempt account partly relies on Smith and a report commissioned by his legal team; the medical, legal, procedural, and clinical claims require underlying records, state responses, and specialist evidence.
 
 ## What Changed
 
-- Added Smith's reported childhood exposure to domestic violence, premature caregiving, and later heavy drinking.
-- Clarified the clinical distinction between a mock execution and a procedure genuinely intended to kill him.
-- Added apology, farewell, faith, and family love as simultaneous meaning-making and avoidance contexts.
-- Preserved responsibility for Sennett's murder while adding developmental context.
+- Added the 11-1 life recommendation and judicial override to the sentencing profile.
+- Reconstructed the first attempt as hours of hidden arm and central-line access efforts rather than a generic IV failure.
+- Added Smith's reported pain, panic, breathing difficulty, and immediate physical impairment as the event preceding the later trauma assessment.
 
 ## Relationships
 

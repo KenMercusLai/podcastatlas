@@ -943,7 +943,7 @@
       "earliest_episode_date": "2023-12-04",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 40,
+      "source_note_count": 41,
       "topic_matched_source_note_count": 16,
       "topics": [
         {
@@ -980,6 +980,13 @@
           "episode_count": 12
         },
         {
+          "key": "KennethSmith",
+          "title": "Kenneth Smith",
+          "url": "/wiki/entities/kennethsmith/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "BenNaddaffHafrey",
           "title": "Ben Naddaff-Hafrey",
           "url": "/wiki/entities/bennaddaffhafrey/",
@@ -994,16 +1001,16 @@
           "episode_count": 3
         },
         {
-          "key": "GuyMolinari",
-          "title": "Guy Molinari",
-          "url": "/wiki/entities/guymolinari/",
+          "key": "ElizabethSennett",
+          "title": "Elizabeth Sennett",
+          "url": "/wiki/entities/elizabethsennett/",
           "kind": "person",
           "episode_count": 3
         },
         {
-          "key": "KennethSmith",
-          "title": "Kenneth Smith",
-          "url": "/wiki/entities/kennethsmith/",
+          "key": "GuyMolinari",
+          "title": "Guy Molinari",
+          "url": "/wiki/entities/guymolinari/",
           "kind": "person",
           "episode_count": 3
         },
@@ -1018,13 +1025,6 @@
           "key": "DavidKennedyCriminologist",
           "title": "David M. Kennedy",
           "url": "/wiki/entities/davidkennedycriminologist/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "ElizabethSennett",
-          "title": "Elizabeth Sennett",
-          "url": "/wiki/entities/elizabethsennett/",
           "kind": "person",
           "episode_count": 2
         }
