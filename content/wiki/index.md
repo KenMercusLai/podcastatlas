@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Revisionist History is Back](sources/revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Season preview spanning PAW Patrol, George Floyd, English muffins, raccoon research, face recognition, and RFK Jr., with later full episodes supplying the substantive evidence.
 - [史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普](sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb.md) — 史蒂夫说把日常情感操纵理解为解释权、注意力与关系权力问题，并以延迟回应、保留判断、外部参照和安全边界提出分阶段应对。
 - [Memorial Day, 2020 | Part 1](sources/memorial-day-2020-part-1-memorial-day-2020-part-1.md) — Revisionist History connects decision fixation, hostile-intent attribution, escalating medical warnings, and a prior recorded restraint to the preventable institutional failure behind George Floyd's death.
 - [Did I Really Do That?](sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014.md) — Hidden Brain and Saul Kassin on false-confession pathways, confession-driven evidence contamination, and transparent hypothesis-testing investigation.

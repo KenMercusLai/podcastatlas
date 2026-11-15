@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, perception, social-cognition, prosopagnosia]
 sources:
   - face-value-face-value
-last_updated: 2026-11-15
+  - revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -49,13 +50,17 @@ The spectrum has an interpersonal consequence. A recognition failure can look li
 
 - [[face-value-face-value]] uses Clinton's long-delay recognition stories as suggestive while explicitly noting that he has not confirmed or formally demonstrated super-recognition.
 
+### Promotional-context ambiguity
+
+- [[revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0]] summarizes a brief Sullivan clip as recognition difficulty, but provides too little context to outweigh or reconcile the later controlled-test account.
+
 ## Counterevidence & Qualifications
 
-The source is a structured public-podcast summary, not a diagnostic manual, methods paper, or population study. Its roughly three-percent prosopagnosia estimate, fewer-than-two-percent super-recognizer estimate, integrated-face-processing account, evolutionary explanation, genetic claim, and test interpretation lack methods here. Recognition can also depend on context, exposure, attention, memory, culture, image quality, and expectation. The concept should not be used to diagnose a person from an awkward encounter or to excuse deliberate disregard without further evidence.
+The sources are structured public-podcast summaries, not a diagnostic manual, methods paper, or population study. Their roughly three-percent prosopagnosia estimate, fewer-than-two-percent super-recognizer estimate, integrated-face-processing account, evolutionary explanation, genetic claim, and test interpretation lack methods here. The teaser's contrary Sullivan framing may reflect omitted context or attribution and cannot establish variability in her tested ability. Recognition can also depend on context, exposure, attention, memory, culture, image quality, and expectation. The concept should not be used to diagnose a person from an awkward encounter or to excuse deliberate disregard without further evidence.
 
 ## What Changed
 
-- Created a spectrum model joining prosopagnosia, typical performance, controlled super-recognition, compensation, and social interpretation.
+- Qualified the model with a teaser-level framing conflict while retaining controlled multi-task evidence as the stronger basis for classification.
 
 ## Related Concepts
 

@@ -102948,9 +102948,9 @@
       "url": "/wiki/concepts/faceprojectgovernance/"
     },
     "FaceRecognitionAbilitySpectrum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Face_Value [Face_Value].md",
@@ -102958,9 +102958,16 @@
           "show": "Revisionist History",
           "title": "Face Value",
           "url": "/wiki/sources/face-value-face-value/"
+        },
+        {
+          "episode_file": "Revisionist_History_is_Back [Revisionist_History_is_Back.mp3？t=1758560904&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae320.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzIwMjYxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0",
+          "show": "Revisionist History",
+          "title": "Revisionist History is Back",
+          "url": "/wiki/sources/revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/facerecognitionabilityspectrum/"
     },
     "FaceSavingRemonstrance": {
@@ -194740,9 +194747,9 @@
       "url": "/wiki/entities/lucylethbridge/"
     },
     "LucySullivan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Face_Value [Face_Value].md",
@@ -194750,9 +194757,16 @@
           "show": "Revisionist History",
           "title": "Face Value",
           "url": "/wiki/sources/face-value-face-value/"
+        },
+        {
+          "episode_file": "Revisionist_History_is_Back [Revisionist_History_is_Back.mp3？t=1758560904&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae320.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzIwMjYxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0",
+          "show": "Revisionist History",
+          "title": "Revisionist History is Back",
+          "url": "/wiki/sources/revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/lucysullivan/"
     },
     "LudwigBeck": {

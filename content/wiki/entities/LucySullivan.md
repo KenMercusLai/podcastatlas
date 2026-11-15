@@ -4,7 +4,8 @@ type: entity
 tags: [person, producer, face-recognition, podcasting]
 sources:
   - face-value-face-value
-last_updated: 2026-11-15
+  - revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Lucy Sullivan is a producer on [[RevisionistHistory]] whose exceptional ability 
 Sullivan contrasts her durable recognition of briefly encountered people with [[MalcolmGladwell]] and [[JJGoode]]'s difficulty identifying familiar faces. Informal online results led her to a controlled three-hour battery administered through [[JoeDeGutis]]'s laboratory. The episode reports perfect performance on two measures and exceptional learning and identification of unfamiliar faces, leading DeGutis to call her the “complete package” for a super recognizer.
 
 Her role is both personal and journalistic: she uses her own testing to make the high end of the [[FaceRecognitionAbilitySpectrum]] concrete, while keeping the episode's claim about [[BillClinton]] explicitly speculative because he was not tested.
+
+An earlier season teaser introduces her with a clip summarized as difficulty recognizing faces and fear that she had ignored someone. Because the short context conflicts with the later episode's detailed examples and controlled testing, it is retained as an unresolved teaser-level ambiguity rather than evidence that reverses her profile.
 
 ## Key Characteristics
 
@@ -42,13 +45,17 @@ Her role is both personal and journalistic: she uses her own testing to make the
 
 - [[face-value-face-value]] presents Clinton as a probable rather than confirmed super recognizer and notes the absence of public confirmation or formal demonstration.
 
+### Teaser ambiguity
+
+- [[revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0]] introduces Sullivan as the newest team member but summarizes its brief clip as recognition difficulty, without enough context to reconcile that framing with the later test account.
+
 ## Qualifications
 
-The profile rests on one structured episode summary rather than test records, methods, normative data, or independent evaluation. “Super recognizer” describes exceptional task performance, not infallibility, a diagnosis, or a general memory advantage. The episode-reported prevalence estimate and exact interpretation of Sullivan's scores remain source-scoped.
+The profile rests on structured episode summaries rather than test records, methods, normative data, or independent evaluation. “Super recognizer” describes exceptional task performance, not infallibility, a diagnosis, or a general memory advantage. The episode-reported prevalence estimate and exact interpretation of Sullivan's scores remain source-scoped. The teaser's contrary wording may reflect omitted context or speaker attribution, but that cannot be established from the supplied file.
 
 ## What Changed
 
-- Created a profile distinguishing Sullivan's controlled test result from anecdotal super-recognizer claims.
+- Added the teaser's contrary face-recognition framing as unresolved ambiguity without displacing the later controlled-test account.
 
 ## Relationships
 
