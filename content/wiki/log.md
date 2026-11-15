@@ -40111,3 +40111,13 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Nooks & Crannies
+
+Added the [[RevisionistHistory]] episode on Bimbo Bakeries USA v. Botticella and resynthesized [[ChrisBotticella]], [[BimboBakeries]], [[ThomasEnglishMuffins]], [[TradeSecretAsLaborControl]], and [[NonCompeteAgreements]] from each page's complete preserved evidence inventory before appending the new source once. Created bounded profiles for [[JeannieFromer]], [[ElizabethAinsley]], and [[HostessBrands]].
+
+Core synthesis: the episode supports a legitimate confidentiality concern through Botticella's delayed disclosure, continued access to current planning, and flash-drive activity, but it does not establish that the copied documents contained the famous muffin secret. Ainsley concedes confidential business material while contesting the product-secret framing; an injunction and failed appeal prevented the Hostess employment without a funded full trial before a jury. The case therefore shows how trade-secret law can protect specific valuable knowledge and constrain mobility through pretrial relief, resource asymmetry, and an unresolved boundary between protected information and accumulated expertise. No settled contradiction was adopted. The reported seven-person access limit remains in tension with Botticella's later employee-access claim, and Bimbo's absent recorded response, missing primary files and legal record, advocate testimony, and lack of a full trial keep the merits source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 5,010 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -34020,9 +34020,9 @@
       "url": "/wiki/entities/biltong/"
     },
     "BimboBakeries": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Formula [The_Formula].md",
@@ -34030,6 +34030,13 @@
           "show": "Revisionist History",
           "title": "The Formula",
           "url": "/wiki/sources/the-formula-the-formula/"
+        },
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
         }
       ],
       "updated": "2026-11-15",
@@ -53830,9 +53837,9 @@
       "url": "/wiki/entities/chrisbell/"
     },
     "ChrisBotticella": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Formula [The_Formula].md",
@@ -53840,6 +53847,13 @@
           "show": "Revisionist History",
           "title": "The Formula",
           "url": "/wiki/sources/the-formula-the-formula/"
+        },
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
         }
       ],
       "updated": "2026-11-15",
@@ -90207,6 +90221,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/elizahamilton/"
+    },
+    "ElizabethAinsley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/elizabethainsley/"
     },
     "ElizabethEverest": {
       "episode_count": 1,
@@ -143247,6 +143277,22 @@
       "updated": "2026-10-21",
       "url": "/wiki/concepts/hostelpropertyadaptivereuse/"
     },
+    "HostessBrands": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/hostessbrands/"
+    },
     "HostileMediaEffect": {
       "episode_count": 2,
       "show_count": 2,
@@ -162130,6 +162176,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/jeannedelamotte/"
+    },
+    "JeannieFromer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jeanniefromer/"
     },
     "JeffBuckley": {
       "episode_count": 1,
@@ -222543,6 +222605,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/nonalgorithmiccapabilities/"
+    },
+    "NonCompeteAgreements": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_c0b17d1ee11ae68f4a3178fb13048861_34464148 [default.mp3_ywr3ahjkcgo_c0b17d1ee11ae68f4a3178fb13048861_34464148].md",
+          "key": "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough",
+          "show": "Planet Money",
+          "title": "The real horror of 'Alien' and how it explains why we're not paid enough",
+          "url": "/wiki/sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough/"
+        },
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/noncompeteagreements/"
     },
     "NonDefeatAsVictory": {
       "episode_count": 1,
@@ -303560,9 +303645,9 @@
       "url": "/wiki/entities/thomasedison/"
     },
     "ThomasEnglishMuffins": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Formula [The_Formula].md",
@@ -303570,6 +303655,13 @@
           "show": "Revisionist History",
           "title": "The Formula",
           "url": "/wiki/sources/the-formula-the-formula/"
+        },
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
         }
       ],
       "updated": "2026-11-15",
@@ -307779,9 +307871,9 @@
       "url": "/wiki/concepts/tradediversificationstabilityparadox/"
     },
     "TradeSecretAsLaborControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Formula [The_Formula].md",
@@ -307789,6 +307881,13 @@
           "show": "Revisionist History",
           "title": "The Formula",
           "url": "/wiki/sources/the-formula-the-formula/"
+        },
+        {
+          "episode_file": "Nooks_Crannies [Nooks_Crannies].md",
+          "key": "nooks-crannies-nooks-crannies",
+          "show": "Revisionist History",
+          "title": "Nooks & Crannies",
+          "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
         }
       ],
       "updated": "2026-11-15",

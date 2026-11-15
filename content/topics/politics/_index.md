@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3537
+topic_total_pages: 3538
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6935,6 +6935,9 @@ topic_entities:
   - key: "JeanPaulSartre"
     title: "Jean-Paul Sartre / 萨特"
     url: "/wiki/entities/jeanpaulsartre/"
+  - key: "JeannieFromer"
+    title: "Jeannie Fromer"
+    url: "/wiki/entities/jeanniefromer/"
   - key: "JeannieRhee"
     title: "Jeannie Rhee"
     url: "/wiki/entities/jeannierhee/"

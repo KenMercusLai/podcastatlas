@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14274
+wiki_total_pages: 14277
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1025,6 +1025,9 @@ wiki_pages:
   - key: "HoshinoResorts"
     title: "Hoshino Resorts / 星野集团"
     url: "/wiki/entities/hoshinoresorts/"
+  - key: "HostessBrands"
+    title: "Hostess Brands"
+    url: "/wiki/entities/hostessbrands/"
   - key: "HotMaxx"
     title: "HotMaxx / 好特卖"
     url: "/wiki/entities/hotmaxx/"

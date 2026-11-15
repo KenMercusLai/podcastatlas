@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nooks & Crannies](sources/nooks-crannies-nooks-crannies.md) — Revisionist History examines Bimbo Bakeries USA v. Botticella as an unresolved conflict among trade-secret protection, confidential business information, litigation power, and employee mobility.
 - [The Formula](sources/the-formula-the-formula.md) — Revisionist History reverse-engineers Thomas' English muffins and contrasts corporate trade-secret enforcement with trust-based Carthusian secrecy.
 - [Encores](sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc.md) — Malcolm Gladwell introduces four Revisionist History music stories through the autobiographical persistence of songs and his perspective as an enthusiastic non-musician.
 - [Encore: Hallelujah](sources/encore-hallelujah-encore-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, institutional survival, and chance.
@@ -5133,6 +5134,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Jeannie Fromer](entities/JeannieFromer.md) — Intellectual-property scholar explaining the protective and coercive potential of trade-secret law.
+- [Elizabeth Ainsley](entities/ElizabethAinsley.md) — Botticella's lawyer, who distinguishes copied confidential business material from the famous muffin secret.
+- [Hostess Brands](entities/HostessBrands.md) — Prospective competitor employer whose planned hire of Botticella triggered Bimbo's injunction request.
 - [Rachel Wyman](entities/RachelWyman.md) — Baker and educator who leads the Thomas muffin reconstruction and distinguishes structural matching from preference.
 - [Chris Botticella](entities/ChrisBotticella.md) — Former Bimbo executive whose planned job move became the episode's trade-secret and labor-mobility case.
 - [Bimbo Bakeries](entities/BimboBakeries.md) — Thomas brand owner represented through its protection of the muffin formula and process.

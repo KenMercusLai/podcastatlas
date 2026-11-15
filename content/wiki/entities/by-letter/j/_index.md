@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14274
+wiki_total_pages: 14277
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "JeanneDeLaMotte"
     title: "Jeanne de la Motte"
     url: "/wiki/entities/jeannedelamotte/"
+  - key: "JeannieFromer"
+    title: "Jeannie Fromer"
+    url: "/wiki/entities/jeanniefromer/"
   - key: "JeannieRhee"
     title: "Jeannie Rhee"
     url: "/wiki/entities/jeannierhee/"
