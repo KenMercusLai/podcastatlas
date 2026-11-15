@@ -16019,6 +16019,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/ambiguitybaseddeterrentbluff/"
     },
+    "AmbiguousRemainsBurialEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Fines [The_Fines].md",
+          "key": "the-fines-the-fines",
+          "show": "Revisionist History",
+          "title": "The Fines",
+          "url": "/wiki/sources/the-fines-the-fines/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/ambiguousremainsburialethics/"
+    },
     "AmbroseOfMilan": {
       "episode_count": 1,
       "show_count": 1,
@@ -77464,6 +77480,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/dianaprincessofwales/"
     },
+    "DianeAndKurtHorning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Fines [The_Fines].md",
+          "key": "the-fines-the-fines",
+          "show": "Revisionist History",
+          "title": "The Fines",
+          "url": "/wiki/sources/the-fines-the-fines/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/dianeandkurthorning/"
+    },
     "DianlingQiang": {
       "episode_count": 3,
       "show_count": 1,
@@ -109591,6 +109623,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/foreignexchangemargintrading/"
     },
+    "ForensicIdentificationClosureBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Fines [The_Fines].md",
+          "key": "the-fines-the-fines",
+          "show": "Revisionist History",
+          "title": "The Fines",
+          "url": "/wiki/sources/the-fines-the-fines/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/forensicidentificationclosureboundary/"
+    },
     "ForensicIdentificationExplanationGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -113115,6 +113163,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/freshgroceryecommerceeconomics/"
+    },
+    "FreshKillsRecoveryOperation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Fines [The_Fines].md",
+          "key": "the-fines-the-fines",
+          "show": "Revisionist History",
+          "title": "The Fines",
+          "url": "/wiki/sources/the-fines-the-fines/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/freshkillsrecoveryoperation/"
     },
     "FreshSnackRetail": {
       "episode_count": 1,
@@ -312818,6 +312882,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/wiplimitpersonalproductivity/"
+    },
+    "WTCFamiliesForAProperBurial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Fines [The_Fines].md",
+          "key": "the-fines-the-fines",
+          "show": "Revisionist History",
+          "title": "The Fines",
+          "url": "/wiki/sources/the-fines-the-fines/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/wtcfamiliesforaproperburial/"
     },
     "WTStead": {
       "episode_count": 4,

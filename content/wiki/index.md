@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Fines](sources/the-fines-the-fines.md) — Revisionist History examines the Fresh Kills fines as a conflict among forensic thresholds, burial dignity, family agency, and public memory after September 11.
 - [A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War](sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey.md) — Revisionist History and The Dollop connect Staten Island's commercial Loyalism, Billopp's kidnappings, occupation abuse, Patriot predation, and changing allegiance.
 - [President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America](sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel.md) — Revisionist History conversation on Reconstruction's rollback, constitutional afterlife, public memory, representation, and reversible democratic progress.
 - [The Invention of an Epidemic](sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic.md) — Revisionist History links slave-patrol militias, Madison's grammar, Virginia ratification, and Heller in a qualified slavery-centered account of the Second Amendment.
@@ -5084,6 +5085,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [Diane and Kurt Horning](entities/DianeAndKurtHorning.md) — Parents and family advocates seeking dignified relocation of possible September 11 remains from Fresh Kills.
+- [WTC Families for a Proper Burial](entities/WTCFamiliesForAProperBurial.md) — Family organization contesting the permanent placement of the World Trade Center fines at Fresh Kills.
+- [Fresh Kills Recovery Operation](entities/FreshKillsRecoveryOperation.md) — World Trade Center crime-scene sorting effort whose fines category remains morally and legally disputed.
 - [Staten Island](entities/StatenIsland.md) — New York harbor island whose early Loyalism and prolonged occupation reveal changing wartime allegiance.
 - [Christopher Billopp](entities/ChristopherBillopp.md) — Staten Island Loyalist landowner and militia commander repeatedly captured, dispossessed, and exiled during the Revolution.
 - [Ben Naddaff-Hafrey](entities/BenNaddaffHafrey.md) — Reporter connecting Staten Island's modern outsider politics to its Revolutionary-era Loyalism.
@@ -19319,6 +19323,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Ambiguous Remains Burial Ethics](concepts/AmbiguousRemainsBurialEthics.md) — Framework for caring for material that may contain commingled human remains but cannot be individually identified.
+- [Forensic Identification-Closure Boundary](concepts/ForensicIdentificationClosureBoundary.md) — Distinguishes fragment identification from operational, legal, emotional, and collective closure.
 - [Loyalist Support Erosion under Occupation](concepts/LoyalistSupportErosionUnderOccupation.md) — Process by which occupying forces lose allied civilian support through extraction, abuse, and institutional failure.
 - [Slave Patrol Militia System](concepts/SlavePatrolMilitiaSystem.md) — Institutional link between Southern militias and armed racial control central to the episode's constitutional interpretation.
 - [Police Staffing as Relational Capacity](concepts/PoliceStaffingRelationalCapacity.md) — Conditional claim that staffing matters when it creates time for local knowledge, prevention, and accountable community presence.

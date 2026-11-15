@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14142
+wiki_total_pages: 14145
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "FrenchRevolution"
     title: "French Revolution / 法国大革命"
     url: "/wiki/entities/frenchrevolution/"
+  - key: "FreshKillsRecoveryOperation"
+    title: "Fresh Kills Recovery Operation"
+    url: "/wiki/entities/freshkillsrecoveryoperation/"
   - key: "FriedrichEbert"
     title: "Friedrich Ebert"
     url: "/wiki/entities/friedrichebert/"

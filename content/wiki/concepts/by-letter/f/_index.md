@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11252
+wiki_total_pages: 11254
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "ForensicHairEvidence"
     title: "Forensic Hair Evidence"
     url: "/wiki/concepts/forensichairevidence/"
+  - key: "ForensicIdentificationClosureBoundary"
+    title: "Forensic Identification-Closure Boundary"
+    url: "/wiki/concepts/forensicidentificationclosureboundary/"
   - key: "ForensicIdentificationExplanationGap"
     title: "Forensic Identification-Explanation Gap"
     url: "/wiki/concepts/forensicidentificationexplanationgap/"

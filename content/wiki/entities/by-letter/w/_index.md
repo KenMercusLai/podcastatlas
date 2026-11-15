@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14142
+wiki_total_pages: 14145
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "WrightBrothers"
     title: "Wright Brothers / 莱特兄弟"
     url: "/wiki/entities/wrightbrothers/"
+  - key: "WTCFamiliesForAProperBurial"
+    title: "WTC Families for a Proper Burial"
+    url: "/wiki/entities/wtcfamiliesforaproperburial/"
   - key: "WuGang"
     title: "Wu Gang / 吴刚"
     url: "/wiki/entities/wugang/"

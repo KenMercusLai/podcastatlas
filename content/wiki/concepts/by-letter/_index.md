@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11252
+wiki_total_pages: 11254
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2165,6 +2165,9 @@ wiki_pages:
   - key: "AmbientVoiceAgentInterface"
     title: "Ambient Voice Agent Interface"
     url: "/wiki/concepts/ambientvoiceagentinterface/"
+  - key: "AmbiguousRemainsBurialEthics"
+    title: "Ambiguous Remains Burial Ethics"
+    url: "/wiki/concepts/ambiguousremainsburialethics/"
   - key: "AmbisexualWorldbuilding"
     title: "Ambisexual Worldbuilding / 双性世界建构"
     url: "/wiki/concepts/ambisexualworldbuilding/"
