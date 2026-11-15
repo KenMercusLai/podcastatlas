@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11337
+wiki_total_pages: 11341
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "BiasBlindSpot"
     title: "Bias Blind Spot"
     url: "/wiki/concepts/biasblindspot/"
+  - key: "BiasedIntentionAttribution"
+    title: "Biased Intention Attribution"
+    url: "/wiki/concepts/biasedintentionattribution/"
   - key: "BiblicalCovenant"
     title: "Biblical Covenant"
     url: "/wiki/concepts/biblicalcovenant/"

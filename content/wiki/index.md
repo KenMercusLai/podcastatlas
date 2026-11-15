@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Relationships 2.0: Why Did You Do That?](sources/default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568.md) — Hidden Brain connects intention-sensitive moral judgment and group-biased motive attribution to forgiveness that preserves boundaries and requires accountable repair.
 - [The Joe Rogan Intervention](sources/the-joe-rogan-intervention-the-joe-rogan-intervention.md) — Revisionist History contrasts conversational rapport with audience-facing duties to interpret evidence, pursue consequential claims, and move beyond rehearsed narratives.
 - [The Origin of “You”: A Conversation with John McWhorter](sources/the-origin-of-you-a-conversation-with-john-mcwhorter-the-origin-of-you-a-conversation-with-john-mcwhorter.md) — Revisionist History connects systematic Black English, register switching, second-person pronoun repair, and digital punctuation to identity and language change.
 - [Nooks & Crannies](sources/nooks-crannies-nooks-crannies.md) — Revisionist History examines Bimbo Bakeries USA v. Botticella as an unresolved conflict among trade-secret protection, confidential business information, litigation power, and employee mobility.
@@ -5138,6 +5139,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Liane Young](entities/LianeYoung.md) — Psychologist and neuroscientist connecting theory of mind, intention processing, and moral judgment.
+- [Fred Luskin](entities/FredLuskin.md) — Psychologist distinguishing forgiveness from reconciliation and accountability from continuing self-condemnation.
 - [Matt Walsh](entities/MattWalsh.md) — Commentator used in the episode's example of an unexamined historical generalization about slavery.
 - [Michael Gervais](entities/MichaelGervais.md) — Psychologist and interviewer presented as a constructive model of attentive emotional follow-up.
 - [John McWhorter](entities/JohnMcWhorter.md) — Historical linguist connecting archival speech, dialect systems, identity, pronouns, and digital tone.
@@ -19521,6 +19524,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Theory of Mind in Moral Judgment](concepts/TheoryOfMindMoralJudgment.md) — How represented beliefs and intentions distinguish accidents from attempts while interacting with outcomes and context.
+- [Biased Intention Attribution](concepts/BiasedIntentionAttribution.md) — Asymmetric motive inference that excuses self and in-group conduct while reading comparable out-group conduct as hostile.
+- [Forgiveness Without Reconciliation](concepts/ForgivenessWithoutReconciliation.md) — Releasing corrosive resentment without requiring renewed contact, restored trust, or abandoned boundaries.
+- [Accountable Self-Forgiveness](concepts/AccountableSelfForgiveness.md) — Self-release after acknowledgment, remorse, apology, feasible amends, and concrete prevention of repetition.
 - [Public Interview Audience Duty](concepts/PublicInterviewAudienceDuty.md) — Obligation to test consequential claims and pursue revealing openings for the benefit of a public audience.
 - [Black English Systematicity](concepts/BlackEnglishSystematicity.md) — Principle that recurring Black English forms constitute patterned grammar rather than failed standard English.
 - [Register Switching and Social Identity](concepts/RegisterSwitchingSocialIdentity.md) — Speech shifts that reposition relationship, stance, and perceived identity across settings.

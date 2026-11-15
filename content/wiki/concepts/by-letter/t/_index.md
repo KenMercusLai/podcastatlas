@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11337
+wiki_total_pages: 11341
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "TheoryOfConstructedEmotion"
     title: "Theory of Constructed Emotion"
     url: "/wiki/concepts/theoryofconstructedemotion/"
+  - key: "TheoryOfMindMoralJudgment"
+    title: "Theory of Mind in Moral Judgment"
+    url: "/wiki/concepts/theoryofmindmoraljudgment/"
   - key: "TherapeuticDefenseWork"
     title: "Therapeutic Defense Work / 治疗中的防御工作"
     url: "/wiki/concepts/therapeuticdefensework/"

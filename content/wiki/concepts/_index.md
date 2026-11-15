@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11337
+wiki_total_pages: 11341
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "AccountabilitySinks"
     title: "Accountability Sinks"
     url: "/wiki/concepts/accountabilitysinks/"
+  - key: "AccountableSelfForgiveness"
+    title: "Accountable Self-Forgiveness"
+    url: "/wiki/concepts/accountableselfforgiveness/"
   - key: "AccountingInfrastructure"
     title: "Accounting Infrastructure"
     url: "/wiki/concepts/accountinginfrastructure/"

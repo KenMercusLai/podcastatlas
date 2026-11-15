@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14290
+wiki_total_pages: 14292
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "LiamMcMillen"
     title: "Liam McMillen"
     url: "/wiki/entities/liammcmillen/"
+  - key: "LianeYoung"
+    title: "Liane Young"
+    url: "/wiki/entities/lianeyoung/"
   - key: "LiangChenqi"
     title: "Liang Chenqi / 梁琛奇"
     url: "/wiki/entities/liangchenqi/"
