@@ -19501,9 +19501,9 @@
       "url": "/wiki/entities/animalfarm/"
     },
     "AnimalIntelligenceModes": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
@@ -19532,9 +19532,16 @@
           "show": "Economist Podcasts",
           "title": "Abate and switch: how China’s emissions fell",
           "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
+        },
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
         }
       ],
-      "updated": "2026-11-12",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/animalintelligencemodes/"
     },
     "AnimalPainLegalRecognition": {
@@ -101482,6 +101489,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/experimentallifedesign/"
     },
+    "ExperimentalTractabilityValidityTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/experimentaltractabilityvaliditytradeoff/"
+    },
     "ExperimentationProductionModelSplit": {
       "episode_count": 1,
       "show_count": 1,
@@ -171092,6 +171115,22 @@
       "updated": "2026-11-11",
       "url": "/wiki/entities/kekewushicha/"
     },
+    "KellyLambert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/kellylambert/"
+    },
     "KellyStarrett": {
       "episode_count": 1,
       "show_count": 1,
@@ -176407,6 +176446,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/lawofsuspects/"
+    },
+    "LawrenceCole": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/lawrencecole/"
     },
     "LawsonRetail": {
       "episode_count": 1,
@@ -208052,6 +208107,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/michaellynton/"
     },
+    "MichaelPettit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/michaelpettit/"
+    },
     "MichaelPillsbury": {
       "episode_count": 1,
       "show_count": 1,
@@ -211734,6 +211805,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/modelminoritystereotype/"
+    },
+    "ModelOrganismSelectionBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/modelorganismselectionbias/"
     },
     "ModelPortableAgentArchitecture": {
       "episode_count": 1,
@@ -295312,6 +295399,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/sutherlandspringschurchshooting/"
     },
+    "SuzanneMacDonald": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/suzannemacdonald/"
+    },
     "SvenSchulze": {
       "episode_count": 1,
       "show_count": 1,
@@ -307510,6 +307613,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/topicalcorticosteroiduseboundary/"
     },
+    "TorontoRaccoons": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/torontoraccoons/"
+    },
     "Torun": {
       "episode_count": 1,
       "show_count": 1,
@@ -313733,9 +313852,9 @@
       "url": "/wiki/concepts/urbanvillageaffordablehousingfunction/"
     },
     "UrbanWildlifeCoexistence": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
@@ -313743,15 +313862,22 @@
           "show": "Talk三联",
           "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
           "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        },
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/urbanwildlifecoexistence/"
     },
     "UrbanWildlifeConflictManagement": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
@@ -313759,9 +313885,16 @@
           "show": "Talk三联",
           "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
           "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        },
+        {
+          "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
+          "key": "rat-vs-raccoon-rat-vs-raccoon",
+          "show": "Revisionist History",
+          "title": "Rat vs. Raccoon",
+          "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/urbanwildlifeconflictmanagement/"
     },
     "UrbanizedSupernaturalWorldbuilding": {

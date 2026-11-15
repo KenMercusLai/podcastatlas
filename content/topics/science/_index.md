@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1646
+topic_total_pages: 1650
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1516,6 +1516,9 @@ topic_concepts:
   - key: "MobileCarbonCapture"
     title: "Mobile Carbon Capture"
     url: "/wiki/concepts/mobilecarboncapture/"
+  - key: "ModelOrganismSelectionBias"
+    title: "Model Organism Selection Bias"
+    url: "/wiki/concepts/modelorganismselectionbias/"
   - key: "MediterraneanDietModernConstruction"
     title: "Modern Construction of the Mediterranean Diet"
     url: "/wiki/concepts/mediterraneandietmodernconstruction/"
@@ -3176,6 +3179,9 @@ topic_entities:
   - key: "KelentoHouTaiyu"
     title: "Kelento 侯泰宇"
     url: "/wiki/entities/kelentohoutaiyu/"
+  - key: "KellyLambert"
+    title: "Kelly Lambert"
+    url: "/wiki/entities/kellylambert/"
   - key: "KentaroFujita"
     title: "Kentaro Fujita"
     url: "/wiki/entities/kentarofujita/"
@@ -3293,6 +3299,9 @@ topic_entities:
   - key: "MichaelKilgard"
     title: "Michael Kilgard"
     url: "/wiki/entities/michaelkilgard/"
+  - key: "MichaelPettit"
+    title: "Michael Pettit"
+    url: "/wiki/entities/michaelpettit/"
   - key: "MichaelServetus"
     title: "Michael Servetus"
     url: "/wiki/entities/michaelservetus/"
@@ -4644,6 +4653,9 @@ topic_sources:
   - key: "scim4605688764-scim4605688764"
     title: "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic"
     url: "/wiki/sources/scim4605688764-scim4605688764/"
+  - key: "rat-vs-raccoon-rat-vs-raccoon"
+    title: "Rat vs. Raccoon"
+    url: "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
   - key: "restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341"
     title: "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray"
     url: "/wiki/sources/restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341/"

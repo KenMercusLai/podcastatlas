@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14277
+wiki_total_pages: 14282
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "LawnTennisAssociation"
     title: "Lawn Tennis Association"
     url: "/wiki/entities/lawntennisassociation/"
+  - key: "LawrenceCole"
+    title: "Lawrence Cole"
+    url: "/wiki/entities/lawrencecole/"
   - key: "LawrenceJPeter"
     title: "Lawrence J. Peter"
     url: "/wiki/entities/lawrencejpeter/"

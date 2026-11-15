@@ -40121,3 +40121,13 @@ Core synthesis: the episode supports a legitimate confidentiality concern throug
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Rat vs. Raccoon
+
+Added the [[RevisionistHistory]] episode using [[TorontoRaccoons|Toronto raccoons]], [[LawrenceCole]]'s neglected puzzle-box work, [[MichaelPettit]]'s history of psychology, [[SuzanneMacDonald]]'s modern raccoon observations, and [[KellyLambert]]'s rat research to question how laboratory rats became psychology's default animal model. Created bounded profiles for the four researchers and Toronto raccoons; established [[ModelOrganismSelectionBias]] and [[ExperimentalTractabilityValidityTradeoff]]; and resynthesized [[AnimalIntelligenceModes]], [[UrbanWildlifeCoexistence]], and [[UrbanWildlifeConflictManagement]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: rats supplied scale, docility, repeatability, and institutional continuity, but those advantages do not by themselves establish that inbred laboratory behavior represents people. Raccoons expose the inverse problem: tactile, destructive, action-first persistence can succeed in cities and defeat engineered barriers without establishing exceptional general intelligence. Model fitness is therefore claim-specific, and no single animal captures the combination of orderly incentive response and impulsive system disruption found in human conduct. No settled contradiction was adopted. Cole's mental-image interpretation, MacDonald's standard-test results, Toronto's reported bin expenditure and failures, historical generalizations, strain comparisons, and the Trump analogy remain episode-scoped because the supplied file is a structured summary rather than a transcript, primary study set, municipal evaluation, or systematic history. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,011 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

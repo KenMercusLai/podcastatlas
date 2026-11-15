@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11329
+wiki_total_pages: 11331
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "ModelMinorityStereotype"
     title: "Model Minority Stereotype / 模范少数族裔刻板印象"
     url: "/wiki/concepts/modelminoritystereotype/"
+  - key: "ModelOrganismSelectionBias"
+    title: "Model Organism Selection Bias"
+    url: "/wiki/concepts/modelorganismselectionbias/"
   - key: "ModelPostTrainingBottleneck"
     title: "Model Post-Training Bottleneck"
     url: "/wiki/concepts/modelposttrainingbottleneck/"

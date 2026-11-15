@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14277
+wiki_total_pages: 14282
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -2039,6 +2039,9 @@ wiki_pages:
   - key: "SuyashPasi"
     title: "Suyash Pasi"
     url: "/wiki/entities/suyashpasi/"
+  - key: "SuzanneMacDonald"
+    title: "Suzanne MacDonald"
+    url: "/wiki/entities/suzannemacdonald/"
   - key: "SVAngel"
     title: "SV Angel"
     url: "/wiki/entities/svangel/"

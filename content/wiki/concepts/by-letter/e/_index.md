@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11329
+wiki_total_pages: 11331
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1463,6 +1463,9 @@ wiki_pages:
   - key: "ExperimentalScienceEthics"
     title: "Experimental Science Ethics"
     url: "/wiki/concepts/experimentalscienceethics/"
+  - key: "ExperimentalTractabilityValidityTradeoff"
+    title: "Experimental Tractability–Validity Tradeoff"
+    url: "/wiki/concepts/experimentaltractabilityvaliditytradeoff/"
   - key: "ExperimentationProductionModelSplit"
     title: "Experimentation–Production Model Split"
     url: "/wiki/concepts/experimentationproductionmodelsplit/"

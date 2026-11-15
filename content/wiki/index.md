@@ -5132,8 +5132,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 5: Cruel and Unusual](sources/the-alabama-murders-part-5-cruel-and-unusual.md) — Revisionist History episode on judicial override, lethal-injection access failures, hidden execution-team competence, Smith's failed first execution, and Alabama's deadline response.
 - [The Alabama Murders - Part 7: The Second Warrant](sources/the-alabama-murders-part-7-the-second-warrant.md) — Revisionist History finale on execution-induced trauma, Alabama's first-use nitrogen protocol, conflicting scientific and eyewitness evidence, and the state's success narrative.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
+- [Rat vs. Raccoon](sources/rat-vs-raccoon-rat-vs-raccoon.md) — Revisionist History uses Toronto raccoons and psychology's laboratory-rat history to examine model selection, experimental tractability, external validity, and species-specific cognition.
 
 ## Entities
+- [Lawrence Cole](entities/LawrenceCole.md) — Early psychologist whose raccoon puzzle-box work offered a neglected alternative to rat-centered comparative psychology.
+- [Michael Pettit](entities/MichaelPettit.md) — Historian who recovers raccoon research and questions the institutional selection of psychology's dominant animal model.
+- [Suzanne MacDonald](entities/SuzanneMacDonald.md) — Animal-cognition researcher whose Toronto observations qualify the myth of the brilliant raccoon.
+- [Kelly Lambert](entities/KellyLambert.md) — Rat researcher who combines experimental expertise with criticism of inherited model-organism defaults.
+- [Toronto Raccoons](entities/TorontoRaccoons.md) — Urban wildlife case connecting waste infrastructure, persistent exploration, and method-dependent cognition claims.
 - [Jeannie Fromer](entities/JeannieFromer.md) — Intellectual-property scholar explaining the protective and coercive potential of trade-secret law.
 - [Elizabeth Ainsley](entities/ElizabethAinsley.md) — Botticella's lawyer, who distinguishes copied confidential business material from the famous muffin secret.
 - [Hostess Brands](entities/HostessBrands.md) — Prospective competitor employer whose planned hire of Botticella triggered Bimbo's injunction request.
@@ -19504,6 +19510,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Model Organism Selection Bias](concepts/ModelOrganismSelectionBias.md) — Risk that convenience, infrastructure, and controllability determine a field's dominant organism and shape its general theories.
+- [Experimental Tractability–Validity Tradeoff](concepts/ExperimentalTractabilityValidityTradeoff.md) — Tension between laboratory control and the natural variation or target similarity needed for findings to generalize.
 - [Product Reverse Engineering](concepts/ProductReverseEngineering.md) — Iterative reconstruction separating product resemblance, perceptual identity, and user preference.
 - [Trade Secret as Labor Control](concepts/TradeSecretAsLaborControl.md) — Employment-power lens for confidential knowledge used to constrain worker mobility.
 - [Secrecy as Community Bond](concepts/SecrecyAsCommunityBond.md) — Governance of confidential knowledge through identity, purpose, trust, and continuing obligation.
