@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11324
+wiki_total_pages: 11326
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "IterativeCreativeAgent"
     title: "Iterative Creative Agent"
     url: "/wiki/concepts/iterativecreativeagent/"
+  - key: "IterativeCreativeReinterpretation"
+    title: "Iterative Creative Reinterpretation"
+    url: "/wiki/concepts/iterativecreativereinterpretation/"
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"

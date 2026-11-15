@@ -23387,6 +23387,10 @@
     "title": "Concept Led Hospitality",
     "url": "/wiki/concepts/conceptledhospitality/"
   },
+  "ConceptualAndExperimentalInnovation": {
+    "title": "Conceptual and Experimental Innovation",
+    "url": "/wiki/concepts/conceptualandexperimentalinnovation/"
+  },
   "ConceptualTranslationJudgment": {
     "title": "Conceptual Translation Judgment / 概念翻译判断",
     "url": "/wiki/concepts/conceptualtranslationjudgment/"
@@ -27034,6 +27038,10 @@
   "DavidFriedberg": {
     "title": "David Friedberg",
     "url": "/wiki/entities/davidfriedberg/"
+  },
+  "DavidGalenson": {
+    "title": "David Galenson",
+    "url": "/wiki/entities/davidgalenson/"
   },
   "DavidGarrick": {
     "title": "David Garrick",
@@ -31822,6 +31830,10 @@
   "EloquenceBiasInOfficialSelection": {
     "title": "口才替代能力式识人偏差 / Eloquence Bias in Official Selection",
     "url": "/wiki/concepts/eloquencebiasinofficialselection/"
+  },
+  "ElvisCostello": {
+    "title": "Elvis Costello",
+    "url": "/wiki/entities/elviscostello/"
   },
   "ElvisPresley": {
     "title": "Elvis Presley",
@@ -42535,6 +42547,10 @@
     "title": "Hall of Nations and Nehru Pavilion",
     "url": "/wiki/entities/hallofnationsindia/"
   },
+  "HallelujahSong": {
+    "title": "Hallelujah",
+    "url": "/wiki/entities/hallelujahsong/"
+  },
   "HallidonHill": {
     "title": "Hallidon Hill",
     "url": "/wiki/entities/hallidonhill/"
@@ -49647,6 +49663,10 @@
     "title": "Iterative Creative Agent",
     "url": "/wiki/concepts/iterativecreativeagent/"
   },
+  "IterativeCreativeReinterpretation": {
+    "title": "Iterative Creative Reinterpretation",
+    "url": "/wiki/concepts/iterativecreativereinterpretation/"
+  },
   "Ithaca": {
     "title": "Ithaca",
     "url": "/wiki/entities/ithaca/"
@@ -50590,6 +50610,10 @@
   "JeffBezos": {
     "title": "Jeff Bezos",
     "url": "/wiki/entities/jeffbezos/"
+  },
+  "JeffBuckley": {
+    "title": "Jeff Buckley",
+    "url": "/wiki/entities/jeffbuckley/"
   },
   "JeffCavaliere": {
     "title": "Jeff Cavaliere",
@@ -51902,6 +51926,10 @@
   "JohnCade": {
     "title": "John Cade",
     "url": "/wiki/entities/johncade/"
+  },
+  "JohnCale": {
+    "title": "John Cale",
+    "url": "/wiki/entities/johncale/"
   },
   "JohnCalvin": {
     "title": "John Calvin",
@@ -109214,6 +109242,10 @@
   "encore-good-old-boys-encore-good-old-boys": {
     "title": "Encore: Good Old Boys",
     "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+  },
+  "encore-hallelujah-encore-hallelujah": {
+    "title": "Encore: Hallelujah",
+    "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
   },
   "encore-the-king-of-tears-encore-the-king-of-tears": {
     "title": "Encore: The King of Tears",

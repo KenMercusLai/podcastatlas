@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11324
+wiki_total_pages: 11326
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2156,6 +2156,9 @@ wiki_pages:
   - key: "ConceptLedHospitality"
     title: "Concept Led Hospitality"
     url: "/wiki/concepts/conceptledhospitality/"
+  - key: "ConceptualAndExperimentalInnovation"
+    title: "Conceptual and Experimental Innovation"
+    url: "/wiki/concepts/conceptualandexperimentalinnovation/"
   - key: "ConceptualTranslationJudgment"
     title: "Conceptual Translation Judgment / 概念翻译判断"
     url: "/wiki/concepts/conceptualtranslationjudgment/"

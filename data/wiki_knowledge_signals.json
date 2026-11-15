@@ -61534,6 +61534,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/concealedpresidentialillness/"
     },
+    "ConceptualAndExperimentalInnovation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/conceptualandexperimentalinnovation/"
+    },
     "ConceptualTranslationJudgment": {
       "episode_count": 2,
       "show_count": 1,
@@ -73695,6 +73711,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/davidfishman/"
+    },
+    "DavidGalenson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/davidgalenson/"
     },
     "DavidGarrick": {
       "episode_count": 1,
@@ -90568,6 +90600,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/eloquencebiasinofficialselection/"
+    },
+    "ElvisCostello": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/elviscostello/"
     },
     "ElvisPresley": {
       "episode_count": 1,
@@ -131358,6 +131406,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/hallofnationsindia/"
     },
+    "HallelujahSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/hallelujahsong/"
+    },
     "HallidonHill": {
       "episode_count": 1,
       "show_count": 1,
@@ -159173,6 +159237,22 @@
       "updated": "2026-11-09",
       "url": "/wiki/concepts/iterativecreativeagent/"
     },
+    "IterativeCreativeReinterpretation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/iterativecreativereinterpretation/"
+    },
     "Ithaca": {
       "episode_count": 1,
       "show_count": 1,
@@ -161963,6 +162043,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/jeannedelamotte/"
+    },
+    "JeffBuckley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jeffbuckley/"
     },
     "JeffCavaliere": {
       "episode_count": 3,
@@ -166328,6 +166424,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/johncade/"
+    },
+    "JohnCale": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/johncale/"
     },
     "JohnCalvin": {
       "episode_count": 2,
@@ -177753,6 +177865,29 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/leolabrown/"
+    },
+    "LeonardCohen": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
+          "key": "ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb",
+          "show": "Talk三联",
+          "title": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？",
+          "url": "/wiki/sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb/"
+        },
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/leonardcohen/"
     },
     "LeonardoDaVinci": {
       "episode_count": 1,
@@ -197604,9 +197739,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -197712,6 +197847,13 @@
           "show": "Revisionist History",
           "title": "Encore: The King of Tears",
           "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        },
+        {
+          "episode_file": "Encore_Hallelujah [Encore_Hallelujah].md",
+          "key": "encore-hallelujah-encore-hallelujah",
+          "show": "Revisionist History",
+          "title": "Encore: Hallelujah",
+          "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
         }
       ],
       "updated": "2026-11-15",

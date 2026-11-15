@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Encore: Hallelujah](sources/encore-hallelujah-encore-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, institutional survival, and chance.
 - [Encore: The King of Tears](sources/encore-the-king-of-tears-encore-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, narrative specificity, musical community, and memorial performance to country music's emotional force.
 - [Encore: Analysis, Parapraxis, Elvis](sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 - [Encore: Good Old Boys](sources/encore-good-old-boys-encore-good-old-boys.md) — Revisionist History reconstructs Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, and the reception risk of satire that audiences can appropriate.
@@ -5130,6 +5131,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Elvis Costello](entities/ElvisCostello.md) — Songwriter whose transformation of “Deportees Club” into “Deportee” frames failure as a potentially unfinished creative search.
+- [Hallelujah](entities/HallelujahSong.md) — Song whose influential public form emerged through Cohen's revisions, Cale's recombination, Buckley's adaptation, and contingent circulation.
+- [John Cale](entities/JohnCale.md) — Musician whose selection, recombination, and sparse arrangement connect Cohen's evolving song to Buckley's version.
+- [Jeff Buckley](entities/JeffBuckley.md) — Singer-guitarist whose adaptation of Cale's “Hallelujah” became a major branch of the song's later reception.
+- [David Galenson](entities/DavidGalenson.md) — Economist whose conceptual-versus-experimental innovation distinction organizes the episode's creative-process argument.
 - [Bobby Braddock](entities/BobbyBraddock.md) — Country songwriter whose detailed narratives and emotional alignment underpin his “King of Tears” profile.
 - [George Jones](entities/GeorgeJones.md) — Country singer whose biography, central performance, and memorial recontextualize “He Stopped Loving Her Today.”
 - [He Stopped Loving Her Today](entities/HeStoppedLovingHerToday.md) — Song joining writer, singer, frail fictional character, and later memorial meaning.
@@ -13760,7 +13766,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Quebec City / 魁北克城](entities/QuebecCity.md) — EP265 Canada destination linking old-city texture, maple-syrup experience, nearby nature, and wartime historical traces.
 - [Halifax / 哈利法克斯](entities/Halifax.md) — EP265 Canada destination connecting Maud Lewis, maritime history, Titanic rescue memory, and place inquiry.
 - [Maud Lewis / 莫娣](entities/MaudLewis.md) — Canadian artist used in EP265 as a cultural entry point into Halifax and Canada travel.
-- [Leonard Cohen / 莱昂纳德·科恩](entities/LeonardCohen.md) — Canadian poet-musician used in EP265 as a cultural and emotional entry point into Canada.
+- [Leonard Cohen / 莱昂纳德·科恩](entities/LeonardCohen.md) — Canadian poet-musician represented through cultural perception, prolonged composition, live revision, and the evolving material for “Hallelujah.”
 - [艾江涛 / Ai Jiangtao](entities/AiJiangtao.md) — Sanlian reporter explaining the Chang'an and Wang Wei branch of the Tang Poetry Road episode.
 - [薄静 / Bo Jing](entities/BoJingSanlianCulture.md) — Sanlian reporter explaining the eastern Zhejiang and Meng Haoran branch; kept separate from 博靖 / Bo Jing because the source uses different Chinese characters.
 - [王维 / Wang Wei](entities/WangWei.md) — Tang poet read through Chang'an social poetry, Buddhist public spaces, and Wangchuan landscape practice.
@@ -19485,6 +19491,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Conceptual and Experimental Innovation](concepts/ConceptualAndExperimentalInnovation.md) — Project-level heuristic contrasting execution of a prior conception with discovery through attempts and revision.
+- [Iterative Creative Reinterpretation](concepts/IterativeCreativeReinterpretation.md) — Process through which selection, arrangement, performance, circulation, and chance reshape a work across versions and creators.
 - [Emotional Specificity in Storytelling](concepts/EmotionalSpecificityInStorytelling.md) — Craft hypothesis that melancholy gains force when concrete detail enables personal recognition.
 - [Shared Cultural Language and Storytelling](concepts/SharedCulturalLanguageStorytelling.md) — Qualified account of how close creative communities can support detailed narrative and emotional candor.
 - [Parapraxis](concepts/Parapraxis.md) — Qualified framework for treating patterned slips and memory failures as possible emotional evidence without making them diagnoses.

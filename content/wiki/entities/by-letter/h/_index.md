@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14262
+wiki_total_pages: 14267
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "HallOfNationsIndia"
     title: "Hall of Nations and Nehru Pavilion"
     url: "/wiki/entities/hallofnationsindia/"
+  - key: "HallelujahSong"
+    title: "Hallelujah"
+    url: "/wiki/entities/hallelujahsong/"
   - key: "HallidonHill"
     title: "Hallidon Hill"
     url: "/wiki/entities/hallidonhill/"
