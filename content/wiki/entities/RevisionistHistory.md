@@ -25,6 +25,7 @@ sources:
   - in-defense-of-paw-patrol-in-defense-of-paw-patrol
   - how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman
   - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
+  - the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -79,11 +80,13 @@ An expert conversation and audiobook excerpt add a practical trust-education for
 
 [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows|The Tipping Point Revisited: Broken Windows]] turns self-correction into a full episode structure. It moves from autobiographical fear and the original epidemic metaphor through [[DavidFloyd]]'s stop and the post-ruling crime trend to [[AndrewPapachristos]]'s network analysis and [[CharlesBranas]]'s vacant-lot research. The result distinguishes disconfirming an old causal claim from proving every element of a replacement account.
 
+The preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick|live event with David Remnick]] adds a professional self-portrait. It traces the host's method from newspaper fundamentals and deliberate differentiation through [[IntellectualPlay]], respectful treatment of unusual subjects, patient interviewing, and audio's use of voice and tone. As a friendly autobiographical conversation, it is strongest on craft and self-understanding and weaker as independent support for its safety, family, admissions, or sport claims.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
 - Frames later Massachusetts reform as part of the Affordable Care Act's political genealogy.
-- Also publishes live intellectual conversations built around argument, personal examples, and research claims.
+- Also publishes live intellectual conversations built around argument, personal examples, research claims, professional reflection, and interview craft.
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
@@ -176,6 +179,10 @@ An expert conversation and audiobook excerpt add a practical trust-education for
 
 - [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows]] reconstructs an influential error, tests its prediction, centers policy burden, and separates network- and place-focused alternatives from indiscriminate enforcement.
 
+### Professional formation and interview craft
+
+- [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick]] links newsroom discipline, deliberate differentiation, intellectual play, neglected expertise, respectful subjects, long interviews, and audio voice in a live account of the show's host and method.
+
 ## Qualifications
 
 The bounded sources do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
@@ -188,11 +195,13 @@ The bounded sources do not establish the full range of the show. The health-refo
 
 *The Tipping Point Revisited* adds a twenty-second bounded source. It is a structured summary of an argumentative retrospective rather than the court opinion, administrative data, criminology studies, or a comprehensive account of New York's crime decline. Its strongest conclusion is the failed necessity prediction; its program-effect estimates and alternative mechanisms require primary verification.
 
+*The Tipping Point Revisited: Live with David Remnick* adds a twenty-third bounded source. The friendly event is supplied as a structured summary rather than a transcript, independent biography, interview archive, empirical safety review, or sports study. It supports the show's professional self-understanding, not a general causal verdict about its methods or examples.
+
 ## What Changed
 
-- Added full-episode self-correction as a distinct Revisionist History form.
-- Joined intellectual accountability to constitutional and human policy costs.
-- Preserved a boundary between refuting mass enforcement as necessary and proving replacement strategies.
+- Added live professional self-reflection as a distinct account of the show's journalistic formation.
+- Connected intellectual play and respectful curiosity to patient interviewing and audio voice.
+- Preserved the boundary between autobiographical craft evidence and independently tested factual claims.
 
 ## Relationships
 
@@ -257,3 +266,6 @@ The bounded sources do not establish the full range of the show. The health-refo
 - [[BrokenWindowsPolicing]] - earlier arrest-centered theory the episode rejects.
 - [[ViolenceConcentration]] - network-level alternative to neighborhood-wide danger labels.
 - [[PlaceBasedViolencePrevention]] - environmental repair branch developed through vacant-lot improvement.
+- [[DavidRemnick]] - live interviewer whose shared history elicits the host's professional self-portrait.
+- [[IntellectualPlay]] - idea-generation method explicitly separated from factual invention.
+- [[InterviewAsEmbodiedReporting]] - upstream reporting practice the event treats as more fundamental than prose production.

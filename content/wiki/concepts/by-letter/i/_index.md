@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11391
+wiki_total_pages: 11392
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "IntellectualLifeAsPractice"
     title: "Intellectual Life As Practice / 智识生活作为实践"
     url: "/wiki/concepts/intellectuallifeaspractice/"
+  - key: "IntellectualPlay"
+    title: "Intellectual Play"
+    url: "/wiki/concepts/intellectualplay/"
   - key: "IntellectualResponsibilityUnderAuthoritarianism"
     title: "Intellectual Responsibility Under Authoritarianism"
     url: "/wiki/concepts/intellectualresponsibilityunderauthoritarianism/"

@@ -74812,6 +74812,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/entities/davidrand/"
     },
+    "DavidRemnick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Live_with_David_Remnick [The_Tipping_Point_Revisited_Live_with_David_Remnick].md",
+          "key": "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Live with David Remnick",
+          "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/davidremnick/"
+    },
     "DavidRizzio": {
       "episode_count": 1,
       "show_count": 1,
@@ -156688,6 +156704,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/intellectuallifeaspractice/"
     },
+    "IntellectualPlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Live_with_David_Remnick [The_Tipping_Point_Revisited_Live_with_David_Remnick].md",
+          "key": "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Live with David Remnick",
+          "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/intellectualplay/"
+    },
     "IntellectualResponsibilityUnderAuthoritarianism": {
       "episode_count": 4,
       "show_count": 2,
@@ -158292,6 +158324,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/interventionstestingprogram/"
+    },
+    "InterviewAsEmbodiedReporting": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "现场！现场！ ｜ 2025年终特辑：三联女记者揭秘新闻背后的苦与光 [loz-sGgelHX166N2Me8v6d8k9A3C].md",
+          "key": "xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c",
+          "show": "Talk三联",
+          "title": "现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光",
+          "url": "/wiki/sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c/"
+        },
+        {
+          "episode_file": "EP244 记者眼中的“好工作”，什么样？ [lk8iZ9cLlZx2Jou5_sw9Yt2OgPYb].md",
+          "key": "ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb",
+          "show": "Talk三联",
+          "title": "EP244 记者眼中的“好工作”，什么样？",
+          "url": "/wiki/sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Live_with_David_Remnick [The_Tipping_Point_Revisited_Live_with_David_Remnick].md",
+          "key": "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Live with David Remnick",
+          "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/interviewasembodiedreporting/"
     },
     "IntestinalBarrierIntegrity": {
       "episode_count": 1,
@@ -199564,9 +199626,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -199735,6 +199797,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: Broken Windows",
           "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Live_with_David_Remnick [The_Tipping_Point_Revisited_Live_with_David_Remnick].md",
+          "key": "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Live with David Remnick",
+          "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
         }
       ],
       "updated": "2026-11-16",
@@ -263458,9 +263527,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -263615,6 +263684,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: Broken Windows",
           "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Live_with_David_Remnick [The_Tipping_Point_Revisited_Live_with_David_Remnick].md",
+          "key": "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Live with David Remnick",
+          "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
         }
       ],
       "updated": "2026-11-16",

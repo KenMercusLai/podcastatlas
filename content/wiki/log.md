@@ -40444,3 +40444,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Tipping Point Revisited: Live with David Remnick
+
+Added a live [[RevisionistHistory]] conversation in which [[DavidRemnick]] asks [[MalcolmGladwell]] how newsroom discipline, deliberate differentiation, [[IntellectualPlay]], respectful curiosity, patient interviewing, audio form, family history, and sport shaped his method. Created David Remnick and Intellectual Play, then resynthesized Gladwell, Revisionist History, and [[InterviewAsEmbodiedReporting]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Gladwell presents originality as learned practice rather than inspiration alone—technical fluency creates freedom, differentiation responds to an institution's dominant style, and intellectual play varies assumptions while remaining answerable to facts. Patient interviewing and respect for subjects are upstream of prose, while audio adds tone and recorded voice. No settled contradiction was adopted. The automobile-safety, family-influence, college-admissions, Paul Simon, and youth-sport claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, comparative study, or independent biography. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,040 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

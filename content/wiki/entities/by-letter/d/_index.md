@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14342
+wiki_total_pages: 14343
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "DavidRand"
     title: "David Rand"
     url: "/wiki/entities/davidrand/"
+  - key: "DavidRemnick"
+    title: "David Remnick"
+    url: "/wiki/entities/davidremnick/"
   - key: "DavidRicardo"
     title: "David Ricardo / 大卫·李嘉图"
     url: "/wiki/entities/davidricardo/"

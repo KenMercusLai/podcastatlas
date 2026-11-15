@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3702
+topic_total_pages: 3703
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10749,6 +10749,9 @@ topic_sources:
   - key: "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough"
     title: "The real horror of 'Alien' and how it explains why we're not paid enough"
     url: "/wiki/sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough/"
+  - key: "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick"
+    title: "The Tipping Point Revisited: Live with David Remnick"
+    url: "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
   - key: "the-walt-disney-company-1"
     title: "The Walt Disney Company: Walt's Era"
     url: "/wiki/sources/the-walt-disney-company-1/"

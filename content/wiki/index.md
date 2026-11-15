@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Tipping Point Revisited: Live with David Remnick](sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick.md) — Live Revisionist History conversation on journalistic differentiation, intellectual play, respectful subjects, patient interviewing, audio form, family influence, and play displaced by performance pressure.
 - [Exploring Life-Saving AI Tech with T-Mobile for Business](sources/exploring-life-saving-ai-tech-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on firefighter decision support, prioritized 5G, home health monitoring, clinical escalation, and equity-centered technology design.
 - [John Birch vs. the PTA](sources/john-birch-vs-the-pta-john-birch-vs-the-pta.md) — Revisionist History contrasts John Birch Society infiltration, meeting attrition, and harassment with the PTA's evidence-based civic cooperation.
 - [Gambling with Michael Lewis](sources/gambling-with-michael-lewis-gambling-with-michael-lewis.md) — Michael Lewis contrasts older sharp-informed bookmaking with mobile sportsbooks that promote high-margin bets, profile customers, and limit likely winners inside a league-media-state revenue system.
@@ -5163,6 +5164,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [David Remnick](entities/DavidRemnick.md) — New Yorker editor and interviewer who frames Gladwell's live professional self-portrait around craft, responsibility, biography, and play.
 - [3AM Innovations](entities/ThreeAMInnovations.md) — Public-safety technology company combining radio analysis, sensor data, and three-dimensional responder location for incident commanders.
 - [Ryan Litt](entities/RyanLitt.md) — 3AM Innovations co-founder advocating unobtrusive, human-supervised emergency decision support.
 - [Azizi Seixas](entities/AziziSeixas.md) — University of Miami health-data scientist leading decentralized monitoring and equity-centered digital-health work.
@@ -19599,6 +19601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Intellectual Play](concepts/IntellectualPlay.md) — Responsible variation of rules, assumptions, subjects, and perspectives to generate overlooked questions without relaxing factual accountability.
 - [Emergency-Response Decision Support](concepts/EmergencyResponseDecisionSupport.md) — Human-supervised integration of AI, radio, sensors, location, and connectivity to reduce incident uncertainty and cognitive load.
 - [Decentralized Health Monitoring](concepts/DecentralizedHealthMonitoring.md) — Home and community sensing model whose value depends on interoperability, accountable escalation, access, and clinical interpretation.
 - [Local Civic Institution Capture](concepts/LocalCivicInstitutionCapture.md) — Coordinated entry, procedural attrition, and bloc voting used to convert open local participation into downstream policy control.
