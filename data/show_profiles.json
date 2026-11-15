@@ -913,8 +913,8 @@
       "earliest_episode_date": "2024-10-31",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 27,
-      "topic_matched_source_note_count": 13,
+      "source_note_count": 28,
+      "topic_matched_source_note_count": 14,
       "topics": [
         {
           "key": "politics",
@@ -932,7 +932,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "culture",

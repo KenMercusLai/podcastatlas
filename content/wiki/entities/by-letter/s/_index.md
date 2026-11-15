@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14197
+wiki_total_pages: 14199
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
     url: "/wiki/entities/supergirl2006/"
+  - key: "SonyPicturesHack2014"
+    title: "2014 Sony Pictures Hack"
+    url: "/wiki/entities/sonypictureshack2014/"
   - key: "SixtySixRPG"
     title: "66RPG"
     url: "/wiki/entities/sixtysixrpg/"

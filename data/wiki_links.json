@@ -27295,6 +27295,10 @@
     "title": "Decision–Action Cost Asymmetry / 决策—行动成本不对称",
     "url": "/wiki/concepts/decisionactioncostasymmetry/"
   },
+  "DecisionGuardrailBypass": {
+    "title": "Decision Guardrail Bypass",
+    "url": "/wiki/concepts/decisionguardrailbypass/"
+  },
   "DecisionSpeedAccuracyControl": {
     "title": "Decision Speed-Accuracy Control",
     "url": "/wiki/concepts/decisionspeedaccuracycontrol/"
@@ -82627,6 +82631,10 @@
     "title": "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸",
     "url": "/wiki/concepts/schadenfreudeascomparisonemotion/"
   },
+  "SchemaContextMismatch": {
+    "title": "Schema-Context Mismatch",
+    "url": "/wiki/concepts/schemacontextmismatch/"
+  },
   "SchengenArea": {
     "title": "Schengen Area / 申根区",
     "url": "/wiki/entities/schengenarea/"
@@ -86754,6 +86762,10 @@
   "SonyPictures": {
     "title": "Sony Pictures",
     "url": "/wiki/entities/sonypictures/"
+  },
+  "SonyPicturesHack2014": {
+    "title": "2014 Sony Pictures Hack",
+    "url": "/wiki/entities/sonypictureshack2014/"
   },
   "SonyTSMCImageSensorJV": {
     "title": "Sony-TSMC Image Sensor Joint Venture",
@@ -92007,6 +92019,10 @@
     "title": "The Intelligence",
     "url": "/wiki/entities/theintelligence/"
   },
+  "TheInterviewFilm": {
+    "title": "The Interview (film)",
+    "url": "/wiki/entities/theinterviewfilm/"
+  },
   "TheIntouchablesFilm": {
     "title": "《触不可及》 / The Intouchables",
     "url": "/wiki/entities/theintouchablesfilm/"
@@ -92690,6 +92706,10 @@
   "ThreatChallengeStressReappraisal": {
     "title": "Threat Challenge Stress Reappraisal",
     "url": "/wiki/concepts/threatchallengestressreappraisal/"
+  },
+  "ThreatChannelBlindness": {
+    "title": "Threat-Channel Blindness",
+    "url": "/wiki/concepts/threatchannelblindness/"
   },
   "ThreatDrivenAllianceReversal": {
     "title": "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转",
@@ -113838,6 +113858,10 @@
   "the-sneaky-way-companies-get-new-chemicals-into-our-food": {
     "title": "The sneaky way companies get new chemicals into our food",
     "url": "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
+  },
+  "the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series": {
+    "title": "The Sony Hack | The Mistakes Series",
+    "url": "/wiki/sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series/"
   },
   "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t": {
     "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",

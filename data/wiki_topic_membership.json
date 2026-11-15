@@ -82405,6 +82405,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SchemaContextMismatch": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ScholarOfficialPublicDuty": [
     {
       "key": "politics",
@@ -86343,6 +86350,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SonyPicturesHack2014": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SonyTSMCImageSensorJV": [
@@ -92365,6 +92379,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheInterviewFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheIntouchablesFilm": [
     {
       "key": "culture",
@@ -93129,6 +93150,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ThreatChannelBlindness": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ThreatDrivenAllianceReversal": [
@@ -114099,6 +114132,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t": [

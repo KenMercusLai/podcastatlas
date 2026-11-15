@@ -39553,7 +39553,6 @@ No settled contradiction was adopted. AFK's architecture, model sizes, task-repr
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-11-15] ingest | The BlackBerry Problem | The Mistakes Series
 
 Added the [[RevisionistHistory]] episode in which [[JimBalsillie]] revisits [[BlackBerry]]'s rejected 2011 plan to turn [[BlackBerryMessenger|BlackBerry Messenger]] into a carrier-bundled, cross-platform service. Created bounded profiles for Balsillie, [[MikeLazaridis]], and BBM; and resynthesized BlackBerry, [[FounderBoardRelationshipMaintenance]], and [[SelfDisruptionDiscipline]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -39824,6 +39823,16 @@ Ran lint. See lint-report.md for details.
 Added the [[RevisionistHistory]] episode in which [[HeatherWilson]] and [[DavidGoldfein]] explain the [[UnitedStatesAirForce|U.S. Air Force]] response after the [[SutherlandSpringsChurchShooting]] exposed its failure to report the gunman's violent conviction to the FBI. Created bounded profiles for Wilson, Goldfein, the Air Force, and the shooting, and added [[InstitutionalFailureOwnership]] and [[ServantLeadershipTrustRenewal]].
 
 Core synthesis: current leaders can owe an institution's disclosure, correction, and representation without being personally culpable for the initiating act; prior notice of a deficient system strengthens that duty; and presence among harmed stakeholders should follow their guidance rather than center the leader's rank. No settled factual contradiction was adopted. Causation, dialogue, audit history, press and congressional effects, reform outcomes, litigation, community response, and trust repair remain episode-scoped because the supplied file is a structured summary rather than a transcript, audit, personnel or court record, FBI data, reform evaluation, or victim account. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,981 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 55 unrelated pre-existing broken links; none were introduced by this ingest.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Sony Hack | The Mistakes Series
+
+Added the [[RevisionistHistory]] episode in which former [[SonyPictures]] CEO [[MichaelLynton]] traces the [[SonyPicturesHack2014|2014 Sony Pictures hack]] to an exceptional approval of [[TheInterviewFilm|The Interview]] without the studio's normal greenlight process. Created dedicated profiles for the hack and film; added [[DecisionGuardrailBypass]], [[SchemaContextMismatch]], and [[ThreatChannelBlindness]]; and resynthesized Lynton and Sony Pictures from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: a project can appear commercially plausible while still needing independent legal, political, reputational, and security review; an adaptive desire for belonging can become a high-stakes error when it displaces professional role discipline; and expert threat advice must enumerate physical, cyber, and other channels rather than collapse them into a single judgment. No settled contradiction was adopted. The account complicates a purely technical explanation of the breach but remains centered on Lynton's retrospective perspective. Attribution, losses, dialogue, expert advice, psychological causation, counterfactual greenlight and parent-company decisions, creative responsibility, and distribution motives remain episode-scoped because the supplied file is a structured summary rather than a transcript, forensic report, corporate record, government assessment, or multi-party account. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,982 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 55 unrelated pre-existing broken links; none occur on pages changed by this ingest.
 
 ## [2026-11-15] lint | Wiki health check
 

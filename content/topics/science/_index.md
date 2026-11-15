@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1644
+topic_total_pages: 1645
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2086,6 +2086,9 @@ topic_concepts:
   - key: "SchadenfreudeAsComparisonEmotion"
     title: "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸"
     url: "/wiki/concepts/schadenfreudeascomparisonemotion/"
+  - key: "SchemaContextMismatch"
+    title: "Schema-Context Mismatch"
+    url: "/wiki/concepts/schemacontextmismatch/"
   - key: "ScienceCommunicationDisadvantage"
     title: "Science Communication Disadvantage"
     url: "/wiki/concepts/sciencecommunicationdisadvantage/"

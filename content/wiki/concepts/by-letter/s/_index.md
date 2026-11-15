@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11286
+wiki_total_pages: 11289
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "SchadenfreudeAsComparisonEmotion"
     title: "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸"
     url: "/wiki/concepts/schadenfreudeascomparisonemotion/"
+  - key: "SchemaContextMismatch"
+    title: "Schema-Context Mismatch"
+    url: "/wiki/concepts/schemacontextmismatch/"
   - key: "SchlieffenPlan"
     title: "Schlieffen Plan"
     url: "/wiki/concepts/schlieffenplan/"

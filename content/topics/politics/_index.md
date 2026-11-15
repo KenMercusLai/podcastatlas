@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3532
+topic_total_pages: 3534
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4510,6 +4510,9 @@ topic_concepts:
   - key: "ThirdPartyElectoralCollegeLeverage"
     title: "Third-Party Electoral College Leverage"
     url: "/wiki/concepts/thirdpartyelectoralcollegeleverage/"
+  - key: "ThreatChannelBlindness"
+    title: "Threat-Channel Blindness"
+    url: "/wiki/concepts/threatchannelblindness/"
   - key: "ThreatenedDefectionLeverage"
     title: "Threatened Defection Leverage / 投敌威胁式求援"
     url: "/wiki/concepts/threateneddefectionleverage/"
@@ -5678,6 +5681,9 @@ topic_entities:
   - key: "1A"
     title: "1A"
     url: "/wiki/entities/1a/"
+  - key: "SonyPicturesHack2014"
+    title: "2014 Sony Pictures Hack"
+    url: "/wiki/entities/sonypictureshack2014/"
   - key: "BritishGeneralElection2017"
     title: "2017 British General Election"
     url: "/wiki/entities/britishgeneralelection2017/"

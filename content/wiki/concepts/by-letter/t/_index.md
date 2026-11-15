@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11286
+wiki_total_pages: 11289
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "ThreatChallengeStressReappraisal"
     title: "Threat Challenge Stress Reappraisal"
     url: "/wiki/concepts/threatchallengestressreappraisal/"
+  - key: "ThreatChannelBlindness"
+    title: "Threat-Channel Blindness"
+    url: "/wiki/concepts/threatchannelblindness/"
   - key: "ThreatDrivenAllianceReversal"
     title: "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转"
     url: "/wiki/concepts/threatdrivenalliancereversal/"

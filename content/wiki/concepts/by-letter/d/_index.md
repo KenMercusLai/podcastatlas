@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11286
+wiki_total_pages: 11289
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "DeceptiveSurrenderLull"
     title: "Deceptive Surrender Lull / 诈降麻痹"
     url: "/wiki/concepts/deceptivesurrenderlull/"
+  - key: "DecisionGuardrailBypass"
+    title: "Decision Guardrail Bypass"
+    url: "/wiki/concepts/decisionguardrailbypass/"
   - key: "DecisionSpeedAccuracyControl"
     title: "Decision Speed-Accuracy Control"
     url: "/wiki/concepts/decisionspeedaccuracycontrol/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14197
+wiki_total_pages: 14199
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "TheIntelligence"
     title: "The Intelligence"
     url: "/wiki/entities/theintelligence/"
+  - key: "TheInterviewFilm"
+    title: "The Interview (film)"
+    url: "/wiki/entities/theinterviewfilm/"
   - key: "TheJungleNovel"
     title: "The Jungle / 《屠场》"
     url: "/wiki/entities/thejunglenovel/"

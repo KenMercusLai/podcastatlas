@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3853
+topic_total_pages: 3855
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5044,6 +5044,9 @@ topic_concepts:
   - key: "ThirdPartyDoctrine"
     title: "Third-Party Doctrine"
     url: "/wiki/concepts/thirdpartydoctrine/"
+  - key: "ThreatChannelBlindness"
+    title: "Threat-Channel Blindness"
+    url: "/wiki/concepts/threatchannelblindness/"
   - key: "ThreeNonVentureTheory"
     title: "Three-Non Venture Theory / 三非理论"
     url: "/wiki/concepts/threenonventuretheory/"
@@ -10968,6 +10971,9 @@ topic_sources:
   - key: "tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128"
     title: "The promise and risks of AI for mental health support"
     url: "/wiki/sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128/"
+  - key: "the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series"
+    title: "The Sony Hack | The Mistakes Series"
+    url: "/wiki/sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series/"
   - key: "tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128"
     title: "The tech transforming Baltimore's Francis Scott Key Bridge"
     url: "/wiki/sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128/"

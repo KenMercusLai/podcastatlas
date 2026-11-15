@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Sony Hack | The Mistakes Series](sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series.md) — Revisionist History on the 2014 Sony Pictures hack, an exceptional film approval, schema-driven process failure, and a physical-to-cyber threat-model gap.
 - [A Tragedy in Texas | The Mistakes Series](sources/a-tragedy-in-texas-the-mistakes-series-a-tragedy-in-texas-the-mistakes-series.md) — Revisionist History on the Air Force's unreported conviction, rapid institutional ownership, community presence, and servant leadership after the Sutherland Springs shooting.
 - [The Worst Poet in the World | From Cautionary Tales](sources/the-worst-poet-in-the-world-from-cautionary-tales-the-worst-poet-in-the-world-from-cautionary-tales.md) — Cautionary Tales reconsiders William McGonagall through creative persistence, public humiliation, and the unresolved boundary between naïve failure and deliberate clowning.
 - [The BlackBerry Problem | The Mistakes Series](sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series.md) — Revisionist History on BlackBerry's rejected BBM services pivot and why evidence, trust, and board coalition work are distinct requirements.
@@ -5105,6 +5106,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [2014 Sony Pictures Hack](entities/SonyPicturesHack2014.md) — Destructive breach and disclosure crisis linking film governance, geopolitical risk, and cyber retaliation.
+- [The Interview (film)](entities/TheInterviewFilm.md) — Sony political comedy whose exceptional approval and contested release anchor the 2014 hack case.
 - [Heather Wilson](entities/HeatherWilson.md) — Air Force secretary who accepted responsibility for an inherited reporting failure and led rapid disclosure and corrective review.
 - [David Goldfein](entities/DavidGoldfein.md) — Air Force chief of staff whose response joined institutional ownership, community-guided presence, and leadership teaching.
 - [United States Air Force](entities/UnitedStatesAirForce.md) — U.S. military branch profiled through the conviction-reporting failure exposed by the Sutherland Springs shooting.
@@ -19395,6 +19398,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Decision Guardrail Bypass](concepts/DecisionGuardrailBypass.md) — Exceptional commitment outside cross-functional review that removes independent risk testing and cooling-off time.
+- [Schema-Context Mismatch](concepts/SchemaContextMismatch.md) — Adaptive emotional or interpretive pattern applied where its action rule conflicts with present duties and stakes.
+- [Threat-Channel Blindness](concepts/ThreatChannelBlindness.md) — Risk-analysis failure caused by evaluating one retaliation channel while overlooking another credible route.
 - [Institutional Failure Ownership](concepts/InstitutionalFailureOwnership.md) — Duty of current leaders to own disclosure, repair, and representation for inherited organizational failures without claiming causal culpability.
 - [Servant Leadership and Trust Renewal](concepts/ServantLeadershipTrustRenewal.md) — Leadership practice joining truth, stakeholder-guided presence, learning, and repeatedly earned trust.
 - [Mistake Witness Responsibility](concepts/MistakeWitnessResponsibility.md) — Duty to investigate anomalous harmful conduct, editorial process, and one's own first judgment before irreversible amplification or blame.
