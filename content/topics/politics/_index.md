@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3538
+topic_total_pages: 3539
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4606,6 +4606,9 @@ topic_concepts:
   - key: "TrustAsBusinessAsset"
     title: "Trust As Business Asset"
     url: "/wiki/concepts/trustasbusinessasset/"
+  - key: "TrustControlTransparencyBoundary"
+    title: "Trust, Control, and Transparency Boundary"
+    url: "/wiki/concepts/trustcontroltransparencyboundary/"
   - key: "TrustBasedCommonsGovernance"
     title: "Trust-Based Commons Governance"
     url: "/wiki/concepts/trustbasedcommonsgovernance/"

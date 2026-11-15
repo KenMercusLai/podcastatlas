@@ -198877,9 +198877,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -199034,6 +199034,13 @@
           "show": "Revisionist History",
           "title": "In Defense of PAW Patrol",
           "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        },
+        {
+          "episode_file": "How_to_Trust_and_Be_Trusted_with_Rachel_Botsman [How_to_Trust_and_Be_Trusted_with_Rachel_Botsman].md",
+          "key": "how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman",
+          "show": "Revisionist History",
+          "title": "How to Trust and Be Trusted with Rachel Botsman",
+          "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
         }
       ],
       "updated": "2026-11-16",
@@ -255667,6 +255674,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/rabiesexposurepostexposurecare/"
     },
+    "RachelBotsman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "How_to_Trust_and_Be_Trusted_with_Rachel_Botsman [How_to_Trust_and_Be_Trusted_with_Rachel_Botsman].md",
+          "key": "how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman",
+          "show": "Revisionist History",
+          "title": "How to Trust and Be Trusted with Rachel Botsman",
+          "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/rachelbotsman/"
+    },
     "RachelMorley": {
       "episode_count": 2,
       "show_count": 1,
@@ -262434,9 +262457,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -262577,6 +262600,13 @@
           "show": "Revisionist History",
           "title": "In Defense of PAW Patrol",
           "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        },
+        {
+          "episode_file": "How_to_Trust_and_Be_Trusted_with_Rachel_Botsman [How_to_Trust_and_Be_Trusted_with_Rachel_Botsman].md",
+          "key": "how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman",
+          "show": "Revisionist History",
+          "title": "How to Trust and Be Trusted with Rachel Botsman",
+          "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
         }
       ],
       "updated": "2026-11-16",
@@ -311546,6 +311576,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
+    },
+    "TrustControlTransparencyBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "How_to_Trust_and_Be_Trusted_with_Rachel_Botsman [How_to_Trust_and_Be_Trusted_with_Rachel_Botsman].md",
+          "key": "how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman",
+          "show": "Revisionist History",
+          "title": "How to Trust and Be Trusted with Rachel Botsman",
+          "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/trustcontroltransparencyboundary/"
+    },
+    "TrustDecisionQuality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "How_to_Trust_and_Be_Trusted_with_Rachel_Botsman [How_to_Trust_and_Be_Trusted_with_Rachel_Botsman].md",
+          "key": "how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman",
+          "show": "Revisionist History",
+          "title": "How to Trust and Be Trusted with Rachel Botsman",
+          "url": "/wiki/sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/trustdecisionquality/"
     },
     "TrustDenseDistribution": {
       "episode_count": 1,

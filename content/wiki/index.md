@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Trust and Be Trusted with Rachel Botsman](sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman.md) — Revisionist History distinguishes trust from control and connects familiarity, convenience, intuition, verification, and a deliberate pause to better trust decisions.
 - [Fluke: How Chance and Chaos Shape Our Lives](sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697.md) — Hidden Brain and Brian Klaas on chance-sensitive causality, magnitude bias, cascading fragility, slack, and resilient influence under uncertainty.
 - [The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau](sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli.md) — Revisionist History interview on patient-centered access, secure medicine authentication, treatment feedback, patient-controlled health data, wearables, long drug-development horizons, and AI-assisted discovery.
 - [Malcolm Breaks Down the Perfect Break Up Song](sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song.md) — Revisionist History compares R&B, folk, and country through autobiographical songwriting, empathetic observation, sad-song companionship, and the narrative specificity of breakup songs.
@@ -5152,6 +5153,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Rachel Botsman](entities/RachelBotsman.md) — Trust researcher connecting uncertainty, decision discipline, proportional verification, openness, and autonomy-supporting leadership.
 - [Brian Klaas](entities/BrianKlaas.md) — Political scientist connecting chance-sensitive explanation to causal humility, system slack, and resilience over complete control.
 - [Diogo Rau](entities/DiogoRau.md) — Eli Lilly technology executive connecting experience-led healthcare design to access, secure medicines, patient data, sensing, adherence, and AI-assisted discovery.
 - [Babyface](entities/Babyface.md) — R&B songwriter connecting infatuation, heartbreak, observation, empathy, and remembered detail to composition.
@@ -19558,6 +19560,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Trust Decision Quality](concepts/TrustDecisionQuality.md) — Proportional process for testing familiarity, convenience, intuition, missing information, stakes, and reversibility before consequential trust decisions.
+- [Trust, Control, and Transparency Boundary](concepts/TrustControlTransparencyBoundary.md) — Distinction between explanatory openness and continuous visibility, with clear expectations supporting accountable autonomy.
 - [Chance-Sensitive Causality](concepts/ChanceSensitiveCausality.md) — Account of small, context-specific inputs becoming decisive through interacting causal chains while remaining difficult to predict.
 - [Magnitude Bias](concepts/MagnitudeBias.md) — Tendency to expect dramatic outcomes to have equally dramatic, intentional, or narratively satisfying causes.
 - [Patient-Centered Healthcare Delivery](concepts/PatientCenteredHealthcareDelivery.md) — Experience-led care model joining timely access, patient data agency, and continuing support while preserving clinical and safety boundaries.

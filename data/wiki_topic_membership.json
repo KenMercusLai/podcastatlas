@@ -95327,6 +95327,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TrustControlTransparencyBoundary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TrustHeavyInfrastructureSales": [
     {
       "key": "technology",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14313
+wiki_total_pages: 14314
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "RougetDeLisle"
     title: "Claude Joseph Rouget de Lisle"
     url: "/wiki/entities/rougetdelisle/"
+  - key: "RachelBotsman"
+    title: "Rachel Botsman"
+    url: "/wiki/entities/rachelbotsman/"
   - key: "RachelMorley"
     title: "Rachel Morley"
     url: "/wiki/entities/rachelmorley/"

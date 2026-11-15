@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11367
+wiki_total_pages: 11369
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1169,9 +1169,15 @@ wiki_pages:
   - key: "TrustAsBusinessAsset"
     title: "Trust As Business Asset"
     url: "/wiki/concepts/trustasbusinessasset/"
+  - key: "TrustDecisionQuality"
+    title: "Trust Decision Quality"
+    url: "/wiki/concepts/trustdecisionquality/"
   - key: "TrustReciprocityLoop"
     title: "Trust Reciprocity Loop"
     url: "/wiki/concepts/trustreciprocityloop/"
+  - key: "TrustControlTransparencyBoundary"
+    title: "Trust, Control, and Transparency Boundary"
+    url: "/wiki/concepts/trustcontroltransparencyboundary/"
   - key: "TrustBasedCommonsGovernance"
     title: "Trust-Based Commons Governance"
     url: "/wiki/concepts/trustbasedcommonsgovernance/"
