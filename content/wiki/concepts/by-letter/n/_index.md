@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11301
+wiki_total_pages: 11303
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"
+  - key: "NetworkSlicing"
+    title: "Network Slicing"
+    url: "/wiki/concepts/networkslicing/"
   - key: "NetworkedFamilyPrivacy"
     title: "Networked Family Privacy"
     url: "/wiki/concepts/networkedfamilyprivacy/"

@@ -40238,6 +40238,36 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/clrjames/"
     },
+    "CNN": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0d9c6366fbf4091cd16997a64667ef8c_33634502 [default.mp3_ywr3ahjkcgo_0d9c6366fbf4091cd16997a64667ef8c_33634502].md",
+          "key": "do-prediction-market-bettors-make-anything-better",
+          "show": "Planet Money",
+          "title": "Do prediction market bettors make anything better?",
+          "url": "/wiki/sources/do-prediction-market-bettors-make-anything-better/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/cnn/"
+    },
     "CODIS": {
       "episode_count": 1,
       "show_count": 1,
@@ -61859,6 +61889,22 @@
       ],
       "updated": "2026-10-29",
       "url": "/wiki/concepts/connecticutlocalfiscalfragmentation/"
+    },
+    "ConnectivityEnabledWorkflowRedesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/connectivityenabledworkflowredesign/"
     },
     "ConnectomicsWiringDiagramMethod": {
       "episode_count": 1,
@@ -129297,6 +129343,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/guyfawkes/"
+    },
+    "GuyGriggs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/guygriggs/"
     },
     "GuyMolinari": {
       "episode_count": 3,
@@ -209774,6 +209836,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/mizicrimepodcaster/"
     },
+    "MoKatibeh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/mokatibeh/"
+    },
     "MoacirBarbosa": {
       "episode_count": 1,
       "show_count": 1,
@@ -218095,6 +218173,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/netscape/"
+    },
+    "NetworkSlicing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/networkslicing/"
     },
     "NetworkedFamilyPrivacy": {
       "episode_count": 1,
@@ -278193,6 +278287,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/siegeofwarsaw1939/"
     },
+    "SiemensEnergy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/siemensenergy/"
+    },
     "SigmundFreud": {
       "episode_count": 3,
       "show_count": 3,
@@ -287695,6 +287805,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/stevedahl/"
     },
+    "SteveDouglas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/stevedouglas/"
+    },
     "SteveGoss": {
       "episode_count": 1,
       "show_count": 1,
@@ -294564,6 +294690,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/tcellengagers/"
+    },
+    "TMobile": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
+          "key": "invisible-infrastructure-with-t-mobile-for-business",
+          "show": "Revisionist History",
+          "title": "Invisible Infrastructure with T-Mobile for Business",
+          "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/tmobile/"
     },
     "TSEliot": {
       "episode_count": 2,

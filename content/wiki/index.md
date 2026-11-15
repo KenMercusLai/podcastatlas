@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Invisible Infrastructure with T-Mobile for Business](sources/invisible-infrastructure-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on 5G network slicing, field journalism, remote energy maintenance, and connectivity-enabled workflow redesign.
 - [The Big Birthday Party](sources/the-big-birthday-party-the-big-birthday-party.md) — Revisionist History's tenth-anniversary retrospective on candid collaboration, discovery-led audio, found moments, and listeners as partners in inquiry.
 - [From Valley of Shadows: The Devil's Punchbowl](sources/from-valley-of-shadows-the-devil-s-punchbowl-from-valley-of-shadows-the-devil-s-punchbowl.md) — Valley of Shadows reconstructs deputy John Ajay's unresolved disappearance and examines early suicide framing, a six-day search, and alleged restrictions on later scrutiny.
 - [Zootopia Exposed! (Part One)](sources/zootopia-exposed-part-one-zootopia-exposed-part-one.md) — Revisionist History reconstructs Gary Goldman's failed Zootopia claim and asks why Zootopia 2 appears to echo it through Gary De'Snake and a stolen-invention plot.
@@ -5111,6 +5112,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [T-Mobile](entities/TMobile.md) — Mobile-network provider presented through enterprise slicing, first-response, journalism, and industrial field-work cases.
+- [Siemens Energy](entities/SiemensEnergy.md) — Energy-technology company using connected temporary worksites and remote expertise for turbine and generator maintenance.
+- [Mo Katibeh](entities/MoKatibeh.md) — T-Mobile for Business executive explaining network slicing and prospective enterprise applications.
+- [Guy Griggs](entities/GuyGriggs.md) — CNN executive connecting digital-first newsroom strategy to dependable field transmission.
+- [Steve Douglas](entities/SteveDouglas.md) — Siemens Energy service executive describing connected maintenance and remote engineering support.
 - [Mia Bell](entities/MiaBell.md) — Early Revisionist History collaborator whose candid critique reshaped the proposed first season.
 - [Casey Beathard Bowles](entities/CaseyBeathardBowles.md) — Singer-songwriter whose repeated lyric lapse became a live example of emotional discovery in audio.
 - [Sydney McLaughlin](entities/SydneyMcLaughlin.md) — Elite runner whose chance UCLA appearance became the show's clearest example of an unscripted found moment.
@@ -19424,6 +19430,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Network Slicing](concepts/NetworkSlicing.md) — Configuration of mobile-network characteristics for a defined operational need or user group.
+- [Connectivity-Enabled Workflow Redesign](concepts/ConnectivityEnabledWorkflowRedesign.md) — Removal or relocation of work steps through dependable point-of-action access to data and expertise.
 - [Discovery-Led Audio Storytelling](concepts/DiscoveryLedAudioStorytelling.md) — Documentary method that prepares encounters while leaving decisive voices, emotions, and events partly outside creator control.
 - [Editorial Candor as Revision](concepts/EditorialCandorAsRevision.md) — Practice of using direct collaborator criticism to redesign source mix, assumptions, and audience fit.
 - [Listener-Participatory Discovery](concepts/ListenerParticipatoryDiscovery.md) — Audience contribution loop joining public questions, distributed interpretation, editorial selection, and recirculation.

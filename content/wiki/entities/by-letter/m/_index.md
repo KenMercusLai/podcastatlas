@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14220
+wiki_total_pages: 14225
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "MixueBingcheng"
     title: "Mixue Bingcheng"
     url: "/wiki/entities/mixuebingcheng/"
+  - key: "MoKatibeh"
+    title: "Mo Katibeh"
+    url: "/wiki/entities/mokatibeh/"
   - key: "MoacirBarbosa"
     title: "Moacir Barbosa"
     url: "/wiki/entities/moacirbarbosa/"

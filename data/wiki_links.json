@@ -23495,6 +23495,10 @@
     "title": "Connecticut Local Fiscal Fragmentation",
     "url": "/wiki/concepts/connecticutlocalfiscalfragmentation/"
   },
+  "ConnectivityEnabledWorkflowRedesign": {
+    "title": "Connectivity-Enabled Workflow Redesign",
+    "url": "/wiki/concepts/connectivityenabledworkflowredesign/"
+  },
   "ConnectomicsWiringDiagramMethod": {
     "title": "Connectomics Wiring-Diagram Method",
     "url": "/wiki/concepts/connectomicswiringdiagrammethod/"
@@ -42046,6 +42050,10 @@
   "GuyFawkes": {
     "title": "Guy Fawkes",
     "url": "/wiki/entities/guyfawkes/"
+  },
+  "GuyGriggs": {
+    "title": "Guy Griggs",
+    "url": "/wiki/entities/guygriggs/"
   },
   "GuyMolinari": {
     "title": "Guy Molinari",
@@ -64743,6 +64751,10 @@
     "title": "莫晨 / Mo Chen",
     "url": "/wiki/entities/mochen/"
   },
+  "MoKatibeh": {
+    "title": "Mo Katibeh",
+    "url": "/wiki/entities/mokatibeh/"
+  },
   "MoZihao": {
     "title": "莫子浩 / Mo Zihao",
     "url": "/wiki/entities/mozihao/"
@@ -67246,6 +67258,10 @@
   "NetscapePlatformEcosystem": {
     "title": "Netscape Platform Ecosystem",
     "url": "/wiki/concepts/netscapeplatformecosystem/"
+  },
+  "NetworkSlicing": {
+    "title": "Network Slicing",
+    "url": "/wiki/concepts/networkslicing/"
   },
   "NetworkedFamilyPrivacy": {
     "title": "Networked Family Privacy",
@@ -85455,6 +85471,10 @@
     "title": "Siemens EDA / 西门子EDA",
     "url": "/wiki/entities/siemenseda/"
   },
+  "SiemensEnergy": {
+    "title": "Siemens Energy",
+    "url": "/wiki/entities/siemensenergy/"
+  },
   "SierraLeone": {
     "title": "Sierra Leone",
     "url": "/wiki/entities/sierraleone/"
@@ -88379,6 +88399,10 @@
     "title": "Steve Dahl",
     "url": "/wiki/entities/stevedahl/"
   },
+  "SteveDouglas": {
+    "title": "Steve Douglas",
+    "url": "/wiki/entities/stevedouglas/"
+  },
   "SteveFredette": {
     "title": "Steve Fredette",
     "url": "/wiki/entities/stevefredette/"
@@ -90314,6 +90338,10 @@
   "TMF": {
     "title": "TMF",
     "url": "/wiki/entities/tmf/"
+  },
+  "TMobile": {
+    "title": "T-Mobile",
+    "url": "/wiki/entities/tmobile/"
   },
   "TPG": {
     "title": "TPG",
@@ -111086,6 +111114,10 @@
   "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5": {
     "title": "Invidious position: finding Jensen Huang’s successor",
     "url": "/wiki/sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5/"
+  },
+  "invisible-infrastructure-with-t-mobile-for-business": {
+    "title": "Invisible Infrastructure with T-Mobile for Business",
+    "url": "/wiki/sources/invisible-infrastructure-with-t-mobile-for-business/"
   },
   "iran-protests-and-sanctions": {
     "title": "Iran, protests, and sanctions",

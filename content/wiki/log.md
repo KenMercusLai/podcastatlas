@@ -39886,3 +39886,13 @@ Core synthesis: documentary audio is deliberately produced but can preserve deci
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Invisible Infrastructure with T-Mobile for Business
+
+Added the sponsored [[RevisionistHistory]] episode featuring [[MoKatibeh]], [[GuyGriggs]], and [[SteveDouglas]]. Created [[TMobile]], [[SiemensEnergy]], [[NetworkSlicing]], and [[ConnectivityEnabledWorkflowRedesign]], and resynthesized [[CNN]] from its complete preserved three-source evidence inventory.
+
+Core synthesis: differentiated mobile service can preserve selected capacity, reliability, performance, or latency under congestion, while dependable point-of-work access can remove handoffs, fixed filing locations, trailer trips, and delayed expert consultation. The network remains only one layer: coverage, devices, security, applications, procedures, training, verification, human expertise, and fallback paths still determine operational value. No direct contradiction was adopted. Product performance, deployment scale, electricity share, test results, time and cost savings, security, and future healthcare, AI, predictive-maintenance, and fixed-network-displacement uses remain source-scoped because the supplied document is a structured summary of a paid partnership rather than a transcript, independent benchmark, coverage or security audit, procurement comparison, or outcomes study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,988 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

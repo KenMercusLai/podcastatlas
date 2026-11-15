@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14220
+wiki_total_pages: 14225
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "SiemensEDA"
     title: "Siemens EDA / 西门子EDA"
     url: "/wiki/entities/siemenseda/"
+  - key: "SiemensEnergy"
+    title: "Siemens Energy"
+    url: "/wiki/entities/siemensenergy/"
   - key: "SierraLeone"
     title: "Sierra Leone"
     url: "/wiki/entities/sierraleone/"
@@ -1718,6 +1721,9 @@ wiki_pages:
   - key: "SteveDahl"
     title: "Steve Dahl"
     url: "/wiki/entities/stevedahl/"
+  - key: "SteveDouglas"
+    title: "Steve Douglas"
+    url: "/wiki/entities/stevedouglas/"
   - key: "SteveFredette"
     title: "Steve Fredette"
     url: "/wiki/entities/stevefredette/"
