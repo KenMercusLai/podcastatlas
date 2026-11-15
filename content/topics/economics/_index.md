@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2404
+topic_total_pages: 2405
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -775,6 +775,9 @@ topic_concepts:
   - key: "ConfessionalTradeConflict"
     title: "Confessional Trade Conflict"
     url: "/wiki/concepts/confessionaltradeconflict/"
+  - key: "ConquestFinancingFeedbackLoop"
+    title: "Conquest Financing Feedback Loop"
+    url: "/wiki/concepts/conquestfinancingfeedbackloop/"
   - key: "ConsortioGroupFinancing"
     title: "Consortio Group Financing"
     url: "/wiki/concepts/consortiogroupfinancing/"

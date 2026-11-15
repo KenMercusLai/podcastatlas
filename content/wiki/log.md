@@ -39915,3 +39915,13 @@ Core synthesis: a creative project can retain relational and experiential value 
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Show 73 - Mania for Subjugation III
+
+Added the [[HardcoreHistory]] episode on [[AlexanderTheGreat|Alexander the Great's]] debt-strained invasion of the [[AchaemenidEmpire]], Homeric self-presentation, and the [[BattleOfGranicus]]. Created focused profiles for Granicus and [[Antipater]], added [[ConquestFinancingFeedbackLoop]], and resynthesized Alexander, [[PhilipIIMacedon|Philip II of Macedon]], [[Olympias]], [[DariusIII|Darius III]], the Achaemenid Empire, [[Parmenion]], [[MemnonOfRhodes|Memnon of Rhodes]], Hardcore History, [[CampaignLogisticsAndTempo]], and [[KleosHeroicGlory]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Philip's professional army, senior officers, Asian bridgehead, invasion plan, and debts made some Persian war structurally likely, while Alexander's Achilles-centered pursuit of fame and unusually weak stopping rule help explain expansion after captured revenue eased the initial fiscal crisis. Granicus joins disputed tactical reconstruction and near-fatal leader exposure to Greek-mercenary destruction and the transition toward self-financing conquest. The Achaemenid revision distinguishes succession and coordination vulnerability from inevitable decadence or civilizational collapse. No settled contradiction was adopted. Debt, cost, force, casualty, and enslavement totals; divine-paternity disclosures; Bagoas traditions; Memnon's plan; speeches; crossing time; and exact battlefield mechanics remain source-scoped because the supplied file is a structured summary rather than a transcript, fiscal archive, Persian narrative, or contemporary battle account. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,991 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

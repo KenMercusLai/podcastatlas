@@ -10,6 +10,7 @@ sources:
   - 116-alexander-the-great-part-1-glt3321594885
   - 15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
+  - dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -24,9 +25,9 @@ Alexander the Great / 亚历山大大帝 appears as a tactically adaptive Macedo
 
 The campaign profile begins before Alexander's accession. Philip II consolidated Macedon, financed and reorganized its army, defeated Athens and Thebes at Chaeronea, and prepared the Persian invasion. [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] adds Renault's explicitly literary formation story: a child shaped by Homeric models, education associated with [[Aristotle]], dynastic insecurity, and the struggle between Philip and [[Olympias]]. This makes family intimacy part of royal political socialization while leaving precise childhood psychology and dialogue in [[FireFromHeaven|《天堂之火》]] source-scoped.
 
-Alexander secured an uncertain succession at twenty, campaigned in the Balkans, and destroyed rebellious Thebes before crossing the Hellespont. Heroic rituals at Achilles's tomb and stories such as the taming of [[Bucephalus]] show political theater and self-mythologizing operating alongside force.
+Alexander secured an uncertain succession at twenty, campaigned in the Balkans, and destroyed rebellious Thebes before crossing the Hellespont. [[dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii]] sharpens the structural starting point: Philip's professional army, senior officers, Persian bridgehead, invasion plan, and debts made some Asian war likely, while continuing military expense made delay costly. Alexander's loans, pledged property, and companion participation placed the expedition on a narrow financial runway. Heroic rituals at the Hellespont and Troy then joined political theater to an Achilles-centered [[KleosHeroicGlory|glory ideal]].
 
-Granicus and [[BattleOfIssus|Issus]] turned a risky expedition into an expanding conquest. [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] sharpens the intervening campaign: Alexander uses speed, treasury capture, siege engineering, and personal exposure to consolidate western Anatolia and deepen an [[ArmyCommanderBond]] with Philip's inherited troops. At [[Miletus]] he avoids battle in Persia's strongest naval medium, but disbanding most of his fleet leaves a real rear-area risk. At [[Halicarnassus]], walls and naval access neutralize preferred cavalry and phalanx advantages, producing a costly gain rather than a clean triumph.
+The [[BattleOfGranicus]] and [[BattleOfIssus|Issus]] turned a risky expedition into an expanding conquest. At Granicus, Alexander's visible cavalry leadership helped widen a river crossing while making him the obvious Persian target; his near death reveals a campaign whose political continuity depended heavily on one person. The subsequent destruction and enslavement of Greek mercenaries exposes the coercive underside of Panhellenic liberation. Captured cities and treasuries relieved the immediate fiscal crisis and activated a [[ConquestFinancingFeedbackLoop]]. [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] sharpens the intervening campaign: Alexander uses speed, treasury capture, siege engineering, and personal exposure to consolidate western Anatolia and deepen an [[ArmyCommanderBond]] with Philip's inherited troops. At [[Miletus]] he avoids battle in Persia's strongest naval medium, but disbanding most of his fleet leaves a real rear-area risk. At [[Halicarnassus]], walls and naval access neutralize preferred cavalry and phalanx advantages, producing a costly gain rather than a clean triumph.
 
 Issus itself combines brilliance with danger. Constricted terrain limits Persian numbers; disciplined deployment and Alexander's right-wing assault break one part of the line, while gaps in the river-crossing phalanx let Greek mercenaries nearly destroy the Macedonian center. Darius's departure then triggers a rout and mass pursuit killing. The captured camp and royal family increase Alexander's wealth and prestige, while the encounter with Persian royal scale becomes an interpretive threshold between Macedonian first-among-equals leadership and more exalted kingship. His movement down the Phoenician coast later removed Persian naval bases, while the long siege and severe punishment of Tyre joined strategy to exemplary violence. His refusal of Darius's settlement offers, Egyptian coronation, founding of [[Alexandria]], and consultation at Siwa show ambition widening through success before the decisive [[BattleOfGaugamela]] in 331 BC.
 
@@ -43,7 +44,7 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 - Inherits a powerful Macedonian state and combined-arms system, then extends it through battlefield maneuver, siegecraft, and psychological shock.
 - Converts an inherited army into a personal following through shared danger, attention, relentless movement, and repeated success.
 - Is remembered through a formation narrative in which royal education, heroic imitation, family coercion, and succession danger shape the future conqueror.
-- Expands an initially bounded invasion through repeated victory, symbolic performance, and refusal of territorial compromise.
+- Expands a fiscally pressured invasion through treasury capture, repeated victory, symbolic performance, heroic fame, and refusal of territorial compromise.
 - Seeks to convert conquest into Achaemenid succession through local kingship, elites, court forms, dynastic ties, and military incorporation.
 - Continues east despite mounting strategic ambiguity, elite killings, army resistance, and logistical catastrophe.
 - Carries an afterlife in which military brilliance, cultural transformation, and charisma coexist with destructive excess and moral dispute.
@@ -53,6 +54,7 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 - Inherited platform and accession: [[116-alexander-the-great-part-1-glt3321594885]] connects Philip's reforms and Chaeronea to Alexander's succession, Thebes, and the Asian crossing.
 - Literary formation: [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] reads *Fire from Heaven* through childhood intelligence, Homeric models, Aristotle, family coercion, and the contested succession.
 - Early expansion and symbolic rule: [[116-alexander-the-great-part-1-glt3321594885]] follows Granicus, Issus, Tyre, Egypt, Alexandria, Siwa, and the refusal of Darius's offers.
+- Invasion finance, Homeric ambition, and Granicus: [[dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii]] connects inherited military capacity and debt to borrowing, Troy ritual, front-line risk, mercenary destruction, and captured revenue.
 - Anatolian campaigning and Issus: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] connects Miletus, Halicarnassus, fleet risk, logistics, formation crisis, rout, the captured royal household, and widening royal ambition.
 - Battlefield and succession: [[117-alexander-the-great-part-2-glt9707946822]] connects Gaugamela, entry into the imperial capitals, pursuit of Darius, and Persian incorporation.
 - Expansion and resistance: [[117-alexander-the-great-part-2-glt9707946822]] follows the Central Asian and Indian campaigns, Macedonian opposition, Hyphasis refusal, and desert return.
@@ -63,14 +65,14 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 
 ## Qualifications
 
-This profile relies on popular-history retellings, a literary discussion, and late ancient traditions rather than contemporary Persian narrative evidence. Philip's assassination, army sizes, speeches, battlefield details, Darius's departure, the royal-family scene, oracles, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Claims about cumulative trauma, concussion, paranoia, or corruption by luxury are interpretive possibilities, not diagnoses or recovered inner states. Renault's detailed childhood interiority is evidence about historical imagination, not independent biography. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
+This profile relies on popular-history retellings, a literary discussion, and late ancient traditions rather than contemporary Persian narrative evidence. Philip's assassination and debt, army costs and sizes, speeches, battlefield details, Granicus timing and casualties, Darius's departure, the royal-family scene, oracles, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Claims about divine self-belief, cumulative trauma, concussion, paranoia, or corruption by luxury are interpretive possibilities, not diagnoses or recovered inner states. Renault's detailed childhood interiority is evidence about historical imagination, not independent biography. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
 
 ## What Changed
 
-- Added western Anatolian siege, fleet, finance, and operational-tempo evidence between Granicus and Issus.
-- Recast Issus as a simultaneous right-wing breakthrough, phalanx crisis, morale collapse, and post-rout slaughter rather than a frictionless victory.
-- Added the army–commander bond and exposure to Persian royal scale as qualified mechanisms in Alexander's expanding command and kingship.
-- Preserved trauma, concussion, paranoia, and corrupting-luxury claims as possibilities rather than settled psychological explanation.
+- Distinguished structural pressure for an Asian invasion from Alexander's personal contribution to its scale and duration.
+- Added borrowing, pledged property, army cost, and Granicus treasury capture as the campaign's early financial mechanism.
+- Recast Granicus around disputed reconstruction, leader exposure, Greek-mercenary destruction, and the campaign's single-person vulnerability.
+- Added Achilles-centered glory seeking as a qualified explanation for conquest beyond restored solvency.
 
 ## Relationships
 
@@ -86,3 +88,5 @@ This profile relies on popular-history retellings, a literary discussion, and la
 - [[FireFromHeaven|《天堂之火》]] - literary formation narrative extending the profile into childhood and adolescence.
 - [[BattleOfIssus]] - victory joining tactical success, near-disaster, rout, wealth, and widening ambition.
 - [[ArmyCommanderBond]] - mechanism by which Philip's inherited force increasingly identifies with Alexander.
+- [[BattleOfGranicus]] - first Asian victory joining near-fatal leadership exposure to captured revenue and coercive aftermath.
+- [[ConquestFinancingFeedbackLoop]] - mechanism through which victory removes the immediate fiscal constraint on expansion.

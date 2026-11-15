@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14229
+wiki_total_pages: 14231
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "BattleOfTheFrontiers1914"
     title: "Battle of the Frontiers (1914)"
     url: "/wiki/entities/battleofthefrontiers1914/"
+  - key: "BattleOfGranicus"
+    title: "Battle of the Granicus"
+    url: "/wiki/entities/battleofgranicus/"
   - key: "BattleOfLittleBighorn"
     title: "Battle of the Little Bighorn"
     url: "/wiki/entities/battleoflittlebighorn/"

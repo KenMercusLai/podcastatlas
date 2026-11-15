@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11305
+wiki_total_pages: 11306
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2273,6 +2273,9 @@ wiki_pages:
   - key: "ConquestEliteMarriageIntegration"
     title: "Conquest Elite Marriage Integration / 征服后联姻整合"
     url: "/wiki/concepts/conquestelitemarriageintegration/"
+  - key: "ConquestFinancingFeedbackLoop"
+    title: "Conquest Financing Feedback Loop"
+    url: "/wiki/concepts/conquestfinancingfeedbackloop/"
   - key: "ConquestRuptureContinuity"
     title: "Conquest Rupture and Continuity"
     url: "/wiki/concepts/conquestrupturecontinuity/"

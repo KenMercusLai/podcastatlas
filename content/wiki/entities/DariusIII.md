@@ -6,6 +6,7 @@ sources:
   - 117-alexander-the-great-part-2-glt9707946822
   - 116-alexander-the-great-part-1-glt3321594885
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
+  - dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -18,7 +19,7 @@ Darius III was the final Achaemenid king, whose defeats by [[AlexanderTheGreat|A
 
 ## Current Profile
 
-[[116-alexander-the-great-part-1-glt3321594885]] introduces Darius as a ruler who initially underestimated the scale of the Macedonian threat, then personally confronted it at [[BattleOfIssus|Issus]]. [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] adds the material and ceremonial system behind that confrontation: imperial roads, depots, regional supply, elite cavalry, Greek mercenaries, missile troops, a large royal entourage, and a public display of kingship. The vast ancient totals remain implausible, but dismissing the host as decadent misses its administrative capacity and political function.
+[[dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii]] places Darius's recent accession inside a court with recurrent assassination, rival claimants, and contested stories about Bagoas. It also preserves traditions of Darius's battlefield courage and legitimate royal ancestry, preventing succession vulnerability from becoming a simple cowardice or decadence diagnosis. [[116-alexander-the-great-part-1-glt3321594885]] then introduces him as a ruler who initially underestimated the scale of the Macedonian threat before personally confronting it at [[BattleOfIssus|Issus]]. [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] adds the material and ceremonial system behind that confrontation: imperial roads, depots, regional supply, elite cavalry, Greek mercenaries, missile troops, a large royal entourage, and a public display of kingship. The vast ancient totals remain implausible, but dismissing the host as decadent misses its administrative capacity and political function.
 
 At Issus, Darius's move behind Alexander may be intentional or accidental. It cuts the prior supply route but also places the larger army in terrain that restricts frontage and cavalry. Alexander's local breakthrough and drive toward the royal center coincide with a severe Macedonian phalanx crisis elsewhere. Darius then abandons the chariot and escapes by horse. Later hostile traditions convert an uncertain battlefield withdrawal into a moral story of cowardice; whatever its immediate rationale, the departure becomes a command signal that helps spread rout. His mother, wife, and children fall into Macedonian hands, and the combined loss of field, camp, and family is a major prestige disaster.
 
@@ -28,7 +29,7 @@ Afterward Darius retreats east with Bessus. Bessus claims kingship and Darius is
 
 ## Key Characteristics
 
-- Final king in the Achaemenid succession presented by the source.
+- Recently enthroned final king in a succession system exposed to court violence and faction.
 - Personally confronts Alexander at Issus, where defeat and the loss of his family damage royal prestige.
 - Mobilizes imperial logistics, regional forces, and royal ceremony as parts of a single political-military system.
 - Offers ransom, marriage, and territorial compromise before the decisive battle.
@@ -39,6 +40,7 @@ Afterward Darius retreats east with Bessus. Bessus claims kingship and Darius is
 ## Evidence
 
 - Issus and royal family: [[116-alexander-the-great-part-1-glt3321594885]] connects restricted terrain, flight, the captured camp, and Alexander's reported respectful treatment of Darius's family.
+- Accession vulnerability: [[dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii]] connects assassination-prone succession and Bagoas traditions to Darius's new but ancestrally legitimate kingship.
 - Issus mobilization and collapse: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] connects supply organization, royal display, terrain, Greek mercenaries, Darius's departure, rout, and hostile Greek framing.
 - Settlement offers: [[116-alexander-the-great-part-1-glt3321594885]] presents escalating offers whose rejection marks Alexander's whole-empire ambition.
 - Renewed mobilization: [[117-alexander-the-great-part-2-glt9707946822]] describes Darius's army at Gaugamela.
@@ -47,13 +49,13 @@ Afterward Darius retreats east with Bessus. Bessus claims kingship and Darius is
 
 ## Qualifications
 
-This profile depends on three popular-history retellings shaped by later Greek and Roman sources. Army sizes, tactical sequences, reported offers and speeches, Darius's maneuver and reasons for leaving, the royal-chariot scene, Alexander's conduct toward the royal family, Darius's final exchange, and Bessus's exact responsibility should remain source-scoped rather than treated as transparent contemporary evidence. Greek descriptions of Persian luxury and dress also carry gendered and anti-Persian stereotypes.
+This profile depends on four popular-history retellings shaped by later Greek and Roman sources. Bagoas's role, Darius's accession, battlefield reputation, army sizes, tactical sequences, reported offers and speeches, Darius's maneuver and reasons for leaving, the royal-chariot scene, Alexander's conduct toward the royal family, Darius's final exchange, and Bessus's exact responsibility should remain source-scoped rather than treated as transparent contemporary evidence. Greek descriptions of Persian luxury and dress also carry gendered and anti-Persian stereotypes.
 
 ## What Changed
 
-- Added the logistical, ceremonial, and multinational structure of Darius's royal army.
-- Reframed Issus around terrain tradeoffs, command signaling, and a rout rather than a simple cowardice narrative.
-- Made Greek cultural bias in descriptions of Persian wealth and masculinity explicit.
+- Added Darius's recent accession, legitimate ancestry, and reported courage to the pre-invasion profile.
+- Located royal vulnerability in recurrent succession violence and faction rather than Persian decadence.
+- Preserved Bagoas poisoning traditions as hostile, dramatic, and source-dependent.
 
 ## Relationships
 
@@ -63,3 +65,4 @@ This profile depends on three popular-history retellings shaped by later Greek a
 - [[AlexanderImperialSuccessionStrategy]] - framework explaining Alexander's use of Darius's memory and governing inheritance.
 - [[BattleOfIssus]] - defeat where maneuver, restricted terrain, withdrawal, and captured family damage royal authority.
 - [[BattlefieldCohesionAndRout]] - mechanism through which Darius's departure becomes wider military collapse.
+- [[BattleOfGranicus]] - regional defeat preceding Darius's personal entry into the campaign.

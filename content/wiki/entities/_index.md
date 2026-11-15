@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14229
+wiki_total_pages: 14231
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1559,6 +1559,9 @@ wiki_pages:
   - key: "Antinous"
     title: "Antinous"
     url: "/wiki/entities/antinous/"
+  - key: "Antipater"
+    title: "Antipater"
+    url: "/wiki/entities/antipater/"
   - key: "Antler"
     title: "Antler"
     url: "/wiki/entities/antler/"

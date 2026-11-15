@@ -8024,9 +8024,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 8,
-      "show_count": 1,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 2,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -8083,6 +8083,13 @@
           "show": "The Rest Is History",
           "title": "41. Persia",
           "url": "/wiki/sources/41-persia-glt6414068538/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-10-03",
@@ -14169,9 +14176,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -14221,6 +14228,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-11-15",
@@ -20962,6 +20976,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/antinouscultformation/"
+    },
+    "Antipater": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/antipater/"
     },
     "AntisemiticConspiracyScapegoating": {
       "episode_count": 2,
@@ -30470,6 +30500,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/battleofgettysburg/"
+    },
+    "BattleOfGranicus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/battleofgranicus/"
     },
     "BattleOfGrunwald1410": {
       "episode_count": 1,
@@ -41875,9 +41921,9 @@
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
     },
     "CampaignLogisticsAndTempo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
@@ -41885,6 +41931,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-11-15",
@@ -62016,6 +62069,22 @@
       "updated": "2026-11-09",
       "url": "/wiki/concepts/conquestelitemarriageintegration/"
     },
+    "ConquestFinancingFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/conquestfinancingfeedbackloop/"
+    },
     "ConquestRuptureContinuity": {
       "episode_count": 2,
       "show_count": 1,
@@ -71927,9 +71996,9 @@
       "url": "/wiki/entities/dariusi/"
     },
     "DariusIII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9707946822 [GLT9707946822].md",
@@ -71951,6 +72020,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-11-15",
@@ -133759,9 +133835,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -133783,6 +133859,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-11-15",
@@ -171528,9 +171611,9 @@
       "url": "/wiki/entities/kiyoshikurokawa/"
     },
     "KleosHeroicGlory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
@@ -171538,6 +171621,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-09-07",
@@ -203796,9 +203886,9 @@
       "url": "/wiki/entities/memex/"
     },
     "MemnonOfRhodes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
@@ -203806,6 +203896,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-11-15",
@@ -225177,9 +225274,9 @@
       "url": "/wiki/entities/olympedegouges/"
     },
     "Olympias": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -225201,6 +225298,13 @@
           "show": "怪东西Weird History",
           "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
           "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-10-09",
@@ -231503,9 +231607,9 @@
       "url": "/wiki/concepts/parliamentarysystem/"
     },
     "Parmenion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
@@ -231513,6 +231617,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-11-15",
@@ -236664,9 +236775,9 @@
       "url": "/wiki/entities/philipii/"
     },
     "PhilipIIMacedon": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3321594885 [GLT3321594885].md",
@@ -236681,6 +236792,13 @@
           "show": "怪东西Weird History",
           "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
           "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        },
+        {
+          "episode_file": "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md",
+          "key": "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 73 - Mania for Subjugation III",
+          "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
         }
       ],
       "updated": "2026-10-09",

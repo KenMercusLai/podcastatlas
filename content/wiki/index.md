@@ -5109,6 +5109,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
+- [Show 73 - Mania for Subjugation III](sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii.md) — Hardcore History on Macedonian campaign finance, Alexander's Homeric glory, Achaemenid durability, conflicting Granicus accounts, leader exposure, and mercenary massacre.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
@@ -6992,9 +6993,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Guy Fawkes](entities/GuyFawkes.md) — Plot explosives specialist whose cultural afterlife became a portable anti-establishment symbol.
 - [James VI and I](entities/JamesVIAndI.md) — Monarch whose accession raised toleration hopes and whose survival anchored Protestant thanksgiving.
 - [Robert Cecil](entities/RobertCecil.md) — Jacobean minister associated with plot detection, managed-discovery theories, and political stability.
-- [Philip II of Macedon](entities/PhilipIIMacedon.md) — Macedonian king whose state, army, Greek hegemony, royal education, marriages, and succession choices formed Alexander's inherited platform and danger.
+- [Philip II of Macedon](entities/PhilipIIMacedon.md) — Macedonian king whose costly army, debts, Asian bridgehead, Greek hegemony, and dynastic politics formed Alexander's inherited platform and danger.
 - [Duncan French](entities/DuncanFrench.md) — Exercise physiologist and UFC performance leader organizing training, recovery, nutrition, and environmental stress around target adaptations.
-- [Darius III](entities/DariusIII.md) — Final Achaemenid king whose defeat and death allowed Alexander to claim succession as avenger and heir.
+- [Darius III](entities/DariusIII.md) — Recently enthroned final Achaemenid king whose succession vulnerability, defeats, and death enabled Alexander's avenger-and-heir claim.
 - [Battle of Gaugamela](entities/BattleOfGaugamela.md) — Decisive 331 BC victory opening the Achaemenid imperial heartland to Alexander.
 - [The Cenotaph](entities/Cenotaph.md) — Abstract empty-tomb monument that became the civic center of British national remembrance.
 - [Unknown Warrior](entities/UnknownWarrior.md) — Unidentified serviceman buried in Westminster Abbey as a representative focus for missing war dead and bereaved families.
@@ -7168,7 +7169,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rhonda Patrick](entities/RhondaPatrick.md) — Health educator and researcher connecting micronutrients, metabolism, adaptive stress, testing, and thermal exposure.
 - [Operation Barbarossa](entities/OperationBarbarossa.md) — Nazi Germany's under-resourced 1941 invasion of the Soviet Union, combining rapid victories with early culmination and annihilatory occupation.
 - [Dan Carlin](entities/DanCarlin.md) — Hardcore History host using long-form research, comparison, counterfactuals, and qualified realism about the past.
-- [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's long-form history podcast, represented through research-led big-question crossovers with The Rest Is History.
+- [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's long-form history podcast joining structural causation, counterfactuals, battle reconstruction, violence, and source-qualified speculation.
 - [Hercule Poirot](entities/HerculePoirot.md) — Christie's Belgian outsider detective, whose modern unheroic persona exposes prejudice and hidden guilt.
 - [Miss Marple](entities/MissMarple.md) — Christie's underestimated village detective, whose social knowledge reveals ordinary respectable evil.
 - [Frances Christie](entities/FrancesChristie.md) — Sotheby's curator whose Jubilee exhibition interprets Elizabeth II's reign through portraits, ritual objects, protest graphics, art, and jewelry.
@@ -7223,7 +7224,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frances Stewart](entities/FrancesStewart.md) — Restoration court beauty associated with Charles II, the Duchess of Richmond title, and Britannia imagery.
 - [Judas Iscariot](entities/JudasIscariot.md) — New Testament disciple whose betrayal memory is used as a tightly bounded reality-show archetype.
 - [Lola Montez](entities/LolaMontez.md) — Irish-born performer whose Spanish stage persona, transnational celebrity, Bavarian prominence, and scandals shaped her public image.
-- [Olympias](entities/Olympias.md) — Macedonian queen represented through dynastic position, marital conflict, religious imagery, hostile tradition, and literary maternal power.
+- [Olympias](entities/Olympias.md) — Macedonian queen represented through dynastic position, religious imagery, conflicting divine-paternity traditions, hostile testimony, and literary maternal power.
 - [Sporus](entities/Sporus.md) — Freeborn youth subjected to Nero's coercive castration and Poppaea role, later imperial transfer, threatened spectacle, and comic afterlife.
 - [Stanley Baldwin](entities/StanleyBaldwin.md) — British prime minister associated with interwar parliamentary stability, rural-suburban imagery, and a later comic family portrait.
 - [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.
@@ -15451,7 +15452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gnaeus Octavius / 格奈乌斯·屋大维](entities/GnaeusOctaviusRomanConsul.md) — Conservative 87 BC consul whose conflict with Cinna over Italian enfranchisement ends with Cinna's outlawry and Octavius's murder in office.
 - [Aristion of Athens / 雅典的阿里斯提昂](entities/AristionAthens.md) — Athenian philosopher-politician who leads Athens into Mithridatic revolt before Sulla's siege, sack, and forced-poison execution.
 - [Athens / 雅典](entities/Athens.md) — Greek city synthesized through legal compromise, tyranny, territorial democracy, Persian-war survival, Sullan destruction, and Roman cultural afterlife.
-- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Foundational Iranian imperial order whose conquest, ideology, Greek wars, defeat, and selective inheritance frame its long political life.
+- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Durable Iranian imperial order whose satrapal governance, accommodation, ideology, succession crises, Greek wars, and selective inheritance frame its political life.
 - [Herodotus](entities/Herodotus.md) — Greek historian who combines inquiry, attributed testimony, ethnography, cross-cultural comparison, narrative art, and reflection on empire.
 - [Thucydides](entities/Thucydides.md) — Greek historian whose contingent treatment of war and power is distinguished from deterministic modern “trap” readings.
 - [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
@@ -18753,7 +18754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 - [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
-- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror whose literary formation, tactics, Persian succession project, eastern overextension, violence, and legendary afterlife remain inseparable.
+- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror whose inherited war machine, campaign finance, Homeric ambition, tactics, Persian succession project, violence, and afterlife remain inseparable.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose coalition persuasion, resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
@@ -19425,10 +19426,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host using interview, analogy, cross-domain comparison, and historical argument to test social and institutional claims.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 - [Battle of Issus](entities/BattleOfIssus.md) — 333 BC victory where constrained terrain, a Macedonian center crisis, Darius's departure, and rout transformed Alexander's campaign.
+- [Battle of the Granicus](entities/BattleOfGranicus.md) — 334 BC river victory joining disputed tactics, Alexander's near death, Greek-mercenary destruction, and access to captured revenue.
+- [Antipater](entities/Antipater.md) — Philip-era commander whose dynastic counsel and European regency supplied rear security for Alexander's Asian invasion.
 - [Halicarnassus](entities/Halicarnassus.md) — Fortified Anatolian city where walls and Persian naval access sharply reduced Macedonian field-army advantages.
-- [Parmenion](entities/Parmenion.md) — Philip-era senior general whose cautious counsel helps reveal Alexander's growing authority over the inherited command.
+- [Parmenion](entities/Parmenion.md) — Philip-era senior general associated with the Asian bridgehead, dynastic caution, and disputed advice at Granicus and Miletus.
 - [Hephaestion](entities/Hephaestion.md) — Alexander's close companion in the uncertain Issus royal-household identification anecdote.
-- [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
+- [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander associated with scorched-earth advice, fortification, mercenaries, naval mobility, and rear operations against Alexander.
 - [Scene on Radio / Seen on Radio](entities/SeenOnRadio.md) — Eight-part media-system season joining community reporting, communication research, history, and democratic analysis.
 - [Chenjerai Kumanyika](entities/ChenjeraiKumanyika.md) — Co-host who interprets partisan disagreement without caricature and defends journalism as civic infrastructure.
 - [Dannagal Young](entities/DannagalYoung.md) — Communication scholar connecting news use to comprehension, control, community, political sorting, and framing.
@@ -23312,7 +23315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Technological Responsibility Radius / 技术责任半径](concepts/TechnologicalResponsibilityRadius.md) — Ethical frame where expanded tools, AI, data, satellites, war, and capital enlarge the consequences humans must answer for.
 - [Poetic Causality / 诗性因果](concepts/PoeticCausality.md) — Poetic use of causal connectives such as "because" and "所以" to join images and consequences without formal proof.
 - [Classic Revoicing From New Position / 新位置重述经典](concepts/ClassicRevoicingFromNewPosition.md) — Reception pattern where later creators honor old works by speaking them again from changed historical, technological, and ethical positions.
-- [Kleos Heroic Glory / 克莱奥斯英雄声名](concepts/KleosHeroicGlory.md) — Homeric value of enduring fame through great deeds, deconstructed in the Nolan Odyssey reading.
+- [Kleos Heroic Glory / 克莱奥斯英雄声名](concepts/KleosHeroicGlory.md) — Homeric fame ideal enacted in Alexander's Achilles-centered conquest and deconstructed in a modern Odyssey reading.
 - [IMAX Authenticity Aesthetic / IMAX真实美学](concepts/IMAXAuthenticityAesthetic.md) — Large-format film aesthetic that creates physical immersion while constraining camera movement, sound, lighting, take length, and staging.
 - [联销体模式 / Lianxiaoti Distribution](concepts/LianxiaotiDistribution.md) — Wahaha distributor alliance model using deposits, advance payment, territorial discipline, and tiered wholesale to solve cash-flow and lower-tier channel reach.
 - [销地产模式 / Sales-Based Production Localization](concepts/SalesBasedProductionLocalization.md) — Wahaha-style strategy of building production close to regional sales markets to lower logistics costs and align with local demand and employment.
@@ -30844,6 +30847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Army–Commander Bond](concepts/ArmyCommanderBond.md) — Trust and personal identification accumulated through shared danger, visible attention, repeated success, and stable participation.
 - [Battlefield Cohesion and Rout](concepts/BattlefieldCohesionAndRout.md) — Mechanism linking formation gaps, confidence, leader signals, panic, bottlenecks, and pursuit to military collapse.
 - [Campaign Logistics and Tempo](concepts/CampaignLogisticsAndTempo.md) — Interaction among supply, route consumption, fleet cost, treasury, bases, movement speed, and operational timing.
+- [Conquest Financing Feedback Loop](concepts/ConquestFinancingFeedbackLoop.md) — Cycle in which borrowing launches war and captured revenue removes the fiscal constraint on continued conquest.
 - [News Consumer Needs](concepts/NewsConsumerNeeds.md) — Comprehension, control, and community goals pursued through information alongside factual accuracy.
 - [News-Desert Media Substitution](concepts/NewsDesertMediaSubstitution.md) — Shift toward aggregators, distant broadcasters, social testimony, radio, and personal networks when local reporting thins.
 - [Partisan Framing Across Exposure](concepts/PartisanFramingAcrossExposure.md) — Hostile interpretive packaging that preserves visibility of opponents while discouraging understanding.
