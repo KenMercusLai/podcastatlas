@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Hitler’s Olympics, Part 4: Outcast in Olympia
+
+Added the [[RevisionistHistory]] episode tracing [[AveryBrundage]] from poverty, engineering, construction, and an unfinished Stockholm decathlon into wealth, strict [[OlympicAmateurism]], and pursuit of the [[InternationalOlympicCommittee]]. Resynthesized Brundage, [[PierreDeCoubertin]], [[JimThorpe]], the [[ModernOlympicGames]], the IOC, amateurism, and [[SelectiveSportsNeutrality]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Brundage's Olympic creed could be sincere and still produce selective governance. Measurable sport offered him a refuge from corruption and a route into elite status, while his failure to finish in 1912 and Thorpe's later punishment show how participation, purity, and merit could become moral judgments enforced through institutional power. Coubertin's peace and internationalism remain part of the Olympic ideal, but racial-improvement language in “Ode to Sport” prevents treating that ideal as automatically opposed to exclusion. No settled contradiction is adopted. The proposed links among Brundage's shame, jealousy, IOC ambition, and treatment of Thorpe remain episode-scoped psychological interpretation, and no appointment bargain or complete equivalence between Olympic and Nazi ideology is treated as proven. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,050 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | Hitler’s Olympics, Part 5: The Amateur’s Hour
 
 Added the [[RevisionistHistory]] episode contrasting [[AveryBrundage]]'s Nazi-managed 1934 inspection with [[MargaretLambert]]'s coerced candidacy, unequal preparation, record-level performance, and exclusion. Created Margaret Lambert and [[SelectiveSportsNeutrality]], then resynthesized Brundage, the [[InternationalOlympicCommittee]], the [[ModernOlympicGames]], [[AuthoritarianSportsPropaganda]], [[SportsBoycottEthics]], and [[OlympicAmateurism]] from their complete preserved evidence inventories before appending the new source once.
@@ -40556,6 +40564,10 @@ Added a [[RevisionistHistory]] compilation in which [[MalcolmGladwell]] connects
 Core synthesis: official recognition, actual participation, and public visibility are distinct in women's marathon history; muscle-level maps can reveal targets hidden by aggregate testing but need validation and outcome linkage; and the Owens–Long excerpt is non-independent preview provenance whose cliffhanger does not supersede the stronger archival correction in the later full episodes. No new settled contradiction was adopted beyond the source's correction of first-woman claims and the already-recorded challenge to the enlarged Owens–Long story. Counts, dialogue, medical and imaging claims, athlete status, and historical details remain source-scoped because the supplied file is a structured summary rather than a transcript, race archive, clinical study, or complete investigation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,048 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

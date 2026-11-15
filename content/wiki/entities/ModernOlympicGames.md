@@ -9,6 +9,7 @@ sources:
   - hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses
   - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
   - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
+  - hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -25,6 +26,8 @@ The Modern Olympic Games are an international sporting institution assembled fro
 
 [[80-modern-olympics-part-1-glt3795252606]] presents the Games as a synthesis of English folk and improvement contests, Greek nationalist revival, [[WilliamPennyBrookes|Much Wenlock]], [[PierreDeCoubertin|Coubertin's]] educational and masculine ideals, [[OlympicAmateurism|elite amateurism]], world exhibitions, and national prestige. Early Games were improvised and sometimes dangerous, while the marathon and much later ceremonial tradition show how modern inventions could acquire the authority of antiquity.
 
+[[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia|Hitler’s Olympics, Part 4]] makes Stockholm 1912 a consolidation point: broader international participation, the decathlon, and an arts competition helped Coubertin's project feel like a moral world rather than only an event series. [[AveryBrundage]]'s conversion shows how Olympic merit, participation, and international hierarchy could become a personal creed, while his unfinished decathlon and later pursuit of authority show that the institution also offered status, redemption, and power.
+
 Berlin 1936 is the decisive prewar institutional and aesthetic turn in that source. Nazi image management, classical bodies, torch symbolism, film, and managed hospitality demonstrated how a host could use the Games to conceal repression and project modernity. [[JesseOwens|Jesse Owens's]] victories complicated racial propaganda without canceling the regime's wider prestige gain. [[81-modern-olympics-part-2-glt4846758176]] then follows the Games from London 1948 austerity through Cold War rivalry, television, sponsorship, protest, terrorism, boycotts, doping, and large urban commitments.
 
 Together, the sources make politics constitutive rather than exceptional. Yet they refuse a wholly cynical profile: comic early stories, Durando Pietri, Jesse Owens, Barcelona's favorable reputation, and Derek Redmond finishing with his father preserve athlete and audience meanings that exceed official objectives without validating governance failures.
@@ -40,7 +43,7 @@ The Berlin record also adds an access test before competition begins. [[Margaret
 - Claims of continuity rest on selective revival and invention because the ancient and modern Games differ in religious foundation, social logic, event culture, and institutional form.
 - International competition can become symbolic comparison among states and political systems.
 - Television, sponsorship, ceremony, and urban construction make the Games a media and infrastructure project as well as a sporting event.
-- Amateurism and eligibility rules can hide class advantage or materially different forms of athlete support.
+- Amateurism and eligibility rules can hide class advantage or materially different forms of athlete support, while sincere belief in those ideals can coexist with punitive or politically selective governance.
 - Institutional claims of political neutrality repeatedly encounter nationalism, war, protest, boycott, terrorism, propaganda, repression, and politically controlled athlete access.
 - Host-city value is uneven and must include debt, displacement, public services, participation, image, and resident welfare.
 - Athlete narratives can retain emotional and ethical power beyond governance failures, but Olympic memory is co-produced by athletes, institutions, media, and political audiences, so that value neither makes participation neutral nor exempts stories from evidentiary scrutiny.
@@ -49,6 +52,8 @@ The Berlin record also adds an access test before competition begins. [[Margaret
 
 - Ancient-modern boundary: [[79-ancient-olympics-glt9627584488]] places ancient competition inside Zeus worship, sacrifice, civic rivalry, exclusion, and heroic violence.
 - Constructed origins: [[80-modern-olympics-part-1-glt3795252606]] connects Cotswold, Greek, Much Wenlock, Coubertin, exhibition, and amateur traditions.
+- Stockholm consolidation: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] connects international ceremony, new events, Coubertin's Olympic religion, and Brundage's conversion to the movement's moral authority.
+- Personal-institutional bridge: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] uses Brundage's failure, ambition, and strict rule faith to show how an institutional ideal can become a vehicle for redemption and control.
 - Prewar transformation: [[80-modern-olympics-part-1-glt3795252606]] follows improvised early Games into Los Angeles ceremony and Berlin's propaganda template.
 - Postwar transformation: [[81-modern-olympics-part-2-glt4846758176]] contrasts London 1948's austerity with later spectacle, television, and construction.
 - Political stage: [[81-modern-olympics-part-2-glt4846758176]] follows Cold War medal rivalry, protest, boycotts, Munich, and state propaganda.
@@ -60,15 +65,14 @@ The Berlin record also adds an access test before competition begins. [[Margaret
 
 ## Qualifications
 
-The current profile is bounded to six conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, city rankings, boycott counterfactuals, host finances, or biographical evidence. Difference from the ancient festival does not erase real inspiration from antiquity, and multiple modern antecedents do not imply equal causal influence. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. Comparing Los Angeles and Berlin reveals unequal scrutiny without making Jim Crow and Nazism identical. Part 5 supports deliberate manipulation of Lambert's candidacy but does not prove every official motive or an explicit IOC appointment bargain. Correcting the Long story does not erase genuine sportsmanship, while memorable athlete narratives do not validate governance failures or participation.
+The current profile is bounded to seven conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, city rankings, boycott counterfactuals, host finances, or biographical evidence. Difference from the ancient festival does not erase real inspiration from antiquity, and multiple modern antecedents do not imply equal causal influence. Part 4's psychological reading of Brundage does not establish why he withdrew or how much shame shaped later policy. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. Comparing Los Angeles and Berlin reveals unequal scrutiny without making Jim Crow and Nazism identical. Part 5 supports deliberate manipulation of Lambert's candidacy but does not prove every official motive or an explicit IOC appointment bargain. Correcting the Long story does not erase genuine sportsmanship, while memorable athlete narratives do not validate governance failures or participation.
 
 ## What Changed
 
-- Added boycott legitimacy and institutional survival as competing dimensions of Olympic continuity.
-- Distinguished athlete-centered value from moral endorsement of hosts, organizers, or participation.
-- Extended Los Angeles 1932 from ceremonial prehistory into a commercial spectacle model transferable to Berlin.
-- Added athlete memory, economic dependence, competing protest strategies, and politically controlled access as parts of Olympic politics.
-- Distinguished emotionally useful reconciliation stories and formal eligibility promises from verified history and material opportunity.
+- Added Stockholm 1912 as a consolidation point where international ceremony, new events, and cultural ambition strengthened Olympic moral authority.
+- Added the personal-institutional bridge: Olympic belief could provide meaning and merit while also serving status, redemption, and control.
+- Connected Brundage's unfinished decathlon and Thorpe's punishment to the wider gap between participation ideals and punitive governance.
+- Preserved the distinction between sincere Olympic belief and evidence that later application was politically selective.
 
 ## Relationships
 
@@ -85,3 +89,4 @@ The current profile is bounded to six conversational historical surveys and does
 - [[MinorityAthleteRepresentativeBurden]] - unequal symbolic load placed on athletes representing marginalized groups.
 - [[MargaretLambert]] - athlete whose exclusion shows how host power could shape who reached the competitive field.
 - [[SelectiveSportsNeutrality]] - framework separating formal eligibility from materially equal access.
+- [[JimThorpe]] - athlete whose victory and amateur punishment expose the institution's contested purity rules.

@@ -7,6 +7,7 @@ sources:
   - hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses
   - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
   - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
+  - hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,10 @@ knowledge_schema: synthesis-v1
 Avery Brundage was an Olympic official represented in the current source as the clearest personal symbol of the [[InternationalOlympicCommittee]]'s contested political-neutrality doctrine.
 
 ## Current Profile
+
+[[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia|Hitler’s Olympics, Part 4]] supplies the formative profile behind Brundage's later governance. Poverty, paternal abandonment, academic and athletic striving, engineering work, and disgust with corruption made competitive measurement and [[OlympicAmateurism]] appear to offer an objective moral order. Stockholm 1912 then joined that belief to entry into an international elite, but his withdrawal before completing the decathlon became a failure he later called unforgivable.
+
+The episode interprets his subsequent wealth, amateur-sport leadership, pursuit of the [[InternationalOlympicCommittee]], and severity toward [[JimThorpe]] as a mixture of sincere conviction, status ambition, shame, and possible jealousy. The psychological chain is not proven, but it changes the current judgment: apparently impersonal rules may have allowed Brundage to moralize a personal failure while exercising authority over athletes who violated the amateur code.
 
 [[81-modern-olympics-part-2-glt4846758176]] connects Brundage to three moral crises. Before Mexico 1968, the state killed student protesters; the episode reports his dismissive claim that he had not seen the events because he was at the ballet. After Tommie Smith and John Carlos protested on the medal podium, Brundage supported their Olympic exclusion. After eleven Israeli athletes and officials were killed during the Munich 1972 hostage crisis and failed rescue, he insisted that the Games continue.
 
@@ -37,10 +42,12 @@ The earlier Berlin material adds a more ambivalent role. [[hitler-s-olympics-par
 - Is portrayed as morally inadequate toward repression before Mexico 1968 and murder at Munich 1972.
 - Illustrates the selective application of institutional neutrality.
 - Represents compromise that preserved Olympic continuity while accepting politically controlled athlete access and risking authoritarian appropriation.
-- Enforced amateur and protest boundaries that increased institutional control over athletes, while his Berlin inspection failed to secure equal conditions for Jewish competitors.
+- Converted a sincere belief in merit, completion, and amateur purity into rules that increased institutional control over athletes, while his Berlin inspection failed to secure equal conditions for Jewish competitors.
 
 ## Evidence
 
+- Formative creed: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] connects Brundage's poverty, striving, construction experience, and Stockholm encounter to his faith in measurable amateur sport.
+- Failure and authority: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] reports his unfinished decathlon, later condemnation of quitting, Olympic ascent, and refusal to restore Thorpe's medals, while labeling the motive chain interpretive.
 - Mexico repression: [[81-modern-olympics-part-2-glt4846758176]] reports Brundage's response to the pre-Games killing of student protesters.
 - Athlete protest: [[81-modern-olympics-part-2-glt4846758176]] connects him to the Olympic punishment of Tommie Smith and John Carlos.
 - Munich continuity: [[81-modern-olympics-part-2-glt4846758176]] says he insisted that the Games continue after the hostage killings.
@@ -52,15 +59,14 @@ The earlier Berlin material adds a more ambivalent role. [[hitler-s-olympics-par
 
 ## Qualifications
 
-The page is bounded to four episode accounts and does not reconstruct Brundage's complete career, motives, precise legal authority, role in every Berlin or Mexico decision, or wider archival record. “Soft idealism” is the finale's interpretive category, while Part 5 argues for knowing accommodation; the tension is retained rather than flattened. The sources find no explicit bargain tying his IOC seat to American participation and do not show that Brundage alone designed or executed every eligibility and disciplinary action.
+The page is bounded to five episode accounts and does not reconstruct Brundage's complete career, motives, precise legal authority, role in every Berlin or Mexico decision, or wider archival record. Part 4's link among decathlon shame, jealousy, amateur severity, and IOC ambition is psychological interpretation rather than demonstrated causation. “Soft idealism” is the finale's interpretive category, while Part 5 argues for knowing accommodation; the tension is retained rather than flattened. The sources find no explicit bargain tying his IOC seat to American participation and do not show that Brundage alone designed or executed every eligibility and disciplinary action.
 
 ## What Changed
 
-- Added the earlier compromise case: continuity can retain real institutional value while enabling authoritarian appropriation.
-- Added Owens's amateur exclusion and later use as an intermediary after the Mexico City protest.
-- Connected economic eligibility and political discipline as forms of athlete dependence.
-- Reassessed the Berlin role through the managed 1934 inspection, antisemitic correspondence, and Lambert's exclusion.
-- Qualified the “soft idealist” interpretation with evidence supporting knowing accommodation rather than simple deception.
+- Added the formative case connecting poverty, rule-bound striving, construction corruption, and Stockholm prestige to Brundage's Olympic faith.
+- Reframed his amateur severity as sincere idealism potentially entangled with shame, status ambition, and resentment rather than as doctrine alone.
+- Added the unfinished 1912 decathlon and treatment of Thorpe while keeping the proposed psychological causation explicitly source-scoped.
+- Preserved the later judgment that sincere belief does not negate selective neutrality or knowing accommodation of Nazi exclusion.
 
 ## Relationships
 
@@ -73,3 +79,5 @@ The page is bounded to four episode accounts and does not reconstruct Brundage's
 - [[MinorityAthleteRepresentativeBurden]] - framework showing why Owens could be recruited to discipline a younger protest generation.
 - [[MargaretLambert]] - athlete whose treatment contradicts the equal-opportunity assurances Brundage accepted.
 - [[SelectiveSportsNeutrality]] - framework capturing the asymmetry between continuity claims and politically controlled access.
+- [[JimThorpe]] - Olympic rival whose punishment and denied medal restoration test Brundage's claim to impersonal amateur rules.
+- [[PierreDeCoubertin]] - organizer whose Olympic creed gave Brundage a moral and institutional ideal.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 4: Outcast in Olympia](sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia.md) — Revisionist History traces Avery Brundage's conversion to Olympic idealism through class ascent, decathlon failure, strict amateurism, Jim Thorpe, IOC ambition, and the Nazi challenge to supposedly apolitical sport.
 - [Hitler’s Olympics, Part 5: The Amateur’s Hour](sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour.md) — Revisionist History contrasts Avery Brundage's Nazi-managed inspection and selective neutrality with Margaret Lambert's coerced candidacy, unequal preparation, record-level performance, and exclusion.
 - [Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up](sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up.md) — Revisionist History tests the Owens–Long rescue and friendship legend against contemporary reports, family records, chronology, photographs, and documentary history.
 - [Hitler’s Olympics, Part 7: Long Jump, Tall Tale](sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale.md) — Revisionist History examines the disputed Jesse Owens–Lutz Long story through racial representation, athlete economics, Cold War diplomacy, and the politics of reconciliation.

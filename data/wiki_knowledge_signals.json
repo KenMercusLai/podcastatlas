@@ -27560,9 +27560,9 @@
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "AveryBrundage": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -27591,6 +27591,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
           "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
         }
       ],
       "updated": "2026-11-16",
@@ -158005,9 +158012,9 @@
       "url": "/wiki/entities/internationalmonetaryfund/"
     },
     "InternationalOlympicCommittee": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -158022,6 +158029,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
           "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
         }
       ],
       "updated": "2026-11-16",
@@ -166752,6 +166766,29 @@
       ],
       "updated": "2026-11-12",
       "url": "/wiki/entities/jimmorrisonskimountaineer/"
+    },
+    "JimThorpe": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The NFL ｜ Acquired (1) [the-nfl-1].md",
+          "key": "the-nfl-1",
+          "show": "Acquired",
+          "title": "The NFL",
+          "url": "/wiki/sources/the-nfl-1/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/jimthorpe/"
     },
     "Jimeng": {
       "episode_count": 1,
@@ -214528,9 +214565,9 @@
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -214573,6 +214610,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
           "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
         }
       ],
       "updated": "2026-11-16",
@@ -229083,9 +229127,9 @@
       "url": "/wiki/entities/olympias/"
     },
     "OlympicAmateurism": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -229121,6 +229165,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
           "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
         }
       ],
       "updated": "2026-11-16",
@@ -241870,9 +241921,9 @@
       "url": "/wiki/entities/pierrecharlesvilleneuve/"
     },
     "PierreDeCoubertin": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -241880,9 +241931,16 @@
           "show": "The Rest Is History",
           "title": "80. Modern Olympics - Part 1",
           "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/pierredecoubertin/"
     },
     "PierrePlantard": {
@@ -276789,9 +276847,9 @@
       "url": "/wiki/concepts/selectivesinicizationinjapan/"
     },
     "SelectiveSportsNeutrality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
@@ -276799,6 +276857,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
           "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_4_Outcast_in_Olympia [Hitler_s_Olympics,_Part_4_Outcast_in_Olympia].md",
+          "key": "hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 4: Outcast in Olympia",
+          "url": "/wiki/sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia/"
         }
       ],
       "updated": "2026-11-16",
