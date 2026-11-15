@@ -28847,6 +28847,10 @@
     "title": "Diogenes / 第欧根尼",
     "url": "/wiki/entities/diogenes/"
   },
+  "DiogoRau": {
+    "title": "Diogo Rau",
+    "url": "/wiki/entities/diogorau/"
+  },
   "Dionysus": {
     "title": "Dionysus / 狄俄尼索斯",
     "url": "/wiki/entities/dionysus/"
@@ -63087,6 +63091,10 @@
     "title": "Medicare",
     "url": "/wiki/entities/medicare/"
   },
+  "MedicationAuthenticationAndSafety": {
+    "title": "Medication Authentication and Safety",
+    "url": "/wiki/concepts/medicationauthenticationandsafety/"
+  },
   "MedicationInteractionRisk": {
     "title": "Medication Interaction Risk",
     "url": "/wiki/concepts/medicationinteractionrisk/"
@@ -71847,6 +71855,10 @@
     "title": "Patient AI Use",
     "url": "/wiki/concepts/patientaiuse/"
   },
+  "PatientCenteredHealthcareDelivery": {
+    "title": "Patient-Centered Healthcare Delivery",
+    "url": "/wiki/concepts/patientcenteredhealthcaredelivery/"
+  },
   "PatientControlledHealthDataInteroperability": {
     "title": "Patient-Controlled Health Data Interoperability",
     "url": "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
@@ -73078,6 +73090,10 @@
   "PharmaceuticalAssetRepositioning": {
     "title": "Pharmaceutical Asset Repositioning",
     "url": "/wiki/concepts/pharmaceuticalassetrepositioning/"
+  },
+  "PharmaceuticalDevelopmentTimeHorizon": {
+    "title": "Pharmaceutical Development Time Horizon",
+    "url": "/wiki/concepts/pharmaceuticaldevelopmenttimehorizon/"
   },
   "PharmaceuticalEcommerce": {
     "title": "Pharmaceutical Ecommerce",
@@ -95043,6 +95059,10 @@
     "title": "Treatment Context and Dose Expectation",
     "url": "/wiki/concepts/treatmentcontextdoseexpectation/"
   },
+  "TreatmentFeedbackAndAdherence": {
+    "title": "Treatment Feedback and Adherence",
+    "url": "/wiki/concepts/treatmentfeedbackandadherence/"
+  },
   "TreatyOfBretigny": {
     "title": "Treaty of Brétigny",
     "url": "/wiki/entities/treatyofbretigny/"
@@ -114586,6 +114606,10 @@
   "the-formula-the-formula": {
     "title": "The Formula",
     "url": "/wiki/sources/the-formula-the-formula/"
+  },
+  "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli": {
+    "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+    "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
   },
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",

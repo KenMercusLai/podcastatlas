@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14311
+wiki_total_pages: 14312
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "Diogenes"
     title: "Diogenes / 第欧根尼"
     url: "/wiki/entities/diogenes/"
+  - key: "DiogoRau"
+    title: "Diogo Rau"
+    url: "/wiki/entities/diogorau/"
   - key: "Dionysus"
     title: "Dionysus / 狄俄尼索斯"
     url: "/wiki/entities/dionysus/"

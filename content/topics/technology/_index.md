@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3855
+topic_total_pages: 3856
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6314,6 +6314,9 @@ topic_entities:
   - key: "DingTalk"
     title: "DingTalk"
     url: "/wiki/entities/dingtalk/"
+  - key: "DiogoRau"
+    title: "Diogo Rau"
+    url: "/wiki/entities/diogorau/"
   - key: "Dipsig"
     title: "Dipsig"
     url: "/wiki/entities/dipsig/"

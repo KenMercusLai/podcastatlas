@@ -80473,6 +80473,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/diocletianicmilitaryfiscalreconstruction/"
     },
+    "DiogoRau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/diogorau/"
+    },
     "Dionysus": {
       "episode_count": 3,
       "show_count": 2,
@@ -90301,9 +90317,9 @@
       "url": "/wiki/entities/elevenlabs/"
     },
     "EliLilly": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -90346,9 +90362,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        },
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/elililly/"
     },
     "EliasHill": {
@@ -205206,6 +205229,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/medicalizedexecutionopacity/"
     },
+    "MedicationAuthenticationAndSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/medicationauthenticationandsafety/"
+    },
     "MedicationSelfCombinationRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -234683,10 +234722,26 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/patientaiuse/"
     },
-    "PatientControlledHealthDataInteroperability": {
+    "PatientCenteredHealthcareDelivery": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/patientcenteredhealthcaredelivery/"
+    },
+    "PatientControlledHealthDataInteroperability": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
@@ -234694,9 +234749,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        },
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
     },
     "PatientDerivedOrganoids": {
@@ -238931,6 +238993,22 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/pharmaceuticalassetrepositioning/"
+    },
+    "PharmaceuticalDevelopmentTimeHorizon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/pharmaceuticaldevelopmenttimehorizon/"
     },
     "PharmaceuticalEcommerce": {
       "episode_count": 2,
@@ -310668,6 +310746,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/treatmentcontextdoseexpectation/"
     },
+    "TreatmentFeedbackAndAdherence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/treatmentfeedbackandadherence/"
+    },
     "TreatyOfBretigny": {
       "episode_count": 1,
       "show_count": 1,
@@ -323848,9 +323942,9 @@
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
     },
     "WearableHealthInsight": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
@@ -323865,9 +323959,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
           "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        },
+        {
+          "episode_file": "The_Future_of_Healthcare_Technology_with_Eli_Lilly_and_Company's_Diogo_Rau [The_Future_of_Healthcare_Technology_with_Eli.md",
+          "key": "the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli",
+          "show": "Revisionist History",
+          "title": "The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau",
+          "url": "/wiki/sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/wearablehealthinsight/"
     },
     "WearableOpticalDisplayFriction": {

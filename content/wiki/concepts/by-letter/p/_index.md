@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11361
+wiki_total_pages: 11365
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "PatientSymbolizationProjection"
     title: "Patient Symbolization And Projection / 病人符号化与投射"
     url: "/wiki/concepts/patientsymbolizationprojection/"
+  - key: "PatientCenteredHealthcareDelivery"
+    title: "Patient-Centered Healthcare Delivery"
+    url: "/wiki/concepts/patientcenteredhealthcaredelivery/"
   - key: "PatientControlledHealthDataInteroperability"
     title: "Patient-Controlled Health Data Interoperability"
     url: "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
@@ -824,6 +827,9 @@ wiki_pages:
   - key: "PharmaceuticalAssetRepositioning"
     title: "Pharmaceutical Asset Repositioning"
     url: "/wiki/concepts/pharmaceuticalassetrepositioning/"
+  - key: "PharmaceuticalDevelopmentTimeHorizon"
+    title: "Pharmaceutical Development Time Horizon"
+    url: "/wiki/concepts/pharmaceuticaldevelopmenttimehorizon/"
   - key: "PharmaceuticalEcommerce"
     title: "Pharmaceutical Ecommerce"
     url: "/wiki/concepts/pharmaceuticalecommerce/"

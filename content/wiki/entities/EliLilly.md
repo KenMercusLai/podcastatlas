@@ -10,18 +10,19 @@ sources:
   - e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67
   - vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7
   - all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215
-last_updated: 2026-09-12
+  - the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli
+last_updated: 2026-11-16
 ---
 
 # Eli Lilly
 
 ## Overview
-Eli Lilly appears in the wiki as a large pharmaceutical company with metabolic-disease strength, GLP-1 competition, orexin-agonist ambitions, healthcare AI cooperation, and a source-scoped next-generation retatrutide branch.
+Eli Lilly appears in the wiki as a large pharmaceutical company combining metabolic-disease strength, GLP-1 competition, orexin-agonist ambitions, healthcare AI cooperation, and patient-facing digital transformation.
 
 ## Current Profile
 Across the bounded sources, Eli Lilly is strongest in metabolic disease and large-pharma commercialization. Chinese biotech and All-In sources use Lilly's GLP-1 position to contrast clinical data, capacity, brand, marketing, patient continuation, and global execution with [[NovoNordisk|Novo Nordisk]]. The newest source adds [[Retatrutide]] as a triple-agonist candidate that could extend Lilly's obesity/diabetes franchise if approval, safety, and durability support the trial claims.
 
-The company also appears outside GLP-1s. One source links Lilly to orexin agonists through the acquisition of [[SentessaPharmaceuticals]], and another links it to healthcare AI infrastructure through a strategic cooperation with [[Nvidia]]. These additions make Lilly a recurring example of how large pharma combines therapeutic focus, business development, commercialization, and data/AI infrastructure.
+The company also appears outside GLP-1s. One source links Lilly to orexin agonists through the acquisition of [[SentessaPharmaceuticals]], and another links it to healthcare AI infrastructure through a strategic cooperation with [[Nvidia]]. The [[DiogoRau]] interview adds an internal operating-model view: technology spans discovery, secure products, clinical-trial sensing, patient data, treatment access, and continuing engagement rather than remaining a back-office function. Together these sources make Lilly a recurring example of how large pharma combines therapeutic focus, business development, commercialization, digital infrastructure, and patient-facing delivery.
 
 ## Key Characteristics
 - Large pharmaceutical company with deep metabolic-disease accumulation and commercialization capacity.
@@ -29,20 +30,21 @@ The company also appears outside GLP-1s. One source links Lilly to orexin agonis
 - Retatrutide sponsor in the All-In source, giving Lilly a possible next-generation triple-agonist branch.
 - Large-pharma business-development actor through orexin-agonist and acquisition activity.
 - Healthcare AI participant through a source-reported Nvidia strategic cooperation.
+- Patient-facing digital transformation case connecting access, secure packaging, sensing, data agency, adherence, and AI-assisted discovery.
 
 ## Evidence
 - Metabolic-disease and commercialization moat: [[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] uses Lilly as an MNC example where category depth, lifecycle execution, and global commercialization can become a durable moat.
 - GLP-1 competition: [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] and [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] frame Lilly through tirzepatide, share gain, Novo Nordisk pressure, clinical data, manufacturing capacity, commercialization, and patient continuation behavior.
 - Retatrutide: [[all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215]] describes Lilly's retatrutide phase-three data, triple-agonist mechanism, possible approval timing, and premium positioning.
 - Orexin and AI infrastructure: [[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] links Lilly to orexin agonists and Sentessa; [[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] cites a Lilly-Nvidia strategic cooperation as a large-pharma AI signal.
+- Patient-facing digital operating model: [[the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli]] presents Rau's remit from molecule discovery through consumer access, secure medicine packaging, wearables, health data, adherence support, and AI-assisted discovery.
 
 ## Qualifications
-Retatrutide claims are source-scoped and do not substitute for regulatory approval, prescribing labels, or individualized medical judgment. The Nvidia cooperation is evidence of healthcare AI investment, not proof that any workflow will dominate. GLP-1 market-share and efficacy comparisons remain bounded to the source accounts.
+Retatrutide claims are source-scoped and do not substitute for regulatory approval, prescribing labels, or individualized medical judgment. The Nvidia cooperation is evidence of healthcare AI investment, not proof that any workflow will dominate. GLP-1 market-share and efficacy comparisons remain bounded to the source accounts. Rau's secure-packaging, wearable, same-day-access, adherence, and AI-discovery proposals range from demonstrations to hypotheses and forecasts; the interview does not establish deployment scale, clinical benefit, economics, privacy controls, or regulatory status.
 
 ## What Changed
-- Migrated the page to synthesis-v1.
-- Added retatrutide as a next-generation metabolic-drug candidate tied to Lilly's GLP-1 franchise.
-- Compressed legacy source-by-source prose into claim-grouped evidence.
+- Expanded Lilly's profile from therapeutic portfolio and AI cooperation into a patient-facing digital operating model.
+- Added secure packaging, sensing, patient data, access, adherence, and AI-assisted discovery as source-scoped transformation branches.
 
 ## Relationships
 - [[GLP1Agonists]] - main therapeutic and market category where Lilly is repeatedly discussed.
@@ -52,3 +54,6 @@ Retatrutide claims are source-scoped and do not substitute for regulatory approv
 - [[OrexinAgonists]] - adjacent drug-development category where Lilly appears.
 - [[GlobalPharmaCommercialization]] - business capability frame for Lilly's category depth.
 - [[HealthcareAIInfrastructure]] - AI adoption branch where Lilly appears as a large-pharma signal.
+- [[DiogoRau]] - executive articulating Lilly's patient-facing digital transformation agenda.
+- [[PatientCenteredHealthcareDelivery]] - experience-led access model in Rau's account.
+- [[MedicationAuthenticationAndSafety]] - secure packaging and medication-safety branch.

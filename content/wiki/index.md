@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau](sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli.md) — Revisionist History interview on patient-centered access, secure medicine authentication, treatment feedback, patient-controlled health data, wearables, long drug-development horizons, and AI-assisted discovery.
 - [Malcolm Breaks Down the Perfect Break Up Song](sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song.md) — Revisionist History compares R&B, folk, and country through autobiographical songwriting, empathetic observation, sad-song companionship, and the narrative specificity of breakup songs.
 - [The Conversations that Bring Us Closer](sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116.md) — Hidden Brain and Alison Wood Brooks on difficult-conversation goals, visible receptiveness, perspective questions, emotional reframing, and apology.
 - [Welcoming Heavyweight](sources/welcoming-heavyweight-welcoming-heavyweight.md) — Heavyweight uses an estranged brothers' reunion to connect contested family memory, childhood harm, perspective revision, and modest behavioral repair.
@@ -5150,6 +5151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Diogo Rau](entities/DiogoRau.md) — Eli Lilly technology executive connecting experience-led healthcare design to access, secure medicines, patient data, sensing, adherence, and AI-assisted discovery.
 - [Babyface](entities/Babyface.md) — R&B songwriter connecting infatuation, heartbreak, observation, empathy, and remembered detail to composition.
 - [Alison Wood Brooks](entities/AlisonWoodBrooks.md) — Behavioral scientist connecting difficult conversations to visible receptiveness, perspective discovery, emotional regulation, and apology.
 - [Heavyweight](entities/Heavyweight.md) — Narrative podcast using participant-led inquiry and mediation to revisit unresolved personal histories.
@@ -14466,7 +14468,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [HealthBench](entities/HealthBench.md) — OpenAI medical AI benchmark using realistic clinician-scored conversation scenarios rather than only medical exam-style questions.
 - [周叶冰 / Zhou Yebing](entities/ZhouYebing.md) — Genetics PhD and U.S. pharma immunology researcher grounding E227's medical AI discussion in evidence, clinical workflow, and patient context.
 - [Fusion Fund](entities/FusionFund.md) — Venture firm behind Zhang Lu's workflow-, regulation-, and infrastructure-grounded analysis of healthcare and enterprise AI.
-- [Eli Lilly](entities/EliLilly.md) — Pharmaceutical company named in E227 through a strategic AI cooperation signal with Nvidia.
+- [Eli Lilly](entities/EliLilly.md) — Large pharmaceutical company combining metabolic and neuroscience portfolios, commercialization, healthcare AI, and patient-facing digital transformation.
 - [JP Morgan Healthcare Conference](entities/JPMorganHealthcareConference.md) — Healthcare industry conference used by Zhang Lu as the adoption-sentiment signal for AI integration becoming mandatory.
 - [DeepMind](entities/DeepMind.md) — London AI research company framed as Hassabis's reinforcement-learning AGI lab before Google acquisition and Google DeepMind consolidation.
 - [Demis Hassabis](entities/DemisHassabis.md) — DeepMind founder and Google DeepMind leader interpreted through scientist-founder ambition, AlphaGo/AlphaFold, Gemini pressure, governance proposals, and the S10E28 role-shift debate.
@@ -19554,6 +19556,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Patient-Centered Healthcare Delivery](concepts/PatientCenteredHealthcareDelivery.md) — Experience-led care model joining timely access, patient data agency, and continuing support while preserving clinical and safety boundaries.
+- [Medication Authentication and Safety](concepts/MedicationAuthenticationAndSafety.md) — Verifiable medicine identity layer bounded by custody, privacy, workflow, and dose-level implementation constraints.
+- [Treatment Feedback and Adherence](concepts/TreatmentFeedbackAndAdherence.md) — Hypothesis that timely, valid, interpretable treatment-response signals can support engagement and earlier review.
+- [Pharmaceutical Development Time Horizon](concepts/PharmaceuticalDevelopmentTimeHorizon.md) — Long interval between discovery decisions and possible patient impact, with stage-specific uncertainty and irreducible validation latency.
 - [Love-Song Genre Conventions](concepts/LoveSongGenreConventions.md) — Inherited genre expectations shaping musical languages of devotion, heartbreak, companionship, resilience, and wallowing.
 - [Conversational Receptiveness](concepts/ConversationalReceptiveness.md) — Openness made visible through learning goals, acknowledgment, validation without agreement, questions, qualified language, and common ground.
 - [Family Estrangement Repair](concepts/FamilyEstrangementRepair.md) — Cautious reopening of contact through consent, perspective revision, and tolerable future behavior without requiring complete settlement.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11361
+wiki_total_pages: 11365
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "MedicalizedExecutionOpacity"
     title: "Medicalized Execution Opacity"
     url: "/wiki/concepts/medicalizedexecutionopacity/"
+  - key: "MedicationAuthenticationAndSafety"
+    title: "Medication Authentication and Safety"
+    url: "/wiki/concepts/medicationauthenticationandsafety/"
   - key: "MedicationInteractionRisk"
     title: "Medication Interaction Risk"
     url: "/wiki/concepts/medicationinteractionrisk/"
