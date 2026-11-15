@@ -44222,6 +44222,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/caribbean/"
     },
+    "CarlBogus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/carlbogus/"
+    },
     "CarlWebb": {
       "episode_count": 1,
       "show_count": 1,
@@ -44539,6 +44555,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/carriebatten/"
+    },
+    "CarrieSullivan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/carriesullivan/"
     },
     "CarrierBagNarrative": {
       "episode_count": 1,
@@ -79809,6 +79841,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/distributedtechnologyresponsibility/"
+    },
+    "DistrictOfColumbiaVHeller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/districtofcolumbiavheller/"
     },
     "DiversifiedHappinessPortfolio": {
       "episode_count": 1,
@@ -126967,9 +127015,9 @@
       "url": "/wiki/entities/guming/"
     },
     "GunRightsHistoricalPathDependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
@@ -126977,6 +127025,13 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
         }
       ],
       "updated": "2026-11-15",
@@ -158464,6 +158519,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jamesjoyce/"
+    },
+    "JamesMadison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jamesmadison/"
     },
     "JamesMarriott": {
       "episode_count": 1,
@@ -194834,9 +194905,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -194865,6 +194936,13 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
         }
       ],
       "updated": "2026-11-15",
@@ -257050,9 +257128,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -257081,6 +257159,13 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
         }
       ],
       "updated": "2026-11-15",
@@ -277177,6 +277262,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/slavenarrativemoralidentification/"
     },
+    "SlavePatrolMilitiaSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/slavepatrolmilitiasystem/"
+    },
     "SlaveProducedGoodsBoycott": {
       "episode_count": 1,
       "show_count": 1,
@@ -285299,6 +285400,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/stonewalljackson/"
+    },
+    "StonoRebellion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/stonorebellion/"
     },
     "Stonyfield": {
       "episode_count": 1,
@@ -296044,9 +296161,9 @@
       "url": "/wiki/entities/theaiceobook/"
     },
     "TheAmericanWayOfKilling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
@@ -296054,6 +296171,13 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "The_Invention_of_an_Epidemic [The_Invention_of_an_Epidemic].md",
+          "key": "the-invention-of-an-epidemic-the-invention-of-an-epidemic",
+          "show": "Revisionist History",
+          "title": "The Invention of an Epidemic",
+          "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
         }
       ],
       "updated": "2026-11-15",

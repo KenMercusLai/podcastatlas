@@ -39611,3 +39611,13 @@ Core synthesis: police headcount is useful only when organizational practice tur
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Invention of an Epidemic
+
+Added the [[RevisionistHistory]] episode in which [[MalcolmGladwell]] connects the [[StonoRebellion]], [[SlavePatrolMilitiaSystem|Southern slave-patrol militias]], [[JamesMadison]]'s grammar, Virginia ratification politics, and [[DistrictOfColumbiaVHeller|District of Columbia v. Heller]]. Created bounded profiles for Madison, [[CarrieSullivan]], [[CarlBogus]], Stono, *Heller*, and the patrol-militia system; and resynthesized Malcolm Gladwell, Revisionist History, [[TheAmericanWayOfKilling]], and [[GunRightsHistoricalPathDependence]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the episode argues that Madison's militia clause supplied the reason for the arms guarantee and that Virginia's slaveholding order made militia preservation politically urgent. Sullivan's corpus research supplies a grammatical challenge to clause separation, while Bogus's ratification account supplies the political mechanism. No settled contradiction was adopted. Corpus counts, population and flight estimates, Madison's motives, the direct causal weight of slave patrols, and the episode's criticism of *Heller* remain source-scoped because the supplied file is a structured summary and does not present the underlying primary record or competing scholarship in comparable depth. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,958 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

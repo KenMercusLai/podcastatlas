@@ -903,7 +903,7 @@
       "earliest_episode_date": "2026-04-16",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 6,
+      "source_note_count": 7,
       "topic_matched_source_note_count": 2,
       "topics": [
         {
@@ -925,7 +925,7 @@
           "title": "Malcolm Gladwell",
           "url": "/wiki/entities/malcolmgladwell/",
           "kind": "person",
-          "episode_count": 4
+          "episode_count": 5
         },
         {
           "key": "BrandonScott",

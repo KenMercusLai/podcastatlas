@@ -7,6 +7,7 @@ sources:
   - wolfgang-s-law-part-two
   - wolfgang-s-law-part-one
   - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
+  - the-invention-of-an-epidemic-the-invention-of-an-epidemic
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -29,6 +30,8 @@ In [[wolfgang-s-law-part-one|Part One]], he moves from [[MarvinWolfgang]]'s coho
 
 In the [[BrianLehrer]] interview about [[TheAmericanWayOfKilling]], Gladwell places that prevention framework inside a broader claim about American violence. He argues conditionally for more police capacity, but defines its value through time for relationships and prevention; connects legitimacy to homicide clearance; and treats slavery-linked gun rights, frontier regulation, expressive violence, and individualized intervention as parts of one historically produced system.
 
+[[the-invention-of-an-epidemic-the-invention-of-an-epidemic|The Invention of an Epidemic]] develops the constitutional branch in detail. Gladwell combines the [[StonoRebellion]], [[SlavePatrolMilitiaSystem|slave-patrol militias]], [[CarrieSullivan]]'s corpus analysis, and [[CarlBogus]]'s reading of Virginia ratification to challenge [[DistrictOfColumbiaVHeller|Heller]]. The method is characteristically synthetic and provocative, while the source's limited treatment of competing scholarship keeps the conclusion qualified.
+
 ## Key Characteristics
 
 - Uses playful disagreement and counterexamples to pressure-test a guest's framework.
@@ -37,7 +40,7 @@ In the [[BrianLehrer]] interview about [[TheAmericanWayOfKilling]], Gladwell pla
 - Pushes provocative analogies far enough to expose disagreements over consent, truth, and social usefulness.
 - Uses cross-domain comparison to identify shared organizational mechanisms behind slow adoption.
 - Moves between population research and individual stories to make a network-level policy argument legible.
-- Combines provocative policy claims with historical lineage and explicit criticism of partisan simplification.
+- Combines provocative policy claims with historical lineage, linguistic evidence, and explicit criticism of interpretive avoidance.
 
 ## Evidence
 
@@ -62,9 +65,13 @@ In the [[BrianLehrer]] interview about [[TheAmericanWayOfKilling]], Gladwell pla
 - [[wolfgang-s-law-part-one]] develops [[ViolenceConcentration]] through cross-city examples and illustrates [[TrustedCommunityViolenceInterruption]] through [[TermiteBaltimore|Termite]].
 - [[brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns]] joins the same network diagnosis to [[PoliceStaffingRelationalCapacity]], [[PoliceLegitimacyClearanceCapacity]], and [[GunRightsHistoricalPathDependence]].
 
+### Constitutional-history argument
+
+- [[the-invention-of-an-epidemic-the-invention-of-an-epidemic]] joins rebellion narrative, militia institutions, historical grammar, and ratification politics to make a slavery-centered argument about the Second Amendment.
+
 ## Qualifications
 
-This profile is bounded to four structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may illuminate some adoption failures while underweighting evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy, and the staffing argument depends on organizational practice rather than headcount alone.
+This profile is bounded to five structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may illuminate some adoption failures while underweighting evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy, the staffing argument depends on organizational practice rather than headcount alone, and the slavery-centered constitutional account is not a balanced scholarly survey.
 
 ## What Changed
 
@@ -72,6 +79,7 @@ This profile is bounded to four structured episode summaries. Personal stories, 
 - Extended the profile from relationship psychology to cross-domain analysis of institutional adoption.
 - Added his research-to-narrative method for explaining violence concentration and community interruption.
 - Added his integrated historical and policy argument about staffing, legitimacy, guns, and immediate violence prevention.
+- Clarified his constitutional method as a combination of narrative history, corpus linguistics, and contested political interpretation.
 
 ## Relationships
 
@@ -90,3 +98,4 @@ This profile is bounded to four structured episode summaries. Personal stories, 
 - [[TheAmericanWayOfKilling]] - book presenting his integrated account of American violence.
 - [[PoliceStaffingRelationalCapacity]] - conditional staffing argument he advances.
 - [[GunRightsHistoricalPathDependence]] - historical argument he uses to challenge timeless gun-rights narratives.
+- [[CarrieSullivan]] and [[CarlBogus]] - specialists whose grammatical and political evidence he combines.

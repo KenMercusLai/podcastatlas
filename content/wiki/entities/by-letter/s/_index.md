@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14131
+wiki_total_pages: 14136
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
@@ -1751,6 +1751,9 @@ wiki_pages:
   - key: "StonewallJackson"
     title: "Stonewall Jackson"
     url: "/wiki/entities/stonewalljackson/"
+  - key: "StonoRebellion"
+    title: "Stono Rebellion"
+    url: "/wiki/entities/stonorebellion/"
   - key: "Stonyfield"
     title: "Stonyfield"
     url: "/wiki/entities/stonyfield/"

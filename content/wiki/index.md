@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Invention of an Epidemic](sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic.md) — Revisionist History links slave-patrol militias, Madison's grammar, Virginia ratification, and Heller in a qualified slavery-centered account of the Second Amendment.
 - [Brian Lehrer and Malcolm Gladwell Talk Policing and Guns](sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns.md) — Revisionist History interview connecting conditional police capacity, legitimacy, gun-rights history, expressive violence, and individualized prevention.
 - [《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？](sources/zizhi-tongjian-hanji-1161-caocao-wei-shenme-yao-cisi-erxifu-lhv36g01hxpxaabh77bbyosdjzfr.md) — 芮淇讲透资治通鉴以曹植夫妇、汉中开局和陆逊回应举报，讨论家规与权力、分兵弱点及逆境中的不迁怒。
 - [《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急](sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i.md) — 芮淇讲透资治通鉴以218年许都之乱、北方乌桓平叛和汉中争夺，对照仓促突袭、信号判断、跨区调人及前线—后方一体化。
@@ -5081,6 +5082,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [James Madison](entities/JamesMadison.md) — Constitutional drafter placed within Virginia's slaveholding militia politics and examined through historical grammar.
+- [Carrie Sullivan](entities/CarrieSullivan.md) — Linguist whose corpus analysis challenges separation of the Second Amendment's militia and arms clauses.
+- [Carl Bogus](entities/CarlBogus.md) — Legal scholar advancing the episode's slavery-centered reading of Virginia ratification politics.
+- [Stono Rebellion](entities/StonoRebellion.md) — 1739 uprising used to show slaveholder vulnerability and the expansion of armed patrol control.
+- [District of Columbia v. Heller](entities/DistrictOfColumbiaVHeller.md) — 2008 Supreme Court decision whose Second Amendment clause analysis the episode disputes.
 - [Brian Lehrer](entities/BrianLehrer.md) — Public-radio interviewer who tests Malcolm Gladwell's policing, gun-history, and violence-prevention claims.
 - [The American Way of Killing](entities/TheAmericanWayOfKilling.md) — Malcolm Gladwell book framing US gun violence as historically and institutionally produced.
 - [崔氏 / Cui Shi (Cao Zhi's Wife)](entities/CuiShiCaoZhiWife.md) — 曹植之妻，其被迫离异与死亡被节目置于家规、储位警告和清河崔氏政治的交汇处。
@@ -19305,6 +19311,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Slave Patrol Militia System](concepts/SlavePatrolMilitiaSystem.md) — Institutional link between Southern militias and armed racial control central to the episode's constitutional interpretation.
 - [Police Staffing as Relational Capacity](concepts/PoliceStaffingRelationalCapacity.md) — Conditional claim that staffing matters when it creates time for local knowledge, prevention, and accountable community presence.
 - [Police Legitimacy and Clearance Capacity](concepts/PoliceLegitimacyClearanceCapacity.md) — Dependence of investigative effectiveness on trust, information sharing, accuracy, and accountable police conduct.
 - [Gun Rights Historical Path Dependence](concepts/GunRightsHistoricalPathDependence.md) — Qualified history linking slavery-era militia politics, frontier regulation, weapon technology, and modern gun-rights ideology.

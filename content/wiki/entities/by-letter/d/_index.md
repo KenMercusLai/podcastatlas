@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14131
+wiki_total_pages: 14136
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "DisneylandParis"
     title: "Disneyland Paris"
     url: "/wiki/entities/disneylandparis/"
+  - key: "DistrictOfColumbiaVHeller"
+    title: "District of Columbia v. Heller"
+    url: "/wiki/entities/districtofcolumbiavheller/"
   - key: "DivisionByZero"
     title: "Division by Zero"
     url: "/wiki/entities/divisionbyzero/"

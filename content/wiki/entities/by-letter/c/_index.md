@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14131
+wiki_total_pages: 14136
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "CaribbeanPolicyResearchInstitute"
     title: "Caribbean Policy Research Institute"
     url: "/wiki/entities/caribbeanpolicyresearchinstitute/"
+  - key: "CarlBogus"
+    title: "Carl Bogus"
+    url: "/wiki/entities/carlbogus/"
   - key: "CarlJung"
     title: "Carl Jung / 荣格"
     url: "/wiki/entities/carljung/"
@@ -350,6 +353,9 @@ wiki_pages:
   - key: "CarrieGeorge"
     title: "Carrie George"
     url: "/wiki/entities/carriegeorge/"
+  - key: "CarrieSullivan"
+    title: "Carrie Sullivan"
+    url: "/wiki/entities/carriesullivan/"
   - key: "CarrotSticks"
     title: "Carrot Sticks"
     url: "/wiki/entities/carrotsticks/"
