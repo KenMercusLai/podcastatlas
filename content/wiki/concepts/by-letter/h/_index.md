@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11375
+wiki_total_pages: 11378
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "HonoursPatronageExchange"
     title: "Honours Patronage Exchange"
     url: "/wiki/concepts/honourspatronageexchange/"
+  - key: "HopefulCrisisCoordination"
+    title: "Hopeful Crisis Coordination"
+    url: "/wiki/concepts/hopefulcrisiscoordination/"
   - key: "HormoneContextAggression"
     title: "Hormone Context Aggression"
     url: "/wiki/concepts/hormonecontextaggression/"

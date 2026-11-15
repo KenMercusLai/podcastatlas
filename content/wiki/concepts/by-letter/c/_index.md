@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11375
+wiki_total_pages: 11378
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2663,6 +2663,9 @@ wiki_pages:
   - key: "ControlPreservingIncentives"
     title: "Control-Preserving Incentives"
     url: "/wiki/concepts/controlpreservingincentives/"
+  - key: "ControlRecallSelfEfficacy"
+    title: "Control-Recall Self-Efficacy"
+    url: "/wiki/concepts/controlrecallselfefficacy/"
   - key: "ControllableChildAccession"
     title: "Controllable Child Accession / 可控幼主继位"
     url: "/wiki/concepts/controllablechildaccession/"
@@ -3152,6 +3155,9 @@ wiki_pages:
   - key: "CrisisInformationBlockade"
     title: "Crisis Information Blockade / 危机信息封锁"
     url: "/wiki/concepts/crisisinformationblockade/"
+  - key: "CrisisLeaderSignalAmplification"
+    title: "Crisis Leader Signal Amplification"
+    url: "/wiki/concepts/crisisleadersignalamplification/"
   - key: "CrisisOpportunityConversion"
     title: "Crisis Opportunity Conversion / 危机机会转化"
     url: "/wiki/concepts/crisisopportunityconversion/"

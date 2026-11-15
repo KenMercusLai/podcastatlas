@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Leading Through Crisis: Courage, Hope, and Compassion Under Pressure](sources/default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783-default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783.md) — Hidden Brain contrasts defensive self-protection with hopeful, calm, competent, and compassionate leadership in maritime, cave, and aviation emergencies.
 - [Wellness 2.0: Who Do You Want To Be?](sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184.md) — Hidden Brain and Ken Sheldon connect self-concordant goal selection, external control, value-based persistence, and post-commitment revision.
 - [Wellness 2.0: When It's All Too Much](sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981.md) — Hidden Brain connects climate distress, collective efficacy, bounded action, pleasure, rest, and restorative silence to sustainable engagement with overwhelming problems.
 - [How to Trust and Be Trusted with Rachel Botsman](sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman.md) — Revisionist History distinguishes trust from control and connects familiarity, convenience, intuition, verification, and a deliberate pause to better trust decisions.
@@ -5155,6 +5156,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Adam Galinsky](entities/AdamGalinsky.md) — Psychologist connecting crisis stewardship to amplified leader signals, shared goals, control recall, warmth, competence, and learned practice.
+- [Ekkapol “Ek” Chantawong](entities/EkkapolChantawong.md) — Thai youth soccer coach represented through routine, meditation, mutual support, hope, and responsibility during the Tham Luang cave crisis.
+- [Tammy Jo Shults](entities/TammyJoShults.md) — Southwest pilot whose Flight 1380 response joins technical command, calm explanation, anticipation, and passenger care.
+- [Francesco Schettino](entities/FrancescoSchettino.md) — Costa Concordia captain used as a negative case of delay, blame, reputation defense, and abandoned protective duty.
 - [Ken Sheldon](entities/KenSheldon.md) — Psychologist studying self-concordant goals, motivation under external control, and value-based persistence.
 - [Sarah Jaquette Ray](entities/SarahJaquetteRay.md) — Environmental scholar connecting climate education and distress to collective efficacy, emotional complexity, rest, and nonheroic action.
 - [Pico Iyer](entities/PicoIyer.md) — Writer treating silence and retreat as restoration measured by the quality of return to care and responsibility.
@@ -19565,6 +19570,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Crisis Leader Signal Amplification](concepts/CrisisLeaderSignalAmplification.md) — Pattern in which leaders' words, gestures, emotions, interactions, and silences carry intensified consequences under threat.
+- [Hopeful Crisis Coordination](concepts/HopefulCrisisCoordination.md) — Use of shared direction, structured activity, routine, and protective roles to sustain collective action under uncertainty.
+- [Control-Recall Self-Efficacy](concepts/ControlRecallSelfEfficacy.md) — Use of remembered control or competence to restore confidence and reduce stress in a later challenge.
 - [Self-Concordant Goal Selection](concepts/SelfConcordantGoalSelection.md) — Choosing and testing goals for fit with values, interests, and deeper inclinations rather than external pressure alone.
 - [Identified Motivation Persistence](concepts/IdentifiedMotivationPersistence.md) — Continuing because an activity remains personally important even after enjoyment declines.
 - [Commitment–Deliberation Rubicon](concepts/CommitmentDeliberationRubicon.md) — Shift from evaluating a goal to planning, protecting, and implementing it, with a risk of filtering later evidence.
