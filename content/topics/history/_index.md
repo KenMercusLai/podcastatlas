@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2795
+topic_total_pages: 2796
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -673,6 +673,9 @@ topic_concepts:
   - key: "HistoricalReputationConstruction"
     title: "Historical Reputation Construction"
     url: "/wiki/concepts/historicalreputationconstruction/"
+  - key: "HistoricalResearchAsInstitutionalReform"
+    title: "Historical Research as Institutional Reform"
+    url: "/wiki/concepts/historicalresearchasinstitutionalreform/"
   - key: "HistoricalRhymePoliticalReading"
     title: "Historical Rhyme Political Reading / 历史押韵式政治阅读"
     url: "/wiki/concepts/historicalrhymepoliticalreading/"

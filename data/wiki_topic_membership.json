@@ -47674,6 +47674,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HistoricalResearchAsInstitutionalReform": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HistoricalRhymePoliticalReading": [
     {
       "key": "history",
@@ -89822,6 +89829,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SymbolicCreativeRestitution": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SymbolicHumanInTheLoop": [
     {
       "key": "technology",
@@ -119533,6 +119547,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "zootopia-exposed-part-two-zootopia-exposed-part-two": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ]
 }

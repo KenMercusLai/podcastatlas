@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Zootopia Exposed! (Part Two)](sources/zootopia-exposed-part-two-zootopia-exposed-part-two.md) — Revisionist History reads Zootopia 2 as possible symbolic acknowledgment of Gary Goldman and connects its restoration plot to the Bush family's resistance to exclusion.
 - [Behind the Scenes with Andrew Jarecki](sources/behind-the-scenes-with-andrew-jarecki-behind-the-scenes-with-andrew-jarecki.md) — Revisionist History on The Alabama Solution, incarcerated phone evidence and collaboration, prison deaths, forced labor, parole, disclosure ethics, and continuing retaliation risk.
 - [The Sony Hack | The Mistakes Series](sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series.md) — Revisionist History on the 2014 Sony Pictures hack, an exceptional film approval, schema-driven process failure, and a physical-to-cyber threat-model gap.
 - [A Tragedy in Texas | The Mistakes Series](sources/a-tragedy-in-texas-the-mistakes-series-a-tragedy-in-texas-the-mistakes-series.md) — Revisionist History on the Air Force's unreported conviction, rapid institutional ownership, community presence, and servant leadership after the Sutherland Springs shooting.
@@ -5107,6 +5108,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Gary Goldman](entities/GaryGoldman.md) — Filmmaker whose unsuccessful Zootopia appropriation claim is interpreted as the real-world referent for Gary De'Snake's grievance.
+- [Jared Bush](entities/JaredBush.md) — Disney screenwriter interpreted through Zootopia 2's restoration themes and his family's history of challenging exclusion.
+- [Lester Bush Jr.](entities/LesterBushJr.md) — Physician-historian whose archival work reframed the Mormon priesthood ban as historically contingent policy.
 - [Andrew Jarecki](entities/AndrewJarecki.md) — Documentary filmmaker whose Alabama investigation joins discovery-led reporting, incarcerated collaboration, and continuing participant protection.
 - [Charlotte Kaufman](entities/CharlotteKaufman.md) — The Alabama Solution co-director whose fieldwork follows Stephen Davis's death and family notification.
 - [The Alabama Solution](entities/TheAlabamaSolution.md) — Documentary using incarcerated phone evidence to investigate Alabama prison violence, labor, parole, secrecy, and organizing.
@@ -6151,7 +6155,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张孟谈 / Zhang Mengtan](entities/ZhangMengtan.md) — 以“唇亡齿寒”把魏韩恐惧转化为秘密反智联盟的赵氏使者。
 - [絺疵 / Chi Ci](entities/ChiCi.md) — 准确识破魏韩异心、却因智瑶泄密而避祸出走的谋臣。
 - [Twyla Tharp](entities/TwylaTharp.md) — Choreographer whose practice joins schedule, bodily technique, internal standards, audience service, and adaptation across aging.
-- [《疯狂动物城2》 / Zootopia 2](entities/Zootopia2Film.md) — Animated-film reference point used by VOL.188 to discuss inherited burden, belonging, progress pressure, and becoming oneself.
+- [《疯狂动物城2》 / Zootopia 2](entities/Zootopia2Film.md) — Animated film interpreted through family burden, belonging, excluded-group restoration, authorship conflict, and possible symbolic restitution.
 - [Brian Epstein](entities/BrianEpstein.md) — Beatles manager whose respectable public packaging and death reveal the band's dependence on a shared organizational center.
 - [George Harrison](entities/GeorgeHarrison.md) — Beatles musician whose Indian spiritual direction and Haight-Ashbury skepticism qualify simplified counterculture narratives.
 - [Yoko Ono](entities/YokoOno.md) — Artist and Lennon collaborator treated as one late-period strain rather than a sufficient cause of the Beatles' breakup.
@@ -19405,6 +19409,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Symbolic Creative Restitution](concepts/SymbolicCreativeRestitution.md) — Artistic acknowledgment that can restore dignity or meaning without changing legal rights, credit, compensation, or liability.
+- [Historical Research as Institutional Reform](concepts/HistoricalResearchAsInstitutionalReform.md) — Archival reframing that shows an exclusionary rule was contingent and creates justificatory room for institutional change.
 - [Incarcerated Collaborative Documentary Authorship](concepts/IncarceratedCollaborativeDocumentaryAuthorship.md) — Production relationship in which imprisoned participants create evidence, shape representation, and remain exposed to post-release retaliation.
 - [Contraband Phone Accountability Evidence](concepts/ContrabandPhoneAccountabilityEvidence.md) — Contemporaneous documentation made with prohibited phones inside a closed institution and used to test official accounts.
 - [Carceral Labor–Parole Conflict](concepts/CarceralLaborParoleConflict.md) — Potential incentive conflict when reliable incarcerated workers are trusted for outside labor while release removes their economic value.

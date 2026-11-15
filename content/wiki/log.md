@@ -39557,6 +39557,7 @@ No settled contradiction was adopted. AFK's architecture, model sizes, task-repr
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-11-15] ingest | The BlackBerry Problem | The Mistakes Series
 
 Added the [[RevisionistHistory]] episode in which [[JimBalsillie]] revisits [[BlackBerry]]'s rejected 2011 plan to turn [[BlackBerryMessenger|BlackBerry Messenger]] into a carrier-bundled, cross-platform service. Created bounded profiles for Balsillie, [[MikeLazaridis]], and BBM; and resynthesized BlackBerry, [[FounderBoardRelationshipMaintenance]], and [[SelfDisruptionDiscipline]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -39841,6 +39842,16 @@ Core synthesis: a project can appear commercially plausible while still needing 
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Zootopia Exposed! (Part Two)
+
+Added the [[RevisionistHistory]] episode interpreting [[Zootopia2Film|Zootopia 2]] as a possible act of recognition for [[GaryGoldman]] and as a continuation of the Bush family's resistance to exclusion. Created bounded profiles for Goldman, [[JaredBush]], and [[LesterBushJr]]; added [[SymbolicCreativeRestitution]] and [[HistoricalResearchAsInstitutionalReform]]; and resynthesized the film from its complete two-source evidence inventory.
+
+Core synthesis: Gary De'Snake's stolen family invention, Lynxley Manor's Disney-castle imagery, corporate jokes, Bob Iger's cameo, and Judy Hopps's insistence that the dispute matters to Gary form a coherent but unconfirmed parallel to Goldman's failed appropriation claim. Lester Bush Jr.'s archival reframing of the Mormon priesthood ban supplies a documented family precedent for contesting institutional exclusion, while Jared Bush's restoration of reptiles supplies the creative parallel. No settled factual contradiction was adopted. The Goldman referent, anti-Disney intent, legal-review pathway, family influence, church causation, dialogue, and film details remain episode-scoped because the supplied file is a structured summary rather than the film, screenplay, court record, historical article, church archive, or direct testimony from Bush or Disney. The earlier “Pawbert” and current “Paubert” spellings remain source-level uncertainty. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,984 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 55 unrelated pre-existing broken links; none occur on pages changed by this ingest.
 
 ## [2026-11-15] lint | Wiki health check
 

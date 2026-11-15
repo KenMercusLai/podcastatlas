@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11293
+wiki_total_pages: 11295
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "HistoricalReputationConstruction"
     title: "Historical Reputation Construction"
     url: "/wiki/concepts/historicalreputationconstruction/"
+  - key: "HistoricalResearchAsInstitutionalReform"
+    title: "Historical Research as Institutional Reform"
+    url: "/wiki/concepts/historicalresearchasinstitutionalreform/"
   - key: "HistoricalRhymePoliticalReading"
     title: "Historical Rhyme Political Reading / 历史押韵式政治阅读"
     url: "/wiki/concepts/historicalrhymepoliticalreading/"

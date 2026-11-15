@@ -1,47 +1,53 @@
 ---
 title: "《疯狂动物城2》 / Zootopia 2"
 type: entity
-tags: [film, animation, psychology, interpretation]
+tags: [film, animation, psychology, authorship, interpretation]
 sources:
   - vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c
-last_updated: 2026-10-10
+  - zootopia-exposed-part-two-zootopia-exposed-part-two
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
 # 《疯狂动物城2》 / Zootopia 2
 
 ## Overview
-《疯狂动物城2》 / Zootopia 2 is the animated-film reference point for a [[ZheBingShuoLaiHuaChang|这病说来话长]] discussion of inherited responsibility, belonging, progress pressure, and psychological health.
+《疯狂动物城2》 / Zootopia 2 is an animated film interpreted in the wiki through two different podcast lenses: adult psychology and family burden, and a disputed theory of authorship acknowledgment, institutional self-critique, and the restoration of excluded groups.
 
 ## Current Profile
-The wiki currently knows the film only through one interpretive podcast note. That episode builds its discussion around “蛇没有肩膀” and “我不想和他们不一样,” reading Gary, Judy, and Pawbert as prompts for thinking about family expectation, self-blame, loyalty, staying, leaving, and becoming oneself. It is not a complete plot account, production history, or statement of authorial intent.
+The psychology source uses Gary, Judy, and a Lynxley family member to discuss inherited missions, self-blame, loyalty, progress pressure, and becoming oneself. [[zootopia-exposed-part-two-zootopia-exposed-part-two]] instead closely reads Gary De'Snake's stolen family invention, Disney self-references, and the return of reptiles to Zootopia. It proposes that [[JaredBush]] may be acknowledging [[GaryGoldman]] while extending his family's history of defending outsiders.
+
+Together the sources make the film a vehicle for questions about who must carry family history, whether belonging requires sameness, how excluded members are restored, and whether fiction can recognize a claimed originator without legal remedy. Neither source establishes a complete plot account or confirmed authorial intent.
 
 ## Key Characteristics
-- Serves as a narrative prompt for adult psychological and family-systems interpretation.
-- Contrasts imposed burden with responsibility grounded in agency and role.
-- Makes remaining similar to one's family legible as possible loyalty rather than automatic cowardice.
-- Supports a reading of psychological health based on autonomy, proportionate burden, belonging, and self-acceptance.
+- Uses inherited family burden to separate chosen responsibility from imposed over-responsibility.
+- Makes staying with family and becoming different competing but potentially autonomous forms of belonging.
+- Centers reptiles' exclusion and restoration to the animal community.
+- Mirrors a stolen-origin dispute through Gary De'Snake and the Lynxley family's control of credit.
+- Supports a theory of corporate self-reference and symbolic acknowledgment of an allegedly wronged creator.
 
 ## Evidence
-### Responsibility and self-blame
-- [[vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c]] uses Gary's lack of shoulders and Judy's guilt to discuss inherited missions, over-responsibility, and the “second arrow” of self-attack.
+### Burden, belonging, and self-acceptance
+- [[vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c]] uses “蛇没有肩膀,” Judy's guilt, and the wish not to differ from family to discuss inherited missions, the second arrow of self-attack, loyalty, rest, and autonomy.
 
-### Belonging and difference
-- [[vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c]] uses Pawbert's wish not to be different from his family to challenge a one-directional story of courage as departure and upward mobility.
+### Exclusion and restoration
+- [[zootopia-exposed-part-two-zootopia-exposed-part-two]] says the film restores reptiles to Zootopia and interprets that arc through the Bush family's challenges to racial, religious, and sexual exclusion.
 
-### Becoming oneself
-- [[vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c]] treats the film as permission to release compulsory strength or progress and to identify one's own preferences and limits.
+### Authorship and institutional critique
+- [[zootopia-exposed-part-two-zootopia-exposed-part-two]] maps Gary De'Snake's stolen weather-wall invention onto Goldman's dispute and joins that parallel to Lynxley Manor's castle imagery, Disney jokes, Bob Iger's cameo, and Judy's line that the matter matters to Gary.
 
 ## Qualifications
-All current claims are derived from one podcast's thematic reading. Character details, quoted wording, plot context, filmmakers' intentions, and the claim that a partner-mediation sequence resembles group therapy remain source-scoped; the source itself says the discussion is an extension from the film rather than its necessary meaning.
+Both sources are interpretive podcast notes rather than the film, screenplay, production archive, court record, or direct testimony from the filmmakers. The first explicitly extends psychological themes rather than proving intended meaning. The second offers a coordinated but circumstantial Goldman theory; deliberate animated detail does not establish that particular referent. “Pawbert” in the first source and “Paubert” in the second are preserved as a source-level spelling difference.
 
 ## What Changed
-- Added the film as an interpretive entity grounded in the VOL.188 episode.
-- Separated the episode's psychology reading from claims about authorial intent or complete film content.
+- Expanded the film from one psychology reading to a two-source synthesis about burden, exclusion, authorship, and recognition.
+- Added reptiles' restoration and the Gary Goldman parallel while keeping authorial intent contested.
+- Distinguished symbolic creative restitution from legal vindication or material compensation.
 
 ## Relationships
-- [[ZheBingShuoLaiHuaChang|这病说来话长]] - podcast that uses the film as a psychology-discussion prompt.
-- [[Parentification|亲职化]] - family role reversal illuminated through the episode's character reading.
-- [[FamilyRoleResponsibilityBoundary|家庭角色与责任边界]] - responsibility distinction developed from the film discussion.
-- [[AutonomousBelongingChoice|归属中的自主选择]] - staying and belonging interpretation developed from the film discussion.
-- [[ProgressPressureRestPermission|进步压力与休息许可]] - anti-compulsion interpretation developed from the film discussion.
+- [[JaredBush]] - screenwriter whose family history and possible intent ground the second interpretation.
+- [[GaryGoldman]] - creator proposed as the real-world referent for Gary De'Snake's grievance.
+- [[SymbolicCreativeRestitution]] - framework for acknowledgment without changed rights or judgment.
+- [[HistoricalResearchAsInstitutionalReform]] - Bush family precedent for restoring excluded members by reframing institutional history.
+- [[Parentification|亲职化]] - family role reversal illuminated through the psychology reading.
+- [[AutonomousBelongingChoice|归属中的自主选择]] - agency-based interpretation of staying, leaving, and difference.

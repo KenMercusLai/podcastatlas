@@ -118307,6 +118307,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/garrettboone/"
     },
+    "GaryGoldman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
+          "key": "zootopia-exposed-part-two-zootopia-exposed-part-two",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part Two)",
+          "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/garygoldman/"
+    },
     "GaryHirschberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -140053,6 +140069,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
+    "HistoricalResearchAsInstitutionalReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
+          "key": "zootopia-exposed-part-two-zootopia-exposed-part-two",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part Two)",
+          "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/historicalresearchasinstitutionalreform/"
+    },
     "HistoricalStructureAgencyCausation": {
       "episode_count": 3,
       "show_count": 2,
@@ -160384,6 +160416,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/japaneseimperiallegitimacycontinuity/"
     },
+    "JaredBush": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
+          "key": "zootopia-exposed-part-two-zootopia-exposed-part-two",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part Two)",
+          "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jaredbush/"
+    },
     "JaredDiamond": {
       "episode_count": 1,
       "show_count": 1,
@@ -176881,6 +176929,22 @@
       ],
       "updated": "2026-10-27",
       "url": "/wiki/entities/lessonsnovel/"
+    },
+    "LesterBushJr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
+          "key": "zootopia-exposed-part-two-zootopia-exposed-part-two",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part Two)",
+          "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/lesterbushjr/"
     },
     "LethalPlanLeakageRisk": {
       "episode_count": 6,
@@ -293570,6 +293634,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/symbolicauthorityexile/"
     },
+    "SymbolicCreativeRestitution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
+          "key": "zootopia-exposed-part-two-zootopia-exposed-part-two",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part Two)",
+          "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/symboliccreativerestitution/"
+    },
     "SymbolicReconciliationStatecraft": {
       "episode_count": 1,
       "show_count": 1,
@@ -347544,9 +347624,9 @@
       "url": "/wiki/entities/zongzilatehan/"
     },
     "Zootopia2Film": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llTxpvjI9ZEeWoYGycdyvRnJbN4c [llTxpvjI9ZEeWoYGycdyvRnJbN4c].md",
@@ -347554,9 +347634,16 @@
           "show": "这病说来话长",
           "title": "VOL.188《疯狂动物城2》背后藏着的“成年人心理课”",
           "url": "/wiki/sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c/"
+        },
+        {
+          "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
+          "key": "zootopia-exposed-part-two-zootopia-exposed-part-two",
+          "show": "Revisionist History",
+          "title": "Zootopia Exposed! (Part Two)",
+          "url": "/wiki/sources/zootopia-exposed-part-two-zootopia-exposed-part-two/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/zootopia2film/"
     },
     "ZoroastrianReligiousInfluence": {
