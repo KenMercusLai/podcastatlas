@@ -39955,3 +39955,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Alabama Murders - Part 6: The Porterfield Sessions
+
+Added the [[RevisionistHistory]] episode centered on [[KatePorterfield]]'s assessment of [[KennethSmith]] after Alabama's failed lethal-injection attempt. Added [[FailedExecutionTrauma]] and resynthesized Smith, Porterfield, [[TheAlabamaMurders]], [[ElizabethSennett]], and [[Parentification]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: a failed execution differs from a mock execution because the institution genuinely intends and begins to cause death, joining anticipated death, restraint, bodily intervention, helplessness, and operational failure. Porterfield reports that Smith's recollection reactivated bodily terror and that nightmares, intrusive images, nausea, exhaustion, avoidance, and depression followed. The episode also places his childhood exposure to domestic violence, premature care for his mother, and later heavy drinking within an intergenerational account of violence. That context neither establishes a deterministic path nor excuses Sennett's murder; victimhood and perpetration can overlap without making harms interchangeable. No settled factual contradiction was adopted. Diagnoses, symptom chronology, childhood events, dialogue, personnel reactions, substance use, causal links to later violence, and possible effects on execution staff remain episode-scoped because the supplied file is a structured summary rather than a transcript, clinical report, medical record, court record, or independent investigation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,995 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

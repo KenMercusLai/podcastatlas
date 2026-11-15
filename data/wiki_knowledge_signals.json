@@ -90122,9 +90122,9 @@
       "url": "/wiki/entities/elizabethporter/"
     },
     "ElizabethSennett": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_7_The_Second_Warrant [The_Alabama_Murders_-_Part_7_The_Second_Warrant].md",
@@ -90132,6 +90132,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 7: The Second Warrant",
           "url": "/wiki/sources/the-alabama-murders-part-7-the-second-warrant/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions [The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions].md",
+          "key": "the-alabama-murders-part-6-the-porterfield-sessions",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 6: The Porterfield Sessions",
+          "url": "/wiki/sources/the-alabama-murders-part-6-the-porterfield-sessions/"
         }
       ],
       "updated": "2026-11-15",
@@ -102305,6 +102312,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/failedcoupauthoritytransfer/"
+    },
+    "FailedExecutionTrauma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions [The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions].md",
+          "key": "the-alabama-murders-part-6-the-porterfield-sessions",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 6: The Porterfield Sessions",
+          "url": "/wiki/sources/the-alabama-murders-part-6-the-porterfield-sessions/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/failedexecutiontrauma/"
     },
     "FailedStrategicShortcutAttritionTrap": {
       "episode_count": 3,
@@ -170104,9 +170127,9 @@
       "url": "/wiki/entities/katemoran/"
     },
     "KatePorterfield": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_7_The_Second_Warrant [The_Alabama_Murders_-_Part_7_The_Second_Warrant].md",
@@ -170114,6 +170137,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 7: The Second Warrant",
           "url": "/wiki/sources/the-alabama-murders-part-7-the-second-warrant/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions [The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions].md",
+          "key": "the-alabama-murders-part-6-the-porterfield-sessions",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 6: The Porterfield Sessions",
+          "url": "/wiki/sources/the-alabama-murders-part-6-the-porterfield-sessions/"
         }
       ],
       "updated": "2026-11-15",
@@ -170542,9 +170572,9 @@
       "url": "/wiki/entities/kennethrogoff/"
     },
     "KennethSmith": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -170559,6 +170589,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 7: The Second Warrant",
           "url": "/wiki/sources/the-alabama-murders-part-7-the-second-warrant/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions [The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions].md",
+          "key": "the-alabama-murders-part-6-the-porterfield-sessions",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 6: The Porterfield Sessions",
+          "url": "/wiki/sources/the-alabama-murders-part-6-the-porterfield-sessions/"
         }
       ],
       "updated": "2026-11-15",
@@ -231662,9 +231699,9 @@
       "url": "/wiki/concepts/parentalseparationprocessandchildsecurity/"
     },
     "Parentification": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "151.早安,怪物：祝你战胜恐惧，祝你获得康复 [900179286].md",
@@ -231679,9 +231716,16 @@
           "show": "这病说来话长",
           "title": "VOL.188《疯狂动物城2》背后藏着的“成年人心理课”",
           "url": "/wiki/sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions [The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions].md",
+          "key": "the-alabama-murders-part-6-the-porterfield-sessions",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 6: The Porterfield Sessions",
+          "url": "/wiki/sources/the-alabama-murders-part-6-the-porterfield-sessions/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/parentification/"
     },
     "ParentingSturdiness": {
@@ -299636,9 +299680,9 @@
       "url": "/wiki/entities/theaiceobook/"
     },
     "TheAlabamaMurders": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -299653,6 +299697,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 7: The Second Warrant",
           "url": "/wiki/sources/the-alabama-murders-part-7-the-second-warrant/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions [The_Alabama_Murders_-_Part_6_The_Porterfield_Sessions].md",
+          "key": "the-alabama-murders-part-6-the-porterfield-sessions",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 6: The Porterfield Sessions",
+          "url": "/wiki/sources/the-alabama-murders-part-6-the-porterfield-sessions/"
         }
       ],
       "updated": "2026-11-15",

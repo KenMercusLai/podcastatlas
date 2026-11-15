@@ -943,7 +943,7 @@
       "earliest_episode_date": "2023-12-04",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 39,
+      "source_note_count": 40,
       "topic_matched_source_note_count": 16,
       "topics": [
         {
@@ -1001,6 +1001,13 @@
           "episode_count": 3
         },
         {
+          "key": "KennethSmith",
+          "title": "Kenneth Smith",
+          "url": "/wiki/entities/kennethsmith/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "AndrewJohnson",
           "title": "Andrew Johnson",
           "url": "/wiki/entities/andrewjohnson/",
@@ -1015,16 +1022,9 @@
           "episode_count": 2
         },
         {
-          "key": "FrederickDouglass",
-          "title": "Frederick Douglass",
-          "url": "/wiki/entities/frederickdouglass/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "KennethSmith",
-          "title": "Kenneth Smith",
-          "url": "/wiki/entities/kennethsmith/",
+          "key": "ElizabethSennett",
+          "title": "Elizabeth Sennett",
+          "url": "/wiki/entities/elizabethsennett/",
           "kind": "person",
           "episode_count": 2
         }

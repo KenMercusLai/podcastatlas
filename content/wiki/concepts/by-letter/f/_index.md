@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11310
+wiki_total_pages: 11311
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "FailedCoupAuthorityTransfer"
     title: "Failed Coup Authority Transfer"
     url: "/wiki/concepts/failedcoupauthoritytransfer/"
+  - key: "FailedExecutionTrauma"
+    title: "Failed Execution Trauma"
+    url: "/wiki/concepts/failedexecutiontrauma/"
   - key: "FailedStrategicShortcutAttritionTrap"
     title: "Failed Strategic Shortcut Attrition Trap"
     url: "/wiki/concepts/failedstrategicshortcutattritiontrap/"

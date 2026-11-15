@@ -5116,12 +5116,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 - [The Alabama Murders - Part 7: The Second Warrant](sources/the-alabama-murders-part-7-the-second-warrant.md) — Revisionist History finale on execution-induced trauma, Alabama's first-use nitrogen protocol, conflicting scientific and eyewitness evidence, and the state's success narrative.
+- [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
 - [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
-- [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose failed lethal-injection attempt and nitrogen-hypoxia case expose hidden execution procedure.
+- [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose childhood trauma, failed lethal-injection attempt, and nitrogen-hypoxia case connect developmental harm to hidden execution procedure.
 - [The Alabama Murders](entities/TheAlabamaMurders.md) — Revisionist History series connecting trauma, Alabama capital cases, execution methods, secrecy, and abolition.
-- [Kate Porterfield](entities/KatePorterfield.md) — Psychologist whose assessment connects Alabama's failed execution attempt to severe post-traumatic stress and second-warrant risk.
+- [Kate Porterfield](entities/KatePorterfield.md) — Trauma psychologist whose assessment connects Alabama's failed execution attempt to embodied post-traumatic stress, family history, and second-warrant risk.
 - [Joel Zivot](entities/JoelZivot.md) — Anesthesiologist explaining physiological uncertainty in nitrogen-hypoxia execution.
 - [Robert Grass](entities/RobertGrass.md) — Kenneth Smith's long-term lawyer and eyewitness to his nitrogen-hypoxia execution.
 - [John Q. Hamm](entities/JohnQHamm.md) — Alabama corrections commissioner whose protocol testimony and post-execution account anchor the state's position.
@@ -28235,7 +28236,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Swan Maiden Motif](concepts/SwanMaidenMotif.md) — Cross-cultural hidden-garment marriage motif used by episode 152 to separate later 牛郎织女 plot layers from older star lore.
 - [Qiqiao Ritual Practice](concepts/QiqiaoRitualPractice.md) — 七夕 skill-seeking ritual layer involving needles, water, offerings, spiders, textile labor, and gendered aspiration.
 - [Qixi Cross-Cultural Transmission](concepts/QixiCrossCulturalTransmission.md) — Source-scoped hypothesis that Qixi stories, objects, and local customs were shaped by trade, migration, borrowing, and reinterpretation.
-- [Parentification / 亲职化](concepts/Parentification.md) — Childhood pattern where a child is forced into adult caregiving or survival responsibility, grounding Laura's shame and later over-rescuing in episode 151.
+- [Parentification / 亲职化](concepts/Parentification.md) — Childhood role reversal in which crisis, abandonment, domestic violence, incapacity, or family expectation forces adult caregiving or emotional responsibility.
 - [Trauma Numbing](concepts/TraumaNumbing.md) — Survival state where functioning continues by blocking grief, fear, anger, or bodily distress, visible in Laura and Danny's cases.
 - [Shame-Based Self-Concept](concepts/ShameBasedSelfConcept.md) — Pattern where injury and need become interpreted as proof that the self is bad, monstrous, or undeserving of care.
 - [Therapy Relationship And Boundaries](concepts/TherapyRelationshipAndBoundaries.md) — Clinical frame for how trust, care, setting, pacing, and role limits protect trauma therapy.
@@ -30873,5 +30874,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [News-Desert Media Substitution](concepts/NewsDesertMediaSubstitution.md) — Shift toward aggregators, distant broadcasters, social testimony, radio, and personal networks when local reporting thins.
 - [Partisan Framing Across Exposure](concepts/PartisanFramingAcrossExposure.md) — Hostile interpretive packaging that preserves visibility of opponents while discouraging understanding.
 - [Media Golden-Age Exclusion](concepts/MediaGoldenAgeExclusion.md) — Qualification that apparent media consensus can rest on unequal access to public representation.
+- [Failed Execution Trauma](concepts/FailedExecutionTrauma.md) — Psychological and bodily injury after surviving a state procedure genuinely intended to cause imminent death.
 
 ## Syntheses
