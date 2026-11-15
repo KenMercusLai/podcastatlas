@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11309
+wiki_total_pages: 11310
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "NISA"
     title: "NISA"
     url: "/wiki/concepts/nisa/"
+  - key: "NitrogenHypoxiaExecutionRisk"
+    title: "Nitrogen Hypoxia Execution Risk"
+    url: "/wiki/concepts/nitrogenhypoxiaexecutionrisk/"
   - key: "NoBetterLife"
     title: "No Better Life"
     url: "/wiki/concepts/nobetterlife/"

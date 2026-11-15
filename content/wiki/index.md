@@ -5115,11 +5115,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
+- [The Alabama Murders - Part 7: The Second Warrant](sources/the-alabama-murders-part-7-the-second-warrant.md) — Revisionist History finale on execution-induced trauma, Alabama's first-use nitrogen protocol, conflicting scientific and eyewitness evidence, and the state's success narrative.
 
 ## Entities
 - [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
 - [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose failed lethal-injection attempt and nitrogen-hypoxia case expose hidden execution procedure.
 - [The Alabama Murders](entities/TheAlabamaMurders.md) — Revisionist History series connecting trauma, Alabama capital cases, execution methods, secrecy, and abolition.
+- [Kate Porterfield](entities/KatePorterfield.md) — Psychologist whose assessment connects Alabama's failed execution attempt to severe post-traumatic stress and second-warrant risk.
+- [Joel Zivot](entities/JoelZivot.md) — Anesthesiologist explaining physiological uncertainty in nitrogen-hypoxia execution.
+- [Robert Grass](entities/RobertGrass.md) — Kenneth Smith's long-term lawyer and eyewitness to his nitrogen-hypoxia execution.
+- [John Q. Hamm](entities/JohnQHamm.md) — Alabama corrections commissioner whose protocol testimony and post-execution account anchor the state's position.
+- [Elizabeth Sennett](entities/ElizabethSennett.md) — Murder victim whose death and family's grief remain the essential context for The Alabama Murders.
 - [A Visit from St. Nicholas](entities/AVisitFromStNicholas.md) — Anonymous 1823 poem that helped standardize domestic Santa imagery and remains conventionally attributed to Clement Clarke Moore.
 - [Clement Clarke Moore](entities/ClementClarkeMoore.md) — New York scholar and writer whose relevant light and child-oriented verse supports the conventional attribution of the Christmas poem.
 - [Henry Livingston Jr.](entities/HenryLivingstonJr.md) — Alternative authorship candidate supported by descendants and stylistic resemblance but not a surviving manuscript or public claim.
@@ -19451,6 +19457,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Medicalized Execution Opacity](concepts/MedicalizedExecutionOpacity.md) — Clinical appearance and restricted observation make execution seem controlled while hiding competence, failure, and experienced suffering.
+- [Nitrogen Hypoxia Execution Risk](concepts/NitrogenHypoxiaExecutionRisk.md) — Framework separating oxygen-displacement theory from mask, breathing, contingency, expertise, and first-use outcome uncertainty.
 - [Literary Authorship Attribution](concepts/LiteraryAuthorshipAttribution.md) — Evidence framework combining stylistic comparison with provenance, chronology, corpus design, and disconfirming documents.
 - [False-Balance Controversy Persistence](concepts/FalseBalanceControversyPersistence.md) — Survival of a disputed claim when repeated balanced framing obscures unequal evidentiary support.
 - [Public Intellectual Error Correction](concepts/PublicIntellectualErrorCorrection.md) — Duty to revise an influential public claim when evidence changes and to name both the failed prediction and its consequences.
