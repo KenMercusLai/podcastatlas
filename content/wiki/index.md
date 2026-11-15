@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Labor of Love with M. Night Shyamalan | Development Hell](sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell.md) — M. Night Shyamalan uses his unproduced 1994 screenplay to examine marriage, genre, vulnerability, career timing, public acceptance, and the value and cost of an unrealized ideal.
 - [Blue Seattle with Cameron Crowe | Development Hell](sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell.md) — Cameron Crowe and Malcolm Gladwell use an unproduced Elvis musical and its surviving songs to examine formula, constrained agency, rejection, memory, and the value of unrealized work.
 - [Malcolm on No Small Endeavor](sources/malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor.md) — Lee C. Camp and Malcolm Gladwell connect curious confidence, plural identity, moral storytelling, failure, whole-life comparison, and committed care.
 - [Hitler’s Olympics](sources/hitler-s-olympics.md) — Revisionist History previews a nine-part investigation of Berlin 1936, Nazi spectacle, United States participation, Olympic officials, Jesse Owens, and American racial disenfranchisement.
@@ -5181,6 +5182,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [M. Night Shyamalan](entities/MNightShyamalan.md) — Writer-director represented through the marriage, genre, audience, and creative-readiness tensions surrounding his unproduced screenplay.
+- [Labor of Love (M. Night Shyamalan screenplay)](entities/LaborOfLoveShyamalan.md) — Unproduced 1994 screenplay about a widower's cross-country proof of love and its creator's thirty-year struggle over realization.
 - [Cameron Crowe](entities/CameronCrowe.md) — Filmmaker whose affectionate reconstruction of Elvis musicals became an unproduced screenplay and completed song cycle.
 - [Nancy Wilson](entities/NancyWilson.md) — Musician and Blue Seattle co-creator whose honeymoon collaboration helped produce the surviving demos.
 - [Ann Wilson](entities/AnnWilson.md) — Singer and Blue Seattle co-creator who hosted and participated in the rapid cabin recording session.
@@ -19659,6 +19662,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Genre as Emotional Protection](concepts/GenreAsEmotionalProtection.md) — Use of genre distance and audience contract to make intense sentiment more approachable without replacing belief or craft.
 - [Unrealized Creative Work Value](concepts/UnrealizedCreativeWorkValue.md) — Value an uncompleted project creates through artifacts, collaboration, learning, memory, recognition, and preserved possibility.
 - [Formulaic Production and Artistic Confinement](concepts/FormulaicProductionArtisticConfinement.md) — Tension between repeatable commercial templates and an artist's control, range, or identification with the work.
 - [Curious Confidence](concepts/CuriousConfidence.md) — Humility about one's knowledge joined to enough self-security to admit ignorance and ask questions.

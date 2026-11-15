@@ -123007,6 +123007,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/genpeiwar/"
     },
+    "GenreAsEmotionalProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Labor_of_Love_with_M_Night_Shyamalan_Development_Hell [Labor_of_Love_with_M_Night_Shyamalan_Development_Hell].md",
+          "key": "labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell",
+          "show": "Revisionist History",
+          "title": "Labor of Love with M. Night Shyamalan | Development Hell",
+          "url": "/wiki/sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/genreasemotionalprotection/"
+    },
     "GentleAnxietySupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -176976,6 +176992,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/laborillusion/"
     },
+    "LaborOfLoveShyamalan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Labor_of_Love_with_M_Night_Shyamalan_Development_Hell [Labor_of_Love_with_M_Night_Shyamalan_Development_Hell].md",
+          "key": "labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell",
+          "show": "Revisionist History",
+          "title": "Labor of Love with M. Night Shyamalan | Development Hell",
+          "url": "/wiki/sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/laborofloveshyamalan/"
+    },
     "LaborTaxBaseAIErosion": {
       "episode_count": 3,
       "show_count": 2,
@@ -198528,6 +198560,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/mitblueprintlabs/"
+    },
+    "MNightShyamalan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Labor_of_Love_with_M_Night_Shyamalan_Development_Hell [Labor_of_Love_with_M_Night_Shyamalan_Development_Hell].md",
+          "key": "labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell",
+          "show": "Revisionist History",
+          "title": "Labor of Love with M. Night Shyamalan | Development Hell",
+          "url": "/wiki/sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mnightshyamalan/"
     },
     "MPWRAI": {
       "episode_count": 1,
@@ -317763,9 +317811,9 @@
       "url": "/wiki/concepts/unlearningexamexpression/"
     },
     "UnrealizedCreativeWorkValue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
@@ -317773,6 +317821,13 @@
           "show": "Revisionist History",
           "title": "Blue Seattle with Cameron Crowe | Development Hell",
           "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        },
+        {
+          "episode_file": "Labor_of_Love_with_M_Night_Shyamalan_Development_Hell [Labor_of_Love_with_M_Night_Shyamalan_Development_Hell].md",
+          "key": "labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell",
+          "show": "Revisionist History",
+          "title": "Labor of Love with M. Night Shyamalan | Development Hell",
+          "url": "/wiki/sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell/"
         }
       ],
       "updated": "2026-11-16",

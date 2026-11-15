@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3709
+topic_total_pages: 3711
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1636,6 +1636,9 @@ topic_concepts:
   - key: "GenerativeMediaControlLayers"
     title: "Generative Media Control Layers"
     url: "/wiki/concepts/generativemediacontrollayers/"
+  - key: "GenreAsEmotionalProtection"
+    title: "Genre as Emotional Protection"
+    url: "/wiki/concepts/genreasemotionalprotection/"
   - key: "GenreLiteraryLegitimacy"
     title: "Genre Literary Legitimacy / 类型文学正名"
     url: "/wiki/concepts/genreliterarylegitimacy/"
@@ -10644,6 +10647,9 @@ topic_sources:
   - key: "tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1"
     title: "John Coogan on Soylent, Lucy, Founders Fund, and TBPN"
     url: "/wiki/sources/tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1/"
+  - key: "labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell"
+    title: "Labor of Love with M. Night Shyamalan | Development Hell"
+    url: "/wiki/sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell/"
   - key: "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d"
     title: "Latin lessons: the Donroe-doctrine boost"
     url: "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"

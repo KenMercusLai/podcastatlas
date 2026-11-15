@@ -40662,3 +40662,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Labor of Love with M. Night Shyamalan | Development Hell
+
+Added a [[RevisionistHistory]] episode in which [[MNightShyamalan|M. Night Shyamalan]] reconstructs the story and continuing personal force of [[LaborOfLoveShyamalan|Labor of Love]], the screenplay he wrote at 22 and has not filmed across thirty years of studio removal, rewrites, missed opportunities, and recurring interest from other filmmakers.
+
+Core synthesis: the screenplay's value is not limited to a hypothetical finished movie. It helped launch Shyamalan's career, became a declaration within his marriage, and remains a standard for inspired work, while its preserved ideal also creates regret, avoidance, and uncertainty. The episode adds [[GenreAsEmotionalProtection]] to explain Shyamalan's view that horror, suspense, comedy, and darkness mediate intense sentiment by creating an audience relationship before emotional exposure. No settled contradiction is adopted. The screenplay's quality, studio and collaborator motives, unnamed participants, audience appetite, period claims, and counterfactual reception remain source-scoped because the supplied file is a structured episode summary rather than a transcript, screenplay, or production archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,058 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
