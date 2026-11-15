@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11349
+wiki_total_pages: 11353
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1232,12 +1232,21 @@ wiki_pages:
   - key: "PoliceDataAccessAudit"
     title: "Police Data Access Audit"
     url: "/wiki/concepts/policedataaccessaudit/"
+  - key: "PoliceDisciplineRemovalBarriers"
+    title: "Police Discipline and Removal Barriers"
+    url: "/wiki/concepts/policedisciplineremovalbarriers/"
   - key: "PoliceKillingRateDivergence"
     title: "Police Killing Rate Divergence"
     url: "/wiki/concepts/policekillingratedivergence/"
   - key: "PoliceLegitimacyClearanceCapacity"
     title: "Police Legitimacy and Clearance Capacity"
     url: "/wiki/concepts/policelegitimacyclearancecapacity/"
+  - key: "PoliceMisconductConcentration"
+    title: "Police Misconduct Concentration"
+    url: "/wiki/concepts/policemisconductconcentration/"
+  - key: "PoliceNetworkSpillover"
+    title: "Police Network Spillover"
+    url: "/wiki/concepts/policenetworkspillover/"
   - key: "PoliceStaffingRelationalCapacity"
     title: "Police Staffing as Relational Capacity"
     url: "/wiki/concepts/policestaffingrelationalcapacity/"

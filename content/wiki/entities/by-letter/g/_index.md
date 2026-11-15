@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14299
+wiki_total_pages: 14302
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "GeorgeEliot"
     title: "George Eliot / 乔治·艾略特"
     url: "/wiki/entities/georgeeliot/"
+  - key: "GeorgeFloyd"
+    title: "George Floyd"
+    url: "/wiki/entities/georgefloyd/"
   - key: "GeorgeGeorgiadis"
     title: "George Georgiadis"
     url: "/wiki/entities/georgegeorgiadis/"

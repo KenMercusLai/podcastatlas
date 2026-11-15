@@ -5,7 +5,8 @@ tags: [criminology, violence-reduction, networks, targeting]
 sources:
   - wolfgang-s-law-part-one
   - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
-last_updated: 2026-11-15
+  - memorial-day-2020-part-2-memorial-day-2020-part-2
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,9 +24,11 @@ Concentration is a population-level diagnostic, not an inference of guilt. Netwo
 
 The Lehrer interview adds the practical claim that even large high-violence communities may contain only a few hundred people at immediate risk of shooting or being shot. That scale can support intensive, person-specific help, but the same precision claim increases the need for transparent inclusion criteria, correction, and separation of supportive outreach from automatic criminal suspicion.
 
+A cross-domain comparison with police complaints and repeat dangerous officers reinforces the policy value of locating concentrated harm while showing why each domain needs different evidence, safeguards, and interventions. A shared fat-tail distribution does not make community violence and police misconduct equivalent.
+
 ## Key Claims
 
-- Serious violence can be distributed far more unevenly than neighborhood-level crime labels imply.
+- Serious violence can be distributed far more unevenly than neighborhood-level crime labels imply, and similar fat-tail reasoning can illuminate other harms without making their measures or remedies interchangeable.
 - Connected-group analysis can reveal retaliation and victimization pathways that aggregate population statistics hide.
 - A smaller problem definition can make individualized support and intervention operationally possible.
 - Concentration estimates depend on place, period, data quality, definitions, and enforcement practices.
@@ -44,14 +47,19 @@ The Lehrer interview adds the practical claim that even large high-violence comm
 - [[wolfgang-s-law-part-one]] reports roughly 700 people in 18 groups in Baltimore's Western District, about 400 central people in a Chicago neighborhood, a half-percent estimate for New Orleans shootings, and a six-person reassessment in a Stockholm case.
 - [[brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns]] repeats Western Baltimore and Chicago examples to argue for individualized attention rather than broad neighborhood enforcement.
 
+### Cross-domain concentration boundary
+
+- [[memorial-day-2020-part-2-memorial-day-2020-part-2]] applies fat-tail reasoning to police complaints and repeat dangerous officers, supporting targeted institutional action without treating officer complaints and community violence as interchangeable datasets.
+
 ## Counterevidence & Qualifications
 
-The episodes summarize rather than reproduce the underlying studies. Recorded offending reflects enforcement and measurement as well as conduct, while network boundaries and causal roles can be uncertain. Concentration can support narrower prevention, but it can also make a small group bear intensive surveillance or intervention without adequate process.
+The episodes summarize rather than reproduce the underlying studies. Recorded offending reflects enforcement and measurement as well as conduct, while network boundaries and causal roles can be uncertain. Concentration can support narrower prevention, but it can also make a small group bear intensive surveillance or intervention without adequate process. Complaint distributions likewise reflect reporting access, assignment, exposure, investigation, and substantiation practices; a shared distribution shape does not make police misconduct and community violence morally or operationally equivalent.
 
 ## What Changed
 
 - Established a guarded synthesis separating a useful network-level diagnostic from individual prediction or guilt.
 - Added the operational case for individualized support over neighborhood-wide enforcement.
+- Added police misconduct as a qualified cross-domain comparison and made the non-equivalence of datasets and remedies explicit.
 
 ## Related Concepts
 
@@ -60,3 +68,4 @@ The episodes summarize rather than reproduce the underlying studies. Recorded of
 - [[TrustedCommunityViolenceInterruption]] - non-coercive mechanism for acting on a specific escalation risk.
 - [[ViolenceReductionPublicHealthModel]] - adjacent prevention architecture using coordinated local knowledge.
 - [[TeamBasedServiceDelivery]] - operating model for combining different sources of network and service knowledge.
+- [[PoliceMisconductConcentration]] - parallel fat-tail diagnosis for repeat officer harm with different evidence and intervention duties.

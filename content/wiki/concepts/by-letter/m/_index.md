@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11349
+wiki_total_pages: 11353
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1235,6 +1235,9 @@ wiki_pages:
   - key: "MistrustTriggeredMissionLaunch"
     title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
     url: "/wiki/concepts/mistrusttriggeredmissionlaunch/"
+  - key: "MitigatedSpeech"
+    title: "Mitigated Speech"
+    url: "/wiki/concepts/mitigatedspeech/"
   - key: "MitigationUnderwritingRecognition"
     title: "Mitigation Underwriting Recognition"
     url: "/wiki/concepts/mitigationunderwritingrecognition/"

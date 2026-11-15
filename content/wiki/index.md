@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Memorial Day, 2020 | Part 2](sources/memorial-day-2020-part-2-memorial-day-2020-part-2.md) — Revisionist History connects mitigated speech, concentrated police misconduct, network spillover, and discipline barriers to the preventable institutional failure behind George Floyd's death.
 - [In Defense of PAW Patrol](sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol.md) — Revisionist History weighs predictable rescue as emotional scaffolding against lost imaginative exercise, then defends dependable collective service as a civic aspiration.
 - [Running Hot](sources/running-hot.md) — Revisionist History connects ambulance crash risk, modest time savings, dispatch reform, siren noise, alarm fatigue, and inherited urgency norms to selective lights-and-sirens use.
 - [Relationships 2.0: Why Did You Do That?](sources/default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568.md) — Hidden Brain connects intention-sensitive moral judgment and group-biased motive attribution to forgiveness that preserves boundaries and requires accountable repair.
@@ -5142,6 +5143,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [George Floyd](entities/GeorgeFloyd.md) — Man whose fatal restraint anchors the episode's analysis of medical distress, failed intervention, and institutional accountability.
+- [Thomas Lane](entities/ThomasLane.md) — Rookie officer whose early warnings, deference, continued participation, and accountability make hierarchy explanatory but not exculpatory.
+- [Derek Chauvin](entities/DerekChauvin.md) — Senior former training officer presented as a repeat-risk case linking direct harm, peer influence, and failed removal.
 - [Jonathan Bayer](entities/JonathanBayer.md) — Berrien County EMS medical director who treats lights and sirens as a selective high-risk intervention.
 - [Jeff Jarvis (EMS physician)](entities/JeffJarvisEMS.md) — EMS analyst connecting national utilization data, selective response, and alarm fatigue.
 - [Arline Bronzaft](entities/ArlineBronzaft.md) — Environmental psychologist connecting siren exposure to learning, sleep, stress, and health.
@@ -19534,6 +19538,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Mitigated Speech](concepts/MitigatedSpeech.md) — Softened warning under hierarchy that can turn recognized emergency into an optional-sounding suggestion without erasing the duty to act.
+- [Police Misconduct Concentration](concepts/PoliceMisconductConcentration.md) — Fat-tail pattern in which a small share of officers accounts for disproportionate complaints and harm while systemic causes remain relevant.
+- [Police Network Spillover](concepts/PoliceNetworkSpillover.md) — Qualified peer-effect model linking partners, trainers, and work groups to the spread or normalization of harmful conduct.
+- [Police Discipline and Removal Barriers](concepts/PoliceDisciplineRemovalBarriers.md) — Contractual and appellate rules that can delay investigation, reverse discipline, or obscure why dangerous officers leave.
 - [Predictable Narrative Tradeoff](concepts/PredictableNarrativeTradeoff.md) — Tension between a repeated story's emotional scaffolding and its reduced invitation to uncertainty and alternative problem-solving.
 - [Civic Institutional Fantasy](concepts/CivicInstitutionalFantasy.md) — Story-world in which specialized helpers and dependable institutions coordinate in service of shared public needs.
 - [Lights and Sirens Risk Calibration](concepts/LightsAndSirensRiskCalibration.md) — Benefit-risk rule reserving emergency warning devices for calls where marginal time plausibly changes outcomes.

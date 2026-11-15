@@ -28079,6 +28079,10 @@
     "title": "Derek Abbott",
     "url": "/wiki/entities/derekabbott/"
   },
+  "DerekChauvin": {
+    "title": "Derek Chauvin",
+    "url": "/wiki/entities/derekchauvin/"
+  },
   "DerekHockeyNinja": {
     "title": "Derek (Hockey Ninja)",
     "url": "/wiki/entities/derekhockeyninja/"
@@ -39838,6 +39842,10 @@
   "GeorgeEliot": {
     "title": "George Eliot / 乔治·艾略特",
     "url": "/wiki/entities/georgeeliot/"
+  },
+  "GeorgeFloyd": {
+    "title": "George Floyd",
+    "url": "/wiki/entities/georgefloyd/"
   },
   "GeorgeGeorgiadis": {
     "title": "George Georgiadis",
@@ -64995,6 +65003,10 @@
     "title": "Mithril Capital",
     "url": "/wiki/entities/mithrilcapital/"
   },
+  "MitigatedSpeech": {
+    "title": "Mitigated Speech",
+    "url": "/wiki/concepts/mitigatedspeech/"
+  },
   "MitigationUnderwritingRecognition": {
     "title": "Mitigation Underwriting Recognition",
     "url": "/wiki/concepts/mitigationunderwritingrecognition/"
@@ -74031,6 +74043,10 @@
     "title": "Police Data Access Audit",
     "url": "/wiki/concepts/policedataaccessaudit/"
   },
+  "PoliceDisciplineRemovalBarriers": {
+    "title": "Police Discipline and Removal Barriers",
+    "url": "/wiki/concepts/policedisciplineremovalbarriers/"
+  },
   "PoliceFreeProtestSpace": {
     "title": "Police-Free Protest Space",
     "url": "/wiki/concepts/policefreeprotestspace/"
@@ -74042,6 +74058,14 @@
   "PoliceLegitimacyClearanceCapacity": {
     "title": "Police Legitimacy and Clearance Capacity",
     "url": "/wiki/concepts/policelegitimacyclearancecapacity/"
+  },
+  "PoliceMisconductConcentration": {
+    "title": "Police Misconduct Concentration",
+    "url": "/wiki/concepts/policemisconductconcentration/"
+  },
+  "PoliceNetworkSpillover": {
+    "title": "Police Network Spillover",
+    "url": "/wiki/concepts/policenetworkspillover/"
   },
   "PoliceStaffingRelationalCapacity": {
     "title": "Police Staffing as Relational Capacity",
@@ -93271,6 +93295,10 @@
     "title": "Thomas Laffont",
     "url": "/wiki/entities/thomaslaffont/"
   },
+  "ThomasLane": {
+    "title": "Thomas Lane",
+    "url": "/wiki/entities/thomaslane/"
+  },
   "ThomasMalory": {
     "title": "Thomas Malory",
     "url": "/wiki/entities/thomasmalory/"
@@ -112330,6 +112358,10 @@
   "melody-jue-ocean-memory-wxagwid1oeg": {
     "title": "Melody Jue: Ocean Memory",
     "url": "/wiki/sources/melody-jue-ocean-memory-wxagwid1oeg/"
+  },
+  "memorial-day-2020-part-2-memorial-day-2020-part-2": {
+    "title": "Memorial Day, 2020 | Part 2",
+    "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
   },
   "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083": {
     "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",

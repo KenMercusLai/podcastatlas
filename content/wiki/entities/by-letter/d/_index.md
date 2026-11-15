@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14299
+wiki_total_pages: 14302
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "DerekAbbott"
     title: "Derek Abbott"
     url: "/wiki/entities/derekabbott/"
+  - key: "DerekChauvin"
+    title: "Derek Chauvin"
+    url: "/wiki/entities/derekchauvin/"
   - key: "Derry"
     title: "Derry / Londonderry"
     url: "/wiki/entities/derry/"

@@ -40215,3 +40215,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Memorial Day, 2020 | Part 2
+
+Added the [[RevisionistHistory]] episode connecting [[ThomasLane]]'s softened warnings during [[GeorgeFloyd]]'s fatal restraint to [[MitigatedSpeech]], then widening the analysis through [[PoliceMisconductConcentration]], [[PoliceNetworkSpillover]], and [[PoliceDisciplineRemovalBarriers]]. Created bounded profiles for Floyd, Lane, and [[DerekChauvin]], and resynthesized [[ViolenceConcentration]] from its complete preserved three-source inventory before appending the new source once.
+
+Core synthesis: hierarchy can make an accurate warning sound optional, but it does not erase a subordinate's duty to intervene; Lane's early recognition and continued restraint after missing-pulse reports must remain in the same judgment. Concentrated complaint patterns can support targeted early removal without reducing misconduct to isolated “bad apples,” while network association requires causal caution and labor protections must be assessed against both due process and durable public-safety accountability. No settled contradiction was adopted. Gladwell's Lane counterfactual, complaint and reinstatement figures, the reported 26 percent network association, and Chauvin's prior incident remain source-scoped because the supplied file is a structured summary rather than a transcript, dataset, study report, labor agreement, arbitration record, or complete court record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,019 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

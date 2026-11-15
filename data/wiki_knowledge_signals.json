@@ -78055,6 +78055,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/derekabbott/"
     },
+    "DerekChauvin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/derekchauvin/"
+    },
     "DermatologicRenewalAndCancerPrevention": {
       "episode_count": 4,
       "show_count": 2,
@@ -122156,6 +122172,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/georgeeliot/"
+    },
+    "GeorgeFloyd": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/georgefloyd/"
     },
     "GeorgeHarrison": {
       "episode_count": 1,
@@ -211607,6 +211639,22 @@
       "updated": "2026-11-13",
       "url": "/wiki/entities/mithridatesvi/"
     },
+    "MitigatedSpeech": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/mitigatedspeech/"
+    },
     "MitigationUnderwritingRecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -241868,6 +241916,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/poland/"
     },
+    "PoliceDisciplineRemovalBarriers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/policedisciplineremovalbarriers/"
+    },
     "PoliceLegitimacyClearanceCapacity": {
       "episode_count": 1,
       "show_count": 1,
@@ -241883,6 +241947,38 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/policelegitimacyclearancecapacity/"
+    },
+    "PoliceMisconductConcentration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/policemisconductconcentration/"
+    },
+    "PoliceNetworkSpillover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/policenetworkspillover/"
     },
     "PoliceStaffingRelationalCapacity": {
       "episode_count": 1,
@@ -304801,6 +304897,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/thomaslaffont/"
     },
+    "ThomasLane": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/thomaslane/"
+    },
     "ThomasMalory": {
       "episode_count": 2,
       "show_count": 1,
@@ -317359,9 +317471,9 @@
       "url": "/wiki/entities/vinland/"
     },
     "ViolenceConcentration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
@@ -317376,9 +317488,16 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
+          "key": "memorial-day-2020-part-2-memorial-day-2020-part-2",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 2",
+          "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/violenceconcentration/"
     },
     "ViolenceReductionPublicHealthModel": {
