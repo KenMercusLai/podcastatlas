@@ -40099,3 +40099,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Formula
+
+Added the [[RevisionistHistory]] investigation in which [[BenNaddaffHafrey]], [[RachelWyman]], and Culinary Institute students reverse-engineer [[ThomasEnglishMuffins|Thomas' English muffins]]. Created bounded profiles for Wyman, [[ChrisBotticella]], [[BimboBakeries]], the Thomas product, [[CulinaryInstituteOfAmerica]], [[CarthusianOrder]], and [[Chartreuse]]; established [[ProductReverseEngineering]], [[TradeSecretAsLaborControl]], and [[SecrecyAsCommunityBond]]; and resynthesized Ben Naddaff-Hafrey and the show from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: ingredients alone underdetermine a process-dependent product. High hydration, overproofing, ingredient substitution, fermentation control, refrigeration, and staling reproduce the nooks-and-crannies structure, but 61 percent correct odd-sample identification means the copy remains perceptibly different. Nearly 80 percent preference for Wyman's sourdough version reframes reverse engineering as learning and improvement rather than exact duplication. The episode contrasts Bimbo's reported suit against Botticella with a former Carthusian's account of trust after departure, separating secrecy used as an employee-mobility constraint from secrecy sustained by community purpose. No settled contradiction was adopted. The legal merits, industrial process, employee access, test data, consumer generalizability, Carthusian practice, and comparative institutional claim remain episode-scoped because the supplied file is a structured summary rather than a transcript, pleadings, judgment, manufacturing record, experimental dataset, market study, or independent institutional history; Bimbo's response is absent. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,009 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

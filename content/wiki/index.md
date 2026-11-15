@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Formula](sources/the-formula-the-formula.md) — Revisionist History reverse-engineers Thomas' English muffins and contrasts corporate trade-secret enforcement with trust-based Carthusian secrecy.
 - [Encores](sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc.md) — Malcolm Gladwell introduces four Revisionist History music stories through the autobiographical persistence of songs and his perspective as an enthusiastic non-musician.
 - [Encore: Hallelujah](sources/encore-hallelujah-encore-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, institutional survival, and chance.
 - [Encore: The King of Tears](sources/encore-the-king-of-tears-encore-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, narrative specificity, musical community, and memorial performance to country music's emotional force.
@@ -5132,6 +5133,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Rachel Wyman](entities/RachelWyman.md) — Baker and educator who leads the Thomas muffin reconstruction and distinguishes structural matching from preference.
+- [Chris Botticella](entities/ChrisBotticella.md) — Former Bimbo executive whose planned job move became the episode's trade-secret and labor-mobility case.
+- [Bimbo Bakeries](entities/BimboBakeries.md) — Thomas brand owner represented through its protection of the muffin formula and process.
+- [Thomas' English Muffins](entities/ThomasEnglishMuffins.md) — Branded baked product connecting process reconstruction, sensory testing, and trade-secret mythology.
+- [Culinary Institute of America](entities/CulinaryInstituteOfAmerica.md) — Culinary school providing the setting, collaborators, and expert test population for the experiment.
+- [Carthusian Order](entities/CarthusianOrder.md) — Monastic community represented as guarding the Chartreuse formula through purpose and trust.
+- [Chartreuse](entities/Chartreuse.md) — Liqueur used to contrast community-bound secrecy with corporate legal enforcement.
 - [Elvis Costello](entities/ElvisCostello.md) — Songwriter whose transformation of “Deportees Club” into “Deportee” frames failure as a potentially unfinished creative search.
 - [Hallelujah](entities/HallelujahSong.md) — Song whose influential public form emerged through Cohen's revisions, Cale's recombination, Buckley's adaptation, and contingent circulation.
 - [John Cale](entities/JohnCale.md) — Musician whose selection, recombination, and sparse arrangement connect Cohen's evolving song to Buckley's version.
@@ -19492,6 +19500,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Product Reverse Engineering](concepts/ProductReverseEngineering.md) — Iterative reconstruction separating product resemblance, perceptual identity, and user preference.
+- [Trade Secret as Labor Control](concepts/TradeSecretAsLaborControl.md) — Employment-power lens for confidential knowledge used to constrain worker mobility.
+- [Secrecy as Community Bond](concepts/SecrecyAsCommunityBond.md) — Governance of confidential knowledge through identity, purpose, trust, and continuing obligation.
 - [Conceptual and Experimental Innovation](concepts/ConceptualAndExperimentalInnovation.md) — Project-level heuristic contrasting execution of a prior conception with discovery through attempts and revision.
 - [Iterative Creative Reinterpretation](concepts/IterativeCreativeReinterpretation.md) — Process through which selection, arrangement, performance, circulation, and chance reshape a work across versions and creators.
 - [Emotional Specificity in Storytelling](concepts/EmotionalSpecificityInStorytelling.md) — Craft hypothesis that melancholy gains force when concrete detail enables personal recognition.

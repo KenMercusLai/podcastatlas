@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11326
+wiki_total_pages: 11329
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "SecondhandGameEconomy"
     title: "Secondhand Game Economy"
     url: "/wiki/concepts/secondhandgameeconomy/"
+  - key: "SecrecyAsCommunityBond"
+    title: "Secrecy as Community Bond"
+    url: "/wiki/concepts/secrecyascommunitybond/"
   - key: "SecrecyDrivenHistoricalMyth"
     title: "Secrecy-Driven Historical Myth"
     url: "/wiki/concepts/secrecydrivenhistoricalmyth/"

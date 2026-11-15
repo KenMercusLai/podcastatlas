@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14267
+wiki_total_pages: 14274
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "Biltong"
     title: "Biltong"
     url: "/wiki/entities/biltong/"
+  - key: "BimboBakeries"
+    title: "Bimbo Bakeries"
+    url: "/wiki/entities/bimbobakeries/"
   - key: "Binance"
     title: "Binance"
     url: "/wiki/entities/binance/"

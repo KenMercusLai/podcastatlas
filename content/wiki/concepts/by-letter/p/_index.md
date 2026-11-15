@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11326
+wiki_total_pages: 11329
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2315,6 +2315,9 @@ wiki_pages:
   - key: "ProductNamingAsPositioning"
     title: "Product Naming As Positioning"
     url: "/wiki/concepts/productnamingaspositioning/"
+  - key: "ProductReverseEngineering"
+    title: "Product Reverse Engineering"
+    url: "/wiki/concepts/productreverseengineering/"
   - key: "ProductRoast"
     title: "Product Roast"
     url: "/wiki/concepts/productroast/"

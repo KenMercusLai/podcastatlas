@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3689
+topic_total_pages: 3690
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4712,6 +4712,9 @@ topic_entities:
   - key: "CristianoRonaldo"
     title: "Cristiano Ronaldo"
     url: "/wiki/entities/cristianoronaldo/"
+  - key: "CulinaryInstituteOfAmerica"
+    title: "Culinary Institute of America"
+    url: "/wiki/entities/culinaryinstituteofamerica/"
   - key: "CurryBarker"
     title: "Curry Barker"
     url: "/wiki/entities/currybarker/"

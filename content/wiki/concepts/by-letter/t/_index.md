@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11326
+wiki_total_pages: 11329
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"
+  - key: "TradeSecretAsLaborControl"
+    title: "Trade Secret as Labor Control"
+    url: "/wiki/concepts/tradesecretaslaborcontrol/"
   - key: "TradeShowBoothSharing"
     title: "Trade Show Booth Sharing"
     url: "/wiki/concepts/tradeshowboothsharing/"

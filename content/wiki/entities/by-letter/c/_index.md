@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14267
+wiki_total_pages: 14274
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "Carthage"
     title: "Carthage / 迦太基"
     url: "/wiki/entities/carthage/"
+  - key: "CarthusianOrder"
+    title: "Carthusian Order"
+    url: "/wiki/entities/carthusianorder/"
   - key: "Cartier"
     title: "Cartier"
     url: "/wiki/entities/cartier/"
@@ -842,6 +845,9 @@ wiki_pages:
   - key: "ChartleyManor"
     title: "Chartley Manor"
     url: "/wiki/entities/chartleymanor/"
+  - key: "Chartreuse"
+    title: "Chartreuse"
+    url: "/wiki/entities/chartreuse/"
   - key: "Chartwell"
     title: "Chartwell"
     url: "/wiki/entities/chartwell/"
@@ -1079,6 +1085,9 @@ wiki_pages:
   - key: "ChrisBest"
     title: "Chris Best"
     url: "/wiki/entities/chrisbest/"
+  - key: "ChrisBotticella"
+    title: "Chris Botticella"
+    url: "/wiki/entities/chrisbotticella/"
   - key: "ChrisBuskirk"
     title: "Chris Buskirk"
     url: "/wiki/entities/chrisbuskirk/"
@@ -1895,6 +1904,9 @@ wiki_pages:
   - key: "Cuitlahuac"
     title: "Cuitlahuac"
     url: "/wiki/entities/cuitlahuac/"
+  - key: "CulinaryInstituteOfAmerica"
+    title: "Culinary Institute of America"
+    url: "/wiki/entities/culinaryinstituteofamerica/"
   - key: "CultOfSupremeBeing"
     title: "Cult of the Supreme Being"
     url: "/wiki/entities/cultofsupremebeing/"

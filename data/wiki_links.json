@@ -14967,6 +14967,10 @@
     "title": "Biltong",
     "url": "/wiki/entities/biltong/"
   },
+  "BimboBakeries": {
+    "title": "Bimbo Bakeries",
+    "url": "/wiki/entities/bimbobakeries/"
+  },
   "Binance": {
     "title": "Binance",
     "url": "/wiki/entities/binance/"
@@ -18431,6 +18435,10 @@
     "title": "Carthaginian Constitution / 迦太基政体",
     "url": "/wiki/concepts/carthaginianconstitution/"
   },
+  "CarthusianOrder": {
+    "title": "Carthusian Order",
+    "url": "/wiki/entities/carthusianorder/"
+  },
   "Cartier": {
     "title": "Cartier",
     "url": "/wiki/entities/cartier/"
@@ -19498,6 +19506,10 @@
   "ChartleyManor": {
     "title": "Chartley Manor",
     "url": "/wiki/entities/chartleymanor/"
+  },
+  "Chartreuse": {
+    "title": "Chartreuse",
+    "url": "/wiki/entities/chartreuse/"
   },
   "Chartwell": {
     "title": "Chartwell",
@@ -21098,6 +21110,10 @@
   "ChrisBest": {
     "title": "Chris Best",
     "url": "/wiki/entities/chrisbest/"
+  },
+  "ChrisBotticella": {
+    "title": "Chris Botticella",
+    "url": "/wiki/entities/chrisbotticella/"
   },
   "ChrisBuskirk": {
     "title": "Chris Buskirk",
@@ -25598,6 +25614,10 @@
   "CulinaryIdentityTransformation": {
     "title": "Culinary Identity Transformation",
     "url": "/wiki/concepts/culinaryidentitytransformation/"
+  },
+  "CulinaryInstituteOfAmerica": {
+    "title": "Culinary Institute of America",
+    "url": "/wiki/entities/culinaryinstituteofamerica/"
   },
   "CulinaryNationalism": {
     "title": "Culinary Nationalism",
@@ -75823,6 +75843,10 @@
     "title": "Product Naming As Positioning",
     "url": "/wiki/concepts/productnamingaspositioning/"
   },
+  "ProductReverseEngineering": {
+    "title": "Product Reverse Engineering",
+    "url": "/wiki/concepts/productreverseengineering/"
+  },
   "ProductRoast": {
     "title": "Product Roast",
     "url": "/wiki/concepts/productroast/"
@@ -78038,6 +78062,10 @@
   "RachelSalzman": {
     "title": "Rachel Salzman",
     "url": "/wiki/entities/rachelsalzman/"
+  },
+  "RachelWyman": {
+    "title": "Rachel Wyman",
+    "url": "/wiki/entities/rachelwyman/"
   },
   "RacialAntisemitism": {
     "title": "Racial Antisemitism",
@@ -83538,6 +83566,10 @@
   "Secoo": {
     "title": "寺库 / Secoo",
     "url": "/wiki/entities/secoo/"
+  },
+  "SecrecyAsCommunityBond": {
+    "title": "Secrecy as Community Bond",
+    "url": "/wiki/concepts/secrecyascommunitybond/"
   },
   "SecrecyDrivenAdministrativeBottleneck": {
     "title": "密控式行政瓶颈 / Secrecy-Driven Administrative Bottleneck",
@@ -93019,6 +93051,10 @@
     "title": "Thomas Edison",
     "url": "/wiki/entities/thomasedison/"
   },
+  "ThomasEnglishMuffins": {
+    "title": "Thomas' English Muffins",
+    "url": "/wiki/entities/thomasenglishmuffins/"
+  },
   "ThomasFoley": {
     "title": "Thomas Foley",
     "url": "/wiki/entities/thomasfoley/"
@@ -94362,6 +94398,10 @@
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
     "url": "/wiki/concepts/tradereciprocityprotectionism/"
+  },
+  "TradeSecretAsLaborControl": {
+    "title": "Trade Secret as Labor Control",
+    "url": "/wiki/concepts/tradesecretaslaborcontrol/"
   },
   "TradeShowBoothSharing": {
     "title": "Trade Show Booth Sharing",
@@ -114214,6 +114254,10 @@
   "the-fines-the-fines": {
     "title": "The Fines",
     "url": "/wiki/sources/the-fines-the-fines/"
+  },
+  "the-formula-the-formula": {
+    "title": "The Formula",
+    "url": "/wiki/sources/the-formula-the-formula/"
   },
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",

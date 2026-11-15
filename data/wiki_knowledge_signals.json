@@ -32737,9 +32737,9 @@
       "url": "/wiki/entities/benmacintyre/"
     },
     "BenNaddaffHafrey": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -32761,6 +32761,13 @@
           "show": "Revisionist History",
           "title": "Christmas in Connecticut",
           "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        },
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
         }
       ],
       "updated": "2026-11-15",
@@ -34011,6 +34018,22 @@
       ],
       "updated": "2026-11-03",
       "url": "/wiki/entities/biltong/"
+    },
+    "BimboBakeries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/bimbobakeries/"
     },
     "Binance": {
       "episode_count": 2,
@@ -45512,6 +45535,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/carthaginianconstitution/"
     },
+    "CarthusianOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/carthusianorder/"
+    },
     "CaseBlue": {
       "episode_count": 1,
       "show_count": 1,
@@ -49032,6 +49071,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/charteredcompanysovereignty/"
+    },
+    "Chartreuse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/chartreuse/"
     },
     "Chartwell": {
       "episode_count": 1,
@@ -53773,6 +53828,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/chrisbell/"
+    },
+    "ChrisBotticella": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/chrisbotticella/"
     },
     "ChrisHarding": {
       "episode_count": 1,
@@ -69188,6 +69259,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/culinaryflavortransformation/"
+    },
+    "CulinaryInstituteOfAmerica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/culinaryinstituteofamerica/"
     },
     "CulinaryNationalism": {
       "episode_count": 2,
@@ -248104,6 +248191,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/productnamingaspositioning/"
     },
+    "ProductReverseEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/productreverseengineering/"
+    },
     "ProductVariableJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -254140,6 +254243,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/rachelmorley/"
+    },
+    "RachelWyman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/rachelwyman/"
     },
     "RacialAntisemitism": {
       "episode_count": 1,
@@ -260846,9 +260965,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -260954,6 +261073,13 @@
           "show": "Revisionist History",
           "title": "Encores",
           "url": "/wiki/sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc/"
+        },
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
         }
       ],
       "updated": "2026-11-15",
@@ -272409,6 +272535,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/secondhandthirdhandsmokeexposure/"
+    },
+    "SecrecyAsCommunityBond": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/secrecyascommunitybond/"
     },
     "SecrecyDrivenAdministrativeBottleneck": {
       "episode_count": 1,
@@ -303417,6 +303559,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/thomasedison/"
     },
+    "ThomasEnglishMuffins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/thomasenglishmuffins/"
+    },
     "ThomasFoley": {
       "episode_count": 1,
       "show_count": 1,
@@ -307619,6 +307777,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/concepts/tradediversificationstabilityparadox/"
+    },
+    "TradeSecretAsLaborControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Formula [The_Formula].md",
+          "key": "the-formula-the-formula",
+          "show": "Revisionist History",
+          "title": "The Formula",
+          "url": "/wiki/sources/the-formula-the-formula/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/tradesecretaslaborcontrol/"
     },
     "TradeShowBoothSharing": {
       "episode_count": 1,
