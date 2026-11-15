@@ -270,8 +270,8 @@
       ]
     },
     "Dan Carlin's Hardcore History": {
-      "episode_count": 1,
-      "earliest_episode_date": "2026-07-31",
+      "episode_count": 2,
+      "earliest_episode_date": "2025-12-22",
       "latest_episode_date": "2026-07-31",
       "latest_episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
       "source_note_count": 0,
@@ -279,7 +279,8 @@
       "topics": [],
       "entities": [],
       "start_here_episode_files": [
-        "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md"
+        "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
+        "dchha73_Mania_for_Subjugation_III [dchha73_Mania_for_Subjugation_III].md"
       ]
     },
     "Data Science With Sam": {
