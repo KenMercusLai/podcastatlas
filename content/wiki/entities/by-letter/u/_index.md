@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 14168
+wiki_total_pages: 14170
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "Uplane"
     title: "Uplane"
     url: "/wiki/entities/uplane/"
+  - key: "UpsideFoods"
+    title: "Upside Foods"
+    url: "/wiki/entities/upsidefoods/"
   - key: "UptonSinclair"
     title: "Upton Sinclair / 厄普顿·辛克莱"
     url: "/wiki/entities/uptonsinclair/"

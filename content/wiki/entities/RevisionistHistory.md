@@ -11,6 +11,7 @@ sources:
   - president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel
   - the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin
   - revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled
+  - frankenfood-the-mistakes-series-frankenfood-the-mistakes-series
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, connected treatments of policing and constitutional gun history, a Reconstruction interview, place-based cultural history, and a follow-up on golf, land, tax privilege, and delayed policy influence.
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, connected treatments of policing and constitutional gun history, a Reconstruction interview, place-based cultural history, a follow-up on golf and tax privilege, and a food-technology naming case.
 
 ## Current Profile
 
@@ -37,6 +38,8 @@ Place-based cultural and business history broadens the show's method again. [[th
 
 A longitudinal follow-up form appears in [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|Revenge of A Good Walk Spoiled]]. The show returns to a 2017 argument after [[AdrinNazarian]]'s staff routes it into city politics, then follows a parcel-tax threat, club resistance, polling, and possible compromise. The episode joins physical observation, land economics, constitutional tax history, philosophical analogy, and negotiation while leaving primary verification and opposing institutional defenses incomplete.
 
+Consumer technology and sensory reporting add another application of the show's method. The show compares the cultural defeat of genetically modified tomatoes with the language around [[CultivatedMeat]], follows [[BarbaraStuckey]]'s search for a less alienating but still differentiating term, and tests the resulting story through a tasting at [[UpsideFoods]]. [[frankenfood-the-mistakes-series-frankenfood-the-mistakes-series|Frankenfood]] extends the reframing method while keeping environmental, safety, cost, regulatory, and scaling claims source-scoped.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
@@ -45,7 +48,7 @@ A longitudinal follow-up form appears in [[revenge-of-a-good-walk-spoiled-reveng
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
-- Uses long-form dialogue, qualified analogy, and longitudinal follow-up to connect public memory, place, cultural production, incomplete reform, and delayed policy action.
+- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, and firsthand tasting to connect public memory, policy action, and consumer acceptance.
 
 ## Evidence
 
@@ -78,17 +81,18 @@ A longitudinal follow-up form appears in [[revenge-of-a-good-walk-spoiled-reveng
 
 - [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled]] moves from fenced urban land and preferential assessment through [[GradualOwnershipChange]] to a later parcel-tax proposal and [[SubsidizedPrivateLandReciprocity|reciprocal public-benefit]] bargaining.
 
+### Food technology and consumer language
+
+- [[frankenfood-the-mistakes-series-frankenfood-the-mistakes-series]] connects GMO backlash, cultivated-meat terminology, Petri-dish imagery, and restaurant tasting to [[ProductNamingAsPositioning]].
+
 ## Qualifications
 
-Only eight episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, the live event's research claims and personal stories are not independently verified here, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolate the effect of the featured strategies. The Second Amendment and Reconstruction episodes give limited space to competing historical interpretations, while the Wu-Tang episode does not establish that its simultaneous political and musical movements influenced one another. The golf follow-up documents a route into city politics but does not prove enactment, causal policy impact, or the accuracy of its land and tax estimates.
+Only nine episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, the live event's research claims and personal stories are not independently verified here, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolate the effect of the featured strategies. The Second Amendment and Reconstruction episodes give limited space to competing historical interpretations, while the Wu-Tang episode does not establish that its simultaneous political and musical movements influenced one another. The golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance.
 
 ## What Changed
 
-- Extended the violence branch into historical gun institutions and contested police-capacity policy.
-- Added a constitutional-history form that combines narrative, corpus linguistics, and revisionist legal interpretation.
-- Added a democratic-memory interview that evaluates reform across generations rather than only by immediate outcomes.
-- Added place-based cultural history and an explicitly bounded political analogy.
-- Added longitudinal follow-up that distinguishes delayed agenda uptake from enacted or durable policy change.
+- Added food-technology reporting that connects historical analogy and naming analysis to firsthand sensory experience.
+- Extended the show's reframing method from institutions and public memory to consumer fear, disgust, and product acceptance.
 
 ## Relationships
 
@@ -112,3 +116,6 @@ Only eight episodes currently inform this page, so they do not establish the ful
 - [[AdrinNazarian]] - officeholder through whom the show traces delayed policy uptake.
 - [[LosAngelesCountryClub]] - central institutional case in the land, tax, and access argument.
 - [[JournalismToPolicyLatency]] - follow-up pattern separating publication, agenda uptake, bargaining, and outcome.
+- [[BarbaraStuckey]] - food strategist whose category-language work anchors the cultivated-meat case.
+- [[UpsideFoods]] - company providing the episode's production visit and tasting.
+- [[ProductNamingAsPositioning]] - mechanism linking unfamiliar terminology to consumer expectations and acceptance.

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-11-15] ingest | Frankenfood | The Mistakes Series
+
+Added the [[RevisionistHistory]] episode comparing the GMO tomato backlash with the naming and tasting of [[CultivatedMeat]]. Created bounded profiles for [[BarbaraStuckey]] and [[UpsideFoods]], and resynthesized [[ProductNamingAsPositioning]] and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: product names can activate category, memory, appetite, fear, disgust, and perceived artificiality before trial; “cultivated meat” attempts to reduce avoidable laboratory imagery without removing the need for transparent production language; and restaurant tasting can supply sensory evidence but cannot establish cost, regulation, energy use, safety, scale, lifecycle performance, or representative acceptance. No settled contradiction was adopted. The GMO comparison, environmental and health claims, safety assertions, consumer reactions, and tasting outcome remain episode-scoped because the supplied file is a structured summary rather than the underlying studies, regulatory record, testing data, production data, or transcript. The automatic `wiki/overview.md` was read for context and was not manually rewritten. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,971 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-15] ingest | What Art Does For Your Brain
 
 Added the [[HiddenBrain]] episode with psychobiologist [[DaisyFancourt|Daisy Fancourt]]; created [[ArtsBasedHealthPractice]], [[AestheticDistanceEmotionPractice]], [[MultimodalArtsCognitiveReserve]], and [[SustainableArtsPractice]]; and resynthesized Hidden Brain and [[MusicBasedEmotionRegulation]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -39729,6 +39735,10 @@ Ran lint. See lint-report.md for details.
 Added the [[RevisionistHistory]] trailer in which [[BenNaddaffHafrey]] introduces [[StatenIsland|Staten Island's]] four-year secession fight as a breakdown of political belonging. Resynthesized Staten Island, [[StatenIslandSecession1993|the 1993 secession referendum]], and Naddaff-Hafrey from their complete preserved evidence inventories before appending the new source once.
 
 Core synthesis: the preview identifies perceived abandonment and distrust as the series' central problem, but adds no legal, fiscal, electoral, or archival evidence beyond the five full episodes already represented in the wiki. Its path from outer-borough resentment to [[RudyGiuliani]] and [[DonaldTrump]] remains an announced interpretive thesis rather than voter-level or causal proof. No settled factual contradiction was adopted. The automatic `wiki/overview.md` was read for context and was not manually rewritten. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,970 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-15] lint | Wiki health check
 

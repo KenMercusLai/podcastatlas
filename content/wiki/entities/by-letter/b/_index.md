@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14168
+wiki_total_pages: 14170
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "BarbaraFerrer"
     title: "Barbara Ferrer"
     url: "/wiki/entities/barbaraferrer/"
+  - key: "BarbaraStuckey"
+    title: "Barbara Stuckey"
+    url: "/wiki/entities/barbarastuckey/"
   - key: "BarbertonOhio"
     title: "Barberton, Ohio"
     url: "/wiki/entities/barbertonohio/"

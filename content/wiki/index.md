@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Frankenfood | The Mistakes Series](sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series.md) — Revisionist History compares GMO backlash with cultivated-meat naming and tasting while preserving scale, safety, cost, regulation, and lifecycle gaps.
 - [Coming Soon: The Staten Island Problem](sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem.md) — Revisionist History previews Staten Island's secession fight as a crisis of democratic belonging while treating its Giuliani and Trump parallels as a thesis for the full series.
 - [Revenge of A Good Walk Spoiled](sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled.md) — Revisionist History revisits Los Angeles golf-course tax privileges and follows the argument into a parcel-tax proposal, public-access bargaining, and delayed policy influence.
 - [The Staten Island Problem - Part 1: The Mayor vs. the Borough President](sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t.md) — Revisionist History contrasts Dinkins's pluralist defense of citywide unity with Molinari's policing, landfill, and forgotten-borough grievance politics.
@@ -5094,6 +5095,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 
 ## Entities
+- [Barbara Stuckey](entities/BarbaraStuckey.md) — Food strategist using the GMO backlash to develop less alienating but still differentiating language for cultivated meat.
+- [Upside Foods](entities/UpsideFoods.md) — Cultivated-meat company using restaurant tasting and conventional food formats as consumer adoption proof.
 - [Adrin Nazarian](entities/AdrinNazarian.md) — Los Angeles council member who turns a podcast argument about golf-course tax advantages into a parcel-tax proposal and access negotiation.
 - [Los Angeles Country Club](entities/LosAngelesCountryClub.md) — Private golf club central to a dispute over valuable urban land, assessment continuity, tax preference, and reciprocal public benefit.
 - [Dan Singletary](entities/DanSingletary.md) — Artist and organizer who converted Staten Island quality-of-life grievances into a secession party and petition campaign.
@@ -19355,6 +19358,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
 
 ## Concepts
+- [Cultivated Meat](concepts/CultivatedMeat.md) — Animal-cell food technology whose proposed welfare and environmental benefits remain distinct from its naming, tasting, scale, and evidence challenges.
 - [Subsidized Private Land Reciprocity](concepts/SubsidizedPrivateLandReciprocity.md) — Principle that exceptional public advantages for private land can justify proportionate, enforceable public benefit or access.
 - [Gradual Ownership Change](concepts/GradualOwnershipChange.md) — Problem of cumulative ownership replacement that never crosses a reassessment threshold in one transaction.
 - [Journalism-to-Policy Latency](concepts/JournalismToPolicyLatency.md) — Delay and intermediary chain between a published argument and its conversion into policy agenda, bargaining, or action.

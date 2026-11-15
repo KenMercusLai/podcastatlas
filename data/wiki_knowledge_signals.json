@@ -29744,6 +29744,22 @@
       "updated": "2026-10-21",
       "url": "/wiki/entities/barbaracarvalho/"
     },
+    "BarbaraStuckey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Frankenfood_The_Mistakes_Series [Frankenfood_The_Mistakes_Series].md",
+          "key": "frankenfood-the-mistakes-series-frankenfood-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Frankenfood | The Mistakes Series",
+          "url": "/wiki/sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/barbarastuckey/"
+    },
     "BarbecueChainScalability": {
       "episode_count": 1,
       "show_count": 1,
@@ -68541,6 +68557,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/cultivatedimperialcapacity/"
+    },
+    "CultivatedMeat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Frankenfood_The_Mistakes_Series [Frankenfood_The_Mistakes_Series].md",
+          "key": "frankenfood-the-mistakes-series-frankenfood-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Frankenfood | The Mistakes Series",
+          "url": "/wiki/sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/cultivatedmeat/"
     },
     "CulturalDeclineAnxiety": {
       "episode_count": 1,
@@ -245434,6 +245466,43 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/productliabilityfederalpreemption/"
     },
+    "ProductNamingAsPositioning": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025) [427590c2-11bc-43fa-9c92-d1eccf05842a].md",
+          "key": "advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
+          "url": "/wiki/sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1bcb4eba68162b5af19b365409606b6e_37249959 [default.mp3_ywr3ahjkcgo_1bcb4eba68162b5af19b365409606b6e_37249959].md",
+          "key": "board-games-3-whats-in-a-name",
+          "show": "Planet Money",
+          "title": "BOARD GAMES 3: What's in a name?",
+          "url": "/wiki/sources/board-games-3-whats-in-a-name/"
+        },
+        {
+          "episode_file": "YETI： Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand [d7f8e0e8-51a5-4444-8c1d-f5c43c353285].md",
+          "key": "yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285",
+          "show": "How I Built This with Guy Raz",
+          "title": "YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
+          "url": "/wiki/sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285/"
+        },
+        {
+          "episode_file": "Frankenfood_The_Mistakes_Series [Frankenfood_The_Mistakes_Series].md",
+          "key": "frankenfood-the-mistakes-series-frankenfood-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Frankenfood | The Mistakes Series",
+          "url": "/wiki/sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/productnamingaspositioning/"
+    },
     "ProductVariableJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -258075,9 +258144,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -258134,6 +258203,13 @@
           "show": "Revisionist History",
           "title": "Revenge of A Good Walk Spoiled",
           "url": "/wiki/sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled/"
+        },
+        {
+          "episode_file": "Frankenfood_The_Mistakes_Series [Frankenfood_The_Mistakes_Series].md",
+          "key": "frankenfood-the-mistakes-series-frankenfood-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Frankenfood | The Mistakes Series",
+          "url": "/wiki/sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series/"
         }
       ],
       "updated": "2026-11-15",
@@ -309662,6 +309738,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/uplane/"
+    },
+    "UpsideFoods": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Frankenfood_The_Mistakes_Series [Frankenfood_The_Mistakes_Series].md",
+          "key": "frankenfood-the-mistakes-series-frankenfood-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Frankenfood | The Mistakes Series",
+          "url": "/wiki/sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/upsidefoods/"
     },
     "UpstreamLuxurySupplyAcquisition": {
       "episode_count": 1,

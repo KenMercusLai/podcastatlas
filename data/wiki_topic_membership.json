@@ -29581,6 +29581,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CultivatedMeat": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CulturalBiasInTesting": [
     {
       "key": "culture",
