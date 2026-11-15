@@ -92607,6 +92607,22 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/emotionalinteractionmodels/"
     },
+    "EmotionalManipulationRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+          "key": "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普",
+          "url": "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/emotionalmanipulationrecognition/"
+    },
     "EmotionalResponsibilityBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -246043,9 +246059,9 @@
       "url": "/wiki/concepts/powerdominatedwealthinsecurity/"
     },
     "PowerLiteracy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1811421687 [SCIM1811421687].md",
@@ -246060,9 +246076,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度",
           "url": "/wiki/sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11/"
+        },
+        {
+          "episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+          "key": "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普",
+          "url": "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/powerliteracy/"
     },
     "PowerMonopolyBackfire": {
@@ -251065,9 +251088,9 @@
       "url": "/wiki/concepts/psychiatrypsychotherapycollaboration/"
     },
     "PsychologicalAbuseRecognition": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
@@ -251089,9 +251112,16 @@
           "show": "这病说来话长",
           "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
           "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        },
+        {
+          "episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+          "key": "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普",
+          "url": "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/psychologicalabuserecognition/"
     },
     "PsychologicalAstrologyAsReflectiveMap": {
@@ -259085,9 +259115,9 @@
       "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
     },
     "RelationalInterpretiveAuthority": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnanj_UWjHCNV2vT7ezAGDFn9c11 [lnanj_UWjHCNV2vT7ezAGDFn9c11].md",
@@ -259095,9 +259125,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度",
           "url": "/wiki/sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11/"
+        },
+        {
+          "episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+          "key": "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普",
+          "url": "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/relationalinterpretiveauthority/"
     },
     "RelationalJoy": {
@@ -279270,9 +279307,9 @@
       "url": "/wiki/entities/shidewesternhan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -279364,9 +279401,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
           "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
+        },
+        {
+          "episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+          "key": "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普",
+          "url": "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiFenWesternHan": {
@@ -290746,9 +290790,9 @@
       "url": "/wiki/entities/stevehilton/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -290840,9 +290884,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
           "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
+        },
+        {
+          "episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+          "key": "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普",
+          "url": "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/steveshidifushuohost/"
     },
     "SteveYoungMelanomaPatient": {

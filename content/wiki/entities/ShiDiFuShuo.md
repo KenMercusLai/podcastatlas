@@ -16,17 +16,18 @@ sources:
   - shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa
   - shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia
   - shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn
-last_updated: 2026-11-04
+  - shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
 # 史蒂夫说
 
 ## Overview
-史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, attachment, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, trust, family boundaries, and life transitions. Episode 478 uses four listener letters to connect relational feedback, protective distance, safe exploration, and responsibility for parental anxiety.
+史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, attachment, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, trust, family boundaries, and life transitions. Episode 479 turns the show's power thread into a practical framework for recognizing emotional manipulation and protecting reality interpretation without assuming that every troubling interaction proves malicious intent.
 
 ## Current Profile
-The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episodes 475 and 477 turn the same boundary toward care, secure attachment, dignity, and exploration; episode 478 adds that understanding a parent's fear or limitation does not require continued exposure to harm or carrying that parent's transition anxiety. The show therefore joins self-understanding to relational attention, safety, and differentiated responsibility without promising certainty.
+The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episodes 475 and 477 turn the same boundary toward care, secure attachment, dignity, and exploration; episode 478 separates understanding parental fear from carrying it; and episode 479 identifies attention diversion, responsibility reversal, moving standards, outside-reference erosion, and conditional respect as manipulation mechanisms. The show therefore joins self-understanding to relational attention, safety, and differentiated responsibility without promising certainty.
 
 ## Key Characteristics
 - Long-form interview format centered on psychological self-understanding and relationship repair.
@@ -35,7 +36,7 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Treats psychology as care-oriented language that can become harmful when used for self-surveillance.
 - Treats sex and intimacy as psychologically serious subjects shaped by body, relationship, social norms, and responsibility.
 - Repeatedly separates situational difficulty from defective selfhood while protecting first-person context, uncertainty, collaborative inquiry, and the right to reject a totalizing explanation.
-- Connects being seen and feeling safe to the capacity for exploration while preserving boundaries, diversified support, protective distance, and responsibility separation.
+- Connects being seen and feeling safe to exploration while preserving boundaries, diversified support, protective distance, responsibility separation, independent interpretation, and mutual refusal rights.
 
 ## Evidence
 - Format and participants - [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]] presents Steve as host and [[ZhaoJinzhao|Dr. Claire]] as guest in a nearly two-hour discussion, while [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] uses listener letters as the episode structure.
@@ -54,14 +55,15 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Complexity, alliance, and trust - [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa]] connects [[BehaviorBasedHumanReductionism]], [[CompensatoryPersonalityIntegration]], therapeutic collaboration, relationship optionality, and [[LongitudinalRelationshipTrust]] across five listener letters.
 - Attachment, dignity, and exploration - [[shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia]] connects trauma recovery, age anxiety, harmful relationship repetition, and career hesitation through [[SecureAttachmentExploration]], [[SelfAttachmentBelonging]], [[NegativeAttentionRelationshipGame]], and [[InformedMoralChoice]].
 - Self-worth, family distance, and transition anxiety - [[shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn]] connects workplace uncertainty, family abuse, career constriction, and retirement-driven control through [[RelationalSelfWorthFeedback]], [[ProtectiveFamilyDistance]], [[EffectiveConfusionOdysseyPeriod]], and [[FamilyAnxietyTransmission]].
+- Emotional manipulation and healthy power - [[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb]] connects [[EmotionalManipulationRecognition]], [[RelationalInterpretiveAuthority]], and [[PowerLiteracy]] to delayed response, outside reference, attention control, mutual refusal, shared repair, and exit capacity.
 
 ## Qualifications
-The show profile is based on thirteen ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, career counseling, or crisis care. Episodes 477 and 478 rely on short listener letters; their attachment, family-history, coworker, parental-motive, and risk interpretations remain hypotheses rather than verified assessments.
+The show profile is based on fourteen ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, career counseling, or crisis care. Episodes 477 and 478 rely on short listener letters; episode 479's cultural, developmental, gender, “real self,” depression, and manipulator-motive claims are observational or inferential rather than verified assessments.
 
 ## What Changed
-- Added episode 478's relational-feedback account of gradual self-worth development.
-- Added protective distance as compatible with understanding parental limitation without excusing continuing harm.
-- Added responsibility separation for parental retirement, aging, and security anxiety.
+- Added episode 479's behavior-first emotional-manipulation spectrum.
+- Added reality interpretation, attention diversion, moving standards, and outside-reference erosion as concrete power mechanisms.
+- Added delayed response, mutual refusal, shared repair, diversified support, and exit capacity as healthier relationship-game conditions.
 
 ## Relationships
 - [[SteveShiDiFuShuoHost|Steve]] - host in the current source.
@@ -105,3 +107,4 @@ The show profile is based on thirteen ingested episodes. Broader production hist
 - [[RelationalSelfWorthFeedback]] - episode 478's account of specific feedback correcting self-rejection and interaction uncertainty.
 - [[ProtectiveFamilyDistance]] - episode 478's safety boundary for persistently harmful family contact.
 - [[FamilyAnxietyTransmission]] - episode 478's account of returning parental transition anxiety without withdrawing all care.
+- [[EmotionalManipulationRecognition]] - episode 479's behavior, warning-sign, and response framework.

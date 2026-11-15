@@ -35907,6 +35907,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EmotionalManipulationRecognition": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EmotionsAsFunctionalControlStates": [
     {
       "key": "science",
@@ -112453,6 +112460,13 @@
     }
   ],
   "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb": [
     {
       "key": "science",
       "label": "Science",

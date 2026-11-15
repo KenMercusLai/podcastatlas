@@ -5,7 +5,8 @@ tags: [power, relationships, social-dynamics, self-awareness]
 sources:
   - a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687
   - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
-last_updated: 2026-09-29
+  - shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,14 +22,16 @@ The defensive emphasis matters. Greene uses lessons such as avoiding needless ou
 
 In close relationships, power also includes the ability to define what the relationship means, choose the questions under discussion, and make another person continually justify themself. The counselor-letter cases in [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] support a mobile rather than power-free alternative: knowledge, influence, and decision weight shift with context, while each person retains [[RelationalInterpretiveAuthority]] over their own experience.
 
+[[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb|史蒂夫说479期]] makes this defensive literacy more operational. Power can move through attention, explanation, responsibility, access to outside viewpoints, approval, and the timing of response. Recognizing those mechanisms does not require proving malicious intent, but it does require protecting the other person's right to pause, disagree, seek outside reference, and exit.
+
 ## Key Claims
 - A wish for some agency over environment and relationships is common and can become covert when denied.
-- Power often operates through attention, information, status, dependency, timing, and emotional reaction rather than formal authority alone.
+- Power often operates through attention, information, interpretive framing, status, dependency, timing, and emotional reaction rather than formal authority alone.
 - Defensive awareness can reduce avoidable exposure without requiring domination of others.
 - Overdisclosure, status threat, and futile argument can weaken a person's position even when their factual case is strong.
 - Vulnerability can enable intimacy and learning while also creating leverage, so context and reciprocity matter.
 - Power analysis needs ethical and evidentiary limits to avoid becoming universal suspicion.
-- In close relationships, repeated self-justification can signal that interpretive authority has become fixed in the person setting the frame.
+- In close relationships, repeated self-justification, moving standards, responsibility reversal, or loss of outside reference can signal that interpretive authority has become fixed in the person setting the frame.
 
 ## Evidence
 - Human need: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]] has Greene describe power as a primal need for influence or control in one's immediate world.
@@ -37,14 +40,17 @@ In close relationships, power also includes the ability to define what the relat
 - Vulnerability: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]] connects seduction and openness to the willingness to become vulnerable.
 - Interpretive authority: [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] uses friendship, family abuse, breakup, therapy, and marriage-history letters to show how one party can monopolize the definition of a relationship.
 - Mobile power: [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] describes healthy power as moving with the issue rather than remaining permanently lodged in one person's judgments.
+- Manipulation mechanisms: [[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb|史蒂夫说479期]] shows how attention diversion, authority claims, shifting standards, isolation from competing accounts, and pressure for immediate response can convert ordinary influence into coercive control.
+- Healthy game rules: [[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb|史蒂夫说479期]] contrasts manipulation with negotiable influence, mutual refusal, persistent disagreement, shared repair, and a real ability to leave.
 
 ## Counterevidence & Qualifications
-The sources offer philosophical and observational frameworks, not a validated model that measures all relationships. Power language can flatten affection, cooperation, institutional duty, misunderstanding, or legitimate disagreement into strategic maneuver. First-person authority also does not make a person's reading infallible or invalidate evidence of deception, coercion, or danger offered by others. Defensive literacy should remain proportional to evidence and should not excuse coercion or manipulation.
+The sources offer philosophical and observational frameworks, not a validated model that measures all relationships. Power language can flatten affection, cooperation, institutional duty, legitimate expertise, misunderstanding, or disagreement into strategic maneuver. First-person authority also does not make a person's reading infallible or invalidate evidence of deception, coercion, or danger offered by others. The episode 479 claims about culture, gender, depression, the “real self,” and manipulator motives remain source-scoped. Defensive literacy should remain proportional to evidence and should neither excuse coercion nor make confrontation a duty where retaliation or violence is plausible.
 
 ## What Changed
 - Created a bounded account of power awareness centered on agency, covert control, and defensive social navigation.
 - Added explicit ethical and paranoia boundaries.
 - Added episode 474's distinction between fixed interpretive control and context-sensitive, mobile power in close relationships.
+- Added episode 479's behavior-first account of attention control, moving standards, outside-reference erosion, and refusal rights.
 
 ## Related Concepts
 - [[PowerDesireSelfRestraint]] - ethical relationship showing why awareness of power must be paired with restraint.
@@ -54,3 +60,4 @@ The sources offer philosophical and observational frameworks, not a validated mo
 - [[ClinicalTrustBuilding]] - contrast in which asymmetry is managed through explanation, agency, and reliable care.
 - [[RelationalInterpretiveAuthority]] - close-relationship branch concerning who defines the problem and whose experience counts as evidence.
 - [[LoveControlIllusion]] - control-seeking pattern that turns relational uncertainty into a supposedly solvable procedure.
+- [[EmotionalManipulationRecognition]] - behavior-level application of power literacy to reality framing, attention, responsibility, and autonomy.

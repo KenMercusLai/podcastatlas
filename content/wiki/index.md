@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普](sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb.md) — 史蒂夫说把日常情感操纵理解为解释权、注意力与关系权力问题，并以延迟回应、保留判断、外部参照和安全边界提出分阶段应对。
 - [Memorial Day, 2020 | Part 1](sources/memorial-day-2020-part-1-memorial-day-2020-part-1.md) — Revisionist History connects decision fixation, hostile-intent attribution, escalating medical warnings, and a prior recorded restraint to the preventable institutional failure behind George Floyd's death.
 - [Did I Really Do That?](sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014.md) — Hidden Brain and Saul Kassin on false-confession pathways, confession-driven evidence contamination, and transparent hypothesis-testing investigation.
 - [Memorial Day, 2020 | Part 2](sources/memorial-day-2020-part-2-memorial-day-2020-part-2.md) — Revisionist History connects mitigated speech, concentrated police misconduct, network spillover, and discipline barriers to the preventable institutional failure behind George Floyd's death.
@@ -9476,8 +9477,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [al-Idrisi / 伊德里希](entities/AlIdrisi.md) — Ceuta-born medieval geographer used to show the city's role in Mediterranean knowledge circulation.
 - [John I of Portugal / 若昂一世](entities/JohnIOfPortugal.md) — Aviz monarch under whom Portugal captured Ceuta in 1415.
 - [Henry the Navigator / 恩里克王子](entities/HenryTheNavigator.md) — Portuguese prince associated with the 1415 Ceuta campaign and later expansion memory.
-- [史蒂夫说](entities/ShiDiFuShuo.md) — Psychology and relationships show spanning anxiety, trauma, embodiment, intimacy, philosophy, illness, trust, and conversations that preserve uncertainty.
-- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — Host who connects psychology to body, family, relationship process, philosophy, and the limits of totalizing explanation.
+- [史蒂夫说](entities/ShiDiFuShuo.md) — Psychology and relationships show spanning anxiety, trauma, embodiment, intimacy, philosophy, illness, trust, interpretive power, and bounded emotional-manipulation recognition.
+- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — Host who connects psychology to body, family, relationship process, philosophy, interpretive autonomy, and the limits of totalizing explanation.
 - [赵金昭 / Dr. Claire](entities/ZhaoJinzhao.md) — counseling psychologist and Texas clinical psychologist interviewed about anxiety decomposition and gentle support.
 - [《蝲蛄吟唱的地方》 / Where the Crawdads Sing](entities/WhereTheCrawdadsSing.md) — Delia Owens novel read by Culture Limited as a female-growth, marsh-marginality, nature-writing, mystery, and justice-ambiguity case.
 - [《沼泽深处的女孩》 / Where the Crawdads Sing Film](entities/WhereTheCrawdadsSingFilm.md) — Film adaptation critiqued for prettifying Kya's poverty, compressing childhood, simplifying poetry, and weakening point-of-view coherence.
@@ -19543,6 +19544,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Emotional Manipulation Recognition / 情感操纵识别](concepts/EmotionalManipulationRecognition.md) — Behavior-first recognition of interpretive control, attention diversion, responsibility reversal, moving standards, and outside-reference erosion.
 - [Decision Fixation](concepts/DecisionFixation.md) — Persistence in an initial interpretation after cumulative evidence should trigger a deliberate analytical restart.
 - [Hostile-Intent Attribution](concepts/HostileIntentAttribution.md) — Learned tendency to read ambiguous behavior as threat, potentially adaptive in danger but harmful when generalized.
 - [False Confession Psychology](concepts/FalseConfessionPsychology.md) — Framework distinguishing voluntary, compliant, and internalized false admissions and the situational pressures that can produce them.

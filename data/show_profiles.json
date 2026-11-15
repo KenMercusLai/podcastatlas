@@ -2057,20 +2057,20 @@
       "earliest_episode_date": "2026-05-17",
       "latest_episode_date": "2026-11-15",
       "latest_episode_file": "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
-      "source_note_count": 16,
-      "topic_matched_source_note_count": 13,
+      "source_note_count": 17,
+      "topic_matched_source_note_count": 14,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 13
+          "source_note_count": 14
         }
       ],
       "entities": [],
       "start_here_episode_files": [
-        "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
         "lqCMSFKrLLuuvIt7HqyBygeVkuVB [lqCMSFKrLLuuvIt7HqyBygeVkuVB].md",
+        "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
         "lj_C37-AbvR5oA0A7vbhVl93PViA [lj_C37-AbvR5oA0A7vbhVl93PViA].md",
         "lo2evZu5zgAm7JjeVwoVLwXR37AH [lo2evZu5zgAm7JjeVwoVLwXR37AH].md"
       ]

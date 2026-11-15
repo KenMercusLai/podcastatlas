@@ -4,7 +4,8 @@ type: concept
 tags: [relationships, power, agency, communication]
 sources:
   - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
-last_updated: 2026-09-29
+  - shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Relational interpretive authority is the practical power to name what is happeni
 
 The corrective is not that the person closest to the experience is automatically right. It is that proximity supplies information and standing that friends, elders, partners, and therapists should not erase. Healthy influence moves with context: different people may know different things, but no one should hold permanent monopoly over definition, judgment, or decision. A short refusal to accept another person's frame can therefore be more protective than exhaustive self-defense.
 
+[[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb|史蒂夫说479期]] specifies how that monopoly can be built: pathologizing perception, denying prior statements, changing the standard after evidence appears, invoking third-party authority, weakening outside reference points, or moving attention from the original harm to the complainant's tone and personality. Restoring authority can begin with time to think, a retained first-person account, outside support, and an explicit return to the original question.
+
 ## Key Claims
 - Interpretive power concerns who defines the problem, the relevant evidence, and the acceptable answer.
 - Continual self-justification can transfer authority to the person who set the accusatory frame.
@@ -25,6 +28,7 @@ The corrective is not that the person closest to the experience is automatically
 - Healthy relationships let influence and expertise move with the issue rather than remain fixed in one person.
 - Friends and professionals can unintentionally seek importance through premature certainty, criticism, or shock.
 - Preserving one's view can be a boundary even when no final agreement or objective verdict is available.
+- Attention diversion, moving standards, authority claims, and outside-reference erosion can make another person's frame feel like the only available reality.
 
 ## Evidence
 Definition and self-justification:
@@ -38,12 +42,17 @@ Mobile power and first-person standing:
 Professional and social intrusion:
 - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] records a listener feeling newly disempowered when a therapist responds to a partner's past marriage with shock and ridicule rather than inquiry.
 
+Manipulation and restoration:
+- [[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb|史蒂夫说479期]] identifies reality-pathologizing, statement denial, shifting reasons, third-party authority, isolation, and tone-focused diversion as ways to seize interpretive authority.
+- [[shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb|史蒂夫说479期]] proposes delayed response, explicit preservation of one's view, outside reference, and return to the original issue as ways to reopen judgment.
+
 ## Counterevidence & Qualifications
-First-person authority is not proof that a person's interpretation is complete, safe, or accurate. Friends and therapists may notice coercion, deception, danger, or patterns that the person inside a relationship cannot yet see. The concept asks that those concerns be offered with evidence, curiosity, role clarity, and respect for agency; it does not make outside challenge illegitimate. The source's explanations of other people's motives remain speculative and should not be promoted into diagnoses.
+First-person authority is not proof that a person's interpretation is complete, safe, or accurate. Friends and therapists may notice coercion, deception, danger, or patterns that the person inside a relationship cannot yet see. The concept asks that those concerns be offered with evidence, curiosity, role clarity, and respect for agency; it does not make outside challenge illegitimate. Episode 479's cultural, developmental, gender, “real self,” and manipulator-motive explanations remain speculative. Restoring interpretive authority also does not require direct confrontation where violence, retaliation, or severe dependency makes it unsafe.
 
 ## What Changed
 - Created the concept from episode 474's common thread across friendship, family abuse, breakup, therapy, and marriage-history letters.
 - Distinguished first-person standing from infallibility and contextual influence from permanent control.
+- Added episode 479's concrete mechanisms for eroding interpretation and its staged practices for restoring independent judgment.
 
 ## Related Concepts
 - [[PowerLiteracy]] - broader capacity for reading influence, dependence, status, and covert control.
@@ -52,3 +61,4 @@ First-person authority is not proof that a person's interpretation is complete, 
 - [[PowerDidacticCommunication]] - speech pattern in which one party defines the listener's required understanding from above.
 - [[TherapyRelationshipAndBoundaries]] - professional relationship where interpretation requires safety, pacing, and role restraint.
 - [[EpistemicInjusticeExperienceSilencing]] - structural neighbor concerning whose experience receives language and credibility.
+- [[EmotionalManipulationRecognition]] - behavioral pattern in which control of interpretation becomes a route to control of action.

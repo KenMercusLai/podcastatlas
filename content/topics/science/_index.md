@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1660
+topic_total_pages: 1662
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -775,6 +775,9 @@ topic_concepts:
   - key: "EmotionalGranularity"
     title: "Emotional Granularity"
     url: "/wiki/concepts/emotionalgranularity/"
+  - key: "EmotionalManipulationRecognition"
+    title: "Emotional Manipulation Recognition / 情感操纵识别"
+    url: "/wiki/concepts/emotionalmanipulationrecognition/"
   - key: "EmotionsAsFunctionalControlStates"
     title: "Emotions as Functional Control States"
     url: "/wiki/concepts/emotionsasfunctionalcontrolstates/"
@@ -4977,6 +4980,9 @@ topic_sources:
   - key: "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn"
     title: "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？"
     url: "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
+  - key: "shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb"
+    title: "史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普"
+    url: "/wiki/sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb/"
   - key: "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352"
     title: "商业小样45 | 厄尔尼诺越大，鱼越贵"
     url: "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
