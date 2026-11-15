@@ -27731,6 +27731,10 @@
     "title": "Depression Intervention Evidence Boundary",
     "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
   },
+  "DepressionMoodSystemFrame": {
+    "title": "Depression Mood-System Frame",
+    "url": "/wiki/concepts/depressionmoodsystemframe/"
+  },
   "DeqinMeiliWineRegion": {
     "title": "Deqin–Meili Wine Region / 德钦梅里葡萄酒产区",
     "url": "/wiki/entities/deqinmeiliwineregion/"
@@ -33622,6 +33626,14 @@
   "ExplainableAILending": {
     "title": "Explainable AI Lending",
     "url": "/wiki/concepts/explainableailending/"
+  },
+  "ExplanationDrivenSensemaking": {
+    "title": "Explanation-Driven Sense-Making",
+    "url": "/wiki/concepts/explanationdrivensensemaking/"
+  },
+  "ExplanatoryOverreach": {
+    "title": "Explanatory Overreach",
+    "url": "/wiki/concepts/explanatoryoverreach/"
   },
   "ExplodingKittens": {
     "title": "Exploding Kittens",
@@ -44007,6 +44019,10 @@
     "title": "Hidden Asset Optionality",
     "url": "/wiki/concepts/hiddenassetoptionality/"
   },
+  "HiddenBrain": {
+    "title": "Hidden Brain",
+    "url": "/wiki/entities/hiddenbrain/"
+  },
   "HiddenHearingLoss": {
     "title": "Hidden Hearing Loss",
     "url": "/wiki/concepts/hiddenhearingloss/"
@@ -46778,6 +46794,10 @@
   "IllnessOutcomeMoralizationBoundary": {
     "title": "Illness Outcome Moralization Boundary / 疾病结果道德化边界",
     "url": "/wiki/concepts/illnessoutcomemoralizationboundary/"
+  },
+  "IllusionOfExplanatoryDepth": {
+    "title": "Illusion of Explanatory Depth",
+    "url": "/wiki/concepts/illusionofexplanatorydepth/"
   },
   "IlyaSutskever": {
     "title": "Ilya Sutskever",
@@ -51794,6 +51814,10 @@
   "JonathanRoss": {
     "title": "Jonathan Ross",
     "url": "/wiki/entities/jonathanross/"
+  },
+  "JonathanRottenberg": {
+    "title": "Jonathan Rottenberg",
+    "url": "/wiki/entities/jonathanrottenberg/"
   },
   "JonathanSchaeffer": {
     "title": "Jonathan Schaeffer",
@@ -82971,6 +82995,10 @@
     "title": "Self-Experimentation",
     "url": "/wiki/concepts/selfexperimentation/"
   },
+  "SelfExplanationKnowledgeCalibration": {
+    "title": "Self-Explanation Knowledge Calibration",
+    "url": "/wiki/concepts/selfexplanationknowledgecalibration/"
+  },
   "SelfFeelingTrust": {
     "title": "相信自己的感受 / Self-Feeling Trust",
     "url": "/wiki/concepts/selffeelingtrust/"
@@ -90226,6 +90254,10 @@
   "TangyiFuWesternHan": {
     "title": "堂邑父 / Tangyi Fu (Western Han)",
     "url": "/wiki/entities/tangyifuwesternhan/"
+  },
+  "TaniaLombrozo": {
+    "title": "Tania Lombrozo",
+    "url": "/wiki/entities/tanialombrozo/"
   },
   "TanizakiJunichiro": {
     "title": "谷崎润一郎 / Tanizaki Junichiro",
@@ -107734,6 +107766,10 @@
   "default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641": {
     "title": "Dropping the Mask",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641/"
+  },
+  "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361": {
+    "title": "The Story of Stories",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
   },
   "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097": {
     "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",

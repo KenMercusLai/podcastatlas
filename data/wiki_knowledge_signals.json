@@ -61477,6 +61477,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/conservativepartyclassrealignment/"
     },
+    "ConsiderTheOppositeBiasCorrection": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/considertheoppositebiascorrection/"
+    },
     "ConsortHeirSecuritySpiral": {
       "episode_count": 1,
       "show_count": 1,
@@ -76077,6 +76100,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
+    },
+    "DepressionMoodSystemFrame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/depressionmoodsystemframe/"
     },
     "DeqinMeiliWineRegion": {
       "episode_count": 2,
@@ -99590,6 +99629,38 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/explainableailending/"
+    },
+    "ExplanationDrivenSensemaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/explanationdrivensensemaking/"
+    },
+    "ExplanatoryOverreach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/explanatoryoverreach/"
     },
     "ExponentialTimeHypothesis": {
       "episode_count": 1,
@@ -136443,6 +136514,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
+    "HiddenBrain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/hiddenbrain/"
+    },
     "HiddenHearingLoss": {
       "episode_count": 1,
       "show_count": 1,
@@ -147415,6 +147502,22 @@
       ],
       "updated": "2026-10-24",
       "url": "/wiki/concepts/illnessoutcomemoralizationboundary/"
+    },
+    "IllusionOfExplanatoryDepth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/illusionofexplanatorydepth/"
     },
     "ImageNet": {
       "episode_count": 3,
@@ -164851,6 +164954,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/jonathankeats/"
+    },
+    "JonathanRottenberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jonathanrottenberg/"
     },
     "JonathanSwift": {
       "episode_count": 2,
@@ -268685,6 +268804,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/selfexperimentation/"
     },
+    "SelfExplanationKnowledgeCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/selfexplanationknowledgecalibration/"
+    },
     "SelfPermission": {
       "episode_count": 2,
       "show_count": 2,
@@ -292414,6 +292549,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/tangyifuwesternhan/"
+    },
+    "TaniaLombrozo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+          "key": "default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361",
+          "show": "Hidden Brain",
+          "title": "The Story of Stories",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/tanialombrozo/"
     },
     "TanshihuaiXianbei": {
       "episode_count": 5,

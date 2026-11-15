@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11226
+wiki_total_pages: 11231
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "SelfExperimentation"
     title: "Self-Experimentation"
     url: "/wiki/concepts/selfexperimentation/"
+  - key: "SelfExplanationKnowledgeCalibration"
+    title: "Self-Explanation Knowledge Calibration"
+    url: "/wiki/concepts/selfexplanationknowledgecalibration/"
   - key: "SelfGeneratedEmotionalCapacity"
     title: "Self-Generated Emotional Capacity / 造血能力"
     url: "/wiki/concepts/selfgeneratedemotionalcapacity/"

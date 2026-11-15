@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11226
+wiki_total_pages: 11231
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "IllnessOutcomeMoralizationBoundary"
     title: "Illness Outcome Moralization Boundary / 疾病结果道德化边界"
     url: "/wiki/concepts/illnessoutcomemoralizationboundary/"
+  - key: "IllusionOfExplanatoryDepth"
+    title: "Illusion of Explanatory Depth"
+    url: "/wiki/concepts/illusionofexplanatorydepth/"
   - key: "IMAgentInterfaces"
     title: "IM Agent Interfaces"
     url: "/wiki/concepts/imagentinterfaces/"

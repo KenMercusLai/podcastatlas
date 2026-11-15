@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11226
+wiki_total_pages: 11231
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1472,6 +1472,12 @@ wiki_pages:
   - key: "ExplainableAILending"
     title: "Explainable AI Lending"
     url: "/wiki/concepts/explainableailending/"
+  - key: "ExplanationDrivenSensemaking"
+    title: "Explanation-Driven Sense-Making"
+    url: "/wiki/concepts/explanationdrivensensemaking/"
+  - key: "ExplanatoryOverreach"
+    title: "Explanatory Overreach"
+    url: "/wiki/concepts/explanatoryoverreach/"
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"

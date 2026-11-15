@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14106
+wiki_total_pages: 14109
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "TangZunXinOfficial"
     title: "Tang Zun / 唐尊 (Xin official)"
     url: "/wiki/entities/tangzunxinofficial/"
+  - key: "TaniaLombrozo"
+    title: "Tania Lombrozo"
+    url: "/wiki/entities/tanialombrozo/"
   - key: "TannenOralCare"
     title: "Tannen Oral Care"
     url: "/wiki/entities/tannenoralcare/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Story of Stories](sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361.md) — Hidden Brain connects explanation's learning value to overconfidence, rival-account correction, and a carefully bounded mood-system frame for depression.
 - [The $5 Billion Effort to Help Secure the World’s Shared Software](sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared.md) — Sponsored Revisionist History episode on Project Lightwell, open-source maintenance incentives, AI-accelerated vulnerability discovery, and pooled repair.
 - [Dropping the Mask](sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641.md) — Hidden Brain and Kenji Yoshino distinguish conversion, passing, and covering, then test identity demands through harm, competing values, voluntary disclosure, and belonging.
 - [378-歌德如何看待通用人工智能](sources/378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa.md) — 独树不成林借歌德的扫帚、人造小人与填海工程区分指令失控、自主生成和人类目标本身的价值问题。
@@ -5073,6 +5074,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 
 ## Entities
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented here through explanation, reasoning, and qualified depression-reframing branches.
+- [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
+- [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
 - [Red Hat](entities/RedHat.md) — Open-source enterprise-software company presented as IBM's Project Lightwell co-sponsor and community intermediary.
 - [Wells Fargo](entities/WellsFargo.md) — Financial institution represented as an early shared-defense participant using AI-assisted remediation.
@@ -19272,6 +19276,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Explanation-Driven Sense-Making](concepts/ExplanationDrivenSensemaking.md) — Construction of causal or functional models for prediction, action, learning, and communication.
+- [Self-Explanation Knowledge Calibration](concepts/SelfExplanationKnowledgeCalibration.md) — Detailed explanation practice that reorganizes knowledge and exposes unsupported confidence.
+- [Illusion of Explanatory Depth](concepts/IllusionOfExplanatoryDepth.md) — Familiarity-based confidence that exceeds demonstrated mechanistic understanding.
+- [Explanatory Overreach](concepts/ExplanatoryOverreach.md) — Mistaking coherence, simplicity, breadth, or identity value for stronger evidence than an account warrants.
+- [Depression Mood-System Frame](concepts/DepressionMoodSystemFrame.md) — Contextual mood interpretation preserving severe-illness, assessment, and treatment boundaries.
 - [Open-Source Software Security](concepts/OpenSourceSoftwareSecurity.md) — Capacity to fund, validate, coordinate, distribute, and sustain protections across shared code and its users.
 - [Software-Security Incentive Failure](concepts/SoftwareSecurityIncentiveFailure.md) — Misalignment created by hard-to-observe quality, shifted downstream costs, and under-resourced maintainers.
 - [Shared Open-Source Defense](concepts/SharedOpenSourceDefense.md) — Pooled vulnerability intelligence and repair that returns validated fixes to participants and upstream communities.
