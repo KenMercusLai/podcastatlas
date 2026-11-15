@@ -22564,6 +22564,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/archivepreservationbias/"
     },
+    "AreYouLonesomeTonight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/areyoulonesometonight/"
+    },
     "ArendtianFriendship": {
       "episode_count": 1,
       "show_count": 1,
@@ -45559,9 +45575,9 @@
       "url": "/wiki/entities/casereadyintakeai/"
     },
     "CaseyBeathardBowles": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
@@ -45569,6 +45585,13 @@
           "show": "Revisionist History",
           "title": "The Big Birthday Party",
           "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        },
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
         }
       ],
       "updated": "2026-11-15",
@@ -80662,9 +80685,9 @@
       "url": "/wiki/concepts/discoveryadvertising/"
     },
     "DiscoveryLedAudioStorytelling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Big_Birthday_Party [The_Big_Birthday_Party].md",
@@ -80672,6 +80695,13 @@
           "show": "Revisionist History",
           "title": "The Big Birthday Party",
           "url": "/wiki/sources/the-big-birthday-party-the-big-birthday-party/"
+        },
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
         }
       ],
       "updated": "2026-11-15",
@@ -90522,6 +90552,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/eloquencebiasinofficialselection/"
+    },
+    "ElvisPresley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/elvispresley/"
     },
     "EmancipationProclamation": {
       "episode_count": 2,
@@ -159731,6 +159777,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/jacktherippermythformation/"
     },
+    "JackWhite": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jackwhite/"
+    },
     "JackieFisher": {
       "episode_count": 1,
       "show_count": 1,
@@ -197478,9 +197540,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -197572,6 +197634,13 @@
           "show": "Revisionist History",
           "title": "Encore: Good Old Boys",
           "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        },
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
         }
       ],
       "updated": "2026-11-15",
@@ -231853,6 +231922,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/paraphimosisemergency/"
+    },
+    "Parapraxis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/parapraxis/"
     },
     "Parcoursup": {
       "episode_count": 1,
@@ -279392,9 +279477,9 @@
       "url": "/wiki/entities/siemensenergy/"
     },
     "SigmundFreud": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -279416,9 +279501,16 @@
           "show": "The Rest Is History",
           "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
           "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
+        },
+        {
+          "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
+          "key": "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis",
+          "show": "Revisionist History",
+          "title": "Encore: Analysis, Parapraxis, Elvis",
+          "url": "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/sigmundfreud/"
     },
     "Sihoo": {

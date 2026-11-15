@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14256
+wiki_total_pages: 14259
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1757,6 +1757,9 @@ wiki_pages:
   - key: "ArchiveOfOurOwn"
     title: "Archive of Our Own / AO3"
     url: "/wiki/entities/archiveofourown/"
+  - key: "AreYouLonesomeTonight"
+    title: "Are You Lonesome Tonight?"
+    url: "/wiki/entities/areyoulonesometonight/"
   - key: "Area51"
     title: "Area 51 / 51区"
     url: "/wiki/entities/area51/"

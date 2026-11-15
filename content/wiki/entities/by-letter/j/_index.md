@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14256
+wiki_total_pages: 14259
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "JackTheRipper"
     title: "Jack the Ripper"
     url: "/wiki/entities/jacktheripper/"
+  - key: "JackWhite"
+    title: "Jack White"
+    url: "/wiki/entities/jackwhite/"
   - key: "JackRaoJiewu"
     title: "Jack 饶街五"
     url: "/wiki/entities/jackraojiewu/"

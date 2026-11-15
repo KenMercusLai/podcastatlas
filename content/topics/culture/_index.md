@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3681
+topic_total_pages: 3684
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4349,6 +4349,9 @@ topic_entities:
   - key: "AppleTVPlus"
     title: "Apple TV+"
     url: "/wiki/entities/appletvplus/"
+  - key: "AreYouLonesomeTonight"
+    title: "Are You Lonesome Tonight?"
+    url: "/wiki/entities/areyoulonesometonight/"
   - key: "Argentina"
     title: "Argentina"
     url: "/wiki/entities/argentina/"
@@ -4859,6 +4862,9 @@ topic_entities:
   - key: "EllisPark"
     title: "Ellis Park"
     url: "/wiki/entities/ellispark/"
+  - key: "ElvisPresley"
+    title: "Elvis Presley"
+    url: "/wiki/entities/elvispresley/"
   - key: "EmilSinclair"
     title: "Emil Sinclair / 辛克莱尔"
     url: "/wiki/entities/emilsinclair/"
@@ -10389,6 +10395,9 @@ topic_sources:
   - key: "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask"
     title: "E45 孟岩对话李继刚：人何以自处"
     url: "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  - key: "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis"
+    title: "Encore: Analysis, Parapraxis, Elvis"
+    url: "/wiki/sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis/"
   - key: "encore-good-old-boys-encore-good-old-boys"
     title: "Encore: Good Old Boys"
     url: "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"

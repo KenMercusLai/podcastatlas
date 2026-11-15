@@ -6,7 +6,8 @@ sources:
   - 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891
   - lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv
   - 603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593
-last_updated: 2026-10-10
+  - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Sigmund Freud is represented as an influential psychoanalytic interpreter of dreams, desire, childhood conflict, family symbolism, and [[Oedipus]], whose frameworks remain historically consequential but are not treated by the sources as universal scientific proof.
+Sigmund Freud is represented as an influential psychoanalytic interpreter of dreams, desire, childhood conflict, family symbolism, [[Oedipus]], and meaningful error, whose frameworks remain historically consequential but are not treated by the sources as universal scientific proof.
 
 ## Current Profile
 
@@ -24,6 +25,8 @@ The dream-education branch presents Freud as opening a modern psychological appr
 
 The Oedipal branch dates Freud's emerging formulation to 1897, connects its public development to *The Interpretation of Dreams*, and notes the 1910 naming of the Oedipus complex. Its central qualification is that Sophocles' play cannot be reduced to a timeless family-desire structure: Athenian plague, democracy, war, Theban rivalry, divine law, and tragic form are constitutive contexts rather than removable scenery. [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]]
 
+The performance branch applies Freud's [[Parapraxis]] to slips, substitutions, and memory failures. [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis|Encore: Analysis, Parapraxis, Elvis]] treats repeated and thematically concentrated errors as possible evidence of feelings escaping control, while preserving rhythm, fatigue, illness, intoxication, habit, and selection as alternative explanations. The framework is therefore most useful for disciplined inquiry, not automatic decoding or retrospective diagnosis.
+
 ## Key Characteristics
 
 - Historical source for psychoanalytic readings of dreams, desire, childhood, sexuality, conflict, and family symbolism.
@@ -32,6 +35,7 @@ The Oedipal branch dates Freud's emerging formulation to 1897, connects its publ
 - Makes Oedipus a model of supposedly shared parent-directed desire and jealousy.
 - Generates interpretive questions more securely than universal symbol codes or context-free historical explanations.
 - Requires literary, historical, clinical, and scientific guardrails when applied beyond its original arguments.
+- Treats slips and memory failures as potentially meaningful while leaving their cause underdetermined.
 
 ## Evidence
 
@@ -39,16 +43,17 @@ The Oedipal branch dates Freud's emerging formulation to 1897, connects its publ
 - Dream education: [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]] summarizes wish fulfillment, metaphor, and release from waking constraint while rejecting fixed decoding and prediction.
 - Oedipal genealogy: [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]] connects Freud's 1897 formulation, *The Interpretation of Dreams*, and the 1910 term to his claim that Oedipus moves audiences through shared impulses.
 - Historical qualification: [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]] argues that Sophocles' tragedy belongs to a specific Athenian literary, political, and religious world.
+- Meaningful error: [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] applies [[Parapraxis]] to repeated performance mistakes and tests the idea through [[ElvisPresley]], [[JackWhite]], and [[CaseyBeathardBowles]].
 
 ## Qualifications
 
-None of the sources is a comprehensive reading of Freud's corpus or a review of modern psychoanalytic evidence. VOL.109's categories are an accessible guest summary, and the Greek-myth episode's intellectual history is likewise compressed. Interpretive resonance does not establish universal symbolism, clinical diagnosis, historical transmission, or the claim that every audience response arises from parent-directed desire.
+None of the sources is a comprehensive reading of Freud's corpus or a review of modern psychoanalytic evidence. VOL.109's categories are an accessible guest summary, the Greek-myth episode's intellectual history is compressed, and the performance episode is a psychobiographical argument rather than a clinical assessment. Interpretive resonance does not establish universal symbolism, diagnosis, historical transmission, a unique cause for an error, or the claim that every audience response arises from parent-directed desire.
 
 ## What Changed
 
-- Added the formation and naming of the Oedipus complex to Freud's historical profile.
-- Made historically specific tragic context an explicit limit on universal psychoanalytic reduction.
-- Preserved dream and comparative-myth uses while tightening their evidence boundary.
+- Added parapraxis and meaningful error as a distinct branch of Freud's interpretive legacy.
+- Distinguished repeated performance patterns from automatic decoding of isolated slips.
+- Added musical, medical, attentional, and selection-based alternatives to the psychoanalytic reading.
 
 ## Relationships
 
@@ -58,3 +63,4 @@ None of the sources is a comprehensive reading of Freud's corpus or a review of 
 - [[MythAsPublicDream]] - public-myth/private-dream comparison adjacent to Freud's interpretive legacy.
 - [[DreamFunctionAndMeaning]] - contextual dream synthesis that rejects prophecy and universal codes.
 - [[InterpretationAndOverinterpretation]] - guardrail separating suggestive reading from proof.
+- [[Parapraxis]] - Freud-derived framework for treating slips and memory failures as potentially meaningful.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11321
+wiki_total_pages: 11322
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "ParaphimosisEmergency"
     title: "Paraphimosis Emergency / 包皮嵌顿急症"
     url: "/wiki/concepts/paraphimosisemergency/"
+  - key: "Parapraxis"
+    title: "Parapraxis"
+    url: "/wiki/concepts/parapraxis/"
   - key: "PardonAsStatePower"
     title: "Pardon As State Power"
     url: "/wiki/concepts/pardonasstatepower/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Encore: Analysis, Parapraxis, Elvis](sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 - [Encore: Good Old Boys](sources/encore-good-old-boys-encore-good-old-boys.md) — Revisionist History reconstructs Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, and the reception risk of satire that audiences can appropriate.
 - [Americana Music Live with Drew Holcomb and Malcolm Gladwell](sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell.md) — Live Revisionist History conversation and performances connecting Americana, songwriting, grief, inherited faith, anger, influence, and communal music.
 - [The Alabama Murders](sources/the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour.md) — Revisionist History previews a seven-part Alabama murder investigation through the power-grid analogy of a moral failure cascade and the question of systems compounding suffering.
@@ -5128,6 +5129,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Elvis Presley](entities/ElvisPresley.md) — Singer whose repeated, section-specific errors anchor the episode's qualified parapraxis case.
+- [Jack White](entities/JackWhite.md) — Musician whose analysis and rehearsal substitution connect performance difficulty with emotional investment.
+- [Are You Lonesome Tonight?](entities/AreYouLonesomeTonight.md) — Elvis song whose exposed spoken bridge contains the episode's concentrated error pattern.
 - [Randy Newman](entities/RandyNewman.md) — Songwriter represented through compromised narrators, attractive musical settings, double critique, and active response to audience appropriation.
 - [Lester Maddox](entities/LesterMaddox.md) — Georgia segregationist who converted restaurant defiance, media confrontation, and regional grievance into political visibility.
 - [Drew Holcomb](entities/DrewHolcomb.md) — Americana singer-songwriter connecting musical formation with grief, inherited faith, anger, influence, and communal performance.
@@ -19477,6 +19481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Parapraxis](concepts/Parapraxis.md) — Qualified framework for treating patterned slips and memory failures as possible emotional evidence without making them diagnoses.
 - [Compromised-Narrator Satire](concepts/CompromisedNarratorSatire.md) — First-person satire that makes a morally compromised voice intelligible while risking identification, repetition, and appropriation.
 - [Americana Music](concepts/AmericanaMusic.md) — Flexible genre and institutional home for roots-oriented musicians outside narrow commercial-radio categories.
 - [Anger as Moral Signal](concepts/AngerAsMoralSignal.md) — Practice of treating anger as information to investigate rather than as either proof or inherently bad emotion.

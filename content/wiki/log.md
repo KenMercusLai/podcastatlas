@@ -40055,3 +40055,13 @@ Core synthesis: Newman's first-person method makes tenderness, racism, resentmen
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Encore: Analysis, Parapraxis, Elvis
+
+Added the [[RevisionistHistory]] episode on [[ElvisPresley]], [[AreYouLonesomeTonight]], and [[Parapraxis]]. Created bounded profiles for Elvis, [[JackWhite]], and the song; established the parapraxis concept; and resynthesized [[CaseyBeathardBowles]], [[DiscoveryLedAudioStorytelling]], [[SigmundFreud]], and [[MalcolmGladwell]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: repeated, passage-specific, and temporally situated errors can provide stronger evidence of emotional pressure than an isolated slip, especially when the disrupted material concerns biography-relevant themes. Elvis's reported 109 bridge errors, White's “carefully” substitution, Bowles's repeated loss of a lyric about her mother, and Gladwell's own wording slip make mistakes compatible with care and vulnerability rather than mere incompetence. No settled contradiction was adopted. Rhythm, fatigue, illness, intoxication, habit, ordinary retrieval failure, selection, and interpreter expectation remain live alternatives, so the episode's psychoanalytic readings are retained as qualified inferences rather than diagnoses. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 5,005 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

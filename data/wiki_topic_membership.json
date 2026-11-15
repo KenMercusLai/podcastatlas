@@ -16856,6 +16856,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AreYouLonesomeTonight": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AresManagement": [
     {
       "key": "economics",
@@ -35450,6 +35457,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ElvisPresley": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Elys": [
@@ -107949,6 +107963,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "encore-good-old-boys-encore-good-old-boys": [
