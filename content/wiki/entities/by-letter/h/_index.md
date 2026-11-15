@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14371
+wiki_total_pages: 14375
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "HeleneLangevin"
     title: "Helene Langevin"
     url: "/wiki/entities/helenelangevin/"
+  - key: "HeleneMayer"
+    title: "Helene Mayer"
+    url: "/wiki/entities/helenemayer/"
   - key: "Helion"
     title: "Helion"
     url: "/wiki/entities/helion/"
@@ -548,6 +551,9 @@ wiki_pages:
   - key: "Henoko"
     title: "Henoko"
     url: "/wiki/entities/henoko/"
+  - key: "HenriDeBailletLatour"
+    title: "Henri de Baillet-Latour"
+    url: "/wiki/entities/henridebailletlatour/"
   - key: "HenriPierreRoche"
     title: "Henri-Pierre Roche / 亨利-皮埃尔·罗什"
     url: "/wiki/entities/henripierreroche/"

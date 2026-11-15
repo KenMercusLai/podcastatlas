@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11405
+wiki_total_pages: 11406
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "EliteRelocationControl"
     title: "Elite Relocation Control / 豪杰迁徙控制"
     url: "/wiki/concepts/eliterelocationcontrol/"
+  - key: "EliteStatusComplicity"
+    title: "Elite Status Complicity"
+    url: "/wiki/concepts/elitestatuscomplicity/"
   - key: "EliteSportPsychologicalSupportSystem"
     title: "Elite-Sport Psychological Support System / 高水平运动心理保障体系"
     url: "/wiki/concepts/elitesportpsychologicalsupportsystem/"

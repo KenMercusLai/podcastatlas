@@ -5,6 +5,7 @@ tags: [sports, neutrality, governance, olympics, political-ethics]
 sources:
   - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
   - hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia
+  - hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -23,13 +24,15 @@ Selective sports neutrality is an institutional posture that treats event contin
 
 The belief structure can precede the visible asymmetry. Brundage treated amateur sport as a pure, measurable refuge from social corruption and sought authority inside an elite Olympic hierarchy. That sincerity does not make later neutrality more credible: when a rule system becomes part of an official's moral identity and status, protecting the institution can feel like protecting fairness even as host-state exclusion remains unexamined, as the formative account in [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia|Hitler’s Olympics, Part 4]] suggests.
 
+The earlier diplomatic case sharpens the distinction between a formal exception and equal conditions. [[CharlesHitchcockSherrill]] sought one acceptable Jewish athlete and treated [[HeleneMayer]]'s invitation as sufficient proof that the dispute had been resolved. Neutrality becomes selective when officials define compliance narrowly enough that one controlled inclusion can legitimate an event amid intensifying systemic persecution, as documented in [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache|Hitler’s Olympics, Part 3]].
+
 ## Key Claims
 
 - Political neutrality cannot be assessed solely from formal eligibility promises.
 - Training access, selection authority, interpreter control, and safe testimony are part of sporting fairness.
 - Event continuity is itself politically consequential when participation supplies legitimacy to a host regime.
 - Institutions can punish visible protest while tolerating less visible political control over athletes.
-- Coerced token inclusion can conceal exclusion rather than correct it.
+- Coerced or host-controlled token inclusion can conceal exclusion rather than correct it, making a formal exception weak evidence of neutrality.
 - Neutrality is most credible when it is applied symmetrically to hosts, officials, and athletes.
 - Sincere institutional belief can deepen selective neutrality when officials equate preserving their rule system with preserving fairness itself.
 
@@ -42,15 +45,17 @@ The belief structure can precede the visible asymmetry. Brundage treated amateur
 - Institutional consequence: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] links accepted assurances to the American decision to participate and Brundage's later IOC entry.
 - Belief and status: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] connects Brundage's rule faith and desire for IOC recognition to the approaching Nazi exclusion dispute.
 - Ideological boundary: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] notes that Coubertin's purity language did not supply an automatic defense against racial hierarchy.
+- Diplomatic token: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] connects Sherrill's single-athlete proposal and Mayer's invitation to renewed support for participation.
+- Systemic boundary: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] places that invitation beside the Nuremberg Laws and continuing Nazi exclusion.
 
 ## Counterevidence & Qualifications
 
-The two sources do not establish that every neutrality claim is cynical, that participation always produces more harm than refusal, or that Brundage alone controlled American and international Olympic decisions. Part 4 specifically supports sincere belief alongside status ambition, while its account of shame, jealousy, and motive is inferential; Part 5 finds no explicit appointment bargain. The concept should therefore diagnose asymmetric standards and ignored conditions, not substitute for case-specific evidence about authority, intent, or boycott effects.
+The three sources do not establish that every neutrality claim is cynical, that participation always produces more harm than refusal, or that Sherrill, Brundage, or the IOC alone controlled American and international decisions. Part 3's account of Sherrill's psychology and class is interpretive; Part 4 supports sincere belief alongside status ambition while treating shame and jealousy as inference; and Part 5 finds no explicit appointment bargain. The concept should diagnose asymmetric standards and ignored conditions, not substitute for case-specific evidence about authority, intent, or boycott effects.
 
 ## What Changed
 
-- Added sincere rule faith and institutional identity as mechanisms that can produce selective neutrality without requiring simple cynicism.
-- Connected Coubertin's purity language and Brundage's IOC ambition to the later failure to test political separation against material access.
+- Added the difference between a host-controlled exception and system-level equality.
+- Added Sherrill and Mayer as a diplomatic precursor to Brundage and Lambert's later inspection-and-selection case.
 
 ## Related Concepts
 
@@ -61,3 +66,5 @@ The two sources do not establish that every neutrality claim is cynical, that pa
 - [[InternationalOlympicCommittee]] - institution whose continuity and neutrality claims the framework evaluates.
 - [[MinorityAthleteRepresentativeBurden]] - unequal symbolic demand placed on athletes within politically charged competition.
 - [[JimThorpe]] - earlier athlete-level case where supposedly impersonal purity rules carried unequal material and personal stakes.
+- [[EliteStatusComplicity]] - status mechanism that can make narrow procedural accommodation feel like principled neutrality.
+- [[HeleneMayer]] - athlete whose invitation illustrates the limits of token compliance.

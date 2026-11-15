@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3548
+topic_total_pages: 3549
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6146,6 +6146,9 @@ topic_entities:
   - key: "CharlesHaughey"
     title: "Charles Haughey"
     url: "/wiki/entities/charleshaughey/"
+  - key: "CharlesHitchcockSherrill"
+    title: "Charles Hitchcock Sherrill"
+    url: "/wiki/entities/charleshitchcocksherrill/"
   - key: "CharlesStewartParnell"
     title: "Charles Stewart Parnell"
     url: "/wiki/entities/charlesstewartparnell/"

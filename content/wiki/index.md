@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 3: Mustache to Mustache](sources/hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache.md) — Revisionist History contrasts Charles Hitchcock Sherrill's status-driven accommodation and token-inclusion diplomacy with Dorothy Thompson's outsider-oriented recognition of fascist danger.
 - [Hitler’s Olympics, Part 4: Outcast in Olympia](sources/hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia.md) — Revisionist History traces Avery Brundage's conversion to Olympic idealism through class ascent, decathlon failure, strict amateurism, Jim Thorpe, IOC ambition, and the Nazi challenge to supposedly apolitical sport.
 - [Hitler’s Olympics, Part 5: The Amateur’s Hour](sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour.md) — Revisionist History contrasts Avery Brundage's Nazi-managed inspection and selective neutrality with Margaret Lambert's coerced candidacy, unequal preparation, record-level performance, and exclusion.
 - [Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up](sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up.md) — Revisionist History tests the Owens–Long rescue and friendship legend against contemporary reports, family records, chronology, photographs, and documentary history.
@@ -5174,6 +5175,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pushkin Goes to the Olympics](sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics.md) — Revisionist History compilation on women's distance-running exclusion, MRI/AI muscle mapping, and the historically disputed Owens–Long friendship story.
 
 ## Entities
+- [Charles Hitchcock Sherrill](entities/CharlesHitchcockSherrill.md) — American IOC official whose elite deference, strongman admiration, and token-inclusion diplomacy helped secure participation in Berlin 1936.
+- [Dorothy Thompson](entities/DorothyThompson.md) — Foreign correspondent whose suffrage and outsider-oriented formation informed an early diagnosis of fascist danger.
+- [Helene Mayer](entities/HeleneMayer.md) — Elite German fencer whose invitation became symbolic evidence of inclusion without equal Jewish access.
+- [Henri de Baillet-Latour](entities/HenriDeBailletLatour.md) — IOC president whose personal prejudice coexisted with a narrow defense of formal Jewish eligibility.
 - [Margaret Lambert](entities/MargaretLambert.md) — German Jewish high jumper whose coerced candidacy and exclusion exposed Berlin 1936's false promise of equal opportunity.
 - [Kathrine Switzer](entities/KathrineSwitzer.md) — Runner whose numbered 1967 Boston entry and resistance to an official exposed women's practical exclusion.
 - [Bobbi Gibb](entities/BobbiGibb.md) — Earlier Boston runner whose 1967 presence corrects first-woman chronology while distinguishing participation from official recognition.
@@ -19639,6 +19644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Elite Status Complicity](concepts/EliteStatusComplicity.md) — Accommodation mechanism linking privilege, mutual deference, attraction to successful power, and preference for institutional harmony over excluded groups' claims.
 - [Selective Sports Neutrality](concepts/SelectiveSportsNeutrality.md) — Institutional posture that protects sporting continuity while overlooking political control of athlete access, preparation, selection, expression, or safety.
 - [Women's Distance-Running Exclusion](concepts/WomenDistanceRunningExclusion.md) — Institutional restriction through medicalized claims, sensational reporting, missing pathways, and practical eligibility enforcement.
 - [Muscle-Specific Imaging](concepts/MuscleSpecificImaging.md) — MRI and computational analysis of individual muscles for targeted assessment, training, and rehabilitation.

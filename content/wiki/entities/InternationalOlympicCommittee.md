@@ -6,6 +6,7 @@ sources:
   - 81-modern-olympics-part-2-glt4846758176
   - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
   - hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia
+  - hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -26,6 +27,8 @@ The Berlin 1936 case adds an institutional-entry problem. Brundage sought an IOC
 
 [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia|Hitler’s Olympics, Part 4]] supplies the social and psychological prehistory of that entry. It depicts the IOC as an aristocratic hierarchy whose prestige attracted a self-made builder who both believed in Olympic merit and wanted recognition from inherited elites. Brundage's candidacy arriving alongside the Berlin exclusion dispute therefore created a conflict before any explicit bargain: the institution's gatekeeping power could reward an official whose defense of Olympic continuity advanced the host's legitimacy.
 
+An earlier Berlin internal-diplomacy case adds [[CharlesHitchcockSherrill]] and IOC president [[HenriDeBailletLatour]]. Both operated within a patrician world where personal prejudice could coexist with a narrow rule against formally barring Jewish athletes. Sherrill's successful pursuit of [[HeleneMayer]]'s invitation shows the institutional limit: one selected exception could protect participation and continuity without establishing equal preparation, independent selection, or safety for Jewish athletes, as documented in [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache|Hitler’s Olympics, Part 3]].
+
 ## Key Characteristics
 
 - Governs the Olympic movement and protects continuity of the Games.
@@ -34,7 +37,7 @@ The Berlin 1936 case adds an institutional-entry problem. Brundage sought an IOC
 - Influences host-city obligations whose costs and benefits are distributed beyond the sporting institution.
 - Must balance event continuity against athlete welfare, protest rights, security, and public legitimacy.
 - Elite recruitment and informal ambition can create conflicts between independent scrutiny and preserving a host event.
-- Hierarchical prestige can align sincere institutional belief with personal status incentives, even without a provable exchange.
+- Hierarchical prestige and internal diplomacy can align sincere institutional belief with status incentives and turn one controlled exception into apparent compliance, even without a provable exchange.
 
 ## Evidence
 
@@ -46,16 +49,17 @@ The Berlin 1936 case adds an institutional-entry problem. Brundage sought an IOC
 - Athlete exclusion: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] contrasts institutional continuity with Lambert's coerced candidacy and exclusion.
 - Elite hierarchy: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] presents Brundage's pursuit of IOC membership as a meeting of Olympic conviction, outsider ambition, and aristocratic recognition.
 - Pre-bargain conflict: [[hitler-s-olympics-part-4-outcast-in-olympia-hitler-s-olympics-part-4-outcast-in-olympia]] places his prospective nomination beside Nazi exclusion while treating motive and exchange as unresolved.
+- Patrician proceduralism: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] contrasts Baillet-Latour's personal prejudice with his formal opposition to barring Jewish competitors.
+- Token compliance: [[hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache]] connects Mayer's invitation to Sherrill's renewed defense of American participation.
 
 ## Qualifications
 
-This page records three episodes' critical interpretations rather than a complete institutional history or legal account of the IOC. Part 4's account of aristocratic hierarchy and Brundage's status ambition is interpretive; Part 5 does not prove an explicit exchange of American participation for his appointment or establish the committee's collective knowledge of every German exclusion. The page does not independently establish current IOC rules, finances, host contracts, or reforms after the periods discussed.
+This page records four episodes' critical interpretations rather than a complete institutional history or legal account of the IOC. Part 3's account does not establish Baillet-Latour's full authority or the committee's collective knowledge; Part 4's account of aristocratic hierarchy and Brundage's status ambition is interpretive; and Part 5 does not prove an explicit exchange of American participation for his appointment. The page does not independently establish current IOC rules, finances, host contracts, or reforms after the periods discussed.
 
 ## What Changed
 
-- Added aristocratic hierarchy and recognition as incentives shaping Brundage's pursuit of IOC membership.
-- Moved the Berlin conflict earlier: institutional ambition and host legitimacy could align before the later inspection and participation decision.
-- Preserved the distinction between a structural conflict of interest and a proven appointment bargain.
+- Added Sherrill and Baillet-Latour's internal diplomacy as an earlier route from procedural minimum to event continuity.
+- Added Mayer's invitation as a test of the difference between one controlled exception and equal sporting conditions.
 
 ## Relationships
 
@@ -68,3 +72,6 @@ This page records three episodes' critical interpretations rather than a complet
 - [[SelectiveSportsNeutrality]] - framework for evaluating asymmetric noninterference.
 - [[PierreDeCoubertin]] - organizer whose Olympic religion and international hierarchy shaped the institution's early authority.
 - [[JimThorpe]] - athlete whose medal punishment tests the committee's historical amateur-purity regime.
+- [[CharlesHitchcockSherrill]] - member whose token-inclusion diplomacy defended Berlin participation.
+- [[HenriDeBailletLatour]] - president associated with the narrow formal eligibility boundary.
+- [[HeleneMayer]] - athlete whose invitation supplied apparent compliance without systemic equality.

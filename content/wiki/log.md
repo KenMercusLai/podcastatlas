@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Hitler’s Olympics, Part 3: Mustache to Mustache
+
+Added the [[RevisionistHistory]] episode contrasting [[CharlesHitchcockSherrill]]'s elite, status-oriented accommodation with [[DorothyThompson]]'s outsider-oriented recognition of fascist danger. Created Sherrill, Thompson, [[HeleneMayer]], [[HenriDeBailletLatour]], and [[EliteStatusComplicity]], then resynthesized the [[InternationalOlympicCommittee]] and [[SelectiveSportsNeutrality]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Mayer's invitation gave Sherrill and Olympic officials a controlled exception that could answer boycott pressure without changing Nazi persecution or establishing equal Jewish access. The source explains Sherrill's conduct through privilege, patrician antisemitism, admiration for successful strongmen, and institutional self-protection rather than requiring full Nazi ideological commitment. No new settled contradiction is adopted beyond the episode's direct conflict between Sherrill's friendship claim and his blame of Jewish critics, and between token inclusion and systemic exclusion. Motives, private dialogue, scrapbook meaning, class representativeness, and the concession's causal effect remain source-scoped because the supplied file is a structured summary rather than the transcript, archive, speeches, or correspondence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,051 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Hitler’s Olympics, Part 4: Outcast in Olympia
 
 Added the [[RevisionistHistory]] episode tracing [[AveryBrundage]] from poverty, engineering, construction, and an unfinished Stockholm decathlon into wealth, strict [[OlympicAmateurism]], and pursuit of the [[InternationalOlympicCommittee]]. Resynthesized Brundage, [[PierreDeCoubertin]], [[JimThorpe]], the [[ModernOlympicGames]], the IOC, amateurism, and [[SelectiveSportsNeutrality]] from their complete preserved evidence inventories before appending the new source once.
@@ -40564,6 +40572,10 @@ Added a [[RevisionistHistory]] compilation in which [[MalcolmGladwell]] connects
 Core synthesis: official recognition, actual participation, and public visibility are distinct in women's marathon history; muscle-level maps can reveal targets hidden by aggregate testing but need validation and outcome linkage; and the Owens–Long excerpt is non-independent preview provenance whose cliffhanger does not supersede the stronger archival correction in the later full episodes. No new settled contradiction was adopted beyond the source's correction of first-woman claims and the already-recorded challenge to the enlarged Owens–Long story. Counts, dialogue, medical and imaging claims, athlete status, and historical details remain source-scoped because the supplied file is a structured summary rather than a transcript, race archive, clinical study, or complete investigation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,048 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
