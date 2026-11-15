@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Malcolm on No Small Endeavor](sources/malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor.md) — Lee C. Camp and Malcolm Gladwell connect curious confidence, plural identity, moral storytelling, failure, whole-life comparison, and committed care.
 - [Hitler’s Olympics](sources/hitler-s-olympics.md) — Revisionist History previews a nine-part investigation of Berlin 1936, Nazi spectacle, United States participation, Olympic officials, Jesse Owens, and American racial disenfranchisement.
 - [Hitler’s Olympics, Part 1: The Blue-Eyed Tornado](sources/hitler-s-olympics-part-1-the-blue-eyed-tornado-hitler-s-olympics-part-1-the-blue-eyed-tornado.md) — Revisionist History introduces Dorothy Thompson's ideology-first warning, the moral conflict over participation, and Berlin 1936's transformation into a Nazi propaganda spectacle.
 - [Hitler’s Olympics, Part 3: Mustache to Mustache](sources/hitler-s-olympics-part-3-mustache-to-mustache-hitler-s-olympics-part-3-mustache-to-mustache.md) — Revisionist History contrasts Charles Hitchcock Sherrill's status-driven accommodation and token-inclusion diplomacy with Dorothy Thompson's outsider-oriented recognition of fascist danger.
@@ -5179,6 +5180,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Lee C. Camp](entities/LeeCCamp.md) — Theologian and No Small Endeavor host using curiosity and life stories to examine moral formation and the good life.
+- [No Small Endeavor](entities/NoSmallEndeavor.md) — Interview program connecting biography, theology, philosophy, storytelling, and vocation.
 - [Charles Hitchcock Sherrill](entities/CharlesHitchcockSherrill.md) — American IOC official whose elite deference, strongman admiration, and token-inclusion diplomacy helped secure participation in Berlin 1936.
 - [Dorothy Thompson](entities/DorothyThompson.md) — Foreign correspondent whose suffrage and outsider-oriented formation informed an early diagnosis of fascist danger.
 - [Helene Mayer](entities/HeleneMayer.md) — Elite German fencer whose invitation became symbolic evidence of inclusion without equal Jewish access.
@@ -19651,6 +19654,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Curious Confidence](concepts/CuriousConfidence.md) — Humility about one's knowledge joined to enough self-security to admit ignorance and ask questions.
+- [Plural Identity Self-Prioritization](concepts/PluralIdentitySelfPrioritization.md) — Agency to rank and revise the importance of multiple identities while recognizing social constraint.
+- [Narrative Moral Rehearsal](concepts/NarrativeMoralRehearsal.md) — Use of concrete stories to make ethical situations recognizable and possible responses actionable.
+- [Whole-Life Comparison](concepts/WholeLifeComparison.md) — Anti-envy rule that evaluates a desired advantage together with the complete life and costs attached to it.
 - [Elite Status Complicity](concepts/EliteStatusComplicity.md) — Accommodation mechanism linking privilege, mutual deference, attraction to successful power, and preference for institutional harmony over excluded groups' claims.
 - [Selective Sports Neutrality](concepts/SelectiveSportsNeutrality.md) — Institutional posture that protects sporting continuity while overlooking political control of athlete access, preparation, selection, expression, or safety.
 - [Women's Distance-Running Exclusion](concepts/WomenDistanceRunningExclusion.md) — Institutional restriction through medicalized claims, sensational reporting, missing pathways, and practical eligibility enforcement.

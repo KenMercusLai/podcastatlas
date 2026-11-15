@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14378
+wiki_total_pages: 14380
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "LeBronJames"
     title: "LeBron James"
     url: "/wiki/entities/lebronjames/"
+  - key: "LeeCCamp"
+    title: "Lee C. Camp"
+    url: "/wiki/entities/leeccamp/"
   - key: "LeeCamp"
     title: "Lee Camp"
     url: "/wiki/entities/leecamp/"

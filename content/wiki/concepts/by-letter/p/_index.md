@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "PleasurePainBalanceAddiction"
     title: "Pleasure-Pain Balance in Addiction"
     url: "/wiki/concepts/pleasurepainbalanceaddiction/"
+  - key: "PluralIdentitySelfPrioritization"
+    title: "Plural Identity Self-Prioritization"
+    url: "/wiki/concepts/pluralidentityselfprioritization/"
   - key: "PodcastAsAsynchronousMedia"
     title: "Podcast As Asynchronous Media"
     url: "/wiki/concepts/podcastasasynchronousmedia/"

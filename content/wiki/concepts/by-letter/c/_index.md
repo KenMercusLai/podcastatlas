@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3497,6 +3497,9 @@ wiki_pages:
   - key: "CuriosityDrivenMemoryEncoding"
     title: "Curiosity-Driven Memory Encoding"
     url: "/wiki/concepts/curiositydrivenmemoryencoding/"
+  - key: "CuriousConfidence"
+    title: "Curious Confidence"
+    url: "/wiki/concepts/curiousconfidence/"
   - key: "CurrencyAnchorTransition"
     title: "Currency Anchor Transition / 货币锚转换"
     url: "/wiki/concepts/currencyanchortransition/"

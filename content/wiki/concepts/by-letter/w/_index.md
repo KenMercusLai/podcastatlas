@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "WholeFoodMostlyPlantPattern"
     title: "Whole-Food Mostly-Plant Pattern"
     url: "/wiki/concepts/wholefoodmostlyplantpattern/"
+  - key: "WholeLifeComparison"
+    title: "Whole-Life Comparison"
+    url: "/wiki/concepts/wholelifecomparison/"
   - key: "WholeLifeNovel"
     title: "Whole-Life Novel / 全人生小说"
     url: "/wiki/concepts/wholelifenovel/"

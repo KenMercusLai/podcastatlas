@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "NarrativeMisdirection"
     title: "Narrative Misdirection / 叙事误导"
     url: "/wiki/concepts/narrativemisdirection/"
+  - key: "NarrativeMoralRehearsal"
+    title: "Narrative Moral Rehearsal"
+    url: "/wiki/concepts/narrativemoralrehearsal/"
   - key: "NarrativePluralism"
     title: "Narrative Pluralism / 叙事多样性"
     url: "/wiki/concepts/narrativepluralism/"
