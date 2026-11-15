@@ -39723,3 +39723,13 @@ Core synthesis: golf-course valuation rules and Proposition 13 can turn transact
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Coming Soon: The Staten Island Problem
+
+Added the [[RevisionistHistory]] trailer in which [[BenNaddaffHafrey]] introduces [[StatenIsland|Staten Island's]] four-year secession fight as a breakdown of political belonging. Resynthesized Staten Island, [[StatenIslandSecession1993|the 1993 secession referendum]], and Naddaff-Hafrey from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the preview identifies perceived abandonment and distrust as the series' central problem, but adds no legal, fiscal, electoral, or archival evidence beyond the five full episodes already represented in the wiki. Its path from outer-borough resentment to [[RudyGiuliani]] and [[DonaldTrump]] remains an announced interpretive thesis rather than voter-level or causal proof. No settled factual contradiction was adopted. The automatic `wiki/overview.md` was read for context and was not manually rewritten. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,970 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

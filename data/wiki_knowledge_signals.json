@@ -32457,9 +32457,9 @@
       "url": "/wiki/entities/benmacintyre/"
     },
     "BenNaddaffHafrey": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -32467,6 +32467,13 @@
           "show": "Revisionist History",
           "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
           "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        },
+        {
+          "episode_file": "Coming_Soon_The_Staten_Island_Problem [Coming_Soon_The_Staten_Island_Problem.mp3？t=1783530701&dl=1&in_playlist=0d4cc74d-.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzAwNTIxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem",
+          "show": "Revisionist History",
+          "title": "Coming Soon: The Staten Island Problem",
+          "url": "/wiki/sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem/"
         }
       ],
       "updated": "2026-11-15",
@@ -285568,9 +285575,9 @@
       "url": "/wiki/concepts/statelessexile/"
     },
     "StatenIsland": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -285613,15 +285620,22 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
           "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
+        },
+        {
+          "episode_file": "Coming_Soon_The_Staten_Island_Problem [Coming_Soon_The_Staten_Island_Problem.mp3？t=1783530701&dl=1&in_playlist=0d4cc74d-.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzAwNTIxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem",
+          "show": "Revisionist History",
+          "title": "Coming Soon: The Staten Island Problem",
+          "url": "/wiki/sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem/"
         }
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/statenisland/"
     },
     "StatenIslandSecession1993": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "The_Staten_Island_Problem_-_Part_5_Revenge_of_the_Forgotten_Borough [The_Staten_Island_Problem_-_Part_5_Revenge_of_the_F.md",
@@ -285657,6 +285671,13 @@
           "show": "Revisionist History",
           "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
           "url": "/wiki/sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t/"
+        },
+        {
+          "episode_file": "Coming_Soon_The_Staten_Island_Problem [Coming_Soon_The_Staten_Island_Problem.mp3？t=1783530701&dl=1&in_playlist=0d4cc74d-.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzAwNTIxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem",
+          "show": "Revisionist History",
+          "title": "Coming Soon: The Staten Island Problem",
+          "url": "/wiki/sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem/"
         }
       ],
       "updated": "2026-11-15",

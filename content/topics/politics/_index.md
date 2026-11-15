@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3522
+topic_total_pages: 3523
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9585,6 +9585,9 @@ topic_sources:
   - key: "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b"
     title: "Coming in Andy: Britain's prime minister-in-waiting"
     url: "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"
+  - key: "coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem"
+    title: "Coming Soon: The Staten Island Problem"
+    url: "/wiki/sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem/"
   - key: "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e"
     title: "Continental Rift: NATO's Tense Summit"
     url: "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"

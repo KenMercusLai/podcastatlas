@@ -911,14 +911,14 @@
       "earliest_episode_date": "2025-06-26",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 16,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 17,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "history",
@@ -954,6 +954,13 @@
           "url": "/wiki/entities/guymolinari/",
           "kind": "person",
           "episode_count": 3
+        },
+        {
+          "key": "BenNaddaffHafrey",
+          "title": "Ben Naddaff-Hafrey",
+          "url": "/wiki/entities/bennaddaffhafrey/",
+          "kind": "person",
+          "episode_count": 2
         },
         {
           "key": "DavidKennedyCriminologist",

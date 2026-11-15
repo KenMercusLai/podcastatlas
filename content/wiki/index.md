@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Coming Soon: The Staten Island Problem](sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem.md) — Revisionist History previews Staten Island's secession fight as a crisis of democratic belonging while treating its Giuliani and Trump parallels as a thesis for the full series.
 - [Revenge of A Good Walk Spoiled](sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled.md) — Revisionist History revisits Los Angeles golf-course tax privileges and follows the argument into a parcel-tax proposal, public-access bargaining, and delayed policy influence.
 - [The Staten Island Problem - Part 1: The Mayor vs. the Borough President](sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t.md) — Revisionist History contrasts Dinkins's pluralist defense of citywide unity with Molinari's policing, landfill, and forgotten-borough grievance politics.
 - [The Staten Island Problem - Part 2: A New Map](sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map.md) — Revisionist History connects the Board of Estimate ruling, Fresh Kills, grassroots organizing, post-bridge change, and symbolic invisibility to Staten Island's secession campaign.

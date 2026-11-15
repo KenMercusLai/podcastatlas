@@ -8,6 +8,7 @@ sources:
   - the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect
   - the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map
   - the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t
+  - coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -33,6 +34,8 @@ Approximately 66% of participating Staten Islanders supported secession. Final a
 The episode argues that the vote's durable consequence lay elsewhere. The referendum raised Staten Island turnout far above its 1989 level, 82% of the borough backed [[RudyGiuliani]], and Dinkins campaign officials identified the resulting vote margin as decisive. Secession and Giuliani's victory are therefore treated as two political expressions of [[PeripheralPlaceResentment]], not as separate stories.
 
 The Wu-Tang episode adds a simultaneous but unproven cultural parallel. The vote occurred seven days before [[WuTangClan|Wu-Tang Clan]] released its debut album, and [[MalcolmGladwell]] compares withdrawal from city government with [[RZA]]'s effort to escape centralized music-industry control. He explicitly found no evidence that RZA discussed the campaign, while the local NAACP's concern for Black residents shows that secession did not represent one undivided borough interest.
+
+The trailer establishes the series' initial interpretive question: how a four-year exit campaign grew from perceived abandonment into a wider crisis of trust and democratic legitimacy. It adds no referendum result, legal mechanism, or causal evidence beyond the full episodes and is therefore treated as framing rather than an independent account of the campaign.
 
 ## Key Characteristics
 
@@ -70,9 +73,13 @@ The Wu-Tang episode adds a simultaneous but unproven cultural parallel. The vote
 
 - [[the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin]] reports the seven-day timing, the host's qualified analogy, the absence of evidence for RZA's awareness, and NAACP concern about the proposal.
 
+### Series framing
+
+- [[coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem]] introduces the four-year campaign as a breakdown of political belonging and previews its wider populism thesis without supplying referendum records or causal proof.
+
 ## Qualifications
 
-The supplied summaries do not provide official precinct returns, petitions, fiscal studies, budgets, court opinions, legal text, legislative proceedings, the Garcia investigation, or a formal turnout counterfactual. The Tuvalu effect, logo map, and pre-bridge nostalgia are interpretive mechanisms and do not establish the relative causal weight of geography, race, policing, white flight, class, regulation, party politics, or development. The Board of Estimate ruling was a catalyst rather than the sole cause, and the claim that Dinkins's visit worsened the movement is an episode judgment. The conclusion that the referendum elected Giuliani is a strong causal interpretation based on the narrow result and campaign testimony, not a randomized estimate. The Wu-Tang comparison identifies similar aspirations under shared conditions but supplies neither member testimony nor evidence of political influence.
+The supplied summaries do not provide official precinct returns, petitions, fiscal studies, budgets, court opinions, legal text, legislative proceedings, the Garcia investigation, or a formal turnout counterfactual. The Tuvalu effect, logo map, and pre-bridge nostalgia are interpretive mechanisms and do not establish the relative causal weight of geography, race, policing, white flight, class, regulation, party politics, or development. The Board of Estimate ruling was a catalyst rather than the sole cause, and the claim that Dinkins's visit worsened the movement is an episode judgment. The conclusion that the referendum elected Giuliani is a strong causal interpretation based on the narrow result and campaign testimony, not a randomized estimate. The trailer's national-politics arc is promotional framing rather than additional evidence. The Wu-Tang comparison identifies similar aspirations under shared conditions but supplies neither member testimony nor evidence of political influence.
 
 ## What Changed
 
