@@ -5115,6 +5115,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
+- [The Alabama Murders - Part 4: The Protocol](sources/the-alabama-murders-part-4-the-protocol.md) — Revisionist History episode on Parker's overridden life recommendation, Perry's sustained presence, lethal injection's untested origin, and pulmonary injury concealed by paralysis.
 - [The Alabama Murders - Part 5: Cruel and Unusual](sources/the-alabama-murders-part-5-cruel-and-unusual.md) — Revisionist History episode on judicial override, lethal-injection access failures, hidden execution-team competence, Smith's failed first execution, and Alabama's deadline response.
 - [The Alabama Murders - Part 7: The Second Warrant](sources/the-alabama-murders-part-7-the-second-warrant.md) — Revisionist History finale on execution-induced trauma, Alabama's first-use nitrogen protocol, conflicting scientific and eyewitness evidence, and the state's success narrative.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
@@ -5122,12 +5123,15 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
 - [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose childhood trauma, failed lethal-injection attempt, and nitrogen-hypoxia case connect developmental harm to hidden execution procedure.
-- [The Alabama Murders](entities/TheAlabamaMurders.md) — Revisionist History series connecting trauma, Alabama capital cases, execution methods, secrecy, and abolition.
+- [The Alabama Murders](entities/TheAlabamaMurders.md) — Revisionist History series connecting trauma, care, Alabama capital cases, execution methods, secrecy, and abolition.
 - [Kate Porterfield](entities/KatePorterfield.md) — Trauma psychologist whose assessment connects Alabama's failed execution attempt to embodied post-traumatic stress, family history, and second-warrant risk.
-- [Joel Zivot](entities/JoelZivot.md) — Anesthesiologist explaining physiological uncertainty in nitrogen-hypoxia execution.
+- [Joel Zivot](entities/JoelZivot.md) — Anesthesiologist interpreting pulmonary injury, lethal-injection access evidence, and nitrogen-hypoxia uncertainty.
 - [Robert Grass](entities/RobertGrass.md) — Kenneth Smith's long-term lawyer and eyewitness to his nitrogen-hypoxia execution.
 - [John Q. Hamm](entities/JohnQHamm.md) — Alabama corrections commissioner whose protocol testimony and post-execution account anchor the state's position.
 - [Elizabeth Sennett](entities/ElizabethSennett.md) — Murder victim whose death and family's grief remain the essential context for The Alabama Murders.
+- [John Forrest Parker](entities/JohnForrestParker.md) — Alabama capital defendant who admitted assaulting Elizabeth Sennett, disputed killing her, and received death after a 10-2 life recommendation.
+- [Tom Perry Jr.](entities/TomPerryJr.md) — Prison minister whose decades-long accompaniment of Parker exemplifies a ministry of presence.
+- [A. J. Chapman](entities/AJChapman.md) — Oklahoma medical examiner associated with the untested three-drug lethal-injection protocol.
 - [A Visit from St. Nicholas](entities/AVisitFromStNicholas.md) — Anonymous 1823 poem that helped standardize domestic Santa imagery and remains conventionally attributed to Clement Clarke Moore.
 - [Clement Clarke Moore](entities/ClementClarkeMoore.md) — New York scholar and writer whose relevant light and child-oriented verse supports the conventional attribution of the Christmas poem.
 - [Henry Livingston Jr.](entities/HenryLivingstonJr.md) — Alternative authorship candidate supported by descendants and stylistic resemblance but not a surviving manuscript or public claim.
@@ -19459,6 +19463,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Medicalized Execution Opacity](concepts/MedicalizedExecutionOpacity.md) — Clinical appearance and restricted observation make execution seem controlled while hiding competence, failure, and experienced suffering.
+- [Ministry of Presence](concepts/MinistryOfPresence.md) — Reliable accompaniment that refuses abandonment through distress, death, and aftermath.
 - [Nitrogen Hypoxia Execution Risk](concepts/NitrogenHypoxiaExecutionRisk.md) — Framework separating oxygen-displacement theory from mask, breathing, contingency, expertise, and first-use outcome uncertainty.
 - [Literary Authorship Attribution](concepts/LiteraryAuthorshipAttribution.md) — Evidence framework combining stylistic comparison with provenance, chronology, corpus design, and disconfirming documents.
 - [False-Balance Controversy Persistence](concepts/FalseBalanceControversyPersistence.md) — Survival of a disputed claim when repeated balanced framing obscures unequal evidentiary support.

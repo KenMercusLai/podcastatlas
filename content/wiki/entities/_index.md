@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14245
+wiki_total_pages: 14248
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "ABOTNavigation"
     title: "A-BOT Navigation"
     url: "/wiki/entities/abotnavigation/"
+  - key: "AJChapman"
+    title: "A. J. Chapman"
+    url: "/wiki/entities/ajchapman/"
   - key: "APhilipRandolph"
     title: "A. Philip Randolph"
     url: "/wiki/entities/aphiliprandolph/"

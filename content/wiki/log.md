@@ -39975,3 +39975,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Alabama Murders - Part 4: The Protocol
+
+Added the [[RevisionistHistory]] episode following [[JohnForrestParker]] from an overridden 10-2 life recommendation through his 2010 execution. Created profiles for Parker, [[TomPerryJr]], and [[AJChapman]]; added [[MinistryOfPresence]]; and resynthesized [[TheAlabamaMurders]], [[JoelZivot]], [[ElizabethSennett]], and [[MedicalizedExecutionOpacity]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Perry's repeated visits, final-day accompaniment, family support, and protection of Parker's memory make reliable presence the episode's counterexample to institutional indifference without resolving Parker's disputed culpability or displacing Sennett's murder. The execution-method inquiry traces an untested three-drug sequence from rapid adoption to autopsy evidence of pulmonary edema and a proposed pentobarbital injury mechanism. Sedation, restraint, and paralysis can therefore create a peaceful outward scene without establishing absence of pain or awareness. No settled factual contradiction was adopted. Parker admitted striking Sennett while denying that he killed her; Perry sincerely perceived calm while the protocol limited what he could observe. Trial evidence, protocol history, autopsy prevalence, pharmacology, awareness, pain, and reported dialogue remain episode-scoped because the supplied file is a structured summary rather than a transcript, trial record, protocol file, autopsy dataset, or specialist review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,997 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

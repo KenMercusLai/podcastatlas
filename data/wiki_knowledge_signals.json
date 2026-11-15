@@ -6774,6 +6774,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/aiworkflowupstreampositioning/"
     },
+    "AJChapman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/ajchapman/"
+    },
     "AJFountain": {
       "episode_count": 1,
       "show_count": 1,
@@ -90122,9 +90138,9 @@
       "url": "/wiki/entities/elizabethporter/"
     },
     "ElizabethSennett": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_7_The_Second_Warrant [The_Alabama_Murders_-_Part_7_The_Second_Warrant].md",
@@ -90146,6 +90162,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 5: Cruel and Unusual",
           "url": "/wiki/sources/the-alabama-murders-part-5-cruel-and-unusual/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
         }
       ],
       "updated": "2026-11-15",
@@ -165605,9 +165628,9 @@
       "url": "/wiki/entities/joeparvizi/"
     },
     "JoelZivot": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_7_The_Second_Warrant [The_Alabama_Murders_-_Part_7_The_Second_Warrant].md",
@@ -165622,6 +165645,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 5: Cruel and Unusual",
           "url": "/wiki/sources/the-alabama-murders-part-5-cruel-and-unusual/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
         }
       ],
       "updated": "2026-11-15",
@@ -166248,6 +166278,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/johnfetterman/"
+    },
+    "JohnForrestParker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/johnforrestparker/"
     },
     "JohnFoxe": {
       "episode_count": 1,
@@ -203416,9 +203462,9 @@
       "url": "/wiki/concepts/medicalizationofchildbirth/"
     },
     "MedicalizedExecutionOpacity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -203440,6 +203486,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 5: Cruel and Unusual",
           "url": "/wiki/sources/the-alabama-murders-part-5-cruel-and-unusual/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
         }
       ],
       "updated": "2026-11-15",
@@ -209556,6 +209609,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/ministryofagricultureandruralaffairs/"
+    },
+    "MinistryOfPresence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/ministryofpresence/"
     },
     "MinneapolisFederalLocalImmigrationConflict": {
       "episode_count": 1,
@@ -299722,9 +299791,9 @@
       "url": "/wiki/entities/theaiceobook/"
     },
     "TheAlabamaMurders": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -299753,6 +299822,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 5: Cruel and Unusual",
           "url": "/wiki/sources/the-alabama-murders-part-5-cruel-and-unusual/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
         }
       ],
       "updated": "2026-11-15",
@@ -305643,6 +305719,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tomorton/"
+    },
+    "TomPerryJr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_4_The_Protocol [The_Alabama_Murders_-_Part_4_The_Protocol].md",
+          "key": "the-alabama-murders-part-4-the-protocol",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 4: The Protocol",
+          "url": "/wiki/sources/the-alabama-murders-part-4-the-protocol/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/tomperryjr/"
     },
     "TomSayers": {
       "episode_count": 1,
