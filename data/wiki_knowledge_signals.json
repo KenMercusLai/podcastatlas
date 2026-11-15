@@ -45032,6 +45032,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/carrytradeunwind/"
     },
+    "CarterHarris": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series [Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series].md",
+          "key": "why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+          "url": "/wiki/sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/carterharris/"
+    },
     "CartesianWound": {
       "episode_count": 1,
       "show_count": 1,
@@ -63420,9 +63436,9 @@
       "url": "/wiki/concepts/contextualepisodicmemory/"
     },
     "ContextualExplanationWithoutExoneration": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -63430,9 +63446,16 @@
           "show": "The Rest Is History",
           "title": "309: Columbus: Villain or Hero? (Part 4)",
           "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        },
+        {
+          "episode_file": "Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series [Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series].md",
+          "key": "why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+          "url": "/wiki/sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
     "ContextualFlavorPerception": {
@@ -157410,6 +157433,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/irritablebowelsyndromediagnosticboundary/"
     },
+    "IrvGotti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series [Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series].md",
+          "key": "why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+          "url": "/wiki/sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/irvgotti/"
+    },
     "IsARiverAlive": {
       "episode_count": 1,
       "show_count": 1,
@@ -161138,6 +161177,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
+    },
+    "JenniferLopez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series [Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series].md",
+          "key": "why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+          "url": "/wiki/sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jenniferlopez/"
     },
     "JennyGoodland": {
       "episode_count": 1,
@@ -208846,6 +208901,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/mississippi/"
     },
+    "MistakeWitnessResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series [Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series].md",
+          "key": "why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+          "url": "/wiki/sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/mistakewitnessresponsibility/"
+    },
     "MistralAI": {
       "episode_count": 2,
       "show_count": 2,
@@ -220719,9 +220790,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonRetaliatoryAdversityConduct": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhv36G01HXpXAabH77bbyoSdjZfr [lhv36G01HXpXAabH77bbyoSdjZfr].md",
@@ -220729,6 +220800,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1161-caocao-wei-shenme-yao-cisi-erxifu-lhv36g01hxpxaabh77bbyosdjzfr/"
+        },
+        {
+          "episode_file": "Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series [Why_Would_I_Do_That_to_Jennifer_Lopez_The_Mistakes_Series].md",
+          "key": "why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series",
+          "show": "Revisionist History",
+          "title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+          "url": "/wiki/sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series/"
         }
       ],
       "updated": "2026-11-15",

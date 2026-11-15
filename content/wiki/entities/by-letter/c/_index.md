@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14190
+wiki_total_pages: 14193
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "Carta"
     title: "Carta"
     url: "/wiki/entities/carta/"
+  - key: "CarterHarris"
+    title: "Carter Harris"
+    url: "/wiki/entities/carterharris/"
   - key: "Carthage"
     title: "Carthage / 迦太基"
     url: "/wiki/entities/carthage/"

@@ -5101,8 +5101,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
+- [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Irv Gotti](entities/IrvGotti.md) — Music producer whose successful Jennifer Lopez collaboration ended after a harmful interview outburst he later treated as his worst mistake.
+- [Jennifer Lopez](entities/JenniferLopez.md) — Singer and actor whose acceptance of an apology remained distinct from restoring trust or collaboration.
+- [Carter Harris](entities/CarterHarris.md) — Reporter whose account of the Gotti interview and Elle's fact-checking process complicated a simple villain narrative.
 - [Tim Harford](entities/TimHarford.md) — Cautionary Tales host who uses staged historical reversal to examine creative value, failure, and uncertain intention.
 - [Cautionary Tales](entities/CautionaryTales.md) — Narrative history podcast using mistakes and moral reversals to test practical lessons under evidentiary uncertainty.
 - [Jim Balsillie](entities/JimBalsillie.md) — BlackBerry co-CEO whose rejected cross-platform BBM strategy became a case in strategic foresight, board power, and relational persuasion.
@@ -19386,6 +19390,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Mistake Witness Responsibility](concepts/MistakeWitnessResponsibility.md) — Duty to investigate anomalous harmful conduct, editorial process, and one's own first judgment before irreversible amplification or blame.
 - [Failure-Performance Ambiguity](concepts/FailurePerformanceAmbiguity.md) — Difficulty distinguishing naïve incompetence, endured ridicule, and knowing comic performance from overlapping public evidence.
 - [Elevator Availability–Accessibility Tradeoff](concepts/ElevatorAvailabilityAccessibilityTradeoff.md) — Risk that maximizing each elevator's capabilities raises cost and footprint enough to reduce overall elevator access.
 - [Elevator Installation Cost](concepts/ElevatorInstallationCost.md) — Labor, assembly, cabin-size, and regulatory mechanisms shaping the cost and feasibility of installing elevators.

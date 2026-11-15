@@ -39811,3 +39811,11 @@ Core synthesis: creative participation can retain personal value without profess
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+Added source `why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series`; created [[IrvGotti]], [[JenniferLopez]], [[CarterHarris]], and [[MistakeWitnessResponsibility]]; and resynthesized [[ContextualExplanationWithoutExoneration]] and [[NonRetaliatoryAdversityConduct]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: a racist provocation and acute anger help explain Gotti's outburst without excusing his attack on Lopez; apology and remorse do not obligate restored trust; and witnesses owe anomalous harmful conduct contextual inquiry, but judging the witness requires the same inquiry into knowledge, authority, editorial workflow, and foreseeable consequences. No settled contradiction was adopted. Harris's fact-checker account complicates Gladwell's initial villain framing, while Lopez's perspective and the accounts of Elle's editors and fact-checker remain absent. Interview wording, private apologies, editorial workflow, emotional state, intoxication, and counterfactual partnership claims remain episode-reported because the supplied file is a structured summary rather than a transcript, article, editorial record, or testimony from all parties. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,980 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
