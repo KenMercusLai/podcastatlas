@@ -4077,7 +4077,6 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-10-30] ingest | 186.何为中国经济新范式？｜对话CF40研究院院长郭凯
 
 Added source `lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave`; created [[GuoKaiEconomist]], [[CF40ResearchInstitute]], [[ChinaOldNewEconomyCrossover]], [[DistributedHouseholdShockAbsorption]], [[NewEconomyHouseholdTransmission]], [[CreditLightGrowthTransition]], and [[FiscalStockAndHouseholdRebalancing]]; and resynthesized [[AIEmploymentMultiplierCompression]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: China's property adjustment can remain painful while losing importance as the dominant marginal drag; aggregate resilience partly reflects shocks dispersed across households; new-economy supply gains need employment, services, fiscal, transfer, and capital-income channels to reach consumption; and slower credit growth can reflect both sector change and weak demand. No settled contradiction was adopted. The report's crossover estimate, property timing, AI employment comparison, inflation path, industrial clearing, and policy effects remain source-scoped because the supplied file is a structured summary rather than the underlying report, datasets, or transcript. Large show, host, China, macro-temperature, household-balance-sheet, and demand-repair hubs were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting automatic `wiki/overview.md`. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,786 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
@@ -39541,6 +39540,16 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live
+
+Added the [[RevisionistHistory]] live conversation in which [[MalcolmGladwell]] interviews [[AdamGrant]] about [[VibeAdamGrantBook|Vibe]]. Created [[AlliesPalsCompanionsFramework]], [[CompatibilityAsInteractionDynamic]], and [[SharedActivitySocialScaffolding]]; expanded Adam Grant and Revisionist History; and qualified [[AlgorithmicRomanticCompatibility]] by separating the ethics of acting on a compatibility score from whether real systems can predict one.
+
+Core synthesis: relationship labels conceal different purposes; ally, pal, and companion roles can overlap or change; compatibility develops through a distinctive pair dynamic across situations; and tasks, games, rituals, identities, or shared problems can scaffold connection. No settled contradiction was adopted. Cardiovascular, speed-dating, astrology, parenting, and gathering-design claims remain source-scoped because the supplied file is a structured summary without full methods, while Gladwell and Grant's dispute over socially useful fictions remains unresolved. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,951 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-15] lint | Wiki health check
 

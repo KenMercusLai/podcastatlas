@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14109
+wiki_total_pages: 14111
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "VibeTrading"
     title: "Vibe Trading"
     url: "/wiki/entities/vibetrading/"
+  - key: "VibeAdamGrantBook"
+    title: "Vibe: The Secrets of Strong Connection in a Lonely World"
+    url: "/wiki/entities/vibeadamgrantbook/"
   - key: "VibhAltakar"
     title: "Vibh Altakar"
     url: "/wiki/entities/vibhaltakar/"

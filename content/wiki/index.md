@@ -5072,6 +5072,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
+- [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
 - [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented here through explanation, reasoning, and qualified depression-reframing branches.
@@ -19274,6 +19275,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colin Campbell (British Army officer)](entities/ColinCampbellBritishArmy.md) — India-tested Highland Brigade commander whose exclusion from supreme command illustrates class-filtered military appointment.
 - [Jacques Leroy de Saint-Arnaud](entities/JacquesLeroyDeSaintArnaud.md) — French Crimean commander combining Algerian experience, coup politics, coalition ambition, and concern over lethal conditions at Varna.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
+- [Malcolm Gladwell](entities/MalcolmGladwell.md) — Revisionist History host who pressure-tests relationship psychology through autobiography, analogy, and argumentative counterexamples.
+- [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
 - [Explanation-Driven Sense-Making](concepts/ExplanationDrivenSensemaking.md) — Construction of causal or functional models for prediction, action, learning, and communication.
@@ -30614,5 +30617,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychological Flexibility Under Performance Pressure / 表现压力下的心理灵活性](concepts/PsychologicalFlexibilityUnderPerformancePressure.md) — 不要求焦虑或不完美状态先消失，仍能回到有价值且可控行动的能力。
 
 - [War-Aim Expansion After Initial Success](concepts/WarAimExpansionAfterSuccess.md) — Process by which an achieved limited objective generates pressure for a more visible, ambitious military target.
+- [Allies, Pals, and Companions Framework](concepts/AlliesPalsCompanionsFramework.md) — Fluid vocabulary for goal-pursuing, playful, and emotionally supportive relationship purposes and their expectation mismatches.
+- [Compatibility as an Interaction Dynamic](concepts/CompatibilityAsInteractionDynamic.md) — View that relational fit is discovered and developed across situations rather than reliably inferred from profiles alone.
+- [Shared-Activity Social Scaffolding](concepts/SharedActivitySocialScaffolding.md) — Use of tasks, games, rituals, identities, or problems to make repeated interaction and connection easier.
 
 ## Syntheses
