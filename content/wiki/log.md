@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Malcolm Breaks Down the Perfect Break Up Song
+
+Added the [[RevisionistHistory]] Valentine's Day comparison of R&B, folk, and country love songs; created [[Babyface]] and [[LoveSongGenreConventions]]; and resynthesized [[BenNaddaffHafrey]], [[SongwritingEmotionalProcessing]], and [[EmotionalSpecificityInStorytelling]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: direct experience and empathetic observation can both supply song material; collaboration and delayed disclosure complicate singular autobiographical origin stories; and concrete weather, domestic objects, and local geography can make attachment, gratitude, rejection, or humiliation emotionally legible. Genre conventions provide inherited languages for devotion, companionship, resilience, and wallowing without establishing one universally superior genre. No settled contradiction was adopted. Gladwell's country-rock contrast, gospel and denominational history, song origins, dialogue, collaborators' motives, geographic status, and listener effects remain episode-scoped because the supplied file is a structured summary rather than a transcript, representative lyric corpus, musicological history, or independent biography. The broad [[MalcolmGladwell]] and Revisionist History profiles and automatic `wiki/overview.md` were kept closed because the focused pages capture the durable judgments without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,026 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Welcoming Heavyweight
 
 Added the [[Heavyweight]] episode in which [[JonathanGoldstein]] brings his father, [[BuzzHeavyweight|Buzz]], back into contact with Buzz's brother, [[SheldonHeavyweight|Sheldon]], after roughly forty years of estrangement. Created bounded profiles for the show and all three participants, established [[FamilyEstrangementRepair]], and resynthesized [[NarrativePerspectiveMoralReevaluation]] from its complete preserved evidence inventory before appending the new source once.
@@ -40285,6 +40291,10 @@ Added the [[HiddenBrain]] episode with [[AlisonWoodBrooks]] on difficult convers
 Core synthesis: productive disagreement depends on both internal openness and visible evidence of it. Questions, acknowledgment, validation without agreement, qualified language, and genuine common ground can preserve attention and dignity while substantive disagreement remains. Emotional reinterpretation and apology can support repair, but receptiveness is not unlimited engagement and does not replace boundaries, documentation, distance, or exit in coercion, abuse, severe asymmetry, or unsafe contact. No settled contradiction was adopted. Effectiveness, mechanism, child-development, and relationship-outcome claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, study report, clinical protocol, or safety guide. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,025 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

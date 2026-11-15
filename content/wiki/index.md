@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Malcolm Breaks Down the Perfect Break Up Song](sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song.md) — Revisionist History compares R&B, folk, and country through autobiographical songwriting, empathetic observation, sad-song companionship, and the narrative specificity of breakup songs.
 - [The Conversations that Bring Us Closer](sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116.md) — Hidden Brain and Alison Wood Brooks on difficult-conversation goals, visible receptiveness, perspective questions, emotional reframing, and apology.
 - [Welcoming Heavyweight](sources/welcoming-heavyweight-welcoming-heavyweight.md) — Heavyweight uses an estranged brothers' reunion to connect contested family memory, childhood harm, perspective revision, and modest behavioral repair.
 - [Revisionist History is Back](sources/revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Season preview spanning PAW Patrol, George Floyd, English muffins, raccoon research, face recognition, and RFK Jr., with later full episodes supplying the substantive evidence.
@@ -5149,6 +5150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Babyface](entities/Babyface.md) — R&B songwriter connecting infatuation, heartbreak, observation, empathy, and remembered detail to composition.
 - [Alison Wood Brooks](entities/AlisonWoodBrooks.md) — Behavioral scientist connecting difficult conversations to visible receptiveness, perspective discovery, emotional regulation, and apology.
 - [Heavyweight](entities/Heavyweight.md) — Narrative podcast using participant-led inquiry and mediation to revisit unresolved personal histories.
 - [Jonathan Goldstein](entities/JonathanGoldstein.md) — Heavyweight host who arranges, accompanies, and narrates the brothers' reunion.
@@ -19552,6 +19554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Love-Song Genre Conventions](concepts/LoveSongGenreConventions.md) — Inherited genre expectations shaping musical languages of devotion, heartbreak, companionship, resilience, and wallowing.
 - [Conversational Receptiveness](concepts/ConversationalReceptiveness.md) — Openness made visible through learning goals, acknowledgment, validation without agreement, questions, qualified language, and common ground.
 - [Family Estrangement Repair](concepts/FamilyEstrangementRepair.md) — Cautious reopening of contact through consent, perspective revision, and tolerable future behavior without requiring complete settlement.
 - [Emotional Manipulation Recognition / 情感操纵识别](concepts/EmotionalManipulationRecognition.md) — Behavior-first recognition of interpretive control, attention diversion, responsibility reversal, moving standards, and outside-reference erosion.

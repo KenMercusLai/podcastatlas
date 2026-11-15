@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3694
+topic_total_pages: 3695
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2185,6 +2185,9 @@ topic_concepts:
   - key: "LovePoetryModernity"
     title: "Love Poetry Modernity"
     url: "/wiki/concepts/lovepoetrymodernity/"
+  - key: "LoveSongGenreConventions"
+    title: "Love-Song Genre Conventions"
+    url: "/wiki/concepts/lovesonggenreconventions/"
   - key: "LowDataMediaAccess"
     title: "Low-Data Media Access"
     url: "/wiki/concepts/lowdatamediaaccess/"

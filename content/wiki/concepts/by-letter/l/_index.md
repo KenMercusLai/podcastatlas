@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11360
+wiki_total_pages: 11361
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "LoveRescueTrap"
     title: "Love Rescue Trap / 以爱拯救陷阱"
     url: "/wiki/concepts/loverescuetrap/"
+  - key: "LoveSongGenreConventions"
+    title: "Love-Song Genre Conventions"
+    url: "/wiki/concepts/lovesonggenreconventions/"
   - key: "LowDesireDefensiveContraction"
     title: "Low Desire As Defensive Contraction / 低欲望防御性收缩"
     url: "/wiki/concepts/lowdesiredefensivecontraction/"

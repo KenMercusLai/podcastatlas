@@ -28207,6 +28207,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/babrimasjid/"
     },
+    "Babyface": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Breaks_Down_the_Perfect_Break_Up_Song [Malcolm_Breaks_Down_the_Perfect_Break_Up_Song].md",
+          "key": "malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song",
+          "show": "Revisionist History",
+          "title": "Malcolm Breaks Down the Perfect Break Up Song",
+          "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/babyface/"
+    },
     "Babylon": {
       "episode_count": 2,
       "show_count": 1,
@@ -32815,9 +32831,9 @@
       "url": "/wiki/entities/benmacintyre/"
     },
     "BenNaddaffHafrey": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -32853,9 +32869,16 @@
           "show": "Revisionist History",
           "title": "Running Hot",
           "url": "/wiki/sources/running-hot/"
+        },
+        {
+          "episode_file": "Malcolm_Breaks_Down_the_Perfect_Break_Up_Song [Malcolm_Breaks_Down_the_Perfect_Break_Up_Song].md",
+          "key": "malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song",
+          "show": "Revisionist History",
+          "title": "Malcolm Breaks Down the Perfect Break Up Song",
+          "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/bennaddaffhafrey/"
     },
     "BenchmarkAdoptionDesign": {
@@ -92695,9 +92718,9 @@
       "url": "/wiki/concepts/emotionalresponsibilityboundary/"
     },
     "EmotionalSpecificityInStorytelling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -92705,9 +92728,16 @@
           "show": "Revisionist History",
           "title": "Encore: The King of Tears",
           "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        },
+        {
+          "episode_file": "Malcolm_Breaks_Down_the_Perfect_Break_Up_Song [Malcolm_Breaks_Down_the_Perfect_Break_Up_Song].md",
+          "key": "malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song",
+          "show": "Revisionist History",
+          "title": "Malcolm Breaks Down the Perfect Break Up Song",
+          "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/emotionalspecificityinstorytelling/"
     },
     "EmotionalStabilityAsSocialNorm": {
@@ -192869,6 +192899,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/lovecontrolillusion/"
     },
+    "LoveSongGenreConventions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Breaks_Down_the_Perfect_Break_Up_Song [Malcolm_Breaks_Down_the_Perfect_Break_Up_Song].md",
+          "key": "malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song",
+          "show": "Revisionist History",
+          "title": "Malcolm Breaks Down the Perfect Break Up Song",
+          "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/lovesonggenreconventions/"
+    },
     "LoveTranslationKDrama": {
       "episode_count": 1,
       "show_count": 1,
@@ -286326,9 +286372,9 @@
       "url": "/wiki/entities/songtsam/"
     },
     "SongwritingEmotionalProcessing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5781731754 [GLT5781731754].md",
@@ -286343,9 +286389,16 @@
           "show": "Revisionist History",
           "title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
           "url": "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
+        },
+        {
+          "episode_file": "Malcolm_Breaks_Down_the_Perfect_Break_Up_Song [Malcolm_Breaks_Down_the_Perfect_Break_Up_Song].md",
+          "key": "malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song",
+          "show": "Revisionist History",
+          "title": "Malcolm Breaks Down the Perfect Break Up Song",
+          "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/songwritingemotionalprocessing/"
     },
     "SonnyLoughran": {
