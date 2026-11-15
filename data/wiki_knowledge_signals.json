@@ -197739,9 +197739,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -197854,6 +197854,13 @@
           "show": "Revisionist History",
           "title": "Encore: Hallelujah",
           "url": "/wiki/sources/encore-hallelujah-encore-hallelujah/"
+        },
+        {
+          "episode_file": "Encores [Encores.mp3？t=1758559826&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0&utm_source=Podcast&tdtok=eyJhbGc.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzE2MTM5LCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc",
+          "show": "Revisionist History",
+          "title": "Encores",
+          "url": "/wiki/sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc/"
         }
       ],
       "updated": "2026-11-15",
@@ -260839,9 +260846,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -260940,6 +260947,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know",
           "url": "/wiki/sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from/"
+        },
+        {
+          "episode_file": "Encores [Encores.mp3？t=1758559826&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0&utm_source=Podcast&tdtok=eyJhbGc.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzE2MTM5LCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc",
+          "show": "Revisionist History",
+          "title": "Encores",
+          "url": "/wiki/sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc/"
         }
       ],
       "updated": "2026-11-15",

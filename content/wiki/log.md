@@ -40089,3 +40089,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Encores
+
+Added the brief [[RevisionistHistory]] introduction curating four archive music stories through [[MalcolmGladwell]]'s durable attachment to particular songs and his perspective as an enthusiastic non-musician. Resynthesized [[MalcolmGladwell]] and [[RevisionistHistory]] from their complete preserved evidence inventories before appending the new source once. The introduction changes the framing of the four stories but supplies no new evidence for their detailed claims, so no artist or music-concept page was revised and no settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,008 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

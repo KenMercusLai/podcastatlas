@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Encores](sources/encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc.md) — Malcolm Gladwell introduces four Revisionist History music stories through the autobiographical persistence of songs and his perspective as an enthusiastic non-musician.
 - [Encore: Hallelujah](sources/encore-hallelujah-encore-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, institutional survival, and chance.
 - [Encore: The King of Tears](sources/encore-the-king-of-tears-encore-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, narrative specificity, musical community, and memorial performance to country music's emotional force.
 - [Encore: Analysis, Parapraxis, Elvis](sources/encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
