@@ -964,8 +964,8 @@
       "earliest_episode_date": "2020-06-02",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 80,
-      "topic_matched_source_note_count": 28,
+      "source_note_count": 81,
+      "topic_matched_source_note_count": 29,
       "topics": [
         {
           "key": "politics",
@@ -983,7 +983,7 @@
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "technology",
@@ -1043,9 +1043,9 @@
           "episode_count": 3
         },
         {
-          "key": "JoelZivot",
-          "title": "Joel Zivot",
-          "url": "/wiki/entities/joelzivot/",
+          "key": "JesseOwens",
+          "title": "Jesse Owens",
+          "url": "/wiki/entities/jesseowens/",
           "kind": "person",
           "episode_count": 3
         }

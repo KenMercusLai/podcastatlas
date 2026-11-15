@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14363
+wiki_total_pages: 14366
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "KaiAirwallex"
     title: "Kai (Airwallex)"
     url: "/wiki/entities/kaiairwallex/"
+  - key: "KaiLong"
+    title: "Kai Long"
+    url: "/wiki/entities/kailong/"
   - key: "KaiTakAirport"
     title: "Kai Tak Airport / 启德机场"
     url: "/wiki/entities/kaitakairport/"

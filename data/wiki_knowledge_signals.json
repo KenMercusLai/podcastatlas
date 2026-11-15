@@ -39902,6 +39902,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/bucephalus/"
     },
+    "BudGreenspan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up [Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up].md",
+          "key": "hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
+          "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/budgreenspan/"
+    },
     "BuddhistSpeechRestraint": {
       "episode_count": 2,
       "show_count": 1,
@@ -123979,6 +124002,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/gerhardschroder/"
     },
+    "GerlindeRohr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up [Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up].md",
+          "key": "hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
+          "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/gerlinderohr/"
+    },
     "GermTheoryTerrainTheoryConflict": {
       "episode_count": 1,
       "show_count": 1,
@@ -164478,9 +164517,9 @@
       "url": "/wiki/entities/jerusalemhymn/"
     },
     "JesseOwens": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -164502,6 +164541,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
           "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up [Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up].md",
+          "key": "hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
+          "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
         }
       ],
       "updated": "2026-11-16",
@@ -171890,6 +171936,29 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/entities/kagoshima/"
+    },
+    "KaiLong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up [Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up].md",
+          "key": "hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
+          "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/kailong/"
     },
     "KaiTakAirport": {
       "episode_count": 1,
@@ -197232,9 +197301,9 @@
       "url": "/wiki/entities/luton/"
     },
     "LutzLong": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
@@ -197242,6 +197311,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
           "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up [Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up].md",
+          "key": "hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
+          "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
         }
       ],
       "updated": "2026-11-16",
@@ -290692,9 +290768,9 @@
       "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
     },
     "SportsReconciliationMythmaking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
@@ -290702,6 +290778,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
           "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up [Hitler_s_Olympics,_Part_6_The_Jiggle_the_Giddy_Up].md",
+          "key": "hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
+          "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
         }
       ],
       "updated": "2026-11-16",

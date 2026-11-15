@@ -40528,3 +40528,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up
+
+Added the [[RevisionistHistory]] episode testing the claim that [[LutzLong]] rescued [[JesseOwens]] during long-jump qualification and sustained a friendship through private meetings and wartime letters. Created [[BudGreenspan]], [[GerlindeRohr]], and [[KaiLong]], then resynthesized Owens, Long, and [[SportsReconciliationMythmaking]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: photographs and the competition record support genuine cordiality and sportsmanship, but Long's contemporary article, his lodging outside the Olympic Village, Hitler's absence from qualification, missing correspondence, family chronology, and wartime geography weigh strongly against the rescue, nightly conversations, and letter story. Owens originated the enlarged account; Greenspan appears to have believed and amplified it, while Kai later questioned it. The episode therefore sharpens Part 7's distinction between factual support and a story's emotional and political utility. No further settled contradiction is adopted. Brief undocumented contact cannot be excluded absolutely, and the photograph-commissioning claim remains inferential because the supplied file is a structured summary rather than the underlying archive, documentary, interviews, or full press corpus. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,047 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

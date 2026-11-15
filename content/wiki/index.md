@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up](sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up.md) — Revisionist History tests the Owens–Long rescue and friendship legend against contemporary reports, family records, chronology, photographs, and documentary history.
 - [Hitler’s Olympics, Part 7: Long Jump, Tall Tale](sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale.md) — Revisionist History examines the disputed Jesse Owens–Lutz Long story through racial representation, athlete economics, Cold War diplomacy, and the politics of reconciliation.
 - [Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville](sources/hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville.md) — Revisionist History traces Heinrich Krieger's study of U.S. racial law, Nazi legal borrowing, Jim Crow discretion, and the two-way racial encounter around Berlin 1936.
 - [Hitler’s Olympics, Part 9: A Plague on Both Your Houses](sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses.md) — Revisionist History compares Jim Crow-era Los Angeles 1932 with Nazi Berlin 1936 through Scottsboro, boycott ethics, commercial spectacle, institutional continuity, and athletic value.
@@ -5170,6 +5171,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [Bud Greenspan](entities/BudGreenspan.md) — Olympic filmmaker whose documentary gave the disputed Owens–Long story durable visual authority.
+- [Gerlinde Rohr](entities/GerlindeRohr.md) — Leipzig sports historian whose archival and family research narrows the Owens–Long relationship to documented competition and cordiality.
+- [Kai Long](entities/KaiLong.md) — Lutz Long's son, who first received the friendship story from Owens and later questioned its unsupported correspondence claims.
 - [Lutz Long](entities/LutzLong.md) — German long jumper whose documented sportsmanship became an enlarged postwar reconciliation legend.
 - [Harlem Globetrotters](entities/HarlemGlobetrotters.md) — Black basketball entertainment team used in U.S. Cold War cultural diplomacy amid unresolved racial stereotype.
 - [Heinrich Krieger](entities/HeinrichKrieger.md) — Nazi legal researcher who systematized American racial law for German policy deliberation.
