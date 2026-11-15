@@ -39713,3 +39713,13 @@ Core synthesis: Dinkins's “gorgeous mosaic” and week-long borough visit made
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Revenge of A Good Walk Spoiled
+
+Added the [[RevisionistHistory]] follow-up in which [[MalcolmGladwell]] revisits Los Angeles private golf courses as a land-use, property-tax, institutional-identity, and public-access problem. Created bounded profiles for [[AdrinNazarian]] and [[LosAngelesCountryClub]]; added [[SubsidizedPrivateLandReciprocity]], [[GradualOwnershipChange]], and [[JournalismToPolicyLatency]]; and resynthesized Gladwell and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: golf-course valuation rules and Proposition 13 can turn transaction-level ownership continuity into a durable public advantage despite cumulative member turnover; public support for private exclusion creates a reciprocity question that can be answered through taxation, land, scheduled access, or adjacent-space improvement rather than only abolition or the status quo; and the documented staff-to-council-member route shows delayed agenda influence without proving enactment or durable policy impact. No settled factual contradiction was adopted. Land values, acreage, tax payments, polling, executive-performance findings, legal interpretations, club communications, and policy effects remain episode-scoped because the supplied file is a structured summary rather than assessor records, legislation, polling tables, research papers, club records, or a transcript. The automatic `wiki/overview.md` was read for context and was not manually rewritten. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,969 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

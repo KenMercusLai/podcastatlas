@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Revenge of A Good Walk Spoiled](sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled.md) — Revisionist History revisits Los Angeles golf-course tax privileges and follows the argument into a parcel-tax proposal, public-access bargaining, and delayed policy influence.
 - [The Staten Island Problem - Part 1: The Mayor vs. the Borough President](sources/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t.md) — Revisionist History contrasts Dinkins's pluralist defense of citywide unity with Molinari's policing, landfill, and forgotten-borough grievance politics.
 - [The Staten Island Problem - Part 2: A New Map](sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map.md) — Revisionist History connects the Board of Estimate ruling, Fresh Kills, grassroots organizing, post-bridge change, and symbolic invisibility to Staten Island's secession campaign.
 - [The Staten Island Problem - Part 3: The Tuvalu Effect](sources/the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect.md) — Revisionist History contrasts Staten Island's fiscal dependence with the Tuvalu effect, local trust, tolls, imposed burdens, racial division, and secession leverage.
@@ -5092,6 +5093,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 
 ## Entities
+- [Adrin Nazarian](entities/AdrinNazarian.md) — Los Angeles council member who turns a podcast argument about golf-course tax advantages into a parcel-tax proposal and access negotiation.
+- [Los Angeles Country Club](entities/LosAngelesCountryClub.md) — Private golf club central to a dispute over valuable urban land, assessment continuity, tax preference, and reciprocal public benefit.
 - [Dan Singletary](entities/DanSingletary.md) — Artist and organizer who converted Staten Island quality-of-life grievances into a secession party and petition campaign.
 - [Bobby Scamardella](entities/BobbyScamardella.md) — Attorney and secession advocate who joined local control to memories of a lost pre-bridge landscape.
 - [John Marchi](entities/JohnMarchi.md) — Staten Island legislator who designed the two-stage route from charter study to the 1993 secession vote.
@@ -19351,6 +19354,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
 
 ## Concepts
+- [Subsidized Private Land Reciprocity](concepts/SubsidizedPrivateLandReciprocity.md) — Principle that exceptional public advantages for private land can justify proportionate, enforceable public benefit or access.
+- [Gradual Ownership Change](concepts/GradualOwnershipChange.md) — Problem of cumulative ownership replacement that never crosses a reassessment threshold in one transaction.
+- [Journalism-to-Policy Latency](concepts/JournalismToPolicyLatency.md) — Delay and intermediary chain between a published argument and its conversion into policy agenda, bargaining, or action.
 - [Logo Map](concepts/LogoMap.md) — Simplified mental geography that makes some places central while rendering others absent, displaced, or peripheral.
 - [Tuvalu Effect](concepts/TuvaluEffect.md) — Centrifugal tendency of islands in an archipelago to seek separation when hierarchy, burdens, costly mobility, and local identity weaken political belonging.
 - [Peripheral Creative Isolation](concepts/PeripheralCreativeIsolation.md) — Qualified mechanism by which distance from a dominant scene can support distinctive cultural recombination.

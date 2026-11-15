@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3654
+topic_total_pages: 3655
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1984,6 +1984,9 @@ topic_concepts:
   - key: "JinYongPoliticalReading"
     title: "Jin Yong Political Reading"
     url: "/wiki/concepts/jinyongpoliticalreading/"
+  - key: "JournalismToPolicyLatency"
+    title: "Journalism-to-Policy Latency"
+    url: "/wiki/concepts/journalismtopolicylatency/"
   - key: "JournalisticAuthorityErosion"
     title: "Journalistic Authority Erosion / 记者权威感消失"
     url: "/wiki/concepts/journalisticauthorityerosion/"

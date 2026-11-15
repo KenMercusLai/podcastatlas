@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11268
+wiki_total_pages: 11271
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "JollofIndex"
     title: "Jollof Index"
     url: "/wiki/concepts/jollofindex/"
+  - key: "JournalismToPolicyLatency"
+    title: "Journalism-to-Policy Latency"
+    url: "/wiki/concepts/journalismtopolicylatency/"
   - key: "JournalisticAuthorityErosion"
     title: "Journalistic Authority Erosion / 记者权威感消失"
     url: "/wiki/concepts/journalisticauthorityerosion/"

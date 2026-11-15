@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11268
+wiki_total_pages: 11271
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "GradPLUSLoans"
     title: "Grad PLUS Loans"
     url: "/wiki/concepts/gradplusloans/"
+  - key: "GradualOwnershipChange"
+    title: "Gradual Ownership Change"
+    url: "/wiki/concepts/gradualownershipchange/"
   - key: "GradualParentChildRelationship"
     title: "Gradual Parent-Child Relationship / 渐进式亲子关系"
     url: "/wiki/concepts/gradualparentchildrelationship/"

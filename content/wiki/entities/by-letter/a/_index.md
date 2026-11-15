@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14166
+wiki_total_pages: 14168
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "AdrienneWeiss"
     title: "Adrienne Weiss"
     url: "/wiki/entities/adrienneweiss/"
+  - key: "AdrinNazarian"
+    title: "Adrin Nazarian"
+    url: "/wiki/entities/adrinnazarian/"
   - key: "AdvancedLocalExpressDesk"
     title: "Advanced Local Express Desk"
     url: "/wiki/entities/advancedlocalexpressdesk/"

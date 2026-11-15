@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3520
+topic_total_pages: 3522
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2005,6 +2005,9 @@ topic_concepts:
   - key: "GPSEnabledRepossession"
     title: "GPS-Enabled Repossession"
     url: "/wiki/concepts/gpsenabledrepossession/"
+  - key: "GradualOwnershipChange"
+    title: "Gradual Ownership Change"
+    url: "/wiki/concepts/gradualownershipchange/"
   - key: "GRASSelfCertification"
     title: "GRAS Self-Certification"
     url: "/wiki/concepts/grasselfcertification/"
@@ -2476,6 +2479,9 @@ topic_concepts:
   - key: "JointCustodyReform"
     title: "Joint Custody Reform"
     url: "/wiki/concepts/jointcustodyreform/"
+  - key: "JournalismToPolicyLatency"
+    title: "Journalism-to-Policy Latency"
+    url: "/wiki/concepts/journalismtopolicylatency/"
   - key: "JournalisticIndependenceAgainstFaction"
     title: "Journalistic Independence Against Faction / 拒绝站队的新闻独立"
     url: "/wiki/concepts/journalisticindependenceagainstfaction/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14166
+wiki_total_pages: 14168
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "LosAngeles"
     title: "Los Angeles"
     url: "/wiki/entities/losangeles/"
+  - key: "LosAngelesCountryClub"
+    title: "Los Angeles Country Club"
+    url: "/wiki/entities/losangelescountryclub/"
   - key: "LosAngelesDepartmentOfWaterAndPower"
     title: "Los Angeles Department of Water and Power"
     url: "/wiki/entities/losangelesdepartmentofwaterandpower/"

@@ -44217,6 +44217,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GradualOwnershipChange": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GradualParentChildRelationship": [
     {
       "key": "science",
@@ -54647,6 +54654,18 @@
     }
   ],
   "JournalOfATourToTheHebrides": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "JournalismToPolicyLatency": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",

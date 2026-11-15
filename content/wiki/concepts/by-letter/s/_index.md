@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11268
+wiki_total_pages: 11271
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2558,6 +2558,9 @@ wiki_pages:
   - key: "SubsidizedAssemblyIndustrialization"
     title: "Subsidized Assembly Industrialization"
     url: "/wiki/concepts/subsidizedassemblyindustrialization/"
+  - key: "SubsidizedPrivateLandReciprocity"
+    title: "Subsidized Private Land Reciprocity"
+    url: "/wiki/concepts/subsidizedprivatelandreciprocity/"
   - key: "SubstanceAndExtension"
     title: "Substance And Extension"
     url: "/wiki/concepts/substanceandextension/"
