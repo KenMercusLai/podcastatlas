@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11400
+wiki_total_pages: 11402
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "MinneapolisFederalLocalImmigrationConflict"
     title: "Minneapolis Federal-Local Immigration Conflict"
     url: "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
+  - key: "MinorityAthleteRepresentativeBurden"
+    title: "Minority Athlete Representative Burden"
+    url: "/wiki/concepts/minorityathleterepresentativeburden/"
   - key: "MinorityRefugeSettlerColonialParadox"
     title: "Minority-Refuge Settler-Colonial Paradox"
     url: "/wiki/concepts/minorityrefugesettlercolonialparadox/"

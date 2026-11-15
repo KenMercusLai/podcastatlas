@@ -6,7 +6,8 @@ sources:
   - 80-modern-olympics-part-1-glt3795252606
   - 81-modern-olympics-part-2-glt4846758176
   - 79-ancient-olympics-glt9627584488
-last_updated: 2026-10-03
+  - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Olympic amateurism is a modern eligibility ideal that separated supposedly disin
 
 [[81-modern-olympics-part-2-glt4846758176]] shows the category under later geopolitical pressure. Soviet and Eastern Bloc athletes could train full-time within military, educational, or state institutions while remaining officially outside conventional professionalism. That arrangement exposed the core classification problem: formal nonpayment did not equal equal access, equal preparation, or absence of institutional sponsorship. Amateurism became both a rule and a political language through which incompatible sporting systems contested legitimacy.
 
+[[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale|Hitler’s Olympics, Part 7]] makes the athlete-level economic consequence concrete. Sporting organizations extended a post-Berlin European tour that earned money while paying competitors nothing. When [[JesseOwens]] left for professional opportunities because he was broke, [[AveryBrundage]]'s regime excluded him from amateur sport. The rule therefore did not keep money out of Olympic celebrity; it allocated who could capture that value and pushed a Black champion toward entertainment, exhibition, and repeated monetization of a short athletic peak.
+
 ## Key Claims
 
 - Amateur status was historically a social and class category, not merely an absence of prize money.
@@ -32,6 +35,7 @@ Olympic amateurism is a modern eligibility ideal that separated supposedly disin
 - Athletes with private means or institutional support could satisfy formal amateur rules more easily than wage-dependent competitors.
 - State-supported full-time training exposed the difference between nominal status and material preparation.
 - Amateurism disputes became proxy arguments about fairness, political systems, and legitimate support.
+- Unpaid athlete status could coexist with organizational revenue and punitive control over athletes seeking direct compensation.
 
 ## Evidence
 
@@ -40,15 +44,16 @@ Olympic amateurism is a modern eligibility ideal that separated supposedly disin
 - Existing professionalism: [[80-modern-olympics-part-1-glt3795252606]] notes professional cricket, football, and rugby league alongside early Olympic amateur rhetoric.
 - State-supported challenge: [[81-modern-olympics-part-2-glt4846758176]] describes full-time Eastern Bloc athletes housed within state institutions while classified as amateurs.
 - Geopolitical consequence: [[81-modern-olympics-part-2-glt4846758176]] links the eligibility tension to medal rivalry and claims about political-system superiority.
+- Athlete consequence: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] links an unpaid organizational tour, Owens's financial insecurity, professional offers, and lifetime exclusion from amateur sport.
 
 ## Counterevidence & Qualifications
 
-The three sources give a broad interpretive arc rather than a rule-by-rule legal history. The ancient comparison does not establish identical material conditions for every competitor or reduce all motivation to reward, and the modern sources do not establish how amateur definitions varied by sport, country, gender, period, or governing body. They do not imply that every privately supported, military, university, or state-affiliated athlete had identical material conditions.
+The four sources give a broad interpretive arc rather than a rule-by-rule legal or financial history. The ancient comparison does not establish identical material conditions for every competitor or reduce all motivation to reward, and the modern sources do not establish how definitions varied by sport, country, race, gender, period, or governing body. Owens's case makes exploitation and unequal bargaining power visible but does not by itself establish the treatment of every athlete or the precise authority behind every sanction.
 
 ## What Changed
 
-- Created a synthesis connecting the early class-coded ideal to the later state-supported-athlete classification problem.
-- Distinguished modern amateurism from ancient winner-centered competition and its material reward structure.
+- Added the gap between organization-generated revenue and athletes' prohibited pursuit of direct compensation.
+- Connected amateur exclusion to Owens's racialized financial insecurity and post-Olympic entertainment work.
 
 ## Related Concepts
 
@@ -57,3 +62,4 @@ The three sources give a broad interpretive arc rather than a rule-by-rule legal
 - [[OlympicColdWarRivalry]] - geopolitical conflict that exposed amateurism's unstable treatment of state support.
 - [[InternationalOlympicCommittee]] - governing institution responsible for applying and defending eligibility rules.
 - [[SportsPoliticalInterference]] - adjacent problem where political power affects nominally independent sport.
+- [[MinorityAthleteRepresentativeBurden]] - framework showing how unequal economic and symbolic demands can reinforce one another.

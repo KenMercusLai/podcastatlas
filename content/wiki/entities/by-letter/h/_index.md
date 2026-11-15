@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14361
+wiki_total_pages: 14363
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "HarlandAndWolff"
     title: "Harland & Wolff"
     url: "/wiki/entities/harlandandwolff/"
+  - key: "HarlemGlobetrotters"
+    title: "Harlem Globetrotters"
+    url: "/wiki/entities/harlemglobetrotters/"
   - key: "HaroldBloom"
     title: "Harold Bloom / 哈罗德·布鲁姆"
     url: "/wiki/entities/haroldbloom/"

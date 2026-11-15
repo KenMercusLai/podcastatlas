@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14361
+wiki_total_pages: 14363
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "Luton"
     title: "Luton"
     url: "/wiki/entities/luton/"
+  - key: "LutzLong"
+    title: "Lutz Long"
+    url: "/wiki/entities/lutzlong/"
   - key: "Luxeed"
     title: "Luxeed / 智界"
     url: "/wiki/entities/luxeed/"

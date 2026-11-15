@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 7: Long Jump, Tall Tale](sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale.md) — Revisionist History examines the disputed Jesse Owens–Lutz Long story through racial representation, athlete economics, Cold War diplomacy, and the politics of reconciliation.
 - [Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville](sources/hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville.md) — Revisionist History traces Heinrich Krieger's study of U.S. racial law, Nazi legal borrowing, Jim Crow discretion, and the two-way racial encounter around Berlin 1936.
 - [Hitler’s Olympics, Part 9: A Plague on Both Your Houses](sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses.md) — Revisionist History compares Jim Crow-era Los Angeles 1932 with Nazi Berlin 1936 through Scottsboro, boycott ethics, commercial spectacle, institutional continuity, and athletic value.
 - [The Tipping Point Revisited: An Excerpt](sources/the-tipping-point-revisited-an-excerpt.md) — Revisionist History excerpt connecting Los Angeles bank-robbery organization, medical-practice geography, and Waldorf vaccination clusters to bounded social contagion and small-area variation.
@@ -5169,6 +5170,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [Lutz Long](entities/LutzLong.md) — German long jumper whose documented sportsmanship became an enlarged postwar reconciliation legend.
+- [Harlem Globetrotters](entities/HarlemGlobetrotters.md) — Black basketball entertainment team used in U.S. Cold War cultural diplomacy amid unresolved racial stereotype.
 - [Heinrich Krieger](entities/HeinrichKrieger.md) — Nazi legal researcher who systematized American racial law for German policy deliberation.
 - [Lisa Lindquist Dorr](entities/LisaLindquistDorr.md) — Historian whose Virginia case research illuminates Jim Crow's variable enforcement.
 - [Jonathan Wiesen](entities/JonathanWiesen.md) — Historian interpreting Krieger's admiration for American racial ordering and criticism of its disorder.
@@ -19624,6 +19627,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Sports Reconciliation Mythmaking](concepts/SportsReconciliationMythmaking.md) — Process by which a real athletic encounter becomes a politically useful story of personal goodwill that can obscure factual uncertainty and structural inequality.
+- [Minority Athlete Representative Burden](concepts/MinorityAthleteRepresentativeBurden.md) — Unequal demand that a visible athlete represent a group, political system, institution, and acceptable strategy for change.
 - [Transnational Racial-Law Borrowing](concepts/TransnationalRacialLawBorrowing.md) — Selective adaptation of foreign discriminatory laws, classifications, practices, and legitimacy strategies.
 - [Discretionary Racial Domination](concepts/DiscretionaryRacialDomination.md) — Hierarchical control sustained through variable enforcement, exceptions, informal judgment, and selective leniency.
 - [Sports Boycott Ethics](concepts/SportsBoycottEthics.md) — Conditional framework for withheld legitimacy, protest reach, systemic action, athlete cost, and institutional continuity.

@@ -40212,7 +40212,6 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-11-16] ingest | Did I Really Do That?
 
 Added the [[HiddenBrain]] episode in which [[SaulKassin]] explains voluntary, compliant, and internalized false confessions, the situational pressures that can produce them, and the unusual power of confession evidence over jurors and investigators. Established [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]], updated Hidden Brain from its complete four-source inventory, and migrated [[StanleyMilgram]] from its complete two-source inventory to the synthesis-first contract while adding the qualified interrogation-pressure comparison.
@@ -40513,6 +40512,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Hitler’s Olympics, Part 7: Long Jump, Tall Tale
+
+Added the [[RevisionistHistory]] episode disputing the familiar claim that [[LutzLong]] rescued [[JesseOwens]] during long-jump qualification at Berlin 1936. Created Lutz Long, the [[HarlemGlobetrotters]], [[SportsReconciliationMythmaking]], and [[MinorityAthleteRepresentativeBurden]], then resynthesized Owens, [[AveryBrundage]], the [[ModernOlympicGames]], and [[OlympicAmateurism]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: a real rivalry and public congratulations became a portable story of German-American and interracial reconciliation through Owens's 1951 Berlin return, speeches, documentary, books, and purported correspondence. The tale also served a Black celebrity facing segregated opportunity, financial insecurity, white patronage, Cold War image-making, and a younger generation's athlete protest. No settled contradiction is adopted beyond the source's direct challenge to the qualifying-rescue story; Long's public congratulations and possible mutual respect remain compatible with that correction. Dialogue, motives, private admissions, correspondence, audience response, and the full chronology remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, contemporary press corpus, or full biography. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,046 sources across 810 overview paragraphs and nine topics.
 
 ## [2026-11-16] lint | Wiki health check
 

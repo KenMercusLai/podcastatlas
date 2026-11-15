@@ -27553,9 +27553,9 @@
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "AveryBrundage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -27570,6 +27570,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
           "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
         }
       ],
       "updated": "2026-11-16",
@@ -136080,6 +136087,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/harlandandwolff/"
     },
+    "HarlemGlobetrotters": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/harlemglobetrotters/"
+    },
     "HaroldDavidson": {
       "episode_count": 1,
       "show_count": 1,
@@ -164455,9 +164478,9 @@
       "url": "/wiki/entities/jerusalemhymn/"
     },
     "JesseOwens": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -164472,6 +164495,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville",
           "url": "/wiki/sources/hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
         }
       ],
       "updated": "2026-11-16",
@@ -197201,6 +197231,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/luton/"
     },
+    "LutzLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/lutzlong/"
+    },
     "Luxeed": {
       "episode_count": 2,
       "show_count": 2,
@@ -212627,6 +212673,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/minoancivilization/"
     },
+    "MinorityAthleteRepresentativeBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/minorityathleterepresentativeburden/"
+    },
     "MinorityRefugeSettlerColonialParadox": {
       "episode_count": 1,
       "show_count": 1,
@@ -214293,9 +214355,9 @@
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -214324,6 +214386,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
           "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
         }
       ],
       "updated": "2026-11-16",
@@ -228818,9 +228887,9 @@
       "url": "/wiki/entities/olympias/"
     },
     "OlympicAmateurism": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -228842,9 +228911,16 @@
           "show": "The Rest Is History",
           "title": "79. Ancient Olympics",
           "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/olympicamateurism/"
     },
     "OlympicColdWarRivalry": {
@@ -290614,6 +290690,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
+    },
+    "SportsReconciliationMythmaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
+          "key": "hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
+          "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sportsreconciliationmythmaking/"
     },
     "SportsbookParlayMargin": {
       "episode_count": 1,
