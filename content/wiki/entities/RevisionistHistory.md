@@ -13,6 +13,7 @@ sources:
   - revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled
   - frankenfood-the-mistakes-series-frankenfood-the-mistakes-series
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
+  - introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -43,6 +44,8 @@ Consumer technology and sensory reporting add another application of the show's 
 
 [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment|Ms. Buchanan's Period of Adjustment]] applies the show's revisionist method to a canonical civil-rights victory. It contrasts the Brown family's demand for equal choice with the Court's psychological framing, then uses research, testimony, personnel cases, and [[DarlaBuchanan]]'s letter to show how integrated enrollment could coexist with the displacement of Black professional authority.
 
+A distribution and curation role appears in [[introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio|Introducing The News from Scene on Radio]]. Rather than presenting a Gladwell-led investigation, the feed introduces an eight-part [[SeenOnRadio]] season that joins Border Belt field reporting to [[DannagalYoung]]'s research on news consumers, political identity, framing, and polarization.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
@@ -51,7 +54,7 @@ Consumer technology and sensory reporting add another application of the show's 
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
-- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, and implementation history to connect public memory with institutional power.
+- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, implementation history, and curated outside series to connect public memory with institutional power.
 
 ## Evidence
 
@@ -92,14 +95,18 @@ Consumer technology and sensory reporting add another application of the show's 
 
 - [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment]] reframes [[BrownVBoardOfEducation|Brown]] through family choice, teacher gatekeeping, educator dismissal, and the unequal distribution of integration costs.
 
+### Curated media-system investigation
+
+- [[introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio]] uses the Revisionist History feed to introduce [[SeenOnRadio]]'s season on news deserts, media trust, consumer psychology, partisan framing, and democracy.
+
 ## Qualifications
 
-Only ten episodes currently inform this page, so they do not establish the full range of the show. The health episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped.
+Only eleven sources currently inform this page, so they do not establish the full range of the show. The health episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program and supplies a structured summary rather than all eight episodes or the cited research.
 
 ## What Changed
 
-- Added a civil-rights implementation case that distinguishes legal access from institutional authority.
-- Extended the show's revisionist method to the professional and educational costs hidden by a triumphal public memory.
+- Added the feed's role as a curator and distributor of an outside journalism series.
+- Extended the profile from Gladwell-led narrative revisionism to a field-and-research investigation of news consumers and media systems.
 
 ## Relationships
 
@@ -129,3 +136,5 @@ Only ten episodes currently inform this page, so they do not establish the full 
 - [[BrownVBoardOfEducation]] - canonical decision revisited through family agency and implementation costs.
 - [[TeacherRepresentationStudentOpportunity]] - gatekeeping mechanism connecting educator authority to recognition and access.
 - [[DesegregationEducatorDisplacement]] - pattern through which Black teachers bore unequal costs of integration.
+- [[SeenOnRadio]] - outside series introduced through the feed.
+- [[NewsConsumerNeeds]] - consumer-side framework developed in the introduced season opener.

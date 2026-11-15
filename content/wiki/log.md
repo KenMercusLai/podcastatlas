@@ -39773,3 +39773,13 @@ Core synthesis: ending legally enforced school segregation was necessary but did
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Introducing The News from Scene on Radio
+
+Added the [[RevisionistHistory]] feed introduction to an eight-part [[SeenOnRadio|Scene on Radio / Seen on Radio]] season about local-news collapse, media trust, political identity, partisan framing, and democracy. Created bounded profiles for [[ChenjeraiKumanyika]], [[DannagalYoung]], [[EthanJordan]], [[NewsBreak]], and the series; added [[NewsConsumerNeeds]], [[NewsDesertMediaSubstitution]], [[PartisanFramingAcrossExposure]], and [[MediaGoldenAgeExclusion]]; and resynthesized [[RevisionistHistory]], [[AffectivePolarization]], [[InformationCocoon]], [[HostileMediaEffect]], and [[LocalJournalism]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: news deserts change the source mix rather than ending news consumption; comprehension, control, and community help explain why accuracy interacts with identity and personal trust; and broad exposure to opponents can coexist with polarization when shared material is selected and framed as moral outrage. The episode rejects both sealed-echo-chamber simplification and nostalgia for a concentrated media consensus that excluded many perspectives, while retaining journalism as necessary civic infrastructure. No settled factual contradiction was adopted. The title's “Scene on Radio” and body text's “Seen on Radio” mismatch is preserved as source-level naming uncertainty. Poll figures, research findings, political examples, and consumer accounts remain episode-scoped because the supplied file is a structured summary rather than the transcript, studies, poll tables, or underlying reporting. The automatic `wiki/overview.md` was read for context and was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,975 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

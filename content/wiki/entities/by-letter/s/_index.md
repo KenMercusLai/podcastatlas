@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14176
+wiki_total_pages: 14181
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "ScarletSunrise"
     title: "Scarlet Sunrise"
     url: "/wiki/entities/scarletsunrise/"
+  - key: "SeenOnRadio"
+    title: "Scene on Radio / Seen on Radio"
+    url: "/wiki/entities/seenonradio/"
   - key: "SchengenArea"
     title: "Schengen Area / 申根区"
     url: "/wiki/entities/schengenarea/"

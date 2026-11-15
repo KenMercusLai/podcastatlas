@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11275
+wiki_total_pages: 11279
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "MediaFormConstraint"
     title: "Media Form Constraint"
     url: "/wiki/concepts/mediaformconstraint/"
+  - key: "MediaGoldenAgeExclusion"
+    title: "Media Golden-Age Exclusion"
+    url: "/wiki/concepts/mediagoldenageexclusion/"
   - key: "MediaInternetConvergence"
     title: "Media Internet Convergence"
     url: "/wiki/concepts/mediainternetconvergence/"

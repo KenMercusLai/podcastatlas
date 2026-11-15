@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11275
+wiki_total_pages: 11279
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -359,9 +359,15 @@ wiki_pages:
   - key: "NewsAsTradingPosition"
     title: "News As Trading Position"
     url: "/wiki/concepts/newsastradingposition/"
+  - key: "NewsConsumerNeeds"
+    title: "News Consumer Needs"
+    url: "/wiki/concepts/newsconsumerneeds/"
   - key: "NewsFindsMe"
     title: "News Finds Me / 新闻找到我"
     url: "/wiki/concepts/newsfindsme/"
+  - key: "NewsDesertMediaSubstitution"
+    title: "News-Desert Media Substitution"
+    url: "/wiki/concepts/newsdesertmediasubstitution/"
   - key: "NewsroomAIAdoption"
     title: "Newsroom AI Adoption"
     url: "/wiki/concepts/newsroomaiadoption/"

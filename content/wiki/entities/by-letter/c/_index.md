@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14176
+wiki_total_pages: 14181
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "ChengmaiTechnology"
     title: "Chengmai Technology"
     url: "/wiki/entities/chengmaitechnology/"
+  - key: "ChenjeraiKumanyika"
+    title: "Chenjerai Kumanyika"
+    url: "/wiki/entities/chenjeraikumanyika/"
   - key: "ChernobylNuclearPowerPlant"
     title: "Chernobyl Nuclear Power Plant"
     url: "/wiki/entities/chernobylnuclearpowerplant/"

@@ -10685,9 +10685,9 @@
       "url": "/wiki/entities/aethelredtheunready/"
     },
     "AffectivePolarization": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
@@ -10702,9 +10702,16 @@
           "show": "Huberman Lab",
           "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
           "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        },
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/affectivepolarization/"
     },
     "AffirmativeConsentInSexualOffenceLaw": {
@@ -50380,6 +50387,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/chengyangcommandery/"
     },
+    "ChenjeraiKumanyika": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/chenjeraikumanyika/"
+    },
     "Chenliu": {
       "episode_count": 6,
       "show_count": 1,
@@ -71074,6 +71097,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/danishconquestofengland/"
+    },
+    "DannagalYoung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/dannagalyoung/"
     },
     "DannyMeyer": {
       "episode_count": 1,
@@ -97533,6 +97572,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/estrobolomeestrogenrecirculation/"
+    },
+    "EthanJordan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/ethanjordan/"
     },
     "EthanKross": {
       "episode_count": 1,
@@ -141862,6 +141917,29 @@
       "updated": "2026-10-21",
       "url": "/wiki/concepts/hostelpropertyadaptivereuse/"
     },
+    "HostileMediaEffect": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/hostilemediaeffect/"
+    },
     "HotelAssetLightFranchiseModel": {
       "episode_count": 2,
       "show_count": 2,
@@ -152404,9 +152482,9 @@
       "url": "/wiki/concepts/informationasymmetricpacification/"
     },
     "InformationCocoon": {
-      "episode_count": 8,
-      "show_count": 3,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 4,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -152463,9 +152541,16 @@
           "show": "无时差研究所",
           "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
           "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        },
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/informationcocoon/"
     },
     "InformationOverloadKnowledgeTrap": {
@@ -187467,6 +187552,36 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/localhyperthermiaadiposebrowning/"
     },
+    "LocalJournalism": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260311_0311_MP_TECH_pod_128 [tech_20260311_0311_MP_TECH_pod_128].md",
+          "key": "tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "An Ohio newspaper gives AI a byline",
+          "url": "/wiki/sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e9d3e667dcb716080dc7d103a2b6fb5b_2422244 [default.mp3_ywr3ahjkcgo_e9d3e667dcb716080dc7d103a2b6fb5b_2422244].md",
+          "key": "congress-has-voted-to-eliminate-government-funding-for-public-media",
+          "show": "Planet Money",
+          "title": "Congress has voted to eliminate government funding for public media",
+          "url": "/wiki/sources/congress-has-voted-to-eliminate-government-funding-for-public-media/"
+        },
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/localjournalism/"
+    },
     "LocalMuscularEnduranceBenchmarks": {
       "episode_count": 1,
       "show_count": 1,
@@ -201619,6 +201734,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/mediaevidencefeedbackloop/"
+    },
+    "MediaGoldenAgeExclusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/mediagoldenageexclusion/"
     },
     "MediaMythToMovementRitual": {
       "episode_count": 1,
@@ -218121,6 +218252,54 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/newsastradingposition/"
     },
+    "NewsBreak": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/newsbreak/"
+    },
+    "NewsConsumerNeeds": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/newsconsumerneeds/"
+    },
+    "NewsDesertMediaSubstitution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/newsdesertmediasubstitution/"
+    },
     "NewsroomAIAdoption": {
       "episode_count": 2,
       "show_count": 1,
@@ -230479,6 +230658,22 @@
       ],
       "updated": "2026-10-14",
       "url": "/wiki/concepts/participatorysinging/"
+    },
+    "PartisanFramingAcrossExposure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/partisanframingacrossexposure/"
     },
     "PartisanScandalEvidence": {
       "episode_count": 1,
@@ -258333,9 +258528,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -258406,6 +258601,13 @@
           "show": "Revisionist History",
           "title": "Revisited: Ms. Buchanan’s Period of Adjustment",
           "url": "/wiki/sources/revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment/"
+        },
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
         }
       ],
       "updated": "2026-11-15",
@@ -270199,6 +270401,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/seemasanghavi/"
+    },
+    "SeenOnRadio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_The_News_from_Scene_on_Radio [Introducing_The_News_from_Scene_on_Radio].md",
+          "key": "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio",
+          "show": "Revisionist History",
+          "title": "Introducing The News from Scene on Radio",
+          "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/seenonradio/"
     },
     "SegregationistPopulistTranslation": {
       "episode_count": 1,

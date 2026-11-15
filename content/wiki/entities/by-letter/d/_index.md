@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14176
+wiki_total_pages: 14181
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "DanjiangkouReservoir"
     title: "Danjiangkou Reservoir / 丹江口水库"
     url: "/wiki/entities/danjiangkoureservoir/"
+  - key: "DannagalYoung"
+    title: "Dannagal Young"
+    url: "/wiki/entities/dannagalyoung/"
   - key: "DannyJenkins"
     title: "Danny Jenkins"
     url: "/wiki/entities/dannyjenkins/"

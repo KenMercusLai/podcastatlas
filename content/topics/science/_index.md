@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1642
+topic_total_pages: 1643
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1639,6 +1639,9 @@ topic_concepts:
   - key: "Neuroplasticity"
     title: "Neuroplasticity / 神经可塑性"
     url: "/wiki/concepts/neuroplasticity/"
+  - key: "NewsConsumerNeeds"
+    title: "News Consumer Needs"
+    url: "/wiki/concepts/newsconsumerneeds/"
   - key: "NicotineNeurobiologyAndDependence"
     title: "Nicotine Neurobiology and Dependence"
     url: "/wiki/concepts/nicotineneurobiologyanddependence/"

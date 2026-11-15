@@ -11,22 +11,23 @@ sources:
   - chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723
   - 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318
   - ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242
+  - introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-22
+last_updated: 2026-11-15
 ---
 
 ## Definition
 信息茧房 refers to a potentially self-reinforcing information environment in which selection by people, groups or feeds narrows the range of usable counterevidence. It is not a claim that every user inhabits a sealed bubble.
 
 ## Current Synthesis
-The corpus supports several mechanisms—group identity, interest communities, creator subscriptions, platform classification, and engagement feedback—while an interview on media research challenges universal, stable algorithmic isolation. EP113 adds an early fandom case in which same-side interaction, identity defense, and recommendation are mutually reinforcing rather than reducible to an algorithm alone. Incidental news and multi-platform use make the environment leaky; exposure to difference can also sharpen hostility. The strongest account therefore asks what is selected, by whom, through which social and technical channel, and with what consequences.
+The corpus supports several mechanisms—group identity, interest communities, creator subscriptions, platform classification, and engagement feedback—while two media-research interviews challenge universal, stable isolation. EP113 adds an early fandom case in which same-side interaction, identity defense, and recommendation are mutually reinforcing rather than reducible to an algorithm alone. Incidental news, multi-platform use, and partisan display of opponents make the environment leaky; exposure to difference can still sharpen hostility when it arrives through moral-outrage framing. The strongest account therefore asks what is selected, by whom, through which social and technical channel, under what frame, and with what consequences.
 
 ## Key Claims
 - Group identity and repeated same-side claims can make contrary evidence feel threatening rather than informative.
 - Subscriptions and platform classification can narrow attention through different, non-identical channels.
 - Predictive feedback loops may reshape both users and creators, but multi-platform use can expose different filters.
 - Universal filter-bubble claims exceed the research account here; incidental exposure and entertainment redirection are distinct outcomes.
-- Opposing views do not automatically persuade and can intensify affective polarization.
+- Opposing views do not automatically persuade and can intensify affective polarization when selected or framed as hostile group evidence.
 - Deliberate input comparison and public argument for bystanders offer bounded responses, not cures for harassment, reporting pressure, or market-causality proofs.
 
 ## Evidence
@@ -35,13 +36,14 @@ The corpus supports several mechanisms—group identity, interest communities, c
 - Empirical challenge: [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] interviews [[HuangShengchun]] and separates [[FilterBubble]]/echo-chamber worries from actual exposure. [[IncidentalExposure]] and [[NewsFindsMe]] allow unplanned news; the described YouTube audit found a greater tendency from news toward entertainment than the reverse even without user behavior, a bounded [[AlgorithmicEntertainmentRedirect]] result. Hostile encounters can instead increase [[AffectivePolarization]] through [[AlgorithmicAmplification]] and reaction-oriented [[PlatformAffordance]]s.
 - Philosophy and deliberate comparison: [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] uses Plato's [[AlgorithmicCaveAllegory]], Hayek's [[AlgorithmicDispersedKnowledge]] and Arendt's [[AlgorithmicPublicAppearance]] to ask who controls ranking and whether a person appears as more than a label. This is analogy, not a platform audit. [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] describes Weng’s [[InvestmentWorldviewFit]] concern and preference for long-form books, podcasts and writing as [[FeedCuration]] and attention practices, not an experimentally tested exposure strategy.
 - Fandom and public-speech case: [[ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242]] says interest communities, shared identity, group tasks, and recommendation can jointly narrow usable disagreement. Its advice to seek competing views and keep alternatives visible resembles [[PublicArgumentForBystanders]], while harassment and [[WeaponizedReporting]] explain why exit from a cocoon can be emotionally costly.
+- Partisan exposure case: [[introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio]] says opposing politicians and ideas often appear inside partisan media but through [[PartisanFramingAcrossExposure|hostile frames]], strengthening the distinction between raw visibility and usable counterevidence.
 
 ## Counterevidence & Qualifications
-The same-show episodes 159, 164 and 167 offer theory, interview and philosophy, not independent replications. EP113 is a 2020 conversational case, not a feed audit or fandom survey; its recommendation and demographic claims remain source-scoped. The episode [[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] has [[ZhiZaoLaoYe]] discuss [[SelfSimilarityInIntimacy]] and uses “cocoon” for mutually reinforcing partners: a relationship metaphor, not evidence for recommendation mechanics; retained in the ordered inventory but excluded from media claims. [[AlgorithmicMediaLiteracy]] can help notice filtering, yet more opposing content alone can worsen antagonism. Neither creators nor subscriptions guarantee identical viewpoints.
+The same-show episodes 159, 164 and 167 offer theory, interview and philosophy, not independent replications. EP113 is a 2020 conversational case, not a feed audit or fandom survey; its recommendation and demographic claims remain source-scoped. The Seen on Radio introduction likewise summarizes research without supplying the underlying studies or a content audit. The episode [[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] has [[ZhiZaoLaoYe]] discuss [[SelfSimilarityInIntimacy]] and uses “cocoon” for mutually reinforcing partners: a relationship metaphor, not evidence for recommendation mechanics; retained in the ordered inventory but excluded from media claims. [[AlgorithmicMediaLiteracy]] can help notice filtering, yet more opposing content alone can worsen antagonism. Neither creators nor subscriptions guarantee identical viewpoints.
 
 ## What Changed
-- Put the empirical challenge to universal cocoons into the central synthesis rather than an afterthought.
-- Added fandom communities and reporting pressure while preserving the distinction among identity reinforcement, subscriptions, algorithmic loops, incidental exposure, and relationship analogy.
+- Added hostile partisan framing as a reason leaky exposure can still narrow usable disagreement.
+- Strengthened the distinction between absence of opposing content and antagonistic interpretation of visible opponents.
 
 ## Related Concepts
 - [[GroupPolarization]] - group approval can amplify positions inside selected information settings.
@@ -49,3 +51,4 @@ The same-show episodes 159, 164 and 167 offer theory, interview and philosophy, 
 - [[AlgorithmicDiversityDividend]] - multiple platforms can reveal differences between filters.
 - [[AutonomyUnderInformationFlow]] - deliberate selection protects some agency without guaranteeing persuasion.
 - [[CreatorFactCheckingResponsibility]] - creator-led audiences need evidentiary correction beyond platform ranking.
+- [[PartisanFramingAcrossExposure]] - mechanism by which visible opposition remains identity-protective rather than corrective.

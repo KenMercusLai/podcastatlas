@@ -20023,6 +20023,10 @@
     "title": "城阳郡 / Chengyang Commandery",
     "url": "/wiki/entities/chengyangcommandery/"
   },
+  "ChenjeraiKumanyika": {
+    "title": "Chenjerai Kumanyika",
+    "url": "/wiki/entities/chenjeraikumanyika/"
+  },
   "Chenliu": {
     "title": "陈留 / Chenliu",
     "url": "/wiki/entities/chenliu/"
@@ -26382,6 +26386,10 @@
   "DanjiangkouReservoir": {
     "title": "Danjiangkou Reservoir / 丹江口水库",
     "url": "/wiki/entities/danjiangkoureservoir/"
+  },
+  "DannagalYoung": {
+    "title": "Dannagal Young",
+    "url": "/wiki/entities/dannagalyoung/"
   },
   "DannyJenkins": {
     "title": "Danny Jenkins",
@@ -33078,6 +33086,10 @@
   "EstrobolomeEstrogenRecirculation": {
     "title": "Estrobolome and Estrogen Recirculation",
     "url": "/wiki/concepts/estrobolomeestrogenrecirculation/"
+  },
+  "EthanJordan": {
+    "title": "Ethan Jordan",
+    "url": "/wiki/entities/ethanjordan/"
   },
   "EthanKross": {
     "title": "Ethan Kross",
@@ -62363,6 +62375,10 @@
     "title": "Media Form Constraint",
     "url": "/wiki/concepts/mediaformconstraint/"
   },
+  "MediaGoldenAgeExclusion": {
+    "title": "Media Golden-Age Exclusion",
+    "url": "/wiki/concepts/mediagoldenageexclusion/"
+  },
   "MediaInternetConvergence": {
     "title": "Media Internet Convergence",
     "url": "/wiki/concepts/mediainternetconvergence/"
@@ -67327,9 +67343,21 @@
     "title": "News As Trading Position",
     "url": "/wiki/concepts/newsastradingposition/"
   },
+  "NewsBreak": {
+    "title": "NewsBreak",
+    "url": "/wiki/entities/newsbreak/"
+  },
+  "NewsConsumerNeeds": {
+    "title": "News Consumer Needs",
+    "url": "/wiki/concepts/newsconsumerneeds/"
+  },
   "NewsCorp": {
     "title": "News Corp",
     "url": "/wiki/entities/newscorp/"
+  },
+  "NewsDesertMediaSubstitution": {
+    "title": "News-Desert Media Substitution",
+    "url": "/wiki/concepts/newsdesertmediasubstitution/"
   },
   "NewsFindsMe": {
     "title": "News Finds Me / 新闻找到我",
@@ -70990,6 +71018,10 @@
   "ParticipatorySinging": {
     "title": "Participatory Singing",
     "url": "/wiki/concepts/participatorysinging/"
+  },
+  "PartisanFramingAcrossExposure": {
+    "title": "Partisan Framing Across Exposure",
+    "url": "/wiki/concepts/partisanframingacrossexposure/"
   },
   "PartisanScandalEvidence": {
     "title": "Partisan Scandal Evidence",
@@ -83182,6 +83214,10 @@
   "SeemaSanghavi": {
     "title": "Seema Sanghavi",
     "url": "/wiki/entities/seemasanghavi/"
+  },
+  "SeenOnRadio": {
+    "title": "Scene on Radio / Seen on Radio",
+    "url": "/wiki/entities/seenonradio/"
   },
   "SeesCandies": {
     "title": "See's Candies",
@@ -110786,6 +110822,10 @@
   "intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014": {
     "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
     "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+  },
+  "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio": {
+    "title": "Introducing The News from Scene on Radio",
+    "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
   },
   "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5": {
     "title": "Invidious position: finding Jensen Huang’s successor",

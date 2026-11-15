@@ -24162,6 +24162,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChenjeraiKumanyika": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Chenliu": [
     {
       "key": "history",
@@ -30386,6 +30393,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DannagalYoung": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DannyJenkins": [
@@ -62779,6 +62793,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "MediaGoldenAgeExclusion": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MediaInternetConvergence": [
     {
       "key": "technology",
@@ -67608,7 +67634,26 @@
       "url": "/topics/politics/"
     }
   ],
+  "NewsConsumerNeeds": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NewsCorp": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "NewsDesertMediaSubstitution": [
     {
       "key": "culture",
       "label": "Culture",
@@ -70998,6 +71043,18 @@
     }
   ],
   "ParticipatorySinging": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "PartisanFramingAcrossExposure": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -83057,6 +83114,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SeenOnRadio": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SeesCandies": [
@@ -110039,6 +110108,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "iran-protests-and-sanctions": [

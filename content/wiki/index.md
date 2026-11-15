@@ -5096,6 +5096,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
+- [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 
 ## Entities
 - [Brown v. Board of Education](entities/BrownVBoardOfEducation.md) — 1954 school-desegregation decision reassessed through family agency, teacher authority, and unequal implementation costs.
@@ -19365,6 +19366,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Parmenion](entities/Parmenion.md) — Philip-era senior general whose cautious counsel helps reveal Alexander's growing authority over the inherited command.
 - [Hephaestion](entities/Hephaestion.md) — Alexander's close companion in the uncertain Issus royal-household identification anecdote.
 - [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
+- [Scene on Radio / Seen on Radio](entities/SeenOnRadio.md) — Eight-part media-system season joining community reporting, communication research, history, and democratic analysis.
+- [Chenjerai Kumanyika](entities/ChenjeraiKumanyika.md) — Co-host who interprets partisan disagreement without caricature and defends journalism as civic infrastructure.
+- [Dannagal Young](entities/DannagalYoung.md) — Communication scholar connecting news use to comprehension, control, community, political sorting, and framing.
+- [Ethan Jordan](entities/EthanJordan.md) — North Carolina farmer whose mixed media diet illustrates local-news scarcity, aggregation, social testimony, and political identity.
+- [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
 - [Teacher Representation and Student Opportunity](concepts/TeacherRepresentationStudentOpportunity.md) — How educator identity, knowledge, expectations, and discretion shape recognition, discipline, and access.
@@ -30749,5 +30755,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Army–Commander Bond](concepts/ArmyCommanderBond.md) — Trust and personal identification accumulated through shared danger, visible attention, repeated success, and stable participation.
 - [Battlefield Cohesion and Rout](concepts/BattlefieldCohesionAndRout.md) — Mechanism linking formation gaps, confidence, leader signals, panic, bottlenecks, and pursuit to military collapse.
 - [Campaign Logistics and Tempo](concepts/CampaignLogisticsAndTempo.md) — Interaction among supply, route consumption, fleet cost, treasury, bases, movement speed, and operational timing.
+- [News Consumer Needs](concepts/NewsConsumerNeeds.md) — Comprehension, control, and community goals pursued through information alongside factual accuracy.
+- [News-Desert Media Substitution](concepts/NewsDesertMediaSubstitution.md) — Shift toward aggregators, distant broadcasters, social testimony, radio, and personal networks when local reporting thins.
+- [Partisan Framing Across Exposure](concepts/PartisanFramingAcrossExposure.md) — Hostile interpretive packaging that preserves visibility of opponents while discouraging understanding.
+- [Media Golden-Age Exclusion](concepts/MediaGoldenAgeExclusion.md) — Qualification that apparent media consensus can rest on unequal access to public representation.
 
 ## Syntheses

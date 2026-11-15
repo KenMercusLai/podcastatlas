@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2793
+topic_total_pages: 2794
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -904,6 +904,9 @@ topic_concepts:
   - key: "MaternalStatusSuccessionLeverage"
     title: "Maternal Status Succession Leverage / 子以母贵式继承杠杆"
     url: "/wiki/concepts/maternalstatussuccessionleverage/"
+  - key: "MediaGoldenAgeExclusion"
+    title: "Media Golden-Age Exclusion"
+    url: "/wiki/concepts/mediagoldenageexclusion/"
   - key: "MedicalVisualHistory"
     title: "Medical Visual History"
     url: "/wiki/concepts/medicalvisualhistory/"
