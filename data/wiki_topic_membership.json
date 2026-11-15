@@ -26122,6 +26122,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ClimateDistressEngagement": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ClimateExternalityCostAllocation": [
     {
       "key": "economics",
@@ -26724,6 +26736,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CollectiveEfficacySustainableAction": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CollectiveUnconscious": [
@@ -82432,6 +82451,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SarahJaquetteRay": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SarahWu": [

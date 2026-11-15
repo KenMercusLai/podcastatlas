@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1664
+topic_total_pages: 1666
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -424,6 +424,9 @@ topic_concepts:
   - key: "ClimateAidRetrenchment"
     title: "Climate Aid Retrenchment"
     url: "/wiki/concepts/climateaidretrenchment/"
+  - key: "ClimateDistressEngagement"
+    title: "Climate Distress and Engagement"
+    url: "/wiki/concepts/climatedistressengagement/"
   - key: "ClimateExternalityCostAllocation"
     title: "Climate Externality Cost Allocation"
     url: "/wiki/concepts/climateexternalitycostallocation/"
@@ -478,6 +481,9 @@ topic_concepts:
   - key: "CognitiveProceduralLearningIntegration"
     title: "Cognitive–Procedural Learning Integration"
     url: "/wiki/concepts/cognitiveprocedurallearningintegration/"
+  - key: "CollectiveEfficacySustainableAction"
+    title: "Collective Efficacy for Sustainable Action"
+    url: "/wiki/concepts/collectiveefficacysustainableaction/"
   - key: "CollectiveUnconscious"
     title: "Collective Unconscious / 集体无意识"
     url: "/wiki/concepts/collectiveunconscious/"

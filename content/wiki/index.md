@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Wellness 2.0: When It's All Too Much](sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981.md) — Hidden Brain connects climate distress, collective efficacy, bounded action, pleasure, rest, and restorative silence to sustainable engagement with overwhelming problems.
 - [How to Trust and Be Trusted with Rachel Botsman](sources/how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman.md) — Revisionist History distinguishes trust from control and connects familiarity, convenience, intuition, verification, and a deliberate pause to better trust decisions.
 - [Fluke: How Chance and Chaos Shape Our Lives](sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697.md) — Hidden Brain and Brian Klaas on chance-sensitive causality, magnitude bias, cascading fragility, slack, and resilient influence under uncertainty.
 - [The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau](sources/the-future-of-healthcare-technology-with-eli-lilly-and-companys-diogo-rau-the-future-of-healthcare-technology-with-eli.md) — Revisionist History interview on patient-centered access, secure medicine authentication, treatment feedback, patient-controlled health data, wearables, long drug-development horizons, and AI-assisted discovery.
@@ -5153,6 +5154,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Sarah Jaquette Ray](entities/SarahJaquetteRay.md) — Environmental scholar connecting climate education and distress to collective efficacy, emotional complexity, rest, and nonheroic action.
+- [Pico Iyer](entities/PicoIyer.md) — Writer treating silence and retreat as restoration measured by the quality of return to care and responsibility.
 - [Rachel Botsman](entities/RachelBotsman.md) — Trust researcher connecting uncertainty, decision discipline, proportional verification, openness, and autonomy-supporting leadership.
 - [Brian Klaas](entities/BrianKlaas.md) — Political scientist connecting chance-sensitive explanation to causal humility, system slack, and resilience over complete control.
 - [Diogo Rau](entities/DiogoRau.md) — Eli Lilly technology executive connecting experience-led healthcare design to access, secure medicines, patient data, sensing, adherence, and AI-assisted discovery.
@@ -19560,6 +19563,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Climate Distress and Engagement](concepts/ClimateDistressEngagement.md) — Framework connecting crisis information, perceived agency, individualized responsibility, paralysis, and burnout.
+- [Collective Efficacy for Sustainable Action](concepts/CollectiveEfficacySustainableAction.md) — Nonheroic shared-action model integrating bounded contribution, pleasure, rest, and continued participation.
+- [Restorative Withdrawal and Return](concepts/RestorativeWithdrawalAndReturn.md) — Temporary reduction of noise and demand evaluated by whether it improves re-entry into care and collective responsibility.
 - [Trust Decision Quality](concepts/TrustDecisionQuality.md) — Proportional process for testing familiarity, convenience, intuition, missing information, stakes, and reversibility before consequential trust decisions.
 - [Trust, Control, and Transparency Boundary](concepts/TrustControlTransparencyBoundary.md) — Distinction between explanatory openness and continuous visibility, with clear expectations supporting accountable autonomy.
 - [Chance-Sensitive Causality](concepts/ChanceSensitiveCausality.md) — Account of small, context-specific inputs becoming decisive through interacting causal chains while remaining difficult to predict.

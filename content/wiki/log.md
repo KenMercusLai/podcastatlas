@@ -40335,3 +40335,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Wellness 2.0: When It's All Too Much
+
+Added the [[HiddenBrain]] episode with [[SarahJaquetteRay|Sarah Jaquette Ray]] on climate distress, fear-based communication, guilt, paralysis, burnout, and collective efficacy, followed by [[PicoIyer|Pico Iyer]] on silence and restorative return. Created [[ClimateDistressEngagement]], [[CollectiveEfficacySustainableAction]], and [[RestorativeWithdrawalAndReturn]], and resynthesized Hidden Brain from its complete preserved source inventory before appending the new source once.
+
+Core synthesis: truthful crisis information can still disable action when systemic harm is individualized and credible agency is absent; paralysis and self-punishing busyness can share the same impossible demand for solitary rescue. Collective efficacy distributes responsibility, permits rest, and values limited contributions without promising total victory, while temporary retreat is restorative only when it supports return to care and participation. No settled contradiction was adopted. Fear effects, student cases, suicide discussion, collective-action outcomes, psychological mechanisms, and silence practices remain episode-scoped because the supplied file is a structured summary rather than a transcript, cited study set, clinical guide, or policy evaluation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,030 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

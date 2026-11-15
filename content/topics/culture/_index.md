@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3695
+topic_total_pages: 3697
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -775,6 +775,9 @@ topic_concepts:
   - key: "CleopatraReceptionHistory"
     title: "Cleopatra Reception History"
     url: "/wiki/concepts/cleopatrareceptionhistory/"
+  - key: "ClimateDistressEngagement"
+    title: "Climate Distress and Engagement"
+    url: "/wiki/concepts/climatedistressengagement/"
   - key: "ClimateAlteredSummer"
     title: "Climate-Altered Summer"
     url: "/wiki/concepts/climatealteredsummer/"
@@ -6359,6 +6362,9 @@ topic_entities:
   - key: "SaraRead"
     title: "Sara Read"
     url: "/wiki/entities/sararead/"
+  - key: "SarahJaquetteRay"
+    title: "Sarah Jaquette Ray"
+    url: "/wiki/entities/sarahjaquetteray/"
   - key: "SashaNauta"
     title: "Sasha Nauta"
     url: "/wiki/entities/sashanauta/"

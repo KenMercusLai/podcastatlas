@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11369
+wiki_total_pages: 11372
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "ClimateAidRetrenchment"
     title: "Climate Aid Retrenchment"
     url: "/wiki/concepts/climateaidretrenchment/"
+  - key: "ClimateDistressEngagement"
+    title: "Climate Distress and Engagement"
+    url: "/wiki/concepts/climatedistressengagement/"
   - key: "ClimateExternalityCostAllocation"
     title: "Climate Externality Cost Allocation"
     url: "/wiki/concepts/climateexternalitycostallocation/"
@@ -1748,6 +1751,9 @@ wiki_pages:
   - key: "CollectibleDropScarcity"
     title: "Collectible Drop Scarcity"
     url: "/wiki/concepts/collectibledropscarcity/"
+  - key: "CollectiveEfficacySustainableAction"
+    title: "Collective Efficacy for Sustainable Action"
+    url: "/wiki/concepts/collectiveefficacysustainableaction/"
   - key: "CollectiveUnconscious"
     title: "Collective Unconscious / 集体无意识"
     url: "/wiki/concepts/collectiveunconscious/"

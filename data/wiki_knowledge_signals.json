@@ -56804,6 +56804,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/climatediseaseecology/"
     },
+    "ClimateDistressEngagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981 [default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981].md",
+          "key": "default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: When It's All Too Much",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/climatedistressengagement/"
+    },
     "ClimateExternalityCostAllocation": {
       "episode_count": 1,
       "show_count": 1,
@@ -59498,6 +59514,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/collateralsuccessiondisorderrisk/"
+    },
+    "CollectiveEfficacySustainableAction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981 [default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981].md",
+          "key": "default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: When It's All Too Much",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/collectiveefficacysustainableaction/"
     },
     "CollectiveWaterManagement": {
       "episode_count": 1,
@@ -139765,9 +139797,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -139810,6 +139842,13 @@
           "show": "Hidden Brain",
           "title": "Fluke: How Chance and Chaos Shape Our Lives",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981 [default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981].md",
+          "key": "default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: When It's All Too Much",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
         }
       ],
       "updated": "2026-11-16",
@@ -240199,6 +240238,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/picloram/"
     },
+    "PicoIyer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981 [default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981].md",
+          "key": "default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: When It's All Too Much",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/picoiyer/"
+    },
     "PieroDeMedici": {
       "episode_count": 2,
       "show_count": 2,
@@ -261783,6 +261838,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/restorativeculturalattention/"
     },
+    "RestorativeWithdrawalAndReturn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981 [default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981].md",
+          "key": "default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: When It's All Too Much",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/restorativewithdrawalandreturn/"
+    },
     "RestoredRegimePromiseCredibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -271600,6 +271671,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/sarahgodfrey/"
+    },
+    "SarahJaquetteRay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981 [default.mp3_ywr3ahjkcgo_b88be0f610dc041ad6ff6e655ae4dc57_64189981].md",
+          "key": "default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: When It's All Too Much",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sarahjaquetteray/"
     },
     "SarahKunst": {
       "episode_count": 2,

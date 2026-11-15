@@ -9,6 +9,7 @@ sources:
   - default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014
   - default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116
   - default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697
+  - default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, forgiveness, false-confession research, difficult conversations, and chance-sensitive causality.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, and emotionally sustainable climate engagement.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -31,6 +32,8 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697|Fluke: How Chance and Chaos Shape Our Lives]] has [[BrianKlaas]] connect personal survival, atomic targeting, coup failure, evolutionary history, and chaos theory through [[ChanceSensitiveCausality]]. [[MagnitudeBias]] explains resistance to small or distributed causes, while the practical branch connects uncertainty to slack, decoupling, intrinsic meaning, and resilient influence rather than complete control.
 
+[[default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981|Wellness 2.0: When It's All Too Much]] has [[SarahJaquetteRay|Sarah Jaquette Ray]] connect climate education, fear-based communication, guilt, paralysis, and burnout through [[ClimateDistressEngagement]], then develops [[CollectiveEfficacySustainableAction]] as a nonheroic model of shared action, bounded contribution, pleasure, and rest. [[PicoIyer|Pico Iyer]] adds [[RestorativeWithdrawalAndReturn]], where temporary silence is judged by whether it improves the return to care and responsibility.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
 - Connects research ideas to relationships, politics, justice, mental health, history, and systems design.
@@ -38,7 +41,7 @@ The current bounded evidence shows the program combining research explanation, c
 - Moves from observed human experience to mechanisms, population evidence, and usable everyday practices.
 - Preserves safety, accountability, and evidential limits when translating charitable interpretation or forgiveness into advice.
 - Uses wrongful-conviction cases and experiments to challenge intuitive confidence in confession evidence and to motivate transparent investigation reform.
-- Translates difficult-conversation and uncertainty research into observable practices without claiming complete control.
+- Translates difficult-conversation, uncertainty, and crisis-engagement research into observable practices while preserving limits on control and the need for rest.
 
 ## Evidence
 - Explanation and reasoning - [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361]] develops [[ExplanationDrivenSensemaking]], [[SelfExplanationKnowledgeCalibration]], and [[ExplanatoryOverreach]].
@@ -49,12 +52,13 @@ The current bounded evidence shows the program combining research explanation, c
 - Confession and investigation - [[default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014]] develops [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]] through case and experimental evidence.
 - Difficult conversations - [[default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116]] develops [[ConversationalReceptiveness]] and extends [[DifficultConversationDelivery]] through learning, acknowledgment, perspective questions, and apology.
 - Chance, explanation, and resilience - [[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697]] develops [[ChanceSensitiveCausality]] and [[MagnitudeBias]] while extending [[QueueingTheorySlack]] and [[UncertaintyToleranceResilience]].
+- Climate distress and sustainable engagement - [[default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981]] develops [[ClimateDistressEngagement]], [[CollectiveEfficacySustainableAction]], and [[RestorativeWithdrawalAndReturn]].
 
 ## Qualifications
-The profile is based on six supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, personal examples, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering analysis, or independent study review. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, and system-resilience claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, and causal humility do not erase credible danger, boundaries, accountability, power differences, or preventable institutional failure.
+The profile is based on seven supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering analysis, policy evaluation, or independent study review. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, and collective-efficacy claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, causal humility, rest, and small action do not erase credible danger, boundaries, accountability, power differences, structural responsibility, or preventable institutional failure.
 
 ## What Changed
-- Added the chance-and-chaos branch connecting causal sensitivity, magnitude bias, system slack, and resilient influence.
+- Added the climate-distress branch connecting crisis communication, collective efficacy, bounded action, rest, and restorative return.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -74,3 +78,8 @@ The profile is based on six supplied episode summaries and does not establish th
 - [[BrianKlaas]] - political scientist guiding the chance, causality, and resilience branch.
 - [[ChanceSensitiveCausality]] - causal-humility framework presented by the show.
 - [[MagnitudeBias]] - explanation bias developed in the chance-and-chaos episode.
+- [[SarahJaquetteRay]] - environmental scholar guiding the climate-distress and collective-efficacy branch.
+- [[PicoIyer]] - writer guiding the silence, retreat, and return branch.
+- [[ClimateDistressEngagement]] - framework connecting crisis information to agency, paralysis, and burnout.
+- [[CollectiveEfficacySustainableAction]] - shared-action model integrating limited contribution, pleasure, and rest.
+- [[RestorativeWithdrawalAndReturn]] - temporary-retreat model evaluated by the quality of return.
