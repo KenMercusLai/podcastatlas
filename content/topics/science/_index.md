@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1666
+topic_total_pages: 1667
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4917,6 +4917,9 @@ topic_sources:
   - key: "scim5670648609-scim5670648609"
     title: "Welcome to the Huberman Lab Podcast"
     url: "/wiki/sources/scim5670648609-scim5670648609/"
+  - key: "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184"
+    title: "Wellness 2.0: Who Do You Want To Be?"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
   - key: "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403"
     title: "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond"
     url: "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"

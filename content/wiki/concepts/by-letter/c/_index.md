@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11372
+wiki_total_pages: 11375
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "CommitmentBiasPublicPromise"
     title: "Commitment Bias Public Promise"
     url: "/wiki/concepts/commitmentbiaspublicpromise/"
+  - key: "CommitmentDeliberationRubicon"
+    title: "Commitment–Deliberation Rubicon"
+    url: "/wiki/concepts/commitmentdeliberationrubicon/"
   - key: "CommodityPriceExposure"
     title: "Commodity Price Exposure"
     url: "/wiki/concepts/commoditypriceexposure/"

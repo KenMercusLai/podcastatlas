@@ -40347,3 +40347,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Wellness 2.0: Who Do You Want To Be?
+
+Added the [[HiddenBrain]] episode with [[KenSheldon]] on choosing goals that fit deeper values and inclinations, external control and intrinsic motivation, value-based persistence, and the shift from deliberation to commitment. Created [[SelfConcordantGoalSelection]], [[IdentifiedMotivationPersistence]], and [[CommitmentDeliberationRubicon]], then resynthesized Hidden Brain and [[MotivationCrowdingOut]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: goal execution skill cannot establish that the destination fits the person. Self-discovery is better treated as a question-incubation-insight-verification loop, with intuition tested through experience rather than accepted as revelation. Personally endorsed importance can sustain effort after enjoyment declines, while commitment helps implementation but can also filter out reasons to reconsider. No settled contradiction was adopted. Law-student, lawyer, puzzle, athlete, hiking, mindfulness, and motivation findings remain episode-scoped; Amy is a composite illustration; and financial, caregiving, health, labor, and structural constraints limit the feasibility of major career change. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,031 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

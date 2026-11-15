@@ -60645,6 +60645,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/commitmentbiaspublicpromise/"
     },
+    "CommitmentDeliberationRubicon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184 [default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184].md",
+          "key": "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: Who Do You Want To Be?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/commitmentdeliberationrubicon/"
+    },
     "CommitteeOfGeneralSecurity": {
       "episode_count": 2,
       "show_count": 1,
@@ -139797,9 +139813,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -139849,6 +139865,13 @@
           "show": "Hidden Brain",
           "title": "Wellness 2.0: When It's All Too Much",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184 [default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184].md",
+          "key": "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: Who Do You Want To Be?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
         }
       ],
       "updated": "2026-11-16",
@@ -150624,6 +150647,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/idealizedlovedeconstruction/"
+    },
+    "IdentifiedMotivationPersistence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184 [default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184].md",
+          "key": "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: Who Do You Want To Be?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/identifiedmotivationpersistence/"
     },
     "IdentityBasedHabitChange": {
       "episode_count": 1,
@@ -172064,6 +172103,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/kenpaxton/"
+    },
+    "KenSheldon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184 [default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184].md",
+          "key": "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: Who Do You Want To Be?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/kensheldon/"
     },
     "KenauSimonsdochterHasselaer": {
       "episode_count": 1,
@@ -215097,9 +215152,9 @@
       "url": "/wiki/concepts/motivatedbias/"
     },
     "MotivationCrowdingOut": {
-      "episode_count": 7,
-      "show_count": 2,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 3,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
@@ -215149,9 +215204,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim9807260634-scim9807260634/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184 [default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184].md",
+          "key": "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: Who Do You Want To Be?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/motivationcrowdingout/"
     },
     "MotivationRewardEffortCalculation": {
@@ -275090,6 +275152,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/selfconceptplasticity/"
+    },
+    "SelfConcordantGoalSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184 [default.mp3_ywr3ahjkcgo_db5f9d45fb650a533486e6eb38780ebf_49695184].md",
+          "key": "default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184",
+          "show": "Hidden Brain",
+          "title": "Wellness 2.0: Who Do You Want To Be?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/selfconcordantgoalselection/"
     },
     "SelfContainedNarrativeRewatchability": {
       "episode_count": 1,

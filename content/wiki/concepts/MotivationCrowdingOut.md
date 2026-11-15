@@ -10,7 +10,8 @@ sources:
   - how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673
   - scim6449668176-scim6449668176
   - scim9807260634-scim9807260634
-last_updated: 2026-10-11
+  - default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The current evidence connects an economics/incentives version with a psychology 
 [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] reinforces the interpretation layer. Fujita's discussion of children rewarded for drawing suggests crowding out happens when people reinterpret why they are acting: the same activity can shift from "I like this" to "I did it for a reward," especially when the reward is expected in advance.
 
 An important productivity qualification comes from [[AdamGrant]]. Meta-analytic evidence is described as showing that incentives often increase output, particularly quantity, while quality and intrinsic interest are more vulnerable when rewards feel controlling. Autonomy and appreciation can therefore change the meaning of the same reward; incentive effects are not captured by a simple rewards-help or rewards-hurt rule. The temptation-bundling example in [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] sharpens this boundary: a reserved immediate pleasure can support an activity that is already unpleasant without necessarily redefining an intrinsically loved activity as transactional. The design question is what meaning the reward changes, whether the reward is controlling, and whether the paired activity had intrinsic motivation to crowd out in the first place.
+
+The autonomy-and-control branch adds [[KenSheldon]]'s account in [[default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184|Wellness 2.0: Who Do You Want To Be?]]. It reports the classic paid-puzzle result and compares scholarship athletes exposed to financial, coaching, fan, and public pressure with walk-ons who participated more voluntarily. The former scholarship athletes' lower later interest is consistent with a durable crowding-out account, but the episode summary does not establish which parts of selection, pressure, injury, workload, or retrospective reporting produced the difference.
 
 ## Key Claims
 - Intrinsic motivation includes honor, justice, love, public spirit, meaning, curiosity, and enjoyment of the effort process.
@@ -45,13 +48,14 @@ An important productivity qualification comes from [[AdamGrant]]. Meta-analytic 
 - Temptation-bundling boundary: [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] reserves an enjoyable activity for pairing with an unpleasant but worthwhile task.
 - Earlier reward-removal and stacking account: [[scim6449668176-scim6449668176]] uses the drawing experiment, phone layering, and optional exercise rewards to argue that expected external stimulation can change later voluntary engagement.
 - Condensed drawing-reward account: [[scim9807260634-scim9807260634]] repeats the claim that introducing and removing expected rewards can reduce voluntary engagement in an already-liked activity.
+- Puzzle and athlete control examples: [[default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184]] connects payment removal and scholarship-linked pressure with lower later voluntary engagement.
 
 ## Counterevidence & Qualifications
-Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, penalties, and temptation bundles can increase output or repetition and may be necessary or useful when they are proportionate, respectful, autonomy-preserving, sufficiently large for the context, or attached to behavior that lacks intrinsic motivation. Quantity gains do not guarantee quality or durable interest, and dopamine language does not by itself establish the psychological mechanism or effect size. The Essentials edit is derived from the earlier full episode and adds no independent replication. The concept warns against careless reward design rather than compensation or feedback as such. Fujita also notes that adults with a clear sense that they love an activity may be more resistant to confusing payment with the underlying motive, though the episode treats that as controversial.
+Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, penalties, scholarships, and temptation bundles can increase access, output, or repetition and may be necessary or useful when they are proportionate, respectful, autonomy-preserving, sufficiently large for the context, or attached to behavior that lacks intrinsic motivation. Quantity gains do not guarantee quality or durable interest, and dopamine language does not by itself establish the psychological mechanism or effect size. The Essentials edit is derived from the earlier full episode and adds no independent replication. The athlete comparison does not isolate scholarship status from selection, training burden, injury, coaching, public scrutiny, or other differences. The concept warns against careless reward design rather than compensation, aid, or feedback as such. Fujita also notes that adults with a clear sense that they love an activity may be more resistant to confusing payment with the underlying motive, though the episode treats that as controversial.
 
 ## What Changed
-- Added the Essentials edit as overlapping provenance for the drawing-reward account.
-- Preserved the distinction between crowding out and bounded rewards for unpleasant tasks.
+- Added paid-puzzle and long-horizon scholarship-athlete examples to the autonomy-and-control branch.
+- Strengthened the boundary between incentive effects and an argument against scholarships, compensation, aid, or feedback.
 
 ## Related Concepts
 - [[EffortAsReward]] - process-motivation branch that protects effort from outcome-only reward.
@@ -64,3 +68,4 @@ Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, pe
 - [[SelfControlStrategyToolkit]] - broader strategy frame where intrinsic motivation and reward interpretation shape persistence.
 - [[GoalPursuitBehaviorDesign]] - applies reward pairing inside a larger autonomy- and context-sensitive goal system.
 - [[PeakEndTaskMemory]] - adjacent repetition tool that changes remembered task cost rather than paying for action.
+- [[IdentifiedMotivationPersistence]] - personally endorsed importance that can sustain action without making it externally controlled.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14316
+wiki_total_pages: 14317
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "KenRubenstein"
     title: "Ken Rubenstein"
     url: "/wiki/entities/kenrubenstein/"
+  - key: "KenSheldon"
+    title: "Ken Sheldon"
+    url: "/wiki/entities/kensheldon/"
   - key: "KenanVoiceChanger"
     title: "Kenan Voice Changer"
     url: "/wiki/entities/kenanvoicechanger/"
