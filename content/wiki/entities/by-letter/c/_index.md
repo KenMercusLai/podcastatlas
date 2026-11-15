@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14343
+wiki_total_pages: 14348
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "CatherineJudge"
     title: "Catherine Judge"
     url: "/wiki/entities/catherinejudge/"
+  - key: "CatherineKhoury"
+    title: "Catherine Khoury"
+    url: "/wiki/entities/catherinekhoury/"
   - key: "CatherineNixie"
     title: "Catherine Nixie"
     url: "/wiki/entities/catherinenixie/"

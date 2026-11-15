@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11392
+wiki_total_pages: 11394
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "TrialByOrdeal"
     title: "Trial By Ordeal / 神裁法"
     url: "/wiki/concepts/trialbyordeal/"
+  - key: "TrialNarrativeReframing"
+    title: "Trial Narrative Reframing"
+    url: "/wiki/concepts/trialnarrativereframing/"
   - key: "TrialSizeProduct"
     title: "Trial Size Product"
     url: "/wiki/concepts/trialsizeproduct/"

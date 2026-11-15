@@ -26,6 +26,7 @@ sources:
   - how-to-trust-and-be-trusted-with-rachel-botsman-how-to-trust-and-be-trusted-with-rachel-botsman
   - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
   - the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick
+  - the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -34,7 +35,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, a follow-up on golf and tax privilege, food-technology naming, a reassessment of school desegregation through displaced Black educators, personal cases about trust and parenting, archival music curation, a tenth-anniversary reflection on how the show finds and revises stories, and an outside interview that makes the host's correction of an influential claim and the show's death-penalty inquiry explicit.
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, courtroom storytelling, a follow-up on golf and tax privilege, food-technology naming, a reassessment of school desegregation through displaced Black educators, personal cases about trust and parenting, archival music curation, a tenth-anniversary reflection on how the show finds and revises stories, and an outside interview that makes the host's correction of an influential claim and the show's death-penalty inquiry explicit.
 
 ## Current Profile
 
@@ -82,6 +83,8 @@ An expert conversation and audiobook excerpt add a practical trust-education for
 
 The preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick|live event with David Remnick]] adds a professional self-portrait. It traces the host's method from newspaper fundamentals and deliberate differentiation through [[IntellectualPlay]], respectful treatment of unusual subjects, patient interviewing, and audio's use of voice and tone. As a friendly autobiographical conversation, it is strongest on craft and self-understanding and weaker as independent support for its safety, family, admissions, or sport claims.
 
+The Georgetown case adds a courtroom form. [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2|Part 2]] first uses [[AdmissionsFundraisingEntanglement]] to weaken a clean institutional-victim narrative, then shifts to [[CatherineKhoury]]'s testimony and contemporaneous messages to develop [[TrialNarrativeReframing]]: a family rupture supplies an alternative explanation for conduct the prosecution treated as evidence of a false-injury plan. The acquittal grounds the legal outcome, while the admitted payment and defense-heavy sourcing keep the broader moral conclusion qualified.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
@@ -90,7 +93,7 @@ The preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
-- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, practical experimentation, implementation history, curated outside series, archival introductions, personal medical and parenting cases, found audio moments, controlled task performance, and explicit self-correction to connect uncertainty with institutional and interpersonal trust.
+- Uses long-form dialogue, qualified analogy, longitudinal follow-up, courtroom testimony, contemporaneous documents, naming analysis, firsthand tasting, practical experimentation, implementation history, curated outside series, archival introductions, personal medical and parenting cases, found audio moments, controlled task performance, and explicit self-correction to connect uncertainty with institutional and interpersonal trust.
 
 ## Evidence
 
@@ -183,6 +186,10 @@ The preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-
 
 - [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick]] links newsroom discipline, deliberate differentiation, intellectual play, neglected expertise, respectful subjects, long interviews, and audio voice in a live account of the show's host and method.
 
+### Courtroom evidence and narrative reframing
+
+- [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2]] joins an acquittal, witness testimony, contemporaneous family messages, and an excluded donor-capacity report while separating reasonable doubt from a complete ethical vindication.
+
 ## Qualifications
 
 The bounded sources do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
@@ -197,11 +204,13 @@ The bounded sources do not establish the full range of the show. The health-refo
 
 *The Tipping Point Revisited: Live with David Remnick* adds a twenty-third bounded source. The friendly event is supplied as a structured summary rather than a transcript, independent biography, interview archive, empirical safety review, or sports study. It supports the show's professional self-understanding, not a general causal verdict about its methods or examples.
 
+*Georgetown Massacre Part 2* adds a twenty-fourth bounded source. It is openly sympathetic to the defense, relies heavily on defense interviews, and is supplied as a structured summary rather than a transcript, exhibits, court record, or balanced evidentiary review. The verdict establishes acquittal, not the propriety of the payment; the Salesforce report complicates Georgetown's victim narrative without proving that the university authorized the payment or admitted Catherine for anticipated donations.
+
 ## What Changed
 
-- Added live professional self-reflection as a distinct account of the show's journalistic formation.
-- Connected intellectual play and respectful curiosity to patient interviewing and audio voice.
-- Preserved the boundary between autobiographical craft evidence and independently tested factual claims.
+- Added courtroom storytelling as a form joining witness agency, contemporaneous documents, and disputed intent.
+- Distinguished the legal force of acquittal from ethical approval of the admitted payment.
+- Preserved the boundary between institutional financial context and proof of an authorized admissions exchange.
 
 ## Relationships
 
@@ -269,3 +278,7 @@ The bounded sources do not establish the full range of the show. The health-refo
 - [[DavidRemnick]] - live interviewer whose shared history elicits the host's professional self-portrait.
 - [[IntellectualPlay]] - idea-generation method explicitly separated from factual invention.
 - [[InterviewAsEmbodiedReporting]] - upstream reporting practice the event treats as more fundamental than prose production.
+- [[USVKhoury|U.S. v. Khoury]] - criminal case organizing the courtroom narrative.
+- [[CatherineKhoury]] - witness whose testimony and messages supply the alternative explanation.
+- [[AdmissionsFundraisingEntanglement]] - institutional context developed from Georgetown's donor-capacity research.
+- [[TrialNarrativeReframing]] - shift from abstract conspiracy to a documented account of family rupture.

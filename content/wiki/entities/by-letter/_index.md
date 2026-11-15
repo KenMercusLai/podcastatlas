@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14343
+wiki_total_pages: 14348
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2198,6 +2198,9 @@ wiki_pages:
   - key: "AyeAye"
     title: "Aye-Aye / 爱爱狐猴"
     url: "/wiki/entities/ayeaye/"
+  - key: "AymanKhoury"
+    title: "Ayman Khoury"
+    url: "/wiki/entities/aymankhoury/"
   - key: "AynRand"
     title: "Ayn Rand / 安·兰德"
     url: "/wiki/entities/aynrand/"

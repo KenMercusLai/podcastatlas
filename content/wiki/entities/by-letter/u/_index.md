@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 14343
+wiki_total_pages: 14348
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "USTreasury"
     title: "U.S. Treasury"
     url: "/wiki/entities/ustreasury/"
+  - key: "USVKhoury"
+    title: "U.S. v. Khoury"
+    url: "/wiki/entities/usvkhoury/"
   - key: "USMaltaTaxTreaty"
     title: "U.S.-Malta Tax Treaty"
     url: "/wiki/entities/usmaltataxtreaty/"

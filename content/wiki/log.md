@@ -40456,3 +40456,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Tipping Point Revisited: Georgetown Massacre Part 2
+
+Added the [[RevisionistHistory]] episode concluding [[USVKhoury|U.S. v. Khoury]], in which [[CatherineKhoury]]'s testimony and contemporaneous messages challenged the prosecution's false-injury theory and the jury acquitted [[AymanKhoury]] on every count. Created Ayman Khoury, Catherine Khoury, [[RoyBlack]], [[GeorgetownUniversity]], U.S. v. Khoury, [[AdmissionsFundraisingEntanglement]], and [[TrialNarrativeReframing]], then resynthesized [[MalcolmGladwell]] and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the defense moved from contextual criticism of Georgetown to a direct alternative explanation for why Catherine stopped playing tennis, while the university's $1–5 million donor-capacity estimate complicated a simple victim narrative. The acquittal rejects proof beyond a reasonable doubt but does not erase the admitted payment, establish that donor cultivation authorized it, or settle every ethical question. No settled contradiction was adopted beyond the unresolved conflict between Catherine's account and Timothy Donovan's injury testimony. Trial events, messages, the Salesforce report, motives, and juror reasoning remain episode-scoped because the supplied file is a structured summary rather than a transcript, exhibits, court record, or balanced evidentiary review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,041 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

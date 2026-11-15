@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Tipping Point Revisited: Georgetown Massacre Part 2](sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2.md) — Revisionist History episode on Catherine Khoury's testimony, the acquittal of Ayman Khoury, Georgetown's donor-capacity research, and the boundary between reasonable doubt and ethical approval.
 - [The Tipping Point Revisited: Live with David Remnick](sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick.md) — Live Revisionist History conversation on journalistic differentiation, intellectual play, respectful subjects, patient interviewing, audio form, family influence, and play displaced by performance pressure.
 - [Exploring Life-Saving AI Tech with T-Mobile for Business](sources/exploring-life-saving-ai-tech-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on firefighter decision support, prioritized 5G, home health monitoring, clinical escalation, and equity-centered technology design.
 - [John Birch vs. the PTA](sources/john-birch-vs-the-pta-john-birch-vs-the-pta.md) — Revisionist History contrasts John Birch Society infiltration, meeting attrition, and harassment with the PTA's evidence-based civic cooperation.
@@ -5164,6 +5165,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [U.S. v. Khoury](entities/USVKhoury.md) — Federal college-admissions prosecution that ended with Ayman Khoury's acquittal on every count.
+- [Ayman Khoury](entities/AymanKhoury.md) — Father acquitted after an admitted payment to Georgetown's tennis coach became the basis of a disputed criminal theory.
+- [Catherine Khoury](entities/CatherineKhoury.md) — Georgetown student whose testimony and contemporaneous messages challenged the alleged false-injury plan.
+- [Roy Black](entities/RoyBlack.md) — Defense lawyer who joined Georgetown's fundraising context to a family-centered reasonable-doubt narrative.
+- [Georgetown University](entities/GeorgetownUniversity.md) — University represented through tennis recruitment, admissions, donor-capacity research, and the Khoury prosecution.
 - [David Remnick](entities/DavidRemnick.md) — New Yorker editor and interviewer who frames Gladwell's live professional self-portrait around craft, responsibility, biography, and play.
 - [3AM Innovations](entities/ThreeAMInnovations.md) — Public-safety technology company combining radio analysis, sensor data, and three-dimensional responder location for incident commanders.
 - [Ryan Litt](entities/RyanLitt.md) — 3AM Innovations co-founder advocating unobtrusive, human-supervised emergency decision support.
@@ -19601,6 +19607,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Admissions–Fundraising Entanglement](concepts/AdmissionsFundraisingEntanglement.md) — Overlap among student selection, athletic recruitment, family-wealth research, relationship management, and anticipated giving.
+- [Trial Narrative Reframing](concepts/TrialNarrativeReframing.md) — Use of admissible evidence to replace an opponent's causal and moral account with a more coherent explanation of disputed conduct.
 - [Intellectual Play](concepts/IntellectualPlay.md) — Responsible variation of rules, assumptions, subjects, and perspectives to generate overlooked questions without relaxing factual accountability.
 - [Emergency-Response Decision Support](concepts/EmergencyResponseDecisionSupport.md) — Human-supervised integration of AI, radio, sensors, location, and connectivity to reduce incident uncertainty and cognitive load.
 - [Decentralized Health Monitoring](concepts/DecentralizedHealthMonitoring.md) — Home and community sensing model whose value depends on interoperability, accountable escalation, access, and clinical interpretation.

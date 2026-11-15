@@ -9492,6 +9492,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/administrativewritinginfrastructure/"
     },
+    "AdmissionsFundraisingEntanglement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/admissionsfundraisingentanglement/"
+    },
     "Adobe": {
       "episode_count": 3,
       "show_count": 3,
@@ -27941,6 +27957,22 @@
       ],
       "updated": "2026-11-11",
       "url": "/wiki/entities/axon/"
+    },
+    "AymanKhoury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/aymankhoury/"
     },
     "Azi": {
       "episode_count": 1,
@@ -46422,6 +46454,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/catherinejudge/"
+    },
+    "CatherineKhoury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/catherinekhoury/"
     },
     "CatherineOfAragon": {
       "episode_count": 2,
@@ -123628,6 +123676,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/georgetownlawcenteronprivacytechnology/"
     },
+    "GeorgetownUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/georgetownuniversity/"
+    },
     "GeorgiMarkov": {
       "episode_count": 1,
       "show_count": 1,
@@ -199626,9 +199690,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -199804,6 +199868,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: Live with David Remnick",
           "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
         }
       ],
       "updated": "2026-11-16",
@@ -263527,9 +263598,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -263691,6 +263762,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: Live with David Remnick",
           "url": "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
         }
       ],
       "updated": "2026-11-16",
@@ -269139,6 +269217,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/roybaumeister/"
+    },
+    "RoyBlack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/royblack/"
     },
     "RoyDisney": {
       "episode_count": 2,
@@ -312438,6 +312532,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/treystephens/"
     },
+    "TrialNarrativeReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/trialnarrativereframing/"
+    },
     "TrialSizeProduct": {
       "episode_count": 4,
       "show_count": 2,
@@ -314451,6 +314561,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+    },
+    "USVKhoury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2 [The_Tipping_Point_Revisited_Georgetown_Massacre_Part_2].md",
+          "key": "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+          "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/usvkhoury/"
     },
     "USWelfareFragmentation": {
       "episode_count": 1,

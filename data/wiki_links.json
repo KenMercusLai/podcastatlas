@@ -7771,6 +7771,10 @@
     "title": "Administrative Writing Infrastructure",
     "url": "/wiki/concepts/administrativewritinginfrastructure/"
   },
+  "AdmissionsFundraisingEntanglement": {
+    "title": "Admissions–Fundraising Entanglement",
+    "url": "/wiki/concepts/admissionsfundraisingentanglement/"
+  },
   "Adobe": {
     "title": "Adobe",
     "url": "/wiki/entities/adobe/"
@@ -12930,6 +12934,10 @@
   "AyiDafu": {
     "title": "阿邑大夫 / Ayi Dafu",
     "url": "/wiki/entities/ayidafu/"
+  },
+  "AymanKhoury": {
+    "title": "Ayman Khoury",
+    "url": "/wiki/entities/aymankhoury/"
   },
   "AynRand": {
     "title": "Ayn Rand / 安·兰德",
@@ -18702,6 +18710,10 @@
   "CatherineJulesAndJim": {
     "title": "Catherine / 凯瑟琳",
     "url": "/wiki/entities/catherinejulesandjim/"
+  },
+  "CatherineKhoury": {
+    "title": "Catherine Khoury",
+    "url": "/wiki/entities/catherinekhoury/"
   },
   "CatherineNixie": {
     "title": "Catherine Nixie",
@@ -40118,6 +40130,10 @@
   "GeorgetownLawCenterOnPrivacyTechnology": {
     "title": "Georgetown Law Center on Privacy and Technology",
     "url": "/wiki/entities/georgetownlawcenteronprivacytechnology/"
+  },
+  "GeorgetownUniversity": {
+    "title": "Georgetown University",
+    "url": "/wiki/entities/georgetownuniversity/"
   },
   "GeorgiMarkov": {
     "title": "Georgi Markov / 格奥尔基·马尔科夫",
@@ -82091,6 +82107,10 @@
     "title": "Roy Baumeister",
     "url": "/wiki/entities/roybaumeister/"
   },
+  "RoyBlack": {
+    "title": "Roy Black",
+    "url": "/wiki/entities/royblack/"
+  },
   "RoyDisney": {
     "title": "Roy Disney",
     "url": "/wiki/entities/roydisney/"
@@ -95343,6 +95363,10 @@
     "title": "Trial By Ordeal / 神裁法",
     "url": "/wiki/concepts/trialbyordeal/"
   },
+  "TrialNarrativeReframing": {
+    "title": "Trial Narrative Reframing",
+    "url": "/wiki/concepts/trialnarrativereframing/"
+  },
   "TrialSizeProduct": {
     "title": "Trial Size Product",
     "url": "/wiki/concepts/trialsizeproduct/"
@@ -96114,6 +96138,10 @@
   "USTreasury": {
     "title": "U.S. Treasury",
     "url": "/wiki/entities/ustreasury/"
+  },
+  "USVKhoury": {
+    "title": "U.S. v. Khoury",
+    "url": "/wiki/entities/usvkhoury/"
   },
   "USWelfareFragmentation": {
     "title": "U.S. Welfare Fragmentation / 美国福利体系碎片化",
@@ -115082,6 +115110,10 @@
   "the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows": {
     "title": "The Tipping Point Revisited: Broken Windows",
     "url": "/wiki/sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows/"
+  },
+  "the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2": {
+    "title": "The Tipping Point Revisited: Georgetown Massacre Part 2",
+    "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2/"
   },
   "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick": {
     "title": "The Tipping Point Revisited: Live with David Remnick",
