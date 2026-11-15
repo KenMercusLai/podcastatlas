@@ -39568,6 +39568,12 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-15] ingest | The Staten Island Problem - Part 5: Revenge of the Forgotten Borough
+
+Added the [[RevisionistHistory]] finale connecting [[StatenIslandSecession1993|Staten Island's 1993 secession referendum]], [[GuyMolinari]], and [[RudyGiuliani]]'s mayoral coalition. Created bounded profiles for Molinari, [[KatherineCramer]], the referendum, and [[FreshKillsPark]]; resynthesized [[StatenIsland]] and Giuliani from their complete preserved evidence inventories; and added [[PeripheralPlaceResentment]], [[GrievanceDrivenStrongmanPolitics]], and [[PlaceBasedDemocraticRecognition]].
+
+Core synthesis: the referendum failed as a legal exit but succeeded as a turnout and leverage mechanism; place-based grievance combines material resources, political voice, and social respect; Giuliani paired concrete delivery for Staten Island with coercive and confrontational government elsewhere; and equal-person democracy still needs responsive institutions and civic narratives that recognize peripheral places. No settled factual contradiction was adopted. The source distinguishes Giuliani's 1993 coalition from Trump's 2016 coalition while proposing an interpretive continuity in grievance and strongman appeal; vote shares, turnout causality, policy totals, protest accounts, and the research transfer from rural Wisconsin remain episode-attributed because the supplied file is a structured summary rather than the underlying records or studies. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,963 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-15] ingest | Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live
 
 Added the [[RevisionistHistory]] live conversation in which [[MalcolmGladwell]] interviews [[AdamGrant]] about [[VibeAdamGrantBook|Vibe]]. Created [[AlliesPalsCompanionsFramework]], [[CompatibilityAsInteractionDynamic]], and [[SharedActivitySocialScaffolding]]; expanded Adam Grant and Revisionist History; and qualified [[AlgorithmicRomanticCompatibility]] by separating the ethics of acting on a compatibility score from whether real systems can predict one.
@@ -39641,6 +39647,10 @@ Ran lint. See lint-report.md for details.
 Added the [[RevisionistHistory]] conversation in which [[MalcolmGladwell]] and [[BarackObama]] interpret Reconstruction as a radical but unfinished attempt to create multiracial democracy. Resynthesized Obama, Gladwell, Revisionist History, [[AndrewJohnson]], [[FrederickDouglass]], [[ReconstructionConstitutionalAfterlife]], [[ReconstructionRollback]], [[LostCauseMyth]], and [[FilibusterMinorityRights]] from their complete preserved evidence inventories before appending the new source once.
 
 Core synthesis: Reconstruction's political defeat did not erase the constitutional standards, educational institutions, and representational possibilities later movements could reactivate; Black Codes, racial terror, labor control, the Compromise of 1877, and Lost Cause culture explain how rollback became durable; and symbolic progress remains reversible without enforcement and political organization. No settled factual contradiction was adopted. The filibuster sources retain a normative conflict between minority-party leverage and a history of blocking anti-lynching and civil-rights legislation, while claims about alternative presidential leadership remain counterfactual. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,959 sources across 809 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-15] lint | Wiki health check
 

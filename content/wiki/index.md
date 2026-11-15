@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Staten Island Problem - Part 5: Revenge of the Forgotten Borough](sources/the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f.md) — Revisionist History connects Staten Island's failed secession vote, Giuliani's mayoral coalition, peripheral resentment, strongman politics, and place-based democratic recognition.
 - [What Art Does For Your Brain](sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403.md) — Hidden Brain and Daisy Fancourt connect arts participation with emotion regulation, social support, multimodal stimulation, and a sustainable practice bounded by observational evidence.
 - [The Fines](sources/the-fines-the-fines.md) — Revisionist History examines the Fresh Kills fines as a conflict among forensic thresholds, burial dignity, family agency, and public memory after September 11.
 - [A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War](sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey.md) — Revisionist History and The Dollop connect Staten Island's commercial Loyalism, Billopp's kidnappings, occupation abuse, Patriot predation, and changing allegiance.
@@ -5086,6 +5087,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [Guy Molinari](entities/GuyMolinari.md) — Staten Island borough president who linked the secession campaign to Giuliani's outer-borough mayoral coalition.
+- [Katherine Cramer](entities/KatherineCramer.md) — Political scientist whose research organizes place-based resentment around resources, power, and respect.
+- [1993 Staten Island Secession Referendum](entities/StatenIslandSecession1993.md) — Locally successful but legally blocked exit vote whose turnout helped reshape the New York mayoral election.
+- [Fresh Kills Park](entities/FreshKillsPark.md) — Former landfill becoming a major park and serving as a landscape of material redress and buried civic memory.
 - [Daisy Fancourt](entities/DaisyFancourt.md) — Psychobiologist connecting arts participation with emotional, social, physiological, and cognitive health pathways.
 - [Diane and Kurt Horning](entities/DianeAndKurtHorning.md) — Parents and family advocates seeking dignified relocation of possible September 11 remains from Fresh Kills.
 - [WTC Families for a Proper Burial](entities/WTCFamiliesForAProperBurial.md) — Family organization contesting the permanent placement of the World Trade Center fines at Fresh Kills.
@@ -19325,6 +19330,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Peripheral Place Resentment](concepts/PeripheralPlaceResentment.md) — Geographic grievance combining perceived inequalities in resources, political power, and social respect.
+- [Grievance-Driven Strongman Politics](concepts/GrievanceDrivenStrongmanPolitics.md) — Leadership pattern joining neglected-constituency claims, selective delivery, confrontation, and personal dominance.
+- [Place-Based Democratic Recognition](concepts/PlaceBasedDemocraticRecognition.md) — Principle that equal citizenship should include institutional, material, and narrative recognition of geographic communities.
 - [Arts-Based Health Practice](concepts/ArtsBasedHealthPractice.md) — Multi-pathway frame joining artistic engagement with emotion, attention, movement, cognition, sensory input, and social connection without treating art as universal therapy.
 - [Aesthetic Distance as Emotion Practice](concepts/AestheticDistanceEmotionPractice.md) — Protected artistic frame for approaching difficult emotion, bounded by rumination, triggering, and clinical escalation risks.
 - [Multimodal Arts and Cognitive Reserve](concepts/MultimodalArtsCognitiveReserve.md) — Qualified hypothesis that sustained artistic activity may build adaptable cognition through coordinated sensory, motor, emotional, and memory demands.

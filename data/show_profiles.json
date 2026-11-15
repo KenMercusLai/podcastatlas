@@ -903,19 +903,19 @@
       "earliest_episode_date": "2025-12-25",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 10,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 5,
       "topics": [
-        {
-          "key": "history",
-          "label": "History",
-          "url": "/topics/history/",
-          "source_note_count": 2
-        },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
+          "source_note_count": 3
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
           "source_note_count": 2
         },
         {
@@ -949,8 +949,8 @@
         }
       ],
       "start_here_episode_files": [
-        "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
         "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+        "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
         "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
         "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md"
       ]

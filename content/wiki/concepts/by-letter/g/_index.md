@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11258
+wiki_total_pages: 11261
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "GrievanceRallyPerformance"
     title: "Grievance Rally Performance"
     url: "/wiki/concepts/grievancerallyperformance/"
+  - key: "GrievanceDrivenStrongmanPolitics"
+    title: "Grievance-Driven Strongman Politics"
+    url: "/wiki/concepts/grievancedrivenstrongmanpolitics/"
   - key: "GroundPowerEngineValidationFlywheel"
     title: "Ground-Power Engine Validation Flywheel"
     url: "/wiki/concepts/groundpowerenginevalidationflywheel/"

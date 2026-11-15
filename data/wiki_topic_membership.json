@@ -44552,6 +44552,13 @@
       "url": "/topics/science/"
     }
   ],
+  "GrievanceDrivenStrongmanPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GrievanceRallyPerformance": [
     {
       "key": "politics",
@@ -45184,6 +45191,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GuyMolinari": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GuyRaz": [
@@ -71851,6 +71865,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PeripheralPlaceResentment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PerishableTributeLaborBurden": [
     {
       "key": "politics",
@@ -72797,6 +72818,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PlaceBasedDemocraticRecognition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PlaceBasedFiction": [
@@ -113815,6 +113843,13 @@
     }
   ],
   "the-sneaky-way-companies-get-new-chemicals-into-our-food": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f": [
     {
       "key": "politics",
       "label": "Politics",

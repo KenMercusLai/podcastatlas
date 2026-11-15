@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14146
+wiki_total_pages: 14150
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "GuyFawkes"
     title: "Guy Fawkes"
     url: "/wiki/entities/guyfawkes/"
+  - key: "GuyMolinari"
+    title: "Guy Molinari"
+    url: "/wiki/entities/guymolinari/"
   - key: "GuyRaz"
     title: "Guy Raz"
     url: "/wiki/entities/guyraz/"

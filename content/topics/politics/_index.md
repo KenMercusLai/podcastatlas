@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3511
+topic_total_pages: 3516
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2035,6 +2035,9 @@ topic_concepts:
   - key: "GrievanceRallyPerformance"
     title: "Grievance Rally Performance"
     url: "/wiki/concepts/grievancerallyperformance/"
+  - key: "GrievanceDrivenStrongmanPolitics"
+    title: "Grievance-Driven Strongman Politics"
+    url: "/wiki/concepts/grievancedrivenstrongmanpolitics/"
   - key: "GuaranteedHomeDeliveryCrisis"
     title: "Guaranteed Home Delivery Crisis / 保交楼危机"
     url: "/wiki/concepts/guaranteedhomedeliverycrisis/"
@@ -3193,6 +3196,9 @@ topic_concepts:
   - key: "PerformativeEnforcementAccountability"
     title: "Performative Enforcement Accountability"
     url: "/wiki/concepts/performativeenforcementaccountability/"
+  - key: "PeripheralPlaceResentment"
+    title: "Peripheral Place Resentment"
+    url: "/wiki/concepts/peripheralplaceresentment/"
   - key: "PermissionlessAIInnovation"
     title: "Permissionless AI Innovation"
     url: "/wiki/concepts/permissionlessaiinnovation/"
@@ -3226,6 +3232,9 @@ topic_concepts:
   - key: "PiracyPrivateeringBoundary"
     title: "Piracy-Privateering Boundary"
     url: "/wiki/concepts/piracyprivateeringboundary/"
+  - key: "PlaceBasedDemocraticRecognition"
+    title: "Place-Based Democratic Recognition"
+    url: "/wiki/concepts/placebaseddemocraticrecognition/"
   - key: "PlantVarietyIntellectualProperty"
     title: "Plant Variety Intellectual Property"
     url: "/wiki/concepts/plantvarietyintellectualproperty/"
@@ -6638,6 +6647,9 @@ topic_entities:
   - key: "GustavoPetro"
     title: "Gustavo Petro"
     url: "/wiki/entities/gustavopetro/"
+  - key: "GuyMolinari"
+    title: "Guy Molinari"
+    url: "/wiki/entities/guymolinari/"
   - key: "GunterGrass"
     title: "Günter Grass / 君特·格拉斯"
     url: "/wiki/entities/guntergrass/"
@@ -9918,6 +9930,9 @@ topic_sources:
   - key: "the-sneaky-way-companies-get-new-chemicals-into-our-food"
     title: "The sneaky way companies get new chemicals into our food"
     url: "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
+  - key: "the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f"
+    title: "The Staten Island Problem - Part 5: Revenge of the Forgotten Borough"
+    url: "/wiki/sources/the-staten-island-problem-part-5-revenge-of-the-forgotten-borough-the-staten-island-problem-part-5-revenge-of-the-f/"
   - key: "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what"
     title: "The Supreme Court struck down a bunch of Trump's tariffs. Now what?"
     url: "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"

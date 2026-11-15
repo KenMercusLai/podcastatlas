@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11258
+wiki_total_pages: 11261
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "PeripheralInnovationField"
     title: "Peripheral Innovation Field / 边域式创新场域"
     url: "/wiki/concepts/peripheralinnovationfield/"
+  - key: "PeripheralPlaceResentment"
+    title: "Peripheral Place Resentment"
+    url: "/wiki/concepts/peripheralplaceresentment/"
   - key: "PermanentCapitalCompounding"
     title: "Permanent Capital Compounding"
     url: "/wiki/concepts/permanentcapitalcompounding/"
@@ -974,6 +977,9 @@ wiki_pages:
   - key: "PlaceBasedAntiPovertyPolicy"
     title: "Place-Based Anti-Poverty Policy"
     url: "/wiki/concepts/placebasedantipovertypolicy/"
+  - key: "PlaceBasedDemocraticRecognition"
+    title: "Place-Based Democratic Recognition"
+    url: "/wiki/concepts/placebaseddemocraticrecognition/"
   - key: "PlaceBasedExhibitionCuration"
     title: "Place-Based Exhibition Curation / 在地化展览策展"
     url: "/wiki/concepts/placebasedexhibitioncuration/"
