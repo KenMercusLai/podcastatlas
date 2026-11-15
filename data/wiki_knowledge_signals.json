@@ -36170,6 +36170,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/bobnardelli/"
     },
+    "BobbiGibb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/bobbigibb/"
+    },
     "BobbyBraddock": {
       "episode_count": 1,
       "show_count": 1,
@@ -148903,9 +148919,9 @@
       "url": "/wiki/concepts/humanmeaningunderai/"
     },
     "HumanMovementDigitalTwin": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
@@ -148913,9 +148929,16 @@
           "show": "这病说来话长",
           "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
           "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        },
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/humanmovementdigitaltwin/"
     },
     "HumanNaturePlasticity": {
@@ -164517,9 +164540,9 @@
       "url": "/wiki/entities/jerusalemhymn/"
     },
     "JesseOwens": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -164548,6 +164571,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
           "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
+        },
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
         }
       ],
       "updated": "2026-11-16",
@@ -172809,6 +172839,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/katherinecramer/"
+    },
+    "KathrineSwitzer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/kathrineswitzer/"
     },
     "KathrynPaigeHarden": {
       "episode_count": 1,
@@ -197301,9 +197347,9 @@
       "url": "/wiki/entities/luton/"
     },
     "LutzLong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
@@ -197318,6 +197364,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
           "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
+        },
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
         }
       ],
       "updated": "2026-11-16",
@@ -200062,9 +200115,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 1,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -200261,6 +200314,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: An Excerpt",
           "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        },
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
         }
       ],
       "updated": "2026-11-16",
@@ -217868,6 +217928,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/musclecontractionglucosedisposal/"
+    },
+    "MuscleSpecificImaging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/musclespecificimaging/"
     },
     "MuscularChristianity": {
       "episode_count": 2,
@@ -264042,9 +264118,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -264227,6 +264303,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: An Excerpt",
           "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        },
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
         }
       ],
       "updated": "2026-11-16",
@@ -290768,9 +290851,9 @@
       "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
     },
     "SportsReconciliationMythmaking": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale [Hitler_s_Olympics,_Part_7_Long_Jump,_Tall_Tale].md",
@@ -290785,6 +290868,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up",
           "url": "/wiki/sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up/"
+        },
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
         }
       ],
       "updated": "2026-11-16",
@@ -291068,6 +291158,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/springautumnwarfareritual/"
+    },
+    "SpringbokAnalytics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/springbokanalytics/"
     },
     "Springboks": {
       "episode_count": 1,
@@ -299230,6 +299336,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/sylviabeach/"
+    },
+    "SylviaBlemker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sylviablemker/"
     },
     "SylviaWhitman": {
       "episode_count": 1,
@@ -330840,6 +330962,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/womenblamedfordynasticcollapse/"
+    },
+    "WomenDistanceRunningExclusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Pushkin_Goes_to_the_Olympics [Pushkin_Goes_to_the_Olympics].md",
+          "key": "pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics",
+          "show": "Revisionist History",
+          "title": "Pushkin Goes to the Olympics",
+          "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/womendistancerunningexclusion/"
     },
     "WomenOfTheKuKluxKlan": {
       "episode_count": 1,

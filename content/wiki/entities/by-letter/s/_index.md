@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14366
+wiki_total_pages: 14370
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1451,6 +1451,9 @@ wiki_pages:
   - key: "SpringAirlines"
     title: "Spring Airlines / 春秋航空"
     url: "/wiki/entities/springairlines/"
+  - key: "SpringbokAnalytics"
+    title: "Springbok Analytics"
+    url: "/wiki/entities/springbokanalytics/"
   - key: "Springboks"
     title: "Springboks"
     url: "/wiki/entities/springboks/"
@@ -2105,6 +2108,9 @@ wiki_pages:
   - key: "SylviaBeach"
     title: "Sylvia Beach"
     url: "/wiki/entities/sylviabeach/"
+  - key: "SylviaBlemker"
+    title: "Sylvia Blemker"
+    url: "/wiki/entities/sylviablemker/"
   - key: "SylviaWhitman"
     title: "Sylvia Whitman"
     url: "/wiki/entities/sylviawhitman/"

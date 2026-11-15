@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11402
+wiki_total_pages: 11404
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "WomenWorkplaceProgressStall"
     title: "Women Workplace Progress Stall"
     url: "/wiki/concepts/womenworkplaceprogressstall/"
+  - key: "WomenDistanceRunningExclusion"
+    title: "Women's Distance-Running Exclusion"
+    url: "/wiki/concepts/womendistancerunningexclusion/"
   - key: "WomensFootballVisibility"
     title: "Women's Football Visibility / 女足主体性可见度"
     url: "/wiki/concepts/womensfootballvisibility/"

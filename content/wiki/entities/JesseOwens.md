@@ -7,6 +7,7 @@ sources:
   - hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville
   - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
   - hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up
+  - pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ Owens's enthusiastic German reception adds a two-way dimension. [[hitler-s-olymp
 
 [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale|Hitler’s Olympics, Part 7]] explains why the story could persist. Owens faced a boycott choice at 22, post-Games exploitation, and exclusion under [[AveryBrundage]]'s amateur regime after pursuing paid work. His 1951 Berlin return, work with the [[HarlemGlobetrotters]], public speaking, [[BudGreenspan]]'s documentary, and later books made the Long tale useful to German-American reconciliation, U.S. racial image-making, renewed fame, and his defense of interracial goodwill against the Black Power protest generation. Constraint helps explain the story's utility without independently proving Owens's private motive.
 
+[[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] preserves the earlier public-facing form of the story as preview provenance: Owens's narrow qualification, Long's alleged advice, public embrace, repeated meetings, and wartime letter are narrated before the excerpt ends on the warning that the account may be too good to be true. Because the full later episodes supply the actual evidentiary test, this compilation adds no independent support for the disputed claims.
+
 ## Key Characteristics
 
 - Won four gold medals at the 1936 Berlin Olympics.
@@ -44,17 +47,16 @@ Owens's enthusiastic German reception adds a two-way dimension. [[hitler-s-olymp
 - Correspondence correction: [[hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up]] reports missing letters and conflicts involving Long's family chronology and wartime location.
 - Boycott, livelihood, and reconciliation: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] joins Owens's Berlin decision to economic insecurity, professional entertainment, Cold War diplomacy, and the Long story's postwar use.
 - Protest generation: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] places Owens's counsel to John Carlos and role after the Mexico City protest inside his defense of disciplined participation.
+- Preview provenance: [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] records the inspirational version and its cliffhanger without the archival correction contained in Parts 6 and 7.
 
 ## Qualifications
 
-This is an event-centered profile, not a complete biography or an independently verified reconstruction of every press report, diary, photograph, letter, financial record, oral history, or audience response. Part 6 gives mutually reinforcing reasons to reject the enlarged Long story, but missing documentation cannot rule out every brief private exchange. Parts 6 and 7 distinguish genuine sportsmanship from rescue and correspondence claims; Part 7's account of Owens's motives remains interpretive. Economic and representative constraints shaped his choices without eliminating agency or proving that accommodation was his only available position.
+This is an event-centered profile, not a complete biography or an independently verified reconstruction of every press report, diary, photograph, letter, financial record, oral history, or audience response. Part 6 gives mutually reinforcing reasons to reject the enlarged Long story, but missing documentation cannot rule out every brief private exchange. Parts 6 and 7 distinguish genuine sportsmanship from rescue and correspondence claims; Part 7's account of Owens's motives remains interpretive. The compilation excerpt is derivative and stops before its own correction, so it should not be counted as independent corroboration. Economic and representative constraints shaped his choices without eliminating agency or proving that accommodation was his only available position.
 
 ## What Changed
 
-- Strengthened the correction of the Long rescue story with contemporary reporting, lodging, schedule, family, and wartime evidence.
-- Distinguished visible cordiality during the event from repeated private meetings and years of correspondence.
-- Clarified Owens, rather than Greenspan, as the story's principal originating narrator.
-- Preserved Part 7's political and economic explanation as interpretation rather than proof of private motive.
+- Added the compilation preview as non-independent provenance for the inspirational version.
+- Preserved the full later episodes' archival correction as the controlling current judgment.
 
 ## Relationships
 

@@ -5,6 +5,7 @@ tags: [sports, mythmaking, reconciliation, racism, public-memory]
 sources:
   - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
   - hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up
+  - pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The story nevertheless acquired several forms of apparent authority. Owens suppl
 
 [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale|Hitler’s Olympics, Part 7]] explains the demand side. The tale offered postwar Germans a decent German, supported German-American and interracial reconciliation, served U.S. cultural diplomacy, renewed Owens's public standing, and helped him defend disciplined participation against the Black Power protest generation. Correcting it therefore requires more than labeling one narrator dishonest: the story endured because institutions, media, family encounter, audiences, and the storyteller could all derive different benefits from it.
 
+[[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] demonstrates the narrative packaging itself. The compilation recounts rescue, embrace, friendship, and a final letter as a complete emotional arc, then ends on a “too good to be true” cliffhanger before presenting the evidence. Editorial sequencing can therefore amplify a legend even while announcing doubt, because the memorable story receives the detail and the correction remains deferred.
+
 ## Key Claims
 
 - A durable reconciliation myth can grow from a documented encounter without preserving its factual boundaries.
@@ -31,6 +34,7 @@ The story nevertheless acquired several forms of apparent authority. Owens suppl
 - Media and reference works may continue preferring an emotionally complete story after key participants express doubt.
 - Personal decency is easier to circulate than structural accounts of racism, propaganda, labor, and institutional punishment.
 - Correcting unsupported details does not require denying genuine sportsmanship or reducing the narrator and amplifiers to simple bad faith.
+- Preview structure can strengthen recall of a legend even when it signals that a later correction exists.
 
 ## Evidence
 
@@ -39,17 +43,16 @@ The story nevertheless acquired several forms of apparent authority. Owens suppl
 - Media and family authority: [[hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up]] follows Owens's account through Greenspan's film, Kai's participation, later skepticism, and journalists' continued preference for the legend.
 - Political demand: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] connects the 1951 Berlin reception and later storytelling to postwar German and U.S. needs.
 - Personal and generational utility: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] links the tale to Owens's livelihood, restored fame, and argument against public athlete protest.
+- Editorial packaging: [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] presents the full inspirational arc and only the promise of later correction.
 
 ## Counterevidence & Qualifications
 
-The two sources are sequential narrative interpretations based on structured summaries rather than the underlying press archive, documentary footage, family papers, oral histories, or complete historical scholarship. Missing evidence cannot exclude every private exchange, and the claimed propaganda commissioning of the stadium photographs remains inferential. The correction is strongest when multiple independent constraints converge: Long's silence, his lodging, Hitler's absence, family chronology, wartime geography, and missing correspondence. Emotional or symbolic value does not make the factual claims accurate, while factual correction does not erase photographed warmth or prove that Greenspan knowingly misled viewers.
+The three sources are narrative interpretations based on structured summaries rather than the underlying press archive, documentary footage, family papers, oral histories, or complete historical scholarship. The compilation is derivative and incomplete, so it adds evidence about packaging rather than independent historical support. Missing evidence cannot exclude every private exchange, and the claimed propaganda commissioning of the stadium photographs remains inferential. The correction is strongest when multiple independent constraints converge: Long's silence, his lodging, Hitler's absence, family chronology, wartime geography, and missing correspondence. Emotional or symbolic value does not make the factual claims accurate, while factual correction does not erase photographed warmth or prove that Greenspan knowingly misled viewers.
 
 ## What Changed
 
-- Added the full evidentiary chain separating documented cordiality from advice, private meetings, and correspondence.
-- Identified documentary image and family encounter as mechanisms that can look like independent corroboration.
-- Clarified that the myth's origin in Owens predates Greenspan's amplification.
-- Preserved private-contact uncertainty while rejecting the elaborate story as a supported historical account.
+- Added compilation-preview sequencing as a mechanism of myth circulation.
+- Distinguished evidence about narrative packaging from independent corroboration of the historical claim.
 
 ## Related Concepts
 

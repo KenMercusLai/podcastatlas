@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14366
+wiki_total_pages: 14370
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "KathleenClaussen"
     title: "Kathleen Claussen"
     url: "/wiki/entities/kathleenclaussen/"
+  - key: "KathrineSwitzer"
+    title: "Kathrine Switzer"
+    url: "/wiki/entities/kathrineswitzer/"
   - key: "KathrynPaigeHarden"
     title: "Kathryn Paige Harden"
     url: "/wiki/entities/kathrynpaigeharden/"

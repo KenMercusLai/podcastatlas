@@ -5,6 +5,7 @@ tags: [person, athletics, olympics, berlin-1936, public-memory]
 sources:
   - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
   - hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up
+  - pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The private-friendship record is weaker still. Long stayed in Leipzig and then a
 
 [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale|Hitler’s Olympics, Part 7]] explains Long's posthumous political importance. By 1951, encounters with his widow and [[KaiLong|son]] helped a white German who treated a Black American well become a symbol of personal decency beyond Nazi racism, German-American reconciliation, and interracial goodwill. Speeches, purported letters, and [[BudGreenspan]]'s documentary stabilized that role even as the underlying historical claims remained unsupported.
 
+[[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] shows the legend in compact preview form, narrating advice, embrace, friendship, and a purported final letter before withholding the corrective evidence behind its closing doubt. It therefore documents the story's portability rather than independently corroborating Long's actions.
+
 ## Key Characteristics
 
 - German long jumper and Owens's leading rival at Berlin 1936.
@@ -39,16 +42,16 @@ The private-friendship record is weaker still. Long stayed in Leipzig and then a
 - Private-meeting boundary: [[hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up]] uses family materials and lodging to reject repeated Olympic Village conversations.
 - Correspondence boundary: [[hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up]] reports missing letters and chronological and geographic conflicts.
 - Political afterlife: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] follows the tale through Long's family, speeches, documentary, and reconciliation politics.
+- Preview portability: [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] compresses the enlarged legend into a standalone inspirational narrative before a cliffhanger reversal.
 
 ## Qualifications
 
-This profile is bounded to two episode summaries and does not independently reconstruct Long's full biography, politics, athletic career, military service, or every interaction with Owens. Silence in his article and missing correspondence materially weaken the rescue and friendship story but do not prove that no unrecorded conversation occurred. The sources dispute the enlarged narrative without denying competition, cordiality, or mutual respect.
+This profile is bounded to three episode summaries and does not independently reconstruct Long's full biography, politics, athletic career, military service, or every interaction with Owens. The compilation is a derivative preview rather than separate corroboration. Silence in his article and missing correspondence materially weaken the rescue and friendship story but do not prove that no unrecorded conversation occurred. The sources dispute the enlarged narrative without denying competition, cordiality, or mutual respect.
 
 ## What Changed
 
-- Added Long's contemporary article, lodging record, and family chronology as direct tests of the later story.
-- Narrowed the supported relationship to competition, photographed cordiality, and genuine sportsmanship.
-- Distinguished family participation in later reconciliation from independent corroboration of the legend.
+- Added the compilation as evidence of the legend's compact, emotionally effective preview form.
+- Kept documented competition and cordiality separate from unsupported advice, intimacy, and correspondence.
 
 ## Relationships
 

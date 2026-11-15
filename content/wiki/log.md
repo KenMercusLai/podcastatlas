@@ -40540,3 +40540,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Pushkin Goes to the Olympics
+
+Added a [[RevisionistHistory]] compilation in which [[MalcolmGladwell]] connects women's distance-running exclusion, MRI/AI muscle mapping, and the [[JesseOwens]]–[[LutzLong]] friendship legend. Created [[KathrineSwitzer]], [[BobbiGibb]], [[SylviaBlemker]], [[SpringbokAnalytics]], [[WomenDistanceRunningExclusion]], and [[MuscleSpecificImaging]], then resynthesized [[HumanMovementDigitalTwin]], Owens, Long, [[SportsReconciliationMythmaking]], Gladwell, and Revisionist History from their preserved evidence inventories before appending the new source once.
+
+Core synthesis: official recognition, actual participation, and public visibility are distinct in women's marathon history; muscle-level maps can reveal targets hidden by aggregate testing but need validation and outcome linkage; and the Owens–Long excerpt is non-independent preview provenance whose cliffhanger does not supersede the stronger archival correction in the later full episodes. No new settled contradiction was adopted beyond the source's correction of first-woman claims and the already-recorded challenge to the enlarged Owens–Long story. Counts, dialogue, medical and imaging claims, athlete status, and historical details remain source-scoped because the supplied file is a structured summary rather than a transcript, race archive, clinical study, or complete investigation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,048 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

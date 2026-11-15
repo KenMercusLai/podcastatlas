@@ -31,6 +31,7 @@ sources:
   - the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2
   - the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1
   - the-tipping-point-revisited-an-excerpt
+  - pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -100,6 +101,8 @@ In the preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tippi
 Across the two Georgetown Massacre episodes, Gladwell turns courtroom advocacy into a staged dispute over moral and causal narrative. [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1|Part 1]] moves from [[TimothyDonovan]]'s apparently strong exchange account to [[BrendaSmithGeorgetown]]'s wealth-focused emails, weakening Georgetown's clean institutional contrast without directly resolving intent. [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2|Part 2]] then contrasts the false-injury theory with [[CatherineKhoury]]'s testimony and contemporaneous messages. The sequence makes witness agency and documentary timing vivid, but its dependence on defense interviews leaves the broader moral interpretation less secure than the reported acquittal.
 
 In [[the-tipping-point-revisited-an-excerpt|The Tipping Point Revisited: An Excerpt]], Gladwell returns to the epidemic model itself. Los Angeles bank-robbery methods supply the vivid narrative, but the New York comparison, [[JohnWennberg]]'s medical maps, and Waldorf-school vaccination clusters turn the inquiry toward [[BoundedSocialContagion]] and [[SmallAreaVariation]]. His revised emphasis is not that exposure automatically produces imitation, but that influential actors, local opportunity, organization, and community boundaries jointly shape where a behavior scales and where it stops.
+
+In [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics|Pushkin Goes to the Olympics]], Gladwell uses a compilation format to connect autobiographical Olympic memory with three kinds of revision: recovering women runners excluded by medical myth and official practice, showing how muscle-level imaging can change what coaches see, and presenting the Owens–Long legend before warning that its emotional completeness may exceed the record. The last segment also exposes a limit of preview storytelling: the doubt is announced, but the correcting evidence is deferred to later episodes.
 
 ## Key Characteristics
 
@@ -224,6 +227,10 @@ In [[the-tipping-point-revisited-an-excerpt|The Tipping Point Revisited: An Exce
 
 - [[the-tipping-point-revisited-an-excerpt]] joins Los Angeles robbery organization, New York's non-outbreak, medical-practice geography, and institution-level vaccination clusters to qualify simple imitation with local receptivity and boundary conditions.
 
+### Olympic compilation and deferred correction
+
+- [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] joins institutional exclusion, muscle measurement, and historical myth while making the difference between a compelling preview and a completed evidentiary correction visible.
+
 ## Qualifications
 
 This profile is bounded to structured episode summaries. Personal stories, historical interpretations, close readings, psychobiography, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may underweight evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy; neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey; and the Wu-Tang–secession parallel lacks evidence of direct influence. The golf episode is openly polemical. The Brown episode deliberately corrects a triumphal narrative but is not a comprehensive legal or education history. The *Encores* introduction establishes only Gladwell's retrospective selection and autobiographical framing, not the announced stories' conclusions. The *Good Old Boys* episode offers one historically framed interpretation of Newman's intent and audience response; discomfort and ambiguity do not by themselves prove artistic value, and a few reception cases cannot establish how the album is generally understood. The parapraxis episode reports a patterned archive and revealing live errors but cannot establish one unconscious cause, exclude performance and health factors, or diagnose its participants. *The King of Tears* offers selected musical comparisons rather than a representative lyric corpus or controlled reception study; its country-rock contrast, compression figures, cultural grouping, autobiographical interpretations, and listener responses remain source-scoped. *Hallelujah* offers selected success stories and a heuristic innovation binary rather than a representative study of artists, failed drafts, institutional selection, or reception; persistence, later popularity, and retrospective lineage do not prove latent genius or one decisive cause. Dan's favorable cancer outcome does not establish that minority opinions, surgery, intuition, or extensive consultation are generally superior. The two punishment conversations provide Gladwell's and his interlocutors' accounts rather than independent causal, legal, medical, or historical review; they give limited space to capital-punishment defenses, and acknowledging institutional cruelty does not by itself establish every case detail or constitutional conclusion. His face-recognition account is autobiographical rather than a documented diagnostic evaluation, and it does not establish prevalence, severity, cause, or the reliability of any compensatory cue. Both Kennedy episodes are polemical structured summaries requiring the underlying trial, package insert, paper, interviews, and wider evidence; their source critiques are more directly supported than their claims about Kennedy's motives or reading process.
@@ -244,11 +251,13 @@ This profile is bounded to structured episode summaries. Personal stories, histo
 
 The cross-domain epidemic analogy is supplied through a structured summary rather than crime data, court records, medical studies, vaccination datasets, or a transcript. Clustering, post-arrest decline, and geographic contrast do not by themselves identify transmission, establish one mechanism across domains, or exclude selection, opportunity, policy, capacity, enforcement, and measurement effects.
 
+The Olympic compilation is a structured summary of excerpts rather than race archives, clinical validation, or the full Owens–Long investigation. Its breadth supports analysis of Gladwell's framing, but the final cliffhanger cannot substitute for the evidence supplied by the later full episodes.
+
 ## What Changed
 
-- Restored the social-epidemic model while making local receptivity and community boundaries central.
-- Distinguished influential organizers from mass participation in the Los Angeles robbery account.
-- Preserved clustering as evidence to explain rather than proof of one cross-domain contagion mechanism.
+- Added Olympic compilation as a form joining personal memory, institutional correction, technology, and myth.
+- Made deferred evidence an explicit limit of preview storytelling.
+- Preserved the later full Owens–Long investigation as the controlling evidentiary account.
 
 ## Relationships
 
@@ -337,3 +346,5 @@ The cross-domain epidemic analogy is supplied through a structured summary rathe
 - [[RobertSheldonBrown]] and [[DonzellThompson]] - organizers through whom he illustrates disproportionate influence and scalable practice.
 - [[BoundedSocialContagion]] - revised epidemic framework joining influential actors, opportunity, local norms, and boundaries.
 - [[SmallAreaVariation]] - geographic pattern used to explain why practices and beliefs can cluster locally.
+- [[WomenDistanceRunningExclusion]] - institutional correction developed through the 1928 and Boston running cases.
+- [[SportsReconciliationMythmaking]] - historical-narrative framework whose correction the compilation previews but does not complete.

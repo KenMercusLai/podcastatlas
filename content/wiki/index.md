@@ -5169,8 +5169,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 - [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg.md) — 十字路口Crossing对话赵晨阳，以低成本自动化评估为核心串联RSI、开源代码治理、廉价智能、Computer Use、交互式语音和权责对等。
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
+- [Pushkin Goes to the Olympics](sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics.md) — Revisionist History compilation on women's distance-running exclusion, MRI/AI muscle mapping, and the historically disputed Owens–Long friendship story.
 
 ## Entities
+- [Kathrine Switzer](entities/KathrineSwitzer.md) — Runner whose numbered 1967 Boston entry and resistance to an official exposed women's practical exclusion.
+- [Bobbi Gibb](entities/BobbiGibb.md) — Earlier Boston runner whose 1967 presence corrects first-woman chronology while distinguishing participation from official recognition.
+- [Sylvia Blemker](entities/SylviaBlemker.md) — Biomedical engineer and Springbok Analytics co-founder using MRI/AI muscle maps in sport and rehabilitation.
+- [Springbok Analytics](entities/SpringbokAnalytics.md) — Company producing three-dimensional muscle-specific representations from MRI and computational analysis.
 - [Bud Greenspan](entities/BudGreenspan.md) — Olympic filmmaker whose documentary gave the disputed Owens–Long story durable visual authority.
 - [Gerlinde Rohr](entities/GerlindeRohr.md) — Leipzig sports historian whose archival and family research narrows the Owens–Long relationship to documented competition and cordiality.
 - [Kai Long](entities/KaiLong.md) — Lutz Long's son, who first received the friendship story from Owens and later questioned its unsupported correspondence claims.
@@ -19631,6 +19636,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Women's Distance-Running Exclusion](concepts/WomenDistanceRunningExclusion.md) — Institutional restriction through medicalized claims, sensational reporting, missing pathways, and practical eligibility enforcement.
+- [Muscle-Specific Imaging](concepts/MuscleSpecificImaging.md) — MRI and computational analysis of individual muscles for targeted assessment, training, and rehabilitation.
 - [Sports Reconciliation Mythmaking](concepts/SportsReconciliationMythmaking.md) — Process by which a real athletic encounter becomes a politically useful story of personal goodwill that can obscure factual uncertainty and structural inequality.
 - [Minority Athlete Representative Burden](concepts/MinorityAthleteRepresentativeBurden.md) — Unequal demand that a visible athlete represent a group, political system, institution, and acceptable strategy for change.
 - [Transnational Racial-Law Borrowing](concepts/TransnationalRacialLawBorrowing.md) — Selective adaptation of foreign discriminatory laws, classifications, practices, and legitimacy strategies.

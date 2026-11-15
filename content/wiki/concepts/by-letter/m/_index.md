@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11402
+wiki_total_pages: 11404
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "MuscleContractionGlucoseDisposal"
     title: "Muscle Contraction Glucose Disposal"
     url: "/wiki/concepts/musclecontractionglucosedisposal/"
+  - key: "MuscleSpecificImaging"
+    title: "Muscle-Specific Imaging"
+    url: "/wiki/concepts/musclespecificimaging/"
   - key: "MuscularChristianity"
     title: "Muscular Christianity"
     url: "/wiki/concepts/muscularchristianity/"
