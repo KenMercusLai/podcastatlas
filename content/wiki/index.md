@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Alabama Murders](sources/the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour.md) — Revisionist History previews a seven-part Alabama murder investigation through the power-grid analogy of a moral failure cascade and the question of systems compounding suffering.
 - [The Alabama Murders - Part 1: The True Church](sources/the-alabama-murders-part-1-the-true-church.md) — Revisionist History opens the series through the Shoals Church of Christ, Charles Sennett's concealed collapse, religious shame and grace, and a human failure cascade.
 - [The Alabama Murders - Part 2: Coon Dog Cemetery Road](sources/the-alabama-murders-part-2-coon-dog-cemetery-road.md) — Revisionist History reconstructs the planned Sennett assault, investigator suspicion of Charles, and the false closure of a crime whose consequences continued for decades.
 - [The Alabama Murders - Part 3: A Peculiar Institution](sources/the-alabama-murders-part-3-a-peculiar-institution.md) — Revisionist History reexamines Parker's murder conviction through weapon and timing evidence, then traces judicial override, prospective repeal, and failed retroactive repair.

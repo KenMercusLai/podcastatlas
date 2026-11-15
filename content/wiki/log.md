@@ -40025,3 +40025,13 @@ Core synthesis: the Shoals Church of Christ is presented as a source of love, in
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Alabama Murders
+
+Added the short [[TheAlabamaMurders]] series preview and resynthesized the series profile and [[HumanFailureCascade]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: the trailer borrows the 2003 northeastern blackout to describe a moral failure cascade in which an initiating breakdown changes the conditions for later safeguards and draws participants, observers, and attempted interveners into widening consequences. Its montage connects religion, disputed culpability, jury authority, imprisonment, lethal injection, apology, and continuing damage to the question of why systems created to answer suffering can instead intensify it. No settled contradiction was adopted. The preview is promotional and intentionally decontextualized, so speaker identities, case claims, medical mechanisms, chronology, and responsibility remain source-scoped; the infrastructure analogy also does not make human action deterministic or equalize blame. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,002 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -146671,9 +146671,9 @@
       "url": "/wiki/concepts/humanextractionposture/"
     },
     "HumanFailureCascade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
@@ -146681,6 +146681,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 1: The True Church",
           "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders [The_Alabama_Murders.mp3？t=1759408557&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0&utm_sour.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzEzNjYxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders",
+          "url": "/wiki/sources/the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour/"
         }
       ],
       "updated": "2026-11-15",
@@ -300051,9 +300058,9 @@
       "url": "/wiki/entities/theaiceobook/"
     },
     "TheAlabamaMurders": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -300110,6 +300117,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 1: The True Church",
           "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders [The_Alabama_Murders.mp3？t=1759408557&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0&utm_sour.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzEzNjYxLCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders",
+          "url": "/wiki/sources/the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour/"
         }
       ],
       "updated": "2026-11-15",

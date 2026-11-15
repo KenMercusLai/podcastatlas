@@ -11,6 +11,7 @@ sources:
   - the-alabama-murders-part-3-a-peculiar-institution
   - the-alabama-murders-part-2-coon-dog-cemetery-road
   - the-alabama-murders-part-1-the-true-church
+  - the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -19,11 +20,11 @@ last_updated: 2026-11-15
 
 ## Overview
 
-*The Alabama Murders* is a seven-part [[RevisionistHistory]] series that develops from the religious and personal setting around [[CharlesSennett]] and the killing of [[ElizabethSennett]] into an investigation of disputed culpability, false narrative closure, Alabama capital sentencing, execution methods, institutional secrecy, trauma, and repair.
+*The Alabama Murders* is a seven-part [[RevisionistHistory]] series that develops from the religious and personal setting around [[CharlesSennett]] and the killing of [[ElizabethSennett]] into an investigation of disputed culpability, false narrative closure, Alabama capital sentencing, execution methods, institutional secrecy, trauma, and repair. Its preview defines the project as a moral failure cascade and asks why systems created to answer suffering so often produce more of it.
 
 ## Current Profile
 
-The bounded sources now cover Parts 1-7 and a later interview. Part 1 opens with [[KatePorterfield]]'s account of Smith beginning with family love after a failed execution, then moves backward to the Shoals [[ChurchOfChrist]] and Sennett's concealed affairs, psychiatric crisis, debt, abuse, and fear of losing another ministry. Its [[ReligiousShameGraceGap]] and [[HumanFailureCascade]] frames treat shame, weak practical grace, and concealment as possible early pressures without making them sufficient causes.
+The bounded sources now cover the series preview, Parts 1-7, and a later interview. The preview borrows the 2003 northeastern blackout to define a cascade in which an initiating failure changes the conditions for every later safeguard; its montage signals religion, disputed responsibility, jury displacement, imprisonment, lethal injection, and family farewell without resolving any of them. Part 1 opens with [[KatePorterfield]]'s account of Smith beginning with family love after a failed execution, then moves backward to the Shoals [[ChurchOfChrist]] and Sennett's concealed affairs, psychiatric crisis, debt, abuse, and fear of losing another ministry. Its [[ReligiousShameGraceGap]] and [[HumanFailureCascade]] frames treat shame, weak practical grace, and concealment as possible early pressures without making them sufficient causes.
 
 Part 2 reconstructs the recruitment and staged-burglary plan, the assault, investigator suspicion of Sennett, and the arrests and confessions. It also establishes [[TrueCrimeResolutionFalseClosure]]: a solved mystery can begin rather than end a cascade of family and institutional harm. Part 3 then reexamines the murder trial: the recovered knife did not fit the fatal chest wounds, the episode's timeline places [[JohnForrestParker]] and [[KennethSmith]] away before those wounds, and testimony about Sennett's abuse supports an alternative-assailant theory without independently proving it. The series follows separate jury recommendations for life, judicial overrides imposing death, and Alabama's prospective-only repeal.
 
@@ -40,6 +41,10 @@ Parts 4-7 move from Parker's execution and [[TomPerryJr]]'s sustained presence t
 - Preserves Sennett and her family's grief while examining harm imposed on condemned people and those around them.
 
 ## Evidence
+
+### Series frame and central question
+
+- [[the-alabama-murders-the-alabama-murdersmp3t1759408557dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sour]] introduces the power-grid analogy, three-decade scope, core legal and execution disputes, and the question of institutions compounding suffering.
 
 ### Religious setting and concealed crisis
 
@@ -70,13 +75,12 @@ Parts 4-7 move from Parker's execution and [[TomPerryJr]]'s sustained presence t
 
 ## Qualifications
 
-The profile derives from related structured summaries rather than transcripts, production archives, church and financial records, police and confession files, complete court and legislative records, family testimony, medical files, protocols, or a developed defense of Alabama's actions and capital punishment. Part 1's shame-and-grace interpretation and Part 2's motive account do not establish why Sennett acted or make religion or mental illness causes of violence. Part 3's weapon and timing case materially strengthens the reasonable-doubt account but does not independently establish the fatal assailant or erase admitted participation. Childhood trauma does not determine later violence, and reported autopsy findings, execution experiences, animal evidence, and witness movement do not independently resolve awareness, pain, staff competence, or legality.
+The profile derives from related structured summaries rather than transcripts, production archives, church and financial records, police and confession files, complete court and legislative records, family testimony, medical files, protocols, or a developed defense of Alabama's actions and capital punishment. The preview is promotional and intentionally decontextualized; its unidentified montage cannot independently prove any case or medical claim. Part 1's shame-and-grace interpretation and Part 2's motive account do not establish why Sennett acted or make religion or mental illness causes of violence. Part 3's weapon and timing case materially strengthens the reasonable-doubt account but does not independently establish the fatal assailant or erase admitted participation. Childhood trauma does not determine later violence, and reported autopsy findings, execution experiences, animal evidence, and witness movement do not independently resolve awareness, pain, staff competence, or legality.
 
 ## What Changed
 
-- Completed coverage of Parts 1-7 by adding the Shoals religious setting and Sennett's concealed personal collapse.
-- Distinguished religious shame, practical grace, mental illness, debt, and abuse as interacting context rather than a single causal explanation.
-- Expanded the failure cascade from post-crime consequences to the pressures and missed interventions preceding the murder.
+- Made the preview's power-grid analogy and institutions-compounding-suffering question explicit as the series-level frame.
+- Added the preview as bounded evidence while keeping its unidentified montage subordinate to the fuller episodes.
 
 ## Relationships
 
