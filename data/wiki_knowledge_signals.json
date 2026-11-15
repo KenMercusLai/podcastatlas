@@ -44166,9 +44166,9 @@
       "url": "/wiki/concepts/capitalpunishmentaspoliticalspectacle/"
     },
     "CapitalPunishmentRetributionProblem": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "sp.04 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考(上)：关于民粹、私刑和死刑 [790230209].md",
@@ -44190,9 +44190,16 @@
           "show": "怪东西Weird History",
           "title": "21 东西方的死刑：从十字架到炮决",
           "url": "/wiki/sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso/"
+        },
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/capitalpunishmentretributionproblem/"
     },
     "CapitalizedResearchProcess": {
@@ -170470,6 +170477,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/kennethrogoff/"
     },
+    "KennethSmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/kennethsmith/"
+    },
     "KentaroFujita": {
       "episode_count": 1,
       "show_count": 1,
@@ -181416,6 +181439,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/lilascience/"
+    },
+    "LilianaSegura": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/lilianasegura/"
     },
     "LillieLangtry": {
       "episode_count": 1,
@@ -196956,9 +196995,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -197036,6 +197075,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know",
           "url": "/wiki/sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from/"
+        },
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
         }
       ],
       "updated": "2026-11-15",
@@ -203232,6 +203278,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/medicalizationofchildbirth/"
+    },
+    "MedicalizedExecutionOpacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/medicalizedexecutionopacity/"
     },
     "MedicationSelfCombinationRisk": {
       "episode_count": 2,
@@ -250186,9 +250248,9 @@
       "url": "/wiki/concepts/punishmentasmoralcredential/"
     },
     "PunishmentCertaintySeverityTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell_Doesn't_Mind_Being_Wrong_From_Hasan_Minhaj_Doesn't_Know [Malcolm_Gladwell_Doesn't_Mind_Being_Wrong_From.md",
@@ -250196,6 +250258,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know",
           "url": "/wiki/sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from/"
+        },
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
         }
       ],
       "updated": "2026-11-15",
@@ -299455,6 +299524,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/entities/theaiceobook/"
+    },
+    "TheAlabamaMurders": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
+          "key": "understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad",
+          "show": "Revisionist History",
+          "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
+          "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/thealabamamurders/"
     },
     "TheAlabamaSolution": {
       "episode_count": 1,

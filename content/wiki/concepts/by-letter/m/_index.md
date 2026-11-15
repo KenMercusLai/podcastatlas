@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11308
+wiki_total_pages: 11309
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "MedicalizationOfChildbirth"
     title: "Medicalisation of Childbirth"
     url: "/wiki/concepts/medicalizationofchildbirth/"
+  - key: "MedicalizedExecutionOpacity"
+    title: "Medicalized Execution Opacity"
+    url: "/wiki/concepts/medicalizedexecutionopacity/"
   - key: "MedicationInteractionRisk"
     title: "Medication Interaction Risk"
     url: "/wiki/concepts/medicationinteractionrisk/"

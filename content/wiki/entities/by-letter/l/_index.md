@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14237
+wiki_total_pages: 14240
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "LilaScience"
     title: "Lila Science"
     url: "/wiki/entities/lilascience/"
+  - key: "LilianaSegura"
+    title: "Liliana Segura"
+    url: "/wiki/entities/lilianasegura/"
   - key: "LillieLangtry"
     title: "Lillie Langtry"
     url: "/wiki/entities/lillielangtry/"

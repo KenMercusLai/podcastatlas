@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14237
+wiki_total_pages: 14240
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "KennethRogoff"
     title: "Kenneth Rogoff"
     url: "/wiki/entities/kennethrogoff/"
+  - key: "KennethSmith"
+    title: "Kenneth Smith"
+    url: "/wiki/entities/kennethsmith/"
   - key: "KennethStanley"
     title: "Kenneth Stanley"
     url: "/wiki/entities/kennethstanley/"

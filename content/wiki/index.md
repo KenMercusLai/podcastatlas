@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing](sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad.md) — Gladwell and Liliana Segura connect medicalized execution, secrecy, judicial tolerance, racial history, and abolition in an examination of Alabama's death penalty.
 - [Twas the Night Before Christmas](sources/twas-the-night-before-christmas-twas-the-night-before-christmas.md) — Revisionist History investigates the Livingston challenge to Moore's authorship, the poem's role in domestic Christmas, and how expert authority and false balance sustain weak controversies.
 - [Christmas in Connecticut](sources/christmas-in-connecticut-christmas-in-connecticut.md) — Revisionist History oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
 - [Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know](sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from.md) — Hasan Minhaj interview on public error correction, accessible nonfiction, career-stage work choices, and the certainty–severity tradeoff in punishment.
@@ -5116,6 +5117,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
+- [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose failed lethal-injection attempt and nitrogen-hypoxia case expose hidden execution procedure.
+- [The Alabama Murders](entities/TheAlabamaMurders.md) — Revisionist History series connecting trauma, Alabama capital cases, execution methods, secrecy, and abolition.
 - [A Visit from St. Nicholas](entities/AVisitFromStNicholas.md) — Anonymous 1823 poem that helped standardize domestic Santa imagery and remains conventionally attributed to Clement Clarke Moore.
 - [Clement Clarke Moore](entities/ClementClarkeMoore.md) — New York scholar and writer whose relevant light and child-oriented verse supports the conventional attribution of the Christmas poem.
 - [Henry Livingston Jr.](entities/HenryLivingstonJr.md) — Alternative authorship candidate supported by descendants and stylistic resemblance but not a surviving manuscript or public claim.
@@ -19446,6 +19450,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Medicalized Execution Opacity](concepts/MedicalizedExecutionOpacity.md) — Clinical appearance and restricted observation make execution seem controlled while hiding competence, failure, and experienced suffering.
 - [Literary Authorship Attribution](concepts/LiteraryAuthorshipAttribution.md) — Evidence framework combining stylistic comparison with provenance, chronology, corpus design, and disconfirming documents.
 - [False-Balance Controversy Persistence](concepts/FalseBalanceControversyPersistence.md) — Survival of a disputed claim when repeated balanced framing obscures unequal evidentiary support.
 - [Public Intellectual Error Correction](concepts/PublicIntellectualErrorCorrection.md) — Duty to revise an influential public claim when evidence changes and to name both the failed prediction and its consequences.

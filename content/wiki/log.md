@@ -39935,3 +39935,13 @@ Core synthesis: the episode finds the Moore attribution substantially better sup
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing
+
+Added the [[RevisionistHistory]] and Intercept Briefing conversation with [[MalcolmGladwell]] and [[LilianaSegura]] on US capital punishment. Created bounded profiles for Segura, [[KennethSmith]], and [[TheAlabamaMurders]]; added [[MedicalizedExecutionOpacity]]; and resynthesized [[CapitalPunishmentRetributionProblem]], [[PunishmentCertaintySeverityTradeoff]], and Gladwell from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: medical staging, immobilizing drugs, detailed protocol, restricted witnessing, confidential personnel, and secret drug sourcing can make execution appear calm and controlled without establishing what the condemned person experiences or whether the procedure is scientifically and clinically sound. Alabama judicial override, court tolerance of contested methods, and the history linking lynching to state execution make this an institutional and racial problem rather than a series of isolated technical failures. The speakers' abolitionist endpoint also keeps method reform distinct from legitimacy: certain guilt and painless administration would still not settle whether the state should kill. No settled contradiction was adopted. The episode strengthens the wiki's existing reform-versus-abolition distinction and qualifies public-spectacle analysis by showing how modern legitimacy can operate through controlled visibility. Execution totals, exoneration demographics, protocol origins, physiology, court history, political motives, racial causation, and individual case details remain episode-scoped because the supplied file is a structured summary rather than a transcript, court record, protocol, autopsy study, or balanced specialist review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,993 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
