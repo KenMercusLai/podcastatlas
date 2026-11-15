@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14120
+wiki_total_pages: 14126
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2222,6 +2222,9 @@ wiki_pages:
   - key: "CaoRen"
     title: "曹仁 / Cao Ren"
     url: "/wiki/entities/caoren/"
+  - key: "CaoXiuLateHan"
+    title: "曹休 / Cao Xiu (late Han)"
+    url: "/wiki/entities/caoxiulatehan/"
   - key: "CaoChongLateHan"
     title: "曹冲 / Cao Chong (late Han)"
     url: "/wiki/entities/caochonglatehan/"
@@ -2261,6 +2264,9 @@ wiki_pages:
   - key: "CaoBin"
     title: "曹彬 / Cao Bin"
     url: "/wiki/entities/caobin/"
+  - key: "CaoZhangLateHan"
+    title: "曹彰 / Cao Zhang (late Han)"
+    url: "/wiki/entities/caozhanglatehan/"
   - key: "CaoDeLateHan"
     title: "曹德 / Cao De (Late Han)"
     url: "/wiki/entities/caodelatehan/"

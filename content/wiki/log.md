@@ -39581,3 +39581,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | 《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急
+
+Added the [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode linking the failed [[XuduRebellion218LateHan|218 CE Xu rebellion]], [[CaoZhangLateHan|曹彰]]'s Wuhuan campaign, and [[HanzhongCampaign218LateHan|218 CE Hanzhong campaign]]. Created bounded profiles for [[JinYiLateHan|金祎]], [[CaoXiuLateHan|曹休]], [[YangHongLateHan|杨洪]], and the two campaign events; expanded [[PeiQianLateHan|裴潜]] from his complete two-source inventory; and added [[FrontlineRearGovernanceIntegration|前线作战与后方治理一体化]], [[PublicSignalIntentInference|公开信号下的意图判断]], and [[CrossRegionalTalentReallocationRisk|跨区域人才调配风险]].
+
+Core synthesis: a local surprise does not become strategic success while command continuity survives; public threats should be tested against the operational requirements of their claimed action; moving locally embedded officials can transfer risk between regions; and prolonged campaigning depends on rear administration as well as front-line courage. No settled contradiction was adopted. Jin Yi's precise role, purge scale, dialogue, chronology, the causal weight of Pei Qian's transfer, Cao Xiu's complete intelligence picture, and the scale and mechanics of Yi mobilization remain source-scoped because the supplied file is a structured summary rather than a cited historical edition. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,955 sources across 809 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

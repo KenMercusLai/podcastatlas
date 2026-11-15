@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14120
+wiki_total_pages: 14126
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -2138,6 +2138,9 @@ wiki_pages:
   - key: "JinniuRoad"
     title: "金牛道 / Jinniu Road"
     url: "/wiki/entities/jinniuroad/"
+  - key: "JinYiLateHan"
+    title: "金祎 / Jin Yi (late Han)"
+    url: "/wiki/entities/jinyilatehan/"
   - key: "JinLaoshiArtist"
     title: "金老师 / Jin Laoshi"
     url: "/wiki/entities/jinlaoshiartist/"

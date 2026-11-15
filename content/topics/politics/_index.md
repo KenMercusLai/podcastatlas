@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3508
+topic_total_pages: 3510
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1114,6 +1114,9 @@ topic_concepts:
   - key: "CrossProjectCashTransfer"
     title: "Cross-Project Cash Transfer"
     url: "/wiki/concepts/crossprojectcashtransfer/"
+  - key: "CrossRegionalTalentReallocationRisk"
+    title: "Cross-Regional Talent Reallocation Risk / 跨区域人才调配风险"
+    url: "/wiki/concepts/crossregionaltalentreallocationrisk/"
   - key: "CrowdWisdomPolling"
     title: "Crowd-Wisdom Polling"
     url: "/wiki/concepts/crowdwisdompolling/"
@@ -1888,6 +1891,9 @@ topic_concepts:
   - key: "FrontierThesis"
     title: "Frontier Thesis"
     url: "/wiki/concepts/frontierthesis/"
+  - key: "FrontlineRearGovernanceIntegration"
+    title: "Frontline–Rear Governance Integration / 前线作战与后方治理一体化"
+    url: "/wiki/concepts/frontlinereargovernanceintegration/"
   - key: "FugitiveSlaveActFederalism"
     title: "Fugitive Slave Act Federalism"
     url: "/wiki/concepts/fugitiveslaveactfederalism/"

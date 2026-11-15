@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14120
+wiki_total_pages: 14126
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1601,6 +1601,9 @@ wiki_pages:
   - key: "Hanzhong"
     title: "汉中 / Hanzhong"
     url: "/wiki/entities/hanzhong/"
+  - key: "HanzhongCampaign218LateHan"
+    title: "汉中争夺（218年） / Hanzhong Campaign (218 CE)"
+    url: "/wiki/entities/hanzhongcampaign218latehan/"
   - key: "HanJingdi"
     title: "汉景帝 / Emperor Jing of Han"
     url: "/wiki/entities/hanjingdi/"

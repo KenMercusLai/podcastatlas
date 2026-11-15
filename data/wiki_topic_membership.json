@@ -29380,6 +29380,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CrossRegionalTalentReallocationRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CrossSegmentMemoryCompetition": [
     {
       "key": "technology",
@@ -41409,6 +41416,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FrontlineRearGovernanceIntegration": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FrugalImperialBurialRestraint": [

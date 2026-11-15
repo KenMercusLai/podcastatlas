@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急](sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i.md) — 芮淇讲透资治通鉴以218年许都之乱、北方乌桓平叛和汉中争夺，对照仓促突袭、信号判断、跨区调人及前线—后方一体化。
 - [Wolfgang's Law - Part One](sources/wolfgang-s-law-part-one.md) — Revisionist History connects concentrated violence networks, expressive retaliation, weekly case review, and trusted community interruption in Baltimore.
 - [695. Can the U.S. Close Its Fertility Gap?](sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813.md) — Freakonomics Radio separates desired from completed family size and compares marriage, parenting norms, remote work, housing, and financial policy as qualified constraints.
 - [Wolfgang's Law - Part Two](sources/wolfgang-s-law-part-two.md) — Revisionist History compares minimally invasive bypass with focused deterrence to explain team-, identity-, and institution-level barriers to adopting promising methods.
@@ -5078,6 +5079,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [金祎 / Jin Yi (late Han)](entities/JinYiLateHan.md) — 参与218年许都忠汉起事、但个人行动仍受集体化和戏剧化叙事限制的汉末人物。
+- [许都之乱（218年） / Xu Rebellion (218 CE)](entities/XuduRebellion218LateHan.md) — 以节庆突袭和斩首为核心、局部得手却未切断曹军指挥并引发扩大清洗的忠汉起事。
+- [曹彰 / Cao Zhang (late Han)](entities/CaoZhangLateHan.md) — 受命平定乌桓并以战果威慑鲜卑、同时受君臣军令约束的曹操之子。
+- [曹休 / Cao Xiu (late Han)](entities/CaoXiuLateHan.md) — 以秘密行动与公开声势不相容为据识别张飞疑兵、帮助曹洪选择攻击吴兰的曹方将领。
+- [杨洪 / Yang Hong (late Han)](entities/YangHongLateHan.md) — 以汉中为益州咽喉主张增援，并以地方行政支撑前线兵粮动员的益州官员。
+- [汉中争夺（218年） / Hanzhong Campaign (218 CE)](entities/HanzhongCampaign218LateHan.md) — 从首次受挫转入长期对峙、把刘备攻势变成兵员粮草与后方治理考验的汉中战役阶段。
 - [Freakonomics Radio](entities/FreakonomicsRadio.md) — Economics podcast using expert disagreement to examine fertility preferences, work, housing, and family policy.
 - [Melissa Kearney](entities/MelissaKearney.md) — Economist interpreting U.S. fertility cohorts, intensive parenting, policy limits, and historical mortgage access.
 - [Lyman Stone](entities/LymanStone.md) — Demographer framing pronatalism as voluntary preference realization and emphasizing marriage, incentives, and family-suitable housing.
@@ -19291,6 +19298,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Frontline–Rear Governance Integration / 前线作战与后方治理一体化](concepts/FrontlineRearGovernanceIntegration.md) — 将兵员、粮草、地方行政和政治稳定视为同一持续作战系统的战略原则。
+- [Public-Signal Intent Inference / 公开信号下的意图判断](concepts/PublicSignalIntentInference.md) — 通过公开程度是否符合行动所需保密性来评估威胁意图、同时保留双重欺骗可能的判断方法。
+- [Cross-Regional Talent Reallocation Risk / 跨区域人才调配风险](concepts/CrossRegionalTalentReallocationRisk.md) — 调动能臣填补一地缺口时，另一地区可能失去关系、知识和合法性嵌入的治理风险。
 - [Fertility Gap](concepts/FertilityGap.md) — Difference between desired and completed family size, shaped by interacting biological, relationship, work, parenting, and housing constraints.
 - [Housing Access and Family Formation](concepts/HousingAccessFamilyFormation.md) — Mechanism linking stable, affordable housing and lower wealth thresholds to earlier household formation, marriage, and births.
 - [Intensive Parenting as a Fertility Constraint](concepts/IntensiveParentingFertilityConstraint.md) — Hypothesis that high-investment supervision and activity norms raise the expected burden of becoming a parent.

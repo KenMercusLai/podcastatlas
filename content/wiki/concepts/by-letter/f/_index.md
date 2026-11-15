@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11243
+wiki_total_pages: 11246
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1556,6 +1556,9 @@ wiki_pages:
   - key: "FrontlineAIEnablement"
     title: "Frontline AI Enablement"
     url: "/wiki/concepts/frontlineaienablement/"
+  - key: "FrontlineRearGovernanceIntegration"
+    title: "Frontline–Rear Governance Integration / 前线作战与后方治理一体化"
+    url: "/wiki/concepts/frontlinereargovernanceintegration/"
   - key: "FrustrationToleranceLearningSpace"
     title: "Frustration-Tolerance Learning Space"
     url: "/wiki/concepts/frustrationtolerancelearningspace/"

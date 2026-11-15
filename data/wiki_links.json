@@ -17695,6 +17695,10 @@
     "title": "曹性 / Cao Xing (late Han)",
     "url": "/wiki/entities/caoxinglatehan/"
   },
+  "CaoXiuLateHan": {
+    "title": "曹休 / Cao Xiu (late Han)",
+    "url": "/wiki/entities/caoxiulatehan/"
+  },
   "CaoXudong": {
     "title": "Cao Xudong",
     "url": "/wiki/entities/caoxudong/"
@@ -17714,6 +17718,10 @@
   "CaoYinLateHan": {
     "title": "曹寅 / Cao Yin (late Han)",
     "url": "/wiki/entities/caoyinlatehan/"
+  },
+  "CaoZhangLateHan": {
+    "title": "曹彰 / Cao Zhang (late Han)",
+    "url": "/wiki/entities/caozhanglatehan/"
   },
   "CaoZhengLateHan": {
     "title": "曹整 / Cao Zheng (late Han)",
@@ -25150,6 +25158,10 @@
   "CrossProjectCashTransfer": {
     "title": "Cross-Project Cash Transfer",
     "url": "/wiki/concepts/crossprojectcashtransfer/"
+  },
+  "CrossRegionalTalentReallocationRisk": {
+    "title": "Cross-Regional Talent Reallocation Risk / 跨区域人才调配风险",
+    "url": "/wiki/concepts/crossregionaltalentreallocationrisk/"
   },
   "CrossSegmentMemoryCompetition": {
     "title": "Cross-Segment Memory Competition",
@@ -37735,6 +37747,10 @@
     "title": "Frontline AI Enablement",
     "url": "/wiki/concepts/frontlineaienablement/"
   },
+  "FrontlineRearGovernanceIntegration": {
+    "title": "Frontline–Rear Governance Integration / 前线作战与后方治理一体化",
+    "url": "/wiki/concepts/frontlinereargovernanceintegration/"
+  },
   "FrostMing": {
     "title": "Frost 明 / 明熙",
     "url": "/wiki/entities/frostming/"
@@ -42658,6 +42674,10 @@
   "HanzhongCampaign215": {
     "title": "曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)",
     "url": "/wiki/entities/hanzhongcampaign215/"
+  },
+  "HanzhongCampaign218LateHan": {
+    "title": "汉中争夺（218年） / Hanzhong Campaign (218 CE)",
+    "url": "/wiki/entities/hanzhongcampaign218latehan/"
   },
   "HanzhongDui": {
     "title": "Hanzhong Dui / 汉中对",
@@ -50998,6 +51018,10 @@
   "JinXiaolin": {
     "title": "金晓霖 / Jin Xiaolin",
     "url": "/wiki/entities/jinxiaolin/"
+  },
+  "JinYiLateHan": {
+    "title": "金祎 / Jin Yi (late Han)",
+    "url": "/wiki/entities/jinyilatehan/"
   },
   "JinYingBreastCancerSurvivor": {
     "title": "金颖 / Jin Ying (breast-cancer survivor)",
@@ -75978,6 +76002,10 @@
   "PublicServiceJournalism": {
     "title": "Public Service Journalism",
     "url": "/wiki/concepts/publicservicejournalism/"
+  },
+  "PublicSignalIntentInference": {
+    "title": "Public-Signal Intent Inference / 公开信号下的意图判断",
+    "url": "/wiki/concepts/publicsignalintentinference/"
   },
   "PublicSpaceRoutineTracking": {
     "title": "Public Space Routine Tracking",
@@ -101455,6 +101483,10 @@
     "title": "许都 / Xudu",
     "url": "/wiki/entities/xudu/"
   },
+  "XuduRebellion218LateHan": {
+    "title": "许都之乱（218年） / Xu Rebellion (218 CE)",
+    "url": "/wiki/entities/xudurebellion218latehan/"
+  },
   "XueBaochai": {
     "title": "薛宝钗 / Xue Baochai",
     "url": "/wiki/entities/xuebaochai/"
@@ -102030,6 +102062,10 @@
   "YangGuoJinYong": {
     "title": "杨过（金庸小说） / Yang Guo (Jin Yong)",
     "url": "/wiki/entities/yangguojinyong/"
+  },
+  "YangHongLateHan": {
+    "title": "杨洪 / Yang Hong (late Han)",
+    "url": "/wiki/entities/yanghonglatehan/"
   },
   "YangHuiLateHan": {
     "title": "杨晖 / Yang Hui (late Han)",
@@ -115986,6 +116022,10 @@
   "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8": {
     "title": "《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8/"
+  },
+  "zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i": {
+    "title": "《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11243
+wiki_total_pages: 11246
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2828,6 +2828,9 @@ wiki_pages:
   - key: "PublicServiceDataPlatformTradeoff"
     title: "Public-Service Data Platform Trade-Off"
     url: "/wiki/concepts/publicservicedataplatformtradeoff/"
+  - key: "PublicSignalIntentInference"
+    title: "Public-Signal Intent Inference / 公开信号下的意图判断"
+    url: "/wiki/concepts/publicsignalintentinference/"
   - key: "PublicToPrivateStrategicReset"
     title: "Public-to-Private Strategic Reset"
     url: "/wiki/concepts/publictoprivatestrategicreset/"
