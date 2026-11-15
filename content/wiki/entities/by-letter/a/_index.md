@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14309
+wiki_total_pages: 14310
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "AlisonMatthewsDavid"
     title: "Alison Matthews David"
     url: "/wiki/entities/alisonmatthewsdavid/"
+  - key: "AlisonWoodBrooks"
+    title: "Alison Wood Brooks"
+    url: "/wiki/entities/alisonwoodbrooks/"
   - key: "AlissaEberhardt"
     title: "Alissa Eberhardt / 阿丽莎·艾伯哈特"
     url: "/wiki/entities/alissaeberhardt/"

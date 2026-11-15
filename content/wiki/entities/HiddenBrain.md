@@ -7,6 +7,7 @@ sources:
   - default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403
   - default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568
   - default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014
+  - default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, biased motive attribution, forgiveness, and false-confession research.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, biased motive attribution, forgiveness, false-confession research, and difficult conversations.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -25,6 +26,8 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014|Did I Really Do That?]] has [[SaulKassin]] show how authority, isolation, duration, misinformation, immediate relief, and memory doubt can produce voluntary, compliant, or internalized false confessions. It then follows the confession into [[PostConfessionEvidenceContamination]], where jurors, witnesses, alibi providers, and forensic interpretation may cease to function as independent checks.
 
+[[default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116|The Conversations that Bring Us Closer]] has [[AlisonWoodBrooks]] treat difficult interaction as a problem of arousal, goals, perspective discovery, visible openness, and repair. [[ConversationalReceptiveness]] combines questions, acknowledgment, validation without agreement, qualified language, and common ground; apology and emotional reframing remain useful only within the episode's good-faith and safety boundaries.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
 - Connects research ideas to relationships, politics, justice, and mental health.
@@ -32,6 +35,7 @@ The current bounded evidence shows the program combining research explanation, c
 - Moves from observed human experience to mechanisms, population evidence, and usable everyday practices.
 - Preserves safety, accountability, and evidential limits when translating charitable interpretation or forgiveness into advice.
 - Uses wrongful-conviction cases and experiments to challenge intuitive confidence in confession evidence and to motivate transparent investigation reform.
+- Translates difficult-conversation research into observable language, emotional self-monitoring, and repair practices.
 
 ## Evidence
 - Explanation and reasoning - [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361]] develops [[ExplanationDrivenSensemaking]], [[SelfExplanationKnowledgeCalibration]], and [[ExplanatoryOverreach]].
@@ -40,12 +44,13 @@ The current bounded evidence shows the program combining research explanation, c
 - Intention and moral judgment - [[default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568]] develops [[TheoryOfMindMoralJudgment]] and [[BiasedIntentionAttribution]].
 - Forgiveness and repair - [[default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568]] distinguishes [[ForgivenessWithoutReconciliation]] from [[AccountableSelfForgiveness]].
 - Confession and investigation - [[default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014]] develops [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]] through case and experimental evidence.
+- Difficult conversations - [[default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116]] develops [[ConversationalReceptiveness]] and extends [[DifficultConversationDelivery]] through learning, acknowledgment, perspective questions, and apology.
 
 ## Qualifications
-The profile is based on four supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, or independent study review. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, interrogation, and confession-reliability claims remain episode-scoped. Charitable interpretation and forgiveness do not erase credible danger, boundaries, accountability, or the injured person's control over contact; false-confession research does not imply that every confession is unreliable.
+The profile is based on five supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, personal conversation examples, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, or independent study review. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, and confession-reliability claims remain episode-scoped. Charitable interpretation, receptiveness, apology, and forgiveness do not erase credible danger, boundaries, accountability, power differences, or the injured person's control over contact; false-confession research does not imply that every confession is unreliable.
 
 ## What Changed
-- Added the false-confession and evidence-contamination branch, including full-recording and alternative-hypothesis safeguards.
+- Added the difficult-conversation branch connecting arousal, goal choice, visible openness, perspective discovery, and apology.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -60,3 +65,5 @@ The profile is based on four supplied episode summaries and does not establish t
 - [[SaulKassin]] - psychologist guiding the confession and wrongful-conviction branch.
 - [[FalseConfessionPsychology]] - framework distinguishing routes to false admission.
 - [[PostConfessionEvidenceContamination]] - mechanism by which confession evidence reshapes later proof.
+- [[AlisonWoodBrooks]] - behavioral scientist guiding the difficult-conversation branch.
+- [[ConversationalReceptiveness]] - visible openness framework presented by the show.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11359
+wiki_total_pages: 11360
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2690,6 +2690,9 @@ wiki_pages:
   - key: "ConversationalBeautyAdvising"
     title: "Conversational Beauty Advising"
     url: "/wiki/concepts/conversationalbeautyadvising/"
+  - key: "ConversationalReceptiveness"
+    title: "Conversational Receptiveness"
+    url: "/wiki/concepts/conversationalreceptiveness/"
   - key: "ConversationalSearchInterface"
     title: "Conversational Search Interface"
     url: "/wiki/concepts/conversationalsearchinterface/"

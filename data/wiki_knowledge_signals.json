@@ -15192,6 +15192,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/alisonmatthewsdavid/"
     },
+    "AlisonWoodBrooks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116 [default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116].md",
+          "key": "default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116",
+          "show": "Hidden Brain",
+          "title": "The Conversations that Bring Us Closer",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/alisonwoodbrooks/"
+    },
     "AlissaEberhardt": {
       "episode_count": 1,
       "show_count": 1,
@@ -64940,6 +64956,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/conversationalbeautyadvising/"
     },
+    "ConversationalReceptiveness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116 [default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116].md",
+          "key": "default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116",
+          "show": "Hidden Brain",
+          "title": "The Conversations that Bring Us Closer",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/conversationalreceptiveness/"
+    },
     "ConversationalUtilityPayment": {
       "episode_count": 1,
       "show_count": 1,
@@ -79638,9 +79670,9 @@
       "url": "/wiki/concepts/differentiatedthyroidcancerdecisionmaking/"
     },
     "DifficultConversationDelivery": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5142864264 [SCIM5142864264].md",
@@ -79648,9 +79680,16 @@
           "show": "Huberman Lab",
           "title": "How to Succeed at Hard Conversations | Chris Voss",
           "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116 [default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116].md",
+          "key": "default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116",
+          "show": "Hidden Brain",
+          "title": "The Conversations that Bring Us Closer",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/difficultconversationdelivery/"
     },
     "Diggers": {
@@ -139641,9 +139680,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -139672,6 +139711,13 @@
           "show": "Hidden Brain",
           "title": "Did I Really Do That?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116 [default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116].md",
+          "key": "default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116",
+          "show": "Hidden Brain",
+          "title": "The Conversations that Bring Us Closer",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116/"
         }
       ],
       "updated": "2026-11-16",

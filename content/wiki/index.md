@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Conversations that Bring Us Closer](sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116.md) — Hidden Brain and Alison Wood Brooks on difficult-conversation goals, visible receptiveness, perspective questions, emotional reframing, and apology.
 - [Welcoming Heavyweight](sources/welcoming-heavyweight-welcoming-heavyweight.md) — Heavyweight uses an estranged brothers' reunion to connect contested family memory, childhood harm, perspective revision, and modest behavioral repair.
 - [Revisionist History is Back](sources/revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Season preview spanning PAW Patrol, George Floyd, English muffins, raccoon research, face recognition, and RFK Jr., with later full episodes supplying the substantive evidence.
 - [史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普](sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb.md) — 史蒂夫说把日常情感操纵理解为解释权、注意力与关系权力问题，并以延迟回应、保留判断、外部参照和安全边界提出分阶段应对。
@@ -5148,6 +5149,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Alison Wood Brooks](entities/AlisonWoodBrooks.md) — Behavioral scientist connecting difficult conversations to visible receptiveness, perspective discovery, emotional regulation, and apology.
 - [Heavyweight](entities/Heavyweight.md) — Narrative podcast using participant-led inquiry and mediation to revisit unresolved personal histories.
 - [Jonathan Goldstein](entities/JonathanGoldstein.md) — Heavyweight host who arranges, accompanies, and narrates the brothers' reunion.
 - [Buzz (Heavyweight)](entities/BuzzHeavyweight.md) — Younger brother whose long-held abandonment interpretation becomes open to revision.
@@ -5327,7 +5329,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
-- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, forgiveness, and false-confession research.
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, forgiveness, false-confession research, and difficult conversations.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
@@ -19550,6 +19552,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Conversational Receptiveness](concepts/ConversationalReceptiveness.md) — Openness made visible through learning goals, acknowledgment, validation without agreement, questions, qualified language, and common ground.
 - [Family Estrangement Repair](concepts/FamilyEstrangementRepair.md) — Cautious reopening of contact through consent, perspective revision, and tolerable future behavior without requiring complete settlement.
 - [Emotional Manipulation Recognition / 情感操纵识别](concepts/EmotionalManipulationRecognition.md) — Behavior-first recognition of interpretive control, attention diversion, responsibility reversal, moving standards, and outside-reference erosion.
 - [Decision Fixation](concepts/DecisionFixation.md) — Persistence in an initial interpretation after cumulative evidence should trigger a deliberate analytical restart.
@@ -21916,7 +21919,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tactical Empathy](concepts/TacticalEmpathy.md) — Demonstrated understanding of perspective and emotion without requiring agreement or concession.
 - [Calibrated Negotiation Questions](concepts/CalibratedNegotiationQuestions.md) — How-and-what prompts that slow reaction and expose constraints, credibility, and implementation.
 - [Negotiation Reality Testing](concepts/NegotiationRealityTesting.md) — Verification of deal viability, leverage, identity, threats, trust, and promised follow-through.
-- [Difficult Conversation Delivery](concepts/DifficultConversationDelivery.md) — Brief preparation and humane directness for unwanted news, endings, and boundaries.
+- [Difficult Conversation Delivery](concepts/DifficultConversationDelivery.md) — Humane directness paired with preparation, receptive feedback, learning goals, and repair.
 - [Hostage and Crisis Negotiation](concepts/HostageCrisisNegotiation.md) — High-stakes communication shaped by threat specificity, team coordination, fatigue, tactics, and survival.
 - [Ego Depletion Debate](concepts/EgoDepletionDebate.md) — Contested interaction among repeated self-control, resource accounts, glucose, belief, physiology, and task context.
 - [Anterior Mid-Cingulate Willpower](concepts/AnteriorMidCingulateWillpower.md) — Bounded hypothesis that an integrative cingulate hub supports context-sensitive action, restraint, and persistence.

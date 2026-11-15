@@ -40277,3 +40277,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Conversations that Bring Us Closer
+
+Added the [[HiddenBrain]] episode with [[AlisonWoodBrooks]] on difficult conversations, emotional arousal, learning goals, perspective discovery, and apology. Created [[ConversationalReceptiveness]], then resynthesized [[DifficultConversationDelivery]] and Hidden Brain from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: productive disagreement depends on both internal openness and visible evidence of it. Questions, acknowledgment, validation without agreement, qualified language, and genuine common ground can preserve attention and dignity while substantive disagreement remains. Emotional reinterpretation and apology can support repair, but receptiveness is not unlimited engagement and does not replace boundaries, documentation, distance, or exit in coercion, abuse, severe asymmetry, or unsafe contact. No settled contradiction was adopted. Effectiveness, mechanism, child-development, and relationship-outcome claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, study report, clinical protocol, or safety guide. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,025 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
