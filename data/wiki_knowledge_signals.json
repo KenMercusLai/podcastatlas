@@ -23000,6 +23000,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/arnoldleese/"
     },
+    "ArnoldSchwarzenegger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
+          "key": "christmas-in-connecticut-christmas-in-connecticut",
+          "show": "Revisionist History",
+          "title": "Christmas in Connecticut",
+          "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/arnoldschwarzenegger/"
+    },
     "ArousalCircuitSpecificity": {
       "episode_count": 1,
       "show_count": 1,
@@ -32565,9 +32581,9 @@
       "url": "/wiki/entities/benmacintyre/"
     },
     "BenNaddaffHafrey": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -32582,6 +32598,13 @@
           "show": "Revisionist History",
           "title": "Coming Soon: The Staten Island Problem",
           "url": "/wiki/sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem/"
+        },
+        {
+          "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
+          "key": "christmas-in-connecticut-christmas-in-connecticut",
+          "show": "Revisionist History",
+          "title": "Christmas in Connecticut",
+          "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
         }
       ],
       "updated": "2026-11-15",
@@ -53800,6 +53823,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/christinedepizan/"
+    },
+    "ChristmasInConnecticut1992": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
+          "key": "christmas-in-connecticut-christmas-in-connecticut",
+          "show": "Revisionist History",
+          "title": "Christmas in Connecticut",
+          "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/christmasinconnecticut1992/"
     },
     "ChristmasTruce1914": {
       "episode_count": 2,
@@ -228211,9 +228250,9 @@
       "url": "/wiki/concepts/outcomedrivenaiworkflow/"
     },
     "OutcomeIndependentCreativePractice": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5595688842 [SCIM5595688842].md",
@@ -228242,6 +228281,13 @@
           "show": "Huberman Lab",
           "title": "How to Overcome Inner Resistance | Steven Pressfield",
           "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
+        },
+        {
+          "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
+          "key": "christmas-in-connecticut-christmas-in-connecticut",
+          "show": "Revisionist History",
+          "title": "Christmas in Connecticut",
+          "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
         }
       ],
       "updated": "2026-10-10",
@@ -286419,6 +286465,22 @@
       ],
       "updated": "2026-11-02",
       "url": "/wiki/concepts/stalinistsalamitactics/"
+    },
+    "StanBrooks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
+          "key": "christmas-in-connecticut-christmas-in-connecticut",
+          "show": "Revisionist History",
+          "title": "Christmas in Connecticut",
+          "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/stanbrooks/"
     },
     "StandingGeneticVariation": {
       "episode_count": 1,

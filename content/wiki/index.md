@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Christmas in Connecticut](sources/christmas-in-connecticut-christmas-in-connecticut.md) — Revisionist History oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
 - [Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know](sources/malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from.md) — Hasan Minhaj interview on public error correction, accessible nonfiction, career-stage work choices, and the certainty–severity tradeoff in punishment.
 - [Invisible Infrastructure with T-Mobile for Business](sources/invisible-infrastructure-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on 5G network slicing, field journalism, remote energy maintenance, and connectivity-enabled workflow redesign.
 - [The Big Birthday Party](sources/the-big-birthday-party-the-big-birthday-party.md) — Revisionist History's tenth-anniversary retrospective on candid collaboration, discovery-led audio, found moments, and listeners as partners in inquiry.
@@ -5113,6 +5114,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Arnold Schwarzenegger](entities/ArnoldSchwarzenegger.md) — Actor and governor represented through a low-risk, highly interventionist, and artistically uneven feature-directing experiment.
+- [Stan Brooks](entities/StanBrooks.md) — Television producer who developed the remake, protected Schwarzenegger's participation, and valued repeated making over prestige scarcity.
+- [Christmas in Connecticut (1992 film)](entities/ChristmasInConnecticut1992.md) — TNT remake remembered more warmly as an improbable shared production than as a critical or directing success.
 - [Hasan Minhaj](entities/HasanMinhaj.md) — Comedian and interviewer who uses explicit uncertainty and visible disagreement to test public claims and institutional responsibility.
 - [T-Mobile](entities/TMobile.md) — Mobile-network provider presented through enterprise slicing, first-response, journalism, and industrial field-work cases.
 - [Siemens Energy](entities/SiemensEnergy.md) — Energy-technology company using connected temporary worksites and remote expertise for turbine and generator maintenance.

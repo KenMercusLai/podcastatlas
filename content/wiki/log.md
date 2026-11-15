@@ -39906,3 +39906,12 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-15] ingest | Christmas in Connecticut
+
+Added the [[RevisionistHistory]] oral history of [[ChristmasInConnecticut1992|Christmas in Connecticut]], created focused profiles for the film, [[ArnoldSchwarzenegger]], and [[StanBrooks]], and resynthesized [[BenNaddaffHafrey]] and [[OutcomeIndependentCreativePractice]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: a creative project can retain relational and experiential value through commitment, friendship, and the pleasure of making even when its finished artifact is visibly flawed and fails to open the hoped-for career path. That value is participant-specific rather than exonerating: Janet Brownell's reported distress over a radically changed film retaining her credit prevents collaborators' affectionate memories from defining the whole production. No settled factual contradiction was adopted. Motives, dialogue, set incidents, budget, compensation, attendance, reception, friendship, policy influence, and production memories remain episode-scoped because the supplied file is a structured summary rather than a transcript, film, screenplay drafts, production archive, contracts, reviews corpus, commission record, or testimony from every participant. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 4,990 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

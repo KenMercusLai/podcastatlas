@@ -17028,6 +17028,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ArnoldSchwarzenegger": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ArousalCircuitSpecificity": [
     {
       "key": "science",
@@ -25193,6 +25200,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ChristmasInConnecticut1992": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ChristopherHarborne": [
@@ -87454,6 +87468,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "StanBrooks": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "StandTogether": [
