@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3517
+topic_total_pages: 3518
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9930,6 +9930,9 @@ topic_sources:
   - key: "the-sneaky-way-companies-get-new-chemicals-into-our-food"
     title: "The sneaky way companies get new chemicals into our food"
     url: "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
+  - key: "the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map"
+    title: "The Staten Island Problem - Part 2: A New Map"
+    url: "/wiki/sources/the-staten-island-problem-part-2-a-new-map-the-staten-island-problem-part-2-a-new-map/"
   - key: "the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect"
     title: "The Staten Island Problem - Part 3: The Tuvalu Effect"
     url: "/wiki/sources/the-staten-island-problem-part-3-the-tuvalu-effect-the-staten-island-problem-part-3-the-tuvalu-effect/"

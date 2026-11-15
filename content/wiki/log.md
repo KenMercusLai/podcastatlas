@@ -39693,3 +39693,13 @@ Core synthesis: studies reported by both camps found that Staten Island received
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Staten Island Problem - Part 2: A New Map
+
+Added the [[RevisionistHistory]] episode reconstructing the institutional, organizational, and emotional origins of [[StatenIslandSecession1993|Staten Island's secession campaign]]. Created bounded profiles for [[DanSingletary]], [[BobbyScamardella]], [[JohnMarchi]], and the [[NewYorkCityBoardOfEstimate]], added [[LogoMap]], and resynthesized [[StatenIsland]], the referendum, and [[PlaceBasedDemocraticRecognition]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the Supreme Court's one-person-one-vote ruling corrected a severe population inequality while removing a small borough's territorial leverage; Fresh Kills, services, infrastructure, and petition work turned cumulative complaint into organized politics; and bridge-era development plus symbolic exclusion gave self-government the emotional force of recovering a partly idealized past that secession could not necessarily restore. No settled factual contradiction was adopted. Population, waste, infrastructure, court, petition, and development claims remain episode-attributed, and participant memories do not represent every resident's experience. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,967 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
