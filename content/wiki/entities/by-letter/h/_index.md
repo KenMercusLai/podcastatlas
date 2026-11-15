@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14348
+wiki_total_pages: 14353
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "HowardMarks"
     title: "Howard Marks / 霍华德·马克斯"
     url: "/wiki/entities/howardmarks/"
+  - key: "HowardSrebnick"
+    title: "Howard Srebnick"
+    url: "/wiki/entities/howardsrebnick/"
   - key: "HPInc"
     title: "HP Inc."
     url: "/wiki/entities/hpinc/"

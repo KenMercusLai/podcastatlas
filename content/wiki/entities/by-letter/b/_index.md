@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14348
+wiki_total_pages: 14353
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "Breakneck"
     title: "Breakneck"
     url: "/wiki/entities/breakneck/"
+  - key: "BrendaSmithGeorgetown"
+    title: "Brenda Smith (Georgetown fundraiser)"
+    url: "/wiki/entities/brendasmithgeorgetown/"
   - key: "BrendanBrady"
     title: "Brendan Brady"
     url: "/wiki/entities/brendanbrady/"

@@ -40468,3 +40468,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Tipping Point Revisited: Georgetown Massacre Part 1
+
+Added the first half of the [[RevisionistHistory]] account of [[USVKhoury|U.S. v. Khoury]], moving from [[TimothyDonovan]]'s intermediary testimony to [[BrendaSmithGeorgetown]]'s email cross-examination. Created Brenda Smith, [[GordonErnst]], Timothy Donovan, [[HowardSrebnick]], [[LeoKatz]], and [[BriberyInstitutionalInfluenceBoundary]], then resynthesized the case cluster, [[AdmissionsFundraisingEntanglement]], [[TrialNarrativeReframing]], [[MalcolmGladwell]], and Revisionist History from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Georgetown's wealth-focused fundraising emails weaken a claim that admissions-related athletic recruitment and donor cultivation were wholly separate, but they do not establish that the university authorized a private payment or that accepted influence and bribery share the same legal elements. No settled contradiction was adopted. Donovan's assessment of Catherine's ability and intent remains in conflict with her Part 2 testimony, and the Part 1 Amon/Katherine spellings are normalized to the existing Ayman/Catherine identities while preserved as source-level uncertainty. Payment amounts, dialogue, motives, witness credibility, emails, camp practices, and the broader legal account remain episode-scoped because the supplied file is a structured summary rather than a transcript, exhibits, charging record, jury instructions, or balanced legal review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,042 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

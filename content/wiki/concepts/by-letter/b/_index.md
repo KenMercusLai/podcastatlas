@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11394
+wiki_total_pages: 11395
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "BrexitRegulatoryDividend"
     title: "Brexit Regulatory Dividend"
     url: "/wiki/concepts/brexitregulatorydividend/"
+  - key: "BriberyInstitutionalInfluenceBoundary"
+    title: "Bribery–Institutional Influence Boundary"
+    url: "/wiki/concepts/briberyinstitutionalinfluenceboundary/"
   - key: "BridgeLoadCapacity"
     title: "Bridge Load Capacity"
     url: "/wiki/concepts/bridgeloadcapacity/"

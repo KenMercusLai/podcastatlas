@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14348
+wiki_total_pages: 14353
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "GordonMoore"
     title: "Gordon Moore"
     url: "/wiki/entities/gordonmoore/"
+  - key: "GordonErnst"
+    title: "Gordon “Gordie” Ernst"
+    url: "/wiki/entities/gordonernst/"
   - key: "Goree"
     title: "Goree Island"
     url: "/wiki/entities/goree/"

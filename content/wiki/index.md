@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Tipping Point Revisited: Georgetown Massacre Part 1](sources/the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1.md) — Revisionist History episode on the Khoury prosecution, Donovan's intermediary account, Brenda Smith's fundraising emails, and the boundary between bribery and institutionally accepted financial influence.
 - [The Tipping Point Revisited: Georgetown Massacre Part 2](sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2.md) — Revisionist History episode on Catherine Khoury's testimony, the acquittal of Ayman Khoury, Georgetown's donor-capacity research, and the boundary between reasonable doubt and ethical approval.
 - [The Tipping Point Revisited: Live with David Remnick](sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick.md) — Live Revisionist History conversation on journalistic differentiation, intellectual play, respectful subjects, patient interviewing, audio form, family influence, and play displaced by performance pressure.
 - [Exploring Life-Saving AI Tech with T-Mobile for Business](sources/exploring-life-saving-ai-tech-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on firefighter decision support, prioritized 5G, home health monitoring, clinical escalation, and equity-centered technology design.
@@ -5165,6 +5166,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [Gordon “Gordie” Ernst](entities/GordonErnst.md) — Georgetown tennis coach placed at the center of the alleged recruiting-slot payment and the episode's institutional comparison.
+- [Brenda Smith (Georgetown fundraiser)](entities/BrendaSmithGeorgetown.md) — Athletics fundraiser whose wealth-focused emails became the first major turning point in the Khoury trial.
+- [Timothy Donovan](entities/TimothyDonovan.md) — Intermediary whose testimony supplied the prosecution's direct account of the alleged exchange.
+- [Howard Srebnick](entities/HowardSrebnick.md) — Defense lawyer involved in Khoury's trial choice and the team's institutional reframing.
+- [Leo Katz](entities/LeoKatz.md) — Law professor framing the moral and legal boundary between bribery and institutionally structured influence.
 - [U.S. v. Khoury](entities/USVKhoury.md) — Federal college-admissions prosecution that ended with Ayman Khoury's acquittal on every count.
 - [Ayman Khoury](entities/AymanKhoury.md) — Father acquitted after an admitted payment to Georgetown's tennis coach became the basis of a disputed criminal theory.
 - [Catherine Khoury](entities/CatherineKhoury.md) — Georgetown student whose testimony and contemporaneous messages challenged the alleged false-injury plan.
@@ -19607,6 +19613,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Bribery–Institutional Influence Boundary](concepts/BriberyInstitutionalInfluenceBoundary.md) — Distinction between an unauthorized private exchange and institutionally accepted practices that let wealth shape access or selection.
 - [Admissions–Fundraising Entanglement](concepts/AdmissionsFundraisingEntanglement.md) — Overlap among student selection, athletic recruitment, family-wealth research, relationship management, and anticipated giving.
 - [Trial Narrative Reframing](concepts/TrialNarrativeReframing.md) — Use of admissible evidence to replace an opponent's causal and moral account with a more coherent explanation of disputed conduct.
 - [Intellectual Play](concepts/IntellectualPlay.md) — Responsible variation of rules, assumptions, subjects, and perspectives to generate overlooked questions without relaxing factual accountability.

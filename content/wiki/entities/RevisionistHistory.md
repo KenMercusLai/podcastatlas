@@ -27,6 +27,7 @@ sources:
   - the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows
   - the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick
   - the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2
+  - the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -83,7 +84,7 @@ An expert conversation and audiobook excerpt add a practical trust-education for
 
 The preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick|live event with David Remnick]] adds a professional self-portrait. It traces the host's method from newspaper fundamentals and deliberate differentiation through [[IntellectualPlay]], respectful treatment of unusual subjects, patient interviewing, and audio's use of voice and tone. As a friendly autobiographical conversation, it is strongest on craft and self-understanding and weaker as independent support for its safety, family, admissions, or sport claims.
 
-The Georgetown case adds a courtroom form. [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2|Part 2]] first uses [[AdmissionsFundraisingEntanglement]] to weaken a clean institutional-victim narrative, then shifts to [[CatherineKhoury]]'s testimony and contemporaneous messages to develop [[TrialNarrativeReframing]]: a family rupture supplies an alternative explanation for conduct the prosecution treated as evidence of a false-injury plan. The acquittal grounds the legal outcome, while the admitted payment and defense-heavy sourcing keep the broader moral conclusion qualified.
+The Georgetown case adds a two-stage courtroom form. [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1|Part 1]] moves from [[TimothyDonovan]]'s exchange account to [[BrendaSmithGeorgetown]]'s emails, using [[AdmissionsFundraisingEntanglement]] to weaken a clean institutional-victim narrative. [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2|Part 2]] then shifts to [[CatherineKhoury]]'s testimony and contemporaneous messages to develop [[TrialNarrativeReframing]]: a family rupture supplies an alternative explanation for conduct the prosecution treated as evidence of a false-injury plan. The acquittal grounds the legal outcome, while the admitted payment and defense-heavy sourcing keep the broader moral conclusion qualified.
 
 ## Key Characteristics
 
@@ -189,6 +190,7 @@ The Georgetown case adds a courtroom form. [[the-tipping-point-revisited-georget
 ### Courtroom evidence and narrative reframing
 
 - [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2]] joins an acquittal, witness testimony, contemporaneous family messages, and an excluded donor-capacity report while separating reasonable doubt from a complete ethical vindication.
+- [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1]] joins intermediary testimony to a document-led cross-examination that weakens institutional credibility without itself resolving the alleged exchange.
 
 ## Qualifications
 
@@ -206,11 +208,13 @@ The bounded sources do not establish the full range of the show. The health-refo
 
 *Georgetown Massacre Part 2* adds a twenty-fourth bounded source. It is openly sympathetic to the defense, relies heavily on defense interviews, and is supplied as a structured summary rather than a transcript, exhibits, court record, or balanced evidentiary review. The verdict establishes acquittal, not the propriety of the payment; the Salesforce report complicates Georgetown's victim narrative without proving that the university authorized the payment or admitted Catherine for anticipated donations.
 
+*Georgetown Massacre Part 1* adds a twenty-fifth bounded source. It has the same defense-centered and structured-summary limits, uses Amon/Katherine where Part 2 uses Ayman/Catherine, and reports a conflict between Donovan's assessment and Catherine's later testimony. Smith's emails make operational overlap more concrete but do not prove that development staff caused admission or authorized a private payment.
+
 ## What Changed
 
-- Added courtroom storytelling as a form joining witness agency, contemporaneous documents, and disputed intent.
-- Distinguished the legal force of acquittal from ethical approval of the admitted payment.
-- Preserved the boundary between institutional financial context and proof of an authorized admissions exchange.
+- Added document-led cross-examination as the first stage of the courtroom narrative.
+- Made the conflict between intermediary testimony and the later first-person account explicit.
+- Preserved the boundary among institutional financial context, ethical similarity, and proof of an authorized exchange.
 
 ## Relationships
 
@@ -280,5 +284,8 @@ The bounded sources do not establish the full range of the show. The health-refo
 - [[InterviewAsEmbodiedReporting]] - upstream reporting practice the event treats as more fundamental than prose production.
 - [[USVKhoury|U.S. v. Khoury]] - criminal case organizing the courtroom narrative.
 - [[CatherineKhoury]] - witness whose testimony and messages supply the alternative explanation.
+- [[BrendaSmithGeorgetown]] - witness whose emails alter the institutional credibility frame.
+- [[TimothyDonovan]] - intermediary whose testimony supplies the prosecution's opening account.
 - [[AdmissionsFundraisingEntanglement]] - institutional context developed from Georgetown's donor-capacity research.
+- [[BriberyInstitutionalInfluenceBoundary]] - legal and ethical boundary tested by the two-part narrative.
 - [[TrialNarrativeReframing]] - shift from abstract conspiracy to a documented account of family rupture.

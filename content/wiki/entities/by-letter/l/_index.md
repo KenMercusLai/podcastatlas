@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14348
+wiki_total_pages: 14353
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "LensTechnology"
     title: "Lens Technology"
     url: "/wiki/entities/lenstechnology/"
+  - key: "LeoKatz"
+    title: "Leo Katz"
+    url: "/wiki/entities/leokatz/"
   - key: "LeoMirani"
     title: "Leo Mirani"
     url: "/wiki/entities/leomirani/"
