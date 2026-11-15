@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11395
+wiki_total_pages: 11397
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "SmallTrustBuildsLargeTrust"
     title: "Small Trust Builds Large Trust / 小信诚则大信立"
     url: "/wiki/concepts/smalltrustbuildslargetrust/"
+  - key: "SmallAreaVariation"
+    title: "Small-Area Variation"
+    url: "/wiki/concepts/smallareavariation/"
   - key: "SmallBatchBeverageMarketEntry"
     title: "Small-Batch Beverage Market Entry"
     url: "/wiki/concepts/smallbatchbeveragemarketentry/"

@@ -28,6 +28,7 @@ sources:
   - the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick
   - the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2
   - the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1
+  - the-tipping-point-revisited-an-excerpt
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -85,6 +86,8 @@ An expert conversation and audiobook excerpt add a practical trust-education for
 The preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick|live event with David Remnick]] adds a professional self-portrait. It traces the host's method from newspaper fundamentals and deliberate differentiation through [[IntellectualPlay]], respectful treatment of unusual subjects, patient interviewing, and audio's use of voice and tone. As a friendly autobiographical conversation, it is strongest on craft and self-understanding and weaker as independent support for its safety, family, admissions, or sport claims.
 
 The Georgetown case adds a two-stage courtroom form. [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1|Part 1]] moves from [[TimothyDonovan]]'s exchange account to [[BrendaSmithGeorgetown]]'s emails, using [[AdmissionsFundraisingEntanglement]] to weaken a clean institutional-victim narrative. [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2|Part 2]] then shifts to [[CatherineKhoury]]'s testimony and contemporaneous messages to develop [[TrialNarrativeReframing]]: a family rupture supplies an alternative explanation for conduct the prosecution treated as evidence of a false-injury plan. The acquittal grounds the legal outcome, while the admitted payment and defense-heavy sourcing keep the broader moral conclusion qualified.
+
+[[the-tipping-point-revisited-an-excerpt|The Tipping Point Revisited: An Excerpt]] uses audiobook-preview storytelling to build a three-domain analogy. The show moves from Los Angeles robbery crews and organizers to the absence of a similar New York outbreak, then to [[JohnWennberg]]'s medical-practice maps and Waldorf-school vaccination clusters. The resulting [[BoundedSocialContagion]] frame makes community borders and [[SmallAreaVariation]] part of the explanation rather than assuming that a visible example spreads wherever opportunity exists.
 
 ## Key Characteristics
 
@@ -192,6 +195,10 @@ The Georgetown case adds a two-stage courtroom form. [[the-tipping-point-revisit
 - [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2]] joins an acquittal, witness testimony, contemporaneous family messages, and an excluded donor-capacity report while separating reasonable doubt from a complete ethical vindication.
 - [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1]] joins intermediary testimony to a document-led cross-examination that weakens institutional credibility without itself resolving the alleged exchange.
 
+### Social contagion and local boundaries
+
+- [[the-tipping-point-revisited-an-excerpt]] moves from evolving robbery methods and organizers to medical and school clusters, using the Los Angeles-New York contrast to separate exposure from receptive local conditions.
+
 ## Qualifications
 
 The bounded sources do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
@@ -210,11 +217,13 @@ The bounded sources do not establish the full range of the show. The health-refo
 
 *Georgetown Massacre Part 1* adds a twenty-fifth bounded source. It has the same defense-centered and structured-summary limits, uses Amon/Katherine where Part 2 uses Ayman/Catherine, and reports a conflict between Donovan's assessment and Catherine's later testimony. Smith's emails make operational overlap more concrete but do not prove that development staff caused admission or authorized a private payment.
 
+The new cross-domain analogy is strongest as a question about boundaries. Its structured summary does not include the underlying crime series, court records, medical studies, school data, or transcript, and it does not establish that imitation, professional norms, institutional selection, and ideological clustering share one causal mechanism.
+
 ## What Changed
 
-- Added document-led cross-examination as the first stage of the courtroom narrative.
-- Made the conflict between intermediary testimony and the later first-person account explicit.
-- Preserved the boundary among institutional financial context, ethical similarity, and proof of an authorized exchange.
+- Added audiobook-preview storytelling as another route from vivid cases to general social theory.
+- Made local boundaries and failed diffusion central to the show's revised epidemic framing.
+- Kept the crime, medicine, and vaccination comparison explicitly analogical and source-scoped.
 
 ## Relationships
 
@@ -289,3 +298,6 @@ The bounded sources do not establish the full range of the show. The health-refo
 - [[AdmissionsFundraisingEntanglement]] - institutional context developed from Georgetown's donor-capacity research.
 - [[BriberyInstitutionalInfluenceBoundary]] - legal and ethical boundary tested by the two-part narrative.
 - [[TrialNarrativeReframing]] - shift from abstract conspiracy to a documented account of family rupture.
+- [[JohnWennberg]] - health-services researcher whose mapped treatment variation supplies the episode's cross-domain bridge.
+- [[BoundedSocialContagion]] - framework connecting influential actors and local opportunity to limits on diffusion.
+- [[SmallAreaVariation]] - clustered local pattern the excerpt uses across medicine and vaccination.

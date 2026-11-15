@@ -37190,6 +37190,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/boundarylesskindnesstrap/"
     },
+    "BoundedSocialContagion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/boundedsocialcontagion/"
+    },
     "BoundlessRingFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -84160,6 +84176,22 @@
       ],
       "updated": "2026-10-29",
       "url": "/wiki/concepts/donoradvisedfundtransparencygap/"
+    },
+    "DonzellThompson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/donzellthompson/"
     },
     "DopamineBaselineMaintenance": {
       "episode_count": 2,
@@ -169488,6 +169520,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/entities/johntorous/"
     },
+    "JohnWennberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/johnwennberg/"
+    },
     "JohnWilkesBooth": {
       "episode_count": 3,
       "show_count": 1,
@@ -199798,9 +199846,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 1,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -199990,6 +200038,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: Georgetown Massacre Part 1",
           "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
         }
       ],
       "updated": "2026-11-16",
@@ -263713,9 +263768,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -263891,6 +263946,13 @@
           "show": "Revisionist History",
           "title": "The Tipping Point Revisited: Georgetown Massacre Part 1",
           "url": "/wiki/sources/the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1/"
+        },
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
         }
       ],
       "updated": "2026-11-16",
@@ -266991,6 +267053,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/robertsapolsky/"
+    },
+    "RobertSheldonBrown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/robertsheldonbrown/"
     },
     "RobertSkidelsky": {
       "episode_count": 1,
@@ -285439,6 +285517,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/slowwavesleeprestoration/"
+    },
+    "SmallAreaVariation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tipping_Point_Revisited_An_Excerpt [The_Tipping_Point_Revisited_An_Excerpt].md",
+          "key": "the-tipping-point-revisited-an-excerpt",
+          "show": "Revisionist History",
+          "title": "The Tipping Point Revisited: An Excerpt",
+          "url": "/wiki/sources/the-tipping-point-revisited-an-excerpt/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/smallareavariation/"
     },
     "SmallBatchBeverageMarketEntry": {
       "episode_count": 2,

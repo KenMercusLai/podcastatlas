@@ -30,6 +30,7 @@ sources:
   - the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick
   - the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2
   - the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1
+  - the-tipping-point-revisited-an-excerpt
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -97,6 +98,8 @@ In [[the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-brok
 In the preceding [[the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick|live conversation with David Remnick]], Gladwell supplies a professional prehistory for that public method. Newspaper discipline made writing technically routine; deliberate differentiation made him “slow and weird” in a fast newsroom; childhood rule variation became [[IntellectualPlay]]; and respectful, patient interviewing became the difficult upstream work from which prose and audio follow. The conversation also exposes the method's risk: neglected experts and surprising frames generate investigations, but do not validate their own conclusions.
 
 Across the two Georgetown Massacre episodes, Gladwell turns courtroom advocacy into a staged dispute over moral and causal narrative. [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1|Part 1]] moves from [[TimothyDonovan]]'s apparently strong exchange account to [[BrendaSmithGeorgetown]]'s wealth-focused emails, weakening Georgetown's clean institutional contrast without directly resolving intent. [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2|Part 2]] then contrasts the false-injury theory with [[CatherineKhoury]]'s testimony and contemporaneous messages. The sequence makes witness agency and documentary timing vivid, but its dependence on defense interviews leaves the broader moral interpretation less secure than the reported acquittal.
+
+In [[the-tipping-point-revisited-an-excerpt|The Tipping Point Revisited: An Excerpt]], Gladwell returns to the epidemic model itself. Los Angeles bank-robbery methods supply the vivid narrative, but the New York comparison, [[JohnWennberg]]'s medical maps, and Waldorf-school vaccination clusters turn the inquiry toward [[BoundedSocialContagion]] and [[SmallAreaVariation]]. His revised emphasis is not that exposure automatically produces imitation, but that influential actors, local opportunity, organization, and community boundaries jointly shape where a behavior scales and where it stops.
 
 ## Key Characteristics
 
@@ -217,6 +220,10 @@ Across the two Georgetown Massacre episodes, Gladwell turns courtroom advocacy i
 - [[the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2]] uses Catherine Khoury's testimony, contemporaneous messages, an excluded fundraising report, and the acquittal to distinguish a persuasive alternative explanation from complete moral vindication.
 - [[the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1]] uses Donovan's intermediary account and Smith's contradicting emails to show how cross-examination can alter institutional credibility before it supplies a direct alternative theory of intent.
 
+### Social epidemics and community boundaries
+
+- [[the-tipping-point-revisited-an-excerpt]] joins Los Angeles robbery organization, New York's non-outbreak, medical-practice geography, and institution-level vaccination clusters to qualify simple imitation with local receptivity and boundary conditions.
+
 ## Qualifications
 
 This profile is bounded to structured episode summaries. Personal stories, historical interpretations, close readings, psychobiography, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may underweight evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy; neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey; and the Wu-Tang–secession parallel lacks evidence of direct influence. The golf episode is openly polemical. The Brown episode deliberately corrects a triumphal narrative but is not a comprehensive legal or education history. The *Encores* introduction establishes only Gladwell's retrospective selection and autobiographical framing, not the announced stories' conclusions. The *Good Old Boys* episode offers one historically framed interpretation of Newman's intent and audience response; discomfort and ambiguity do not by themselves prove artistic value, and a few reception cases cannot establish how the album is generally understood. The parapraxis episode reports a patterned archive and revealing live errors but cannot establish one unconscious cause, exclude performance and health factors, or diagnose its participants. *The King of Tears* offers selected musical comparisons rather than a representative lyric corpus or controlled reception study; its country-rock contrast, compression figures, cultural grouping, autobiographical interpretations, and listener responses remain source-scoped. *Hallelujah* offers selected success stories and a heuristic innovation binary rather than a representative study of artists, failed drafts, institutional selection, or reception; persistence, later popularity, and retrospective lineage do not prove latent genius or one decisive cause. Dan's favorable cancer outcome does not establish that minority opinions, surgery, intuition, or extensive consultation are generally superior. The two punishment conversations provide Gladwell's and his interlocutors' accounts rather than independent causal, legal, medical, or historical review; they give limited space to capital-punishment defenses, and acknowledging institutional cruelty does not by itself establish every case detail or constitutional conclusion. His face-recognition account is autobiographical rather than a documented diagnostic evaluation, and it does not establish prevalence, severity, cause, or the reliability of any compensatory cue. Both Kennedy episodes are polemical structured summaries requiring the underlying trial, package insert, paper, interviews, and wider evidence; their source critiques are more directly supported than their claims about Kennedy's motives or reading process.
@@ -235,11 +242,13 @@ This profile is bounded to structured episode summaries. Personal stories, histo
 
 *Georgetown Massacre Part 1* adds a twenty-seventh bounded source. It is also defense-centered and lacks the complete testimony, emails, charging documents, and governing legal instructions. The Part 1 Amon/Katherine spellings conflict with Part 2's Ayman/Catherine, and Donovan's account conflicts with Catherine's later testimony. The fundraising emails weaken a claim of total separation but do not establish authorization, causation, or legal equivalence.
 
+The cross-domain epidemic analogy is supplied through a structured summary rather than crime data, court records, medical studies, vaccination datasets, or a transcript. Clustering, post-arrest decline, and geographic contrast do not by themselves identify transmission, establish one mechanism across domains, or exclude selection, opportunity, policy, capacity, enforcement, and measurement effects.
+
 ## What Changed
 
-- Added the first-stage cross-examination that shifted institutional credibility before the defense addressed intent directly.
-- Made the Donovan–Catherine evidentiary conflict explicit.
-- Preserved the boundary among institutional hypocrisy, reasonable doubt, ethical similarity, and proof of an authorized exchange.
+- Restored the social-epidemic model while making local receptivity and community boundaries central.
+- Distinguished influential organizers from mass participation in the Los Angeles robbery account.
+- Preserved clustering as evidence to explain rather than proof of one cross-domain contagion mechanism.
 
 ## Relationships
 
@@ -324,3 +333,7 @@ This profile is bounded to structured episode summaries. Personal stories, histo
 - [[AdmissionsFundraisingEntanglement]] - institutional tension Gladwell develops from Georgetown's Salesforce report.
 - [[BriberyInstitutionalInfluenceBoundary]] - distinction he tests by comparing direct payment with accepted wealth-mediated access.
 - [[TrialNarrativeReframing]] - mechanism through which he interprets the defense's shift from context to disputed intent.
+- [[JohnWennberg]] - researcher whose medical maps Gladwell uses to move from crime narrative to community-boundary theory.
+- [[RobertSheldonBrown]] and [[DonzellThompson]] - organizers through whom he illustrates disproportionate influence and scalable practice.
+- [[BoundedSocialContagion]] - revised epidemic framework joining influential actors, opportunity, local norms, and boundaries.
+- [[SmallAreaVariation]] - geographic pattern used to explain why practices and beliefs can cluster locally.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11395
+wiki_total_pages: 11397
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "BoundaryEmpathyParenting"
     title: "Boundary–Empathy Parenting"
     url: "/wiki/concepts/boundaryempathyparenting/"
+  - key: "BoundedSocialContagion"
+    title: "Bounded Social Contagion"
+    url: "/wiki/concepts/boundedsocialcontagion/"
   - key: "BoundedSpeculativeOptionality"
     title: "Bounded Speculative Optionality / 有边界的彩票仓位"
     url: "/wiki/concepts/boundedspeculativeoptionality/"

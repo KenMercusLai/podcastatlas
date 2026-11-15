@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14353
+wiki_total_pages: 14356
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "DonnieChristie"
     title: "Donnie Christie"
     url: "/wiki/entities/donniechristie/"
+  - key: "DonzellThompson"
+    title: "Donzell Thompson"
+    url: "/wiki/entities/donzellthompson/"
   - key: "DoorDash"
     title: "DoorDash"
     url: "/wiki/entities/doordash/"

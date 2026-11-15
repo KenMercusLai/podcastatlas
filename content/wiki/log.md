@@ -40480,3 +40480,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Tipping Point Revisited: An Excerpt
+
+Added the [[RevisionistHistory]] excerpt connecting Los Angeles's bank-robbery surge, [[RobertSheldonBrown|Robert Sheldon Brown (“Casper”)]], [[DonzellThompson|Donzell Thompson (“Sea Dog”)]], [[JohnWennberg]]'s medical maps, and Waldorf-school vaccination clusters. Created [[BoundedSocialContagion]] and [[SmallAreaVariation]], then resynthesized [[MalcolmGladwell]] and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: exceptional actors and favorable opportunity can accelerate a social outbreak, but exposure alone does not explain diffusion; local professional, institutional, and community boundaries shape where practices scale and where they stop. No settled contradiction was adopted. Robbery totals, post-arrest trends, treatment rates, vaccination percentages, dialogue, and cross-domain causality remain source-scoped because the supplied file is a structured summary rather than the transcript, crime data, court records, medical studies, or school datasets. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,043 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

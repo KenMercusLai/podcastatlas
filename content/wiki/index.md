@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Tipping Point Revisited: An Excerpt](sources/the-tipping-point-revisited-an-excerpt.md) — Revisionist History excerpt connecting Los Angeles bank-robbery organization, medical-practice geography, and Waldorf vaccination clusters to bounded social contagion and small-area variation.
 - [The Tipping Point Revisited: Georgetown Massacre Part 1](sources/the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1.md) — Revisionist History episode on the Khoury prosecution, Donovan's intermediary account, Brenda Smith's fundraising emails, and the boundary between bribery and institutionally accepted financial influence.
 - [The Tipping Point Revisited: Georgetown Massacre Part 2](sources/the-tipping-point-revisited-georgetown-massacre-part-2-the-tipping-point-revisited-georgetown-massacre-part-2.md) — Revisionist History episode on Catherine Khoury's testimony, the acquittal of Ayman Khoury, Georgetown's donor-capacity research, and the boundary between reasonable doubt and ethical approval.
 - [The Tipping Point Revisited: Live with David Remnick](sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick.md) — Live Revisionist History conversation on journalistic differentiation, intellectual play, respectful subjects, patient interviewing, audio form, family influence, and play displaced by performance pressure.
@@ -5166,6 +5167,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tipping Point Revisited: Broken Windows](sources/the-tipping-point-revisited-broken-windows-the-tipping-point-revisited-broken-windows.md) — Revisionist History audit rejecting mass disorder enforcement as the cause of New York's crime decline and contrasting it with network-focused and place-repair prevention.
 
 ## Entities
+- [John Wennberg](entities/JohnWennberg.md) — Physician-researcher whose mapped treatment variation anchors the episode's account of local medical norms.
+- [Robert Sheldon Brown](entities/RobertSheldonBrown.md) — “Casper,” the Los Angeles robbery organizer used to illustrate scalable practice and disproportionate influence.
+- [Donzell Thompson](entities/DonzellThompson.md) — “Sea Dog,” Brown's partner in the episode's account of a crew-based bank-robbery organization.
 - [Gordon “Gordie” Ernst](entities/GordonErnst.md) — Georgetown tennis coach placed at the center of the alleged recruiting-slot payment and the episode's institutional comparison.
 - [Brenda Smith (Georgetown fundraiser)](entities/BrendaSmithGeorgetown.md) — Athletics fundraiser whose wealth-focused emails became the first major turning point in the Khoury trial.
 - [Timothy Donovan](entities/TimothyDonovan.md) — Intermediary whose testimony supplied the prosecution's direct account of the alleged exchange.
@@ -19613,6 +19617,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Bounded Social Contagion](concepts/BoundedSocialContagion.md) — Framework connecting influential actors, organizational replication, local opportunity, group norms, and limits on diffusion.
+- [Small-Area Variation](concepts/SmallAreaVariation.md) — Persistent local differences in practice or belief that underlying need alone does not fully explain.
 - [Bribery–Institutional Influence Boundary](concepts/BriberyInstitutionalInfluenceBoundary.md) — Distinction between an unauthorized private exchange and institutionally accepted practices that let wealth shape access or selection.
 - [Admissions–Fundraising Entanglement](concepts/AdmissionsFundraisingEntanglement.md) — Overlap among student selection, athletic recruitment, family-wealth research, relationship management, and anticipated giving.
 - [Trial Narrative Reframing](concepts/TrialNarrativeReframing.md) — Use of admissible evidence to replace an opponent's causal and moral account with a more coherent explanation of disputed conduct.
