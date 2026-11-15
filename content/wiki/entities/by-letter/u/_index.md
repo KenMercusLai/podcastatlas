@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 14333
+wiki_total_pages: 14338
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "UniversityOfMassachusettsAmherst"
     title: "University of Massachusetts Amherst"
     url: "/wiki/entities/universityofmassachusettsamherst/"
+  - key: "UniversityOfMiami"
+    title: "University of Miami"
+    url: "/wiki/entities/universityofmiami/"
   - key: "UniversityOfMichigan"
     title: "University of Michigan"
     url: "/wiki/entities/universityofmichigan/"

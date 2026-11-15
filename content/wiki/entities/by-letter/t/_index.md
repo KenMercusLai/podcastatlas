@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14333
+wiki_total_pages: 14338
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "ThirteenthFloorEntertainment"
     title: "13th Floor Entertainment"
     url: "/wiki/entities/thirteenthfloorentertainment/"
+  - key: "ThreeAMInnovations"
+    title: "3AM Innovations"
+    url: "/wiki/entities/threeaminnovations/"
   - key: "ThreeGMobilePhones"
     title: "3G Mobile Phones"
     url: "/wiki/entities/threegmobilephones/"
@@ -599,6 +602,9 @@ wiki_pages:
   - key: "TheLordOfTheRings"
     title: "The Lord of the Rings"
     url: "/wiki/entities/thelordoftherings/"
+  - key: "TheMailboxHealthMonitoring"
+    title: "The Mailbox (Health Monitoring System)"
+    url: "/wiki/entities/themailboxhealthmonitoring/"
   - key: "TheMetamorphosisKafka"
     title: "The Metamorphosis / Kafka's 《变形记》"
     url: "/wiki/entities/themetamorphosiskafka/"

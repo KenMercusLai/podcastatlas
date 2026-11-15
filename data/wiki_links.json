@@ -12943,6 +12943,10 @@
     "title": "阿兹古利·阿布杜洛何曼 / Aziguli Abuduluoheman",
     "url": "/wiki/entities/aziguliabuduluoheman/"
   },
+  "AziziSeixas": {
+    "title": "Azizi Seixas",
+    "url": "/wiki/entities/aziziseixas/"
+  },
   "AzoospermiaClinicalPathway": {
     "title": "Azoospermia Clinical Pathway / 无精子症临床路径",
     "url": "/wiki/concepts/azoospermiaclinicalpathway/"
@@ -27487,6 +27491,10 @@
     "title": "Decentralized Command Leadership",
     "url": "/wiki/concepts/decentralizedcommandleadership/"
   },
+  "DecentralizedHealthMonitoring": {
+    "title": "Decentralized Health Monitoring",
+    "url": "/wiki/concepts/decentralizedhealthmonitoring/"
+  },
   "DecentralizedWorldModelStrategy": {
     "title": "Decentralized World Model Strategy",
     "url": "/wiki/concepts/decentralizedworldmodelstrategy/"
@@ -32158,6 +32166,10 @@
   "EmergencyRescueLegalProtection": {
     "title": "Emergency Rescue Legal Protection / 紧急救助法律保护",
     "url": "/wiki/concepts/emergencyrescuelegalprotection/"
+  },
+  "EmergencyResponseDecisionSupport": {
+    "title": "Emergency-Response Decision Support",
+    "url": "/wiki/concepts/emergencyresponsedecisionsupport/"
   },
   "EmergencySuccessionLegitimation": {
     "title": "Emergency Succession Legitimation / 临终就近立储",
@@ -82443,6 +82455,10 @@
     "title": "Ryan Hendrickson",
     "url": "/wiki/entities/ryanhendrickson/"
   },
+  "RyanLitt": {
+    "title": "Ryan Litt",
+    "url": "/wiki/entities/ryanlitt/"
+  },
   "RyanPetersen": {
     "title": "Ryan Petersen",
     "url": "/wiki/entities/ryanpetersen/"
@@ -92967,6 +92983,10 @@
     "title": "《长安的荔枝》 / The Lychee Road (novella)",
     "url": "/wiki/entities/thelycheeroadnovel/"
   },
+  "TheMailboxHealthMonitoring": {
+    "title": "The Mailbox (Health Monitoring System)",
+    "url": "/wiki/entities/themailboxhealthmonitoring/"
+  },
   "TheMatrix": {
     "title": "《黑客帝国》 / The Matrix",
     "url": "/wiki/entities/thematrix/"
@@ -93614,6 +93634,10 @@
   "ThreatenedDefectionLeverage": {
     "title": "Threatened Defection Leverage / 投敌威胁式求援",
     "url": "/wiki/concepts/threateneddefectionleverage/"
+  },
+  "ThreeAMInnovations": {
+    "title": "3AM Innovations",
+    "url": "/wiki/entities/threeaminnovations/"
   },
   "ThreeDPrintedHousing": {
     "title": "3D-Printed Housing",
@@ -96558,6 +96582,10 @@
   "UniversityOfMassachusettsAmherst": {
     "title": "University of Massachusetts Amherst",
     "url": "/wiki/entities/universityofmassachusettsamherst/"
+  },
+  "UniversityOfMiami": {
+    "title": "University of Miami",
+    "url": "/wiki/entities/universityofmiami/"
   },
   "UniversityOfMichigan": {
     "title": "University of Michigan",
@@ -111114,6 +111142,10 @@
   "exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219": {
     "title": "Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia",
     "url": "/wiki/sources/exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219/"
+  },
+  "exploring-life-saving-ai-tech-with-t-mobile-for-business": {
+    "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
+    "url": "/wiki/sources/exploring-life-saving-ai-tech-with-t-mobile-for-business/"
   },
   "face-value-face-value": {
     "title": "Face Value",

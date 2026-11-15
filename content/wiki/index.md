@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Exploring Life-Saving AI Tech with T-Mobile for Business](sources/exploring-life-saving-ai-tech-with-t-mobile-for-business.md) — Sponsored Revisionist History episode on firefighter decision support, prioritized 5G, home health monitoring, clinical escalation, and equity-centered technology design.
 - [John Birch vs. the PTA](sources/john-birch-vs-the-pta-john-birch-vs-the-pta.md) — Revisionist History contrasts John Birch Society infiltration, meeting attrition, and harassment with the PTA's evidence-based civic cooperation.
 - [Gambling with Michael Lewis](sources/gambling-with-michael-lewis-gambling-with-michael-lewis.md) — Michael Lewis contrasts older sharp-informed bookmaking with mobile sportsbooks that promote high-margin bets, profile customers, and limit likely winners inside a league-media-state revenue system.
 - [A Very Terminator Christmas](sources/a-very-terminator-christmas-a-very-terminator-christmas.md) — Earlier, longer release of Revisionist History's oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
@@ -5161,6 +5162,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg.md) — 十字路口Crossing对话赵晨阳，以低成本自动化评估为核心串联RSI、开源代码治理、廉价智能、Computer Use、交互式语音和权责对等。
 
 ## Entities
+- [3AM Innovations](entities/ThreeAMInnovations.md) — Public-safety technology company combining radio analysis, sensor data, and three-dimensional responder location for incident commanders.
+- [Ryan Litt](entities/RyanLitt.md) — 3AM Innovations co-founder advocating unobtrusive, human-supervised emergency decision support.
+- [Azizi Seixas](entities/AziziSeixas.md) — University of Miami health-data scientist leading decentralized monitoring and equity-centered digital-health work.
+- [University of Miami](entities/UniversityOfMiami.md) — Institutional and clinical-oversight layer for the Mailbox home-monitoring pilot described in the episode.
+- [The Mailbox (Health Monitoring System)](entities/TheMailboxHealthMonitoring.md) — Multi-device home-monitoring system connecting environmental and physiological sensing to clinical escalation.
 - [Robert Welch Jr.](entities/RobertWelchJr.md) — Candy manufacturer and anti-communist organizer who founded the John Birch Society around an unsupported hidden-enemy account.
 - [John Birch Society](entities/JohnBirchSociety.md) — Secretive decentralized movement that targeted local PTAs and schools for political capture.
 - [Parent-Teacher Association](entities/ParentTeacherAssociation.md) — Civic education network connecting families, schools, and national reform through local participation.
@@ -19587,6 +19593,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arrian](entities/Arrian.md) — Roman-era military historian whose detailed Alexander narrative is late, selective, and generally favorable to its subject.
 
 ## Concepts
+- [Emergency-Response Decision Support](concepts/EmergencyResponseDecisionSupport.md) — Human-supervised integration of AI, radio, sensors, location, and connectivity to reduce incident uncertainty and cognitive load.
+- [Decentralized Health Monitoring](concepts/DecentralizedHealthMonitoring.md) — Home and community sensing model whose value depends on interoperability, accountable escalation, access, and clinical interpretation.
 - [Local Civic Institution Capture](concepts/LocalCivicInstitutionCapture.md) — Coordinated entry, procedural attrition, and bloc voting used to convert open local participation into downstream policy control.
 - [Evidence-Based Civic Cooperation](concepts/EvidenceBasedCivicCooperation.md) — Public work grounded in fair inquiry, patient procedure, kindness, and willingness to revise belief.
 - [Mobile Sportsbook Customer Selection](concepts/MobileSportsbookCustomerSelection.md) — Account-level profiling used to reward, steer, restrict, or remove bettors according to expected operator value or risk.
