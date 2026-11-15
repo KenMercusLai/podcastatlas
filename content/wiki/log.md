@@ -40600,3 +40600,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Hitler’s Olympics, Part 1: The Blue-Eyed Tornado
+
+Added the opening [[RevisionistHistory]] episode framing Berlin 1936 as both a modernizing Olympic spectacle and a Nazi legitimacy project. Resynthesized [[DorothyThompson]], [[CognitiveDissonanceAndAccommodation]], [[SportsBoycottEthics]], and [[AuthoritarianSportsPropaganda]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Thompson's close reading of *Mein Kampf*, attention to antisemitic scapegoating, and resistance to charismatic personal impressions supplied an ideology-first case for refusing the Games. The episode extends cognitive dissonance from evidence revision to moral action: participants could change behavior to fit Olympic ideals or rationalize participation in a propaganda event. It also adds television, the torch relay, celebrity, ceremony, and foreign access to the mechanisms by which Berlin transformed the Olympics and amplified regime prestige. No settled contradiction is adopted. Biographical anecdotes, private motives, psychological descriptions, audience reach, exact innovation claims, and boycott counterfactuals remain source-scoped because the supplied file is a structured summary rather than a transcript or complete primary archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,053 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
