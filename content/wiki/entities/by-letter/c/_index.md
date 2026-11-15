@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14171
+wiki_total_pages: 14176
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "CecilyFarr"
     title: "Cecily Farr / 西西莉·法尔"
     url: "/wiki/entities/cecilyfarr/"
+  - key: "CelestinePorter"
+    title: "Celestine Porter"
+    url: "/wiki/entities/celestineporter/"
   - key: "Cellxgene"
     title: "Cellxgene"
     url: "/wiki/entities/cellxgene/"

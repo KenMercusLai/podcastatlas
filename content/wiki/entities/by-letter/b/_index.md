@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14171
+wiki_total_pages: 14176
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "Brooks"
     title: "Brooks"
     url: "/wiki/entities/brooks/"
+  - key: "BrownVBoardOfEducation"
+    title: "Brown v. Board of Education"
+    url: "/wiki/entities/brownvboardofeducation/"
   - key: "BruceIsmay"
     title: "Bruce Ismay"
     url: "/wiki/entities/bruceismay/"

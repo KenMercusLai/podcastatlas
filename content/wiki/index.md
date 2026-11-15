@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Revisited: Ms. Buchanan’s Period of Adjustment](sources/revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment.md) — Revisionist History revisits Brown through family choice, teacher gatekeeping, and the displacement of Black educators during integration.
 - [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8.md) — LateTalk将黄仁勋被报道离职连接到英伟达接班、供应链与生态融资，并分析中国算力短缺、国产替代、芯片竞争和 token 分成模式，同时保留政治与市场预测的来源边界。
 - [Reconstruction: The Unfinished Promise](sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise.md) — Revisionist History follows Douglass, Johnson, and Schurz through the opening contest over suffrage, federal protection, congressional Reconstruction, and constitutional refounding.
 - [Frankenfood | The Mistakes Series](sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series.md) — Revisionist History compares GMO backlash with cultivated-meat naming and tasting while preserving scale, safety, cost, regulation, and lifecycle gaps.
@@ -5097,6 +5098,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
 
 ## Entities
+- [Brown v. Board of Education](entities/BrownVBoardOfEducation.md) — 1954 school-desegregation decision reassessed through family agency, teacher authority, and unequal implementation costs.
+- [Linda Brown](entities/LindaBrown.md) — Child at the center of Brown who later used Darla Buchanan’s letter to center displaced Black educators.
+- [Leola Brown](entities/LeolaBrown.md) — Parent whose praise for Monroe School distinguishes equal choice from a deficit account of Black education.
+- [Darla Buchanan](entities/DarlaBuchanan.md) — Black Topeka teacher dismissed during integration under an explicit assumption about white parental prejudice.
+- [Celestine Porter](entities/CelestinePorter.md) — Educator who argued that teachers and administrators should have been integrated alongside students.
 - [Carl Schurz](entities/CarlSchurz.md) — German immigrant and 1865 Southern investigator whose findings supported federal protection and Black suffrage against rapid presidential restoration.
 - [Barbara Stuckey](entities/BarbaraStuckey.md) — Food strategist using the GMO backlash to develop less alienating but still differentiating language for cultivated meat.
 - [Upside Foods](entities/UpsideFoods.md) — Cultivated-meat company using restaurant tasting and conventional food formats as consumer adoption proof.
@@ -19361,6 +19367,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
 
 ## Concepts
+- [Teacher Representation and Student Opportunity](concepts/TeacherRepresentationStudentOpportunity.md) — How educator identity, knowledge, expectations, and discretion shape recognition, discipline, and access.
+- [Desegregation and Educator Displacement](concepts/DesegregationEducatorDisplacement.md) — Pattern in which integrated enrollment coexisted with closure of Black schools and dismissal of Black educators.
 - [Token Revenue-Sharing Compute](concepts/TokenRevenueSharingCompute.md) — Light-asset arrangement in which a compute provider serves a model through an approved channel and shares token revenue with the model company.
 - [Cultivated Meat](concepts/CultivatedMeat.md) — Animal-cell food technology whose proposed welfare and environmental benefits remain distinct from its naming, tasting, scale, and evidence challenges.
 - [Subsidized Private Land Reciprocity](concepts/SubsidizedPrivateLandReciprocity.md) — Principle that exceptional public advantages for private land can justify proportionate, enforceable public benefit or access.

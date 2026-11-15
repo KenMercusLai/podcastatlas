@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14171
+wiki_total_pages: 14176
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "LeoVamaka"
     title: "Leo Vamaka"
     url: "/wiki/entities/leovamaka/"
+  - key: "LeolaBrown"
+    title: "Leola Brown"
+    url: "/wiki/entities/leolabrown/"
   - key: "LeonFestinger"
     title: "Leon Festinger / 利昂·费斯廷格"
     url: "/wiki/entities/leonfestinger/"
@@ -605,6 +608,9 @@ wiki_pages:
   - key: "LincolnAssassinationConspiracy"
     title: "Lincoln Assassination Conspiracy"
     url: "/wiki/entities/lincolnassassinationconspiracy/"
+  - key: "LindaBrown"
+    title: "Linda Brown"
+    url: "/wiki/entities/lindabrown/"
   - key: "LindaLoman"
     title: "Linda Loman / 林达·洛曼"
     url: "/wiki/entities/lindaloman/"

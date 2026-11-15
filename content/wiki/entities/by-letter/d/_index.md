@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14171
+wiki_total_pages: 14176
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "DarkMatterLabs"
     title: "Dark Matter Labs"
     url: "/wiki/entities/darkmatterlabs/"
+  - key: "DarlaBuchanan"
+    title: "Darla Buchanan"
+    url: "/wiki/entities/darlabuchanan/"
   - key: "DaronAcemoglu"
     title: "Daron Acemoglu"
     url: "/wiki/entities/daronacemoglu/"

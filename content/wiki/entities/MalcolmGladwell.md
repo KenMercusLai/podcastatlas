@@ -11,6 +11,7 @@ sources:
   - president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel
   - the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin
   - revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled
+  - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Malcolm Gladwell is an author and the host of [[RevisionistHistory]]. The bounded sources show him using interviews, autobiography, analogy, historical argument, and cross-domain comparison to test relationship frameworks, explain institutional resistance, translate research into public-policy argument, connect historical memory to present conflict, compare simultaneous political and cultural responses to place-based exclusion, and revisit an argument after it enters municipal politics.
+Malcolm Gladwell is an author and the host of [[RevisionistHistory]]. The bounded sources show him using interviews, autobiography, analogy, historical argument, and cross-domain comparison to test relationship frameworks, explain institutional resistance, translate research into public-policy argument, connect historical memory to present conflict, recover unequal implementation costs from familiar triumphal narratives, and revisit arguments after they enter public life.
 
 ## Current Profile
 
@@ -41,6 +42,8 @@ In [[the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-probl
 
 In [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|Revenge of A Good Walk Spoiled]], Gladwell moves from an embodied scene—a narrow runners' path outside a fenced golf course—to land-use economics, tax law, institutional identity, and policy negotiation. He uses the Ship of Theseus to make cumulative member turnover legible, then returns nearly a decade after the original argument when [[AdrinNazarian]] converts it into a parcel-tax proposal. His preferred endpoint is bargaining for public value rather than a single all-or-nothing remedy.
 
+In [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment|Ms. Buchanan's Period of Adjustment]], Gladwell reopens [[BrownVBoardOfEducation|Brown v. Board of Education]] by contrasting the Court's psychological-harm framing with [[LeolaBrown]]'s praise for Monroe School and demand for equal choice. He then moves from teacher-effect research to [[DarlaBuchanan]]'s dismissal and the wider removal of Black educators, arguing that integration of enrollment without integration of authority imposed unequal costs.
+
 ## Key Characteristics
 
 - Uses playful disagreement and counterexamples to pressure-test a guest's framework.
@@ -49,7 +52,7 @@ In [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|Revenge of A 
 - Pushes provocative analogies far enough to expose disagreements over consent, truth, and social usefulness.
 - Uses cross-domain comparison and individual stories to make institutional and network-level mechanisms legible.
 - Combines provocative policy claims with historical lineage, linguistic evidence, and explicit criticism of interpretive avoidance.
-- Uses counterfactual, multi-generational, and explicitly qualified analogies to complicate simple causal stories and make technical policy rules publicly legible.
+- Uses counterfactual, multi-generational, and explicitly qualified reframing to make technical rules legible and trace who retained authority or absorbed implementation costs.
 
 ## Evidence
 
@@ -90,17 +93,18 @@ In [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|Revenge of A 
 
 - [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled]] links observation outside private courses to valuation rules, [[GradualOwnershipChange]], [[SubsidizedPrivateLandReciprocity]], and a later municipal proposal.
 
+### Civil-rights implementation and educational authority
+
+- [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment]] joins Brown-family testimony, teacher-outcome research, local personnel cases, and national dismissal estimates to develop [[DesegregationEducatorDisplacement]].
+
 ## Qualifications
 
-This profile is bounded to eight structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may illuminate some adoption failures while underweighting evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy, the staffing argument depends on organizational practice rather than headcount alone, and neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey. The Wu-Tang–secession parallel is deliberately interpretive and lacks evidence of RZA's awareness or intent. The golf episode is openly polemical; its valuations, tax counterfactuals, polling, executive-performance findings, and proposed remedies require primary-record and opposing-view review.
+This profile is bounded to nine structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may underweight evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy; neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey; and the Wu-Tang–secession parallel lacks evidence of direct influence. The golf episode is openly polemical. The Brown episode deliberately corrects a triumphal narrative but is not a comprehensive legal or education history; its teacher-effect estimates, dismissal totals, local motives, and quoted records require the underlying studies and archives.
 
 ## What Changed
 
-- Added his research-to-narrative method for explaining violence concentration and community interruption.
-- Added his integrated historical and constitutional argument about staffing, legitimacy, guns, corpus linguistics, and contested interpretation.
-- Added his use of multi-generational judgment and counterfactual questioning in the Reconstruction conversation.
-- Added his qualified comparison between political secession and cultural-industry autonomy.
-- Added his return to an earlier investigation after it produced traceable municipal agenda uptake and negotiation.
+- Added his method of reassessing a celebrated legal victory through family testimony, institutional discretion, and displaced professionals.
+- Added his distinction between formal integration and redistribution of educational authority.
 
 ## Relationships
 
@@ -128,3 +132,6 @@ This profile is bounded to eight structured episode summaries. Personal stories,
 - [[SubsidizedPrivateLandReciprocity]] - negotiated public-benefit principle developed through the golf-club case.
 - [[GradualOwnershipChange]] - institutional-identity problem he explains through the Ship of Theseus.
 - [[JournalismToPolicyLatency]] - delayed influence pattern made visible by the follow-up episode.
+- [[BrownVBoardOfEducation]] - landmark decision whose rationale and implementation he critically reassesses.
+- [[DarlaBuchanan]] - dismissed teacher whose letter anchors his account of unequal implementation costs.
+- [[DesegregationEducatorDisplacement]] - institutional pattern he develops from local cases and national estimates.

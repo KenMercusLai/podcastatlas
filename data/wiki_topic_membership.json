@@ -21450,6 +21450,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BrownVBoardOfEducation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "BrowserAsInternetUnlock": [
     {
       "key": "technology",
@@ -31921,6 +31928,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "DesegregationEducatorDisplacement": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DesignForOnePerson": [
@@ -57542,6 +57556,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LeolaBrown": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LeonFestinger": [
     {
       "key": "science",
@@ -58509,6 +58530,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LindaBrown": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LindaMcMahon": [
@@ -90972,6 +91000,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TeacherRepresentationStudentOpportunity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TeacherStudentCoFieldLearning": [
     {
       "key": "culture",
@@ -111404,6 +111439,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "riding-with-the-repo-man-update": [

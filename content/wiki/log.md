@@ -39763,3 +39763,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Revisited: Ms. Buchanan’s Period of Adjustment
+
+Added the [[RevisionistHistory]] episode revisiting [[BrownVBoardOfEducation|Brown v. Board of Education]] through [[LeolaBrown]]'s account of family choice, [[LindaBrown]]'s later commemoration, [[DarlaBuchanan]]'s dismissal, and [[CelestinePorter]]'s argument that teachers and administrators should have been integrated alongside children. Created bounded profiles for the case and four people; added [[TeacherRepresentationStudentOpportunity]] and [[DesegregationEducatorDisplacement]]; and resynthesized [[FormalEqualityStructuralDiscrimination]], [[MalcolmGladwell]], and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: ending legally enforced school segregation was necessary but did not itself redistribute educational authority; the Brown family's praise for Monroe School separates equal freedom from a deficit account of Black schooling; teacher discretion affects recognition, discipline, and opportunity; and implementation often closed Black schools and displaced Black professionals through subjective criteria and accommodation of white prejudice. No settled factual contradiction was adopted. Teacher-effect estimates, gifted-program disparities, dismissal totals, legal outcomes, local motives, and historical correspondence remain episode-attributed because the supplied file is a structured summary rather than the transcript, underlying studies, court record, or personnel files. The automatic `wiki/overview.md` was read for context and was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,974 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

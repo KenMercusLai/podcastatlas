@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11273
+wiki_total_pages: 11275
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "TeacherEvaluationAndCareBurden"
     title: "Teacher Evaluation and Care Burden / 教师评价与照护负担"
     url: "/wiki/concepts/teacherevaluationandcareburden/"
+  - key: "TeacherRepresentationStudentOpportunity"
+    title: "Teacher Representation and Student Opportunity"
+    url: "/wiki/concepts/teacherrepresentationstudentopportunity/"
   - key: "TeacherStudentCoFieldLearning"
     title: "Teacher-Student Co-Field Learning / 师生共同在场学习"
     url: "/wiki/concepts/teacherstudentcofieldlearning/"

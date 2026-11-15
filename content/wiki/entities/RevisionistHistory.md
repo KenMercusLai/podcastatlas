@@ -12,6 +12,7 @@ sources:
   - the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin
   - revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled
   - frankenfood-the-mistakes-series-frankenfood-the-mistakes-series
+  - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, connected treatments of policing and constitutional gun history, a Reconstruction interview, place-based cultural history, a follow-up on golf and tax privilege, and a food-technology naming case.
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, a follow-up on golf and tax privilege, food-technology naming, and a reassessment of school desegregation through displaced Black educators.
 
 ## Current Profile
 
@@ -40,6 +41,8 @@ A longitudinal follow-up form appears in [[revenge-of-a-good-walk-spoiled-reveng
 
 Consumer technology and sensory reporting add another application of the show's method. The show compares the cultural defeat of genetically modified tomatoes with the language around [[CultivatedMeat]], follows [[BarbaraStuckey]]'s search for a less alienating but still differentiating term, and tests the resulting story through a tasting at [[UpsideFoods]]. [[frankenfood-the-mistakes-series-frankenfood-the-mistakes-series|Frankenfood]] extends the reframing method while keeping environmental, safety, cost, regulatory, and scaling claims source-scoped.
 
+[[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment|Ms. Buchanan's Period of Adjustment]] applies the show's revisionist method to a canonical civil-rights victory. It contrasts the Brown family's demand for equal choice with the Court's psychological framing, then uses research, testimony, personnel cases, and [[DarlaBuchanan]]'s letter to show how integrated enrollment could coexist with the displacement of Black professional authority.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
@@ -48,7 +51,7 @@ Consumer technology and sensory reporting add another application of the show's 
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
-- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, and firsthand tasting to connect public memory, policy action, and consumer acceptance.
+- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, and implementation history to connect public memory with institutional power.
 
 ## Evidence
 
@@ -85,14 +88,18 @@ Consumer technology and sensory reporting add another application of the show's 
 
 - [[frankenfood-the-mistakes-series-frankenfood-the-mistakes-series]] connects GMO backlash, cultivated-meat terminology, Petri-dish imagery, and restaurant tasting to [[ProductNamingAsPositioning]].
 
+### Civil-rights implementation
+
+- [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment]] reframes [[BrownVBoardOfEducation|Brown]] through family choice, teacher gatekeeping, educator dismissal, and the unequal distribution of integration costs.
+
 ## Qualifications
 
-Only nine episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, the live event's research claims and personal stories are not independently verified here, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolate the effect of the featured strategies. The Second Amendment and Reconstruction episodes give limited space to competing historical interpretations, while the Wu-Tang episode does not establish that its simultaneous political and musical movements influenced one another. The golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance.
+Only ten episodes currently inform this page, so they do not establish the full range of the show. The health episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped.
 
 ## What Changed
 
-- Added food-technology reporting that connects historical analogy and naming analysis to firsthand sensory experience.
-- Extended the show's reframing method from institutions and public memory to consumer fear, disgust, and product acceptance.
+- Added a civil-rights implementation case that distinguishes legal access from institutional authority.
+- Extended the show's revisionist method to the professional and educational costs hidden by a triumphal public memory.
 
 ## Relationships
 
@@ -119,3 +126,6 @@ Only nine episodes currently inform this page, so they do not establish the full
 - [[BarbaraStuckey]] - food strategist whose category-language work anchors the cultivated-meat case.
 - [[UpsideFoods]] - company providing the episode's production visit and tasting.
 - [[ProductNamingAsPositioning]] - mechanism linking unfamiliar terminology to consumer expectations and acceptance.
+- [[BrownVBoardOfEducation]] - canonical decision revisited through family agency and implementation costs.
+- [[TeacherRepresentationStudentOpportunity]] - gatekeeping mechanism connecting educator authority to recognition and access.
+- [[DesegregationEducatorDisplacement]] - pattern through which Black teachers bore unequal costs of integration.

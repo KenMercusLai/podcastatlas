@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11273
+wiki_total_pages: 11275
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "DermatologicRenewalAndCancerPrevention"
     title: "Dermatologic Renewal and Cancer Prevention"
     url: "/wiki/concepts/dermatologicrenewalandcancerprevention/"
+  - key: "DesegregationEducatorDisplacement"
+    title: "Desegregation and Educator Displacement"
+    url: "/wiki/concepts/desegregationeducatordisplacement/"
   - key: "DesignBrandManufacturingUpgrade"
     title: "Design Brand Manufacturing Upgrade / 设计品牌化制造升级"
     url: "/wiki/concepts/designbrandmanufacturingupgrade/"

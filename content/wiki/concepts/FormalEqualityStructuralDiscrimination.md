@@ -4,6 +4,7 @@ type: concept
 tags: [race, law, institutions, inequality, discrimination]
 sources:
   - ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618
+  - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ Formal equality and structural discrimination distinguish rules that no longer n
 
 The concept also has a historical-asset dimension. Emancipation or equal citizenship does not itself supply land, housing, credit, education, or inherited wealth, and nominally universal benefits can remain unequal when local administration or occupational categories exclude the people a reform claims to include. The source therefore asks readers to judge both legal wording and observed distribution while avoiding the opposite mistake of treating every unequal outcome as sufficient proof of one discriminatory mechanism.
 
+School desegregation supplies an organizational implementation case. [[BrownVBoardOfEducation|Brown]] removed the constitutional legitimacy of segregated schooling, but districts could integrate enrollment by closing Black schools, dismissing Black educators, and retaining white control. Subjective judgments about personality, adaptability, giftedness, and discipline show how discretion can carry unequal power into a formally race-neutral institution.
+
 ## Key Claims
 
 - Removing explicit racial categories is a necessary reform but not sufficient evidence of substantive equality.
@@ -27,6 +30,7 @@ The concept also has a historical-asset dimension. Emancipation or equal citizen
 - Policing, conviction, voting restrictions, employment, renting, and wealth can form reinforcing rather than independent disadvantages.
 - Equal access on paper can remain unequal when participation costs, local administration, or enforcement intensity differ systematically.
 - Land, housing, education, and inherited assets shape whether legal freedom becomes durable economic capacity.
+- Formal access can expand while employment, professional authority, and discretionary opportunity remain unequally distributed.
 - Structural analysis requires mechanisms and outcomes, not an assumption that every disparity has the same cause.
 
 ## Evidence
@@ -43,15 +47,20 @@ The concept also has a historical-asset dimension. Emancipation or equal citizen
 
 - [[ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618]] treats land and housing as bases for livelihood, collateral, and inheritance, and says ostensibly universal welfare and veterans' benefits were sometimes administered to exclude Black beneficiaries.
 
+### Educational authority and discretion
+
+- [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment]] shows formally integrated districts closing Black schools, dismissing Black teachers, accommodating white parental prejudice, and using subjective personnel criteria.
+- [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment]] also links teacher discretion to gifted identification, discipline, attention, and long-run opportunity through [[TeacherRepresentationStudentOpportunity]].
+
 ## Counterevidence & Qualifications
 
-The episode supplies an explanatory map, not a general causal test. Its electoral, policing, platform-experiment, welfare, land, and wealth claims require jurisdiction-specific dates, comparison groups, legal detail, and outcome data. Disparate outcomes can signal a mechanism that needs investigation but do not alone establish intent, causation, or the correct remedy; race can also interact with class, place, gender, age, and immigration history.
+The two episodes supply explanatory cases, not a general causal test. Electoral, policing, welfare, land, wealth, personnel, gifted-identification, discipline, and teacher-outcome claims require jurisdiction-specific dates, comparison groups, legal detail, and underlying data. Disparate outcomes can signal a mechanism that needs investigation but do not alone establish intent, causation, or the correct remedy; race can also interact with class, place, gender, age, and institutional history. The education case does not negate the necessity of ending state-enforced segregation and should not be generalized into deterministic claims about every teacher or district.
 
 ## What Changed
 
-- Established the distinction between race-neutral legal wording and unequal institutional effect.
-- Connected proxy rules to cumulative feedback across policing, records, voting, housing, work, and wealth.
-- Added inherited assets and administrative implementation as tests of whether formal rights become usable capacity.
+- Added school desegregation as a case where formal access expanded without equal redistribution of professional authority.
+- Added subjective personnel and student-selection judgments as mechanisms of structural discrimination.
+- Connected educator displacement to employment, representation, and students' access to opportunity.
 
 ## Related Concepts
 
@@ -60,3 +69,5 @@ The episode supplies an explanatory map, not a general causal test. Its electora
 - [[RacialTriangulation]] - relational racial ordering that operates beyond explicit legal exclusion.
 - [[ModelMinorityStereotype]] - cultural mechanism that can deny structural inequality by turning selected outcomes into group character.
 - [[RacialMicroaggressionCumulativeHarm]] - interpersonal counterpart in which repeated ambiguous events accumulate into durable harm.
+- [[DesegregationEducatorDisplacement]] - implementation case in which integrated enrollment coexisted with unequal professional exclusion.
+- [[TeacherRepresentationStudentOpportunity]] - discretionary school mechanism linking representation to recognition and access.
