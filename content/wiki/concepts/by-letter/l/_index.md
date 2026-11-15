@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11381
+wiki_total_pages: 11385
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "LowClaimCivicAction"
     title: "Low-Claim Civic Action / 低诉求公共行动"
     url: "/wiki/concepts/lowclaimcivicaction/"
+  - key: "LowCostAutomatedEvaluation"
+    title: "Low-Cost Automated Evaluation / 低成本自动化评估"
+    url: "/wiki/concepts/lowcostautomatedevaluation/"
   - key: "LowCostCreativeAutonomy"
     title: "Low-Cost Creative Autonomy"
     url: "/wiki/concepts/lowcostcreativeautonomy/"

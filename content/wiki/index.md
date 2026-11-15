@@ -5157,6 +5157,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 - [Rat vs. Raccoon](sources/rat-vs-raccoon-rat-vs-raccoon.md) — Revisionist History uses Toronto raccoons and psychology's laboratory-rat history to examine model selection, experimental tractability, external validity, and species-specific cognition.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
+- [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg.md) — 十字路口Crossing对话赵晨阳，以低成本自动化评估为核心串联RSI、开源代码治理、廉价智能、Computer Use、交互式语音和权责对等。
 
 ## Entities
 - [Michael Lewis (Author)](entities/MichaelLewisAuthor.md) — Author and journalist investigating the platform design and institutional incentives of legalized U.S. sports betting.
@@ -31068,5 +31069,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Media Golden-Age Exclusion](concepts/MediaGoldenAgeExclusion.md) — Qualification that apparent media consensus can rest on unequal access to public representation.
 - [Failed Execution Trauma](concepts/FailedExecutionTrauma.md) — Psychological and bodily injury after surviving a state procedure genuinely intended to cause imminent death.
 - [Face-Recognition Ability Spectrum](concepts/FaceRecognitionAbilitySpectrum.md) — Variation from prosopagnosia through typical recognition to controlled super-recognition, including compensation and social misinterpretation.
+- [Low-Cost Automated Evaluation / 低成本自动化评估](concepts/LowCostAutomatedEvaluation.md) — Feedback condition in which objective-enough, automatic, inexpensive scoring makes repeated AI optimization practical.
+- [Interactive AI / 交互式人工智能](concepts/InteractiveAI.md) — Continuous and interruptible AI interaction spanning native full-duplex, turn-based audio, and cascaded voice systems.
+- [Voice Input Workflow / 语音输入工作流](concepts/VoiceInputWorkflow.md) — Speech-first composition joining ASR with contextual language-model correction, formatting, and transformation.
+- [Open-Source AI Code Governance / AI时代开源代码治理](concepts/OpenSourceAICodeGovernance.md) — Explicit merge gates, scoped authority, and accountable maintenance for AI-amplified contribution volume.
 
 ## Syntheses

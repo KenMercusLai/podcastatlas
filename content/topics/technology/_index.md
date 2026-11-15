@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3857
+topic_total_pages: 3861
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3121,6 +3121,9 @@ topic_concepts:
   - key: "IntelligentFinance"
     title: "Intelligent Finance"
     url: "/wiki/concepts/intelligentfinance/"
+  - key: "InteractiveAI"
+    title: "Interactive AI / 交互式人工智能"
+    url: "/wiki/concepts/interactiveai/"
   - key: "InterfaceScience"
     title: "Interface Science / 界面科学"
     url: "/wiki/concepts/interfacescience/"
@@ -3373,6 +3376,9 @@ topic_concepts:
   - key: "LowFactorCostAdvantage"
     title: "Low Factor Cost Advantage"
     url: "/wiki/concepts/lowfactorcostadvantage/"
+  - key: "LowCostAutomatedEvaluation"
+    title: "Low-Cost Automated Evaluation / 低成本自动化评估"
+    url: "/wiki/concepts/lowcostautomatedevaluation/"
   - key: "LowCostModelPostTraining"
     title: "Low-Cost Model Post-Training / 低成本模型后训"
     url: "/wiki/concepts/lowcostmodelposttraining/"
@@ -3841,6 +3847,9 @@ topic_concepts:
   - key: "OpenClosedAIMarketStructure"
     title: "Open-Closed AI Market Structure"
     url: "/wiki/concepts/openclosedaimarketstructure/"
+  - key: "OpenSourceAICodeGovernance"
+    title: "Open-Source AI Code Governance / AI时代开源代码治理"
+    url: "/wiki/concepts/opensourceaicodegovernance/"
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"
@@ -11229,6 +11238,9 @@ topic_sources:
   - key: "lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc"
     title: "【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨"
     url: "/wiki/sources/lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc/"
+  - key: "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg"
+    title: "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳"
+    url: "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
   - key: "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f"
     title: "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪"
     url: "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"

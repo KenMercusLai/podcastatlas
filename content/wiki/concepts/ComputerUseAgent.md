@@ -2,50 +2,72 @@
 title: "Computer Use Agent"
 type: concept
 tags: [agents, computer-use, interfaces]
-sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
-last_updated: 2026-08-24
+sources:
+  - vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1
+  - all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420
+  - all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140
+  - vol-171-jiaru-women-you-wuxian-token-1-6682-1
+  - tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128
+  - ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1
+  - 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no
+  - lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg
+last_updated: 2026-11-16
+knowledge_schema: synthesis-v1
 ---
 
 # Computer Use Agent
 
-[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds Anthropic's source-reported enterprise computer-use system to the category. The episode treats computer use as part of Anthropic's coding-first enterprise route and as a bridge from model capability to tools that can operate across existing software rather than only answer questions.
+## Definition
 
-[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds computer use as part of [[MicrosoftCopilot|Microsoft Copilot]]'s knowledge-work evolution. [[SatyaNadella|Satya Nadella]] groups reasoning, computer use, skills, and agent calls as capabilities that turn chat into work execution.
+A computer-use agent perceives and acts through existing digital interfaces such as browsers, desktops, mobile devices, GUIs, files, accessibility trees, tools, and code in order to complete user-directed work.
 
-Computer use agent is the agent category in [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] where a [[LanguageAgent]] acts through computer interfaces such as browsers, desktops, mobile environments, GUI elements, files, tools, and code. [[SuYu]] treats it as an important but transitional label on the way to [[UniversalDigitalAgent]].
+## Current Synthesis
 
-The episode argues that current labels such as Web Agent, Desktop Agent, Mobile Agent, Coding Agent, and Computer Use Agent reflect today's benchmark and product boundaries. As agents gain access to coding, GUI, CLI, and API surfaces, those boundaries should dissolve.
-
-[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds [[RecordAndReplay]] as a Q2 2026 computer-use route. Instead of asking an agent to infer every GUI action from scratch, the system records a human workflow and turns it into a repeatable skill. The source treats this as promising but constrained by accuracy, latency, privacy, and permission boundaries.
-
-[[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a business-operations version through [[Axio]] and coding-agent practice. [[ZhangKuo]] connects browser use, computer use, and long-context agents to Axio Work, and separately says engineering teams need master agents, code-writing subagents, documentation readers, code review, check-in rules, guardrails, and sandboxes.
-
-[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds a slow-but-persistent testing case. The hosts describe computer use and device simulators checking mobile flows much more slowly than a person, but still valuable when the task is tedious, parallelizable, or can run while the human is doing something else.
-
-[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds a browser-and-CAPTCHA case. The hosts describe handing a crawler-like task back to AI after a human clears [[Cloudflare]] verification, then discuss bot detection that looks at cursor trajectories, click timing, and precision rather than only one CAPTCHA click. Computer use therefore becomes a behavioral-interface problem as well as a GUI automation problem.
-
-[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds a training-data demand case through [[Meta]]. The episode says Meta wants real examples of how people use computers so AI systems can perform everyday computer tasks, connecting computer-use agents to [[WorkplaceBehaviorTrainingData]] and [[AITrainingDataScarcity]].
+The sources converge on computer use as a bridge between model reasoning and the large body of software that lacks a clean API. [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] places the category on a path toward [[UniversalDigitalAgent|universal digital agents]] that cross GUI, CLI, API, and code boundaries while retaining visual surfaces for human verification. Enterprise sources connect it to coding-led adoption, permissions, identity, provenance, and review; workflow sources show that persistence and saved attention can matter even when the agent is slower than a person. [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] adds successful personal cases in legacy software, email negotiation, note migration, and appointments, but also exposes the authority boundary: two agents can exchange messages indefinitely when neither may make a final decision or own its consequences.
 
 ## Key Claims
-- Computer-use work needs both [[AgentFacingInterfaces]] and GUI operation because much digital-world knowledge remains encoded in graphical workflows.
-- Coding is unusually powerful because code can cross and reshape boundaries among GUI, CLI, API, and other software surfaces.
-- Reliability, speed, cost, and [[ContinualLearning]] are major constraints before computer-use agents become robust daily workers.
-- The category becomes more valuable when it learns the [[WorldModels]] of specific workplaces, tools, and organizations.
-- Record-and-replay workflows can make computer use more repeatable, but they still need [[AgentPermissionBoundaries]] and verification when acting on accounts, files, or business processes.
-- Business computer-use agents need rollback and human review when acting across storefronts, suppliers, inventory, customer support, code repositories, or internal systems.
-- Computer-use agents create demand for detailed human workflow traces, but collecting those traces inside workplaces requires explicit privacy and reuse boundaries.
-- Vol. 171 adds that computer-use agents should be judged by coverage, persistence, and human-attention savings, not only by single-run speed against a human tester.
-- Vol. 172 adds that browser agents may need human help at verification boundaries, while anti-bot systems can shift from challenge-response checks to continuous behavior analysis.
-- Copilot-style computer use is most valuable when paired with enterprise context and permissions rather than treated as generic screen automation.
 
-## Connections
-- [[LanguageAgent]] — underlying paradigm for using language to reason and act.
-- [[UniversalDigitalAgent]] — expected convergence target beyond current interface categories.
-- [[AgentHarness]], [[AgentFacingInterfaces]], and [[AgentPermissionBoundaries]] — infrastructure and safety layers for computer-use work.
-- [[OpenClawMoment]] and [[OpenClaw]] — product shock that made computer-use and personal agents more visible.
-- [[RecordAndReplay]], [[OpenAI]], and [[AgentHarness]] — Q2 2026 workflow-capture branch added by LateTalk.
-- [[Axio]], [[AgenticB2BSourcing]], [[ClaudeCode]], [[AICodingVerification]], and [[EnterpriseAgentGovernance]] — business-operations and engineering-agent branch added by E231.
-- [[Meta]], [[WorkplaceBehaviorTrainingData]], [[AITrainingDataScarcity]], and [[AIWorkforceMonitoring]] - employee computer-use data branch added by Marketplace Tech Bytes.
-- [[UnlimitedTokenWorkflow]], [[VibeCoding]], [[AgentHarness]], and [[AIUsePacing]] - Vol. 171's device-testing and long-running task branch.
-- [[Cloudflare]], [[AIProxyScrapingRisk]], [[AgentPermissionBoundaries]], and [[AIModelSandboxEscape]] — Vol. 172's CAPTCHA, behavior-detection, and external-service branch.
-- [[MicrosoftCopilot|Microsoft Copilot]], [[GitHubCopilot|GitHub Copilot]], [[Windows]], and [[LocalAIWorkstation]] - Microsoft computer-use and local AI branch added by All-In.
+- GUI operation remains necessary because valuable workflows and business logic are embedded in interfaces without accessible APIs.
+- Code, CLI, API, accessibility structures, and screenshots should be treated as complementary action surfaces rather than separate agent categories.
+- Persistence, coverage, and saved human attention can justify agents that are slower than people on individual steps.
+- Identity, permissions, provenance, rollback, and human review become more important as agents act on accounts and records.
+- Workflow recording and real behavior traces can improve repeatability, but their collection raises privacy and surveillance risks.
+- Final authority and exception handling remain human escalation points even when routine execution is practical.
+
+## Evidence
+
+### Category convergence and enterprise execution
+- [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] defines the category and predicts convergence across web, desktop, mobile, coding, GUI, CLI, and API surfaces.
+- [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] connects computer use to Anthropic's coding-led enterprise wedge and monitored background action.
+- [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] joins computer use to Copilot, agent identity, permissions, provenance, and enterprise governance.
+
+### Repeatable and persistent workflows
+- [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] presents record-and-replay as a route from demonstrated human GUI work to repeatable agent skills.
+- [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] shows slow device testing remaining useful when it is tedious, parallel, or runs without continuous human attention.
+- [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] adds legacy scientific software, fee negotiation, multi-format note export, appointments, and property communication as personal use cases.
+
+### Data, access, and verification boundaries
+- [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] connects computer-use training to captured employee mouse, click, and keystroke traces, exposing workplace-monitoring risk.
+- [[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] shows password, CAPTCHA, sandbox, service-access, and continuous behavior-detection boundaries.
+
+## Counterevidence & Qualifications
+
+- Personal success stories and product discussions are not representative task-completion benchmarks.
+- The newest source's practical optimism remains qualified by existing evidence on latency, privacy, permissions, CAPTCHA, behavioral bot detection, and review debt.
+- Accessibility trees and screenshots can expose sensitive interface content and still omit hidden state or semantics.
+- Record-and-replay can preserve brittle steps when software changes; robust execution still needs state checks and exception handling.
+- Agent-to-agent stalemate may reflect policy design and delegated authority, not only model weakness.
+
+## What Changed
+
+- Added legacy-software and multi-hour personal workflow evidence for practical value.
+- Made decision authority and responsibility a distinct escalation boundary beyond reliability and permissions.
+
+## Related Concepts
+
+- [[UniversalDigitalAgent]] - convergence target beyond separate web, desktop, mobile, and coding labels.
+- [[AgentFacingInterfaces]] - machine- and human-readable surfaces through which computer work is directed and inspected.
+- [[AgentPermissionBoundaries]] - limits which accounts, data, and consequential actions an agent may access.
+- [[RecordAndReplay]] - converts demonstrated human workflows into repeatable agent skills.
+- [[HumanAgentCollaboration]] - provides clarification, oversight, exception handling, and final judgment.
+- [[OpenSourceAICodeGovernance]] - addresses review and responsibility when agents modify shared software.

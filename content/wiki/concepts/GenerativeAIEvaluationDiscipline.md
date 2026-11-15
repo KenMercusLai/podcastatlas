@@ -4,43 +4,53 @@ type: concept
 tags: [generative-ai, evaluation, statistics, experimentation]
 sources:
   - ep-24-redefining-data-science-in-the-generative-ai-era
-last_updated: 2026-10-10
+  - lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
 # Generative AI Evaluation Discipline
 
 ## Definition
-Generative AI evaluation discipline is the use of explicit hypotheses, representative datasets, repeatable experiments, metrics, and recorded comparisons to judge prompts and model behavior beyond a few selected examples.
+
+Generative AI evaluation discipline is the use of explicit hypotheses, representative test material, repeatable experiments, relevant metrics, structured human judgment, and recorded comparisons to decide whether a model or workflow improved.
 
 ## Current Synthesis
-[[ep-24-redefining-data-science-in-the-generative-ai-era]] argues that generative AI increases rather than removes the need for statistical thinking. Prompt iteration based on a handful of attractive answers can overfit the developer's examples and hide failures elsewhere. A stronger process defines what success and failure mean, evaluates across a dataset, tracks model and parameter changes, and treats uncertainty, hallucination, and variance as properties to measure. This discipline remains bounded by metric validity: repeatability cannot rescue an unrepresentative test set or a score that does not match the real use case.
+
+[[ep-24-redefining-data-science-in-the-generative-ai-era]] establishes the statistical core: a few attractive outputs are weak evidence, prompt iteration can overfit examples, and model, parameter, prompt, or data changes should be compared across representative datasets. [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] adds evaluation economics. When feedback is objective, automatic, and cheap enough, models can search rapidly and contribute to [[RecursiveSelfImprovement]]; when judgment is subjective or physical validation is expensive, iteration slows and human expertise remains central. Together the sources show that repeatability and affordability both matter, but neither rescues an invalid proxy.
 
 ## Key Claims
-- A few preferred outputs are weak evidence for prompt or system quality.
-- Prompt changes, model changes, parameters, and data changes should be compared through managed experiments rather than memory or impression.
-- Representative datasets and use-case-relevant metrics are necessary for evaluating probabilistic output.
-- Hypothesis testing and uncertainty awareness remain useful even when outputs are open-ended or qualitative.
-- Statistical discipline helps decide where LLMs fit, how hallucination risk changes, and when another model or workflow is preferable.
+
+- Selected demonstrations cannot establish system quality across the intended task distribution.
+- Prompt, model, parameter, and data changes should be compared through managed experiments.
+- Evaluation speed and cost determine how many improvement cycles are practical.
+- Objective metrics need coverage and adversarial checks because optimization can exploit incomplete scorecards.
+- Open-ended quality often requires structured expert judgment alongside automated measures.
 
 ## Evidence
-### Experiment management
-- [[ep-24-redefining-data-science-in-the-generative-ai-era]] identifies scientific experimentation, hypothesis testing, datasets, and metrics as core practices for reliable generative-AI systems.
 
-### Prompt-overfitting warning
-- [[ep-24-redefining-data-science-in-the-generative-ai-era]] warns that repeatedly adjusting a prompt after viewing only a few outputs can fit those examples rather than the intended task distribution.
+### Representative experimentation
+- [[ep-24-redefining-data-science-in-the-generative-ai-era]] connects hypotheses, datasets, metrics, uncertainty, and experiment management to dependable generative-AI development.
+
+### Evaluation economics
+- [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] contrasts rapid optimization in code, kernels, or speech metrics with subjective creative judgment and expensive chip or drug validation.
 
 ## Counterevidence & Qualifications
-- The source does not name a benchmark, sample-size rule, statistical test, evaluator design, or production monitoring threshold.
-- Open-ended quality may require structured human judgment alongside automated metrics; statistical formality does not eliminate subjective or domain-specific criteria.
-- Evaluation results remain conditional on the dataset, model version, prompt, retrieval context, parameters, and deployment environment tested.
+
+- Neither source supplies a universal sample-size rule, evaluator threshold, or method for resolving expert disagreement.
+- Automated evaluation can make a bad proxy cheaper to optimize and therefore more dangerous.
+- Results remain conditional on the tested model, prompt, dataset, environment, metric, and deployment context.
+- The reported TTS performance gain lacks benchmark artifacts in the supplied episode summary.
 
 ## What Changed
-- Established prompt overfitting as a practical reason to bring statistical experiment design into generative-AI development.
+
+- Added evaluation cost and automation as constraints on iteration speed and practical RSI.
+- Made incomplete-metric optimization an explicit qualification to repeatable testing.
 
 ## Related Concepts
-- [[PredictiveModelValidation]] - older model-validation practice that supplies transferable discipline for AI experiments.
-- [[AIAnswerEvaluation]] - focuses evaluation criteria on whether a particular answer serves user intent and context.
-- [[GenerativeAIUseCaseTriage]] - uses evaluation feasibility and error cost to decide whether an LLM fits the task.
-- [[GenerativeAIApplicationAuditability]] - supplies traceable run data for comparison and failure analysis.
-- [[DataScientistGenerativeAIFluency]] - professional skill set that includes statistical judgment and experiment management.
+
+- [[LowCostAutomatedEvaluation]] - isolates the feedback economics that make repeated optimization feasible.
+- [[AIVerification]] - asks whether evaluated outputs are correct and safe enough to use.
+- [[PredictiveModelValidation]] - supplies older validation practices for representative tests and error analysis.
+- [[AIAnswerEvaluation]] - focuses criteria on whether a particular answer serves intent and context.
+- [[ResearchTaste]] - selects worthwhile questions when correctness and metric gain are insufficient.

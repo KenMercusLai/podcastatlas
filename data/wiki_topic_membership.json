@@ -47368,6 +47368,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HighResponsibilityDensity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HighRiskSurgicalInnovation": [
     {
       "key": "science",
@@ -51700,6 +51707,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "InteractiveAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "InterdependentFutureGovernance": [
@@ -60268,6 +60282,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "LowCostAutomatedEvaluation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LowCostDroneWarfare": [
@@ -69822,6 +69843,18 @@
     }
   ],
   "OpenSourceAIBanRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "OpenSourceAICodeGovernance": [
     {
       "key": "technology",
       "label": "Technology",
@@ -110917,6 +110950,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx": [

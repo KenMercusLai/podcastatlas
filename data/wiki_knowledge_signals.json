@@ -61991,6 +61991,71 @@
       "updated": "2026-11-14",
       "url": "/wiki/concepts/computecontrolcentralizationrisk/"
     },
+    "ComputerUseAgent": {
+      "episode_count": 8,
+      "show_count": 6,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+          "key": "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1",
+          "show": "枫言枫语",
+          "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
+          "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射 [luffrgudEiiGHQxam49tfQci63NO].md",
+          "key": "139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射",
+          "url": "/wiki/sources/139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/computeruseagent/"
+    },
     "ConcealedCapabilityTiming": {
       "episode_count": 2,
       "show_count": 1,
@@ -121272,9 +121337,9 @@
       "url": "/wiki/concepts/generativeaiapplicationauditability/"
     },
     "GenerativeAIEvaluationDiscipline": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
@@ -121282,9 +121347,16 @@
           "show": "Data Science With Sam",
           "title": "EP 24: Redefining Data Science in the Generative AI Era",
           "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/generativeaievaluationdiscipline/"
     },
     "GenerativeAIHollywoodProduction": {
@@ -140479,6 +140551,36 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/highrecallsafetyintervention/"
     },
+    "HighResponsibilityDensity": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+          "key": "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+          "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/highresponsibilitydensity/"
+    },
     "HighRiskPassionFamilyResponsibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -156472,6 +156574,43 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/intellectualresponsibilityunderauthoritarianism/"
     },
+    "IntelligenceDevaluation": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS [lh_CQyoSs_DztmYB5kmBjaPA6W9V].md",
+          "key": "136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+          "url": "/wiki/sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v/"
+        },
+        {
+          "episode_file": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [智力贬值的春节见闻录，与那场正在酝酿的优贷危-1].md",
+          "key": "zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1",
+          "show": "科技乱炖",
+          "title": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机",
+          "url": "/wiki/sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/intelligencedevaluation/"
+    },
     "IntelligenceFlywheel": {
       "episode_count": 1,
       "show_count": 1,
@@ -156632,6 +156771,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/interpath001/"
+    },
+    "InteractiveAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/interactiveai/"
     },
     "InterdependenceWithDistinctSelf": {
       "episode_count": 1,
@@ -193374,6 +193529,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/lowclaimcivicaction/"
     },
+    "LowCostAutomatedEvaluation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/lowcostautomatedevaluation/"
+    },
     "LowCostCreativeAutonomy": {
       "episode_count": 1,
       "show_count": 1,
@@ -229199,6 +229370,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/opensourceaibanrisk/"
     },
+    "OpenSourceAICodeGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/opensourceaicodegovernance/"
+    },
     "OpenSourceAITestbed": {
       "episode_count": 1,
       "show_count": 1,
@@ -256301,6 +256488,36 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
     },
+    "RadixARC": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/radixarc/"
+    },
     "RadomirPutnik": {
       "episode_count": 1,
       "show_count": 1,
@@ -258491,6 +258708,99 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/recursionpharma/"
+    },
+    "RecursiveSelfImprovement": {
+      "episode_count": 12,
+      "show_count": 8,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "与田渊栋聊 RSI：模型自进化如何到来？ (1) [178-1].md",
+          "key": "yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1",
+          "show": "晚点聊 LateTalk",
+          "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
+          "url": "/wiki/sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地 [308f9278-dd48-44d3-a4ce-ee436968fc28].md",
+          "key": "e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di",
+          "show": "硅谷101",
+          "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
+          "url": "/wiki/sources/e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di/"
+        },
+        {
+          "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
+          "key": "137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的",
+          "url": "/wiki/sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb/"
+        },
+        {
+          "episode_file": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟 [lrS0qgmr9Gy1NbDTrSvN2Lx5dxza].md",
+          "key": "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza",
+          "show": "起朱楼宴宾客",
+          "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
+          "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
+        },
+        {
+          "episode_file": "149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark [lm33Q4N6w8TZcd2fXDBUK9UnC2xv].md",
+          "key": "149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark",
+          "url": "/wiki/sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/recursiveselfimprovement/"
     },
     "RedCliffsBattle": {
       "episode_count": 6,
@@ -269980,6 +270290,29 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/seccftccoordination/"
+    },
+    "SGLang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sglang/"
     },
     "SGame": {
       "episode_count": 1,
@@ -319511,6 +319844,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/voicehumanization/"
     },
+    "VoiceInputWorkflow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/voiceinputworkflow/"
+    },
     "VoiceInteraction": {
       "episode_count": 9,
       "show_count": 5,
@@ -346498,6 +346847,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhaochengligupetitioner/"
+    },
+    "ZhaoChenyang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "lhHxptqOANRsmGIh0htFeLq-znBg [lhHxptqOANRsmGIh0htFeLq-znBg].md",
+          "key": "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg",
+          "show": "十字路口Crossing",
+          "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+          "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/zhaochenyang/"
     },
     "ZhaoChongLateHan": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11381
+wiki_total_pages: 11385
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "OpenCultureMilitaryLearning"
     title: "Open-Culture Military Learning"
     url: "/wiki/concepts/openculturemilitarylearning/"
+  - key: "OpenSourceAICodeGovernance"
+    title: "Open-Source AI Code Governance / AI时代开源代码治理"
+    url: "/wiki/concepts/opensourceaicodegovernance/"
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"

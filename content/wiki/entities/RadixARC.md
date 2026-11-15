@@ -2,22 +2,56 @@
 title: "Redix ARK / Radix ARC"
 type: entity
 tags: [ai, research, open-models, infrastructure, startup]
-sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]
-last_updated: 2026-08-08
+sources:
+  - e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668
+  - xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1
+  - lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg
+last_updated: 2026-11-16
+knowledge_schema: synthesis-v1
 ---
 
 # Redix ARK / Radix ARC
 
-[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] clarifies the organization through [[ShengYing|盛颖]], describing Redix ARK as her AI infrastructure company and saying it announced a $100 million seed round in May 2026. The source connects the company to [[SGLang]], production inference, [[AgentRL|RL rollout]] infrastructure, [[AIInfrastructureAsProduct]], and the broader goal of making "next-generation AI."
+## Overview
 
-The earlier [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] transcript names the organization inconsistently as Radix ARC / Ridix ARC through [[ZhaoChenyang|赵晨阳]]. This page keeps the existing filename and earlier spelling note, while treating Redix ARK as the spelling used by the later [[SiliconValley101]] source.
+Redix ARK / Radix ARC is an AI-infrastructure organization associated with [[ShengYing|盛颖]], [[ZhaoChenyang|赵晨阳]], [[SGLang]], production inference, and agent-training infrastructure. The canonical page preserves spelling uncertainty across sources rather than treating each variant as a separate company.
 
-In both sources, the organization matters as an AI infrastructure and open-model ecosystem participant rather than only as a company profile. The Kimi K3 source connects it to [[OpenWeightReleaseBoundary]], [[OpenModelSafetyGovernance]], and [[ModelInfraCoDesign]], while E247 adds [[OpenSourceAIInfrastructure]], [[OpenSourceCommunityCommercialization]], [[DayZeroModelSupport]], and [[OpenSourceAIDemocratization]].
+## Current Profile
 
-## Connections
-- [[ShengYing|盛颖 / Sheng Ying]], [[SGLang]], [[RadixAttention]], [[DayZeroModelSupport]], and [[AgentRL]] - source-247 company and infrastructure branch.
-- [[ZhaoChenyang]] — guest associated with the organization in the source.
-- [[OpenSourceAIModels]], [[OpenWeightReleaseBoundary]], and [[ChineseOpenWeightAIStrategy]] — open-weight debate where the organization is mentioned.
-- [[OpenModelSafetyGovernance]], [[FrontierModelReleaseGovernance]], and [[AIExportControls]] — policy and safety context.
-- [[ModelInfraCoDesign]] and [[AIInferenceCostStructure]] — infrastructure themes Zhao discusses.
-- [[AIInfrastructureAsProduct]], [[OpenSourceAIInfrastructure]], and [[OpenSourceAIDemocratization]] - source-247 interpretation of the company's mission.
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] supplies the clearest company account: Redix ARK grows from SGLang and production demand toward inference, RL rollout, sandboxes, tools, and model infrastructure, while framing open source as a route to broader AI access. [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] connects Zhao and the Radix ARC / Ridix ARC spelling to Kimi K3 infrastructure, open-weight boundaries, and model-infrastructure co-design. [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] adds “Radix Ark” and extends the practical culture around evaluation, RSI, interactive systems, and accountable open-source maintenance without providing a formal corporate profile.
+
+## Key Characteristics
+
+- Builds or participates in open AI inference and adjacent agent-training infrastructure.
+- Treats infrastructure as a product spanning serving, rollout, sandboxes, and tools rather than as invisible support.
+- Connects open-source engineering to both capability diffusion and sustainable commercial organization.
+- Operates near model-infrastructure co-design, where attention, cache, kernels, and workload shape one another.
+- Is represented under inconsistent Redix/Radix, ARK/ARC, and Ridix spellings across supplied sources.
+
+## Evidence
+
+### Company and open-infrastructure profile
+- [[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] connects Redix ARK to Sheng Ying, SGLang, production inference, RL rollout, open-source commercialization, and a reported seed round.
+
+### Zhao and model-system work
+- [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] associates Zhao with Radix ARC / Ridix ARC and Kimi K3's architecture, serving, kernels, and agent environments.
+- [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] associates Zhao with Radix Ark and an open-source inference-engine team while adding evaluation and governance practice.
+
+## Qualifications
+
+- The organization name is not stable across the supplied summaries; Redix ARK is preferred because E247 gives the clearest later company account, while the existing filename and aliases remain unchanged.
+- Fundraising, membership, and technical-attribution claims are source-reported rather than independently verified here.
+- The newest episode focuses on Zhao's ideas and does not establish a detailed company timeline, ownership structure, or product list.
+
+## What Changed
+
+- Added a third spelling variant and evidence that the organization's engineering context extends into RSI evaluation and code governance.
+- Preserved the identity ambiguity rather than manufacturing a false normalization.
+
+## Relationships
+
+- [[ShengYing|盛颖 / Sheng Ying]] - founder associated with the clearest Redix ARK company account.
+- [[ZhaoChenyang|赵晨阳]] - infrastructure practitioner associated with the organization across two sources.
+- [[SGLang]] - open-source inference engine at the center of the company's technical lineage.
+- [[AIInfrastructureAsProduct]] - operating thesis that serving and training infrastructure must be designed as user-facing systems.
+- [[OpenSourceAIInfrastructure]] - ecosystem and distribution model the organization exemplifies.

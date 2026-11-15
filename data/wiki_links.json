@@ -48995,6 +48995,10 @@
     "title": "Interaction Model",
     "url": "/wiki/entities/interactionmodel/"
   },
+  "InteractiveAI": {
+    "title": "Interactive AI / 交互式人工智能",
+    "url": "/wiki/concepts/interactiveai/"
+  },
   "InteractiveTheoremProving": {
     "title": "Interactive Theorem Proving",
     "url": "/wiki/concepts/interactivetheoremproving/"
@@ -59731,6 +59735,10 @@
     "title": "Low-Claim Civic Action / 低诉求公共行动",
     "url": "/wiki/concepts/lowclaimcivicaction/"
   },
+  "LowCostAutomatedEvaluation": {
+    "title": "Low-Cost Automated Evaluation / 低成本自动化评估",
+    "url": "/wiki/concepts/lowcostautomatedevaluation/"
+  },
   "LowCostCreativeAutonomy": {
     "title": "Low-Cost Creative Autonomy",
     "url": "/wiki/concepts/lowcostcreativeautonomy/"
@@ -70126,6 +70134,10 @@
   "OpenSourceAIBanRisk": {
     "title": "Open Source AI Ban Risk",
     "url": "/wiki/concepts/opensourceaibanrisk/"
+  },
+  "OpenSourceAICodeGovernance": {
+    "title": "Open-Source AI Code Governance / AI时代开源代码治理",
+    "url": "/wiki/concepts/opensourceaicodegovernance/"
   },
   "OpenSourceAIDemocratization": {
     "title": "Open-Source AI Democratization",
@@ -97819,6 +97831,10 @@
     "title": "Voice Humanization",
     "url": "/wiki/concepts/voicehumanization/"
   },
+  "VoiceInputWorkflow": {
+    "title": "Voice Input Workflow / 语音输入工作流",
+    "url": "/wiki/concepts/voiceinputworkflow/"
+  },
   "VoiceInteraction": {
     "title": "Voice Interaction",
     "url": "/wiki/concepts/voiceinteraction/"
@@ -112166,6 +112182,10 @@
   "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs": {
     "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
     "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+  },
+  "lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg": {
+    "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
+    "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
   },
   "lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx": {
     "title": "MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越",
