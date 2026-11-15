@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11303
+wiki_total_pages: 11305
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2753,6 +2753,9 @@ wiki_pages:
   - key: "PublicInstantPaymentRail"
     title: "Public Instant Payment Rail"
     url: "/wiki/concepts/publicinstantpaymentrail/"
+  - key: "PublicIntellectualErrorCorrection"
+    title: "Public Intellectual Error Correction"
+    url: "/wiki/concepts/publicintellectualerrorcorrection/"
   - key: "PublicInterestAI"
     title: "Public Interest AI"
     url: "/wiki/concepts/publicinterestai/"
@@ -2879,6 +2882,9 @@ wiki_pages:
   - key: "PunchedCardAdministration"
     title: "Punched Card Administration / 打孔卡行政"
     url: "/wiki/concepts/punchedcardadministration/"
+  - key: "PunishmentCertaintySeverityTradeoff"
+    title: "Punishment Certainty–Severity Tradeoff"
+    url: "/wiki/concepts/punishmentcertaintyseveritytradeoff/"
   - key: "PunishmentTheoryTradeoff"
     title: "Punishment Theory Tradeoff"
     url: "/wiki/concepts/punishmenttheorytradeoff/"

@@ -16,6 +16,7 @@ sources:
   - introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio
   - the-trust-diagnosis
   - the-big-birthday-party-the-big-birthday-party
+  - malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -24,7 +25,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, a follow-up on golf and tax privilege, food-technology naming, a reassessment of school desegregation through displaced Black educators, a personal case about trust under medical uncertainty, and a tenth-anniversary reflection on how the show finds and revises stories.
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, a follow-up on golf and tax privilege, food-technology naming, a reassessment of school desegregation through displaced Black educators, a personal case about trust under medical uncertainty, a tenth-anniversary reflection on how the show finds and revises stories, and an outside interview that makes the host's correction of an influential claim and the show's death-penalty inquiry explicit.
 
 ## Current Profile
 
@@ -52,6 +53,8 @@ A first-person medical decision case extends the show's method into expert trust
 
 [[the-big-birthday-party-the-big-birthday-party|The Big Birthday Party]] turns the method back on the production itself. [[MiaBell]]'s founding criticism shows revision beginning with a collaborator willing to identify a narrow source and subject mix; [[CaseyBeathardBowles]]'s lyric lapse and the chance encounter with [[SydneyMcLaughlin]] show reporting plans yielding to independent emotion and observation; and listener correspondence extends discovery beyond the production team. Together these examples make [[DiscoveryLedAudioStorytelling]], [[EditorialCandorAsRevision]], and [[ListenerParticipatoryDiscovery]] explicit features of the show's self-understanding.
 
+[[malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from|Malcolm Gladwell Doesn't Mind Being Wrong]] supplies an external reflective frame. In conversation with [[HasanMinhaj]], Gladwell treats the show and his books as provisional inquiry, publicly rejects his earlier broken-windows explanation, and connects correction to the real influence of popular arguments. The discussion of season 11's “The Alabama Murders” also extends the show's institutional method into judicial override, lethal injection, sentence severity, apprehension certainty, and the humanity of people a punitive system has discarded.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
@@ -60,7 +63,7 @@ A first-person medical decision case extends the show's method into expert trust
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
-- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, implementation history, curated outside series, personal medical cases, and found audio moments to connect uncertainty with institutional and interpersonal trust.
+- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, implementation history, curated outside series, personal medical cases, found audio moments, and explicit self-correction to connect uncertainty with institutional and interpersonal trust.
 
 ## Evidence
 
@@ -113,15 +116,19 @@ A first-person medical decision case extends the show's method into expert trust
 
 - [[the-big-birthday-party-the-big-birthday-party]] connects [[MiaBell]]'s founding critique, [[CaseyBeathardBowles]]'s recorded lyric lapse, the chance sighting of [[SydneyMcLaughlin]], and listener correspondence to the show's preference for finding rather than scripting decisive moments.
 
+### Public correction and capital punishment
+
+- [[malcolm-gladwell-doesnt-mind-being-wrong-from-hasan-minhaj-doesnt-know-malcolm-gladwell-doesnt-mind-being-wrong-from]] uses an outside interview to make Gladwell's broken-windows correction explicit and to frame the Alabama season through judicial power, execution procedure, deterrence design, and retained humanity.
+
 ## Qualifications
 
-Only thirteen sources currently inform this page, so they do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failed episodes, editorial criticism, production changes over time, or the extent to which editing helped construct apparently found moments.
+Only fourteen sources currently inform this page, so they do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review, so correction, influence, execution physiology, and deterrence comparisons remain source-scoped.
 
 ## What Changed
 
-- Made collaborative candor an explicit part of the show's revision method.
-- Added found emotion and chance observation as distinct documentary evidence forms.
-- Extended story discovery to listener contributions while preserving editorial selection duties.
+- Made explicit self-correction and ownership of prior influence part of the show's revision method.
+- Added capital punishment as a branch joining judicial power, hidden suffering, deterrence design, and retained humanity.
+- Preserved the external interview as a reflective frame rather than treating it as direct evidence from the full Alabama season.
 
 ## Relationships
 
@@ -159,3 +166,6 @@ Only thirteen sources currently inform this page, so they do not establish the f
 - [[DiscoveryLedAudioStorytelling]] - documentary preference for independently occurring candor, emotion, and observation.
 - [[EditorialCandorAsRevision]] - internal correction mechanism illustrated by the show's founding feedback.
 - [[ListenerParticipatoryDiscovery]] - audience relationship that turns selected contributions into shared inquiry.
+- [[HasanMinhaj]] - outside interviewer who makes the host's uncertainty and corrections explicit.
+- [[PublicIntellectualErrorCorrection]] - revision practice illustrated by Gladwell's broken-windows reassessment.
+- [[PunishmentCertaintySeverityTradeoff]] - framework developed through the Alabama death-penalty discussion.

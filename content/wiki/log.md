@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-11-15] ingest | Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
+
+Added the [[HasanMinhaj]] interview with [[MalcolmGladwell]] on accessible nonfiction, public belief revision, artistic license, education, career-stage differences in remote work, and season 11 of [[RevisionistHistory]]. Created Hasan Minhaj, [[PublicIntellectualErrorCorrection]], and [[PunishmentCertaintySeverityTradeoff]]; and resynthesized Malcolm Gladwell and Revisionist History from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: correction by a public intellectual should identify the earlier claim, the changed evidence, and the consequences of prior influence; crime continuing to fall after Stop and Frisk was curtailed is presented as the reason Gladwell rejected his broken-windows explanation. Punishment certainty, severity, and speed are separate levers, and extreme sentences or execution cannot automatically compensate for weak apprehension, hidden procedural suffering, or failure to repair violence-producing conditions. No settled contradiction was adopted. Gladwell's current account revises his own earlier position, while the elite-school and remote-work disagreements remain unresolved and context-dependent. Crime causation, policy influence, comedy norms, education and work effects, Air Force dialogue, judicial history, execution physiology, and comparative deterrence remain episode-scoped because the supplied file is a structured summary rather than a transcript, primary record, research review, or competing-expert debate. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,989 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-15] ingest | Zootopia Exposed! (Part One)
 
 Added the [[RevisionistHistory]] episode reconstructing [[GaryGoldman]]'s Zootopia pitch, seven-year legal defeat, family impact, and the unresolved parallels between his grievance and [[Zootopia2Film|Zootopia 2]]. Created [[AngusFletcher]] and [[CopyrightIdeaExpressionBoundary]]; and resynthesized Goldman, the film, and [[SymbolicCreativeRestitution]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -39892,6 +39898,10 @@ Ran lint. See lint-report.md for details.
 Added the sponsored [[RevisionistHistory]] episode featuring [[MoKatibeh]], [[GuyGriggs]], and [[SteveDouglas]]. Created [[TMobile]], [[SiemensEnergy]], [[NetworkSlicing]], and [[ConnectivityEnabledWorkflowRedesign]], and resynthesized [[CNN]] from its complete preserved three-source evidence inventory.
 
 Core synthesis: differentiated mobile service can preserve selected capacity, reliability, performance, or latency under congestion, while dependable point-of-work access can remove handoffs, fixed filing locations, trailer trips, and delayed expert consultation. The network remains only one layer: coverage, devices, security, applications, procedures, training, verification, human expertise, and fallback paths still determine operational value. No direct contradiction was adopted. Product performance, deployment scale, electricity share, test results, time and cost savings, security, and future healthcare, AI, predictive-maintenance, and fixed-network-displacement uses remain source-scoped because the supplied document is a structured summary of a paid partnership rather than a transcript, independent benchmark, coverage or security audit, procurement comparison, or outcomes study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,988 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-15] lint | Wiki health check
 
