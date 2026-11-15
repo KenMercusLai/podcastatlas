@@ -5146,6 +5146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 - [Show 73 - Mania for Subjugation III](sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii.md) — Hardcore History on Macedonian campaign finance, Alexander's Homeric glory, Achaemenid durability, conflicting Granicus accounts, leader exposure, and mercenary massacre.
 - [Show 74 - Mania for Subjugation IV](sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv.md) — Hardcore History on Alexander's Anatolian sieges, army bond, campaign logistics, source uncertainty, and the terrain, formation crisis, rout, and political aftermath at Issus.
+- [Show 72 - Mania for Subjugation II](sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii.md) — Hardcore History on Alexander's contested accession, northern campaigns, coercive display, ancient-source conflict, and the destruction of Thebes.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 - [The Alabama Murders - Part 4: The Protocol](sources/the-alabama-murders-part-4-the-protocol.md) — Revisionist History episode on Parker's overridden life recommendation, Perry's sustained presence, lethal injection's untested origin, and pulmonary injury concealed by paralysis.
@@ -19568,6 +19569,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [JJ Goode](entities/JJGoode.md) — Writer whose prosopagnosia and inclusive greeting strategy anchor Face Value's friendship case.
 - [Missy Kurzweil](entities/MissyKurzweil.md) — Writer whose understandable rejection inference makes the observer-side cost of nonrecognition visible.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
+- [Thebes](entities/Thebes.md) — Major Greek city whose isolated revolt ended in massacre, enslavement, near-total destruction, and deterrent shock across Greece.
+- [Arrian](entities/Arrian.md) — Roman-era military historian whose detailed Alexander narrative is late, selective, and generally favorable to its subject.
 
 ## Concepts
 - [Crisis Leader Signal Amplification](concepts/CrisisLeaderSignalAmplification.md) — Pattern in which leaders' words, gestures, emotions, interactions, and silences carry intensified consequences under threat.
@@ -24845,7 +24848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
 - [弱势名分安抚 / Weak-Position Pacification](concepts/WeakPositionPacification.md) — Pattern where weak formal appointment becomes real order through reassurance, status grants, livelihood repair, and delayed defense.
 - [Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛](concepts/GrainLeverageAllianceBetrayal.md) — Hanji 999 pattern where Yuan Shu's promised grain lets Lü Bu seize Xiapi from Liu Bei, showing scarcity as an alliance-switching lever.
-- [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Hanji 1008辕门射戟 pattern where a bounded public display of force makes rival parties believe intervention is credible enough to withdraw.
+- [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Public capability display that can create withdrawal or compliance, ranging from an agreed test to battlefield intimidation and exemplary violence.
 - [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
 - [Reputation-Constrained Talent Protection / 名声约束下的人才保护](concepts/ReputationConstrainedTalentProtection.md) — Hanji 1009 Guo Jia/Cao Cao pattern where killing a dangerous but shelter-seeking hero would damage the camp's ability to attract capable people.
 - [Moral Disengagement Rationalization / 道德推脱式自我合理化](concepts/MoralDisengagementRationalization.md) — Hanji 1009 pattern where Lü Bu seeks public abuse of Liu Bei to justify betrayal and Yuan Huan refuses to participate.
@@ -31047,7 +31050,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shared-Activity Social Scaffolding](concepts/SharedActivitySocialScaffolding.md) — Use of tasks, games, rituals, identities, or problems to make repeated interaction and connection easier.
 - [Army–Commander Bond](concepts/ArmyCommanderBond.md) — Trust and personal identification accumulated through shared danger, visible attention, repeated success, and stable participation.
 - [Battlefield Cohesion and Rout](concepts/BattlefieldCohesionAndRout.md) — Mechanism linking formation gaps, confidence, leader signals, panic, bottlenecks, and pursuit to military collapse.
-- [Campaign Logistics and Tempo](concepts/CampaignLogisticsAndTempo.md) — Interaction among supply, route consumption, fleet cost, treasury, bases, movement speed, and operational timing.
+- [Campaign Logistics and Tempo](concepts/CampaignLogisticsAndTempo.md) — Interaction among coalition timing, supply, routes, intelligence, fleet cost, treasury, movement speed, and operational risk.
 - [Conquest Financing Feedback Loop](concepts/ConquestFinancingFeedbackLoop.md) — Cycle in which borrowing launches war and captured revenue removes the fiscal constraint on continued conquest.
 - [News Consumer Needs](concepts/NewsConsumerNeeds.md) — Comprehension, control, and community goals pursued through information alongside factual accuracy.
 - [News-Desert Media Substitution](concepts/NewsDesertMediaSubstitution.md) — Shift toward aggregators, distant broadcasters, social testimony, radio, and personal networks when local reporting thins.

@@ -14286,9 +14286,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -14345,9 +14345,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 73 - Mania for Subjugation III",
           "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/alexanderthegreat/"
     },
     "AlexanderVonHumboldt": {
@@ -23265,6 +23272,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/arousalcircuitspecificity/"
+    },
+    "Arrian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/arrian/"
     },
     "ArsenalOne": {
       "episode_count": 1,
@@ -42302,9 +42325,9 @@
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
     },
     "CampaignLogisticsAndTempo": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
@@ -42319,9 +42342,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 73 - Mania for Subjugation III",
           "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/campaignlogisticsandtempo/"
     },
     "CampaignLogisticsBattlefieldSelection": {
@@ -67897,6 +67927,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/creatortrustadvertising/"
     },
+    "CredibleForceDisplayDeterrence": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？ [ls8wvh9OX-pCjmt0z8w82OpBhA-k].md",
+          "key": "zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/credibleforcedisplaydeterrence/"
+    },
     "CreditBasedBanditSurrender": {
       "episode_count": 1,
       "show_count": 1,
@@ -71804,9 +71857,9 @@
       "url": "/wiki/entities/dallaspolicedepartment/"
     },
     "DanCarlin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -71828,9 +71881,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 74 - Mania for Subjugation IV",
           "url": "/wiki/sources/dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/dancarlin/"
     },
     "DanDriver": {
@@ -135230,9 +135290,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -135261,9 +135321,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 73 - Mania for Subjugation III",
           "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/hardcorehistory/"
     },
     "HardwareDistributionDefensibility": {
@@ -227806,9 +227873,9 @@
       "url": "/wiki/entities/olympedegouges/"
     },
     "Olympias": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -227837,9 +227904,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 73 - Mania for Subjugation III",
           "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/olympias/"
     },
     "OlympicAmateurism": {
@@ -234192,9 +234266,9 @@
       "url": "/wiki/concepts/parliamentarysystem/"
     },
     "Parmenion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
@@ -234209,9 +234283,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 73 - Mania for Subjugation III",
           "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/parmenion/"
     },
     "ParthenopeanRepublic": {
@@ -239415,9 +239496,9 @@
       "url": "/wiki/entities/philipii/"
     },
     "PhilipIIMacedon": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3321594885 [GLT3321594885].md",
@@ -239439,9 +239520,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 73 - Mania for Subjugation III",
           "url": "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"
+        },
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/philipiimacedon/"
     },
     "PhilipIVOfFrance": {
@@ -304536,6 +304624,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/thebanmythicpoliticalmirror/"
+    },
+    "Thebes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha72_Mania_for_Subjugation_II [dchha72_Mania_for_Subjugation_II].md",
+          "key": "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 72 - Mania for Subjugation II",
+          "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/thebes/"
     },
     "ThemeLedBeverageDesign": {
       "episode_count": 1,

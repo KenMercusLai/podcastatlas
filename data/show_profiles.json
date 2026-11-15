@@ -274,14 +274,14 @@
       "earliest_episode_date": "2022-03-06",
       "latest_episode_date": "2026-07-31",
       "latest_episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 3,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [
@@ -289,6 +289,20 @@
           "key": "AlexanderTheGreat",
           "title": "Alexander the Great / 亚历山大大帝",
           "url": "/wiki/entities/alexanderthegreat/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "Parmenion",
+          "title": "Parmenion",
+          "url": "/wiki/entities/parmenion/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "DanCarlin",
+          "title": "Dan Carlin",
+          "url": "/wiki/entities/dancarlin/",
           "kind": "person",
           "episode_count": 2
         },
@@ -307,9 +321,16 @@
           "episode_count": 2
         },
         {
-          "key": "Parmenion",
-          "title": "Parmenion",
-          "url": "/wiki/entities/parmenion/",
+          "key": "Olympias",
+          "title": "Olympias",
+          "url": "/wiki/entities/olympias/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "PhilipIIMacedon",
+          "title": "Philip II of Macedon",
+          "url": "/wiki/entities/philipiimacedon/",
           "kind": "person",
           "episode_count": 2
         }

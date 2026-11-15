@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14321
+wiki_total_pages: 14323
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "TheXFiles"
     title: "The X-Files / X档案"
     url: "/wiki/entities/thexfiles/"
+  - key: "Thebes"
+    title: "Thebes"
+    url: "/wiki/entities/thebes/"
   - key: "ThedaSkocpol"
     title: "Theda Skocpol"
     url: "/wiki/entities/thedaskocpol/"

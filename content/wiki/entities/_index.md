@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14321
+wiki_total_pages: 14323
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "AronDarling"
     title: "Aron Darling"
     url: "/wiki/entities/arondarling/"
+  - key: "Arrian"
+    title: "Arrian"
+    url: "/wiki/entities/arrian/"
   - key: "ArrivalFilm"
     title: "Arrival"
     url: "/wiki/entities/arrivalfilm/"

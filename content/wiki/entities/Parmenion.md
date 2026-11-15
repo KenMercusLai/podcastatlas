@@ -5,8 +5,9 @@ tags: [person, general, ancient-macedonia]
 sources:
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
   - dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii
+  - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
 knowledge_schema: synthesis-v1
-last_updated: 2026-11-15
+last_updated: 2026-11-16
 ---
 
 # Parmenion
@@ -17,7 +18,9 @@ Parmenion appears as [[PhilipIIMacedon|Philip II's]] senior general and a source
 
 ## Current Profile
 
-Before the invasion, Parmenion is recalled from the Macedonian bridgehead in Asia and joins [[Antipater]] in reportedly advising Alexander to marry and secure an heir. At the [[BattleOfGranicus]], Arrian casts him as the advocate of delay before a dangerous river crossing, while Diodorus's dawn-crossing account makes that dialogue difficult to reconcile. The caution may record real counsel or serve as a literary foil for Alexander's successful audacity.
+At accession, Parmenion's support helps [[AlexanderTheGreat|Alexander]] secure recognition from the army. His son-in-law Attalus, a powerful commander in Asia who had communicated with Alexander's Greek opponents, is then assassinated on Alexander's orders, yet Parmenion remains aligned with the new king. The surviving account establishes the political rupture but not his private calculations.
+
+Before the invasion, Parmenion is recalled from the Macedonian bridgehead in Asia and joins [[Antipater]] in reportedly advising Alexander to marry and secure an heir. At the [[BattleOfGranicus]], [[Arrian]] casts him as the advocate of delay before a dangerous river crossing, while Diodorus's dawn-crossing account makes that dialogue difficult to reconcile. The caution may record real counsel or serve as a literary foil for Alexander's successful audacity.
 
 After Granicus strengthens the young king relative to the inherited senior commander, the same pattern continues. At Miletus, Parmenion recommends accepting naval battle, while Alexander refuses to risk the campaign in Persia's strongest medium. During Alexander's illness, Parmenion reportedly warns that the physician may have been bribed to poison him, enabling a dramatic trust scene whose precise historicity is uncertain.
 
@@ -28,10 +31,12 @@ After Granicus strengthens the young king relative to the inherited senior comma
 - Helps reveal Alexander's growing independence and authority over the inherited officer corps.
 - Appears in anecdotes shaped to dramatize the king's judgment and nerve.
 - Connects succession planning and the Asian bridgehead to battlefield and naval counsel.
+- Supports Alexander's accession despite the new king's killing of his son-in-law Attalus.
 
 ## Evidence
 
 - Command standing: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] connects Granicus to Alexander's rising credibility relative to Parmenion.
+- Accession alignment: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] connects Parmenion's support to army recognition and records his continued alignment after Attalus's assassination.
 - Pre-invasion and Granicus counsel: [[dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii]] connects Parmenion to the Asian bridgehead, heir advice, and the disputed recommendation to delay crossing.
 - Naval counsel: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] attributes the proposed sea battle at Miletus to Parmenion.
 - Poison warning: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] preserves the physician-warning episode as a dramatic, source-dependent anecdote.
@@ -42,8 +47,8 @@ The profile comes from two episode summaries comparing late traditions. Ancient 
 
 ## What Changed
 
-- Added the Asian bridgehead, succession counsel, and disputed Granicus advice to the senior-command profile.
-- Clarified that the recurring cautious foil may reflect literary shaping as well as genuine disagreement.
+- Added Parmenion's support during accession and the unresolved meaning of his continued service after Attalus's assassination.
+- Connected his later advisory role to the political bargain that preserved Philip-era command continuity.
 
 ## Relationships
 

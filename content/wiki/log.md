@@ -40364,3 +40364,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Show 72 - Mania for Subjugation II
+
+Added the [[HardcoreHistory]] episode following [[AlexanderTheGreat|Alexander the Great]] from [[PhilipIIMacedon|Philip II's]] assassination through contested accession, northern campaigning, and the destruction of [[Thebes]]. Created Thebes and [[Arrian]], migrated [[CredibleForceDisplayDeterrence]] to synthesis-v1, and resynthesized Alexander, Philip, [[Olympias]], [[Parmenion]], [[DanCarlin]], Hardcore History, and [[CampaignLogisticsAndTempo]] from each page's complete preserved source inventory before appending the new source once.
+
+Core synthesis: speed, combined arms, intelligence, personal exposure, and psychological display let Alexander restore a fragile position, but the same operating system produces self-created risk and escalating coercion. The Illyrian campaign joins operational error to disciplined recovery; Thebes joins isolated resistance, disputed battle initiation, massacre, enslavement, delegated legal cover, and deterrent shock. No settled contradiction was adopted. Responsibility for Philip's death, succession killings, the opening assault at Thebes, ancient numbers, speeches, motives, and casualty-free claims remains disputed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,033 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

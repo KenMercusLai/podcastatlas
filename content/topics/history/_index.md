@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2798
+topic_total_pages: 2799
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7410,6 +7410,9 @@ topic_sources:
   - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
     title: "Reconstruction: The Unfinished Promise"
     url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
+  - key: "dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii"
+    title: "Show 72 - Mania for Subjugation II"
+    url: "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
   - key: "dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii"
     title: "Show 73 - Mania for Subjugation III"
     url: "/wiki/sources/dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii/"

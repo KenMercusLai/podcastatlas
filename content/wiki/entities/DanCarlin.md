@@ -6,7 +6,8 @@ sources:
   - 184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798
   - 183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
-last_updated: 2026-11-15
+  - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Across both parts, Carlin treats history as useful perspective without denying i
 
 [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] shows that method in a sustained narrative. Carlin treats Issus through formation alignment, terrain, supply, fear, animal behavior, pursuit, cultural stereotype, and conflicting ancient testimony rather than tactical diagram alone. He explicitly labels claims about trauma, concussion, Darius's intentions, and Alexander's inner change as possibilities, yet uses them to ask how continual success and near-absolute power may transform a conqueror.
 
+[[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] shows the same method before the Persian invasion. Carlin moves between assassination uncertainty, succession custom, terrain, combined arms, psychological display, freedom claims, and the destruction of Thebes. Modern analogies make remote events vivid, but his strongest boundary is that strategic effectiveness, ancient political necessity, and favorable source tradition do not erase civilian suffering or settle personal responsibility.
+
 ## Key Characteristics
 
 - Uses counterfactual choices to expose hidden assumptions about privilege, danger, technology, and political control.
@@ -40,6 +43,7 @@ Across both parts, Carlin treats history as useful perspective without denying i
 - Historical method and judgment: [[184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798]] records Carlin's arguments about mediated knowledge, three-dimensional historical figures, and belief as a causal historical reality.
 - Contingency and strategy: both crossover parts treat outcomes as conditional; Part 1 tests Wilhelm, Lenin, nuclear weapons, and the Confederacy, while [[184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798|Part 2]] tests the Cold War and Putin's reading of Ukraine.
 - Sustained narrative method: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] compares Arrian, Diodorus, Curtius, Plutarch, and modern historians while integrating logistics, morale, violence, and qualified psychological reconstruction.
+- Moral and evidentiary tension: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] contrasts Arrian and Diodorus while separating tactical success, political context, uncertain agency, and the consequences of terror.
 
 ## Qualifications
 
@@ -47,9 +51,9 @@ This profile comes from two conversational crossover episodes and one structured
 
 ## What Changed
 
-- Added a direct example of Carlin's long-form military narration and comparative source handling.
-- Extended his method to battlefield cohesion, logistics, post-rout violence, and the political psychology of success.
-- Clarified the boundary between explicitly marked speculation and independent verification.
+- Added an earlier Alexander case centered on assassination uncertainty, succession violence, and coercive consolidation.
+- Clarified that contextualizing ancient political necessity does not remove responsibility for suffering.
+- Added Thebes as a test of conflicting sources, freedom language, delegated legality, and exemplary terror.
 
 ## Relationships
 
@@ -58,3 +62,4 @@ This profile comes from two conversational crossover episodes and one structured
 - [[HistoricalInquirySourceCriticism]] - method aligned with his qualified realism about knowledge of the past.
 - [[HistoricalMemoryContest]] - tension he identifies between perspective and grievance.
 - [[HistoricalCounterfactualReasoning]] - method he uses to expose assumptions and compare agency with structural constraint.
+- [[Arrian]] - favorable ancient source whose tactical usefulness and political mediation Carlin keeps in tension.
