@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2794
+topic_total_pages: 2795
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2102,6 +2102,9 @@ topic_entities:
   - key: "Cat"
     title: "Cat / 猫"
     url: "/wiki/entities/cat/"
+  - key: "CautionaryTales"
+    title: "Cautionary Tales"
+    url: "/wiki/entities/cautionarytales/"
   - key: "Changzhou"
     title: "Changzhou / 常州"
     url: "/wiki/entities/changzhou/"

@@ -23205,6 +23205,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "CautionaryTales": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CavalryShockCommandStrike": [
     {
       "key": "history",

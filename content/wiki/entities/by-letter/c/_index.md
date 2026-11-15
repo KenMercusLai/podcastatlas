@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14188
+wiki_total_pages: 14190
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "CatoTheYounger"
     title: "Cato the Younger / 小加图"
     url: "/wiki/entities/catotheyounger/"
+  - key: "CautionaryTales"
+    title: "Cautionary Tales"
+    url: "/wiki/entities/cautionarytales/"
   - key: "CBHHomes"
     title: "CBH Homes"
     url: "/wiki/entities/cbhhomes/"

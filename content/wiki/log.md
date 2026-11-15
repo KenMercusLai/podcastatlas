@@ -39553,6 +39553,7 @@ No settled contradiction was adopted. AFK's architecture, model sizes, task-repr
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-11-15] ingest | The BlackBerry Problem | The Mistakes Series
 
 Added the [[RevisionistHistory]] episode in which [[JimBalsillie]] revisits [[BlackBerry]]'s rejected 2011 plan to turn [[BlackBerryMessenger|BlackBerry Messenger]] into a carrier-bundled, cross-platform service. Created bounded profiles for Balsillie, [[MikeLazaridis]], and BBM; and resynthesized BlackBerry, [[FounderBoardRelationshipMaintenance]], and [[SelfDisruptionDiscipline]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -39568,6 +39569,7 @@ No settled contradiction was adopted. The episode's “greatest lost opportunity
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 
 ## [2026-11-15] ingest | 378-歌德如何看待通用人工智能
 
@@ -39795,6 +39797,16 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] ingest | The Great American Elevator Tragedy | The Mistakes Series
 
 Added source `the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series`; created [[StephenSmithBuildingPolicy|Stephen Smith]], [[CenterForBuildingInNorthAmerica]], [[InternationalCodeCouncil]], [[GregoryAVictor|Gregory A. Victor]], [[ElevatorInstallationCost]], [[ElevatorAvailabilityAccessibilityTradeoff]], and [[ModelBuildingCodeDiffusion]]. Core synthesis: American elevator scarcity is presented as the combined result of specialized labor, unusually large cabin standards, and model-code diffusion; a rule that improves rare fully extended stretcher transport can reduce system-wide accessibility when added cost and shaft size cause small buildings to omit elevators entirely. No settled contradiction was adopted. Comparative counts, price estimates, labor practices, voting circumstances, causal weights, safety benefits, and disability impacts remain episode-reported because the supplied file is a structured summary rather than a transcript, code record, comparative study, labor agreement, or accessibility analysis. Broad [[MalcolmGladwell]], [[RevisionistHistory]], housing, and age-friendly infrastructure pages were kept closed because the focused source, entities, and concepts capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,976 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Worst Poet in the World | From Cautionary Tales
+
+Added the [[CautionaryTales]] episode in which [[TimHarford]] reconsiders [[WilliamMcGonagall]] as a technically weak poet, unusually persistent maker, public target, paid entertainer, and possible knowing clown. Created bounded profiles for Harford and Cautionary Tales; added [[FailurePerformanceAmbiguity]]; and resynthesized McGonagall, [[TayBridgeDisaster]], and [[EverydayCreativeAgency]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: creative participation can retain personal value without professional quality or market success, while audience laughter, repeat attendance, and payment do not settle whether a comic public failure is naïve, strategically endured, partially self-aware, or deliberately performed. No settled contradiction is adopted. The comic-genius interpretation remains a hypothesis; biography, hoaxes, earnings, civic bans, auction value, bridge details, and technological comparisons remain episode-scoped because the supplied document is a structured summary rather than a transcript, archive, literary edition, engineering inquiry, sales record, or comparative technology study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,979 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-15] lint | Wiki health check
 

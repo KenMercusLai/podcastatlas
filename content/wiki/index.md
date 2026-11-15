@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Worst Poet in the World | From Cautionary Tales](sources/the-worst-poet-in-the-world-from-cautionary-tales-the-worst-poet-in-the-world-from-cautionary-tales.md) — Cautionary Tales reconsiders William McGonagall through creative persistence, public humiliation, and the unresolved boundary between naïve failure and deliberate clowning.
 - [The BlackBerry Problem | The Mistakes Series](sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series.md) — Revisionist History on BlackBerry's rejected BBM services pivot and why evidence, trust, and board coalition work are distinct requirements.
 - [The Trust Diagnosis](sources/the-trust-diagnosis.md) — Revisionist History case study on conflicting prostate-cancer advice, disciplined second opinions, diagnostic uncertainty, and trust earned through candid reasoning rather than promised outcomes.
 - [The Great American Elevator Tragedy | The Mistakes Series](sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series.md) — Revisionist History on high American elevator costs, large-cabin rules, model-code diffusion, and the tradeoff between ideal emergency performance and broad everyday access.
@@ -5102,6 +5103,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing The News from Scene on Radio](sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio.md) — Revisionist History feed introduction to a Scene/Seen on Radio season on news deserts, consumer needs, partisan framing, media trust, and democracy.
 
 ## Entities
+- [Tim Harford](entities/TimHarford.md) — Cautionary Tales host who uses staged historical reversal to examine creative value, failure, and uncertain intention.
+- [Cautionary Tales](entities/CautionaryTales.md) — Narrative history podcast using mistakes and moral reversals to test practical lessons under evidentiary uncertainty.
 - [Jim Balsillie](entities/JimBalsillie.md) — BlackBerry co-CEO whose rejected cross-platform BBM strategy became a case in strategic foresight, board power, and relational persuasion.
 - [Mike Lazaridis](entities/MikeLazaridis.md) — BlackBerry engineering co-CEO associated with the hardware side of the company's 2011 strategic conflict.
 - [BlackBerry Messenger](entities/BlackBerryMessenger.md) — BlackBerry messaging network proposed as a carrier-bundled, cross-platform post-handset service.
@@ -19383,6 +19386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Failure-Performance Ambiguity](concepts/FailurePerformanceAmbiguity.md) — Difficulty distinguishing naïve incompetence, endured ridicule, and knowing comic performance from overlapping public evidence.
 - [Elevator Availability–Accessibility Tradeoff](concepts/ElevatorAvailabilityAccessibilityTradeoff.md) — Risk that maximizing each elevator's capabilities raises cost and footprint enough to reduce overall elevator access.
 - [Elevator Installation Cost](concepts/ElevatorInstallationCost.md) — Labor, assembly, cabin-size, and regulatory mechanisms shaping the cost and feasibility of installing elevators.
 - [Model Building Code Diffusion](concepts/ModelBuildingCodeDiffusion.md) — Process by which model-code amendments acquire wide public force through jurisdictional adoption.
