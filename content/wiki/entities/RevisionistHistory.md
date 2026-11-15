@@ -20,7 +20,8 @@ sources:
   - encores-encoresmp3t1758559826dl1in-playlist0d4cc74d-fff7-4b89-8818-ae32006cd7f0utm-sourcepodcasttdtokeyjhbgc
   - the-formula-the-formula
   - face-value-face-value
-last_updated: 2026-11-15
+  - the-rfk-jr-problem-the-rfk-jr-problem
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -63,6 +64,8 @@ A compact archival-curation form appears in [[encores-encoresmp3t1758559826dl1in
 Experiment-led food reporting adds a direct comparison between institutional forms of secrecy. In [[the-formula-the-formula|The Formula]], [[BenNaddaffHafrey]] and [[RachelWyman]] turn the mystique around [[ThomasEnglishMuffins|Thomas' English muffins]] into iterative baking, a triangle test, and a preference test; the failed indistinguishability result prevents the narrative from claiming exact duplication, while preference for the sourdough alternative reframes reverse engineering as mechanism discovery and improvement. The contrast between [[BimboBakeries]]' litigation and the [[CarthusianOrder]]'s reported trust in a former member connects technical knowledge to worker mobility, community purpose, and institutional power.
 
 Personal cognitive variation supplies another intimate-to-general structure in [[face-value-face-value|Face Value]]. The show begins with [[JJGoode]] and [[MissyKurzweil]]'s near friendship rupture, distinguishes identity recognition from seeing facial features through [[JoeDeGutis]], and tests producer [[LucySullivan]] at the exceptional end of the [[FaceRecognitionAbilitySpectrum]]. The resulting argument joins neuroscience to social interpretation without treating [[BillClinton]]'s anecdotal case as confirmed.
+
+A document-centered medical-evidence form appears in [[the-rfk-jr-problem-the-rfk-jr-problem|The RFK Jr. Problem]]. The show places a public claim beside [[RotaTeq]]'s package insert and placebo group, uses experts and historical wards to restore both statistical method and human stakes, and then marks a boundary between the well-supported trial critique and the more interpretive terrain-theory account of Kennedy's motive.
 
 ## Key Characteristics
 
@@ -141,14 +144,20 @@ Personal cognitive variation supplies another intimate-to-general structure in [
 
 - [[face-value-face-value]] moves from a coffee-shop misunderstanding through personal accounts and laboratory testing to separate face-recognition ability from care, attention, and moral character.
 
+### Vaccine evidence and causal comparison
+
+- [[the-rfk-jr-problem-the-rfk-jr-problem]] uses package-insert traceability, placebo rates, historical disease burden, and expert testimony to distinguish adverse events after vaccination from evidence of vaccine-caused harm.
+
 ## Qualifications
 
-Only seventeen sources currently inform this page, so they do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study; its prevalence figures, test interpretation, evolutionary framing, and Clinton inference remain source-scoped.
+Only eighteen sources currently inform this page, so they do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
 
 ## What Changed
 
 - Added personal cognitive variation and controlled testing as a route from intimate misunderstanding to neuroscience and social interpretation.
 - Preserved the distinction between tested exceptional performance and anecdotal speculation.
+- Added document-centered vaccine evidence as another revisionist method.
+- Preserved the distinction between a trial-based critique and an inferred motive.
 
 ## Relationships
 
@@ -196,3 +205,6 @@ Only seventeen sources currently inform this page, so they do not establish the 
 - [[LucySullivan]], [[JJGoode]], and [[MissyKurzweil]] - participants whose contrasting experiences structure the face-recognition episode.
 - [[JoeDeGutis]] - neuroscientist supplying the clinical distinction and laboratory interpretation.
 - [[FaceRecognitionAbilitySpectrum]] - concept joining prosopagnosia, typical recognition, super-recognition, and compensation.
+- [[RotaTeq]] and [[PaulOffit]] - vaccine and developer anchoring the medical-evidence case.
+- [[ControlledTrialAdverseEventInterpretation]] - causal-comparison method made legible through the placebo group.
+- [[GermTheoryTerrainTheoryConflict]] - historical disease-model conflict used as a qualified explanatory frame.

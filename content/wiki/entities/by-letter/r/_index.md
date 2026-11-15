@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14292
+wiki_total_pages: 14295
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "RoswellIncident"
     title: "Roswell Incident / 罗斯维尔事件"
     url: "/wiki/entities/roswellincident/"
+  - key: "RotaTeq"
+    title: "RotaTeq"
+    url: "/wiki/entities/rotateq/"
   - key: "RoughWooing"
     title: "Rough Wooing"
     url: "/wiki/entities/roughwooing/"

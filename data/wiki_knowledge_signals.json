@@ -64706,6 +64706,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/controlledtelevisioncampaign/"
     },
+    "ControlledTrialAdverseEventInterpretation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/controlledtrialadverseeventinterpretation/"
+    },
     "ControversyDrivenCategoryPositioning": {
       "episode_count": 1,
       "show_count": 1,
@@ -122844,6 +122860,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/gerhardschroder/"
+    },
+    "GermTheoryTerrainTheoryConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/germtheoryterraintheoryconflict/"
     },
     "GermanCaretakerStalemate": {
       "episode_count": 1,
@@ -198260,9 +198292,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -198396,6 +198428,13 @@
           "show": "Revisionist History",
           "title": "The Joe Rogan Intervention",
           "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        },
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
         }
       ],
       "updated": "2026-11-16",
@@ -234518,6 +234557,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/paulmccartney/"
     },
+    "PaulOffit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/pauloffit/"
+    },
     "PaulReynaud": {
       "episode_count": 2,
       "show_count": 1,
@@ -261564,9 +261619,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -261686,9 +261741,16 @@
           "show": "Revisionist History",
           "title": "Face Value",
           "url": "/wiki/sources/face-value-face-value/"
+        },
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/revisionisthistory/"
     },
     "Revo": {
@@ -264499,9 +264561,9 @@
       "url": "/wiki/entities/robertfkennedy/"
     },
     "RobertFKennedyJr": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
@@ -264516,6 +264578,13 @@
           "show": "Revisionist History",
           "title": "The Joe Rogan Intervention",
           "url": "/wiki/sources/the-joe-rogan-intervention-the-joe-rogan-intervention/"
+        },
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
         }
       ],
       "updated": "2026-11-16",
@@ -266908,6 +266977,22 @@
       "updated": "2026-10-26",
       "url": "/wiki/entities/rossedgley/"
     },
+    "RotaTeq": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/rotateq/"
+    },
     "RotatorCuffExternalRotation": {
       "episode_count": 3,
       "show_count": 1,
@@ -268985,6 +269070,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/safeeffortprocrastinationreset/"
+    },
+    "SafiBahcall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_RFK_Jr_Problem [The_RFK_Jr_Problem].md",
+          "key": "the-rfk-jr-problem-the-rfk-jr-problem",
+          "show": "Revisionist History",
+          "title": "The RFK Jr. Problem",
+          "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/safibahcall/"
     },
     "SagaSourceCriticism": {
       "episode_count": 3,

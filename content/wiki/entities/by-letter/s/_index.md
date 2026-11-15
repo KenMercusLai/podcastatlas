@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14292
+wiki_total_pages: 14295
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "SadiqKhan"
     title: "Sadiq Khan"
     url: "/wiki/entities/sadiqkhan/"
+  - key: "SafiBahcall"
+    title: "Safi Bahcall"
+    url: "/wiki/entities/safibahcall/"
   - key: "SageOx"
     title: "Sage Ox"
     url: "/wiki/entities/sageox/"

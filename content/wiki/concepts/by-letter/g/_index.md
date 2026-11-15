@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11341
+wiki_total_pages: 11343
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "GeorgianLiteraryLaborAndPatronage"
     title: "Georgian Literary Labor and Patronage"
     url: "/wiki/concepts/georgianliterarylaborandpatronage/"
+  - key: "GermTheoryTerrainTheoryConflict"
+    title: "Germ Theory–Terrain Theory Conflict"
+    url: "/wiki/concepts/germtheoryterraintheoryconflict/"
   - key: "GermanCaretakerStalemate"
     title: "German Caretaker Stalemate"
     url: "/wiki/concepts/germancaretakerstalemate/"

@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Relationships 2.0: Why Did You Do That?](sources/default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568.md) — Hidden Brain connects intention-sensitive moral judgment and group-biased motive attribution to forgiveness that preserves boundaries and requires accountable repair.
 - [The Joe Rogan Intervention](sources/the-joe-rogan-intervention-the-joe-rogan-intervention.md) — Revisionist History contrasts conversational rapport with audience-facing duties to interpret evidence, pursue consequential claims, and move beyond rehearsed narratives.
+- [The RFK Jr. Problem](sources/the-rfk-jr-problem-the-rfk-jr-problem.md) — Revisionist History tests RotaTeq claims against package-insert traceability, placebo-controlled evidence, passive-reporting limits, and a qualified germ-theory–terrain-theory interpretation.
 - [The Origin of “You”: A Conversation with John McWhorter](sources/the-origin-of-you-a-conversation-with-john-mcwhorter-the-origin-of-you-a-conversation-with-john-mcwhorter.md) — Revisionist History connects systematic Black English, register switching, second-person pronoun repair, and digital punctuation to identity and language change.
 - [Nooks & Crannies](sources/nooks-crannies-nooks-crannies.md) — Revisionist History examines Bimbo Bakeries USA v. Botticella as an unresolved conflict among trade-secret protection, confidential business information, litigation power, and employee mobility.
 - [The Formula](sources/the-formula-the-formula.md) — Revisionist History reverse-engineers Thomas' English muffins and contrasts corporate trade-secret enforcement with trust-based Carthusian secrecy.
@@ -12907,7 +12908,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abbott Nutrition](entities/AbbottNutrition.md) — Similac company context whose 2022 recall and facility shutdown illustrate concentrated formula-supply risk.
 - [WIC](entities/WIC.md) — U.S. nutrition program whose formula contracts shape brand access for many eligible families.
 - [U.S. Department of Health and Human Services](entities/USDepartmentOfHealthAndHumanServices.md) — Federal department context for Bobbie's formula-policy engagement.
-- [Robert F. Kennedy Jr.](entities/RobertFKennedyJr.md) — US health-policy official and proponent of a disputed 1918-pandemic vaccine theory in the bounded sources.
+- [Robert F. Kennedy Jr.](entities/RobertFKennedyJr.md) — US health-policy official whose disputed 1918-pandemic and RotaTeq claims anchor two source-evaluation cases.
+- [RotaTeq](entities/RotaTeq.md) — Rotavirus vaccine used to illustrate efficacy, placebo-controlled safety comparison, and the wider decline in childhood diarrheal disease.
+- [Paul Offit](entities/PaulOffit.md) — Pediatrician and RotaTeq co-developer represented through the vaccine's long development, public-health impact, and Kennedy dispute.
+- [Safi Bahcall](entities/SafiBahcall.md) — Drug-development expert who interprets RotaTeq's package insert through efficacy and placebo-group comparison.
 - [Bobbie for Change](entities/BobbieForChange.md) — Bobbie-linked advocacy group working on infant-feeding policy, including formula coverage after breast cancer.
 - [Google Finance](entities/GoogleFinance.md) — Google product area where Laura Modi worked in product operations before Airbnb and Bobbie.
 - [Vans](entities/Vans.md) — Classic skate and canvas-footwear brand used as a current decline case around comfort demand, subculture dilution, and product innovation debt.
@@ -19529,6 +19533,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Forgiveness Without Reconciliation](concepts/ForgivenessWithoutReconciliation.md) — Releasing corrosive resentment without requiring renewed contact, restored trust, or abandoned boundaries.
 - [Accountable Self-Forgiveness](concepts/AccountableSelfForgiveness.md) — Self-release after acknowledgment, remorse, apology, feasible amends, and concrete prevention of repetition.
 - [Public Interview Audience Duty](concepts/PublicInterviewAudienceDuty.md) — Obligation to test consequential claims and pursue revealing openings for the benefit of a public audience.
+- [Controlled-Trial Adverse-Event Interpretation](concepts/ControlledTrialAdverseEventInterpretation.md) — Comparative method separating treatment-arm events, background rates, randomized safety evidence, and passive safety signals.
+- [Germ Theory–Terrain Theory Conflict](concepts/GermTheoryTerrainTheoryConflict.md) — Qualified contrast between pathogen causation and host-condition reasoning, including the boundary between documented error and inferred motive.
 - [Black English Systematicity](concepts/BlackEnglishSystematicity.md) — Principle that recurring Black English forms constitute patterned grammar rather than failed standard English.
 - [Register Switching and Social Identity](concepts/RegisterSwitchingSocialIdentity.md) — Speech shifts that reposition relationship, stance, and perceived identity across settings.
 - [Second-Person Number Repair](concepts/SecondPersonNumberRepair.md) — Plural forms such as “y'all” and “yous” that repair ambiguity after singular and plural “you” merged.

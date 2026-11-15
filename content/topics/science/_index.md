@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1653
+topic_total_pages: 1654
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1048,6 +1048,9 @@ topic_concepts:
   - key: "GeorgianHealthResortFormation"
     title: "Georgian Health Resort Formation"
     url: "/wiki/concepts/georgianhealthresortformation/"
+  - key: "GermTheoryTerrainTheoryConflict"
+    title: "Germ Theory–Terrain Theory Conflict"
+    url: "/wiki/concepts/germtheoryterraintheoryconflict/"
   - key: "GilbertSpinozaHypothesis"
     title: "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设"
     url: "/wiki/concepts/gilbertspinozahypothesis/"
