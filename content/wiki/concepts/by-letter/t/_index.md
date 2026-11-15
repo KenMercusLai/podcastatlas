@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11314
+wiki_total_pages: 11315
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "TrueSmartHome"
     title: "True Smart Home"
     url: "/wiki/concepts/truesmarthome/"
+  - key: "TrueCrimeResolutionFalseClosure"
+    title: "True-Crime Resolution False Closure"
+    url: "/wiki/concepts/truecrimeresolutionfalseclosure/"
   - key: "TrumpAccounts"
     title: "Trump Accounts"
     url: "/wiki/concepts/trumpaccounts/"

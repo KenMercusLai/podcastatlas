@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Alabama Murders - Part 2: Coon Dog Cemetery Road](sources/the-alabama-murders-part-2-coon-dog-cemetery-road.md) — Revisionist History reconstructs the planned Sennett assault, investigator suspicion of Charles, and the false closure of a crime whose consequences continued for decades.
 - [The Alabama Murders - Part 3: A Peculiar Institution](sources/the-alabama-murders-part-3-a-peculiar-institution.md) — Revisionist History reexamines Parker's murder conviction through weapon and timing evidence, then traces judicial override, prospective repeal, and failed retroactive repair.
 - [EP97 特朗普的期中考试，一场 120 亿美元的溃败](sources/lqhxgskquudxpffa0qixn6o25rfi.md) — 一劳永逸 connects household costs and the reported Democratic midterm sweep to divided-government constraints, political-risk valuation, AI campaign content, prediction-market integrity, and investment-commitment execution.
 - [Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing](sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad.md) — Gladwell and Liliana Segura connect medicalized execution, secrecy, judicial tolerance, racial history, and abolition in an examination of Alabama's death penalty.
@@ -5123,6 +5124,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Alabama Murders - Part 6: The Porterfield Sessions](sources/the-alabama-murders-part-6-the-porterfield-sessions.md) — Revisionist History episode on failed-execution trauma, embodied memory, childhood domestic violence, parentification, and the boundary between context and excuse.
 
 ## Entities
+- [Charles Sennett](entities/CharlesSennett.md) — Minister suspected of arranging his wife's assault and later advanced by the series as the possible fatal assailant.
 - [Ken Paxton](entities/KenPaxton.md) — Texas Republican figure used by the episode as a candidate-quality, endorsement, and party-accountability case.
 - [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
 - [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose childhood trauma, failed lethal-injection attempt, and nitrogen-hypoxia case connect developmental harm to hidden execution procedure.
@@ -19465,6 +19467,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [True-Crime Resolution False Closure](concepts/TrueCrimeResolutionFalseClosure.md) — Narrative error of treating a solved crime as restored order while family and institutional harms continue.
 - [Judicial Override in Capital Sentencing](concepts/JudicialOverrideCapitalSentencing.md) — Alabama case study separating jury judgment, judicial displacement, prospective repeal, and retroactive repair.
 - [Political Risk-Premium Valuation](concepts/PoliticalRiskPremiumValuation.md) — How tariffs, subsidies, regulation, and divided-government uncertainty affect expected cash flow, discount rates, and sector dispersion.
 - [Medicalized Execution Opacity](concepts/MedicalizedExecutionOpacity.md) — Clinical appearance and restricted observation make execution seem controlled while hiding competence, failure, and experienced suffering.

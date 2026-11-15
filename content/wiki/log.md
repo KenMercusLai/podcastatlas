@@ -40005,3 +40005,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Alabama Murders - Part 2: Coon Dog Cemetery Road
+
+Added the [[RevisionistHistory]] episode reconstructing the planned assault on [[ElizabethSennett]], the recruitment of [[JohnForrestParker]] and [[KennethSmith]], investigator suspicion of [[CharlesSennett]], and the immediate loss suffered by the Sennett family. Created Charles's bounded profile and [[TrueCrimeResolutionFalseClosure]], then resynthesized Elizabeth, Parker, Smith, and [[TheAlabamaMurders]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: arrest and confession can close a mystery without repairing its consequences. Part 2 presents the crime as the start of a failure cascade, while Part 3 later complicates its account of Parker's assault by arguing that the fatal chest wounds were inflicted after Parker and Smith left. The wiki therefore preserves admitted or reported participation separately from the disputed fatal act. Charles's alibi behavior, statements, affair, failure to aid Elizabeth, reaction during questioning, and suicide support suspicion but do not independently prove his role; religious shame remains an explicitly speculative motive. No settled contradiction was adopted. Confessions, witness recollections, physical evidence, chronology, motive, dialogue, and investigative conclusions remain episode-scoped because the supplied file is a structured summary rather than a transcript, police file, medical record, confession record, or trial record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,000 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
