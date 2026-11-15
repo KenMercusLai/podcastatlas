@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11240
+wiki_total_pages: 11243
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "ExpressiveBionicVoiceRestoration"
     title: "Expressive Bionic Voice Restoration"
     url: "/wiki/concepts/expressivebionicvoicerestoration/"
+  - key: "ExpressiveViolenceRetaliation"
+    title: "Expressive Violence and Retaliation"
+    url: "/wiki/concepts/expressiveviolenceretaliation/"
   - key: "ExpressiveWritingProtocol"
     title: "Expressive Writing Protocol"
     url: "/wiki/concepts/expressivewritingprotocol/"

@@ -36896,9 +36896,9 @@
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
     "BrandonScott": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
@@ -36906,6 +36906,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part Two",
           "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -72464,9 +72471,9 @@
       "url": "/wiki/entities/davidhyam/"
     },
     "DavidKennedyCriminologist": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
@@ -72474,6 +72481,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part Two",
           "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -99866,6 +99880,22 @@
       "updated": "2026-11-11",
       "url": "/wiki/concepts/expressivebionicvoicerestoration/"
     },
+    "ExpressiveViolenceRetaliation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/expressiveviolenceretaliation/"
+    },
     "ExpressiveWritingProtocol": {
       "episode_count": 2,
       "show_count": 1,
@@ -108410,9 +108440,9 @@
       "url": "/wiki/concepts/focustrainingtoolkit/"
     },
     "FocusedDeterrence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
@@ -108420,6 +108450,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part Two",
           "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -194586,9 +194623,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -194603,6 +194640,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part Two",
           "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -198012,6 +198056,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/martyrdomstaging/"
+    },
+    "MarvinWolfgang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/marvinwolfgang/"
     },
     "MarxismAsPoliticalReligion": {
       "episode_count": 1,
@@ -256701,9 +256761,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -256718,6 +256778,13 @@
           "show": "Revisionist History",
           "title": "Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live",
           "url": "/wiki/sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -293888,9 +293955,9 @@
       "url": "/wiki/concepts/teamagentmemory/"
     },
     "TeamBasedServiceDelivery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
@@ -293898,6 +293965,13 @@
           "show": "Revisionist History",
           "title": "Wolfgang's Law - Part Two",
           "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
         }
       ],
       "updated": "2026-11-15",
@@ -295064,6 +295138,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/terminalvaluenarrative/"
+    },
+    "TermiteBaltimore": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/termitebaltimore/"
     },
     "TerracottaArmy": {
       "episode_count": 1,
@@ -304516,6 +304606,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/trustreciprocityloop/"
     },
+    "TrustedCommunityViolenceInterruption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/trustedcommunityviolenceinterruption/"
+    },
     "TrustedEunuchPowerFormation": {
       "episode_count": 6,
       "show_count": 1,
@@ -310817,6 +310923,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/vinland/"
+    },
+    "ViolenceConcentration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
+          "key": "wolfgang-s-law-part-one",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part One",
+          "url": "/wiki/sources/wolfgang-s-law-part-one/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/violenceconcentration/"
     },
     "ViolenceReductionPublicHealthModel": {
       "episode_count": 1,

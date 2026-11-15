@@ -5,6 +5,7 @@ tags: [podcast, history, politics, public-policy]
 sources:
   - from-the-big-dig-mitt-ted
   - pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada
+  - wolfgang-s-law-part-one
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -13,13 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by a health-policy history episode and a live social-psychology conversation with [[AdamGrant]].
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation with [[AdamGrant]], and a Baltimore violence-reduction case study.
 
 ## Current Profile
 
-[[from-the-big-dig-mitt-ted]] introduces a season-long investigation into where the [[AffordableCareAct]]'s ideas came from, how they reached national politics, and why they became divisive. It combines family experience, archival political history, working-level negotiation, and counterfactual judgment to make the failed Nixon-Kennedy talks the foundation for the later [[MittRomney]] partnership.
+Across the bounded episodes, the show connects large institutional questions to personal stakes and closely observed scenes. A health-policy history moves from family cancer care through archival negotiation and counterfactual judgment to the political lineage of the [[AffordableCareAct]]. A live event uses autobiography, analogy, and friendly disagreement to test [[AdamGrant]]'s framework for relationship purpose and compatibility.
 
-[[pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada]] shows a different but compatible format: a live, playful, research-oriented argument in which Gladwell uses autobiography, analogy, and disagreement to test Grant's framework for relationship purpose, compatibility, and connection.
+The Baltimore case adds investigative public policy: mayoral biography and criminological research lead into a weekly case-review room and one outreach worker's intervention. Across these forms, scale changes—from family to institution, conversation to framework, or city to network to relationship—are a recurring explanatory device.
 
 ## Key Characteristics
 
@@ -28,6 +29,7 @@ Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by a heal
 - Frames later Massachusetts reform as part of the Affordable Care Act's political genealogy.
 - Also publishes live intellectual conversations built around argument, personal examples, and research claims.
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
+- Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 
 ## Evidence
 
@@ -39,13 +41,18 @@ Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by a heal
 
 - [[pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada]] moves from relationship categories through work, family, dating, identity, and gatherings by way of Gladwell and Grant's friendly disagreement.
 
+### Investigative public policy
+
+- [[wolfgang-s-law-part-one]] links [[ViolenceConcentration]], weekly multi-role case review, and [[TrustedCommunityViolenceInterruption]] in Baltimore.
+
 ## Qualifications
 
-Only two episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, while the live event's conversational research claims and personal stories are not independently verified here.
+Only three episodes currently inform this page, so they do not establish the full range of the show. The health episode's “greatest lost chance” framing does not prove that the 1974 compromise could have passed Congress, the live event's conversational research claims and personal stories are not independently verified here, and the Baltimore homicide sequence does not isolate the effect of the featured strategy.
 
 ## What Changed
 
 - Expanded the show profile from policy narrative to include live, argumentative social-psychology conversation.
+- Added investigative violence-reduction storytelling that moves between network research and relationship-level action.
 
 ## Relationships
 
@@ -55,3 +62,5 @@ Only two episodes currently inform this page, so they do not establish the full 
 - [[MalcolmGladwell]] - host whose narrative and argumentative methods connect the two sources.
 - [[AdamGrant]] - guest in the live relationship conversation.
 - [[AlliesPalsCompanionsFramework]] - central framework tested in that conversation.
+- [[ViolenceConcentration]] - organizing diagnosis in the Baltimore episode.
+- [[TrustedCommunityViolenceInterruption]] - relationship-level mechanism illustrated by the episode.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11240
+wiki_total_pages: 11243
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "TrustSensitiveSaaSSwitching"
     title: "Trust-Sensitive SaaS Switching"
     url: "/wiki/concepts/trustsensitivesaasswitching/"
+  - key: "TrustedCommunityViolenceInterruption"
+    title: "Trusted Community Violence Interruption"
+    url: "/wiki/concepts/trustedcommunityviolenceinterruption/"
   - key: "TrustedFlaggerSystem"
     title: "Trusted Flagger System"
     url: "/wiki/concepts/trustedflaggersystem/"
