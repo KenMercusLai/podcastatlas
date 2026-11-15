@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 14193
+wiki_total_pages: 14197
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "UnitedStates"
     title: "United States"
     url: "/wiki/entities/unitedstates/"
+  - key: "UnitedStatesAirForce"
+    title: "United States Air Force"
+    url: "/wiki/entities/unitedstatesairforce/"
   - key: "UnitedStatesCongress"
     title: "United States Congress"
     url: "/wiki/entities/unitedstatescongress/"

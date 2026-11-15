@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Tragedy in Texas | The Mistakes Series](sources/a-tragedy-in-texas-the-mistakes-series-a-tragedy-in-texas-the-mistakes-series.md) — Revisionist History on the Air Force's unreported conviction, rapid institutional ownership, community presence, and servant leadership after the Sutherland Springs shooting.
 - [The Worst Poet in the World | From Cautionary Tales](sources/the-worst-poet-in-the-world-from-cautionary-tales-the-worst-poet-in-the-world-from-cautionary-tales.md) — Cautionary Tales reconsiders William McGonagall through creative persistence, public humiliation, and the unresolved boundary between naïve failure and deliberate clowning.
 - [The BlackBerry Problem | The Mistakes Series](sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series.md) — Revisionist History on BlackBerry's rejected BBM services pivot and why evidence, trust, and board coalition work are distinct requirements.
 - [The Trust Diagnosis](sources/the-trust-diagnosis.md) — Revisionist History case study on conflicting prostate-cancer advice, disciplined second opinions, diagnostic uncertainty, and trust earned through candid reasoning rather than promised outcomes.
@@ -5104,6 +5105,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why Would I Do That to Jennifer Lopez? | The Mistakes Series](sources/why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-would-i-do-that-to-jennifer-lopez-the-mistakes-series.md) — Revisionist History episode on Irv Gotti's damaging interview, displaced anger, failed repair, journalistic process, and Malcolm Gladwell's correction of his own premature judgment.
 
 ## Entities
+- [Heather Wilson](entities/HeatherWilson.md) — Air Force secretary who accepted responsibility for an inherited reporting failure and led rapid disclosure and corrective review.
+- [David Goldfein](entities/DavidGoldfein.md) — Air Force chief of staff whose response joined institutional ownership, community-guided presence, and leadership teaching.
+- [United States Air Force](entities/UnitedStatesAirForce.md) — U.S. military branch profiled through the conviction-reporting failure exposed by the Sutherland Springs shooting.
+- [Sutherland Springs Church Shooting](entities/SutherlandSpringsChurchShooting.md) — 2017 Texas mass shooting that exposed the Air Force's failure to report a disqualifying violent conviction.
 - [Irv Gotti](entities/IrvGotti.md) — Music producer whose successful Jennifer Lopez collaboration ended after a harmful interview outburst he later treated as his worst mistake.
 - [Jennifer Lopez](entities/JenniferLopez.md) — Singer and actor whose acceptance of an apology remained distinct from restoring trust or collaboration.
 - [Carter Harris](entities/CarterHarris.md) — Reporter whose account of the Gotti interview and Elle's fact-checking process complicated a simple villain narrative.
@@ -19390,6 +19395,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NewsBreak](entities/NewsBreak.md) — Algorithmic news aggregator represented through one rural user's interest-based local and agricultural discovery.
 
 ## Concepts
+- [Institutional Failure Ownership](concepts/InstitutionalFailureOwnership.md) — Duty of current leaders to own disclosure, repair, and representation for inherited organizational failures without claiming causal culpability.
+- [Servant Leadership and Trust Renewal](concepts/ServantLeadershipTrustRenewal.md) — Leadership practice joining truth, stakeholder-guided presence, learning, and repeatedly earned trust.
 - [Mistake Witness Responsibility](concepts/MistakeWitnessResponsibility.md) — Duty to investigate anomalous harmful conduct, editorial process, and one's own first judgment before irreversible amplification or blame.
 - [Failure-Performance Ambiguity](concepts/FailurePerformanceAmbiguity.md) — Difficulty distinguishing naïve incompetence, endured ridicule, and knowing comic performance from overlapping public evidence.
 - [Elevator Availability–Accessibility Tradeoff](concepts/ElevatorAvailabilityAccessibilityTradeoff.md) — Risk that maximizing each elevator's capabilities raises cost and footprint enough to reduce overall elevator access.

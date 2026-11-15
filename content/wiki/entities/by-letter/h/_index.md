@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14193
+wiki_total_pages: 14197
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "HeatherTuke"
     title: "Heather Tuke"
     url: "/wiki/entities/heathertuke/"
+  - key: "HeatherWilson"
+    title: "Heather Wilson"
+    url: "/wiki/entities/heatherwilson/"
   - key: "Hector"
     title: "Hector"
     url: "/wiki/entities/hector/"

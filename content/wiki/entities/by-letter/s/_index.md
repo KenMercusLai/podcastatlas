@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14193
+wiki_total_pages: 14197
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -2015,6 +2015,9 @@ wiki_pages:
   - key: "Sushiro"
     title: "Sushiro / 寿司郎"
     url: "/wiki/entities/sushiro/"
+  - key: "SutherlandSpringsChurchShooting"
+    title: "Sutherland Springs Church Shooting"
+    url: "/wiki/entities/sutherlandspringschurchshooting/"
   - key: "SuyashPasi"
     title: "Suyash Pasi"
     url: "/wiki/entities/suyashpasi/"
