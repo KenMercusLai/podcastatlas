@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14305
+wiki_total_pages: 14309
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1415,6 +1415,9 @@ wiki_pages:
   - key: "BusinessRoundtable"
     title: "Business Roundtable"
     url: "/wiki/entities/businessroundtable/"
+  - key: "BuzzHeavyweight"
+    title: "Buzz (Heavyweight)"
+    url: "/wiki/entities/buzzheavyweight/"
   - key: "BuzzAldrin"
     title: "Buzz Aldrin"
     url: "/wiki/entities/buzzaldrin/"

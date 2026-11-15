@@ -40157,6 +40157,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/buzzaldrin/"
     },
+    "BuzzHeavyweight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Welcoming_Heavyweight [Welcoming_Heavyweight].md",
+          "key": "welcoming-heavyweight-welcoming-heavyweight",
+          "show": "Revisionist History",
+          "title": "Welcoming Heavyweight",
+          "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/buzzheavyweight/"
+    },
     "ByHealth": {
       "episode_count": 1,
       "show_count": 1,
@@ -103834,6 +103850,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/concepts/familyenterpriselaborboundary/"
     },
+    "FamilyEstrangementRepair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Welcoming_Heavyweight [Welcoming_Heavyweight].md",
+          "key": "welcoming-heavyweight-welcoming-heavyweight",
+          "show": "Revisionist History",
+          "title": "Welcoming Heavyweight",
+          "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/familyestrangementrepair/"
+    },
     "FamilyHealthcarePersuasion": {
       "episode_count": 2,
       "show_count": 1,
@@ -136913,6 +136945,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/heavyagriculturelightcommercepolicy/"
     },
+    "Heavyweight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Welcoming_Heavyweight [Welcoming_Heavyweight].md",
+          "key": "welcoming-heavyweight-welcoming-heavyweight",
+          "show": "Revisionist History",
+          "title": "Welcoming Heavyweight",
+          "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/heavyweight/"
+    },
     "Hebertists": {
       "episode_count": 1,
       "show_count": 1,
@@ -168607,6 +168655,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/jonathanfreedland/"
+    },
+    "JonathanGoldstein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Welcoming_Heavyweight [Welcoming_Heavyweight].md",
+          "key": "welcoming-heavyweight-welcoming-heavyweight",
+          "show": "Revisionist History",
+          "title": "Welcoming Heavyweight",
+          "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/jonathangoldstein/"
     },
     "JonathanHaidt": {
       "episode_count": 3,
@@ -218257,9 +218321,9 @@
       "url": "/wiki/concepts/narrativemisdirection/"
     },
     "NarrativePerspectiveMoralReevaluation": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lrEdm8yixOIhQQSnatPZHChZn14B [lrEdm8yixOIhQQSnatPZHChZn14B].md",
@@ -218274,9 +218338,16 @@
           "show": "文化有限",
           "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
           "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
+        },
+        {
+          "episode_file": "Welcoming_Heavyweight [Welcoming_Heavyweight].md",
+          "key": "welcoming-heavyweight-welcoming-heavyweight",
+          "show": "Revisionist History",
+          "title": "Welcoming Heavyweight",
+          "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/narrativeperspectivemoralreevaluation/"
     },
     "NarrativePluralism": {
@@ -278242,6 +278313,22 @@
       ],
       "updated": "2026-11-08",
       "url": "/wiki/entities/shekharnatarajan/"
+    },
+    "SheldonHeavyweight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Welcoming_Heavyweight [Welcoming_Heavyweight].md",
+          "key": "welcoming-heavyweight-welcoming-heavyweight",
+          "show": "Revisionist History",
+          "title": "Welcoming Heavyweight",
+          "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sheldonheavyweight/"
     },
     "ShellShock": {
       "episode_count": 1,

@@ -5,7 +5,8 @@ tags: [narrative, perspective, characterization, moral-judgment, reception]
 sources:
   - lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b
   - vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o
-last_updated: 2026-10-20
+  - welcoming-heavyweight-welcoming-heavyweight
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The framework therefore joins reception analysis to evidence-sensitive judgment:
 
 The same mechanism can operate through institutional memory rather than sequel alignment. In [[YongJieWuQingYou|《永结无情游》]], the favored experimental-class trio remembers a demanding teacher and formative friendship, while 黄超然 remembers exclusion, collective accusation, and unequal treatment the trio did not experience. Her account does not automatically become the only complete history, but it reveals the moral blind spot created when beneficiaries mistake their partial memory for the institution itself.
 
+[[welcoming-heavyweight-welcoming-heavyweight|Welcoming Heavyweight]] extends the framework into live family memory. [[BuzzHeavyweight|Buzz]] had treated his mother's attempt to take [[SheldonHeavyweight|Sheldon]], but not him, as decisive evidence of unequal love. Sheldon's account of harsher paternal violence makes protection a plausible alternative to favoritism. The reevaluation is justified as reduced certainty and greater recognition of Sheldon's burden, not as proof of the mother's motive or replacement of Buzz's pain with a single authorized history.
+
 ## Key Claims
 
 - Stable traits, teachers, or institutions can receive opposite moral labels when their beneficiaries and targets change.
@@ -30,7 +33,7 @@ The same mechanism can operate through institutional memory rather than sequel a
 - A fair reevaluation separates contextual reasons for caution from failure to update after contrary evidence.
 - Role changes can raise the stakes of an existing trait without requiring a personality reversal.
 - Prior idealization magnifies disappointment when a formerly admired character causes visible harm.
-- Explanation by family loyalty, age, or narrative position should not become automatic exoneration.
+- Explanation by family loyalty, age, trauma, or narrative position should not become automatic exoneration.
 
 ## Evidence
 
@@ -50,16 +53,18 @@ The same mechanism can operate through institutional memory rather than sequel a
 
 - [[vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o]] contrasts the favored trio's incomplete school memory with 黄超然's recollection of favoritism and collective discipline, forcing the narrator to revise rather than monopolize the past.
 
+### Family memory and alternative motive
+
+- [[welcoming-heavyweight-welcoming-heavyweight]] uses Sheldon's account of paternal violence to weaken Buzz's settled favoritism interpretation while leaving their mother's actual motive unresolved.
+
 ## Counterevidence & Qualifications
 
-A perspective shift may expose previously hidden harm, but it can also manufacture sympathy through selective information. Readers need not abandon earlier judgments merely because focalization changes. In the Huang Rong case, the source is a podcast interpretation rather than a systematic comparison of every scene or edition, and the hosts disagree over sincerity, motive, and the lasting effect of her conversation with Yang Guo. In the experimental-class case, both the favored group's absence from an incident and 黄超然's later recollection limit certainty; the justified revision is recognition of partiality, not automatic proof of every remembered detail.
+A perspective shift may expose previously hidden harm, but it can also manufacture sympathy through selective information. Readers need not abandon earlier judgments merely because focalization changes. In the Huang Rong case, the source is a podcast interpretation rather than a systematic comparison of every scene or edition, and the hosts disagree over sincerity, motive, and the lasting effect of her conversation with Yang Guo. In the experimental-class case, both the favored group's absence from an incident and 黄超然's later recollection limit certainty; the justified revision is recognition of partiality, not automatic proof of every remembered detail. In the family case, Sheldon's abuse makes protection plausible but does not verify the mother's intention, and the edited reunion cannot establish the accuracy of every memory or the durability of repair.
 
 ## What Changed
 
-- Established the concept through a sequel that repositions an admired character against a new protagonist.
-- Added belief revision as the boundary between understandable caution and entrenched prejudice.
-- Distinguished explanation of reception from final moral judgment.
-- Extended the concept from sequel focalization to conflicting memories of one shared institution.
+- Extended the concept from fictional focalization and institutional memory to competing accounts inside a live family conflict.
+- Clarified that a new perspective can justify reduced certainty and changed relationship behavior without becoming a final historical verdict.
 
 ## Related Concepts
 
@@ -70,3 +75,6 @@ A perspective shift may expose previously hidden harm, but it can also manufactu
 - [[FictionalCharacterTypingBoundary]] - adjacent safeguard against reducing complex conduct to one fixed trait label.
 - [[YongJieWuQingYou]] - institutional-memory case where an excluded perspective revises a beneficiary-centered past.
 - [[AutobiographicalMemoryHistoricalEvidence]] - adjacent evidence framework for sincere but reconstructive recollection.
+- [[FamilyEstrangementRepair]] - relational process in which perspective revision supports limited renewed contact.
+- [[BuzzHeavyweight|Buzz]] - family participant whose settled abandonment interpretation becomes less certain.
+- [[SheldonHeavyweight|Sheldon]] - family participant whose experience supplies the alternative account.

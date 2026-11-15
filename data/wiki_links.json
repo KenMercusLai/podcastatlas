@@ -16927,6 +16927,10 @@
     "title": "BuzzFeed",
     "url": "/wiki/entities/buzzfeed/"
   },
+  "BuzzHeavyweight": {
+    "title": "Buzz (Heavyweight)",
+    "url": "/wiki/entities/buzzheavyweight/"
+  },
   "ByHealth": {
     "title": "ByHealth / 汤臣倍健",
     "url": "/wiki/entities/byhealth/"
@@ -34619,6 +34623,10 @@
     "title": "Family-Enterprise Labor Boundary / 家庭经营中的亲属劳动边界",
     "url": "/wiki/concepts/familyenterpriselaborboundary/"
   },
+  "FamilyEstrangementRepair": {
+    "title": "Family Estrangement Repair",
+    "url": "/wiki/concepts/familyestrangementrepair/"
+  },
   "FamilyEthicsAtEndOfLife": {
     "title": "Family Ethics At End Of Life",
     "url": "/wiki/concepts/familyethicsatendoflife/"
@@ -43871,6 +43879,10 @@
     "title": "Heavy Agriculture and Light Commerce Policy / 重农轻商政策",
     "url": "/wiki/concepts/heavyagriculturelightcommercepolicy/"
   },
+  "Heavyweight": {
+    "title": "Heavyweight",
+    "url": "/wiki/entities/heavyweight/"
+  },
   "Hebertists": {
     "title": "Hébertists",
     "url": "/wiki/entities/hebertists/"
@@ -52510,6 +52522,10 @@
   "JonathanFreedland": {
     "title": "Jonathan Freedland",
     "url": "/wiki/entities/jonathanfreedland/"
+  },
+  "JonathanGoldstein": {
+    "title": "Jonathan Goldstein",
+    "url": "/wiki/entities/jonathangoldstein/"
   },
   "JonathanHaidt": {
     "title": "Jonathan Haidt",
@@ -85115,6 +85131,10 @@
     "title": "Shekhar Natarajan",
     "url": "/wiki/entities/shekharnatarajan/"
   },
+  "SheldonHeavyweight": {
+    "title": "Sheldon (Heavyweight)",
+    "url": "/wiki/entities/sheldonheavyweight/"
+  },
   "Shell": {
     "title": "Shell",
     "url": "/wiki/entities/shell/"
@@ -116462,6 +116482,10 @@
   "weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun": {
     "title": "为什么Manus必须出海？聊聊国产大模型的“文科生困境”",
     "url": "/wiki/sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun/"
+  },
+  "welcoming-heavyweight-welcoming-heavyweight": {
+    "title": "Welcoming Heavyweight",
+    "url": "/wiki/sources/welcoming-heavyweight-welcoming-heavyweight/"
   },
   "what-alcohol-does-to-your-body-brain-health-scim8915337113": {
     "title": "What Alcohol Does to Your Body, Brain & Health",

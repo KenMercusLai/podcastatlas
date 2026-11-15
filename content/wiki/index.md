@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Welcoming Heavyweight](sources/welcoming-heavyweight-welcoming-heavyweight.md) — Heavyweight uses an estranged brothers' reunion to connect contested family memory, childhood harm, perspective revision, and modest behavioral repair.
 - [Revisionist History is Back](sources/revisionist-history-is-back-revisionist-history-is-backmp3t1758560904dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nziwmjyxlcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Season preview spanning PAW Patrol, George Floyd, English muffins, raccoon research, face recognition, and RFK Jr., with later full episodes supplying the substantive evidence.
 - [史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普](sources/shi-di-fu-shuo-479-qi-wo-men-dou-ke-neng-bei-pua-huo-zhe-pua-bie-ren-fan-qing-gan-cao-zong-xin-li-ke-pu-lqcmsfkrlluuvit7hqybygevkuvb.md) — 史蒂夫说把日常情感操纵理解为解释权、注意力与关系权力问题，并以延迟回应、保留判断、外部参照和安全边界提出分阶段应对。
 - [Memorial Day, 2020 | Part 1](sources/memorial-day-2020-part-1-memorial-day-2020-part-1.md) — Revisionist History connects decision fixation, hostile-intent attribution, escalating medical warnings, and a prior recorded restraint to the preventable institutional failure behind George Floyd's death.
@@ -5147,6 +5148,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Heavyweight](entities/Heavyweight.md) — Narrative podcast using participant-led inquiry and mediation to revisit unresolved personal histories.
+- [Jonathan Goldstein](entities/JonathanGoldstein.md) — Heavyweight host who arranges, accompanies, and narrates the brothers' reunion.
+- [Buzz (Heavyweight)](entities/BuzzHeavyweight.md) — Younger brother whose long-held abandonment interpretation becomes open to revision.
+- [Sheldon (Heavyweight)](entities/SheldonHeavyweight.md) — Older brother whose account of paternal violence changes the family story.
 - [Gary Klein](entities/GaryKlein.md) — Decision-making specialist connecting fixation, disconfirming evidence, and deliberate analytical restart.
 - [Kenneth Dodge](entities/KennethDodge.md) — Psychologist connecting learned threat vigilance, hostile-intent attribution, and aggression regulation.
 - [Saul Kassin](entities/SaulKassin.md) — Psychologist connecting interrogation pressure, false-confession typology, evidentiary contamination, and investigation reform.
@@ -19545,6 +19550,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Family Estrangement Repair](concepts/FamilyEstrangementRepair.md) — Cautious reopening of contact through consent, perspective revision, and tolerable future behavior without requiring complete settlement.
 - [Emotional Manipulation Recognition / 情感操纵识别](concepts/EmotionalManipulationRecognition.md) — Behavior-first recognition of interpretive control, attention diversion, responsibility reversal, moving standards, and outside-reference erosion.
 - [Decision Fixation](concepts/DecisionFixation.md) — Persistence in an initial interpretation after cumulative evidence should trigger a deliberate analytical restart.
 - [Hostile-Intent Attribution](concepts/HostileIntentAttribution.md) — Learned tendency to read ambiguous behavior as threat, potentially adaptive in danger but harmful when generalized.

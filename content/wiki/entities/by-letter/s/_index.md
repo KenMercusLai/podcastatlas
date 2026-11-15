@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14305
+wiki_total_pages: 14309
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "ShekharNatarajan"
     title: "Shekhar Natarajan"
     url: "/wiki/entities/shekharnatarajan/"
+  - key: "SheldonHeavyweight"
+    title: "Sheldon (Heavyweight)"
+    url: "/wiki/entities/sheldonheavyweight/"
   - key: "Shell"
     title: "Shell"
     url: "/wiki/entities/shell/"
