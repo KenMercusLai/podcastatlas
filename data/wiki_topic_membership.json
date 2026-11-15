@@ -27281,6 +27281,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CompromisedNarratorSatire": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ComputationalBiology": [
     {
       "key": "science",
@@ -107942,6 +107949,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "encore-good-old-boys-encore-good-old-boys": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471": [

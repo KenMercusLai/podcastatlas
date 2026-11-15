@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11320
+wiki_total_pages: 11321
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2111,6 +2111,9 @@ wiki_pages:
   - key: "CompressedModernityGenderTransition"
     title: "Compressed Modernity Gender Transition / 压缩现代性中的女性转型"
     url: "/wiki/concepts/compressedmodernitygendertransition/"
+  - key: "CompromisedNarratorSatire"
+    title: "Compromised-Narrator Satire"
+    url: "/wiki/concepts/compromisednarratorsatire/"
   - key: "ComputationalBiology"
     title: "Computational Biology"
     url: "/wiki/concepts/computationalbiology/"

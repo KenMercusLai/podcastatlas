@@ -40045,3 +40045,13 @@ Core synthesis: Americana functions in Holcomb's account as an institutional hom
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | Encore: Good Old Boys
+
+Added the [[RevisionistHistory]] episode on [[RandyNewman]]'s *Good Old Boys* and the historical encounter behind “Rednecks.” Created bounded profiles for Newman and segregationist governor [[LesterMaddox]], established [[CompromisedNarratorSatire]], and resynthesized [[MalcolmGladwell]] from his complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Newman's first-person method makes tenderness, racism, resentment, self-justification, and Northern hypocrisy audible without turning understanding into absolution. “Sail Away” shows how beautiful music can intensify a monstrous sales pitch, while “Rednecks” uses Johnny Cutler's racism to expose both Southern white supremacy and the segregated inequality behind Northern moral confidence. The same proximity creates a reception risk: softened language can erase the critique, but preserved language can be sung, celebrated, or appropriated by audiences who identify with the narrator. Newman's reported decision to stop performing the song in parts of the South makes that risk practical rather than merely theoretical. No settled contradiction was adopted. Biography, political chronology, the Cavett exchange, authorial intention, song meaning, cover interpretation, concert response, and radio treatment remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, recording analysis, or independent biography. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 5,004 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

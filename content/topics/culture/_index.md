@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3679
+topic_total_pages: 3681
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -856,6 +856,9 @@ topic_concepts:
   - key: "ComposerPatronageIndependence"
     title: "Composer Patronage Independence"
     url: "/wiki/concepts/composerpatronageindependence/"
+  - key: "CompromisedNarratorSatire"
+    title: "Compromised-Narrator Satire"
+    url: "/wiki/concepts/compromisednarratorsatire/"
   - key: "ComputingEnrollmentDecline"
     title: "Computing Enrollment Decline"
     url: "/wiki/concepts/computingenrollmentdecline/"
@@ -10386,6 +10389,9 @@ topic_sources:
   - key: "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask"
     title: "E45 孟岩对话李继刚：人何以自处"
     url: "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  - key: "encore-good-old-boys-encore-good-old-boys"
+    title: "Encore: Good Old Boys"
+    url: "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
   - key: "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing"
     title: "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing"
     url: "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"

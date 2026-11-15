@@ -61387,6 +61387,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
     },
+    "CompromisedNarratorSatire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
+          "key": "encore-good-old-boys-encore-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Encore: Good Old Boys",
+          "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/compromisednarratorsatire/"
+    },
     "ComputeCapitalLaborReallocation": {
       "episode_count": 2,
       "show_count": 2,
@@ -177874,6 +177890,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/lesterbushjr/"
     },
+    "LesterMaddox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
+          "key": "encore-good-old-boys-encore-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Encore: Good Old Boys",
+          "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/lestermaddox/"
+    },
     "LethalPlanLeakageRisk": {
       "episode_count": 6,
       "show_count": 1,
@@ -197446,9 +197478,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -197533,6 +197565,13 @@
           "show": "Revisionist History",
           "title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing",
           "url": "/wiki/sources/understanding-the-death-penalty-malcolm-gladwell-on-the-intercept-briefing-understanding-the-death-penalty-malcolm-glad/"
+        },
+        {
+          "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
+          "key": "encore-good-old-boys-encore-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Encore: Good Old Boys",
+          "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
         }
       ],
       "updated": "2026-11-15",
@@ -254259,6 +254298,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/ranavalonai/"
+    },
+    "RandyNewman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
+          "key": "encore-good-old-boys-encore-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Encore: Good Old Boys",
+          "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/randynewman/"
     },
     "RangeExtendedEV": {
       "episode_count": 4,

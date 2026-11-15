@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14254
+wiki_total_pages: 14256
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"
+  - key: "RandyNewman"
+    title: "Randy Newman"
+    url: "/wiki/entities/randynewman/"
   - key: "RaphaelGlucksmann"
     title: "Raphael Glucksmann"
     url: "/wiki/entities/raphaelglucksmann/"
