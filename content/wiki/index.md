@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Trust Diagnosis](sources/the-trust-diagnosis.md) — Revisionist History case study on conflicting prostate-cancer advice, disciplined second opinions, diagnostic uncertainty, and trust earned through candid reasoning rather than promised outcomes.
 - [The Great American Elevator Tragedy | The Mistakes Series](sources/the-great-american-elevator-tragedy-the-mistakes-series-the-great-american-elevator-tragedy-the-mistakes-series.md) — Revisionist History on high American elevator costs, large-cabin rules, model-code diffusion, and the tradeoff between ideal emergency performance and broad everyday access.
 - [Revisited: Ms. Buchanan’s Period of Adjustment](sources/revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment.md) — Revisionist History revisits Brown through family choice, teacher gatekeeping, and the displacement of Black educators during integration.
 - [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8.md) — LateTalk将黄仁勋被报道离职连接到英伟达接班、供应链与生态融资，并分析中国算力短缺、国产替代、芯片竞争和 token 分成模式，同时保留政治与市场预测的来源边界。

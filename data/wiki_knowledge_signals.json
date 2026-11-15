@@ -56282,9 +56282,9 @@
       "url": "/wiki/concepts/clinicaltrialadverseeventresponse/"
     },
     "ClinicalTrustBuilding": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
@@ -56299,9 +56299,16 @@
           "show": "这病说来话长",
           "title": "VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋",
           "url": "/wiki/sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e/"
+        },
+        {
+          "episode_file": "The_Trust_Diagnosis [The_Trust_Diagnosis].md",
+          "key": "the-trust-diagnosis",
+          "show": "Revisionist History",
+          "title": "The Trust Diagnosis",
+          "url": "/wiki/sources/the-trust-diagnosis/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/clinicaltrustbuilding/"
     },
     "ClinicalVisitSymptomTracking": {
@@ -196005,9 +196012,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -196071,6 +196078,13 @@
           "show": "Revisionist History",
           "title": "Revisited: Ms. Buchanan’s Period of Adjustment",
           "url": "/wiki/sources/revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment/"
+        },
+        {
+          "episode_file": "The_Trust_Diagnosis [The_Trust_Diagnosis].md",
+          "key": "the-trust-diagnosis",
+          "show": "Revisionist History",
+          "title": "The Trust Diagnosis",
+          "url": "/wiki/sources/the-trust-diagnosis/"
         }
       ],
       "updated": "2026-11-15",
@@ -202034,9 +202048,9 @@
       "url": "/wiki/concepts/medicalcreatorplatformpressure/"
     },
     "MedicalDiagnosticReasoning": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
@@ -202065,9 +202079,16 @@
           "show": "这病说来话长",
           "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
           "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        },
+        {
+          "episode_file": "The_Trust_Diagnosis [The_Trust_Diagnosis].md",
+          "key": "the-trust-diagnosis",
+          "show": "Revisionist History",
+          "title": "The Trust Diagnosis",
+          "url": "/wiki/sources/the-trust-diagnosis/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/medicaldiagnosticreasoning/"
     },
     "MedicalDogmaTrustRepair": {
@@ -258624,9 +258645,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -258704,6 +258725,13 @@
           "show": "Revisionist History",
           "title": "Introducing The News from Scene on Radio",
           "url": "/wiki/sources/introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio/"
+        },
+        {
+          "episode_file": "The_Trust_Diagnosis [The_Trust_Diagnosis].md",
+          "key": "the-trust-diagnosis",
+          "show": "Revisionist History",
+          "title": "The Trust Diagnosis",
+          "url": "/wiki/sources/the-trust-diagnosis/"
         }
       ],
       "updated": "2026-11-15",
@@ -269940,9 +269968,9 @@
       "url": "/wiki/entities/secondmexicanempire/"
     },
     "SecondOpinionStrategy": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -269957,9 +269985,16 @@
           "show": "这病说来话长",
           "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
           "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
+        },
+        {
+          "episode_file": "The_Trust_Diagnosis [The_Trust_Diagnosis].md",
+          "key": "the-trust-diagnosis",
+          "show": "Revisionist History",
+          "title": "The Trust Diagnosis",
+          "url": "/wiki/sources/the-trust-diagnosis/"
         }
       ],
-      "updated": "2026-10-21",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SecondOpiumWar": {

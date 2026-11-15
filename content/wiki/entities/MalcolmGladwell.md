@@ -12,6 +12,7 @@ sources:
   - the-staten-island-problem-part-4-wu-tang-vs-shaolin-the-staten-island-problem-part-4-wu-tang-vs-shaolin
   - revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
+  - the-trust-diagnosis
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Malcolm Gladwell is an author and the host of [[RevisionistHistory]]. The bounded sources show him using interviews, autobiography, analogy, historical argument, and cross-domain comparison to test relationship frameworks, explain institutional resistance, translate research into public-policy argument, connect historical memory to present conflict, recover unequal implementation costs from familiar triumphal narratives, and revisit arguments after they enter public life.
+Malcolm Gladwell is an author and the host of [[RevisionistHistory]]. The bounded sources show him using interviews, autobiography, analogy, historical argument, and cross-domain comparison to test relationship frameworks, explain institutional resistance, translate research into public-policy argument, connect historical memory to present conflict, recover unequal implementation costs from familiar triumphal narratives, revisit arguments after they enter public life, and examine trust through a consequential personal case.
 
 ## Current Profile
 
@@ -44,6 +45,8 @@ In [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|Revenge of A 
 
 In [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment|Ms. Buchanan's Period of Adjustment]], Gladwell reopens [[BrownVBoardOfEducation|Brown v. Board of Education]] by contrasting the Court's psychological-harm framing with [[LeolaBrown]]'s praise for Monroe School and demand for equal choice. He then moves from teacher-effect research to [[DarlaBuchanan]]'s dismissal and the wider removal of Black educators, arguing that integration of enrollment without integration of authority imposed unequal costs.
 
+His medical-decision storytelling turns Dan's prostate-cancer crisis in [[the-trust-diagnosis|The Trust Diagnosis]] into a three-stage account of trust: premature confidence in tests and doctors, confidence in a disciplined decision process, and carefully earned trust in a surgeon who states both capability and uncertainty. Gladwell uses the favorable outcome to complete the narrative, while the episode itself preserves the boundary that process quality cannot guarantee results.
+
 ## Key Characteristics
 
 - Uses playful disagreement and counterexamples to pressure-test a guest's framework.
@@ -52,7 +55,7 @@ In [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period
 - Pushes provocative analogies far enough to expose disagreements over consent, truth, and social usefulness.
 - Uses cross-domain comparison and individual stories to make institutional and network-level mechanisms legible.
 - Combines provocative policy claims with historical lineage, linguistic evidence, and explicit criticism of interpretive avoidance.
-- Uses counterfactual, multi-generational, and explicitly qualified reframing to make technical rules legible and trace who retained authority or absorbed implementation costs.
+- Uses counterfactual, multi-generational, and explicitly qualified reframing to make technical rules, expert disagreement, retained authority, and implementation costs legible.
 
 ## Evidence
 
@@ -97,14 +100,18 @@ In [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period
 
 - [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment]] joins Brown-family testimony, teacher-outcome research, local personnel cases, and national dismissal estimates to develop [[DesegregationEducatorDisplacement]].
 
+### Trust and medical uncertainty
+
+- [[the-trust-diagnosis]] organizes one cancer decision around premature deference, process-based self-trust, candid specialist reasoning, and the difference between technical capability and guaranteed outcome.
+
 ## Qualifications
 
-This profile is bounded to nine structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may underweight evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy; neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey; and the Wu-Tang–secession parallel lacks evidence of direct influence. The golf episode is openly polemical. The Brown episode deliberately corrects a triumphal narrative but is not a comprehensive legal or education history; its teacher-effect estimates, dismissal totals, local motives, and quoted records require the underlying studies and archives.
+This profile is bounded to ten structured episode summaries. Personal stories, historical interpretations, and cross-domain analogies do not establish general causal effects. The generational explanation in *Wolfgang's Law* may underweight evidence quality, cost, local capacity, law, funding, and implementation conditions. Selected Baltimore results do not independently validate the full strategy; neither the slavery-centered constitutional account nor the Reconstruction conversation is a balanced scholarly survey; and the Wu-Tang–secession parallel lacks evidence of direct influence. The golf episode is openly polemical. The Brown episode deliberately corrects a triumphal narrative but is not a comprehensive legal or education history. Dan's favorable cancer outcome does not establish that minority opinions, surgery, intuition, or extensive consultation are generally superior; the episode is a decision-making case rather than comparative medical evidence.
 
 ## What Changed
 
-- Added his method of reassessing a celebrated legal victory through family testimony, institutional discretion, and displaced professionals.
-- Added his distinction between formal integration and redistribution of educational authority.
+- Added his three-stage framing of premature deference, process-based self-trust, and earned interpersonal trust.
+- Extended his method into medical uncertainty while preserving the distinction between decision quality and outcome certainty.
 
 ## Relationships
 
@@ -135,3 +142,5 @@ This profile is bounded to nine structured episode summaries. Personal stories, 
 - [[BrownVBoardOfEducation]] - landmark decision whose rationale and implementation he critically reassesses.
 - [[DarlaBuchanan]] - dismissed teacher whose letter anchors his account of unequal implementation costs.
 - [[DesegregationEducatorDisplacement]] - institutional pattern he develops from local cases and national estimates.
+- [[ClinicalTrustBuilding]] - trust framework he develops through Dan's decision process and the surgeon's candid limits.
+- [[SecondOpinionStrategy]] - record-based comparison across conflicting specialist recommendations in the cancer case.

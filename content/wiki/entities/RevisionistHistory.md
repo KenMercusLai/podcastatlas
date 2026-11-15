@@ -14,6 +14,7 @@ sources:
   - frankenfood-the-mistakes-series-frankenfood-the-mistakes-series
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
   - introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio
+  - the-trust-diagnosis
 last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
@@ -22,7 +23,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, a follow-up on golf and tax privilege, food-technology naming, and a reassessment of school desegregation through displaced Black educators.
+Revisionist History is [[MalcolmGladwell]]'s podcast, represented here by health-policy history, a live social-psychology conversation, policing and constitutional gun history, Reconstruction, place-based cultural history, a follow-up on golf and tax privilege, food-technology naming, a reassessment of school desegregation through displaced Black educators, and a personal case about trust under medical uncertainty.
 
 ## Current Profile
 
@@ -46,6 +47,8 @@ Consumer technology and sensory reporting add another application of the show's 
 
 A distribution and curation role appears in [[introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio|Introducing The News from Scene on Radio]]. Rather than presenting a Gladwell-led investigation, the feed introduces an eight-part [[SeenOnRadio]] season that joins Border Belt field reporting to [[DannagalYoung]]'s research on news consumers, political identity, framing, and polarization.
 
+A first-person medical decision case extends the show's method into expert trust. In [[the-trust-diagnosis|The Trust Diagnosis]], the show moves from conflicting prostate-cancer recommendations through crisis-management practice and 18 consultations to a surgical choice, using the sequence to distinguish automatic deference, confidence in one's decision process, and trust earned by a clinician who separates technical capability from uncertain prognosis.
+
 ## Key Characteristics
 
 - Narrative history podcast connecting personal experience and lost political opportunities to institutional and policy change.
@@ -54,7 +57,7 @@ A distribution and curation role appears in [[introducing-the-news-from-scene-on
 - Uses Gladwell's counterexamples and semantic reframing to pressure-test a guest's framework.
 - Combines cross-city research with closely observed local scenes to explain a prevention mechanism.
 - Uses adversarial interview and revisionist narrative formats to connect historical institutions with present policy and doctrine.
-- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, implementation history, and curated outside series to connect public memory with institutional power.
+- Uses long-form dialogue, qualified analogy, longitudinal follow-up, naming analysis, firsthand tasting, implementation history, curated outside series, and personal medical cases to connect uncertainty with institutional and interpersonal trust.
 
 ## Evidence
 
@@ -99,14 +102,18 @@ A distribution and curation role appears in [[introducing-the-news-from-scene-on
 
 - [[introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio]] uses the Revisionist History feed to introduce [[SeenOnRadio]]'s season on news deserts, media trust, consumer psychology, partisan framing, and democracy.
 
+### Medical trust and decision process
+
+- [[the-trust-diagnosis]] uses conflicting cancer recommendations, specialist comparison, and a candid surgeon to develop [[ClinicalTrustBuilding]] and [[SecondOpinionStrategy]].
+
 ## Qualifications
 
-Only eleven sources currently inform this page, so they do not establish the full range of the show. The health episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program and supplies a structured summary rather than all eight episodes or the cited research.
+Only twelve sources currently inform this page, so they do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts.
 
 ## What Changed
 
-- Added the feed's role as a curator and distributor of an outside journalism series.
-- Extended the profile from Gladwell-led narrative revisionism to a field-and-research investigation of news consumers and media systems.
+- Added medical uncertainty as a setting for the show's recurring movement from personal stakes to general framework.
+- Added a three-stage trust narrative while preserving the difference between decision quality and guaranteed outcome.
 
 ## Relationships
 
@@ -138,3 +145,5 @@ Only eleven sources currently inform this page, so they do not establish the ful
 - [[DesegregationEducatorDisplacement]] - pattern through which Black teachers bore unequal costs of integration.
 - [[SeenOnRadio]] - outside series introduced through the feed.
 - [[NewsConsumerNeeds]] - consumer-side framework developed in the introduced season opener.
+- [[ClinicalTrustBuilding]] - informed-trust framework developed through Dan's crisis and the surgeon's candor.
+- [[SecondOpinionStrategy]] - structured comparison process used when qualified specialists disagree.

@@ -7,7 +7,8 @@ sources:
   - vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm
   - vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb
   - vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq
-last_updated: 2026-09-27
+  - the-trust-diagnosis
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,10 +26,12 @@ VOL.139 extends the same reasoning into preventive checkups. An arrow, tumor mar
 
 VOL.97 adds a respiratory case in which both symptoms and images can mislead when isolated. Pneumonia may lack cough or fever in a frail older person, chronic cough and sputum may be noninfectious, and radiographic opacity may lag behind clinical improvement. [[RespiratorySymptomTriage]] therefore integrates overall condition, breathing, examination, imaging, laboratory evidence, lung function, history, treatment response, and time rather than treating cough, sputum color, or “white lung” as a diagnosis.
 
+Diagnostic reasoning continues into treatment selection after a disease label is established. In [[the-trust-diagnosis|The Trust Diagnosis]], blood tests, MRI, biopsy, PET imaging, staging interpretations, and specialist judgment produce sharply different recommendations. Clinicians and patients still have to examine evidence quality, specialty perspective, technical feasibility, prognosis, quality-of-life priorities, and residual uncertainty before choosing among irreversible options.
+
 ## Key Claims
 - Chief complaint, duration, symptom quality, history, allergies, and family context organize the initial differential diagnosis.
 - Diagnosis is usually progressive: doctors screen danger, test hypotheses, interpret results, watch treatment response, and revise over time.
-- Tests and imaging are inputs to clinical judgment rather than standalone verdicts.
+- Tests and imaging are inputs to clinical judgment rather than standalone verdicts, and the same evidence can support different treatment interpretations.
 - Common symptoms can still require dangerous-disease screening because severe conditions may begin with ordinary complaints.
 - Second opinions and subspecialty handoffs are legitimate ways to reduce uncertainty when stakes or persistence warrant them.
 - Screening abnormalities require contextual interpretation and longitudinal comparison before they become reassurance, diagnosis, or escalation.
@@ -42,16 +45,16 @@ VOL.97 adds a respiratory case in which both symptoms and images can mislead whe
 - Second-opinion reasoning: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] and [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] both treat professional second opinions as reasonable under uncertainty.
 - Screening-result reasoning: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] shows why arrows, tumor markers, liver values, and nodules need magnitude, trend, clinical context, multimodal evidence, and follow-up.
 - Respiratory pattern reasoning: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq]] contrasts atypical pneumonia, noninfectious cough and sputum, asthma variants, and lagging imaging to show why no single input settles diagnosis or recovery.
+- Treatment-selection reasoning: [[the-trust-diagnosis]] reports conflicting interpretations of prostate-cancer evidence and distinguishes technical operability from the uncertain probability of long-term cancer control.
+- Revision through outcomes: [[the-trust-diagnosis]] uses postoperative PSA changes as later evidence while preserving the surgeon's initial refusal to guarantee the result.
 
 ## Counterevidence & Qualifications
-The concept is not a full clinical algorithm and does not decide whether any specific delayed diagnosis was negligent. Some tests are risky or inappropriate as first-line tools, some conditions become visible only over time, and both isolated abnormalities and normal reports can mislead without context. The page should be read as a source-grounded reasoning pattern, not medical advice.
+The concept is not a full clinical algorithm and does not decide whether any specific delayed diagnosis was negligent. Some tests are risky or inappropriate as first-line tools, some conditions become visible only over time, and both isolated abnormalities and normal reports can mislead without context. Expert disagreement does not imply that all views are equally well supported, while a favorable later outcome does not prove that the chosen path was generally best. The page should be read as a source-grounded reasoning pattern, not medical advice.
 
 ## What Changed
-- Migrated the page to the synthesis-first schema.
-- Added VOL.218's outpatient safety-netting extension to first-visit uncertainty.
-- Clarified that diagnostic reasoning continues through reports, treatment response, follow-up, and second opinions.
-- Added preventive-checkup interpretation as a longitudinal diagnostic-reasoning case.
-- Added respiratory symptom-image discordance and atypical presentation from VOL.97.
+- Diagnostic reasoning continues from disease identification into treatment selection when specialists interpret the same evidence differently.
+- Technical feasibility, expected disease control, and patient quality-of-life priorities are distinct questions.
+- Later improvement updates the evidence but does not erase the uncertainty present when the decision was made.
 
 ## Related Concepts
 - [[DoctorPatientCommunication]] - patient information and questions supply the raw material for diagnosis.
@@ -59,6 +62,7 @@ The concept is not a full clinical algorithm and does not decide whether any spe
 - [[MissedDiagnosisRisk]] - patient-safety risk created by symptom overlap, evolving disease, and test limits.
 - [[MedicalRiskManagement]] - severity-aware safety frame that shapes diagnostic choices.
 - [[SecondOpinionStrategy]] - professional re-evaluation path when uncertainty persists.
+- [[ClinicalTrustBuilding]] - communication of reasoning and limits that lets patients evaluate expertise without demanding certainty.
 - [[PatientAIUse]] - outside-information branch that still needs clinical context.
 - [[ScreeningResultInterpretation]] - application of clinical reasoning to checkup flags and imaging findings.
 - [[AbnormalFindingFollowupContinuity]] - surveillance structure that preserves comparison and escalation over time.
