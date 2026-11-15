@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11378
+wiki_total_pages: 11381
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "MobileNetworkEnergyTradeoff"
     title: "Mobile Network Energy Tradeoff"
     url: "/wiki/concepts/mobilenetworkenergytradeoff/"
+  - key: "MobileSportsbookCustomerSelection"
+    title: "Mobile Sportsbook Customer Selection"
+    url: "/wiki/concepts/mobilesportsbookcustomerselection/"
   - key: "MobileTechnologyConvergence"
     title: "Mobile Technology Convergence"
     url: "/wiki/concepts/mobiletechnologyconvergence/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3539
+topic_total_pages: 3541
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4228,6 +4228,9 @@ topic_concepts:
   - key: "SportAsReconciliationRitual"
     title: "Sport as Reconciliation Ritual"
     url: "/wiki/concepts/sportasreconciliationritual/"
+  - key: "SportsBettingRevenueAlignment"
+    title: "Sports Betting Revenue Alignment"
+    url: "/wiki/concepts/sportsbettingrevenuealignment/"
   - key: "SportsBettingSponsorshipExit"
     title: "Sports Betting Sponsorship Exit"
     url: "/wiki/concepts/sportsbettingsponsorshipexit/"
@@ -9717,6 +9720,9 @@ topic_sources:
   - key: "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06"
     title: "From this day, fourth: Lula’s surprise win"
     url: "/wiki/sources/from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06/"
+  - key: "gambling-with-michael-lewis-gambling-with-michael-lewis"
+    title: "Gambling with Michael Lewis"
+    url: "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425"
     title: "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"

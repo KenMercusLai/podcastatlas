@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11378
+wiki_total_pages: 11381
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1844,6 +1844,9 @@ wiki_pages:
   - key: "SportsBettingEngagement"
     title: "Sports Betting Engagement"
     url: "/wiki/concepts/sportsbettingengagement/"
+  - key: "SportsBettingRevenueAlignment"
+    title: "Sports Betting Revenue Alignment"
+    url: "/wiki/concepts/sportsbettingrevenuealignment/"
   - key: "SportsBettingSponsorshipExit"
     title: "Sports Betting Sponsorship Exit"
     url: "/wiki/concepts/sportsbettingsponsorshipexit/"
@@ -1922,6 +1925,9 @@ wiki_pages:
   - key: "SportsbookIntegrityMonitoring"
     title: "Sportsbook Integrity Monitoring"
     url: "/wiki/concepts/sportsbookintegritymonitoring/"
+  - key: "SportsbookParlayMargin"
+    title: "Sportsbook Parlay Margin"
+    url: "/wiki/concepts/sportsbookparlaymargin/"
   - key: "SportswearExperienceSpace"
     title: "Sportswear Experience Space / 运动服饰体验空间"
     url: "/wiki/concepts/sportswearexperiencespace/"

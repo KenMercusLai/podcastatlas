@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14323
+wiki_total_pages: 14328
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "Fanatics"
     title: "Fanatics"
     url: "/wiki/entities/fanatics/"
+  - key: "FanDuel"
+    title: "FanDuel"
+    url: "/wiki/entities/fanduel/"
   - key: "FangtaiGroup"
     title: "Fangtai / 方太"
     url: "/wiki/entities/fangtaigroup/"

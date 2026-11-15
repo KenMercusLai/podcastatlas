@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Gambling with Michael Lewis](sources/gambling-with-michael-lewis-gambling-with-michael-lewis.md) — Michael Lewis contrasts older sharp-informed bookmaking with mobile sportsbooks that promote high-margin bets, profile customers, and limit likely winners inside a league-media-state revenue system.
 - [A Very Terminator Christmas](sources/a-very-terminator-christmas-a-very-terminator-christmas.md) — Earlier, longer release of Revisionist History's oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
 - [Leading Through Crisis: Courage, Hope, and Compassion Under Pressure](sources/default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783-default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783.md) — Hidden Brain contrasts defensive self-protection with hopeful, calm, competent, and compassionate leadership in maritime, cave, and aviation emergencies.
 - [Wellness 2.0: Who Do You Want To Be?](sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184.md) — Hidden Brain and Ken Sheldon connect self-concordant goal selection, external control, value-based persistence, and post-commitment revision.
@@ -5158,6 +5159,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Michael Lewis (Author)](entities/MichaelLewisAuthor.md) — Author and journalist investigating the platform design and institutional incentives of legalized U.S. sports betting.
+- [Against the Rules](entities/AgainstTheRules.md) — Michael Lewis podcast series examining mobile sportsbooks, market history, and the post-legalization betting ecosystem.
+- [Roxy Roxborough](entities/RoxyRoxborough.md) — Veteran bettor and odds-maker supplying the episode's older market-making baseline.
+- [Rufus Peabody](entities/RufusPeabody.md) — Quantitative sports bettor whose account limits illustrate platform classification of likely winners.
+- [FanDuel](entities/FanDuel.md) — Mobile sportsbook appearing in the episode's account of advertising scale and media incentives.
 - [Adam Galinsky](entities/AdamGalinsky.md) — Psychologist connecting crisis stewardship to amplified leader signals, shared goals, control recall, warmth, competence, and learned practice.
 - [Ekkapol “Ek” Chantawong](entities/EkkapolChantawong.md) — Thai youth soccer coach represented through routine, meditation, mutual support, hope, and responsibility during the Tham Luang cave crisis.
 - [Tammy Jo Shults](entities/TammyJoShults.md) — Southwest pilot whose Flight 1380 response joins technical command, calm explanation, anticipation, and passenger care.
@@ -19574,6 +19580,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arrian](entities/Arrian.md) — Roman-era military historian whose detailed Alexander narrative is late, selective, and generally favorable to its subject.
 
 ## Concepts
+- [Mobile Sportsbook Customer Selection](concepts/MobileSportsbookCustomerSelection.md) — Account-level profiling used to reward, steer, restrict, or remove bettors according to expected operator value or risk.
+- [Sportsbook Parlay Margin](concepts/SportsbookParlayMargin.md) — Operator advantage created when bundled long-shot payouts are more salient than compounded probability and price.
+- [Sports Betting Revenue Alignment](concepts/SportsBettingRevenueAlignment.md) — Shared growth incentives joining sportsbooks, leagues, sports media, and state governments after legalization.
 - [Crisis Leader Signal Amplification](concepts/CrisisLeaderSignalAmplification.md) — Pattern in which leaders' words, gestures, emotions, interactions, and silences carry intensified consequences under threat.
 - [Hopeful Crisis Coordination](concepts/HopefulCrisisCoordination.md) — Use of shared direction, structured activity, routine, and protective roles to sustain collective action under uncertainty.
 - [Control-Recall Self-Efficacy](concepts/ControlRecallSelfEfficacy.md) — Use of remembered control or competence to restore confidence and reduce stress in a later challenge.

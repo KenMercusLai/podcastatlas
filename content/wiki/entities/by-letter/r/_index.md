@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14323
+wiki_total_pages: 14328
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "RoverBicycle"
     title: "Rover Bicycle / 罗福自行车"
     url: "/wiki/entities/roverbicycle/"
+  - key: "RoxyRoxborough"
+    title: "Roxy Roxborough"
+    url: "/wiki/entities/roxyroxborough/"
   - key: "RoyBaumeister"
     title: "Roy Baumeister"
     url: "/wiki/entities/roybaumeister/"
@@ -1091,6 +1094,9 @@ wiki_pages:
   - key: "RudyardKipling"
     title: "Rudyard Kipling"
     url: "/wiki/entities/rudyardkipling/"
+  - key: "RufusPeabody"
+    title: "Rufus Peabody"
+    url: "/wiki/entities/rufuspeabody/"
   - key: "RugbySchool"
     title: "Rugby School"
     url: "/wiki/entities/rugbyschool/"

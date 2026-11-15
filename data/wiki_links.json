@@ -8171,6 +8171,10 @@
     "title": "Afterlife Moral Accounting",
     "url": "/wiki/concepts/afterlifemoralaccounting/"
   },
+  "AgainstTheRules": {
+    "title": "Against the Rules",
+    "url": "/wiki/entities/againsttherules/"
+  },
   "Agamemnon": {
     "title": "Agamemnon",
     "url": "/wiki/entities/agamemnon/"
@@ -34762,6 +34766,10 @@
   "FanCountyLateHan": {
     "title": "范县 / Fan County (Late Han)",
     "url": "/wiki/entities/fancountylatehan/"
+  },
+  "FanDuel": {
+    "title": "FanDuel",
+    "url": "/wiki/entities/fanduel/"
   },
   "FanEconomy": {
     "title": "Fan Economy",
@@ -64223,6 +64231,10 @@
     "title": "Michael LaSara",
     "url": "/wiki/entities/michaellasara/"
   },
+  "MichaelLewisAuthor": {
+    "title": "Michael Lewis (Author)",
+    "url": "/wiki/entities/michaellewisauthor/"
+  },
   "MichaelLewisCurator": {
     "title": "Michael Lewis (Curator)",
     "url": "/wiki/entities/michaellewiscurator/"
@@ -65282,6 +65294,10 @@
   "MobileNetworkEnergyTradeoff": {
     "title": "Mobile Network Energy Tradeoff",
     "url": "/wiki/concepts/mobilenetworkenergytradeoff/"
+  },
+  "MobileSportsbookCustomerSelection": {
+    "title": "Mobile Sportsbook Customer Selection",
+    "url": "/wiki/concepts/mobilesportsbookcustomerselection/"
   },
   "MobileTechnologyConvergence": {
     "title": "Mobile Technology Convergence",
@@ -81987,6 +82003,10 @@
     "title": "Rover Bicycle / 罗福自行车",
     "url": "/wiki/entities/roverbicycle/"
   },
+  "RoxyRoxborough": {
+    "title": "Roxy Roxborough",
+    "url": "/wiki/entities/roxyroxborough/"
+  },
   "RoyBaumeister": {
     "title": "Roy Baumeister",
     "url": "/wiki/entities/roybaumeister/"
@@ -82154,6 +82174,10 @@
   "RudyardKipling": {
     "title": "Rudyard Kipling",
     "url": "/wiki/entities/rudyardkipling/"
+  },
+  "RufusPeabody": {
+    "title": "Rufus Peabody",
+    "url": "/wiki/entities/rufuspeabody/"
   },
   "RugbySchool": {
     "title": "Rugby School",
@@ -88087,6 +88111,10 @@
     "title": "Sports Betting Engagement",
     "url": "/wiki/concepts/sportsbettingengagement/"
   },
+  "SportsBettingRevenueAlignment": {
+    "title": "Sports Betting Revenue Alignment",
+    "url": "/wiki/concepts/sportsbettingrevenuealignment/"
+  },
   "SportsBettingSponsorshipExit": {
     "title": "Sports Betting Sponsorship Exit",
     "url": "/wiki/concepts/sportsbettingsponsorshipexit/"
@@ -88190,6 +88218,10 @@
   "SportsbookIntegrityMonitoring": {
     "title": "Sportsbook Integrity Monitoring",
     "url": "/wiki/concepts/sportsbookintegritymonitoring/"
+  },
+  "SportsbookParlayMargin": {
+    "title": "Sportsbook Parlay Margin",
+    "url": "/wiki/concepts/sportsbookparlaymargin/"
   },
   "SportswearExperienceSpace": {
     "title": "Sportswear Experience Space / 运动服饰体验空间",
@@ -111170,6 +111202,10 @@
   "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677": {
     "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
     "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+  },
+  "gambling-with-michael-lewis-gambling-with-michael-lewis": {
+    "title": "Gambling with Michael Lewis",
+    "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
   },
   "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779": {
     "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",

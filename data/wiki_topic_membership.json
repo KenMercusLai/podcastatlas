@@ -65084,6 +65084,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MobileSportsbookCustomerSelection": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MobileTechnologyConvergence": [
     {
       "key": "technology",
@@ -87299,6 +87306,18 @@
     }
   ],
   "SportsBettingEngagement": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SportsBettingRevenueAlignment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -109854,6 +109873,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "gambling-with-michael-lewis-gambling-with-michael-lewis": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963": [

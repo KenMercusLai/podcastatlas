@@ -11116,6 +11116,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/afterhourspowerboundary/"
     },
+    "AgainstTheRules": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/againsttherules/"
+    },
     "Agamemnon": {
       "episode_count": 3,
       "show_count": 3,
@@ -84777,6 +84793,29 @@
       "updated": "2026-11-09",
       "url": "/wiki/entities/drsquatch/"
     },
+    "DraftKings": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260324_0324_MP_TECH_pod_128 [tech_20260324_0324_MP_TECH_pod_128].md",
+          "key": "tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "U.S. regulators eye rules for prediction markets",
+          "url": "/wiki/sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/draftkings/"
+    },
     "DragonAsDangerousPower": {
       "episode_count": 1,
       "show_count": 1,
@@ -104484,6 +104523,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/fanchongchimei/"
+    },
+    "FanDuel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/fanduel/"
     },
     "FanFengEunuchLateHan": {
       "episode_count": 5,
@@ -209370,6 +209425,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/michaelkratsios/"
     },
+    "MichaelLewisAuthor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/michaellewisauthor/"
+    },
     "MichaelLewisCurator": {
       "episode_count": 1,
       "show_count": 1,
@@ -212669,6 +212740,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/mobilenetworkenergytradeoff/"
+    },
+    "MobileSportsbookCustomerSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/mobilesportsbookcustomerselection/"
     },
     "MobileTechnologyConvergence": {
       "episode_count": 1,
@@ -268353,6 +268440,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/routineagentautomation/"
     },
+    "RoxyRoxborough": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/roxyroxborough/"
+    },
     "RoyBaumeister": {
       "episode_count": 1,
       "show_count": 1,
@@ -269001,6 +269104,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/rudyardkipling/"
+    },
+    "RufusPeabody": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/rufuspeabody/"
     },
     "RugbySchool": {
       "episode_count": 1,
@@ -289053,6 +289172,45 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/sportsbettingasinvestment/"
     },
+    "SportsBettingEngagement": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The NFL ｜ Acquired (1) [the-nfl-1].md",
+          "key": "the-nfl-1",
+          "show": "Acquired",
+          "title": "The NFL",
+          "url": "/wiki/sources/the-nfl-1/"
+        },
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sportsbettingengagement/"
+    },
+    "SportsBettingRevenueAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sportsbettingrevenuealignment/"
+    },
     "SportsCapitalCannotBuyLegitimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -289278,6 +289436,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
+    },
+    "SportsbookParlayMargin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Gambling_with_Michael_Lewis [Gambling_with_Michael_Lewis].md",
+          "key": "gambling-with-michael-lewis-gambling-with-michael-lewis",
+          "show": "Revisionist History",
+          "title": "Gambling with Michael Lewis",
+          "url": "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sportsbookparlaymargin/"
     },
     "SportswearExperienceSpace": {
       "episode_count": 2,

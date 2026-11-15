@@ -40388,3 +40388,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Gambling with Michael Lewis
+
+Added the [[RevisionistHistory]] conversation introducing [[MichaelLewisAuthor|Michael Lewis's]] [[AgainstTheRules]] investigation of legalized U.S. sports betting. Created [[RoxyRoxborough]], [[RufusPeabody]], [[FanDuel]], [[MobileSportsbookCustomerSelection]], [[SportsbookParlayMargin]], and [[SportsBettingRevenueAlignment]], then resynthesized [[DraftKings]] and [[SportsBettingEngagement]] from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: mobile sportsbooks do more than digitize conventional bookmaking. Persistent customer data can support event-integrity oversight while also letting operators identify informed wagers, limit customers with likely durable advantages, reward likely losing accounts, and steer attention toward higher-margin parlays. At the institutional level, operator advertising, league partnerships, audience growth, and state tax receipts can align around expansion without erasing distinct duties to bettors, journalism, integrity, or public health. No settled contradiction was adopted. The older-bookmaker fairness comparison, bettor results, operator classifications, marketing totals, lobbying claims, state-policy figures, revenue and handle growth, and psychological mechanisms remain episode-scoped because the supplied file is a structured summary rather than a transcript, operator dataset, statute set, court record, or independent market study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,035 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

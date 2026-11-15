@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14323
+wiki_total_pages: 14328
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "AFTRA"
     title: "AFTRA / American Federation of Television and Radio Artists"
     url: "/wiki/entities/aftra/"
+  - key: "AgainstTheRules"
+    title: "Against the Rules"
+    url: "/wiki/entities/againsttherules/"
   - key: "Agamemnon"
     title: "Agamemnon"
     url: "/wiki/entities/agamemnon/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3856
+topic_total_pages: 3857
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3538,6 +3538,9 @@ topic_concepts:
   - key: "MobileNetworkEnergyTradeoff"
     title: "Mobile Network Energy Tradeoff"
     url: "/wiki/concepts/mobilenetworkenergytradeoff/"
+  - key: "MobileSportsbookCustomerSelection"
+    title: "Mobile Sportsbook Customer Selection"
+    url: "/wiki/concepts/mobilesportsbookcustomerselection/"
   - key: "MobileTechnologyConvergence"
     title: "Mobile Technology Convergence"
     url: "/wiki/concepts/mobiletechnologyconvergence/"
