@@ -8,8 +8,9 @@ sources:
   - master-the-creative-process-twyla-tharp-scim5167372935
   - how-to-overcome-inner-resistance-steven-pressfield-scim8607622458
   - christmas-in-connecticut-christmas-in-connecticut
+  - a-very-terminator-christmas-a-very-terminator-christmas
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-11-16
 ---
 
 # Outcome-Independent Creative Practice
@@ -24,7 +25,7 @@ Outcome-independent creative practice is the discipline of evaluating present cr
 
 The synthesis now extends through release and reception. [[StevenPressfield]] treats slow-building books and a brutal review as experiences of being “in the arena,” while turning pro means not taking success or failure personally. Across the sources, outcome independence protects the source of evaluation before and after release while remaining compatible with service, deadlines, livelihood, feedback, and demanding craft.
 
-A collective production case extends the practice beyond the individual maker. In [[christmas-in-connecticut-christmas-in-connecticut]], [[BenNaddaffHafrey]] and several participants judge [[ChristmasInConnecticut1992|Christmas in Connecticut]] to be artistically flawed while still valuing the commitment, improbable collaboration, friendship, and pleasure involved in making it. This is not permission to collapse process into nostalgia: Janet Brownell's distress over a radically changed film carrying her credit shows that a production can be joyful for some and alienating for another. Outcome independence therefore permits plural judgments about process, artifact, and consequence rather than converting a good memory into proof of good work.
+A collective production case extends the practice beyond the individual maker. In [[christmas-in-connecticut-christmas-in-connecticut]] and its earlier release [[a-very-terminator-christmas-a-very-terminator-christmas]], [[BenNaddaffHafrey]] and several participants judge [[ChristmasInConnecticut1992|Christmas in Connecticut]] to be artistically flawed while still valuing the commitment, improbable collaboration, friendship, and pleasure involved in making it. This is not permission to collapse process into nostalgia: Janet Brownell's distress over a radically changed film carrying her credit shows that a production can be joyful for some and alienating for another. Outcome independence therefore permits plural judgments about process, artifact, and consequence rather than converting a good memory into proof of good work.
 
 ## Key Claims
 - The maker controls attention, honesty, effort, and choices more directly than audience response or market result.
@@ -45,8 +46,8 @@ A collective production case extends the practice beyond the individual maker. I
 - Audience-service boundary - [[master-the-creative-process-twyla-tharp-scim5167372935]] measures performance partly by its effect on the audience while warning that extrinsic reward can shortchange technique and doing the work for itself.
 - Post-release boundary - [[how-to-overcome-inner-resistance-steven-pressfield-scim8607622458]] has Pressfield frame professional practice as not personalizing success or failure and surviving harsh criticism without leaving the work.
 - Slow reception - [[how-to-overcome-inner-resistance-steven-pressfield-scim8607622458]] describes *The War of Art* and *Gates of Fire* as gaining traction over years rather than through an immediate peak.
-- Process value despite artifact failure - [[christmas-in-connecticut-christmas-in-connecticut]] contrasts the remake's mixed reception and visible directing failures with collaborators' affection for its commitment, humor, and friendships.
-- Unequal process experience - [[christmas-in-connecticut-christmas-in-connecticut]] reports Brownell's distress at a premiere for a film that departed from her conception while retaining her name.
+- Process value despite artifact failure - [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] contrast the remake's mixed reception and visible directing failures with collaborators' affection for its commitment, humor, and friendships.
+- Unequal process experience - [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report Brownell's distress at a premiere for a film that departed from her conception while retaining her name.
 
 ## Counterevidence & Qualifications
 The concept is a creative orientation, not evidence that markets, deadlines, collaborators, audiences, criticism, income, or artifact quality can be ignored. Performance forms such as dance and stand-up may require live audience response, and paid work can impose legitimate constraints. Internal standards can also become punishing or unreachable rather than generative. Not personalizing criticism does not make criticism irrelevant. Nor does one participant's happy memory represent collaborators whose authorship, credit, or intentions were displaced. Outcome independence protects plural sources of value and judgment; it does not remove responsibility for consequences, health, audience experience, consent, credit, learning, or practical completion.

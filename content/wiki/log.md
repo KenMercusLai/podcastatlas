@@ -40376,3 +40376,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | A Very Terminator Christmas
+
+Added the earlier, longer [[a-very-terminator-christmas-a-very-terminator-christmas|A Very Terminator Christmas]] release of the [[RevisionistHistory]] oral history already represented by [[christmas-in-connecticut-christmas-in-connecticut|Christmas in Connecticut]]. The release has a distinct 2024-12-18 publication record, 3,037-second duration, and audio URL, but preserves the same substantive account of [[ArnoldSchwarzenegger]]'s low-risk directing experiment, [[StanBrooks]]'s producing choices, [[ChristmasInConnecticut1992|the remake]]'s visible execution failures, and [[BenNaddaffHafrey]]'s argument for [[OutcomeIndependentCreativePractice]].
+
+Core synthesis: a flawed artifact can coexist with commitment, friendship, and pleasure in making, but affectionate recollection cannot erase Janet Brownell's reported alienation, establish artistic success, or represent every collaborator's experience. No settled contradiction was adopted. The new note strengthens provenance without changing the current judgment, and claims about motives, dialogue, production incidents, compensation, reception, friendship, and later policy influence remain episode-scoped because the supplied file is a structured summary rather than a transcript, production archive, contracts, reviews corpus, or independent policy analysis. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,034 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

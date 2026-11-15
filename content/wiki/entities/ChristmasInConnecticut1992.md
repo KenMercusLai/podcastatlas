@@ -4,7 +4,8 @@ type: entity
 tags: [film, television, remake, christmas, comedy]
 sources:
   - christmas-in-connecticut-christmas-in-connecticut
-last_updated: 2026-11-15
+  - a-very-terminator-christmas-a-very-terminator-christmas
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,23 +35,23 @@ TNT heavily promoted the film but premiered it on April 13, 1992, outside the Ch
 
 ### Development and premise
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] reports Brooks's TNT development, Brownell's initial draft, the updated heroine, and Dyan Cannon's casting.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report Brooks's TNT development, Brownell's initial draft, the updated heroine, and Dyan Cannon's casting.
 
 ### Creative transformation
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] attributes the rescue opening, jeopardy, broader comedy, and additional rewrites to Schwarzenegger's involvement.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] attribute the rescue opening, jeopardy, broader comedy, and additional rewrites to Schwarzenegger's involvement.
 
 ### Production limits
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] reports the budget, schedule, story-order filming, constrained staging, visible effects, and baby-bath continuity problem.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report the budget, schedule, story-order filming, constrained staging, visible effects, and baby-bath continuity problem.
 
 ### Reception and afterlife
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] records heavy promotion, an April premiere, mixed reviews, the end of the directing experiment, and collaborators' affectionate memories.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] record heavy promotion, an April premiere, mixed reviews, the end of the directing experiment, and collaborators' affectionate memories.
 
 ## Qualifications
 
-The film profile is derived from a structured oral-history summary rather than the film itself, screenplay drafts, production files, contemporary reviews corpus, ratings, or testimony from every participant. Retrospective affection may be shaped by selection and memory. It does not resolve Brownell's reported distress, establish artistic quality, or show that all participants shared the same experience.
+The film profile is derived from two releases of the same structured oral-history account rather than the film itself, screenplay drafts, production files, contemporary reviews corpus, ratings, or testimony from every participant. Retrospective affection may be shaped by selection and memory. It does not resolve Brownell's reported distress, establish artistic quality, or show that all participants shared the same experience.
 
 ## What Changed
 

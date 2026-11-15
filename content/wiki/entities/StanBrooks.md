@@ -4,7 +4,8 @@ type: entity
 tags: [person, producer, television, film, public-policy]
 sources:
   - christmas-in-connecticut-christmas-in-connecticut
-last_updated: 2026-11-15
+  - a-very-terminator-christmas-a-very-terminator-christmas
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,23 +35,23 @@ Brooks's retrospective philosophy is practical rather than prestige-led: he pref
 
 ### Project development
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] attributes the remake concept, updated television-host premise, Brownell draft, and Dyan Cannon casting to Brooks.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] attribute the remake concept, updated television-host premise, Brownell draft, and Dyan Cannon casting to Brooks.
 
 ### Producing tradeoff
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] shows Brooks accepting rewrites and action expansion to retain Schwarzenegger within an approximately $3 million, 20-day production.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] show Brooks accepting rewrites and action expansion to retain Schwarzenegger within an approximately $3 million, 20-day production.
 
 ### Making over prestige
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] reports Brooks's preference for regularly producing television movies because his core goal was to make movies.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report Brooks's preference for regularly producing television movies because his core goal was to make movies.
 
 ### Friendship and public service
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] reports the continuing friendship, film-commission appointment, and later tax-credit advocacy.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report the continuing friendship, film-commission appointment, and later tax-credit advocacy.
 
 ## Qualifications
 
-This profile rests on one structured podcast summary rather than Brooks's complete credits, business records, correspondence, commission record, or independent policy analysis. Protecting Schwarzenegger's participation enabled the film but also displaced Brownell's original conception. The episode reports Brooks's role in tax-credit advocacy but does not establish that he caused the 2009 legislation or measure its effects.
+This profile rests on two releases of the same structured podcast account rather than Brooks's complete credits, business records, correspondence, commission record, or independent policy analysis. Protecting Schwarzenegger's participation enabled the film but also displaced Brownell's original conception. The episode reports Brooks's role in tax-credit advocacy but does not establish that he caused the 2009 legislation or measure its effects.
 
 ## What Changed
 

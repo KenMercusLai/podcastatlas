@@ -4,7 +4,8 @@ type: entity
 tags: [person, actor, director, politician, film]
 sources:
   - christmas-in-connecticut-christmas-in-connecticut
-last_updated: 2026-11-15
+  - a-very-terminator-christmas-a-very-terminator-christmas
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,23 +35,23 @@ The result did not establish him as a director. Crew recollections identify awkw
 
 ### Directing experiment
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] reports his unsolicited offer, TNT's approval, his fee, and the fixed Los Angeles production window.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report his unsolicited offer, TNT's approval, his fee, and the bounded Los Angeles production.
 
 ### Creative intervention
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] attributes the opening rescue, greater jeopardy, broader comedy, rewrites, and filmmaker consultations to his direction of the project.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] attribute the opening rescue, greater jeopardy, broader comedy, rewrites, and filmmaker consultations to his direction of the project.
 
 ### Execution and engagement
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] combines crew criticism of staging and take selection with recollections of his close attention during the 20-day shoot.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] combine crew criticism of staging and take selection with recollections of his close attention during the 20-day shoot.
 
 ### Enduring relationship
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] reports his continued friendship with Brooks and later appointment of Brooks to the California Film Commission.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] report his continued friendship with Brooks and later appointment of Brooks to the California Film Commission.
 
 ## Qualifications
 
-This profile is bounded to one structured podcast summary rather than a full biography, filmography, interview with Schwarzenegger, production archive, or assessment of his governorship. It supports neither a general verdict on his directing ability nor a causal claim that the film produced later California tax credits. Reported motives, advice, compensation, set conduct, and friendship are recollections filtered through the episode's participants and framing.
+This profile is bounded to two releases of the same structured podcast account rather than a full biography, filmography, interview with Schwarzenegger, production archive, or assessment of his governorship. It supports neither a general verdict on his directing ability nor a causal claim that the film produced later California tax credits. Reported motives, advice, compensation, set conduct, and friendship are recollections filtered through the episode's participants and framing.
 
 ## What Changed
 

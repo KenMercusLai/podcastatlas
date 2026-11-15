@@ -9,6 +9,7 @@ sources:
   - the-formula-the-formula
   - running-hot
   - malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song
+  - a-very-terminator-christmas-a-very-terminator-christmas
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -60,11 +61,11 @@ In [[malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfe
 
 ### Film-production oral history
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] uses interviews and scene-level criticism to reconstruct how Schwarzenegger changed and directed the remake.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] use interviews and scene-level criticism to reconstruct how Schwarzenegger changed and directed the remake.
 
 ### Process-value judgment
 
-- [[christmas-in-connecticut-christmas-in-connecticut]] has Naddaff-Hafrey call the film bad while locating its appeal in improbability, commitment, friendship, and the joy visible behind it.
+- [[christmas-in-connecticut-christmas-in-connecticut]] and [[a-very-terminator-christmas-a-very-terminator-christmas]] have Naddaff-Hafrey call the film bad while locating its appeal in improbability, commitment, friendship, and the joy visible behind it.
 
 ### Experimental investigation
 
@@ -80,7 +81,7 @@ In [[malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfe
 
 ## Qualifications
 
-The page is based on six structured episode summaries rather than a complete biography, bibliography, transcripts, production archives, legal records, experimental datasets, EMS studies, dispatch records, recordings, or interviews with collaborators. The trailer establishes Naddaff-Hafrey's hosting role for the Staten Island series but does not independently substantiate its national causal parallels. His *Christmas in Connecticut* interpretation reflects selected memories; the muffin experiment did not produce an indistinguishable copy; and the siren episode's risk and triage claims remain episode-attributed. The love-song account is autobiographical and does not establish one definitive origin, Julia's perspective, the collaborators' exact contributions, or the song's general effect on listeners.
+The page is based on seven source notes, including two releases of the same film-history episode, rather than a complete biography, bibliography, transcripts, production archives, legal records, experimental datasets, EMS studies, dispatch records, recordings, or interviews with collaborators. The trailer establishes Naddaff-Hafrey's hosting role for the Staten Island series but does not independently substantiate its national causal parallels. His *Christmas in Connecticut* interpretation reflects selected memories; the muffin experiment did not produce an indistinguishable copy; and the siren episode's risk and triage claims remain episode-attributed. The love-song account is autobiographical and does not establish one definitive origin, Julia's perspective, the collaborators' exact contributions, or the song's general effect on listeners.
 
 ## What Changed
 

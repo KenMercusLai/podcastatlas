@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Very Terminator Christmas](sources/a-very-terminator-christmas-a-very-terminator-christmas.md) — Earlier, longer release of Revisionist History's oral history of Arnold Schwarzenegger's flawed 1992 directing experiment and the value collaborators found in making it.
 - [Leading Through Crisis: Courage, Hope, and Compassion Under Pressure](sources/default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783-default-mp3-ywr3ahjkcgo-7d7aecc147a16363380202f9d2d200df-53688783.md) — Hidden Brain contrasts defensive self-protection with hopeful, calm, competent, and compassionate leadership in maritime, cave, and aviation emergencies.
 - [Wellness 2.0: Who Do You Want To Be?](sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184.md) — Hidden Brain and Ken Sheldon connect self-concordant goal selection, external control, value-based persistence, and post-commitment revision.
 - [Wellness 2.0: When It's All Too Much](sources/default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981.md) — Hidden Brain connects climate distress, collective efficacy, bounded action, pleasure, rest, and restorative silence to sustainable engagement with overwhelming problems.

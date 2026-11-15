@@ -23242,9 +23242,9 @@
       "url": "/wiki/entities/arnoldleese/"
     },
     "ArnoldSchwarzenegger": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
@@ -23252,9 +23252,16 @@
           "show": "Revisionist History",
           "title": "Christmas in Connecticut",
           "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        },
+        {
+          "episode_file": "A_Very_Terminator_Christmas [A_Very_Terminator_Christmas].md",
+          "key": "a-very-terminator-christmas-a-very-terminator-christmas",
+          "show": "Revisionist History",
+          "title": "A Very Terminator Christmas",
+          "url": "/wiki/sources/a-very-terminator-christmas-a-very-terminator-christmas/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/arnoldschwarzenegger/"
     },
     "ArousalCircuitSpecificity": {
@@ -32870,9 +32877,9 @@
       "url": "/wiki/entities/benmacintyre/"
     },
     "BenNaddaffHafrey": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
@@ -32915,6 +32922,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Breaks Down the Perfect Break Up Song",
           "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
+        },
+        {
+          "episode_file": "A_Very_Terminator_Christmas [A_Very_Terminator_Christmas].md",
+          "key": "a-very-terminator-christmas-a-very-terminator-christmas",
+          "show": "Revisionist History",
+          "title": "A Very Terminator Christmas",
+          "url": "/wiki/sources/a-very-terminator-christmas-a-very-terminator-christmas/"
         }
       ],
       "updated": "2026-11-16",
@@ -54450,9 +54464,9 @@
       "url": "/wiki/entities/christinedepizan/"
     },
     "ChristmasInConnecticut1992": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
@@ -54460,9 +54474,16 @@
           "show": "Revisionist History",
           "title": "Christmas in Connecticut",
           "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        },
+        {
+          "episode_file": "A_Very_Terminator_Christmas [A_Very_Terminator_Christmas].md",
+          "key": "a-very-terminator-christmas-a-very-terminator-christmas",
+          "show": "Revisionist History",
+          "title": "A Very Terminator Christmas",
+          "url": "/wiki/sources/a-very-terminator-christmas-a-very-terminator-christmas/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/christmasinconnecticut1992/"
     },
     "ChristmasTruce1914": {
@@ -230960,9 +230981,9 @@
       "url": "/wiki/concepts/outcomedrivenaiworkflow/"
     },
     "OutcomeIndependentCreativePractice": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5595688842 [SCIM5595688842].md",
@@ -230998,9 +231019,16 @@
           "show": "Revisionist History",
           "title": "Christmas in Connecticut",
           "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        },
+        {
+          "episode_file": "A_Very_Terminator_Christmas [A_Very_Terminator_Christmas].md",
+          "key": "a-very-terminator-christmas-a-very-terminator-christmas",
+          "show": "Revisionist History",
+          "title": "A Very Terminator Christmas",
+          "url": "/wiki/sources/a-very-terminator-christmas-a-very-terminator-christmas/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/outcomeindependentcreativepractice/"
     },
     "OutdoorFlowState": {
@@ -289961,9 +289989,9 @@
       "url": "/wiki/concepts/stalinistsalamitactics/"
     },
     "StanBrooks": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Christmas_in_Connecticut [Christmas_in_Connecticut].md",
@@ -289971,9 +289999,16 @@
           "show": "Revisionist History",
           "title": "Christmas in Connecticut",
           "url": "/wiki/sources/christmas-in-connecticut-christmas-in-connecticut/"
+        },
+        {
+          "episode_file": "A_Very_Terminator_Christmas [A_Very_Terminator_Christmas].md",
+          "key": "a-very-terminator-christmas-a-very-terminator-christmas",
+          "show": "Revisionist History",
+          "title": "A Very Terminator Christmas",
+          "url": "/wiki/sources/a-very-terminator-christmas-a-very-terminator-christmas/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/stanbrooks/"
     },
     "StandingGeneticVariation": {
