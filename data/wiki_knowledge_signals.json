@@ -36895,6 +36895,22 @@
       "updated": "2026-10-21",
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
+    "BrandonScott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/brandonscott/"
+    },
     "Brazil": {
       "episode_count": 12,
       "show_count": 6,
@@ -43823,9 +43839,9 @@
       "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
     },
     "CardiacSurgeryModalitySelection": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
@@ -43840,9 +43856,16 @@
           "show": "这病说来话长",
           "title": "VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲",
           "url": "/wiki/sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/cardiacsurgerymodalityselection/"
     },
     "CardinalCajetan": {
@@ -72439,6 +72462,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/davidhyam/"
+    },
+    "DavidKennedyCriminologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/davidkennedycriminologist/"
     },
     "DavidLinden": {
       "episode_count": 1,
@@ -108346,6 +108385,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/focustrainingtoolkit/"
+    },
+    "FocusedDeterrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/focuseddeterrence/"
     },
     "FocusedResearchOrganizations": {
       "episode_count": 1,
@@ -152046,6 +152101,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/institutionalfailurepunitivefantasy/"
     },
+    "InstitutionalInnovationAdoptionResistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/institutionalinnovationadoptionresistance/"
+    },
     "InstitutionalLegacyReinvention": {
       "episode_count": 1,
       "show_count": 1,
@@ -164609,6 +164680,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/johnpolidori/"
+    },
+    "JohnPuskas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/johnpuskas/"
     },
     "JohnRedmond": {
       "episode_count": 2,
@@ -194412,9 +194499,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -194422,6 +194509,13 @@
           "show": "Revisionist History",
           "title": "Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live",
           "url": "/wiki/sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada/"
+        },
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
         }
       ],
       "updated": "2026-11-15",
@@ -223866,6 +223960,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/operationblueskies/"
+    },
+    "OperationCeasefireBoston": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/operationceasefireboston/"
     },
     "OperationColdstore": {
       "episode_count": 1,
@@ -293650,6 +293760,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/teamagentmemory/"
+    },
+    "TeamBasedServiceDelivery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md",
+          "key": "wolfgang-s-law-part-two",
+          "show": "Revisionist History",
+          "title": "Wolfgang's Law - Part Two",
+          "url": "/wiki/sources/wolfgang-s-law-part-two/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/teambasedservicedelivery/"
     },
     "TeamRoleFitLeadership": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11234
+wiki_total_pages: 11237
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "TeamRoleFitLeadership"
     title: "Team Role-Fit Leadership"
     url: "/wiki/concepts/teamrolefitleadership/"
+  - key: "TeamBasedServiceDelivery"
+    title: "Team-Based Service Delivery"
+    url: "/wiki/concepts/teambasedservicedelivery/"
   - key: "TeasingBelongingBoundary"
     title: "Teasing Belonging Boundary"
     url: "/wiki/concepts/teasingbelongingboundary/"

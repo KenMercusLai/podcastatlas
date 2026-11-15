@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11234
+wiki_total_pages: 11237
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "FocusTrainingToolkit"
     title: "Focus Training Toolkit"
     url: "/wiki/concepts/focustrainingtoolkit/"
+  - key: "FocusedDeterrence"
+    title: "Focused Deterrence"
+    url: "/wiki/concepts/focuseddeterrence/"
   - key: "FocusedResearchOrganizations"
     title: "Focused Research Organizations"
     url: "/wiki/concepts/focusedresearchorganizations/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Wolfgang's Law - Part Two](sources/wolfgang-s-law-part-two.md) — Revisionist History compares minimally invasive bypass with focused deterrence to explain team-, identity-, and institution-level barriers to adopting promising methods.
 - [The Story of Stories](sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361.md) — Hidden Brain connects explanation's learning value to overconfidence, rival-account correction, and a carefully bounded mood-system frame for depression.
 - [The $5 Billion Effort to Help Secure the World’s Shared Software](sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared.md) — Sponsored Revisionist History episode on Project Lightwell, open-source maintenance incentives, AI-accelerated vulnerability discovery, and pooled repair.
 - [Dropping the Mask](sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641.md) — Hidden Brain and Kenji Yoshino distinguish conversion, passing, and covering, then test identity demands through harm, competing values, voluntary disclosure, and belonging.
@@ -5075,6 +5076,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [David M. Kennedy](entities/DavidKennedyCriminologist.md) — Criminologist and focused-deterrence strategist associated with Boston's Operation Ceasefire and Baltimore's delayed adoption.
+- [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
+- [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
+- [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
 - [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented here through explanation, reasoning, and qualified depression-reframing branches.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
@@ -19279,6 +19284,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Focused Deterrence](concepts/FocusedDeterrence.md) — Violence-reduction strategy combining narrow network targeting, direct communication, practical support, community legitimacy, and credible enforcement.
+- [Team-Based Service Delivery](concepts/TeamBasedServiceDelivery.md) — Operating model in which specialized actors share information, authority, timing, and accountability for an outcome.
+- [Institutional Innovation Adoption Resistance](concepts/InstitutionalInnovationAdoptionResistance.md) — Gap between promising evidence and the skills, identity, authority, coordination, and capacity changes required for adoption.
 - [Explanation-Driven Sense-Making](concepts/ExplanationDrivenSensemaking.md) — Construction of causal or functional models for prediction, action, learning, and communication.
 - [Self-Explanation Knowledge Calibration](concepts/SelfExplanationKnowledgeCalibration.md) — Detailed explanation practice that reorganizes knowledge and exposes unsupported confidence.
 - [Illusion of Explanatory Depth](concepts/IllusionOfExplanatoryDepth.md) — Familiarity-based confidence that exceeds demonstrated mechanistic understanding.

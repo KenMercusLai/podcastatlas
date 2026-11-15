@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14111
+wiki_total_pages: 14115
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "DavidLloydGeorge"
     title: "David Lloyd George"
     url: "/wiki/entities/davidlloydgeorge/"
+  - key: "DavidKennedyCriminologist"
+    title: "David M. Kennedy"
+    url: "/wiki/entities/davidkennedycriminologist/"
   - key: "DavidMancuso"
     title: "David Mancuso"
     url: "/wiki/entities/davidmancuso/"

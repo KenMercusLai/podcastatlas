@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11234
+wiki_total_pages: 11237
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "InstitutionalInformationAdvantage"
     title: "Institutional Information Advantage / 机构信息优势"
     url: "/wiki/concepts/institutionalinformationadvantage/"
+  - key: "InstitutionalInnovationAdoptionResistance"
+    title: "Institutional Innovation Adoption Resistance"
+    url: "/wiki/concepts/institutionalinnovationadoptionresistance/"
   - key: "InstitutionalInvestorProcessDiscipline"
     title: "Institutional Investor Process Discipline / 机构投资者流程纪律"
     url: "/wiki/concepts/institutionalinvestorprocessdiscipline/"
