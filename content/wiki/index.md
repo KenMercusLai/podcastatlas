@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What Art Does For Your Brain](sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403.md) — Hidden Brain and Daisy Fancourt connect arts participation with emotion regulation, social support, multimodal stimulation, and a sustainable practice bounded by observational evidence.
 - [The Fines](sources/the-fines-the-fines.md) — Revisionist History examines the Fresh Kills fines as a conflict among forensic thresholds, burial dignity, family agency, and public memory after September 11.
 - [A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War](sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey.md) — Revisionist History and The Dollop connect Staten Island's commercial Loyalism, Billopp's kidnappings, occupation abuse, Patriot predation, and changing allegiance.
 - [President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America](sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel.md) — Revisionist History conversation on Reconstruction's rollback, constitutional afterlife, public memory, representation, and reversible democratic progress.
@@ -5085,6 +5086,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
 
 ## Entities
+- [Daisy Fancourt](entities/DaisyFancourt.md) — Psychobiologist connecting arts participation with emotional, social, physiological, and cognitive health pathways.
 - [Diane and Kurt Horning](entities/DianeAndKurtHorning.md) — Parents and family advocates seeking dignified relocation of possible September 11 remains from Fresh Kills.
 - [WTC Families for a Proper Burial](entities/WTCFamiliesForAProperBurial.md) — Family organization contesting the permanent placement of the World Trade Center fines at Fresh Kills.
 - [Fresh Kills Recovery Operation](entities/FreshKillsRecoveryOperation.md) — World Trade Center crime-scene sorting effort whose fines category remains morally and legally disputed.
@@ -5119,7 +5121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
-- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented here through explanation, reasoning, and qualified depression-reframing branches.
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented here through explanation, qualified depression reframing, and arts-and-health research.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
@@ -19323,6 +19325,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe: The Secrets of Strong Connection in a Lonely World](entities/VibeAdamGrantBook.md) — Adam Grant book framing relationships through allies, pals, companions, built compatibility, and structured connection.
 
 ## Concepts
+- [Arts-Based Health Practice](concepts/ArtsBasedHealthPractice.md) — Multi-pathway frame joining artistic engagement with emotion, attention, movement, cognition, sensory input, and social connection without treating art as universal therapy.
+- [Aesthetic Distance as Emotion Practice](concepts/AestheticDistanceEmotionPractice.md) — Protected artistic frame for approaching difficult emotion, bounded by rumination, triggering, and clinical escalation risks.
+- [Multimodal Arts and Cognitive Reserve](concepts/MultimodalArtsCognitiveReserve.md) — Qualified hypothesis that sustained artistic activity may build adaptable cognition through coordinated sensory, motor, emotional, and memory demands.
+- [Sustainable Arts Practice](concepts/SustainableArtsPractice.md) — Achievable routine combining attentive appreciation, active making, novelty, and social support without a talent gate.
 - [Ambiguous Remains Burial Ethics](concepts/AmbiguousRemainsBurialEthics.md) — Framework for caring for material that may contain commingled human remains but cannot be individually identified.
 - [Forensic Identification-Closure Boundary](concepts/ForensicIdentificationClosureBoundary.md) — Distinguishes fragment identification from operational, legal, emotional, and collective closure.
 - [Loyalist Support Erosion under Occupation](concepts/LoyalistSupportErosionUnderOccupation.md) — Process by which occupying forces lose allied civilian support through extraction, abuse, and institutional failure.
@@ -23641,7 +23647,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Clinical Music Therapy](concepts/ClinicalMusicTherapy.md) — Trained, goal-directed music intervention separated from wellness listening by assessment, treatment goals, therapist relationship, and professional boundaries.
 - [Music Memory Cueing](concepts/MusicMemoryCueing.md) — Use of familiar songs, lyrics, rhythm, and musical recall to support older adults' memory, identity, confidence, and life-story expression.
 - [Therapeutic Musical Synchrony](concepts/TherapeuticMusicalSynchrony.md) — Music-therapy interaction pattern where the therapist first follows the client's rhythm or movement, then builds attention, agency, and participation.
-- [Music-Based Emotion Regulation](concepts/MusicBasedEmotionRegulation.md) — Mood-matched and gradually shifting music use for ordinary emotion regulation, with severe distress kept inside professional-care boundaries.
+- [Music-Based Emotion Regulation](concepts/MusicBasedEmotionRegulation.md) — Deliberate music use for matching, shifting, or safely approaching emotion, with rumination and clinical-care boundaries.
 - [Music Affective Communication](concepts/MusicAffectiveCommunication.md) — neuroscience frame separating semantic meaning from emotional feeling in speech, singing, music, and affective sound.
 - [策略性发怒威慑 / Strategic Anger Deterrence](concepts/StrategicAngerDeterrence.md) — Boundary tactic where visible, bounded anger makes a private threat public, attributable, and harder to execute quietly.
 - [历史先例式危机规划 / Historical Precedent Crisis Planning](concepts/HistoricalPrecedentCrisisPlanning.md) — Crisis-planning pattern where historical cases are searched for operational sequences, legitimacy, and control points.

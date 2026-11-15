@@ -10606,6 +10606,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/aesopbeauty/"
     },
+    "AestheticDistanceEmotionPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/aestheticdistanceemotionpractice/"
+    },
     "Aethelflaed": {
       "episode_count": 1,
       "show_count": 1,
@@ -23470,6 +23486,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/artisticfeedbackboundary/"
+    },
+    "ArtsBasedHealthPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/artsbasedhealthpractice/"
     },
     "ArtsCareerFormation": {
       "episode_count": 2,
@@ -70242,6 +70274,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/daisychristodoulou/"
+    },
+    "DaisyFancourt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/daisyfancourt/"
     },
     "DaizheHuajiaoQuShangchao": {
       "episode_count": 1,
@@ -137152,9 +137200,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -137162,6 +137210,13 @@
           "show": "Hidden Brain",
           "title": "The Story of Stories",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
         }
       ],
       "updated": "2026-11-15",
@@ -212012,6 +212067,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "MultimodalArtsCognitiveReserve": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/multimodalartscognitivereserve/"
+    },
     "MultimodalFunctionCenteredPainCare": {
       "episode_count": 2,
       "show_count": 1,
@@ -212600,9 +212671,9 @@
       "url": "/wiki/concepts/musicautonomicentrainment/"
     },
     "MusicBasedEmotionRegulation": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
@@ -212617,9 +212688,16 @@
           "show": "Huberman Lab",
           "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
           "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/musicbasedemotionregulation/"
     },
     "MusicIndustryAIResponse": {
@@ -290995,6 +291073,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/concepts/sustainabilityascompetitivestrategy/"
+    },
+    "SustainableArtsPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
+          "key": "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403",
+          "show": "Hidden Brain",
+          "title": "What Art Does For Your Brain",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/sustainableartspractice/"
     },
     "SustainableBusinessOverScale": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1640
+topic_total_pages: 1641
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -178,6 +178,9 @@ topic_concepts:
   - key: "ArtificialHeartBridgeTherapy"
     title: "Artificial Heart Bridge Therapy"
     url: "/wiki/concepts/artificialheartbridgetherapy/"
+  - key: "ArtsBasedHealthPractice"
+    title: "Arts-Based Health Practice"
+    url: "/wiki/concepts/artsbasedhealthpractice/"
   - key: "AsilomarConferenceGovernance"
     title: "Asilomar Conference Governance"
     url: "/wiki/concepts/asilomarconferencegovernance/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11254
+wiki_total_pages: 11258
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "MultimodalAGIStrategy"
     title: "Multimodal AGI Strategy / 多模态 AGI 路线"
     url: "/wiki/concepts/multimodalagistrategy/"
+  - key: "MultimodalArtsCognitiveReserve"
+    title: "Multimodal Arts and Cognitive Reserve"
+    url: "/wiki/concepts/multimodalartscognitivereserve/"
   - key: "MultimodalFunctionCenteredPainCare"
     title: "Multimodal Function-Centered Pain Care"
     url: "/wiki/concepts/multimodalfunctioncenteredpaincare/"

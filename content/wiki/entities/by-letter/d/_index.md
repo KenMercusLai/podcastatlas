@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14145
+wiki_total_pages: 14146
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "DaisyChristodoulou"
     title: "Daisy Christodoulou"
     url: "/wiki/entities/daisychristodoulou/"
+  - key: "DaisyFancourt"
+    title: "Daisy Fancourt"
+    url: "/wiki/entities/daisyfancourt/"
   - key: "DaliContainerShip"
     title: "Dali Container Ship"
     url: "/wiki/entities/dalicontainership/"

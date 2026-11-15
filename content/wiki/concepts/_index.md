@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11254
+wiki_total_pages: 11258
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "AerosolCoolingMasking"
     title: "Aerosol Cooling Masking"
     url: "/wiki/concepts/aerosolcoolingmasking/"
+  - key: "AestheticDistanceEmotionPractice"
+    title: "Aesthetic Distance as Emotion Practice"
+    url: "/wiki/concepts/aestheticdistanceemotionpractice/"
   - key: "AffectionDrivenSuccessionRisk"
     title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
     url: "/wiki/concepts/affectiondrivensuccessionrisk/"
@@ -2777,6 +2780,9 @@ wiki_pages:
   - key: "ArtsCareerFormation"
     title: "Arts Career Formation / 艺术职业形成"
     url: "/wiki/concepts/artscareerformation/"
+  - key: "ArtsBasedHealthPractice"
+    title: "Arts-Based Health Practice"
+    url: "/wiki/concepts/artsbasedhealthpractice/"
   - key: "ArtworkValueProvenanceAndAttention"
     title: "Artwork Value, Provenance, and Attention / 艺术品价值、来源与注意力"
     url: "/wiki/concepts/artworkvalueprovenanceandattention/"
