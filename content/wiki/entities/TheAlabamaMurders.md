@@ -10,6 +10,7 @@ sources:
   - the-alabama-murders-part-4-the-protocol
   - the-alabama-murders-part-3-a-peculiar-institution
   - the-alabama-murders-part-2-coon-dog-cemetery-road
+  - the-alabama-murders-part-1-the-true-church
 knowledge_schema: synthesis-v1
 last_updated: 2026-11-15
 ---
@@ -18,25 +19,31 @@ last_updated: 2026-11-15
 
 ## Overview
 
-*The Alabama Murders* is a [[RevisionistHistory]] series that develops from the planned assault and killing of [[ElizabethSennett]] into an investigation of disputed culpability, false narrative closure, Alabama capital sentencing, execution methods, institutional secrecy, trauma, and repair.
+*The Alabama Murders* is a seven-part [[RevisionistHistory]] series that develops from the religious and personal setting around [[CharlesSennett]] and the killing of [[ElizabethSennett]] into an investigation of disputed culpability, false narrative closure, Alabama capital sentencing, execution methods, institutional secrecy, trauma, and repair.
 
 ## Current Profile
 
-The bounded sources now cover Parts 2-7 and a later interview. Part 2 reconstructs the recruitment and staged-burglary plan, the assault, investigator suspicion of [[CharlesSennett]], and the arrests and confessions. It also establishes [[TrueCrimeResolutionFalseClosure]]: a solved mystery can begin rather than end a cascade of family and institutional harm. Part 3 then reexamines the murder trial: the recovered knife did not fit the fatal chest wounds, the episode's timeline places [[JohnForrestParker]] and [[KennethSmith]] away before those wounds, and testimony about Charles's abuse supports an alternative-assailant theory without independently proving it. The series follows separate jury recommendations for life, judicial overrides imposing death, and Alabama's prospective-only repeal.
+The bounded sources now cover Parts 1-7 and a later interview. Part 1 opens with [[KatePorterfield]]'s account of Smith beginning with family love after a failed execution, then moves backward to the Shoals [[ChurchOfChrist]] and Sennett's concealed affairs, psychiatric crisis, debt, abuse, and fear of losing another ministry. Its [[ReligiousShameGraceGap]] and [[HumanFailureCascade]] frames treat shame, weak practical grace, and concealment as possible early pressures without making them sufficient causes.
+
+Part 2 reconstructs the recruitment and staged-burglary plan, the assault, investigator suspicion of Sennett, and the arrests and confessions. It also establishes [[TrueCrimeResolutionFalseClosure]]: a solved mystery can begin rather than end a cascade of family and institutional harm. Part 3 then reexamines the murder trial: the recovered knife did not fit the fatal chest wounds, the episode's timeline places [[JohnForrestParker]] and [[KennethSmith]] away before those wounds, and testimony about Sennett's abuse supports an alternative-assailant theory without independently proving it. The series follows separate jury recommendations for life, judicial overrides imposing death, and Alabama's prospective-only repeal.
 
 Parts 4-7 move from Parker's execution and [[TomPerryJr]]'s sustained presence to lethal injection's untested origin, pulmonary injury, Smith's failed first execution, childhood and execution trauma, and Alabama's first-use nitrogen protocol. Across these stages, the project tests whether institutions correct earlier error or instead convert disputed evidence, displaced jury judgment, hidden procedure, and avoidable suffering into settled legality and official success.
 
 ## Key Characteristics
 
-- Reconstructs a planned assault and disputed murder conviction while separating apparent crime resolution from continuing family, legal, and institutional consequences.
+- Begins with the social, theological, psychological, and relational pressures concealed behind a respected minister's public role.
+- Reconstructs a planned assault and disputed murder conviction while separating apparent crime resolution from continuing consequences.
 - Separates guilt verdicts, jury sentencing recommendations, judicial overrides, and later execution procedure.
 - Uses individual cases, medical evidence, access failures, and hidden qualifications to test whether procedural calm represents competence.
 - Connects execution methods to courts, bureaucracy, racial history, secrecy, trauma, care, and non-retroactive reform.
 - Develops an abolitionist argument that survives hypothetical procedural perfection.
 - Preserves Sennett and her family's grief while examining harm imposed on condemned people and those around them.
-- Rejects a strict victim-perpetrator binary without treating trauma or institutional failure as automatic exculpation.
 
 ## Evidence
+
+### Religious setting and concealed crisis
+
+- [[the-alabama-murders-part-1-the-true-church]] connects the Shoals Church of Christ setting, Sennett's ministerial rise and collapse, shame, grace, debt, abuse, and concealment to the series' opening failure-cascade frame.
 
 ### Crime origin and false closure
 
@@ -63,15 +70,13 @@ Parts 4-7 move from Parker's execution and [[TomPerryJr]]'s sustained presence t
 
 ## Qualifications
 
-The profile derives from related structured summaries rather than transcripts, production archives, police and confession files, complete court and legislative records, family testimony, medical files, protocols, or a developed defense of Alabama's actions and capital punishment. Part 2's motive account and investigator suspicions do not independently prove Charles's role. Part 3's weapon and timing case materially strengthens the reasonable-doubt account but does not independently establish the identity of the fatal assailant or erase admitted participation. Childhood trauma does not determine later violence, and reported autopsy findings, execution experiences, animal evidence, and witness movement do not independently resolve awareness, pain, staff competence, or legality.
+The profile derives from related structured summaries rather than transcripts, production archives, church and financial records, police and confession files, complete court and legislative records, family testimony, medical files, protocols, or a developed defense of Alabama's actions and capital punishment. Part 1's shame-and-grace interpretation and Part 2's motive account do not establish why Sennett acted or make religion or mental illness causes of violence. Part 3's weapon and timing case materially strengthens the reasonable-doubt account but does not independently establish the fatal assailant or erase admitted participation. Childhood trauma does not determine later violence, and reported autopsy findings, execution experiences, animal evidence, and witness movement do not independently resolve awareness, pain, staff competence, or legality.
 
 ## What Changed
 
-- Extended the series backward to the recruitment, planned assault, initial investigation, and immediate family loss.
-- Added false crime-story closure and the failure cascade as organizing ideas for the later institutional history.
-- Extended the series backward from punishment into the physical evidence and public assumptions behind Parker's conviction.
-- Added domestic abuse and an alternative-assailant theory while preserving its circumstantial, episode-scoped status.
-- Added non-retroactive repeal and failed resentencing as a separate correction failure after judicial override.
+- Completed coverage of Parts 1-7 by adding the Shoals religious setting and Sennett's concealed personal collapse.
+- Distinguished religious shame, practical grace, mental illness, debt, and abuse as interacting context rather than a single causal explanation.
+- Expanded the failure cascade from post-crime consequences to the pressures and missed interventions preceding the murder.
 
 ## Relationships
 
@@ -86,4 +91,7 @@ The profile derives from related structured summaries rather than transcripts, p
 - [[NitrogenHypoxiaExecutionRisk]] - first-use method and protocol uncertainty examined in the finale.
 - [[FailedExecutionTrauma]] - clinical framework developed through Smith's survival of the first attempt.
 - [[TrueCrimeResolutionFalseClosure]] - narrative framework separating solved mystery from repaired harm.
+- [[ChurchOfChrist]] - religious community whose gifts and pressures form the series' opening setting.
+- [[ReligiousShameGraceGap]] - Part 1 framework for discipline without a trusted route to confession and repair.
+- [[HumanFailureCascade]] - organizing model for compounding failures of character, justice, and compassion.
 - [[TomPerryJr]] - prison minister whose sustained accompaniment supplies the series' care framework.

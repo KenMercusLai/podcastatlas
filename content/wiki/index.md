@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Alabama Murders - Part 1: The True Church](sources/the-alabama-murders-part-1-the-true-church.md) — Revisionist History opens the series through the Shoals Church of Christ, Charles Sennett's concealed collapse, religious shame and grace, and a human failure cascade.
 - [The Alabama Murders - Part 2: Coon Dog Cemetery Road](sources/the-alabama-murders-part-2-coon-dog-cemetery-road.md) — Revisionist History reconstructs the planned Sennett assault, investigator suspicion of Charles, and the false closure of a crime whose consequences continued for decades.
 - [The Alabama Murders - Part 3: A Peculiar Institution](sources/the-alabama-murders-part-3-a-peculiar-institution.md) — Revisionist History reexamines Parker's murder conviction through weapon and timing evidence, then traces judicial override, prospective repeal, and failed retroactive repair.
 - [EP97 特朗普的期中考试，一场 120 亿美元的溃败](sources/lqhxgskquudxpffa0qixn6o25rfi.md) — 一劳永逸 connects household costs and the reported Democratic midterm sweep to divided-government constraints, political-risk valuation, AI campaign content, prediction-market integrity, and investment-commitment execution.
@@ -5125,6 +5126,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Charles Sennett](entities/CharlesSennett.md) — Minister suspected of arranging his wife's assault and later advanced by the series as the possible fatal assailant.
+- [Church of Christ](entities/ChurchOfChrist.md) — Christian tradition presented through its Shoals community, simple worship, biblical seriousness, belonging, discipline, and fear of exclusion.
+- [Lee Camp](entities/LeeCamp.md) — Theologian whose insider account joins Church of Christ formation and belonging to criticism of certainty, exclusion, shame, and weak practical grace.
+- [Grant Asbell](entities/GrantAsbell.md) — Shoals minister recalling the Sennett allegations, fear of damnation, and resistance to grace-centered preaching.
 - [Ken Paxton](entities/KenPaxton.md) — Texas Republican figure used by the episode as a candidate-quality, endorsement, and party-accountability case.
 - [Liliana Segura](entities/LilianaSegura.md) — Intercept journalist examining capital punishment through execution witnessing, legal institutions, and racial history.
 - [Kenneth Smith](entities/KennethSmith.md) — Alabama capital defendant whose childhood trauma, failed lethal-injection attempt, and nitrogen-hypoxia case connect developmental harm to hidden execution procedure.
@@ -19468,6 +19472,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [True-Crime Resolution False Closure](concepts/TrueCrimeResolutionFalseClosure.md) — Narrative error of treating a solved crime as restored order while family and institutional harms continue.
+- [Human Failure Cascade](concepts/HumanFailureCascade.md) — Sequence in which personal, institutional, justice, and compassion failures amplify one another without making later harm inevitable.
+- [Religious Shame–Grace Gap](concepts/ReligiousShameGraceGap.md) — Strong discipline without an equally credible route to confession, forgiveness, continued belonging, and repair.
 - [Judicial Override in Capital Sentencing](concepts/JudicialOverrideCapitalSentencing.md) — Alabama case study separating jury judgment, judicial displacement, prospective repeal, and retroactive repair.
 - [Political Risk-Premium Valuation](concepts/PoliticalRiskPremiumValuation.md) — How tariffs, subsidies, regulation, and divided-government uncertainty affect expected cash flow, discount rates, and sector dispersion.
 - [Medicalized Execution Opacity](concepts/MedicalizedExecutionOpacity.md) — Clinical appearance and restricted observation make execution seem controlled while hiding competence, failure, and experienced suffering.

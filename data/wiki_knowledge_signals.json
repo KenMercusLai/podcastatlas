@@ -48547,9 +48547,9 @@
       "url": "/wiki/entities/charlesponzi/"
     },
     "CharlesSennett": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_3_A_Peculiar_Institution [The_Alabama_Murders_-_Part_3_A_Peculiar_Institution].md",
@@ -48564,6 +48564,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 2: Coon Dog Cemetery Road",
           "url": "/wiki/sources/the-alabama-murders-part-2-coon-dog-cemetery-road/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
         }
       ],
       "updated": "2026-11-15",
@@ -54692,6 +54699,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/churchculturalmemory/"
+    },
+    "ChurchOfChrist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/churchofchrist/"
     },
     "CicelyGemmell": {
       "episode_count": 1,
@@ -126072,6 +126095,22 @@
       "updated": "2026-11-06",
       "url": "/wiki/concepts/grandtourculture/"
     },
+    "GrantAsbell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/grantasbell/"
+    },
     "GraphNeuralNetworks": {
       "episode_count": 1,
       "show_count": 1,
@@ -146630,6 +146669,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/humanextractionposture/"
+    },
+    "HumanFailureCascade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/humanfailurecascade/"
     },
     "HumanGeneEditingEthics": {
       "episode_count": 2,
@@ -176769,6 +176824,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/learningstylematchingboundary/"
+    },
+    "LeeCamp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/leecamp/"
     },
     "LeeHarveyOswald": {
       "episode_count": 5,
@@ -257881,6 +257952,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/religiousselfcastration/"
     },
+    "ReligiousShameGraceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/religiousshamegracegap/"
+    },
     "RemedialEducationTargeting": {
       "episode_count": 2,
       "show_count": 2,
@@ -299964,9 +300051,9 @@
       "url": "/wiki/entities/theaiceobook/"
     },
     "TheAlabamaMurders": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Understanding_the_Death_Penalty_Malcolm_Gladwell_on_The_Intercept_Briefing [Understanding_the_Death_Penalty_Malcolm_Glad.md",
@@ -300016,6 +300103,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 2: Coon Dog Cemetery Road",
           "url": "/wiki/sources/the-alabama-murders-part-2-coon-dog-cemetery-road/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
         }
       ],
       "updated": "2026-11-15",
@@ -308823,9 +308917,9 @@
       "url": "/wiki/concepts/truebutevasiveremonstrance/"
     },
     "TrueCrimeResolutionFalseClosure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Alabama_Murders_-_Part_2_Coon_Dog_Cemetery_Road [The_Alabama_Murders_-_Part_2_Coon_Dog_Cemetery_Road].md",
@@ -308833,6 +308927,13 @@
           "show": "Revisionist History",
           "title": "The Alabama Murders - Part 2: Coon Dog Cemetery Road",
           "url": "/wiki/sources/the-alabama-murders-part-2-coon-dog-cemetery-road/"
+        },
+        {
+          "episode_file": "The_Alabama_Murders_-_Part_1_The_True_Church [The_Alabama_Murders_-_Part_1_The_True_Church].md",
+          "key": "the-alabama-murders-part-1-the-true-church",
+          "show": "Revisionist History",
+          "title": "The Alabama Murders - Part 1: The True Church",
+          "url": "/wiki/sources/the-alabama-murders-part-1-the-true-church/"
         }
       ],
       "updated": "2026-11-15",

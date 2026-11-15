@@ -40015,3 +40015,13 @@ Core synthesis: arrest and confession can close a mystery without repairing its 
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | The Alabama Murders - Part 1: The True Church
+
+Added Part 1 of [[TheAlabamaMurders]], completing the wiki's coverage of the seven-part series. Created bounded profiles for the [[ChurchOfChrist]], [[LeeCamp]], and [[GrantAsbell]]; added [[HumanFailureCascade]] and [[ReligiousShameGraceGap]]; and resynthesized [[CharlesSennett]], the series, and [[TrueCrimeResolutionFalseClosure]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: the Shoals Church of Christ is presented as a source of love, intellectual formation, simplicity, discipline, and belonging that could also produce fear, exclusion, and overwhelming shame. Sennett's affairs, psychiatric crisis, debt, abuse, unstable behavior, and fear of losing another ministry formed a concealed personal collapse. The episode suggests that strict discipline without a trusted practical route to grace and repair may have intensified concealment, but it does not establish Sennett's internal reasoning or make religious culture or mental illness causes of later violence. Its failure-cascade frame preserves distinct failures of character, justice, and compassion without implying inevitability or equal responsibility. No settled factual contradiction was adopted. Medical history, congregational practice, relationships, debt, abuse, dialogue, doctrine, motive, and causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, church record, medical file, financial record, police file, or independent denominational history. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,001 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

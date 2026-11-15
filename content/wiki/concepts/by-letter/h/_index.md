@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11315
+wiki_total_pages: 11317
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "HumanExtractionPosture"
     title: "Human Extraction Posture / 人向自然索取的姿态"
     url: "/wiki/concepts/humanextractionposture/"
+  - key: "HumanFailureCascade"
+    title: "Human Failure Cascade"
+    url: "/wiki/concepts/humanfailurecascade/"
   - key: "HumanFlourishingProfit"
     title: "Human Flourishing Profit"
     url: "/wiki/concepts/humanflourishingprofit/"

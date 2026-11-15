@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14250
+wiki_total_pages: 14253
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1229,6 +1229,9 @@ wiki_pages:
   - key: "ChurchOfAmbrosia"
     title: "Church of Ambrosia"
     url: "/wiki/entities/churchofambrosia/"
+  - key: "ChurchOfChrist"
+    title: "Church of Christ"
+    url: "/wiki/entities/churchofchrist/"
   - key: "CIA"
     title: "CIA / Central Intelligence Agency / 中情局"
     url: "/wiki/entities/cia/"

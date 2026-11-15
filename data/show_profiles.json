@@ -943,7 +943,7 @@
       "earliest_episode_date": "2023-10-19",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 44,
+      "source_note_count": 45,
       "topic_matched_source_note_count": 16,
       "topics": [
         {
@@ -1008,6 +1008,13 @@
           "episode_count": 3
         },
         {
+          "key": "CharlesSennett",
+          "title": "Charles Sennett",
+          "url": "/wiki/entities/charlessennett/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "GuyMolinari",
           "title": "Guy Molinari",
           "url": "/wiki/entities/guymolinari/",
@@ -1018,13 +1025,6 @@
           "key": "JoelZivot",
           "title": "Joel Zivot",
           "url": "/wiki/entities/joelzivot/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "JohnForrestParker",
-          "title": "John Forrest Parker",
-          "url": "/wiki/entities/johnforrestparker/",
           "kind": "person",
           "episode_count": 3
         }

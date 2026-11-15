@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14250
+wiki_total_pages: 14253
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "GrahamWetzbarger"
     title: "Graham Wetzbarger"
     url: "/wiki/entities/grahamwetzbarger/"
+  - key: "GrantAsbell"
+    title: "Grant Asbell"
+    url: "/wiki/entities/grantasbell/"
   - key: "Gravity1Rocket"
     title: "Gravity-1 Rocket / 引力一号"
     url: "/wiki/entities/gravity1rocket/"
