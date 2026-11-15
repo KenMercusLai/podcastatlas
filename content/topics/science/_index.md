@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1658
+topic_total_pages: 1660
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3038,6 +3038,9 @@ topic_entities:
   - key: "GaryDonnelly"
     title: "Gary Donnelly"
     url: "/wiki/entities/garydonnelly/"
+  - key: "GaryKlein"
+    title: "Gary Klein"
+    url: "/wiki/entities/garyklein/"
   - key: "GarySteinberg"
     title: "Gary Steinberg"
     url: "/wiki/entities/garysteinberg/"
@@ -3194,6 +3197,9 @@ topic_entities:
   - key: "KellyLambert"
     title: "Kelly Lambert"
     url: "/wiki/entities/kellylambert/"
+  - key: "KennethDodge"
+    title: "Kenneth Dodge"
+    url: "/wiki/entities/kennethdodge/"
   - key: "KentaroFujita"
     title: "Kentaro Fujita"
     url: "/wiki/entities/kentarofujita/"

@@ -42511,6 +42511,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GaryKlein": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GaryStark": [
     {
       "key": "economics",
@@ -55739,6 +55746,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "KennethDodge": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "KennethStanley": [

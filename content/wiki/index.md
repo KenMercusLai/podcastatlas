@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Memorial Day, 2020 | Part 1](sources/memorial-day-2020-part-1-memorial-day-2020-part-1.md) — Revisionist History connects decision fixation, hostile-intent attribution, escalating medical warnings, and a prior recorded restraint to the preventable institutional failure behind George Floyd's death.
 - [Did I Really Do That?](sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014.md) — Hidden Brain and Saul Kassin on false-confession pathways, confession-driven evidence contamination, and transparent hypothesis-testing investigation.
 - [Memorial Day, 2020 | Part 2](sources/memorial-day-2020-part-2-memorial-day-2020-part-2.md) — Revisionist History connects mitigated speech, concentrated police misconduct, network spillover, and discipline barriers to the preventable institutional failure behind George Floyd's death.
 - [In Defense of PAW Patrol](sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol.md) — Revisionist History weighs predictable rescue as emotional scaffolding against lost imaginative exercise, then defends dependable collective service as a civic aspiration.
@@ -5144,6 +5145,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Gary Klein](entities/GaryKlein.md) — Decision-making specialist connecting fixation, disconfirming evidence, and deliberate analytical restart.
+- [Kenneth Dodge](entities/KennethDodge.md) — Psychologist connecting learned threat vigilance, hostile-intent attribution, and aggression regulation.
 - [Saul Kassin](entities/SaulKassin.md) — Psychologist connecting interrogation pressure, false-confession typology, evidentiary contamination, and investigation reform.
 - [George Floyd](entities/GeorgeFloyd.md) — Man whose fatal restraint anchors the episode's analysis of medical distress, failed intervention, and institutional accountability.
 - [Thomas Lane](entities/ThomasLane.md) — Rookie officer whose early warnings, deference, continued participation, and accountability make hierarchy explanatory but not exculpatory.
@@ -19540,6 +19543,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [Decision Fixation](concepts/DecisionFixation.md) — Persistence in an initial interpretation after cumulative evidence should trigger a deliberate analytical restart.
+- [Hostile-Intent Attribution](concepts/HostileIntentAttribution.md) — Learned tendency to read ambiguous behavior as threat, potentially adaptive in danger but harmful when generalized.
 - [False Confession Psychology](concepts/FalseConfessionPsychology.md) — Framework distinguishing voluntary, compliant, and internalized false admissions and the situational pressures that can produce them.
 - [Post-Confession Evidence Contamination](concepts/PostConfessionEvidenceContamination.md) — Process by which a confession can reshape witness memory, alibi support, forensic interpretation, and the apparent independence of later proof.
 - [Mitigated Speech](concepts/MitigatedSpeech.md) — Softened warning under hierarchy that can turn recognized emergency into an optional-sounding suggestion without erasing the duty to act.

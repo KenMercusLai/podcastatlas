@@ -75422,6 +75422,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/decisionactioncostasymmetry/"
     },
+    "DecisionFixation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_1 [Memorial_Day,_2020_Part_1].md",
+          "key": "memorial-day-2020-part-1-memorial-day-2020-part-1",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 1",
+          "url": "/wiki/sources/memorial-day-2020-part-1-memorial-day-2020-part-1/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/decisionfixation/"
+    },
     "DecisionGuardrailBypass": {
       "episode_count": 1,
       "show_count": 1,
@@ -78056,9 +78072,9 @@
       "url": "/wiki/entities/derekabbott/"
     },
     "DerekChauvin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
@@ -78066,6 +78082,13 @@
           "show": "Revisionist History",
           "title": "Memorial Day, 2020 | Part 2",
           "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        },
+        {
+          "episode_file": "Memorial_Day,_2020_Part_1 [Memorial_Day,_2020_Part_1].md",
+          "key": "memorial-day-2020-part-1-memorial-day-2020-part-1",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 1",
+          "url": "/wiki/sources/memorial-day-2020-part-1-memorial-day-2020-part-1/"
         }
       ],
       "updated": "2026-11-16",
@@ -119597,6 +119620,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/garyhirschberg/"
     },
+    "GaryKlein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_1 [Memorial_Day,_2020_Part_1].md",
+          "key": "memorial-day-2020-part-1-memorial-day-2020-part-1",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 1",
+          "url": "/wiki/sources/memorial-day-2020-part-1-memorial-day-2020-part-1/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/garyklein/"
+    },
     "GaryLineker": {
       "episode_count": 1,
       "show_count": 1,
@@ -122190,9 +122229,9 @@
       "url": "/wiki/entities/georgeeliot/"
     },
     "GeorgeFloyd": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Memorial_Day,_2020_Part_2 [Memorial_Day,_2020_Part_2].md",
@@ -122200,6 +122239,13 @@
           "show": "Revisionist History",
           "title": "Memorial Day, 2020 | Part 2",
           "url": "/wiki/sources/memorial-day-2020-part-2-memorial-day-2020-part-2/"
+        },
+        {
+          "episode_file": "Memorial_Day,_2020_Part_1 [Memorial_Day,_2020_Part_1].md",
+          "key": "memorial-day-2020-part-1-memorial-day-2020-part-1",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 1",
+          "url": "/wiki/sources/memorial-day-2020-part-1-memorial-day-2020-part-1/"
         }
       ],
       "updated": "2026-11-16",
@@ -143756,6 +143802,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/hostessbrands/"
+    },
+    "HostileIntentAttribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_1 [Memorial_Day,_2020_Part_1].md",
+          "key": "memorial-day-2020-part-1-memorial-day-2020-part-1",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 1",
+          "url": "/wiki/sources/memorial-day-2020-part-1-memorial-day-2020-part-1/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/hostileintentattribution/"
     },
     "HostileMediaEffect": {
       "episode_count": 2,
@@ -171846,6 +171908,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/kennedyfamilypoliticalformation/"
+    },
+    "KennethDodge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Memorial_Day,_2020_Part_1 [Memorial_Day,_2020_Part_1].md",
+          "key": "memorial-day-2020-part-1-memorial-day-2020-part-1",
+          "show": "Revisionist History",
+          "title": "Memorial Day, 2020 | Part 1",
+          "url": "/wiki/sources/memorial-day-2020-part-1-memorial-day-2020-part-1/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/kennethdodge/"
     },
     "KennethRogoff": {
       "episode_count": 1,
