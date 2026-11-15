@@ -9,7 +9,8 @@ sources:
   - 349-the-birth-of-the-united-states-part-3-glt9804967639
   - 348-the-boston-tea-party-part-2-glt5189620267
   - 347-the-american-revolution-part-1-glt3042850673
-last_updated: 2026-09-28
+  - a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,11 +18,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The American Revolution appears as a colonial rupture, civil conflict, and global imperial war whose victory depended on military endurance, institutional coordination, and French-backed diplomacy, and whose liberty gains were distributed unequally.
+The American Revolution appears as a colonial rupture, local civil conflict, and global imperial war whose outcome depended on military endurance, institutional coordination, foreign intervention, and unstable civilian allegiance, and whose liberty gains and wartime harms were distributed unequally.
 
 ## Current Profile
 
-The current synthesis begins with the [[SevenYearsWar|Seven Years' War]] settlement rather than inevitable separatism. Victory removed the French threat but left Britain with debt, frontier obligations, troops, and new administrative demands; the [[ProclamationLine1763|Proclamation Line]], customs enforcement, and taxation then activated an [[ImperialConstitutionalMismatch|imperial constitutional mismatch]] between parliamentary supremacy and colonial self-government. The Tea Act, [[BostonTeaParty|Boston Tea Party]], [[CoerciveActs|Coercive Acts]], and [[ContinentalCongress|First Continental Congress]] turned that dispute into coordinated resistance; [[LexingtonAndConcord|Lexington and Concord]] and [[BattleOfBunkerHill|Bunker Hill]] made armed conflict durable while many colonists still professed loyalty to George III. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding. Washington's survival strategy and French intervention carried the conflict to [[Yorktown]], widening political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
+The current synthesis begins with the [[SevenYearsWar|Seven Years' War]] settlement rather than inevitable separatism. Victory removed the French threat but left Britain with debt, frontier obligations, troops, and new administrative demands; the [[ProclamationLine1763|Proclamation Line]], customs enforcement, and taxation then activated an [[ImperialConstitutionalMismatch|imperial constitutional mismatch]] between parliamentary supremacy and colonial self-government. The Tea Act, [[BostonTeaParty|Boston Tea Party]], [[CoerciveActs|Coercive Acts]], and [[ContinentalCongress|First Continental Congress]] turned that dispute into coordinated resistance; [[LexingtonAndConcord|Lexington and Concord]] and [[BattleOfBunkerHill|Bunker Hill]] made armed conflict durable while many colonists still professed loyalty to George III. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding.
+
+[[StatenIsland]] now makes the revolution's local civil-war dimension concrete. Profitable Royal Navy trade and fear of rebellion's disruption supported strong early Loyalism, but the [[BritishOccupationOfStatenIsland|British occupation]] brought extraction, inflation, property and institutional destruction, and declining willingness to serve. Patriot raids and the 1780 invasion also brought looting, abduction, and enslavement, so [[LoyalistSupportErosionUnderOccupation|changing allegiance under occupation]] does not map cleanly onto moral innocence. Washington's survival strategy and French intervention carried the wider conflict to [[Yorktown]], widening political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
 
 ## Key Characteristics
 
@@ -30,7 +33,7 @@ The current synthesis begins with the [[SevenYearsWar|Seven Years' War]] settlem
 - Institutionalized through the [[ContinentalCongress|Continental Congress]] and the [[DeclarationOfIndependence|Declaration of Independence]].
 - Depended on [[StrategicEnduranceMilitaryCommand|strategic endurance military command]] as well as diplomatic breakthrough.
 - Turned on foreign support, especially the [[FrancoAmericanAlliance1778|Franco-American alliance]], and ended in recognition through the [[TreatyOfParis1783|Treaty of Paris]].
-- Combined a Continental campaign, Patriot-Loyalist civil war, and [[AmericanRevolutionGlobalWar|global imperial war]].
+- Combined a Continental campaign, locally variable Patriot-Loyalist civil war, civilian occupation, and [[AmericanRevolutionGlobalWar|global imperial war]].
 - Distributed liberty unevenly while British emancipation offers and revolutionary slaveholding exposed a fundamental slavery contradiction.
 
 ## Evidence
@@ -48,18 +51,22 @@ The current synthesis begins with the [[SevenYearsWar|Seven Years' War]] settlem
 - Valley Forge crisis: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] treats Valley Forge as a supply, disease, discipline, inoculation, training, and political-legitimacy crisis rather than only patriotic tableau.
 - Internationalization: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] argues that American victory required European support, and [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] adds that news of French recognition and alliance changed British priorities by making the war global.
 - Yorktown outcome: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says American and French land forces and French sea power trapped Cornwallis, producing an unrecoverable political blow even before formal peace.
+- Local Loyalism: [[a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey]] connects Staten Island's Royal Navy commerce, boycott resistance, and July 1776 royal enlistment to a materially intelligible Loyalist position.
+- Occupation and allegiance: [[a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey]] follows British theft, inflation, property and church destruction, failed courts, militia refusal, intelligence sharing, attacks on patrols, and celebration of evacuation.
+- Civilian harm across sides: [[a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey]] also reports Patriot and civilian looting, abduction of Black residents for sale, and the seizure of an enslaved man from Billopp's estate.
 - Distributed consequences: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] contrasts white male political gains and some abolitionist momentum with constrained women's rights, Native dispossession, Black Loyalist vulnerability, and return to slavery.
 - Slavery contradiction: [[348-the-boston-tea-party-part-2-glt5189620267]] introduces Dunmore's wartime freedom offer and contemporary British criticism of slaveholding revolutionaries; [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]], [[683-washington-hero-of-the-revolution-part-1-glt3752138067]], and [[350-the-triumph-of-george-washington-part-4-glt1619660676]] extend the problem through Franklin, Washington, Black service, abolitionism, and post-Yorktown re-enslavement.
 
 ## Qualifications
 
-The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, Quebec, Caribbean, western-frontier, and ordinary civilian experiences remain compressed. Claims about fiscal totals, the Great Awakening's causal weight, precise forces and casualties, British restraint, the decisive weight of Dunmore's proclamation, missed opportunities to destroy Washington, a peaceful imperial path, or alternative British commanders remain source-scoped or speculative.
+The sources provide broad podcast synthesis rather than a complete revolutionary history. Staten Island adds one detailed Loyalist and occupation case but cannot represent Loyalists or occupied civilians across the colonies; Native, Black, female, southern, naval, Quebec, Caribbean, western-frontier, and many ordinary civilian experiences remain compressed. Claims about fiscal totals, the Great Awakening's causal weight, precise forces and casualties, British restraint, the decisive weight of Dunmore's proclamation, missed opportunities to destroy Washington, a peaceful imperial path, alternative British commanders, or the relative causes of Staten Island's allegiance change remain source-scoped or speculative.
 
 ## What Changed
 
 - Extended the causal sequence backward from the Tea Act to the Seven Years' War settlement, frontier governance, debt, customs enforcement, and taxation.
 - Clarified that incompatible constitutional assumptions and material imperial costs interacted without making independence inevitable in 1770.
 - Added the Boston Massacre as a contested legal, racial, military, and propaganda precursor.
+- Added a local Loyalist and occupation case in which commerce, civilian predation, militia refusal, and resistance make allegiance contingent without sanitizing either side.
 
 ## Relationships
 
@@ -90,3 +97,7 @@ The sources provide broad podcast synthesis rather than a complete revolutionary
 - [[ImperialConstitutionalMismatch]] - conflict between parliamentary sovereignty and colonial consent.
 - [[PostwarImperialFiscalSecurityBind]] - structural mechanism connecting victory to intrusive administration.
 - [[BostonMassacre]] - prewar confrontation showing violence, propaganda, race, and legal process.
+- [[StatenIsland]] - local case showing economically grounded Loyalism and uneven wartime realignment.
+- [[ChristopherBillopp]] - Loyalist commander whose constancy outlasted his militia's willingness to serve.
+- [[BritishOccupationOfStatenIsland]] - occupation case connecting military dependence to civilian alienation.
+- [[LoyalistSupportErosionUnderOccupation]] - mechanism distinguishing withdrawal and resistance from automatic ideological conversion.

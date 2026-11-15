@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14136
+wiki_total_pages: 14142
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "TheDagda"
     title: "The Dagda / 达格达"
     url: "/wiki/entities/thedagda/"
+  - key: "TheDollop"
+    title: "The Dollop"
+    url: "/wiki/entities/thedollop/"
   - key: "TheDreamersAndI"
     title: "The Dreamers and I"
     url: "/wiki/entities/thedreamersandi/"

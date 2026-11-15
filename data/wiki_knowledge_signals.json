@@ -16392,9 +16392,9 @@
       "url": "/wiki/concepts/americanreligiouspersistence/"
     },
     "AmericanRevolution": {
-      "episode_count": 6,
-      "show_count": 1,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -16437,9 +16437,16 @@
           "show": "The Rest Is History",
           "title": "347: The American Revolution (Part 1)",
           "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        },
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/americanrevolution/"
     },
     "AmericanRevolutionGlobalWar": {
@@ -32330,6 +32337,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/benmacintyre/"
     },
+    "BenNaddaffHafrey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/bennaddaffhafrey/"
+    },
     "BenchmarkAdoptionDesign": {
       "episode_count": 1,
       "show_count": 1,
@@ -38344,6 +38367,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/britishmuseum/"
+    },
+    "BritishOccupationOfStatenIsland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/britishoccupationofstatenisland/"
     },
     "BritishPublicSchools": {
       "episode_count": 2,
@@ -53289,6 +53328,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/christofkoch/"
+    },
+    "ChristopherBillopp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/christopherbillopp/"
     },
     "ChristopherClark": {
       "episode_count": 1,
@@ -189562,6 +189617,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/loyalrefusallegitimacysignal/"
     },
+    "LoyalistSupportErosionUnderOccupation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/loyalistsupporterosionunderoccupation/"
+    },
     "LoyaltyCollateralDilemma": {
       "episode_count": 8,
       "show_count": 1,
@@ -214423,6 +214494,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/nathanbedfordforrest/"
+    },
+    "NathanielFitzRandolph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/nathanielfitzrandolph/"
     },
     "NathanielHerz": {
       "episode_count": 1,
@@ -284716,6 +284803,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/statelessexile/"
     },
+    "StatenIsland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/statenisland/"
+    },
     "StaticRankingDynamicPerformance": {
       "episode_count": 1,
       "show_count": 1,
@@ -296639,6 +296742,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/thedavincicode/"
+    },
+    "TheDollop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Dollop_Crossover_Ben_Naddaff-Hafrey_on_Staten_Island_and_the_Revolutionary_War [A_Dollop_Crossover_Ben_Naddaff-Hafrey_.md",
+          "key": "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey",
+          "show": "Revisionist History",
+          "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
+          "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/thedollop/"
     },
     "TheDreamersAndI": {
       "episode_count": 1,

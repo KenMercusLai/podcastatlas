@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11251
+wiki_total_pages: 11252
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "LoyalServiceMoralLiability"
     title: "Loyal Service Moral Liability / 忠臣事暴政的罪责"
     url: "/wiki/concepts/loyalservicemoralliability/"
+  - key: "LoyalistSupportErosionUnderOccupation"
+    title: "Loyalist Support Erosion under Occupation"
+    url: "/wiki/concepts/loyalistsupporterosionunderoccupation/"
   - key: "LoyaltyBeyondContract"
     title: "Loyalty Beyond Contract"
     url: "/wiki/concepts/loyaltybeyondcontract/"

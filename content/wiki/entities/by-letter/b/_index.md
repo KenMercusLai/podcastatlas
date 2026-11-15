@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14136
+wiki_total_pages: 14142
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "BenMacintyre"
     title: "Ben Macintyre / 本·麦金泰尔"
     url: "/wiki/entities/benmacintyre/"
+  - key: "BenNaddaffHafrey"
+    title: "Ben Naddaff-Hafrey"
+    url: "/wiki/entities/bennaddaffhafrey/"
   - key: "BenParr"
     title: "Ben Parr"
     url: "/wiki/entities/benparr/"
@@ -1256,6 +1259,9 @@ wiki_pages:
   - key: "BritishMuseum"
     title: "British Museum"
     url: "/wiki/entities/britishmuseum/"
+  - key: "BritishOccupationOfStatenIsland"
+    title: "British Occupation of Staten Island"
+    url: "/wiki/entities/britishoccupationofstatenisland/"
   - key: "BritishUnionOfFascists"
     title: "British Union of Fascists"
     url: "/wiki/entities/britishunionoffascists/"
