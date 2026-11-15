@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8.md) — LateTalk将黄仁勋被报道离职连接到英伟达接班、供应链与生态融资，并分析中国算力短缺、国产替代、芯片竞争和 token 分成模式，同时保留政治与市场预测的来源边界。
 - [Reconstruction: The Unfinished Promise](sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise.md) — Revisionist History follows Douglass, Johnson, and Schurz through the opening contest over suffrage, federal protection, congressional Reconstruction, and constitutional refounding.
 - [Frankenfood | The Mistakes Series](sources/frankenfood-the-mistakes-series-frankenfood-the-mistakes-series.md) — Revisionist History compares GMO backlash with cultivated-meat naming and tasting while preserving scale, safety, cost, regulation, and lifecycle gaps.
 - [Coming Soon: The Staten Island Problem](sources/coming-soon-the-staten-island-problem-coming-soon-the-staten-island-problem.md) — Revisionist History previews Staten Island's secession fight as a crisis of democratic belonging while treating its Giuliani and Trump parallels as a thesis for the full series.
@@ -18448,7 +18449,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [J.P. Morgan](entities/JPMorgan.md) — Financier linking reported 1907 market stabilization to the financial backing of Titanic.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced through market communication and later made Planet Money's central case for Fed independence under presidential pressure.
-- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder and AI-platform strategist whose latest source-reported resignation turns founder dependence into governance, succession, and export-policy credibility risk.
+- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder and AI-platform strategist whose source-reported resignation exposes product, supplier, ecosystem-credit, China-policy, and succession concentration.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jesse Livermore](entities/JesseLivermore.md) — Speculator and trend-following figure used to explain trading discipline, repeated bankruptcy, and market psychology.
@@ -18522,7 +18523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for episodes on AI programming, AI translation, podcast history, and display ergonomics.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
-- [Nvidia](entities/Nvidia.md) — AI semiconductor company used across valuation, infrastructure, embodied-world-model, and data-center cooling-pressure discussions.
+- [Nvidia](entities/Nvidia.md) — Full-stack AI infrastructure company now also examined through founder succession, supplier coordination, ecosystem finance, custom chips, and China compute constraints.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, GPT-5.6 release governance, ChatGPT, commerce, infrastructure, and AI-for-math competition.
 - [Open Claw](entities/OpenClaw.md) — Local-first personal-agent framework and category signal combining memory, skills, tools, messaging, delegated execution, and high-stakes permission and cost tradeoffs.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
@@ -19360,6 +19361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Memnon of Rhodes](entities/MemnonOfRhodes.md) — Persian-side commander using fortification, mercenaries, naval mobility, and rear operations against Alexander.
 
 ## Concepts
+- [Token Revenue-Sharing Compute](concepts/TokenRevenueSharingCompute.md) — Light-asset arrangement in which a compute provider serves a model through an approved channel and shares token revenue with the model company.
 - [Cultivated Meat](concepts/CultivatedMeat.md) — Animal-cell food technology whose proposed welfare and environmental benefits remain distinct from its naming, tasting, scale, and evidence challenges.
 - [Subsidized Private Land Reciprocity](concepts/SubsidizedPrivateLandReciprocity.md) — Principle that exceptional public advantages for private land can justify proportionate, enforceable public benefit or access.
 - [Gradual Ownership Change](concepts/GradualOwnershipChange.md) — Problem of cumulative ownership replacement that never crosses a reassessment threshold in one transaction.

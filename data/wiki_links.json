@@ -4835,6 +4835,10 @@
     "title": "77.她是自由的野狗，她是法拉奇",
     "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
   },
+  "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8": {
+    "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+    "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+  },
   "78-statues-parliament-square-glt3870229260": {
     "title": "78. Statues: Parliament Square",
     "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
@@ -93246,6 +93250,10 @@
   "TokenRevenueBuybackModel": {
     "title": "Token Revenue Buyback Model",
     "url": "/wiki/concepts/tokenrevenuebuybackmodel/"
+  },
+  "TokenRevenueSharingCompute": {
+    "title": "Token Revenue-Sharing Compute",
+    "url": "/wiki/concepts/tokenrevenuesharingcompute/"
   },
   "TokenTaxOnAI": {
     "title": "Token Tax On AI",

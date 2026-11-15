@@ -8342,6 +8342,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "78-statues-parliament-square-glt3870229260": [
     {
       "key": "history",
@@ -93651,6 +93658,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TokenRevenueSharingCompute": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TokenTaxOnAI": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11272
+wiki_total_pages: 11273
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "TokenRevenueBuybackModel"
     title: "Token Revenue Buyback Model"
     url: "/wiki/concepts/tokenrevenuebuybackmodel/"
+  - key: "TokenRevenueSharingCompute"
+    title: "Token Revenue-Sharing Compute"
+    url: "/wiki/concepts/tokenrevenuesharingcompute/"
   - key: "TokenTaxOnAI"
     title: "Token Tax On AI"
     url: "/wiki/concepts/tokentaxonai/"

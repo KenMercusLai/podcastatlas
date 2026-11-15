@@ -38,7 +38,8 @@ sources:
   - e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149
   - all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255
   - all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520
-last_updated: 2026-10-05
+  - 77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8
+last_updated: 2026-11-15
 ---
 
 # Nvidia
@@ -47,7 +48,7 @@ last_updated: 2026-10-05
 Nvidia is a semiconductor and computing-platform company whose wiki profile has expanded from GPUs and CUDA into complete AI infrastructure. Across the sources it supplies accelerators, CPUs, networking, memory-linked systems, simulation, models, software, edge computers, and financing relationships that connect data centers to robotics, vehicles, healthcare, and physical AI.
 
 ## Current Profile
-Nvidia's strongest current position is a full-stack ecosystem: general-purpose accelerated hardware, [[CUDA]], rack-scale systems, developer adoption, cloud availability, and domain platforms reinforce one another. The latest Huang interview calls the result an “AI factory” and argues that reasoning and agents increase both compute intensity and workload diversity. The same breadth creates dependencies on customers, utilization, power, cooling, memory, packaging, fabrication, policy, debt, and execution; custom accelerators and domestic alternatives can be competitive where workloads are stable or sovereignty matters.
+Nvidia's strongest current position is a full-stack ecosystem: general-purpose accelerated hardware, [[CUDA]], rack-scale systems, developer adoption, cloud availability, and domain platforms reinforce one another. The latest bounded source adds a leadership shock: Huang's episode-reported resignation exposes how product judgment, Taiwan supplier coordination, ecosystem credit, and market confidence had become concentrated around the founder. Existing roadmaps and engineering depth may preserve operations, but succession now sits alongside customer financing, hyperscaler capex, custom accelerators, export controls, domestic substitution, power, packaging, and fabrication as a material test of the platform.
 
 ## Key Characteristics
 - Competes as an integrated compute, networking, software, simulation, and edge platform rather than only as a chip vendor.
@@ -56,6 +57,7 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - Converts rising model demand into larger systems while depending on power, cooling, HBM, packaging, fabrication, and data-center delivery.
 - Participates in infrastructure financing and strategic investments, linking growth to customer solvency, utilization, and circular-demand risk.
 - Faces competition from custom accelerators, domestic chip stacks, export restrictions, and rapid hardware depreciation even while retaining broad ecosystem advantages.
+- Faces a founder-succession test because technical, supplier, capital-allocation, and policy relationships were unusually concentrated around Huang.
 
 ## Evidence
 ### Full-stack platform and ecosystem
@@ -87,6 +89,10 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] and [[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] place Nvidia inside transactional export licensing and domestic-substitution policy.
 - [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] shows strategic value and concentration risk in the OpenAI relationship.
 
+### Succession and ecosystem coordination
+- [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] treats Huang's reported departure as a combined governance, supplier-coordination, customer-financing, and China-strategy shock rather than an ordinary executive change.
+- [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] says AMD and Broadcom may gain relative share or packaging capacity while qualifying that outcome with slower aggregate infrastructure growth and continued manufacturing constraints.
+
 ### Source-scoped cultural and investing uses
 - [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] uses Nvidia as a satirical compute-scarcity symbol, not a factual operating account.
 - [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]] and [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] use the stock to illustrate trading and options discipline rather than company fundamentals.
@@ -99,15 +105,15 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - Financing can expand access to compute while amplifying residual-value, leverage, overbuild, counterparty, and circular-demand risk.
 - Physical-AI and healthcare opportunity does not establish robot reliability, clinical effectiveness, safety, regulatory approval, or repeatable demand.
 - Source-local stock strategies, satire, and macro commentary should not be read as direct evidence about Nvidia's operations or investment value.
+- The newest source is scenario analysis rather than a company filing, board record, investigation finding, supplier dataset, or audited forecast; resignation status, successor effects, order volumes, market share, and political motives remain episode-attributed.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 entity schema while preserving its complete source inventory.
-- Added the direct AI-factory, disaggregated-inference, heterogeneous-agent-workload, and three-computer synthesis.
-- Clarified that agent growth may expand demand for storage, networking, CPUs, software tools, simulation, and edge systems as well as GPUs.
-- Kept custom-chip, export, supply-chain, energy, utilization, valuation, and financing risks central to the current profile.
+- Added founder succession as a platform-level execution, supplier, financing, and policy risk.
+- Added the qualification that competitor share gains can coexist with slower aggregate AI-infrastructure growth.
+- Added forced domestic substitution and installed-compute repricing as China-side consequences, while keeping manufacturing and software constraints central.
 
 ## Relationships
-- [[JensenHuang]] - founder and chief executive articulating the company's platform strategy.
+- [[JensenHuang]] - founder and former chief executive in the latest episode-reported account, whose platform role created succession exposure.
 - [[CUDA]] - software ecosystem reinforcing Nvidia hardware and developer adoption.
 - [[NvidiaBlackwellPlatform]] - current platform family in the forward order and infrastructure narrative.
 - [[NvidiaVeraRubinPlatform]] - heterogeneous rack-scale successor oriented toward inference and agents.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3850
+topic_total_pages: 3852
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5065,6 +5065,9 @@ topic_concepts:
   - key: "TokenPerWatt"
     title: "Token per Watt"
     url: "/wiki/concepts/tokenperwatt/"
+  - key: "TokenRevenueSharingCompute"
+    title: "Token Revenue-Sharing Compute"
+    url: "/wiki/concepts/tokenrevenuesharingcompute/"
   - key: "TokenTaxOnAI"
     title: "Token Tax On AI"
     url: "/wiki/concepts/tokentaxonai/"
@@ -9744,6 +9747,9 @@ topic_sources:
   - key: "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp"
     title: "188.关于本轮下跌的三个想法和一些建议"
     url: "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
+  - key: "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8"
+    title: "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖"
+    url: "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
   - key: "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto"
     title: "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会"
     url: "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"

@@ -8,7 +8,8 @@ sources:
   - tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128
   - guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f
   - tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128
-last_updated: 2026-09-24
+  - 77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8
+last_updated: 2026-11-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Domestic AI chip catch-up is China's effort to replace or reduce dependence on f
 ## Current Synthesis
 The bounded evidence treats catch-up as a system problem rather than a chip-spec contest. Chinese firms need design talent, process access, yield, cost control, EDA and equipment, packaging and memory, software compatibility, power and cooling, and customer adoption before a domestic accelerator becomes reliable compute at scale. Supernodes offer a rational response to weaker per-chip performance by joining more accelerators through high-bandwidth interconnect, but they move rather than erase bottlenecks.
 
-Policy pressure is an accelerator as well as a constraint. U.S. export controls reduce access to advanced chips and manufacturing tools, while Chinese restrictions or discouragement of foreign chips can protect national champions. The newest source reinforces the substitution response: reduced U.S. access reportedly accelerated domestic semiconductor and AI development. That does not establish that controls are ineffective; it means their net impact must be judged across immediate capability denial, long-run substitution, software ecosystems, and open-market order validation.
+Policy pressure is an accelerator as well as a constraint. U.S. export controls reduce access to advanced chips and manufacturing tools, while Chinese restrictions or discouragement of foreign chips can protect national champions. The newest source adds a forced-adoption window: scarce imported compute can make existing capacity more valuable and push model teams toward domestic inference and larger training trials. Demand and reservations do not prove supply, however; fabrication capacity, delivery, kernels, model adaptation, and reliable cluster operations still determine usable compute.
 
 ## Key Claims
 - Domestic substitution requires a complete hardware-software-production system, not merely a working chip design.
@@ -35,15 +36,15 @@ Policy pressure is an accelerator as well as a constraint. U.S. export controls 
 - Controlled-access tradeoff: [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] records the argument that continued H200 access could preserve U.S. infrastructure dependence while China supports Huawei.
 - Supernode route and market test: [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] compares Huawei's more-chip system approach with Nvidia and emphasizes software, power, cooling, supply, and customer orders.
 - Restriction-induced substitution: [[tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128]] says U.S. controls constrained Chinese compute access while accelerating domestic technology development and reduced reliance on U.S. suppliers.
+- Forced-adoption window: [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] says import scarcity is increasing reservations and adaptation pressure for domestic accelerators, while emphasizing that manufacturing capacity and training software remain the decisive bottlenecks.
 
 ## Counterevidence & Qualifications
-The sources do not quantify the net effect of export controls or establish that Chinese domestic systems have reached parity in frontier training. Policy-driven adoption can produce learning and scale while obscuring whether customers would choose the system without restrictions. Aggregate supernode compute does not prove superior usable performance if it needs more chips, power, cooling, or migration work. Claims about national lead times, access rules, orders, and substitution speed remain source-dated and source-scoped.
+The sources do not quantify the net effect of export controls or establish that Chinese domestic systems have reached parity in frontier training. Policy-driven adoption can produce learning and scale while obscuring whether customers would choose the system without restrictions. Reservations, price increases, and forced migration do not prove delivery or open-market superiority. Aggregate supernode compute does not prove superior usable performance if it needs more chips, power, cooling, or migration work. Claims about national lead times, access rules, orders, delivery ratios, prices, and substitution speed remain source-dated and source-scoped.
 
 ## What Changed
-- Migrated the page to synthesis-v1 using its complete bounded source set.
-- Added restriction-induced substitution as an explicit policy feedback loop.
-- Clarified that immediate capability denial and long-run domestic acceleration can coexist.
-- Elevated open-market customer orders as the strongest bounded validation test.
+- Added the distinction between forced demand or reservations and delivered, usable training capacity.
+- Added installed foreign-compute repricing as a short-run effect of import scarcity.
+- Kept fabrication, software adaptation, and open-market order validation as the durable tests.
 
 ## Related Concepts
 - [[AIExportControls]] - external restriction that both constrains access and changes substitution incentives.

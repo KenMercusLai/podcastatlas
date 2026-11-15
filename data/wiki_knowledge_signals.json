@@ -1753,9 +1753,9 @@
       "url": "/wiki/concepts/aichipspecialization/"
     },
     "AICircularInfrastructureFinancing": {
-      "episode_count": 7,
-      "show_count": 7,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 8,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -1805,9 +1805,16 @@
           "show": "商业就是这样",
           "title": "Vol.273 英伟达则兼济天下？",
           "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        },
+        {
+          "episode_file": "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+          "key": "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8",
+          "show": "晚点聊 LateTalk",
+          "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+          "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
     "AIClientGrowthRetentionAgent": {
@@ -80852,9 +80859,9 @@
       "url": "/wiki/entities/domesdaybook/"
     },
     "DomesticAIChipCatchUp": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
@@ -80890,9 +80897,16 @@
           "show": "Marketplace Tech",
           "title": "Finding common ground in the U.S.-China AI rivalry",
           "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+          "key": "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8",
+          "show": "晚点聊 LateTalk",
+          "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+          "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/domesticaichipcatchup/"
     },
     "DomesticAuthorityWithoutSecurity": {
@@ -110796,9 +110810,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -110806,9 +110820,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
           "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
+        },
+        {
+          "episode_file": "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+          "key": "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8",
+          "show": "晚点聊 LateTalk",
+          "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+          "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
         }
       ],
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {
@@ -160823,9 +160844,9 @@
       "url": "/wiki/entities/jennyorangutan/"
     },
     "JensenHuang": {
-      "episode_count": 14,
-      "show_count": 9,
-      "source_note_count": 14,
+      "episode_count": 15,
+      "show_count": 10,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -160924,9 +160945,16 @@
           "show": "独树不成林",
           "title": "377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？",
           "url": "/wiki/sources/377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz/"
+        },
+        {
+          "episode_file": "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+          "key": "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8",
+          "show": "晚点聊 LateTalk",
+          "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+          "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/jensenhuang/"
     },
     "JeremyThorpe": {
@@ -221462,9 +221490,9 @@
       "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
     "Nvidia": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 14,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Loeb： The Lost Art of Short Selling, and Why Stock Picking is Back [41552605].md",
@@ -221703,9 +221731,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        },
+        {
+          "episode_file": "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+          "key": "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8",
+          "show": "晚点聊 LateTalk",
+          "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+          "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/nvidia/"
     },
     "NvidiaDGXSpark": {
@@ -302957,6 +302992,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/tokenrevenuebuybackmodel/"
+    },
+    "TokenRevenueSharingCompute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+          "key": "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8",
+          "show": "晚点聊 LateTalk",
+          "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+          "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/tokenrevenuesharingcompute/"
     },
     "TokenTaxOnAI": {
       "episode_count": 3,
