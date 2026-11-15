@@ -964,8 +964,8 @@
       "earliest_episode_date": "2020-06-02",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 82,
-      "topic_matched_source_note_count": 29,
+      "source_note_count": 83,
+      "topic_matched_source_note_count": 30,
       "topics": [
         {
           "key": "politics",
@@ -983,7 +983,7 @@
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 7
+          "source_note_count": 8
         },
         {
           "key": "technology",
@@ -1029,6 +1029,13 @@
           "episode_count": 4
         },
         {
+          "key": "AveryBrundage",
+          "title": "Avery Brundage",
+          "url": "/wiki/entities/averybrundage/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "BrandonScott",
           "title": "Brandon Scott",
           "url": "/wiki/entities/brandonscott/",
@@ -1039,13 +1046,6 @@
           "key": "CharlesSennett",
           "title": "Charles Sennett",
           "url": "/wiki/entities/charlessennett/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "GuyMolinari",
-          "title": "Guy Molinari",
-          "url": "/wiki/entities/guymolinari/",
           "kind": "person",
           "episode_count": 3
         }

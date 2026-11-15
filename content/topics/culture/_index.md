@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3706
+topic_total_pages: 3707
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3184,6 +3184,9 @@ topic_concepts:
   - key: "SelectiveSinicizationInJapan"
     title: "Selective Sinicization in Japan"
     url: "/wiki/concepts/selectivesinicizationinjapan/"
+  - key: "SelectiveSportsNeutrality"
+    title: "Selective Sports Neutrality"
+    url: "/wiki/concepts/selectivesportsneutrality/"
   - key: "SelectiveThreatNarrativeEditing"
     title: "Selective Threat Narrative Editing"
     url: "/wiki/concepts/selectivethreatnarrativeediting/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hitler’s Olympics, Part 5: The Amateur’s Hour](sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour.md) — Revisionist History contrasts Avery Brundage's Nazi-managed inspection and selective neutrality with Margaret Lambert's coerced candidacy, unequal preparation, record-level performance, and exclusion.
 - [Hitler’s Olympics, Part 6: The Jiggle & the Giddy Up](sources/hitler-s-olympics-part-6-the-jiggle-the-giddy-up-hitler-s-olympics-part-6-the-jiggle-the-giddy-up.md) — Revisionist History tests the Owens–Long rescue and friendship legend against contemporary reports, family records, chronology, photographs, and documentary history.
 - [Hitler’s Olympics, Part 7: Long Jump, Tall Tale](sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale.md) — Revisionist History examines the disputed Jesse Owens–Lutz Long story through racial representation, athlete economics, Cold War diplomacy, and the politics of reconciliation.
 - [Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville](sources/hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville-hitler-s-olympics-part-8-vater-it-is-to-be-fayetteville.md) — Revisionist History traces Heinrich Krieger's study of U.S. racial law, Nazi legal borrowing, Jim Crow discretion, and the two-way racial encounter around Berlin 1936.
@@ -5172,6 +5173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pushkin Goes to the Olympics](sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics.md) — Revisionist History compilation on women's distance-running exclusion, MRI/AI muscle mapping, and the historically disputed Owens–Long friendship story.
 
 ## Entities
+- [Margaret Lambert](entities/MargaretLambert.md) — German Jewish high jumper whose coerced candidacy and exclusion exposed Berlin 1936's false promise of equal opportunity.
 - [Kathrine Switzer](entities/KathrineSwitzer.md) — Runner whose numbered 1967 Boston entry and resistance to an official exposed women's practical exclusion.
 - [Bobbi Gibb](entities/BobbiGibb.md) — Earlier Boston runner whose 1967 presence corrects first-woman chronology while distinguishing participation from official recognition.
 - [Sylvia Blemker](entities/SylviaBlemker.md) — Biomedical engineer and Springbok Analytics co-founder using MRI/AI muscle maps in sport and rehabilitation.
@@ -19636,6 +19638,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Branas](entities/CharlesBranas.md) — Researcher connecting vacant-lot repair to a bounded place-based gun-violence prevention claim.
 
 ## Concepts
+- [Selective Sports Neutrality](concepts/SelectiveSportsNeutrality.md) — Institutional posture that protects sporting continuity while overlooking political control of athlete access, preparation, selection, expression, or safety.
 - [Women's Distance-Running Exclusion](concepts/WomenDistanceRunningExclusion.md) — Institutional restriction through medicalized claims, sensational reporting, missing pathways, and practical eligibility enforcement.
 - [Muscle-Specific Imaging](concepts/MuscleSpecificImaging.md) — MRI and computational analysis of individual muscles for targeted assessment, training, and rehabilitation.
 - [Sports Reconciliation Mythmaking](concepts/SportsReconciliationMythmaking.md) — Process by which a real athletic encounter becomes a politically useful story of personal goodwill that can obscure factual uncertainty and structural inequality.

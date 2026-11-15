@@ -26839,9 +26839,9 @@
       "url": "/wiki/concepts/authoritarianmodernization/"
     },
     "AuthoritarianSportsPropaganda": {
-      "episode_count": 6,
-      "show_count": 1,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -26884,9 +26884,16 @@
           "show": "The Rest Is History",
           "title": "80. Modern Olympics - Part 1",
           "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
     "AuthoritarianStabilityLegitimation": {
@@ -27553,9 +27560,9 @@
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "AveryBrundage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -27577,6 +27584,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
           "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
         }
       ],
       "updated": "2026-11-16",
@@ -157991,9 +158005,9 @@
       "url": "/wiki/entities/internationalmonetaryfund/"
     },
     "InternationalOlympicCommittee": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -158001,9 +158015,16 @@
           "show": "The Rest Is History",
           "title": "81. Modern Olympics - Part 2",
           "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/internationalolympiccommittee/"
     },
     "InternationalReplyCouponArbitrage": {
@@ -202007,6 +202028,22 @@
       "updated": "2026-11-10",
       "url": "/wiki/entities/margaretatwood/"
     },
+    "MargaretLambert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/margaretlambert/"
+    },
     "MargaretMitchell": {
       "episode_count": 2,
       "show_count": 2,
@@ -214491,9 +214528,9 @@
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -214529,6 +214566,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
           "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
         }
       ],
       "updated": "2026-11-16",
@@ -229039,9 +229083,9 @@
       "url": "/wiki/entities/olympias/"
     },
     "OlympicAmateurism": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -229070,6 +229114,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 7: Long Jump, Tall Tale",
           "url": "/wiki/sources/hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
         }
       ],
       "updated": "2026-11-16",
@@ -276737,6 +276788,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/selectivesinicizationinjapan/"
     },
+    "SelectiveSportsNeutrality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/selectivesportsneutrality/"
+    },
     "SelectiveThreatNarrativeEditing": {
       "episode_count": 1,
       "show_count": 1,
@@ -290609,9 +290676,9 @@
       "url": "/wiki/concepts/sportsbettingrevenuealignment/"
     },
     "SportsBoycottEthics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses [Hitler_s_Olympics,_Part_9_A_Plague_on_Both_Your_Houses].md",
@@ -290619,6 +290686,13 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 9: A Plague on Both Your Houses",
           "url": "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+        },
+        {
+          "episode_file": "Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour [Hitler_s_Olympics,_Part_5_The_Amateur_s_Hour].md",
+          "key": "hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour",
+          "show": "Revisionist History",
+          "title": "Hitler’s Olympics, Part 5: The Amateur’s Hour",
+          "url": "/wiki/sources/hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour/"
         }
       ],
       "updated": "2026-11-16",

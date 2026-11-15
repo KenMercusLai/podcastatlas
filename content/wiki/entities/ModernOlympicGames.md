@@ -8,6 +8,7 @@ sources:
   - 79-ancient-olympics-glt9627584488
   - hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses
   - hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale
+  - hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -32,13 +33,15 @@ Together, the sources make politics constitutive rather than exceptional. Yet th
 
 Athlete memory forms another institutional layer. [[JesseOwens]]'s Berlin decision placed personal opportunity against boycott claims; his later amateur exclusion made Olympic fame economically precarious; and the [[LutzLong]] story helped convert one competition into a durable reconciliation myth. Mexico City 1968 then showed competing athlete meanings: Owens defended participation and interracial goodwill while Tommie Smith and John Carlos used the podium to make continuing racial injustice visible. [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale|Hitler’s Olympics, Part 7]] grounds that extension.
 
+The Berlin record also adds an access test before competition begins. [[MargaretLambert]] could be displayed as a Jewish candidate while Nazi control over clubs, facilities, testimony, and selection denied her equal opportunity and ultimately excluded her. American participation and [[AveryBrundage]]'s IOC entry therefore show how formal eligibility and institutional continuity could legitimate a Games whose competitive field had already been politically engineered, as documented in [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour|Hitler’s Olympics, Part 5]].
+
 ## Key Characteristics
 
 - Claims of continuity rest on selective revival and invention because the ancient and modern Games differ in religious foundation, social logic, event culture, and institutional form.
 - International competition can become symbolic comparison among states and political systems.
 - Television, sponsorship, ceremony, and urban construction make the Games a media and infrastructure project as well as a sporting event.
 - Amateurism and eligibility rules can hide class advantage or materially different forms of athlete support.
-- Institutional claims of political neutrality repeatedly encounter nationalism, war, protest, boycott, terrorism, propaganda, and repression.
+- Institutional claims of political neutrality repeatedly encounter nationalism, war, protest, boycott, terrorism, propaganda, repression, and politically controlled athlete access.
 - Host-city value is uneven and must include debt, displacement, public services, participation, image, and resident welfare.
 - Athlete narratives can retain emotional and ethical power beyond governance failures, but Olympic memory is co-produced by athletes, institutions, media, and political audiences, so that value neither makes participation neutral nor exempts stories from evidentiary scrutiny.
 
@@ -53,18 +56,19 @@ Athlete memory forms another institutional layer. [[JesseOwens]]'s Berlin decisi
 - Enduring emotional meaning: [[81-modern-olympics-part-2-glt4846758176]] closes with persistence, family support, and patriotic identification.
 - Prewar continuity dilemma: [[hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses]] contrasts Los Angeles and Berlin through boycott legitimacy, commercial survival, and athletic value.
 - Athlete memory and protest: [[hitler-s-olympics-part-7-long-jump-tall-tale-hitler-s-olympics-part-7-long-jump-tall-tale]] connects Owens's boycott choice, amateur exclusion, Long myth, and response to Mexico City 1968.
+- Pre-competition access: [[hitler-s-olympics-part-5-the-amateur-s-hour-hitler-s-olympics-part-5-the-amateur-s-hour]] connects Jewish athletes' unequal training conditions, Lambert's coerced candidacy and exclusion, and Brundage's accepted assurances to American participation.
 
 ## Qualifications
 
-The current profile is bounded to five conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, city rankings, boycott counterfactuals, host finances, or biographical evidence. Difference from the ancient festival does not erase real inspiration from antiquity, and multiple modern antecedents do not imply equal causal influence. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. Comparing Los Angeles and Berlin reveals unequal scrutiny without making Jim Crow and Nazism identical. Correcting the Long story does not erase genuine sportsmanship, while memorable athlete narratives do not validate governance failures or participation.
+The current profile is bounded to six conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, city rankings, boycott counterfactuals, host finances, or biographical evidence. Difference from the ancient festival does not erase real inspiration from antiquity, and multiple modern antecedents do not imply equal causal influence. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. Comparing Los Angeles and Berlin reveals unequal scrutiny without making Jim Crow and Nazism identical. Part 5 supports deliberate manipulation of Lambert's candidacy but does not prove every official motive or an explicit IOC appointment bargain. Correcting the Long story does not erase genuine sportsmanship, while memorable athlete narratives do not validate governance failures or participation.
 
 ## What Changed
 
 - Added boycott legitimacy and institutional survival as competing dimensions of Olympic continuity.
 - Distinguished athlete-centered value from moral endorsement of hosts, organizers, or participation.
 - Extended Los Angeles 1932 from ceremonial prehistory into a commercial spectacle model transferable to Berlin.
-- Added athlete memory, economic dependence, and competing protest strategies as part of Olympic politics.
-- Distinguished emotionally useful reconciliation stories from verified event history.
+- Added athlete memory, economic dependence, competing protest strategies, and politically controlled access as parts of Olympic politics.
+- Distinguished emotionally useful reconciliation stories and formal eligibility promises from verified history and material opportunity.
 
 ## Relationships
 
@@ -79,3 +83,5 @@ The current profile is bounded to five conversational historical surveys and doe
 - [[SportsBoycottEthics]] - framework for deciding when refusing participation withholds legitimacy without losing sight of athlete and institutional costs.
 - [[SportsReconciliationMythmaking]] - process through which Olympic encounters acquire politically useful afterlives.
 - [[MinorityAthleteRepresentativeBurden]] - unequal symbolic load placed on athletes representing marginalized groups.
+- [[MargaretLambert]] - athlete whose exclusion shows how host power could shape who reached the competitive field.
+- [[SelectiveSportsNeutrality]] - framework separating formal eligibility from materially equal access.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11404
+wiki_total_pages: 11405
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "SelectiveSinicizationInJapan"
     title: "Selective Sinicization in Japan"
     url: "/wiki/concepts/selectivesinicizationinjapan/"
+  - key: "SelectiveSportsNeutrality"
+    title: "Selective Sports Neutrality"
+    url: "/wiki/concepts/selectivesportsneutrality/"
   - key: "SelectiveThreatNarrativeEditing"
     title: "Selective Threat Narrative Editing"
     url: "/wiki/concepts/selectivethreatnarrativeediting/"

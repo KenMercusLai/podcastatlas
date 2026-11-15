@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14370
+wiki_total_pages: 14371
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "MargaretAtwood"
     title: "Margaret Atwood / 玛格丽特·阿特伍"
     url: "/wiki/entities/margaretatwood/"
+  - key: "MargaretLambert"
+    title: "Margaret Lambert"
+    url: "/wiki/entities/margaretlambert/"
   - key: "MargaretMead"
     title: "Margaret Mead / 米德"
     url: "/wiki/entities/margaretmead/"

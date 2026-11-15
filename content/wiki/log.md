@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Hitler’s Olympics, Part 5: The Amateur’s Hour
+
+Added the [[RevisionistHistory]] episode contrasting [[AveryBrundage]]'s Nazi-managed 1934 inspection with [[MargaretLambert]]'s coerced candidacy, unequal preparation, record-level performance, and exclusion. Created Margaret Lambert and [[SelectiveSportsNeutrality]], then resynthesized Brundage, the [[InternationalOlympicCommittee]], the [[ModernOlympicGames]], [[AuthoritarianSportsPropaganda]], [[SportsBoycottEthics]], and [[OlympicAmateurism]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: formal eligibility promises do not establish equal competition when a host controls training facilities, interpreters, testimony, family pressure, and final selection. Brundage's antisemitic correspondence, conduct during the inspection, institutional ambition, and acceptance of Nazi assurances support the episode's conclusion that he knowingly accommodated the regime more strongly than the charitable account that he was merely deceived. The existing “soft idealist” interpretation remains as an explicit source tension rather than being erased. No appointment-for-participation bargain is treated as proven; exact motives, dialogue, translated testimony, archival interpretation, and causal claims remain episode-scoped because the supplied file is a structured summary rather than the underlying archive, transcript, or complete institutional record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,049 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | Hitler’s Olympics, Part 8: Vater, It Is to Be Fayetteville
 
 Added the [[RevisionistHistory]] episode tracing [[HeinrichKrieger]] from Arkansas and Library of Congress research into German legal deliberations over racial exclusion. Created Heinrich Krieger, [[LisaLindquistDorr]], [[JonathanWiesen]], [[TransnationalRacialLawBorrowing]], and [[DiscretionaryRacialDomination]], then resynthesized [[JesseOwens]], the [[NurembergLaws]], and [[RationalizedStateViolence]] from their complete preserved evidence inventories before appending the new source once.
@@ -40548,6 +40556,10 @@ Added a [[RevisionistHistory]] compilation in which [[MalcolmGladwell]] connects
 Core synthesis: official recognition, actual participation, and public visibility are distinct in women's marathon history; muscle-level maps can reveal targets hidden by aggregate testing but need validation and outcome linkage; and the Owens–Long excerpt is non-independent preview provenance whose cliffhanger does not supersede the stronger archival correction in the later full episodes. No new settled contradiction was adopted beyond the source's correction of first-woman claims and the already-recorded challenge to the enlarged Owens–Long story. Counts, dialogue, medical and imaging claims, athlete status, and historical details remain source-scoped because the supplied file is a structured summary rather than a transcript, race archive, clinical study, or complete investigation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,048 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
