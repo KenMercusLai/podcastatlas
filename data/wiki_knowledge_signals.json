@@ -103469,6 +103469,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/falsebalancecontroversypersistence/"
     },
+    "FalseConfessionPsychology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014 [default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014].md",
+          "key": "default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014",
+          "show": "Hidden Brain",
+          "title": "Did I Really Do That?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/falseconfessionpsychology/"
+    },
     "FalseDmitryI": {
       "episode_count": 1,
       "show_count": 1,
@@ -139508,9 +139524,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -139532,6 +139548,13 @@
           "show": "Hidden Brain",
           "title": "Relationships 2.0: Why Did You Do That?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568-default-mp3-ywr3ahjkcgo-e107f1ec59fe4e6311a12befafe07923-88839568/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014 [default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014].md",
+          "key": "default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014",
+          "show": "Hidden Brain",
+          "title": "Did I Really Do That?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
         }
       ],
       "updated": "2026-11-16",
@@ -244586,6 +244609,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/postcoldwarorderrupture/"
     },
+    "PostConfessionEvidenceContamination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014 [default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014].md",
+          "key": "default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014",
+          "show": "Hidden Brain",
+          "title": "Did I Really Do That?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/postconfessionevidencecontamination/"
+    },
     "PostConquestMonetaryExtraction": {
       "episode_count": 1,
       "show_count": 1,
@@ -271537,6 +271576,22 @@
       "updated": "2026-10-22",
       "url": "/wiki/entities/saudivision2030/"
     },
+    "SaulKassin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014 [default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014].md",
+          "key": "default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014",
+          "show": "Hidden Brain",
+          "title": "Did I Really Do That?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/saulkassin/"
+    },
     "SaunaSociete": {
       "episode_count": 1,
       "show_count": 1,
@@ -289318,6 +289373,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/stanleykubrick/"
+    },
+    "StanleyMilgram": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014 [default.mp3_ywr3ahjkcgo_7b40091055d1394cc6a3435ffecc95c8_53960014].md",
+          "key": "default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014",
+          "show": "Hidden Brain",
+          "title": "Did I Really Do That?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/stanleymilgram/"
     },
     "StarSpangledBanner": {
       "episode_count": 1,

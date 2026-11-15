@@ -40160,6 +40160,14 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | Did I Really Do That?
+
+Added the [[HiddenBrain]] episode in which [[SaulKassin]] explains voluntary, compliant, and internalized false confessions, the situational pressures that can produce them, and the unusual power of confession evidence over jurors and investigators. Established [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]], updated Hidden Brain from its complete four-source inventory, and migrated [[StanleyMilgram]] from its complete two-source inventory to the synthesis-first contract while adding the qualified interrogation-pressure comparison.
+
+Core synthesis: confession evidence must be judged as the output of a process, not as self-authenticating proof. Authority, isolation, duration, false evidence, immediate relief, and memory doubt can produce false admissions, while the resulting confession can alter witnesses, alibis, forensic interpretation, and the apparent independence of later evidence. Full recording, open-ended questions, protected crime facts, and active testing of alternative explanations improve assessability. No settled contradiction was adopted; disputed interrogation claims, case details, experimental percentages, observer accuracy, and reform effects remain source-scoped because the supplied file is a structured summary rather than a transcript, case file, dataset, study report, or legal guide. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,020 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | Relationships 2.0: Why Did You Do That?
 
 Added the [[HiddenBrain]] episode connecting [[LianeYoung]]'s research on [[TheoryOfMindMoralJudgment]] and [[BiasedIntentionAttribution]] with [[FredLuskin]]'s distinction between [[ForgivenessWithoutReconciliation]] and [[AccountableSelfForgiveness]]. Resynthesized Hidden Brain from its complete preserved two-source inventory before appending the new source once.
@@ -40223,6 +40231,10 @@ Added the [[RevisionistHistory]] episode connecting [[ThomasLane]]'s softened wa
 Core synthesis: hierarchy can make an accurate warning sound optional, but it does not erase a subordinate's duty to intervene; Lane's early recognition and continued restraint after missing-pulse reports must remain in the same judgment. Concentrated complaint patterns can support targeted early removal without reducing misconduct to isolated “bad apples,” while network association requires causal caution and labor protections must be assessed against both due process and durable public-safety accountability. No settled contradiction was adopted. Gladwell's Lane counterfactual, complaint and reinstatement figures, the reported 26 percent network association, and Chauvin's prior incident remain source-scoped because the supplied file is a structured summary rather than a transcript, dataset, study report, labor agreement, arbitration record, or complete court record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,019 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

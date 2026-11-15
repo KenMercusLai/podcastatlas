@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11353
+wiki_total_pages: 11355
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1622,6 +1622,9 @@ wiki_pages:
   - key: "PostColdWarOrderRupture"
     title: "Post-Cold War Order Rupture"
     url: "/wiki/concepts/postcoldwarorderrupture/"
+  - key: "PostConfessionEvidenceContamination"
+    title: "Post-Confession Evidence Contamination"
+    url: "/wiki/concepts/postconfessionevidencecontamination/"
   - key: "PostConquestDisarmament"
     title: "Post-Conquest Disarmament / 统一后收兵器"
     url: "/wiki/concepts/postconquestdisarmament/"

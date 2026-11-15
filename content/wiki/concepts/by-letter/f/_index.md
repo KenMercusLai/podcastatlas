@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11353
+wiki_total_pages: 11355
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "FalseChoiceGovernance"
     title: "False Choice Governance"
     url: "/wiki/concepts/falsechoicegovernance/"
+  - key: "FalseConfessionPsychology"
+    title: "False Confession Psychology"
+    url: "/wiki/concepts/falseconfessionpsychology/"
   - key: "FalseBalanceControversyPersistence"
     title: "False-Balance Controversy Persistence"
     url: "/wiki/concepts/falsebalancecontroversypersistence/"

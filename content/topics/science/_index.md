@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1654
+topic_total_pages: 1658
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -907,6 +907,9 @@ topic_concepts:
   - key: "FairComparisonFrames"
     title: "Fair Comparison Frames"
     url: "/wiki/concepts/faircomparisonframes/"
+  - key: "FalseConfessionPsychology"
+    title: "False Confession Psychology"
+    url: "/wiki/concepts/falseconfessionpsychology/"
   - key: "FamiliarPainRelationshipPattern"
     title: "Familiar Pain Relationship Pattern"
     url: "/wiki/concepts/familiarpainrelationshippattern/"
@@ -1846,6 +1849,9 @@ topic_concepts:
   - key: "PostBattleTerrorSignaling"
     title: "Post-Battle Terror Signaling / 战后恐怖震慑"
     url: "/wiki/concepts/postbattleterrorsignaling/"
+  - key: "PostConfessionEvidenceContamination"
+    title: "Post-Confession Evidence Contamination"
+    url: "/wiki/concepts/postconfessionevidencecontamination/"
   - key: "PostLearningArousalTagging"
     title: "Post-Learning Arousal Tagging"
     url: "/wiki/concepts/postlearningarousaltagging/"
@@ -3530,6 +3536,9 @@ topic_entities:
   - key: "SarahWu"
     title: "Sarah Wu"
     url: "/wiki/entities/sarahwu/"
+  - key: "SaulKassin"
+    title: "Saul Kassin"
+    url: "/wiki/entities/saulkassin/"
   - key: "SeanMackey"
     title: "Sean Mackey"
     url: "/wiki/entities/seanmackey/"
@@ -4149,6 +4158,9 @@ topic_sources:
   - key: "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d"
     title: "Dhaka matters: an election for Bangladesh"
     url: "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+  - key: "default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014"
+    title: "Did I Really Do That?"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014/"
   - key: "diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478"
     title: "Diet & Nutrition for Mental Health | Dr. Chris Palmer"
     url: "/wiki/sources/diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478/"

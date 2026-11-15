@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14302
+wiki_total_pages: 14303
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "SaudiVision2030"
     title: "Saudi Vision 2030 / 沙特2030愿景"
     url: "/wiki/entities/saudivision2030/"
+  - key: "SaulKassin"
+    title: "Saul Kassin"
+    url: "/wiki/entities/saulkassin/"
   - key: "SaunaSociete"
     title: "Sauna Société"
     url: "/wiki/entities/saunasociete/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Did I Really Do That?](sources/default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014-default-mp3-ywr3ahjkcgo-7b40091055d1394cc6a3435ffecc95c8-53960014.md) — Hidden Brain and Saul Kassin on false-confession pathways, confession-driven evidence contamination, and transparent hypothesis-testing investigation.
 - [Memorial Day, 2020 | Part 2](sources/memorial-day-2020-part-2-memorial-day-2020-part-2.md) — Revisionist History connects mitigated speech, concentrated police misconduct, network spillover, and discipline barriers to the preventable institutional failure behind George Floyd's death.
 - [In Defense of PAW Patrol](sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol.md) — Revisionist History weighs predictable rescue as emotional scaffolding against lost imaginative exercise, then defends dependable collective service as a civic aspiration.
 - [Running Hot](sources/running-hot.md) — Revisionist History connects ambulance crash risk, modest time savings, dispatch reform, siren noise, alarm fatigue, and inherited urgency norms to selective lights-and-sirens use.
@@ -5143,6 +5144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Face Value](sources/face-value-face-value.md) — Revisionist History connects prosopagnosia, laboratory-tested super-recognition, compensatory cues, and the risk of mistaking nonrecognition for rejection.
 
 ## Entities
+- [Saul Kassin](entities/SaulKassin.md) — Psychologist connecting interrogation pressure, false-confession typology, evidentiary contamination, and investigation reform.
 - [George Floyd](entities/GeorgeFloyd.md) — Man whose fatal restraint anchors the episode's analysis of medical distress, failed intervention, and institutional accountability.
 - [Thomas Lane](entities/ThomasLane.md) — Rookie officer whose early warnings, deference, continued participation, and accountability make hierarchy explanatory but not exculpatory.
 - [Derek Chauvin](entities/DerekChauvin.md) — Senior former training officer presented as a repeat-risk case linking direct harm, peer influence, and failed removal.
@@ -5315,7 +5317,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
-- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented here through explanation, qualified depression reframing, and arts-and-health research.
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, forgiveness, and false-confession research.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
@@ -15564,7 +15566,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Shakespeare / 威廉·莎士比亚](entities/WilliamShakespeare.md) — Dramatist tracked through literary ambiguity, public memory, Globe theatre practice, history plays, and cross-cultural adaptation.
 - [Julius Caesar / 《尤里乌斯·恺撒》](entities/JuliusCaesarPlay.md) — Shakespeare play used by episode 124 to show literary memory competing with ancient evidence.
 - [Solomon Asch / 所罗门·阿希](entities/SolomonAsch.md) — Social-psychology reference point for conformity and group-pressure experiments in episode 123's setup.
-- [Stanley Milgram / 斯坦利·米尔格拉姆](entities/StanleyMilgram.md) — Classic obedience-experiment figure used by episode 123 as background for social psychology's postwar experimental canon.
+- [Stanley Milgram / 斯坦利·米尔格拉姆](entities/StanleyMilgram.md) — Classic obedience-experiment figure used as social-psychology background and as a qualified comparison for escalating interrogation pressure.
 - [Philip Zimbardo / 菲利普·津巴多](entities/PhilipZimbardo.md) — Social psychologist tied in episode 123 to deindividuation, anonymous shock experiments, and ethical caution around famous experiments.
 - [Gustave Le Bon / 古斯塔夫·勒庞](entities/GustaveLeBon.md) — Crowd-psychology reference used by episode 123 before later deindividuation experiments.
 - [Leon Festinger / 利昂·费斯廷格](entities/LeonFestinger.md) — Social psychologist mentioned by episode 123 in the history of deindividuation and group self-awareness loss.
@@ -19538,6 +19540,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe DeGutis](entities/JoeDeGutis.md) — Cognitive neuroscientist distinguishing facial perception from identity recognition and interpreting Lucy Sullivan's tests.
 
 ## Concepts
+- [False Confession Psychology](concepts/FalseConfessionPsychology.md) — Framework distinguishing voluntary, compliant, and internalized false admissions and the situational pressures that can produce them.
+- [Post-Confession Evidence Contamination](concepts/PostConfessionEvidenceContamination.md) — Process by which a confession can reshape witness memory, alibi support, forensic interpretation, and the apparent independence of later proof.
 - [Mitigated Speech](concepts/MitigatedSpeech.md) — Softened warning under hierarchy that can turn recognized emergency into an optional-sounding suggestion without erasing the duty to act.
 - [Police Misconduct Concentration](concepts/PoliceMisconductConcentration.md) — Fat-tail pattern in which a small share of officers accounts for disproportionate complaints and harm while systemic causes remain relevant.
 - [Police Network Spillover](concepts/PoliceNetworkSpillover.md) — Qualified peer-effect model linking partners, trainers, and work groups to the spread or normalization of harmful conduct.
