@@ -416,6 +416,19 @@
         "80e710d10d18ebe74145f9a83b5ea1e8 [80e710d10d18ebe74145f9a83b5ea1e8.mp3？aid=6ae852a798a5c8b2e347e723&chid=d556eb54-6160-4.280].md"
       ]
     },
+    "Freakonomics Radio": {
+      "episode_count": 1,
+      "earliest_episode_date": "2026-11-13",
+      "latest_episode_date": "2026-11-13",
+      "latest_episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
+      "source_note_count": 0,
+      "topic_matched_source_note_count": 0,
+      "topics": [],
+      "entities": [],
+      "start_here_episode_files": [
+        "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md"
+      ]
+    },
     "Hidden Brain": {
       "episode_count": 3,
       "earliest_episode_date": "2026-08-24",
