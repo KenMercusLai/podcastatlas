@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14504
+wiki_total_pages: 14505
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1910,6 +1910,9 @@ wiki_pages:
   - key: "ArtBabbitt"
     title: "Art Babbitt"
     url: "/wiki/entities/artbabbitt/"
+  - key: "ArtCaplan"
+    title: "Art Caplan"
+    url: "/wiki/entities/artcaplan/"
   - key: "Artemis2"
     title: "Artemis 2"
     url: "/wiki/entities/artemis2/"

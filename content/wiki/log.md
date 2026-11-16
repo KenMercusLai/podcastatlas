@@ -41310,3 +41310,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Department of Physiological Hygiene
+
+Added the opening [[RevisionistHistory]] episode in the Minnesota starvation series, detailing the [[MinnesotaStarvationExperiment]]'s stabilization, six-month restriction, exercise burden, repeated measurement, and varied rehabilitation diets. Resynthesized [[AncelKeys]], [[SamLegge]], [[UnknownRiskInformedConsent]], [[ResearchParticipantAgency]], and [[HungerAsTotalDeprivation]] from their complete preserved evidence inventories before appending the new source once, and created [[ArtCaplan]] for the episode's modern-oversight boundary.
+
+Core synthesis: the study's controlled design and humanitarian recovery question produced rare knowledge, but starvation altered attention, mood, relationships, satiety, self-control, and possibly decision-making capacity. Initial consent and enduring moral purpose therefore cannot replace continuing monitoring, withdrawal, rescue, and institutional duties. Legge's injury is now preserved with his own uncertainty about whether it was accidental rather than treated as categorically deliberate.
+
+No settled contradiction was adopted. The episode strengthens the severe-harm and modern-nonapproval side of the existing ethics dispute without negating later evidence of volunteer agency and retrospective pride. Keys's survival-based reunion response is treated as evidence of a reported ethical frame, not proof of complete recovery or proportionality. Claims about the study's downstream influence remain source-scoped, and the automatic `wiki/overview.md`, broad [[MalcolmGladwell]] and [[RevisionistHistory]] pages, and adjacent body-composition synthesis were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,107 sources across 810 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

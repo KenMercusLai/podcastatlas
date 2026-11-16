@@ -5,6 +5,7 @@ tags: [research-ethics, informed-consent, uncertainty, human-subjects]
 sources:
   - rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova
   - the-rise-of-the-guinea-pigs
+  - the-department-of-physiological-hygiene
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ Informed consent under unknown risk is the ethical problem of authorizing human 
 
 Consent can be meaningful without eliminating uncertainty, but a signature or stated willingness cannot carry the whole ethical burden. The sources join voluntariness, disclosure, scientific necessity, expected public benefit, foreseeable harm, unknown harm, social pressure, participant selection, monitoring, and accountability into one judgment.
 
-Altruism matters: competent adults may knowingly accept serious personal risk to help others. The Minnesota volunteers' role in proposing, funding, recruiting for, and publishing the study makes [[ResearchParticipantAgency]] stronger than bare consent, while their later testimony clarifies how they understood sacrifice. Yet patriotic pressure, stigma, impaired judgment, unequal power, lack of alternatives, or risk imposed on a fetus or another nonconsenting party can weaken or exceed authorization. Modern review therefore should not treat participant willingness as either irrelevant or sufficient.
+Altruism matters: competent adults may knowingly accept serious personal risk to help others. The Minnesota volunteers' role in proposing, funding, recruiting for, and publishing the study makes [[ResearchParticipantAgency]] stronger than bare consent, while their later testimony clarifies how they understood sacrifice. Yet patriotic pressure, stigma, unequal power, lack of alternatives, or risk imposed on a fetus or another nonconsenting party can weaken or exceed authorization. Capacity is also dynamic: starvation-induced obsession, hostility, compulsive eating, and uncertainty about self-injury show that valid entry consent does not settle later monitoring, withdrawal, or rescue decisions. Modern review therefore should not treat participant willingness as either irrelevant or sufficient.
 
 ## Key Claims
 
@@ -29,7 +30,7 @@ Altruism matters: competent adults may knowingly accept serious personal risk to
 - Social pressure and institutional authority can make formally voluntary participation less free in practice.
 - Consent from one participant cannot authorize serious risk imposed on a fetus or another person who cannot consent.
 - Historical abuse explains safeguards, while procedural burden should still be tested against whether it blocks proportionate and socially valuable research.
-- Participant co-production and retrospective testimony strengthen evidence of agency but do not transfer away researchers' duties of care.
+- Participant co-production and retrospective testimony strengthen evidence of agency but do not transfer away researchers' duties of care, including continuing capacity assessment when an intervention may impair judgment and self-control.
 
 ## Evidence
 
@@ -61,6 +62,10 @@ Altruism matters: competent adults may knowingly accept serious personal risk to
 
 - [[the-rise-of-the-guinea-pigs]] uses a COVID infection study and approximately 27,000 applications to show why willingness deserves examination without proving that residual risk is acceptable.
 
+### Continuing capacity and modern oversight
+
+- [[the-department-of-physiological-hygiene]] shows severe behavioral and psychological change during restriction and reports [[ArtCaplan]]'s judgment that a comparable protocol would not receive modern approval.
+
 ## Counterevidence & Qualifications
 
 - The episode stages a normative debate; it does not supply a complete research-ethics framework, jurisdictional rule, institutional-review standard, or case-specific legal analysis.
@@ -68,12 +73,12 @@ Altruism matters: competent adults may knowingly accept serious personal risk to
 - Historical examples are summarized without protocols, records, or participant testimony and cannot by themselves determine the permissibility of a new study.
 - Retrospective testimony can reveal enduring purpose but may be affected by survivor selection and cannot retroactively cure inadequate disclosure, impaired capacity, or disproportionate risk.
 - Large applicant numbers demonstrate willingness, not comprehension, necessity, fair selection, or acceptable harm.
+- Modern safeguards vary across jurisdictions and time; the source supports a strong nonapproval judgment about this protocol rather than a complete legal history or universal rule.
 
 ## What Changed
 
-- Added participant co-production and later testimony as evidence of agency beyond a signed consent form.
-- Added a contemporary human-challenge comparison that separates high willingness from sufficient ethical justification.
-- Preserved severe-harm limits and nondelegable institutional duties against the episode's paternalism critique.
+- Added continuing capacity, withdrawal, and rescue duties when an intervention can erode judgment after enrollment.
+- Added modern nonapproval as a protocol-level limit on appeals to historical benefit and volunteer commitment.
 
 ## Related Concepts
 
@@ -84,3 +89,4 @@ Altruism matters: competent adults may knowingly accept serious personal risk to
 - [[SacrificingOthersEthics]] - adjacent problem when one person's benefit depends on another bearing harm.
 - [[ResearchParticipantAgency]] - thickens voluntariness through purpose, collaboration, testimony, and social context.
 - [[SamLegge]] - case in which unanticipated impairment and enduring moral commitment coexist.
+- [[ArtCaplan]] - articulates the modern-oversight boundary applied to the starvation protocol.

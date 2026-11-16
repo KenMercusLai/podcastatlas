@@ -4,6 +4,7 @@ type: concept
 tags: [research-ethics, autonomy, informed-consent, participant-collaboration]
 sources:
   - the-rise-of-the-guinea-pigs
+  - the-department-of-physiological-hygiene
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ Research participant agency is the ethical significance of participants' purpose
 
 Agency is thicker than signing a consent form. In [[the-rise-of-the-guinea-pigs]], Minnesota conscientious objectors helped formulate a humanitarian research question, obtain support, recruit volunteers, document laboratory life, publish practical guidance, endure the protocol, and later explain why they regarded participation as service. Those actions make a purely passive-subject narrative incomplete.
 
-Agency is also not a waiver of protection. Stigma against conscientious objectors, uncertain psychiatric and physical effects, [[SamLegge]]'s self-injury, and the study's unequal roles show why researchers retain duties of necessity, proportionality, monitoring, rescue, care, and accountability. Ethical review should therefore hear participants without converting either their willingness or their vulnerability into the whole judgment.
+Agency is also not a waiver of protection. Stigma against conscientious objectors, uncertain psychiatric and physical effects, [[SamLegge]]'s uncertain finger injury, and the study's unequal roles show why researchers retain duties of necessity, proportionality, monitoring, rescue, care, and accountability. The detailed earlier account adds a temporal problem: starvation altered food behavior, mood, sociality, self-control, and possibly capacity after enrollment. Ethical review should therefore hear participants without converting either their willingness or their vulnerability into the whole judgment, and it should distinguish initial authorization from continuing ability to decide.
 
 ## Key Claims
 
@@ -27,6 +28,7 @@ Agency is also not a waiver of protection. Stigma against conscientious objector
 - Social pressure can constrain choice without proving that every morally motivated decision made under pressure is coerced.
 - Retrospective pride or willingness to repeat participation can clarify lived meaning but cannot retroactively authorize undisclosed, disproportionate, or avoidable harm.
 - Researchers and institutions retain nondelegable duties even when competent adults knowingly accept danger.
+- Participant agency must be reassessed when the intervention itself may impair judgment, not inferred indefinitely from initial consent or later pride.
 - Ethical analysis should distinguish voluntary sacrifice from victimization without assuming that the categories can never coexist.
 
 ## Evidence
@@ -42,6 +44,7 @@ Agency is also not a waiver of protection. Stigma against conscientious objector
 ### Pressure and severe harm
 
 - [[the-rise-of-the-guinea-pigs]] describes wartime stigma, incomplete anticipation of psychological effects, severe deterioration, and [[SamLegge]]'s starvation-related self-injury.
+- [[the-department-of-physiological-hygiene]] details mood swings, food rituals, displaced hostility, uncertain injury intent, and Legge's wish to continue despite severe deterioration.
 
 ### Contemporary comparison
 
@@ -53,11 +56,12 @@ Agency is also not a waiver of protection. Stigma against conscientious objector
 - Surviving interviewees may not represent participants with different memories, worse outcomes, or no opportunity to speak.
 - Strong moral conviction can support autonomy while also making a person unusually willing to accept harm; institutions must evaluate both possibilities.
 - Co-design and publication increase evidence of agency but do not equalize control over protocol, monitoring, stopping decisions, treatment, or scientific authority.
+- Later pride can coexist with impaired capacity during exposure; neither time point should be used to erase the other.
 
 ## What Changed
 
-- Created a participant-centered framework that separates meaningful agency from both bare consent and unlimited risk waiver.
-- Added research co-production and retrospective testimony as ethically relevant evidence with explicit representativeness limits.
+- Added the distinction between initial authorization, capacity during exposure, and later retrospective interpretation.
+- Qualified the earlier categorical self-injury description with Legge's own uncertainty about intent.
 
 ## Related Concepts
 
@@ -65,3 +69,4 @@ Agency is also not a waiver of protection. Stigma against conscientious objector
 - [[MinnesotaStarvationExperiment]] - principal case in which volunteers acted as both experimental subjects and humanitarian collaborators.
 - [[SacrificingOthersEthics]] - clarifies the difference between accepting risk oneself and authorizing another person's harm.
 - [[ExperimentalScienceEthics]] - broader institutional framework for methodological value and subject protection.
+- [[ArtCaplan]] - supplies the modern-review boundary that participant commitment cannot by itself overcome.

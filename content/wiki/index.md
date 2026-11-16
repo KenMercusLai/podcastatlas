@@ -5229,6 +5229,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Higher Animals with Michael Specter](sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter.md) — Revisionist History conversation and audiobook excerpt on synthetic biology, mRNA vaccine design, biosecurity, the 1947 New York smallpox campaign, and public trust.
 - [Rodents and Red Wine with Maria Konnikova](sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova.md) — Revisionist History ombudsman conversation on nutrition evidence, starvation research, unknown-risk consent, representative study populations, and longitudinal health observation.
 
+- [The Department of Physiological Hygiene](sources/the-department-of-physiological-hygiene.md) — Revisionist History reconstruction of the Minnesota starvation protocol, its acute psychological harms, difficult rehabilitation, scientific legacy, and modern ethical boundary.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
@@ -5240,7 +5241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Creative Act](entities/TheCreativeAct.md) — Rick Rubin's book framing creativity as an attentive way of being across art, work, relationships, and everyday problems.
 - [Mike Birbiglia](entities/MikeBirbiglia.md) — Comedian and storyteller using alternate endings, audience response, and modest character change to calibrate narrative closure.
 - [Alan Jackson](entities/AlanJackson.md) — Country singer whose George Jones funeral performance gives a familiar song a new referent and completes an argument about endings.
-- [Minnesota Starvation Experiment](entities/MinnesotaStarvationExperiment.md) — Controlled wartime dietary-restriction study framed by urgent humanitarian purpose, participant altruism, uncertain harm, and narrow population evidence.
+- [Minnesota Starvation Experiment](entities/MinnesotaStarvationExperiment.md) — Controlled wartime restriction-and-rehabilitation study joining urgent humanitarian purpose and rare evidence to profound physical, psychological, and ethical costs.
 - [Dutch Hunger Winter](entities/DutchHungerWinter.md) — World War II famine used as longitudinal natural-experiment evidence while preserving exposure, causal, and intergenerational limits.
 - [Justin Richmond](entities/JustinRichmond.md) — Journalist and podcast creator connecting educational recovery, audio work, mentorship, and public career guidance.
 - [Started From the Bottom](entities/StartedFromTheBottomPodcast.md) — Justin Richmond podcast about how successful people of color began and navigated unfamiliar career systems.
@@ -19825,9 +19826,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lake Bell](entities/LakeBell.md) — Actor, filmmaker, and author using vocal performance to examine gender, authority, celebrity persona, and mature voice.
 - [Paris Hilton](entities/ParisHilton.md) — Media personality presented as a formative modern case of intimate vocal cues becoming a recognizable celebrity identity.
 
-- [Ancel Keys](entities/AncelKeys.md) — Physiologist who directed the Minnesota Starvation Experiment after conscientious objectors helped propose and support its humanitarian purpose.
+- [Ancel Keys](entities/AncelKeys.md) — Physiologist who directed the Minnesota Starvation Experiment's controlled restriction and rehabilitation protocol after conscientious objectors helped propose its humanitarian purpose.
+- [Art Caplan](entities/ArtCaplan.md) — Bioethicist arguing that the Minnesota starvation protocol would fail modern review despite participant commitment and later scientific value.
 - [Andrew Catchpole](entities/AndrewCatchpole.md) — COVID challenge-study leader whose account of 27,000 applicants foregrounds volunteer altruism without settling residual risk.
-- [Sam Legge](entities/SamLegge.md) — Minnesota starvation volunteer whose self-injury, continued commitment, and later testimony join severe harm to chosen service.
+- [Sam Legge](entities/SamLegge.md) — Minnesota starvation volunteer whose uncertain finger injury, altered self-control, continued commitment, and later testimony join severe harm to chosen service.
 - [Sarah Tracy](entities/SarahTracy.md) — Historian whose correspondence research recovers conscientious objectors as initiators and collaborators in the Minnesota study.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2816
+topic_total_pages: 2817
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7476,6 +7476,9 @@ topic_sources:
   - key: "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398"
     title: "The Beatles: The British Invasion, with Conan O’Brien (Part 2)"
     url: "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+  - key: "the-department-of-physiological-hygiene"
+    title: "The Department of Physiological Hygiene"
+    url: "/wiki/sources/the-department-of-physiological-hygiene/"
   - key: "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007"
     title: "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup"
     url: "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"

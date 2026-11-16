@@ -17591,9 +17591,9 @@
       "url": "/wiki/entities/anaya/"
     },
     "AncelKeys": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
@@ -17601,6 +17601,13 @@
           "show": "Revisionist History",
           "title": "The Rise of the Guinea Pigs",
           "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        },
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
         }
       ],
       "updated": "2026-11-16",
@@ -23749,6 +23756,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/artbabbitt/"
+    },
+    "ArtCaplan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/artcaplan/"
     },
     "ArtCommerceIntegration": {
       "episode_count": 3,
@@ -151740,9 +151763,9 @@
       "url": "/wiki/entities/hungarianrevolution1956/"
     },
     "HungerAsTotalDeprivation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Mennonite_National_Anthem [The_Mennonite_National_Anthem].md",
@@ -151750,6 +151773,13 @@
           "show": "Revisionist History",
           "title": "The Mennonite National Anthem",
           "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
+        },
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
         }
       ],
       "updated": "2026-11-16",
@@ -215778,9 +215808,9 @@
       "url": "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
     },
     "MinnesotaStarvationExperiment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
@@ -215802,6 +215832,13 @@
           "show": "Revisionist History",
           "title": "The Rise of the Guinea Pigs",
           "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        },
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
         }
       ],
       "updated": "2026-11-16",
@@ -266812,9 +266849,9 @@
       "url": "/wiki/concepts/researchintegrityincentives/"
     },
     "ResearchParticipantAgency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
@@ -266822,6 +266859,13 @@
           "show": "Revisionist History",
           "title": "The Rise of the Guinea Pigs",
           "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        },
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
         }
       ],
       "updated": "2026-11-16",
@@ -276423,9 +276467,9 @@
       "url": "/wiki/entities/samharris/"
     },
     "SamLegge": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
@@ -276433,6 +276477,13 @@
           "show": "Revisionist History",
           "title": "The Rise of the Guinea Pigs",
           "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        },
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
         }
       ],
       "updated": "2026-11-16",
@@ -321581,9 +321632,9 @@
       "url": "/wiki/entities/universityofwashington/"
     },
     "UnknownRiskInformedConsent": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
@@ -321598,6 +321649,13 @@
           "show": "Revisionist History",
           "title": "The Rise of the Guinea Pigs",
           "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        },
+        {
+          "episode_file": "The_Department_of_Physiological_Hygiene [The_Department_of_Physiological_Hygiene].md",
+          "key": "the-department-of-physiological-hygiene",
+          "show": "Revisionist History",
+          "title": "The Department of Physiological Hygiene",
+          "url": "/wiki/sources/the-department-of-physiological-hygiene/"
         }
       ],
       "updated": "2026-11-16",
