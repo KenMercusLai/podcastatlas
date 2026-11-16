@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11573
+wiki_total_pages: 11574
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2486,6 +2486,9 @@ wiki_pages:
   - key: "ConstructiveDissent"
     title: "Constructive Dissent / 建设性异议"
     url: "/wiki/concepts/constructivedissent/"
+  - key: "ConstructiveRebellion"
+    title: "Constructive Rebellion"
+    url: "/wiki/concepts/constructiverebellion/"
   - key: "ConsumerAIHardwareProductFit"
     title: "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配"
     url: "/wiki/concepts/consumeraihardwareproductfit/"

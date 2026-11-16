@@ -53126,9 +53126,9 @@
       "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChesleySullenberger": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "This_Is_Your_Captain_Speaking [This_Is_Your_Captain_Speaking].md",
@@ -53136,9 +53136,16 @@
           "show": "Revisionist History",
           "title": "This Is Your Captain Speaking",
           "url": "/wiki/sources/this-is-your-captain-speaking/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468 [default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468].md",
+          "key": "default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Rebel with a Cause",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/chesleysullenberger/"
     },
     "ChestPainEmergencyEscalation": {
@@ -65735,9 +65742,9 @@
       "url": "/wiki/concepts/constructedcategorytrust/"
     },
     "ConstructiveDissent": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
@@ -65766,10 +65773,33 @@
           "show": "Tomorrow, Today",
           "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468 [default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468].md",
+          "key": "default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Rebel with a Cause",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/constructivedissent/"
+    },
+    "ConstructiveRebellion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468 [default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468].md",
+          "key": "default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Rebel with a Cause",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/constructiverebellion/"
     },
     "ConsumerAIHardwareProductFit": {
       "episode_count": 4,
@@ -72574,9 +72604,9 @@
       "url": "/wiki/concepts/curatorialexperiencedesign/"
     },
     "CuriosityAsLeadershipCapacity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_4373ce96943021ca49ae0133e4030078_81739952 [default.mp3_ywr3ahjkcgo_4373ce96943021ca49ae0133e4030078_81739952].md",
@@ -72584,9 +72614,16 @@
           "show": "Tomorrow, Today",
           "title": "Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468 [default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468].md",
+          "key": "default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Rebel with a Cause",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468/"
         }
       ],
-      "updated": "2026-10-28",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/curiosityasleadershipcapacity/"
     },
     "CuriosityDrivenMemoryEncoding": {
@@ -117229,6 +117266,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/francesstewart/"
+    },
+    "FrancescaGino": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468 [default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468].md",
+          "key": "default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Rebel with a Cause",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/francescagino/"
     },
     "FrancescoCaracciolo": {
       "episode_count": 1,
@@ -209044,6 +209097,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/massacreoftheinnocents/"
+    },
+    "MassimoBottura": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468 [default.mp3_ywr3ahjkcgo_47a9088936dc7be4136c0faa5df35a70_49678468].md",
+          "key": "default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Rebel with a Cause",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/massimobottura/"
     },
     "Massinissa": {
       "episode_count": 3,

@@ -41866,3 +41866,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Work 2.0: Rebel with a Cause
+
+Added a [[HiddenBrain]] episode with [[FrancescaGino]] on purposeful rule-challenge, expertise, curiosity, dissent delivery, vulnerability, and organizational safeguards. Created [[MassimoBottura]] and [[ConstructiveRebellion]], then resynthesized [[ChesleySullenberger]], [[CuriosityAsLeadershipCapacity]], and [[ConstructiveDissent]] from each page's complete preserved source inventory before appending the new source once.
+
+Core synthesis: constructive rebellion is not disruption as identity. Useful challenge joins a defensible aim to craft, continued learning, alternative search, respectful delivery, shared mission, and explicit compliance zones where safety, accuracy, rights, or trust require fixed procedure. Bottura supplies the creative-leadership case; Sullenberger supplies the safety-critical case in which flexibility is valuable because it rests on deep expertise.
+
+The episode's research-integrity warning is material. It reports fabrication allegations against Gino, her denial, multiple retractions, and the retraction of the karaoke study discussed in the episode. That study contributes no evidence to the wiki; surgeon, guitarist, sneaker, workplace, and leadership claims remain episode-scoped pending underlying methods and independent verification. No settled contradiction was adopted. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,145 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

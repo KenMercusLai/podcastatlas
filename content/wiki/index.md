@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Work 2.0: Rebel with a Cause](sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468.md) — Hidden Brain distinguishes purposeful challenge from destructive rule-breaking while keeping expertise, respectful dissent, explicit safeguards, and a retracted study in view.
 - [Work 2.0: The One-Room Commute](sources/default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044.md) — Hidden Brain and Nick Bloom use Ctrip's randomized experiment to connect remote productivity and retention gains with isolation, promotion penalties, unequal access, and conditional hybrid design.
 - [The Psychology of Self-Doubt](sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798.md) — Hidden Brain episode on the impostor phenomenon, identity-sensitive pressure, evidence-based recalibration, and the boundary between useful and harmful doubt.
 - [Bringing Up Baby](sources/default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272-default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272.md) — Hidden Brain connects infant synchrony, contingent babbling, tantrum function, lullaby coregulation, gardener parenting, and exploratory learning.
@@ -5271,6 +5272,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Francesca Gino](entities/FrancescaGino.md) — Behavioral scientist presenting rebel talent under a material research-integrity warning that excludes a retracted karaoke study from the evidence base.
+- [Massimo Bottura](entities/MassimoBottura.md) — Chef illustrating curiosity-led experimentation, employee contribution, ordinary-task participation, and shared-mission leadership.
 - [Kevin Cokley](entities/KevinCokley.md) — Psychologist connecting the impostor phenomenon to evidence calibration, identity, institutional climate, preparation, and health.
 - [Alison Gopnik](entities/AlisonGopnik.md) — Psychologist connecting gardener parenting, play, exploration, and apprenticeship to flexible development.
 - [Laura Cirelli](entities/LauraCirelli.md) — Researcher studying infant synchrony, affiliation, and helping behavior.
@@ -19944,6 +19947,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Constructive Rebellion](concepts/ConstructiveRebellion.md) — Purposeful challenge to conventions joined to competence, ethical limits, shared purpose, and explicit compliance zones.
 - [Calibrated Self-Doubt](concepts/CalibratedSelfDoubt.md) — Proportionate uncertainty that supports preparation and humility without becoming a verdict on worth, belonging, or health.
 - [Contingent Infant Vocal Feedback](concepts/ContingentInfantVocalFeedback.md) — Reciprocal process in which infant vocalization guides caregiver response and that response shapes the infant's next vocalization.
 - [Function-Sensitive Tantrum Response](concepts/FunctionSensitiveTantrumResponse.md) — Matching adult response to both an outburst's emotional phase and its behavioral consequence.

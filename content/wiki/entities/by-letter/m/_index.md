@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14577
+wiki_total_pages: 14579
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "MassachusettsInvestorsTrust"
     title: "Massachusetts Investors Trust"
     url: "/wiki/entities/massachusettsinvestorstrust/"
+  - key: "MassimoBottura"
+    title: "Massimo Bottura"
+    url: "/wiki/entities/massimobottura/"
   - key: "Massinissa"
     title: "Massinissa / 马西尼萨"
     url: "/wiki/entities/massinissa/"
