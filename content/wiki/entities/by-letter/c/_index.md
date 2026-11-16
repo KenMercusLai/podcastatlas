@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14541
+wiki_total_pages: 14542
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "ChristineDePizan"
     title: "Christine de Pizan / 克里斯蒂娜·德·皮桑"
     url: "/wiki/entities/christinedepizan/"
+  - key: "ChristinePorath"
+    title: "Christine Porath"
+    url: "/wiki/entities/christineporath/"
   - key: "ChristmasInConnecticut1992"
     title: "Christmas in Connecticut (1992 film)"
     url: "/wiki/entities/christmasinconnecticut1992/"

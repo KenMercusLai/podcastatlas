@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11528
+wiki_total_pages: 11531
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "CivilianInfrastructureAirCampaign"
     title: "Civilian Infrastructure Air Campaign"
     url: "/wiki/concepts/civilianinfrastructureaircampaign/"
+  - key: "CivilityFeedbackCulture"
+    title: "Civility Feedback Culture"
+    url: "/wiki/concepts/civilityfeedbackculture/"
   - key: "CivilizationAsDeception"
     title: "Civilization As Deception"
     url: "/wiki/concepts/civilizationasdeception/"

@@ -40394,6 +40394,14 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | How Rude!
+
+Added the Hidden Brain episode with Christine Porath on incivility's cognitive, organizational, and network effects. Created canonical pages for Porath, incivility spillover, civility feedback culture, and self-distancing recovery, then resynthesized Hidden Brain from its complete preserved eleven-source inventory before appending the new source once.
+
+No settled contradiction was adopted. Perceived disrespect varies by culture, relationship, medium, and power; direct criticism is not automatically incivility; and personal recovery does not replace prevention or accountability. Reported percentages, experiments, workplace effects, medical-team findings, and intervention benefits remain episode-scoped because the supplied document is a structured summary rather than the underlying studies.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,124 sources across 811 overview paragraphs and nine topics. Identity, synthesis-v1 structure, whitespace, index coverage, log coverage, derived synthesis, health, and publish validation passed.
+
 ## [2026-11-16] ingest | Outliers, Revisited
 
 Added the [[RevisionistHistory]] episode revisiting [[RogerBarnsley]]'s [[RelativeAgeEffect]], the way [[CumulativeSelectionAdvantage]] converts cutoff-based developmental differences into unequal coaching and gifted placement, and the persistence of relative-age skew despite decades of public knowledge.
@@ -41568,6 +41576,10 @@ No settled contradiction was adopted. Post-regime disavowal cannot identify sinc
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,123 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

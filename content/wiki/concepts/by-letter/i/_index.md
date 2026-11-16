@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11528
+wiki_total_pages: 11531
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "IncidentalExposure"
     title: "Incidental Exposure / 偶然暴露"
     url: "/wiki/concepts/incidentalexposure/"
+  - key: "IncivilityCognitiveAndSocialSpillover"
+    title: "Incivility Cognitive and Social Spillover"
+    url: "/wiki/concepts/incivilitycognitiveandsocialspillover/"
   - key: "InclusiveAIDesign"
     title: "Inclusive AI Design"
     url: "/wiki/concepts/inclusiveaidesign/"

@@ -55893,6 +55893,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/christinedepizan/"
     },
+    "ChristinePorath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447 [default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447].md",
+          "key": "default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447",
+          "show": "Hidden Brain",
+          "title": "How Rude!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/christineporath/"
+    },
     "ChristmasInConnecticut1992": {
       "episode_count": 2,
       "show_count": 1,
@@ -57492,6 +57508,22 @@
       ],
       "updated": "2026-11-09",
       "url": "/wiki/concepts/civilianinfrastructureaircampaign/"
+    },
+    "CivilityFeedbackCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447 [default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447].md",
+          "key": "default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447",
+          "show": "Hidden Brain",
+          "title": "How Rude!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/civilityfeedbackculture/"
     },
     "CivilizationFragilityAllegory": {
       "episode_count": 1,
@@ -143108,9 +143140,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -143188,6 +143220,13 @@
           "show": "Hidden Brain",
           "title": "A Conspiracy of Silence",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447 [default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447].md",
+          "key": "default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447",
+          "show": "Hidden Brain",
+          "title": "How Rude!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447/"
         }
       ],
       "updated": "2026-11-16",
@@ -156947,6 +156986,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/incipientriskexit/"
+    },
+    "IncivilityCognitiveAndSocialSpillover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447 [default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447].md",
+          "key": "default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447",
+          "show": "Hidden Brain",
+          "title": "How Rude!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/incivilitycognitiveandsocialspillover/"
     },
     "InclusiveAIDesign": {
       "episode_count": 1,
@@ -282273,6 +282328,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/selfdisruptiondiscipline/"
+    },
+    "SelfDistancingRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447 [default.mp3_ywr3ahjkcgo_8882131d0ba7e008400b1e93ffbb365b_48943447].md",
+          "key": "default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447",
+          "show": "Hidden Brain",
+          "title": "How Rude!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/selfdistancingrecovery/"
     },
     "SelfDoubtAsCreativeCheck": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11528
+wiki_total_pages: 11531
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "SelfDisruptionDiscipline"
     title: "Self-Disruption Discipline"
     url: "/wiki/concepts/selfdisruptiondiscipline/"
+  - key: "SelfDistancingRecovery"
+    title: "Self-Distancing Recovery"
+    url: "/wiki/concepts/selfdistancingrecovery/"
   - key: "SelfDoubtAsCreativeCheck"
     title: "Self-Doubt as Creative Check"
     url: "/wiki/concepts/selfdoubtascreativecheck/"

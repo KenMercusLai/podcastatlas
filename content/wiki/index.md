@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Rude!](sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447.md) — Hidden Brain and Christine Porath connect incivility to cognitive impairment, trust loss, social transmission, feedback culture, and self-distancing recovery.
 - [A Conspiracy of Silence](sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302.md) — Hidden Brain and Timur Kuran connect preference falsification to recursive conformity, authoritarian enforcement, dissent cascades, democratic pressure, humor, and civility.
 - [When Doing Right Feels Wrong](sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639.md) — Hidden Brain uses Darwin Rocher's police whistleblowing case to connect loyalty–justice conflict, moral stress, moral licensing, retaliation, and mission-directed loyalty.
 - [Relax and Win: How Bud Winter Built Speed City](sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed.md) — Revisionist History connects Bud Winter's relaxation training, talent development, sprint mechanics, and Speed City's athletic prominence to later athlete activism.
@@ -5249,6 +5250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Christine Porath](entities/ChristinePorath.md) — Behavioral scientist connecting incivility to attention, performance, trust, social transmission, and respectful workplace culture.
 - [Timur Kuran](entities/TimurKuran.md) — Economist and political scientist connecting private-public divergence to conformity feedback, dissent cascades, and political change.
 - [Darwin Rocher](entities/DarwinRocher.md) — Detroit police officer who reported a planned violent robbery by trusted colleagues, cooperated with the FBI, and endured severe retaliation.
 - [Adam Waytz](entities/AdamWaytz.md) — Psychologist interpreting whistleblowing through competing moral values, contextual salience, moral stress, and mission-directed loyalty.
@@ -19886,6 +19888,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Incivility Cognitive and Social Spillover](concepts/IncivilityCognitiveAndSocialSpillover.md) — How disrespect captures attention, degrades target and witness performance, weakens trust, and spreads into later interactions.
+- [Civility Feedback Culture](concepts/CivilityFeedbackCulture.md) — Respectful culture combining self-awareness, behavioral feedback, caring directness, trust, and repair.
+- [Self-Distancing Recovery](concepts/SelfDistancingRecovery.md) — Observer perspective and longer time horizon used to reduce emotional capture and restore effective attention.
 - [Preference Falsification](concepts/PreferenceFalsification.md) — Socially pressured misrepresentation of wants or beliefs that can manufacture apparent consensus and conceal conditions for rapid change.
 - [Loyalty–Justice Moral Conflict](concepts/LoyaltyJusticeMoralConflict.md) — Conflict in which group loyalty favors silence while fairness, harm prevention, honesty, or public duty favors disclosure.
 - [Whistleblowing as Mission Loyalty](concepts/WhistleblowingAsMissionLoyalty.md) — Frame treating grounded reporting as fidelity to an institution's legitimate purpose rather than betrayal of colleagues or leaders.
