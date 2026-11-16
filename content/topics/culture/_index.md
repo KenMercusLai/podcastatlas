@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3758
+topic_total_pages: 3759
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -11025,6 +11025,9 @@ topic_sources:
   - key: "welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0"
     title: "Welcome to Development Hell"
     url: "/wiki/sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0/"
+  - key: "we-re-back-with-more-experiments-we-re-back-with-more-experiments"
+    title: "We’re Back … With More Experiments!"
+    url: "/wiki/sources/we-re-back-with-more-experiments-we-re-back-with-more-experiments/"
   - key: "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128"
     title: "What do students lose when they rely on AI for homework?"
     url: "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"

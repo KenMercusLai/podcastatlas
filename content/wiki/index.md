@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [We’re Back … With More Experiments!](sources/we-re-back-with-more-experiments-we-re-back-with-more-experiments.md) — Revisionist History trailer previews sacrifice, suffering and service, educational privilege, and unintended consequences while deferring evidence to the later full episodes.
 - [Outliers, Revisited](sources/outliers-revisited-outliers-revisited.md) — Revisionist History connects relative-age bias, cumulative selection advantage, maturity-adjusted swimming, Wharton privilege, and beneficiary resistance to fairness reform.
 - [The Mennonite National Anthem](sources/the-mennonite-national-anthem-the-mennonite-national-anthem.md) — Revisionist History connects Lester Glick’s starvation, recovery, Mennonite faith, social-work vocation, and generosity to the Minnesota experiment’s scientific and moral legacy.
 - [From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon](sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen.md) — Lake Bell and Malcolm Gladwell separate a high-pitched, fry-inflected celebrity vocal persona from intelligence, natural variation, and mature vocal agency.

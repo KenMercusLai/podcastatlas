@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | We’re Back … With More Experiments!
+
+Added the short [[RevisionistHistory]] season trailer previewing bodily sacrifice, suffering that motivates service, inherited educational privilege, and the unintended consequences of a book. Linked its classroom fragment to [[outliers-revisited-outliers-revisited|Outliers, Revisited]] and its suffering-and-service theme to [[the-mennonite-national-anthem-the-mennonite-national-anthem|The Mennonite National Anthem]], where the later full episodes supply context and usable evidence.
+
+Core synthesis: promotional excerpts can identify the questions a season intends to explore, but they cannot support the full causal or moral conclusions of the edited stories. The later education episode develops relative-age bias, cumulative advantage, and resistance to correction, while the later Minnesota-experiment episode connects lasting harm to faith and service without making suffering necessary or justified.
+
+No settled contradiction was adopted. The unidentified book, missing-fingers story, speakers, chronology, dialogue, and causal interpretation remain unresolved in the supplied structured summary. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles, established concepts, and the automatic `wiki/overview.md` were kept closed because the trailer adds no durable evidence beyond material already represented by fuller sources.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,109 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | The Mennonite National Anthem
 
 Added the [[RevisionistHistory]] finale on [[LesterGlick]], whose diaries and family testimony connect the [[MinnesotaStarvationExperiment]] to tuberculosis, social isolation, persistent hunger, weight cycling, Mennonite service, social-work education, gardening, and food sharing. Created focused profiles for Glick and physiologist [[AbdulDulloo]], added [[PostStarvationBodyCompositionRecovery]] and [[HungerAsTotalDeprivation]], and resynthesized the experiment from its complete preserved evidence inventory before appending the new source once.
@@ -41332,6 +41342,10 @@ No settled contradiction was adopted. The episode strengthens the severe-harm an
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,107 sources across 810 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
