@@ -28647,6 +28647,22 @@
       "updated": "2026-11-11",
       "url": "/wiki/entities/axon/"
     },
+    "AyannaThomas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ayannathomas/"
+    },
     "AymanKhoury": {
       "episode_count": 2,
       "show_count": 1,
@@ -60722,9 +60738,9 @@
       "url": "/wiki/concepts/cognitiveadvisoryfeedback/"
     },
     "CognitiveAging": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -60739,9 +60755,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
           "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/cognitiveaging/"
     },
     "CognitiveAmplificationBoundary": {
@@ -144285,9 +144308,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -144393,6 +144416,13 @@
           "show": "Hidden Brain",
           "title": "You 2.0: Regrets, I Have a Few...",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
         }
       ],
       "updated": "2026-11-17",
@@ -155829,6 +155859,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/concepts/imaginationcapitalflywheel/"
+    },
+    "ImaginationInflationAndSourceConfusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/imaginationinflationandsourceconfusion/"
     },
     "ImagingRadiationRiskBenefit": {
       "episode_count": 2,
@@ -212724,9 +212770,9 @@
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "123.人性实验：当心你自己！ [779479569].md",
@@ -212755,9 +212801,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/memorycontaminationrisk/"
     },
     "MemoryDeletionEthics": {
@@ -266164,9 +266217,9 @@
       "url": "/wiki/concepts/reconstructionrollback/"
     },
     "ReconstructiveMemory": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -266195,9 +266248,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/reconstructivememory/"
     },
     "RecordAndReplay": {
@@ -284659,9 +284719,9 @@
       "url": "/wiki/concepts/selfsupervisedlearning/"
     },
     "SelfTestingMemoryPractice": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -284683,9 +284743,16 @@
           "show": "Huberman Lab",
           "title": "Optimal Protocols for Studying & Learning",
           "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670 [default.mp3_ywr3ahjkcgo_3a4a67ef76be15fef86950f56c608774_46517670].md",
+          "key": "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Did That Really Happen?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/selftestingmemorypractice/"
     },
     "SelfTranslationInIntimacy": {

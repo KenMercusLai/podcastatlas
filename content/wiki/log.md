@@ -42022,3 +42022,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | You 2.0: Did That Really Happen?
+
+Added a [[HiddenBrain]] episode with psychologist [[AyannaThomas|Ayanna Thomas]] on forgetting, schema-shaped reconstruction, photographs and family stories, leading questions, eyewitness disagreement, repeated imagination, cognitive aging, and practical learning methods. Created Thomas's focused profile and [[ImaginationInflationAndSourceConfusion]], then resynthesized [[ReconstructiveMemory]], [[MemoryContaminationRisk]], [[SelfTestingMemoryPractice]], [[CognitiveAging]], and [[HiddenBrain]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: memory is useful but reconstructive. Later stories, images, question wording, witness discussion, and repeated imagination can add fluent detail while weakening source discrimination, so confidence, vividness, and sincerity do not independently establish accuracy. The same associative machinery can aid learning when used with active retrieval, spacing, sleep, familiar routes, and distinctive imagery. One person's nonmemory does not prove nonoccurrence, and general evidence of fallibility cannot decide a particular disputed event.
+
+No settled contradiction was adopted. The episode strengthens the wiki's existing reconstruction and contamination accounts while adding imagination-driven source confusion and a stereotype-threat boundary around later-life memory testing. Historical experiments, induced-memory rates, aging effects, stereotype-threat effects, sleep mechanisms, and learning benefits remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, uncertainty intervals, or replication history. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,157 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

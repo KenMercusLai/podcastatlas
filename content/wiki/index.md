@@ -5281,8 +5281,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Putting Our Assumptions to the Test](sources/putting-our-assumptions-to-the-test.md) — Hidden Brain episode on Abhijit Banerjee, randomized field experiments, mechanism learning, and expert uncertainty.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
+- [You 2.0: Did That Really Happen?](sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670.md) — Hidden Brain and Ayanna Thomas connect reconstructive memory, source confusion, eyewitness caution, aging stereotypes, retrieval practice, spacing, sleep, and mnemonic imagery.
 
 ## Entities
+- [Ayanna Thomas](entities/AyannaThomas.md) — Psychologist connecting reconstructive memory, imagination-driven source confusion, testimony caution, cognitive aging, and learning practice.
 - [Andreas Mershin](entities/AndreasMershin.md) — Researcher connecting disease-associated metabolic odor patterns, cross-patient generalization, and canine medical screening under a strong validation boundary.
 - [Claire Guest](entities/ClaireGuest.md) — Researcher and dog trainer applying working-dog scent methods to disease-associated samples and prostate-cancer demonstrations.
 - [William Schneider](entities/WilliamSchneider.md) — Former plant virologist presented as developing inert, scalable scent-training aids for disease-detection dogs.
@@ -19976,6 +19978,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Imagination Inflation and Source Confusion](concepts/ImaginationInflationAndSourceConfusion.md) — Repeated imagination can preserve event content while obscuring whether it came from action, perception, suggestion, or imagination.
 - [Frequency-First Outbreak Screening](concepts/FrequencyFirstOutbreakScreening.md) — Rapid, inexpensive, repeated triage evaluated through timely confirmation, false-result harms, and measured transmission outcomes.
 - [Psychological Counterfactual Thinking](concepts/PsychologicalCounterfactualThinking.md) — Comparison of actual outcomes with better or worse imagined alternatives for learning, relief, and causal judgment.
 - [Regret Responsibility Attribution](concepts/RegretResponsibilityAttribution.md) — Proportionate account of personal agency that resists both total self-blame and context-based exoneration.

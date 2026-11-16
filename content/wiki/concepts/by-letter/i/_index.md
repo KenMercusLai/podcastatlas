@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11589
+wiki_total_pages: 11590
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "ImageFirstIP"
     title: "Image-First IP"
     url: "/wiki/concepts/imagefirstip/"
+  - key: "ImaginationInflationAndSourceConfusion"
+    title: "Imagination Inflation and Source Confusion"
+    url: "/wiki/concepts/imaginationinflationandsourceconfusion/"
   - key: "ImaginationCapitalFlywheel"
     title: "Imagination–Capital Flywheel / 想象—资本飞轮"
     url: "/wiki/concepts/imaginationcapitalflywheel/"

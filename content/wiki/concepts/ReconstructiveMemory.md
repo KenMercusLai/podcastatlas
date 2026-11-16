@@ -7,7 +7,8 @@ sources:
   - how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885
   - what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
-last_updated: 2026-10-09
+  - default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,11 +28,13 @@ The Wind episode supplies a live-performance case. Spectators do not merely fail
 
 The Eagleman interview adds stress and repeated-recall boundaries. Threat can narrow attention toward a weapon while leaving faces or context weakly encoded, and the later abundance of remembered detail can make an event feel longer without proving faster perception during the event. Traumatic salience does not guarantee accuracy: repeated recollection, later information, and suggestion can alter what is reconstructed.
 
+The Thomas episode connects this modern account to Ebbinghaus's forgetting curve and Bartlett's schema-shaped retellings. It adds photographs, shared family stories, leading questions, and repeated imagination as routes by which details become fluent while their source becomes uncertain. The result can be a sincere and vivid recollection that still needs corroboration; one person's failure to remember also does not prove that an event never happened.
+
 ## Key Claims
 - Memory is a representation of the past, not an exact copy of the past.
 - Repeated exposure does not ensure accurate recall unless attention actively selects and encodes relevant details.
 - Retrieval, mistakes, and feedback can improve reconstruction by exposing what is missing or wrong.
-- Source memory can fail, and confidence can rise after reconstruction even when the original trace or its origin was incomplete.
+- Source memory can fail, and confidence can rise after reconstruction even when repeated imagination or an incomplete trace obscures whether content came from action, perception, suggestion, or imagination.
 - Imagining the future draws on the same constructive machinery as remembering the past.
 - Expectations make perception efficient but can also hide changes and combine with emotion or inferred continuity to produce a more complete remembered event than the encoded sequence.
 - Retrieval may permit qualified updating of a memory's context, narrative, or emotional force.
@@ -47,14 +50,15 @@ The Eagleman interview adds stress and repeated-recall boundaries. Threat can na
 - Performance reconstruction - [[what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310]] distinguishes a spectator's memory of a trick from the event and describes emotion, inference, and attention as ingredients in the later story.
 - Stress and duration - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses weapon focus, freefall, and post-9/11 recall to separate vividness, remembered duration, and detail density from exact accuracy.
 - Recall-driven change - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] says recollection can reopen memory to later information and uses false-memory work to illustrate suggestibility.
+- Schema and source confusion - [[default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670]] connects Bartlett-style schema reconstruction with photographs, stories, leading questions, and repeatedly imagined actions.
 
 ## Counterevidence & Qualifications
-The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. A magician's practitioner account illustrates these constraints but does not isolate their causal contributions. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. Weapon-focus, post-9/11 drift, and false-memory examples remain source summaries rather than a technical forensic-memory review.
+The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. A magician's practitioner account illustrates these constraints but does not isolate their causal contributions. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. Weapon-focus, post-9/11 drift, imagination-inflation, eyewitness, and false-memory examples remain source summaries rather than a technical forensic-memory review; general fallibility cannot determine which account is accurate in a particular disputed event.
 
 ## What Changed
-- Added the distinction among high emotional salience, dense retrospective detail, and accurate event memory.
-- Added attentional narrowing and repeated recall as interacting reconstruction routes.
-- Clarified that traumatic vividness does not make testimony immune to drift or suggestion.
+- Added schema-driven reconstruction, repeated imagination, and source confusion.
+- Clarified that nonmemory does not prove nonoccurrence and general memory fallibility cannot decide a specific dispute.
+- Connected classic forgetting and reconstruction experiments to photographs, family stories, and leading questions.
 
 ## Related Concepts
 - [[SelfTestingMemoryPractice]] - retrieval and correction method that improves later reconstruction.
@@ -66,3 +70,4 @@ The sources do not claim memory is arbitrary or useless. Some memories are stabl
 - [[ContextualEpisodicMemory]] - context-binding layer that gives reconstructed events their situated structure.
 - [[MemoryReconsolidationPsychiatry]] - narrower clinical hypothesis about updating trauma-linked memories or rules.
 - [[MagicAttentionMemoryDesign]] - performance-specific use of attention and timing to shape later reconstruction.
+- [[ImaginationInflationAndSourceConfusion]] - mechanism by which imagined content can be mistaken for performed or perceived experience.

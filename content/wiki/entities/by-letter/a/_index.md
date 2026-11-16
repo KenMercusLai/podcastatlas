@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14597
+wiki_total_pages: 14598
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2255,6 +2255,9 @@ wiki_pages:
   - key: "Axon"
     title: "Axon"
     url: "/wiki/entities/axon/"
+  - key: "AyannaThomas"
+    title: "Ayanna Thomas"
+    url: "/wiki/entities/ayannathomas/"
   - key: "AyeAye"
     title: "Aye-Aye / 爱爱狐猴"
     url: "/wiki/entities/ayeaye/"
