@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3565
+topic_total_pages: 3567
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3397,6 +3397,9 @@ topic_concepts:
   - key: "PoliticalFuneral"
     title: "Political Funeral"
     url: "/wiki/concepts/politicalfuneral/"
+  - key: "PoliticalHobbyism"
+    title: "Political Hobbyism"
+    url: "/wiki/concepts/politicalhobbyism/"
   - key: "PoliticalIdentityPremium"
     title: "Political Identity Premium"
     url: "/wiki/concepts/politicalidentitypremium/"
@@ -9933,6 +9936,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693"
     title: "Politicians are afraid to fix taxes. So 100 citizens tried."
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+  - key: "default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082"
+    title: "Politics Is for Power: Moving Beyond Political Hobbyism"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082/"
   - key: "president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel"
     title: "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America"
     url: "/wiki/sources/president-barack-obama-malcolm-gladwell-how-reconstruction-still-defines-america-president-barack-obama-malcolm-gladwel/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11578
+wiki_total_pages: 11580
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "PoliticalFuneral"
     title: "Political Funeral"
     url: "/wiki/concepts/politicalfuneral/"
+  - key: "PoliticalHobbyism"
+    title: "Political Hobbyism"
+    url: "/wiki/concepts/politicalhobbyism/"
   - key: "PoliticalIdentityPremium"
     title: "Political Identity Premium"
     url: "/wiki/concepts/politicalidentitypremium/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Politics Is for Power: Moving Beyond Political Hobbyism](sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082.md) — Hidden Brain and Eytan Hirsch distinguish political hobbyism from local service, organization, turnout, persuasion, and institution-focused power building.
 - [Being Kind to Yourself](sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469.md) — Hidden Brain and Kristin Neff connect self-kindness, mindfulness, common humanity, protective self-criticism, and shame-safe accountability with explicit evidence limits.
 - [Teaser: The Compromises of Al Levitt](sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt.md) — Revisionist History teaser on Al Levitt's interrupted screenwriting path, wartime film service, and dismissive recollection of Ronald Reagan at the First Motion Picture Unit.
 - [Teaser: Pushkin’s Dirty Laundry](sources/teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry.md) — Revisionist History teaser on internal detergent backlash, disputed corporate environmental claims, ethical consumption, and lifestyle stereotypes.
@@ -5277,6 +5278,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 
 ## Entities
+- [Eytan Hirsch](entities/EytanHirsch.md) — Political scientist distinguishing political hobbyism from sustained local organization, service, persuasion, and power building.
 - [Kristin Neff](entities/KristinNeff.md) — Psychologist represented through her three-part self-compassion framework, accountable-care boundary, and practical response to the inner critic.
 - [Brendan Francis Newnam](entities/BrendanFrancisNewnam.md) — Pushkin executive defending Ecover and challenging the evidence and stereotypes behind an earlier detergent judgment.
 - [Lital Molad](entities/LitalMolad.md) — Pushkin content executive whose sponsorship question prompts scrutiny of extensive favorable corporate coverage.
@@ -19961,6 +19963,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Political Hobbyism](concepts/PoliticalHobbyism.md) — Political attention used mainly for information, identity, emotion, status, or spectacle without an organized attempt to influence people or institutions.
+- [Community-Service Power Building](concepts/CommunityServicePowerBuilding.md) — Conversion of reliable practical help into trust, organized participation, turnout capacity, and institutional leverage.
 - [Self-Compassion](concepts/SelfCompassion.md) — Practice joining self-kindness, mindful pain recognition, and common humanity with conduct-specific accountability and change.
 - [Ethical Consumer Choice Evaluation](concepts/EthicalConsumerChoiceEvaluation.md) — Multi-criterion product comparison that separates performance, corporate conduct, environmental scope, evidence quality, and consumer stereotypes.
 - [Transcranial Direct-Current Stimulation Research Boundary](concepts/TranscranialDirectCurrentStimulationResearchBoundary.md) — Boundary between a temporary laboratory probe and an established everyday cognitive enhancement.

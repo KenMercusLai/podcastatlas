@@ -63030,6 +63030,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/communityledsaasgrowth/"
     },
+    "CommunityServicePowerBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082 [default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082].md",
+          "key": "default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082",
+          "show": "Hidden Brain",
+          "title": "Politics Is for Power: Moving Beyond Political Hobbyism",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/communityservicepowerbuilding/"
+    },
     "CommunityVsContentPlatform": {
       "episode_count": 3,
       "show_count": 2,
@@ -78426,6 +78442,29 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/deepbrainstimulationpsychiatry/"
+    },
+    "DeepCanvassing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
+          "key": "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318",
+          "show": "蜜獾吃书",
+          "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+          "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082 [default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082].md",
+          "key": "default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082",
+          "show": "Hidden Brain",
+          "title": "Politics Is for Power: Moving Beyond Political Hobbyism",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/deepcanvassing/"
     },
     "DeepChat": {
       "episode_count": 1,
@@ -105951,6 +105990,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/eyrecrowe/"
+    },
+    "EytanHirsch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082 [default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082].md",
+          "key": "default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082",
+          "show": "Hidden Brain",
+          "title": "Politics Is for Power: Moving Beyond Political Hobbyism",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/eytanhirsch/"
     },
     "FESmith": {
       "episode_count": 1,
@@ -250435,6 +250490,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/politicalfuneral/"
+    },
+    "PoliticalHobbyism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082 [default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082].md",
+          "key": "default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082",
+          "show": "Hidden Brain",
+          "title": "Politics Is for Power: Moving Beyond Political Hobbyism",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/politicalhobbyism/"
     },
     "PoliticalMagnificenceStructuralFragility": {
       "episode_count": 3,

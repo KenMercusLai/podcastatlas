@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3773
+topic_total_pages: 3774
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2824,6 +2824,9 @@ topic_concepts:
   - key: "PoliticalConditionAsHumanExperiment"
     title: "Political Condition As Human Experiment / 政治条件作为人性实验"
     url: "/wiki/concepts/politicalconditionashumanexperiment/"
+  - key: "PoliticalHobbyism"
+    title: "Political Hobbyism"
+    url: "/wiki/concepts/politicalhobbyism/"
   - key: "PoliticalIdentityPremium"
     title: "Political Identity Premium"
     url: "/wiki/concepts/politicalidentitypremium/"
