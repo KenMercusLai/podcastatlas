@@ -8932,6 +8932,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/adahsharma/"
     },
+    "AdamAlter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/adamalter/"
+    },
     "AdamCsank": {
       "episode_count": 1,
       "show_count": 1,
@@ -53229,6 +53245,29 @@
       "updated": "2026-10-13",
       "url": "/wiki/concepts/childdeatheducation/"
     },
+    "ChildExperimentEthics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "68.疯狂实验史：哎！这该死的求知欲… [664384549].md",
+          "key": "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549",
+          "show": "蜜獾吃书",
+          "title": "68.疯狂实验史：哎！这该死的求知欲…",
+          "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+        },
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/childexperimentethics/"
+    },
     "ChildMentalHealthFamilySystemsSupport": {
       "episode_count": 6,
       "show_count": 1,
@@ -80837,9 +80876,9 @@
       "url": "/wiki/concepts/developmentalauthoritarianlegitimacy/"
     },
     "DevelopmentalIndividuality": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -80854,9 +80893,16 @@
           "show": "Huberman Lab",
           "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
           "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
+        },
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/developmentalindividuality/"
     },
     "DeviceFormFactorFragmentation": {
@@ -100255,9 +100301,9 @@
       "url": "/wiki/concepts/environmentbasedagentbenchmarks/"
     },
     "EnvironmentOverWillpower": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -100286,9 +100332,16 @@
           "show": "Huberman Lab",
           "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
           "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        },
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/environmentoverwillpower/"
     },
     "EnvironmentTieredAIGovernance": {
@@ -104493,9 +104546,9 @@
       "url": "/wiki/concepts/experimentallifedesign/"
     },
     "ExperimentalTractabilityValidityTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Rat_vs_Raccoon [Rat_vs_Raccoon].md",
@@ -104503,9 +104556,16 @@
           "show": "Revisionist History",
           "title": "Rat vs. Raccoon",
           "url": "/wiki/sources/rat-vs-raccoon-rat-vs-raccoon/"
+        },
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/experimentaltractabilityvaliditytradeoff/"
     },
     "ExperimentationProductionModelSplit": {
@@ -156560,6 +156620,22 @@
       "updated": "2026-10-13",
       "url": "/wiki/concepts/importedtroopslocalelitecleavage/"
     },
+    "ImpossibleExperimentDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/impossibleexperimentdesign/"
+    },
     "ImpostorSyndrome": {
       "episode_count": 3,
       "show_count": 3,
@@ -173688,6 +173764,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/joyclubnovel/"
+    },
+    "JoyceBenenson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/joycebenenson/"
     },
     "JoyceMalcolm": {
       "episode_count": 1,
@@ -223023,6 +223115,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/nanli/"
+    },
+    "NancySegal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/nancysegal/"
     },
     "NancyWilson": {
       "episode_count": 1,
@@ -297919,6 +298027,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/stefanzweig/"
+    },
+    "StellaVolpe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
+          "key": "the-magic-wand-experiment-the-magic-wand-experiment",
+          "show": "Revisionist History",
+          "title": "The Magic Wand Experiment",
+          "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/stellavolpe/"
     },
     "Stellantis": {
       "episode_count": 2,

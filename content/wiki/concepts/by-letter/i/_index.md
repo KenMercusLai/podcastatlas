@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11516
+wiki_total_pages: 11517
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "ImportedTroopsLocalEliteCleavage"
     title: "Imported Troops Local Elite Cleavage / 外来武装与本土豪族裂缝"
     url: "/wiki/concepts/importedtroopslocalelitecleavage/"
+  - key: "ImpossibleExperimentDesign"
+    title: "Impossible Experiment Design"
+    url: "/wiki/concepts/impossibleexperimentdesign/"
   - key: "ImpostorSyndrome"
     title: "Impostor Syndrome"
     url: "/wiki/concepts/impostorsyndrome/"

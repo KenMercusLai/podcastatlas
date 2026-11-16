@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14529
+wiki_total_pages: 14533
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1487,6 +1487,9 @@ wiki_pages:
   - key: "JoyFM"
     title: "Joy FM"
     url: "/wiki/entities/joyfm/"
+  - key: "JoyceBenenson"
+    title: "Joyce Benenson"
+    url: "/wiki/entities/joycebenenson/"
   - key: "JoyceMalcolm"
     title: "Joyce Malcolm"
     url: "/wiki/entities/joycemalcolm/"

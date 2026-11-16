@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | The Magic Wand Experiment
+
+Added the [[RevisionistHistory]] episode in which [[MalcolmGladwell]], [[JoyceBenenson]], [[AdamAlter]], [[NancySegal]], and [[StellaVolpe]] use deliberately impossible studies to expose unresolved questions about development, screen exposure, racialized treatment, technological generations, and environment-led public health. Created focused profiles for the four researchers and [[ImpossibleExperimentDesign]], then resynthesized [[DevelopmentalIndividuality]], [[ExperimentalTractabilityValidityTradeoff]], [[EnvironmentOverWillpower]], and [[ChildExperimentEthics]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: removing money, logistics, ethics, and practicality can clarify an ideal causal comparison, but it cannot turn a prediction into a finding or make an impermissible study legitimate. Stronger control can expose confounding while erasing consent, ordinary development, historical comparability, accessibility, and ecological validity. Volpe's proposal extends environment design from personal habits to public infrastructure, while Benenson's strong sex-linked prediction remains in tension with an interactional developmental account rather than establishing a contradiction.
+
+No settled contradiction was adopted. The episode supplies thought experiments and expert predictions rather than completed protocols or results; its sex, screen, race, generation, and population-health claims remain source-scoped. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories.
+
 ## [2026-11-16] ingest | In Triplicate
 
 Added the [[RevisionistHistory]] episode tracing [[TriplicatePrescriptionMonitoring]] from [[PaulMadden]]'s California system through [[SidneyWolfe]]'s unsuccessful national campaign and [[PurduePharma]]'s OxyContin launch strategy. Created focused profiles for Madden, Wolfe, and Purdue plus [[MessengerBasedEvidenceDiscounting]], then resynthesized [[InstitutionalInnovationAdoptionResistance]] and [[PublicIntellectualErrorCorrection]] from their complete preserved evidence inventories before appending the new source once.
@@ -41464,6 +41472,10 @@ No settled contradiction was adopted. Earlier iodine toxicity and later preventi
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,116 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

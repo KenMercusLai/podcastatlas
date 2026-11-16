@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Magic Wand Experiment](sources/the-magic-wand-experiment-the-magic-wand-experiment.md) — Revisionist History uses impossible studies to expose causal questions about development, screens, social treatment, technology, and environment-led public health.
 - [咱们80后：一个代际与中国追赶的40年](sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e.md) — 面基以80后的生命轨迹连接快速现代化、教育、住房、家庭责任、中年风险与AI转型。
 - [Way to Go, Ohio](sources/way-to-go-ohio-way-to-go-ohio.md) — Revisionist History connects Akron's iodine experiment and iodized salt to a deliberately impossible vaccine-delivery thought experiment about form, friction, consent, and trust.
 - [In Triplicate](sources/in-triplicate.md) — Revisionist History connects triplicate prescription monitoring, Purdue's launch strategy, opioid outcomes, ignored warnings, and messenger-based evidence discounting.
@@ -5243,6 +5244,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Joyce Benenson](entities/JoyceBenenson.md) — Child psychologist using an impossible sex-perception experiment to separate biological and parental influence.
+- [Adam Alter](entities/AdamAlter.md) — Psychologist proposing lifelong randomized screen exposure to study social and developmental effects.
+- [Nancy Segal](entities/NancySegal.md) — Twin researcher using natural and imagined comparisons to separate genes, upbringing, social treatment, and era.
+- [Stella Volpe](entities/StellaVolpe.md) — Nutritionist and exercise physiologist proposing population-scale environmental redesign for health.
 - [David Marine](entities/DavidMarine.md) — Physician whose Akron school experiment is presented as the evidentiary bridge from iodine-deficiency research to goiter prevention.
 - [Seema Sagayar](entities/SeemaSagayar.md) — Expert interlocutor separating vaccine delivery form, needle fear, framing, convenience, behavior, and consent.
 - [Sidney Wolfe](entities/SidneyWolfe.md) — Physician and consumer advocate who sought national prescription monitoring before OxyContin's launch.
@@ -19868,6 +19873,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Impossible Experiment Design](concepts/ImpossibleExperimentDesign.md) — Deliberately infeasible study design used to clarify ideal causal comparisons without treating imagined outcomes as evidence.
 - [Generational Formation Under Rapid Change / 快速变迁中的代际形成](concepts/GenerationalFormationUnderRapidChange.md) — 以社会变化速度和人生阶段暴露解释代际共性，同时保留阶层、地域、职业与价值差异。
 - [Midlife Risk Recalibration / 中年风险再校准](concepts/MidlifeRiskRecalibration.md) — 在产业、资产和家庭责任变化中，从增长最大化转向现金流、健康、适应力与期权保留。
 - [Intergenerational Responsibility Transition / 代际责任转型](concepts/IntergenerationalResponsibilityTransition.md) — 成人承担向上赡养，却不再把子女视为未来养老工具的非对称家庭转型。

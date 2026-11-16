@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1674
+topic_total_pages: 1678
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2717,6 +2717,9 @@ topic_entities:
   - key: "A23A"
     title: "A23A"
     url: "/wiki/entities/a23a/"
+  - key: "AdamAlter"
+    title: "Adam Alter"
+    url: "/wiki/entities/adamalter/"
   - key: "AdamSubhas"
     title: "Adam Subhas"
     url: "/wiki/entities/adamsubhas/"
@@ -3206,6 +3209,9 @@ topic_entities:
   - key: "JosephBell"
     title: "Joseph Bell"
     url: "/wiki/entities/josephbell/"
+  - key: "JoyceBenenson"
+    title: "Joyce Benenson"
+    url: "/wiki/entities/joycebenenson/"
   - key: "JunhaoWen"
     title: "Junhao Wen"
     url: "/wiki/entities/junhaowen/"
@@ -3365,6 +3371,9 @@ topic_entities:
   - key: "MedecinsSansFrontieres"
     title: "Médecins Sans Frontières / 无国界医生"
     url: "/wiki/entities/medecinssansfrontieres/"
+  - key: "NancySegal"
+    title: "Nancy Segal"
+    url: "/wiki/entities/nancysegal/"
   - key: "NanoSense"
     title: "NanoSense"
     url: "/wiki/entities/nanosense/"
@@ -4794,6 +4803,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
     title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"
+  - key: "the-magic-wand-experiment-the-magic-wand-experiment"
+    title: "The Magic Wand Experiment"
+    url: "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
   - key: "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189"
     title: "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple"
     url: "/wiki/sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189/"

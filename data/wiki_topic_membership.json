@@ -13109,6 +13109,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdamAlter": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AdamBain": [
     {
       "key": "economics",
@@ -55226,6 +55238,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "JoyceBenenson": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "JoyoAmazonChina": [
     {
       "key": "culture",
@@ -67069,6 +67088,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NancySegal": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NandanNilekani": [
@@ -115246,6 +115272,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "the-magic-wand-experiment-the-magic-wand-experiment": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189": [

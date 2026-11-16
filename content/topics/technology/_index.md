@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3873
+topic_total_pages: 3874
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5450,6 +5450,9 @@ topic_entities:
   - key: "AdahSharma"
     title: "Adah Sharma"
     url: "/wiki/entities/adahsharma/"
+  - key: "AdamAlter"
+    title: "Adam Alter"
+    url: "/wiki/entities/adamalter/"
   - key: "AdamDAngelo"
     title: "Adam D'Angelo"
     url: "/wiki/entities/adamdangelo/"

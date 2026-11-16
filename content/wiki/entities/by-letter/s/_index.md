@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14529
+wiki_total_pages: 14533
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1691,6 +1691,9 @@ wiki_pages:
   - key: "Stelato"
     title: "Stelato / 享界"
     url: "/wiki/entities/stelato/"
+  - key: "StellaVolpe"
+    title: "Stella Volpe"
+    url: "/wiki/entities/stellavolpe/"
   - key: "Stellantis"
     title: "Stellantis"
     url: "/wiki/entities/stellantis/"
