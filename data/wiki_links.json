@@ -30855,6 +30855,10 @@
     "title": "Dutch East India Company",
     "url": "/wiki/entities/dutcheastindiacompany/"
   },
+  "DutchHungerWinter": {
+    "title": "Dutch Hunger Winter",
+    "url": "/wiki/entities/dutchhungerwinter/"
+  },
   "DutchRepublic": {
     "title": "Dutch Republic",
     "url": "/wiki/entities/dutchrepublic/"
@@ -34098,6 +34102,10 @@
   "EvidenceOverTestimony": {
     "title": "Evidence Over Testimony",
     "url": "/wiki/concepts/evidenceovertestimony/"
+  },
+  "EvidencePopulationRepresentativeness": {
+    "title": "Evidence Population Representativeness",
+    "url": "/wiki/concepts/evidencepopulationrepresentativeness/"
   },
   "EvidenceSuppressionDynasticCompromise": {
     "title": "证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise",
@@ -65639,6 +65647,10 @@
     "title": "Minnesota",
     "url": "/wiki/entities/minnesota/"
   },
+  "MinnesotaStarvationExperiment": {
+    "title": "Minnesota Starvation Experiment",
+    "url": "/wiki/entities/minnesotastarvationexperiment/"
+  },
   "MinoanCivilization": {
     "title": "Minoan Civilization",
     "url": "/wiki/entities/minoancivilization/"
@@ -71086,6 +71098,10 @@
   "OprahWinfrey": {
     "title": "Oprah Winfrey",
     "url": "/wiki/entities/oprahwinfrey/"
+  },
+  "OptInLongitudinalHealthObservation": {
+    "title": "Opt-In Longitudinal Health Observation",
+    "url": "/wiki/concepts/optinlongitudinalhealthobservation/"
   },
   "OptInWorkplaceHealthMonitoring": {
     "title": "Opt-In Workplace Health Monitoring",
@@ -97547,6 +97563,10 @@
     "title": "University Opportunity Density",
     "url": "/wiki/concepts/universityopportunitydensity/"
   },
+  "UnknownRiskInformedConsent": {
+    "title": "Informed Consent Under Unknown Risk",
+    "url": "/wiki/concepts/unknownriskinformedconsent/"
+  },
   "UnknownWarrior": {
     "title": "Unknown Warrior",
     "url": "/wiki/entities/unknownwarrior/"
@@ -114378,6 +114398,10 @@
   "roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674": {
     "title": "Roaring trades: oil majors' secret success story",
     "url": "/wiki/sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674/"
+  },
+  "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova": {
+    "title": "Rodents and Red Wine with Maria Konnikova",
+    "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
   },
   "rolex-1": {
     "title": "Rolex",

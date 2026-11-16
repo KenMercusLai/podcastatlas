@@ -34182,6 +34182,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DutchHungerWinter": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DutchRepublic": [
     {
       "key": "economics",
@@ -65142,6 +65149,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MinnesotaStarvationExperiment": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MinoanCivilization": [

@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11481
+wiki_total_pages: 11484
 wiki_pages:
+  - key: "UnknownRiskInformedConsent"
+    title: "Informed Consent Under Unknown Risk"
+    url: "/wiki/concepts/unknownriskinformedconsent/"
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
     url: "/wiki/concepts/us2025expectationgaps/"

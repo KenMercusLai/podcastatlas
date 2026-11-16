@@ -88328,6 +88328,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/dutcheastindiacompany/"
     },
+    "DutchHungerWinter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
+          "key": "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Rodents and Red Wine with Maria Konnikova",
+          "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/dutchhungerwinter/"
+    },
     "DutchRepublic": {
       "episode_count": 3,
       "show_count": 1,
@@ -102484,6 +102500,22 @@
       ],
       "updated": "2026-08-05",
       "url": "/wiki/concepts/evidenceovertestimony/"
+    },
+    "EvidencePopulationRepresentativeness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
+          "key": "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Rodents and Red Wine with Maria Konnikova",
+          "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/evidencepopulationrepresentativeness/"
     },
     "EvidenceSuppressionDynasticCompromise": {
       "episode_count": 1,
@@ -204693,9 +204725,9 @@
       "url": "/wiki/entities/mariahalpin/"
     },
     "MariaKonnikova": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -204710,6 +204742,13 @@
           "show": "Revisionist History",
           "title": "Feeling A Bit Attacked with Maria Konnikova",
           "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
+          "key": "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Rodents and Red Wine with Maria Konnikova",
+          "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
         }
       ],
       "updated": "2026-11-16",
@@ -215383,6 +215422,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
+    },
+    "MinnesotaStarvationExperiment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
+          "key": "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Rodents and Red Wine with Maria Konnikova",
+          "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/minnesotastarvationexperiment/"
     },
     "MinoanCivilization": {
       "episode_count": 3,
@@ -233853,6 +233908,22 @@
       ],
       "updated": "2026-11-08",
       "url": "/wiki/concepts/opportunityseekingaswork/"
+    },
+    "OptInLongitudinalHealthObservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
+          "key": "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Rodents and Red Wine with Maria Konnikova",
+          "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/optinlongitudinalhealthobservation/"
     },
     "OptInWorkplaceHealthMonitoring": {
       "episode_count": 1,
@@ -320989,6 +321060,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/universityofwashington/"
+    },
+    "UnknownRiskInformedConsent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
+          "key": "rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Rodents and Red Wine with Maria Konnikova",
+          "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/unknownriskinformedconsent/"
     },
     "UnknownWarrior": {
       "episode_count": 1,

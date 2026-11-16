@@ -41182,3 +41182,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Rodents and Red Wine with Maria Konnikova
+
+Added the [[RevisionistHistory]] ombudsman conversation in which [[MariaKonnikova]] and [[MalcolmGladwell]] revisit iodine and fluoride policy, nutrition evidence, the [[MinnesotaStarvationExperiment]], and the [[DutchHungerWinter]]. Created focused profiles for the two starvation cases, added [[UnknownRiskInformedConsent]], [[EvidencePopulationRepresentativeness]], and [[OptInLongitudinalHealthObservation]], and extended Konnikova from her complete preserved evidence inventory.
+
+Core synthesis: participant altruism and urgent public benefit matter, but neither makes consent sufficient when harm is unknown, social pressure is material, or a nonconsenting third party bears risk. Controlled experiments, natural experiments, anecdotes, observational associations, and large sensor cohorts answer different questions; population fit, causal design, privacy, governance, and downstream use remain part of the evidence judgment.
+
+No settled contradiction was adopted. The episode reinforces the wiki's mechanism-to-outcome boundary for resveratrol and wine, while Gladwell and Konnikova retain a genuine normative disagreement over how much weight altruistic risk should receive. Fortification, thyroid improvement, starvation effects, intergenerational epigenetics, media violence, sex differences, and sensor-based discovery remain episode-scoped because the supplied file is a structured summary rather than a transcript, trial report, ethics standard, or systematic review. Broad [[MalcolmGladwell]], [[RevisionistHistory]], legacy [[ExperimentalScienceEthics]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,098 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

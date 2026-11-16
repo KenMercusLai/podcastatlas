@@ -5220,8 +5220,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Mystery of Mastery with Adam Gopnik](sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik.md) — Revisionist History conversation on craft learning, shop talk, shared activity, amateur participation, expert appreciation, and committed performance.
 - [Malcolm Goes to Debate School](sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school.md) — Revisionist History postmortem on audience-centered persuasion, hostile framing, emotional investment, and flowing as trained argument listening.
 - [Higher Animals with Michael Specter](sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter.md) — Revisionist History conversation and audiobook excerpt on synthetic biology, mRNA vaccine design, biosecurity, the 1947 New York smallpox campaign, and public trust.
+- [Rodents and Red Wine with Maria Konnikova](sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova.md) — Revisionist History ombudsman conversation on nutrition evidence, starvation research, unknown-risk consent, representative study populations, and longitudinal health observation.
 
 ## Entities
+- [Minnesota Starvation Experiment](entities/MinnesotaStarvationExperiment.md) — Controlled wartime dietary-restriction study framed by urgent humanitarian purpose, participant altruism, uncertain harm, and narrow population evidence.
+- [Dutch Hunger Winter](entities/DutchHungerWinter.md) — World War II famine used as longitudinal natural-experiment evidence while preserving exposure, causal, and intergenerational limits.
 - [Justin Richmond](entities/JustinRichmond.md) — Journalist and podcast creator connecting educational recovery, audio work, mentorship, and public career guidance.
 - [Started From the Bottom](entities/StartedFromTheBottomPodcast.md) — Justin Richmond podcast about how successful people of color began and navigated unfamiliar career systems.
 - [Michael Specter](entities/MichaelSpecter.md) — Science writer and author connecting programmable biology, dual-use risk, public-health history, and earned trust.
@@ -19804,6 +19807,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
 
 ## Concepts
+- [Informed Consent Under Unknown Risk](concepts/UnknownRiskInformedConsent.md) — Research-ethics framework for consent when consequences cannot be fully specified, balancing altruism with proportionality, pressure, and third-party risk.
+- [Evidence Population Representativeness](concepts/EvidencePopulationRepresentativeness.md) — Requirement that a study population and subgroup analysis fit the people and decisions to which findings will be applied.
+- [Opt-In Longitudinal Health Observation](concepts/OptInLongitudinalHealthObservation.md) — Large-scale voluntary sensor research whose discovery promise remains bounded by causal, privacy, security, and governance limits.
 - [Mentorship as Institutional Navigation](concepts/MentorshipInstitutionalNavigation.md) — Guidance that translates hidden rules, language, risks, and next actions inside unfamiliar systems.
 - [Racialized Second-Chance Asymmetry](concepts/RacializedSecondChanceAsymmetry.md) — Unequal conversion of mistakes into temporary conduct for some people and fixed identity for others.
 - [Socially Produced Confidence](concepts/SociallyProducedConfidence.md) — Confidence sustained or eroded by recognition, guidance, opportunity, material pressure, and room to recover.

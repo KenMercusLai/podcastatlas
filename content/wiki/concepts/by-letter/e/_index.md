@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11481
+wiki_total_pages: 11484
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "EvidenceOverTestimony"
     title: "Evidence Over Testimony"
     url: "/wiki/concepts/evidenceovertestimony/"
+  - key: "EvidencePopulationRepresentativeness"
+    title: "Evidence Population Representativeness"
+    url: "/wiki/concepts/evidencepopulationrepresentativeness/"
   - key: "EvidenceBasedCivicCooperation"
     title: "Evidence-Based Civic Cooperation"
     url: "/wiki/concepts/evidencebasedciviccooperation/"

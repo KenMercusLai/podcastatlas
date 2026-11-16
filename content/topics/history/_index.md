@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2812
+topic_total_pages: 2814
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2156,6 +2156,9 @@ topic_entities:
   - key: "DurringtonWalls"
     title: "Durrington Walls"
     url: "/wiki/entities/durringtonwalls/"
+  - key: "DutchHungerWinter"
+    title: "Dutch Hunger Winter"
+    url: "/wiki/entities/dutchhungerwinter/"
   - key: "EdwardThreate"
     title: "Edward Threate"
     url: "/wiki/entities/edwardthreate/"
@@ -2366,6 +2369,9 @@ topic_entities:
   - key: "Mexico"
     title: "Mexico"
     url: "/wiki/entities/mexico/"
+  - key: "MinnesotaStarvationExperiment"
+    title: "Minnesota Starvation Experiment"
+    url: "/wiki/entities/minnesotastarvationexperiment/"
   - key: "MinoanCivilization"
     title: "Minoan Civilization"
     url: "/wiki/entities/minoancivilization/"
