@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3875
+topic_total_pages: 3876
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10053,6 +10053,9 @@ topic_sources:
   - key: "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41"
     title: "Bargaining chips: Nvidia is the bank of AI"
     url: "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+  - key: "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490"
+    title: "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
   - key: "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128"
     title: "Behind the screens: What it’s like to interview an AI news agent"
     url: "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"

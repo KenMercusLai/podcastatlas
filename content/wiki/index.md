@@ -5258,8 +5258,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 - [Putting Our Assumptions to the Test](sources/putting-our-assumptions-to-the-test.md) — Hidden Brain episode on Abhijit Banerjee, randomized field experiments, mechanism learning, and expert uncertainty.
+- [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Kiku Sharda](entities/KikuSharda.md) — Indian actor connecting costume-led character embodiment, collaborative television comedy, and human performance under AI.
+- [Kapil Sharma](entities/KapilSharma.md) — Indian comedian and host represented as a central improvisational collaborator in ensemble television comedy.
 - [William Irvine](entities/WilliamIrvine.md) — Philosopher presenting Stoicism as practical training in control allocation, early reframing, manageable discomfort, and renewed appreciation.
 - [Naomi Rothman](entities/NaomiRothman.md) — Psychologist studying how mixed emotions shape judgment, creativity, negotiation, status perception, and leadership.
 - [Erica Chenoweth](entities/EricaChenoweth.md) — Political scientist whose comparative campaign research anchors the episode's strategic case for civil resistance.
@@ -19917,6 +19920,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Character Embodiment Through Costume](concepts/CharacterEmbodimentThroughCostume.md) — Acting method joining completed appearance and imagined biography to embodied character response.
 - [Stoic Control Allocation](concepts/StoicControlAllocation.md) — Three-part allocation of effort across chosen action, external fact, and mixed outcomes, with internal-goal and structural boundaries.
 - [Stoic Setback Reframing](concepts/StoicSetbackReframing.md) — Bounded early-response practices for limiting secondary anger and rumination without denying harm or needed care.
 - [Emotional Ambivalence](concepts/EmotionalAmbivalence.md) — Simultaneous positive and negative feeling that can impose decision and status costs while supporting inquiry, advice-taking, and cognitive flexibility.

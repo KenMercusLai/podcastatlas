@@ -41711,6 +41711,20 @@ No settled contradiction was adopted. The target-versus-victim distinction can s
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,133 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
+## [2026-11-17] ingest | Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan
+
+Added a [[TomorrowToday]] interview with [[KikuSharda]] on family expectations, education, theatre and camera craft, costume-led transformation, television comedy, parody risk, laughter, grief, and AI-era creative work. Created focused profiles for Sharda and [[KapilSharma]], and created [[CharacterEmbodimentThroughCostume]].
+
+Resynthesized [[TomorrowToday]], [[ShekharNatarajan]], [[EnsembleComedyProduction]], and [[ActorAIPerformanceBoundary]] from their complete preserved source inventories before appending the new source once. Core synthesis: comic performance emerges from writers, embodied character choices, scene-partner reading, live atmosphere, audience response, and editing; AI may change production and reproduce likeness, but technical replication does not by itself establish consent, authorship, ethical judgment, or embodied performance.
+
+No settled contradiction was adopted. Willingness to learn AI does not imply that synthetic likeness equals human performance, willingness to apologize for hurt does not settle the legality or proportionality of arrest, and reported improvement in beauty standards does not establish that colourism or weight stigma has ended. Career chronology, family conversations, production practice, arrest procedure, platform reach, and synthetic-film offers remain episode-scoped because the supplied file is a structured summary rather than a transcript, legal record, production archive, contract, or capability study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,134 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

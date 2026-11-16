@@ -8606,9 +8606,9 @@
       "url": "/wiki/concepts/activeworkstationtasktradeoff/"
     },
     "ActorAIPerformanceBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
@@ -8630,9 +8630,16 @@
           "show": "Tomorrow, Today",
           "title": "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/actoraiperformanceboundary/"
     },
     "ActorAutonomyAndBoundary": {
@@ -49557,6 +49564,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/characterbasedromanticcompatibility/"
+    },
+    "CharacterEmbodimentThroughCostume": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/characterembodimentthroughcostume/"
     },
     "CharacterIPCrossCategoryLicensing": {
       "episode_count": 1,
@@ -99637,9 +99660,9 @@
       "url": "/wiki/concepts/ensemblecharacterdifferentiation/"
     },
     "EnsembleComedyProduction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
@@ -99647,9 +99670,16 @@
           "show": "Tomorrow, Today",
           "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/ensemblecomedyproduction/"
     },
     "EnslavedSelfEmancipation": {
@@ -176080,6 +176110,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/kaomisleep/"
     },
+    "KapilSharma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/kapilsharma/"
+    },
     "KarenDynan": {
       "episode_count": 1,
       "show_count": 1,
@@ -177511,6 +177557,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/kievanrus/"
+    },
+    "KikuSharda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/kikusharda/"
     },
     "KilianJornet": {
       "episode_count": 1,
@@ -286406,9 +286468,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -286507,9 +286569,16 @@
           "show": "Tomorrow, Today",
           "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "SheldonHeavyweight": {
@@ -317292,9 +317361,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -317393,9 +317462,16 @@
           "show": "Tomorrow, Today",
           "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490 [default.mp3_ywr3ahjkcgo_e7b27d162b2cc1beac33f5fd47cdf71e_120218490].md",
+          "key": "default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490",
+          "show": "Tomorrow, Today",
+          "title": "Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {

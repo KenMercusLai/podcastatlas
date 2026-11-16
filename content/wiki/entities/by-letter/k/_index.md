@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14561
+wiki_total_pages: 14563
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "KaomiSleep"
     title: "Kaomi Sleep"
     url: "/wiki/entities/kaomisleep/"
+  - key: "KapilSharma"
+    title: "Kapil Sharma"
+    url: "/wiki/entities/kapilsharma/"
   - key: "KaraDyer"
     title: "Kara Dyer"
     url: "/wiki/entities/karadyer/"
@@ -467,6 +470,9 @@ wiki_pages:
   - key: "Kiko"
     title: "Kiko"
     url: "/wiki/entities/kiko/"
+  - key: "KikuSharda"
+    title: "Kiku Sharda"
+    url: "/wiki/entities/kikusharda/"
   - key: "KilianJornet"
     title: "Kilian Jornet"
     url: "/wiki/entities/kilianjornet/"

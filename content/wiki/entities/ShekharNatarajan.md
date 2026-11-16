@@ -17,17 +17,18 @@ sources:
   - defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886
   - defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305
   - default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097
-last_updated: 2026-11-08
+  - default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
 # Shekhar Natarajan
 
 ## Overview
-Shekhar Natarajan is the host and narrator of [[TomorrowToday]] across the wiki's current sources. His interviews and one short dramatized family story use biography to explore branding, resilience, spirituality, survival, cognitive difference, elite sport, public institutions, creative work, comedy, inequality, leadership, organizational transformation, and the human and governance questions raised by AI.
+Shekhar Natarajan is the host and narrator of [[TomorrowToday]] across the wiki's current sources. His interviews and one short dramatized family story use biography to explore branding, resilience, spirituality, survival, cognitive difference, elite sport, public institutions, creative work, acting, comedy, grief, inequality, leadership, organizational transformation, and the human and governance questions raised by AI.
 
 ## Current Profile
-The bounded sources present Shekhar primarily as an interviewer who turns life stories into operating questions. Across guests, he connects values to branding, uncertainty to judgment, compassion to alignment, logistics to institutions, creative access to labor, survival to action, coaching to autonomy, platform production to dignity, sustainability to responsible commerce, future challenges to governance, strategy to execution, and comedy to collaborative production. The [[VarunSharma]] interview also makes opportunity search and family-supported resilience visible while testing where AI assistance should stop short of consent, lived experience, and human judgment.
+The bounded sources present Shekhar primarily as an interviewer who turns life stories into operating questions. Across guests, he connects values to branding, uncertainty to judgment, compassion to alignment, logistics to institutions, creative access to labor, survival to action, coaching to autonomy, platform production to dignity, sustainability to responsible commerce, future challenges to governance, strategy to execution, and comedy to collaborative production. The [[VarunSharma]] interview makes opportunity search and family-supported resilience visible; the [[KikuSharda]] interview moves from costume, character, timing, parody, and grief into whether AI can reproduce a performer without reproducing human authorship.
 
 The short [[AshokNatarajan]] narrative changes the represented format and adds a personal, source-scoped branch. Shekhar revisits a childhood conflict, reframes his brother's mind as different rather than broken, and narrates an AI approach inspired by associative cognition. This extends [[AngelicIntelligence]] toward [[CognitiveDifferenceReframing]], while the episode's spectacular lunar, engineering, and deployment claims remain unverified.
 
@@ -54,13 +55,15 @@ The short [[AshokNatarajan]] narrative changes the represented format and adds a
 - Transformation, execution, and AI-era leadership - [[defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886]] connects Fornaciari's cross-cultural career to executive accountability, adviser incentives, organizational alignment, verification, and AI's labor and agency risks.
 - Cognitive difference and associative AI - [[defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305]] has Shekhar narrate reconciliation with [[AshokNatarajan]] and a proposed “Ashok's Sight” system within [[AngelicIntelligence]].
 - Acting search, comedy, and creative judgment - [[default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097]] connects Sharma's career formation to invisible search labor, mental health, collaborative comedy, consent, and human reaction to creative work.
+- Character, laughter, and synthetic likeness - [[default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490]] connects Sharda's costume-led transformation and live comic timing to public offense, grief, human imperfection, and AI-era replication.
 
 ## Qualifications
-The page is bounded to fourteen ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those sources. His logistics ventures, childhood conditions, corporate departure, highway near-miss, family loss, relationship to Ashok, notebook discovery, and coding story are self-reported or dramatized. The lunar-crater match, “Ashok's Sight” performance, water output, and refugee deployment are not independently established, and the episode's Shikhar/Shekhar spelling variation is normalized to the existing canonical identity without treating that normalization as verification.
+The page is bounded to fifteen ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those sources. His logistics ventures, childhood conditions, corporate departure, highway near-miss, family loss, relationship to Ashok, notebook discovery, and coding story are self-reported or dramatized. The lunar-crater match, “Ashok's Sight” performance, water output, and refugee deployment are not independently established, and the episode's Shikhar/Shekhar spelling variation is normalized to the existing canonical identity without treating that normalization as verification.
 
 ## What Changed
-- Added opportunity-search labor and ensemble comedy as new interview branches.
-- Strengthened the consent-and-human-reaction boundary around creative AI assistance.
+- Added costume-led character embodiment, live improvisational atmosphere, and public-offense escalation.
+- Connected laughter and grief to the show's recurring question of what remains human under technological change.
+- Added a concrete synthetic-likeness offer to the creative-AI consent boundary.
 
 ## Relationships
 - [[TomorrowToday]] - show he hosts in the represented sources.
@@ -77,6 +80,7 @@ The page is bounded to fourteen ingested Tomorrow Today episodes. It does not in
 - [[JorgeBrown]] - futurist guest who develops interdependent governance, institutional redesign, and stewardship questions.
 - [[FedericaFornaciari]] - transformation guest who develops execution accountability and human leadership under AI.
 - [[VarunSharma]] - actor guest who develops opportunity search, rejection recovery, collaborative comedy, and creative-AI boundaries.
+- [[KikuSharda]] - actor guest who develops character embodiment, live comedy, parody risk, grief, and synthetic-performance boundaries.
 - [[AngelicIntelligence]] - human-centered AI term Shekhar explains.
 - [[AthleteCenteredPerformanceCulture]] - leadership branch sharpened by his questions about purpose and coach dependence.
 - [[SyntheticContentTrainingFeedback]] - information-quality branch sharpened by his garbage-in, garbage-out example.
@@ -88,3 +92,4 @@ The page is bounded to fourteen ingested Tomorrow Today episodes. It does not in
 - [[CognitiveDifferenceReframing]] - interpretive frame developed through the Ashok story.
 - [[OpportunitySeekingAsWork]] - career-search frame sharpened through Sharma's account.
 - [[EnsembleComedyProduction]] - collaborative comedy frame sharpened through Sharma's account.
+- [[CharacterEmbodimentThroughCostume]] - character-transition frame developed through Sharda's account.

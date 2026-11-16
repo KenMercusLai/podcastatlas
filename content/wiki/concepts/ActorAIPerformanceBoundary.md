@@ -6,7 +6,8 @@ sources:
   - no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj
   - wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np
   - defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490
-last_updated: 2026-09-23
+  - default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ A complementary production-side view comes from [[WongJing|王晶]]. He expects 
 
 [[AdahSharma]] makes the capability boundary less stable. She says digital figures can already imitate her voice and some expressions and expects them to become increasingly human-like. Her account shifts the durable boundary away from present-day visual quality alone and toward consent, authorship, livelihood, audience belief, and who controls a replicated performance.
 
+Adaptation and human preference can coexist. [[KikuSharda]] expects young filmmakers to learn AI and recognizes that computational production may change lighting and other roles. Yet his account of costume, backstory, improvisation, scene-partner reading, and ethical refusal makes performance more than visible plausibility. An offer to create a film from his image, movement, speech, and voice makes the distinction concrete: synthetic continuity may reduce shooting, but it does not by itself establish Sharda's authorship, consent scope, or embodied performance.
+
 ## Key Claims
 - Performance is not only likeness; it includes timing, rhythm, hesitation, gaze, breath, and emotional design.
 - Text prompting is weak at controlling subtle performance timing compared with an actor demonstrating the movement or feeling.
@@ -31,6 +34,7 @@ A complementary production-side view comes from [[WongJing|王晶]]. He expects 
 - A hybrid workflow can use real performance as source material and AI as a background or postproduction layer.
 - Viewers may respond differently when they learn a moving character lacks a human performer behind it.
 - Improving imitation can narrow the technical boundary, making consent, authorship, labor structure, and production choices more important rather than less.
+- A performer may adapt to AI tools while still preferring real actors, locations, and the visible struggle through which artistic judgment develops.
 
 ## Evidence
 - Timing boundary - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] has Wu say a half-second difference in nods, glances, pauses, or comic timing changes performance feeling.
@@ -41,13 +45,16 @@ A complementary production-side view comes from [[WongJing|王晶]]. He expects 
 - Audience belief - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] connects AI-generated documentary or character emotion to the viewer's trust once they know no living subject was present.
 - Capability pressure - [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] has Sharma report digital imitation of her voice and expressions and predict continued improvement toward human-like output.
 - Rights and labor boundary - [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] pairs improved digital performance with explicit concern about consent and threats to actors, writers, artists, and musicians.
+- Synthetic-film offer - [[default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490]] records an offer to use Sharda's image, moving likeness, speech, and voice to produce a film without a conventional shoot.
+- Embodied and ethical remainder - [[default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490]] connects acting to costume transformation, backstory, relational timing, human imperfection, and refusal of a role he could not emotionally embody.
 
 ## Counterevidence & Qualifications
-The concept is based on two actors' accounts plus one commercial director's source-scoped industry judgment. Sharma is more willing than the other sources to expect technical convergence with human expression. None supplies a controlled audience study or capability benchmark, so the degree and timing of substitution remain unsettled; authorship, consent, industry protection, audience belief, and fine human feeling remain distinct from visual plausibility.
+The concept is based on three actors' accounts plus one commercial director's source-scoped industry judgment. Adah Sharma is especially willing to expect technical convergence with human expression, while Kiku Sharda combines adaptation with a continuing preference for real performers and places. None supplies a controlled audience study, contract, completed synthetic feature, or capability benchmark, so the degree and timing of substitution remain unsettled; authorship, consent, industry protection, audience belief, and fine human feeling remain distinct from visual plausibility.
 
 ## What Changed
-- Added Sharma's stronger expectation of technical convergence, narrowing any claim that current performance weaknesses form a permanent moat.
-- Shifted the durable boundary toward consent, authorship, livelihood, and control when imitation becomes convincing.
+- Added a concrete whole-performance licensing offer involving image, movement, speech, and voice.
+- Distinguished willingness to learn AI from agreement that synthetic likeness is equivalent to embodied authorship.
+- Added ethical refusal and relational improvisation to the human-performance remainder.
 
 ## Related Concepts
 - [[HumanImperfectionCreativeValue]] - broader claim that irregular human texture can be expressive rather than defective.
@@ -58,3 +65,4 @@ The concept is based on two actors' accounts plus one commercial director's sour
 - [[AIAuthorshipPresence]] - trust problem around whether a human creator remains meaningfully present.
 - [[AIVideoProductionWorkflow]] - production workflow in which actor performance may be replaced, captured, or transformed.
 - [[ActorLikenessAuthorization]] - consent and control boundary when a recognizable performer is digitally replicated.
+- [[CharacterEmbodimentThroughCostume]] - embodied transition method not captured by likeness alone.
