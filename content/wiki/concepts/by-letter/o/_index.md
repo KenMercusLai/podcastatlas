@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11499
+wiki_total_pages: 11501
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "OperationalGapOwnership"
     title: "Operational Gap Ownership / 主动补组织短板"
     url: "/wiki/concepts/operationalgapownership/"
+  - key: "OperationalMethodFit"
+    title: "Operational Method Fit"
+    url: "/wiki/concepts/operationalmethodfit/"
   - key: "OperationalPainFounderInsight"
     title: "Operational Pain Founder Insight"
     url: "/wiki/concepts/operationalpainfounderinsight/"

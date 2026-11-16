@@ -5,7 +5,8 @@ tags: [memory, war, britain, sport, myth]
 sources:
   - 69-england-v-ukraine-glt5469973001
   - 721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211
-last_updated: 2026-11-09
+  - tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,9 +18,11 @@ Heroic failure memory is a commemorative pattern that converts defeat, disaster,
 
 ## Current Synthesis
 
-Both sources link the [[ChargeOfTheLightBrigade|Charge of the Light Brigade]] to a broader British appetite for brave defeat. Command confusion and institutional failure remain visible, but Tennyson's poetry and later retelling shift attention toward obedience and courage under impossible conditions. [[721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211]] adds the speed of myth formation: the poem appeared less than six weeks after the battle and retained a memorable 600 where the reported force was closer to 700.
+The military sources link the [[ChargeOfTheLightBrigade|Charge of the Light Brigade]] to a broader British appetite for brave defeat. Command confusion and institutional failure remain visible, but Tennyson's poetry and later retelling shift attention toward obedience and courage under impossible conditions. [[721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211]] adds the speed of myth formation: the poem appeared less than six weeks after the battle and retained a memorable 600 where the reported force was closer to 700.
 
 [[69-england-v-ukraine-glt5469973001]] extends the pattern playfully to English football, where elimination, tears, and near-misses can become emotionally durable national memories. The newer source strengthens the concept's institutional guardrail by showing how cavalry privilege, inherited doctrine, and a hostile command relationship preceded the celebrated sacrifice.
+
+[[tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer]] extends the pattern into polar exploration. [[RobertFalconScott]]'s fatal return, scientific ambition, and narrative skill produced a tragic heroic story, while [[RoaldAmundsen]]'s better-fitted methods and comparatively smooth success were less emotionally compelling. The case sharpens the contrast between public memorability and operational merit without denying Scott's courage or scientific contribution.
 
 The concept does not imply that courage is invented or that defeat has only one meaning. It identifies a selection effect: memory can preserve individual valor more vividly than planning errors, administrative weakness, or alternative outcomes.
 
@@ -28,7 +31,7 @@ The concept does not imply that courage is invented or that defeat has only one 
 - Cultural retelling can make defeat more memorable than competent success.
 - Individual courage and institutional failure can coexist in the same event.
 - Myth formation can begin almost immediately, before responsibility is settled.
-- Poetry, journalism, monuments, schooling, and sport transmit the pattern across generations.
+- Poetry, journals, journalism, monuments, schooling, exploration stories, and sport transmit the pattern across generations.
 - Emotional identification can narrow attention to sacrifice while obscuring responsibility.
 - Sporting analogy can reveal a memory habit but does not make war and football equivalent.
 
@@ -39,15 +42,17 @@ The concept does not imply that courage is invented or that defeat has only one 
 - Institutional background - [[721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211]] links courage and sacrifice to purchased commissions, aristocratic privilege, outdated assumptions, and personal command hostility.
 - Contrasting symbol - [[69-england-v-ukraine-glt5469973001]] pairs reckless attack with the disciplined Thin Red Line.
 - Sporting afterlife - [[69-england-v-ukraine-glt5469973001]] compares Crimean War memory with English football's recurring stories of noble elimination.
+- Polar exploration - [[tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer]] contrasts Scott's tragic narrative afterlife with Amundsen's less celebrated operational success.
+- Organizational background - [[tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer]] places Scott's courage beside an overloaded expedition, incompatible transport methods, and patron constraints.
 
 ## Counterevidence & Qualifications
 
-These podcast episodes offer cultural interpretation rather than comparative memory research. “British culture” and “English football culture” are heterogeneous, and victories, reforms, blame, satire, and antiwar memory coexist with heroic-failure narratives. Tennyson's causal influence, the reported troop figures, and the relationship between immediate poetry and later memory require broader evidence. The sporting analogy should diagnose a mode of storytelling, not collapse military death into sport or explain every commemoration.
+These podcast episodes offer cultural interpretation rather than comparative memory research. “British culture” and “English football culture” are heterogeneous, and victories, reforms, blame, satire, scientific memory, and antiwar narratives coexist with heroic-failure stories. Tennyson's causal influence, troop figures, Scott's reception, and the relationship between self-narration and later commemoration require broader evidence. The military, sporting, and exploration cases identify a storytelling pattern but are not equivalent in stakes or cause.
 
 ## What Changed
 
-- Added rapid post-battle myth formation and poetic number compression to the account of how courage becomes legend.
-- Made inherited command culture more explicit as the institutional background that commemoration can obscure.
+- Extended the concept from military defeat and sport into polar exploration.
+- Added the contrast between narratively compelling catastrophe and less memorable competent success.
 
 ## Related Concepts
 
@@ -56,3 +61,5 @@ These podcast episodes offer cultural interpretation rather than comparative mem
 - [[AngloUkrainianRelations]] - regional relationship through which the Crimean example enters the wiki.
 - [[HistoricalMemoryContest]] - broader struggle over what public narratives emphasize or omit.
 - [[EnglandNationalFootballTeam]] - sporting setting used for the episode's qualified analogy.
+- [[RobertFalconScott]] - exploration case joining real courage, organizational failure, and tragic self-narration.
+- [[RoaldAmundsen]] - successful contrast whose operational competence generated a weaker heroic story.

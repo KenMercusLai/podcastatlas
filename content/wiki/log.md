@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Tim Harford Cools Us Down This Summer
+
+Added the [[RevisionistHistory]] distribution of a [[CautionaryTales]] South Pole excerpt and discussion comparing [[RobertFalconScott]], [[RoaldAmundsen]], and [[ClementsMarkham]]. Created the three focused profiles plus [[ResourceAbundanceCoordinationBurden]] and [[OperationalMethodFit]], resynthesized [[TimHarford]], [[CautionaryTales]], and [[HeroicFailureMemory]] from their complete preserved evidence inventories, and appended the new source once to each.
+
+Core synthesis: resources become liabilities when technologies, personnel, objectives, and patron obligations outgrow integration capacity; method advantage depends on environment, practice, maintenance, and system coherence rather than novelty or budget alone. Amundsen's focused dog-and-ski system was operationally stronger, but success does not excuse deception, while Scott's courage and scientific ambition can coexist with preventable system failures and a narratively powerful tragic afterlife.
+
+No settled contradiction was adopted. Abundance is not inherently harmful, mixed methods can create resilience when integrated, and Scott's scientific goals had value beyond winning the race. Indigenous Greenlandic knowledge, crew counts, costs, weather, route effects, equipment performance, motives, patron influence, dialogue, and legacy remain episode-scoped because the supplied file is a structured summary rather than a transcript, expedition archive, technical reconstruction, Indigenous account, or comprehensive history. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,110 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | We’re Back … With More Experiments!
 
 Added the short [[RevisionistHistory]] season trailer previewing bodily sacrifice, suffering that motivates service, inherited educational privilege, and the unintended consequences of a book. Linked its classroom fragment to [[outliers-revisited-outliers-revisited|Outliers, Revisited]] and its suffering-and-service theme to [[the-mennonite-national-anthem-the-mennonite-national-anthem|The Mennonite National Anthem]], where the later full episodes supply context and usable evidence.
@@ -41342,6 +41352,10 @@ No settled contradiction was adopted. The episode strengthens the severe-harm an
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,107 sources across 810 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

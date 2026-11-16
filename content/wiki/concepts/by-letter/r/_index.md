@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11499
+wiki_total_pages: 11501
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "ResNeXt"
     title: "ResNeXt"
     url: "/wiki/concepts/resnext/"
+  - key: "ResourceAbundanceCoordinationBurden"
+    title: "Resource Abundance Coordination Burden"
+    url: "/wiki/concepts/resourceabundancecoordinationburden/"
   - key: "ResourceCurseGovernance"
     title: "Resource Curse Governance"
     url: "/wiki/concepts/resourcecursegovernance/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tim Harford Cools Us Down This Summer](sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer.md) — Scott and Amundsen’s South Pole race connects resource overload, method fit, patron constraints, deception, and heroic-failure memory.
 - [We’re Back … With More Experiments!](sources/we-re-back-with-more-experiments-we-re-back-with-more-experiments.md) — Revisionist History trailer previews sacrifice, suffering and service, educational privilege, and unintended consequences while deferring evidence to the later full episodes.
 - [Outliers, Revisited](sources/outliers-revisited-outliers-revisited.md) — Revisionist History connects relative-age bias, cumulative selection advantage, maturity-adjusted swimming, Wharton privilege, and beneficiary resistance to fairness reform.
 - [The Mennonite National Anthem](sources/the-mennonite-national-anthem-the-mennonite-national-anthem.md) — Revisionist History connects Lester Glick’s starvation, recovery, Mennonite faith, social-work vocation, and generosity to the Minnesota experiment’s scientific and moral legacy.
@@ -5235,6 +5236,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Robert Falcon Scott](entities/RobertFalconScott.md) — British Antarctic leader whose broad mission, mixed transport system, and patron constraints turned apparent abundance into operational fragility.
+- [Roald Amundsen](entities/RoaldAmundsen.md) — Norwegian polar explorer whose focused dog-and-ski system combined operational excellence with ethically troubling deception.
+- [Clements Markham](entities/ClementsMarkham.md) — Geographical patron whose influence over Scott illustrates conflict between distant authority and field evidence.
 - [Roger Barnsley](entities/RogerBarnsley.md) — Psychologist associated with foundational hockey research on the relative age effect and its persistence in talent selection.
 - [Adam Kelly](entities/AdamKelly.md) — Researcher connecting relative-age bias in English basketball to wider talent-identification and assessment questions.
 - [Stephen Copley](entities/StephenCopley.md) — Researcher co-developing maturity-based corrective adjustment for adolescent swimming while treating educational transfer cautiously.
@@ -19841,6 +19845,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Resource Abundance Coordination Burden](concepts/ResourceAbundanceCoordinationBurden.md) — Execution loss when money, people, technologies, objectives, and stakeholder obligations outgrow integration capacity.
+- [Operational Method Fit](concepts/OperationalMethodFit.md) — Degree to which tools, skills, maintenance, logistics, and learned practices form an environment-suited operating system.
 - [Relative Age Effect](concepts/RelativeAgeEffect.md) — Cutoff-based developmental advantage that can shape selection, investment, gifted placement, and later opportunity.
 - [Cumulative Selection Advantage](concepts/CumulativeSelectionAdvantage.md) — Process by which an initial difference changes access to development and becomes a real later capability gap.
 - [Maturity-Based Corrective Adjustment](concepts/MaturityBasedCorrectiveAdjustment.md) — Provisional procedure adjusting youth-sport performance for biological maturity to surface obscured potential.

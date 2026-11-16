@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1673
+topic_total_pages: 1674
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1732,6 +1732,9 @@ topic_concepts:
   - key: "OperationalCarbon"
     title: "Operational Carbon"
     url: "/wiki/concepts/operationalcarbon/"
+  - key: "OperationalMethodFit"
+    title: "Operational Method Fit"
+    url: "/wiki/concepts/operationalmethodfit/"
   - key: "OptimismGap"
     title: "Optimism Gap"
     url: "/wiki/concepts/optimismgap/"

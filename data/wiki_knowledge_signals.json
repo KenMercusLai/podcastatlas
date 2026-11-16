@@ -47657,9 +47657,9 @@
       "url": "/wiki/concepts/causalnarrativechronologyseparation/"
     },
     "CautionaryTales": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Worst_Poet_in_the_World_From_Cautionary_Tales [The_Worst_Poet_in_the_World_From_Cautionary_Tales].md",
@@ -47667,9 +47667,16 @@
           "show": "Revisionist History",
           "title": "The Worst Poet in the World | From Cautionary Tales",
           "url": "/wiki/sources/the-worst-poet-in-the-world-from-cautionary-tales-the-worst-poet-in-the-world-from-cautionary-tales/"
+        },
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/cautionarytales/"
     },
     "CecilRhodes": {
@@ -57923,6 +57930,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/clementclarkemoore/"
+    },
+    "ClementsMarkham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/clementsmarkham/"
     },
     "CleomenesI": {
       "episode_count": 1,
@@ -142314,9 +142337,9 @@
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicFailureMemory": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5469973001 [GLT5469973001].md",
@@ -142331,9 +142354,16 @@
           "show": "The Rest Is History",
           "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
           "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        },
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/heroicfailurememory/"
     },
     "HeroicLastStandMyth": {
@@ -234238,6 +234268,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/operationaldigitaltwin/"
     },
+    "OperationalMethodFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/operationalmethodfit/"
+    },
     "OperationalPrecisionOncology": {
       "episode_count": 1,
       "show_count": 1,
@@ -267022,6 +267068,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/resistancetomeaningfulwork/"
     },
+    "ResourceAbundanceCoordinationBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/resourceabundancecoordinationburden/"
+    },
     "ResourceAsymmetryAttrition": {
       "episode_count": 3,
       "show_count": 1,
@@ -270774,6 +270836,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/roadrageanddrivingemotion/"
     },
+    "RoaldAmundsen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/roaldamundsen/"
+    },
     "RoastBeefEnglishIdentity": {
       "episode_count": 2,
       "show_count": 1,
@@ -271095,6 +271173,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/robertfkennedyjr/"
+    },
+    "RobertFalconScott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/robertfalconscott/"
     },
     "RobertFitzRoy": {
       "episode_count": 2,
@@ -314024,9 +314118,9 @@
       "url": "/wiki/entities/timferriss/"
     },
     "TimHarford": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Worst_Poet_in_the_World_From_Cautionary_Tales [The_Worst_Poet_in_the_World_From_Cautionary_Tales].md",
@@ -314034,9 +314128,16 @@
           "show": "Revisionist History",
           "title": "The Worst Poet in the World | From Cautionary Tales",
           "url": "/wiki/sources/the-worst-poet-in-the-world-from-cautionary-tales-the-worst-poet-in-the-world-from-cautionary-tales/"
+        },
+        {
+          "episode_file": "Tim_Harford_Cools_Us_Down_This_Summer [Tim_Harford_Cools_Us_Down_This_Summer].md",
+          "key": "tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer",
+          "show": "Revisionist History",
+          "title": "Tim Harford Cools Us Down This Summer",
+          "url": "/wiki/sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/timharford/"
     },
     "TimHortons": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14510
+wiki_total_pages: 14513
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "RMSTitanic"
     title: "RMS Titanic"
     url: "/wiki/entities/rmstitanic/"
+  - key: "RoaldAmundsen"
+    title: "Roald Amundsen"
+    url: "/wiki/entities/roaldamundsen/"
   - key: "RoaldDahl"
     title: "Roald Dahl / 罗尔德·达尔"
     url: "/wiki/entities/roalddahl/"
@@ -674,6 +677,9 @@ wiki_pages:
   - key: "RobertFKennedyJr"
     title: "Robert F. Kennedy Jr."
     url: "/wiki/entities/robertfkennedyjr/"
+  - key: "RobertFalconScott"
+    title: "Robert Falcon Scott"
+    url: "/wiki/entities/robertfalconscott/"
   - key: "RobertFitzRoy"
     title: "Robert FitzRoy"
     url: "/wiki/entities/robertfitzroy/"
