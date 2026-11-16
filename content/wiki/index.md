@@ -5214,6 +5214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 - [Feeling A Bit Attacked with Maria Konnikova](sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova.md) — Revisionist History conversation on competitive debate, precise profanity, cheating escalation, ranking incentives, and ambiguous administrative staffing.
 - [The Pushkin Prize for Egregiously Deceptive Self-Promotion](sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion.md) — Revisionist History audit of Columbia's disputed ranking inputs, their modeled score effects, and the institution's response after exposure.
+- [The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan](sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and.md) — Revisionist History conversation on female athlete development, youth-sport incentives, coaching education, safeguarding, access, and autonomy.
 
 ## Entities
 - [Matt Scogin](entities/MattScogin.md) — Hope College president who designed Hope Forward as a tuition-free covenant funded through later voluntary giving.
@@ -19782,6 +19783,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lauren Lavelle](entities/LaurenLavelle.md) — Data scientist who modeled the score effects of Columbia's disputed ranking inputs.
 - [George Santos](entities/GeorgeSantos.md) — Satirical namesake used to define the episode's standard for gratuitous deceptive self-promotion.
 - [Moshe Porat](entities/MoshePorat.md) — Former Temple business-school dean in the episode's adjudicated ranking-fraud comparison case.
+- [Lauren Fleshman](entities/LaurenFleshman.md) — Runner, coach, author, and advocate for development-centered girls' sport and athlete autonomy.
+- [Linda Flanagan](entities/LindaFlanagan.md) — Coach and author critiquing early specialization, adult incentives, unequal access, and unsafe youth-sport culture.
 
 ## Concepts
 - [Debt-Constrained Education and Career Choice](concepts/DebtConstrainedEducationAndCareerChoice.md) — How tuition and repayment pressure can narrow fields of study and post-graduation work.
@@ -31358,5 +31361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Contextual Profanity Precision](concepts/ContextualProfanityPrecision.md) — Standard judging taboo language by expressive purpose, contextual fit, and deliberate choice rather than categorical approval or prohibition.
 - [Cheating Escalation and Rationalization](concepts/CheatingEscalationRationalization.md) — Process by which weakly checked violations grow while competitive excuses preserve a legitimate self-image, now grounded by detailed ranking-input discrepancies.
 - [Institutional Ranking Data Integrity](concepts/InstitutionalRankingDataIntegrity.md) — Requirement that consequential ranking inputs remain traceable to records, definitions, inclusion rules, and accountable corrections.
+- [Female Athlete Development](concepts/FemaleAthleteDevelopment.md) — Sex-aware developmental model separating puberty-related performance variation from failed potential or a defective body.
+- [Youth Sports Incentive Pressure](concepts/YouthSportsIncentivePressure.md) — Escalation linking scholarships, admissions, commercial pathways, early competition, adult status, and safeguarding risk.
 
 ## Syntheses

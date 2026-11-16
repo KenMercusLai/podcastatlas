@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 11465
+wiki_total_pages: 11467
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "YouthSoccerAccessInequality"
     title: "Youth Soccer Access Inequality"
     url: "/wiki/concepts/youthsocceraccessinequality/"
+  - key: "YouthSportsIncentivePressure"
+    title: "Youth Sports Incentive Pressure"
+    url: "/wiki/concepts/youthsportsincentivepressure/"
   - key: "YouthSubculturalStyleFormation"
     title: "Youth Subcultural Style Formation"
     url: "/wiki/concepts/youthsubculturalstyleformation/"

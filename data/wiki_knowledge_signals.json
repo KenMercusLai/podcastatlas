@@ -25336,9 +25336,9 @@
       "url": "/wiki/concepts/atherosclerosispreventiontargets/"
     },
     "AthleteCenteredPerformanceCulture": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
@@ -25346,6 +25346,13 @@
           "show": "Tomorrow, Today",
           "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        },
+        {
+          "episode_file": "The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_Linda_Flanagan [The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_.md",
+          "key": "the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and",
+          "show": "Revisionist History",
+          "title": "The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan",
+          "url": "/wiki/sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and/"
         }
       ],
       "updated": "2026-10-18",
@@ -108523,6 +108530,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/femaleallegorypoliticalexclusion/"
     },
+    "FemaleAthleteDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_Linda_Flanagan [The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_.md",
+          "key": "the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and",
+          "show": "Revisionist History",
+          "title": "The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan",
+          "url": "/wiki/sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/femaleathletedevelopment/"
+    },
     "FemaleBodyFreedom": {
       "episode_count": 6,
       "show_count": 2,
@@ -180314,6 +180337,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/laurencolensosemple/"
     },
+    "LaurenFleshman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_Linda_Flanagan [The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_.md",
+          "key": "the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and",
+          "show": "Revisionist History",
+          "title": "The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan",
+          "url": "/wiki/sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/laurenfleshman/"
+    },
     "LaurenLavelle": {
       "episode_count": 1,
       "show_count": 1,
@@ -186894,6 +186933,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/lindabrown/"
+    },
+    "LindaFlanagan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_Linda_Flanagan [The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_.md",
+          "key": "the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and",
+          "show": "Revisionist History",
+          "title": "The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan",
+          "url": "/wiki/sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/lindaflanagan/"
     },
     "LindaLoman": {
       "episode_count": 1,
@@ -346479,6 +346534,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/youthprecautionaryculture/"
+    },
+    "YouthSportsIncentivePressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_Linda_Flanagan [The_Crisis_in_Girls_Sports_with_Lauren_Fleshman_and_.md",
+          "key": "the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and",
+          "show": "Revisionist History",
+          "title": "The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan",
+          "url": "/wiki/sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/youthsportsincentivepressure/"
     },
     "YouthSubculturalStyleFormation": {
       "episode_count": 1,

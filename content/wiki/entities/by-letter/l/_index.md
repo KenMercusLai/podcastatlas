@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14473
+wiki_total_pages: 14475
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "LaurenColensoSemple"
     title: "Lauren Colenso-Semple"
     url: "/wiki/entities/laurencolensosemple/"
+  - key: "LaurenFleshman"
+    title: "Lauren Fleshman"
+    url: "/wiki/entities/laurenfleshman/"
   - key: "LaurenLavelle"
     title: "Lauren Lavelle"
     url: "/wiki/entities/laurenlavelle/"
@@ -650,6 +653,9 @@ wiki_pages:
   - key: "LindaBrown"
     title: "Linda Brown"
     url: "/wiki/entities/lindabrown/"
+  - key: "LindaFlanagan"
+    title: "Linda Flanagan"
+    url: "/wiki/entities/lindaflanagan/"
   - key: "LindaLoman"
     title: "Linda Loman / 林达·洛曼"
     url: "/wiki/entities/lindaloman/"

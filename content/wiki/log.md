@@ -41098,3 +41098,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan
+
+Added the [[RevisionistHistory]] conversation with [[LaurenFleshman]] and [[LindaFlanagan]] on female athlete development, youth-sport incentives, coaching, body expectations, parental boundaries, access, and early competition. Created focused profiles for both guests, plus [[FemaleAthleteDevelopment]] and [[YouthSportsIncentivePressure]], and extended [[AthleteCenteredPerformanceCulture]] from one elite-team case into developmental knowledge and youth safeguarding.
+
+Core synthesis: puberty-related plateaus or temporary decline should not automatically be read as lost potential, while scholarship timing, admissions advantages, costly pathways, championships, and adult reputation can make short-term adolescent results carry unhealthy stakes. Athlete-centered coaching retains ambition but adds development knowledge, honest body communication, voice, safeguarding, and room for participation to remain meaningful beyond elite selection.
+
+No settled contradiction was adopted. Scholarship abolition remains a proposed incentive intervention rather than an evaluated policy, and the episode's developmental curves, participation gaps, abuse surveys, comparative sport systems, uniform claims, and talent-prediction claims remain source-scoped because the supplied file is a structured summary rather than a transcript, study, or policy analysis. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,092 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
