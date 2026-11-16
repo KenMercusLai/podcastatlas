@@ -4,7 +4,8 @@ type: entity
 tags: [song, country-music, grief, songwriting]
 sources:
   - encore-the-king-of-tears-encore-the-king-of-tears
-last_updated: 2026-11-15
+  - a-treat-for-the-die-hards
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,9 @@ knowledge_schema: synthesis-v1
 
 The episode treats the song as a convergence of three emotional positions: Braddock's possible transformation of heartbreak connected to Sparky, Jones's own separation and instability, and a fictional character unable to release an old attachment. Braddock considered the protagonist a bad role model, while [[MalcolmGladwell]] argues that the character's frailty and excess create the song's beauty and grandeur.
 
-Meaning changes with performance context. At Jones's 2013 memorial, Alan Jackson sang the song while looking toward Nancy Jones. A story about an imagined man and a past lover thereby became a specific acknowledgment of Jones's death and surviving wife, illustrating how a familiar work can gain a new referent without losing its earlier narrative.
+Meaning changes with performance context. At Jones's 2013 memorial, [[AlanJackson]] sang the song while looking toward Nancy Jones. A story about an imagined man and a past lover thereby became a specific acknowledgment of Jones's death and surviving wife, illustrating how a familiar work can gain a new referent without losing its earlier narrative.
+
+The newer source makes the song the episode's final case in [[NarrativeEndingDesign]]. Its title initially implies that love has ended through choice or emotional change, then reveals death as the only terminus. At the funeral, that existing turn becomes immediately real and specific, allowing the performance to close an argument about endings by enacting retrospective transformation.
 
 ## Key Characteristics
 
@@ -26,6 +29,7 @@ Meaning changes with performance context. At Jones's 2013 memorial, Alan Jackson
 - Joins writer, singer, and fictional character through overlapping experiences of heartbreak.
 - Makes obsession emotionally powerful without presenting it as healthy conduct.
 - Acquired a new memorial meaning after Jones's death.
+- Functions through a title-level reversal that reclassifies what “stopped loving” means.
 
 ## Evidence
 
@@ -40,16 +44,19 @@ Meaning changes with performance context. At Jones's 2013 memorial, Alan Jackson
 ### Memorial recontextualization
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] describes Alan Jackson's closing performance at Jones's memorial as making the song a farewell to its singer.
+- [[a-treat-for-the-die-hards]] treats the funeral performance as the culminating case of an ending changing the meaning of what came before.
+
+### Title-level reversal
+
+- [[a-treat-for-the-die-hards]] explains that the apparent end of love is revealed as the lover's death rather than release from attachment.
 
 ## Qualifications
 
-The source summary does not provide the full lyrics, recording session, writers' archive, or systematic reception evidence. Braddock could not confirm Sparky as the song's source, so autobiographical interpretation remains plausible rather than established. A memorial use can add meaning without fixing the only valid reading of the song.
+The source summaries do not provide the full lyrics, recording session, writers' archive, funeral transcript, or systematic reception evidence. Braddock could not confirm Sparky as the song's source, so autobiographical interpretation remains plausible rather than established. A memorial use can add meaning without fixing the only valid reading of the song, and the title-level reversal is an interpretive craft account rather than proof that surprise alone caused its emotional force.
 
 ## What Changed
 
-- Established the song as a three-way convergence of writer, performer, and fictional character.
-- Preserved the distinction between empathizing with a frail protagonist and endorsing his obsession.
-- Added memorial performance as a second, specific layer of meaning.
+- Added the title-level reversal and the song's role as enacted proof in a broader theory of endings.
 
 ## Relationships
 
@@ -57,3 +64,5 @@ The source summary does not provide the full lyrics, recording session, writers'
 - [[GeorgeJones]] - singer whose performance and death shaped the song's public meaning.
 - [[EmotionalSpecificityInStorytelling]] - mechanism explaining how narrative detail intensifies its sadness.
 - [[SongwritingEmotionalProcessing]] - adjacent account of difficult experience taking artistic form.
+- [[AlanJackson]] - memorial performer who activated the song's new referent.
+- [[NarrativeEndingDesign]] - framework linking its death reveal and funeral use to retrospective reclassification.

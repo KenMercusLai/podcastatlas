@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11484
+wiki_total_pages: 11485
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "NarrativeCreativityTraining"
     title: "Narrative Creativity Training"
     url: "/wiki/concepts/narrativecreativitytraining/"
+  - key: "NarrativeEndingDesign"
+    title: "Narrative Ending Design"
+    url: "/wiki/concepts/narrativeendingdesign/"
   - key: "NarrativeFateInteraction"
     title: "Narrative Fate Interaction"
     url: "/wiki/concepts/narrativefateinteraction/"

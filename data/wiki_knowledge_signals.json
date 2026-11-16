@@ -13581,6 +13581,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/alancowen/"
     },
+    "AlanJackson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
+          "key": "a-treat-for-the-die-hards",
+          "show": "Revisionist History",
+          "title": "A Treat for the Die-Hards",
+          "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/alanjackson/"
+    },
     "AlanNewman": {
       "episode_count": 2,
       "show_count": 1,
@@ -94679,9 +94695,9 @@
       "url": "/wiki/concepts/emotionalresponsibilityboundary/"
     },
     "EmotionalSpecificityInStorytelling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -94696,6 +94712,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Breaks Down the Perfect Break Up Song",
           "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
+        },
+        {
+          "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
+          "key": "a-treat-for-the-die-hards",
+          "show": "Revisionist History",
+          "title": "A Treat for the Die-Hards",
+          "url": "/wiki/sources/a-treat-for-the-die-hards/"
         }
       ],
       "updated": "2026-11-16",
@@ -124744,9 +124767,9 @@
       "url": "/wiki/entities/georgeiv/"
     },
     "GeorgeJones": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -124754,9 +124777,16 @@
           "show": "Revisionist History",
           "title": "Encore: The King of Tears",
           "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        },
+        {
+          "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
+          "key": "a-treat-for-the-die-hards",
+          "show": "Revisionist History",
+          "title": "A Treat for the Die-Hards",
+          "url": "/wiki/sources/a-treat-for-the-die-hards/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/georgejones/"
     },
     "GeorgeLucas": {
@@ -138686,9 +138716,9 @@
       "url": "/wiki/entities/hesongeasternhan/"
     },
     "HeStoppedLovingHerToday": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -138696,9 +138726,16 @@
           "show": "Revisionist History",
           "title": "Encore: The King of Tears",
           "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        },
+        {
+          "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
+          "key": "a-treat-for-the-die-hards",
+          "show": "Revisionist History",
+          "title": "A Treat for the Die-Hards",
+          "url": "/wiki/sources/a-treat-for-the-die-hards/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/hestoppedlovinghertoday/"
     },
     "HeTieshou": {
@@ -214111,6 +214148,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/mikebauer/"
     },
+    "MikeBirbiglia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
+          "key": "a-treat-for-the-die-hards",
+          "show": "Revisionist History",
+          "title": "A Treat for the Die-Hards",
+          "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mikebirbiglia/"
+    },
     "MikeLazaridis": {
       "episode_count": 1,
       "show_count": 1,
@@ -222590,6 +222643,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/narrativecreativitytraining/"
+    },
+    "NarrativeEndingDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
+          "key": "a-treat-for-the-die-hards",
+          "show": "Revisionist History",
+          "title": "A Treat for the Die-Hards",
+          "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/narrativeendingdesign/"
     },
     "NarrativeFateInteraction": {
       "episode_count": 1,

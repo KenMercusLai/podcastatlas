@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Treat for the Die-Hards](sources/a-treat-for-the-die-hards.md) — Revisionist History connects alternate endings, modest character change, legible expectation reversal, backward construction, and memorial performance to the craft of narrative closure.
 - [Started From the Bottom with Justin Richmond](sources/started-from-the-bottom-with-justin-richmond-started-from-the-bottom-with-justin-richmond.md) — Revisionist History connects Richmond's nonlinear educational path to mentorship, institutional navigation, racialized second chances, confidence, and public career guidance.
 - [Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin](sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f.md) — Steve Martin and Adam Gopnik connect stadium-scale creative constraint, film-career phases, screen acting mechanics, sustained output, and delayed-memory comedy.
 - [A Good Circle: Hope College’s Radical Experiment in Generosity](sources/a-good-circle-a-good-circle.md) — Revisionist History tests Hope Forward’s tuition-free covenant against student choice, institutional risk, voluntary alumni giving, and service-based reciprocity.
@@ -5223,6 +5224,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rodents and Red Wine with Maria Konnikova](sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova.md) — Revisionist History ombudsman conversation on nutrition evidence, starvation research, unknown-risk consent, representative study populations, and longitudinal health observation.
 
 ## Entities
+- [Mike Birbiglia](entities/MikeBirbiglia.md) — Comedian and storyteller using alternate endings, audience response, and modest character change to calibrate narrative closure.
+- [Alan Jackson](entities/AlanJackson.md) — Country singer whose George Jones funeral performance gives a familiar song a new referent and completes an argument about endings.
 - [Minnesota Starvation Experiment](entities/MinnesotaStarvationExperiment.md) — Controlled wartime dietary-restriction study framed by urgent humanitarian purpose, participant altruism, uncertain harm, and narrow population evidence.
 - [Dutch Hunger Winter](entities/DutchHungerWinter.md) — World War II famine used as longitudinal natural-experiment evidence while preserving exposure, causal, and intergenerational limits.
 - [Justin Richmond](entities/JustinRichmond.md) — Journalist and podcast creator connecting educational recovery, audio work, mentorship, and public career guidance.
@@ -19807,6 +19810,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
 
 ## Concepts
+- [Narrative Ending Design](concepts/NarrativeEndingDesign.md) — Craft framework joining expectation revision, modest character change, legibility, iteration, backward construction, and contextual reclassification.
 - [Informed Consent Under Unknown Risk](concepts/UnknownRiskInformedConsent.md) — Research-ethics framework for consent when consequences cannot be fully specified, balancing altruism with proportionality, pressure, and third-party risk.
 - [Evidence Population Representativeness](concepts/EvidencePopulationRepresentativeness.md) — Requirement that a study population and subgroup analysis fit the people and decisions to which findings will be applied.
 - [Opt-In Longitudinal Health Observation](concepts/OptInLongitudinalHealthObservation.md) — Large-scale voluntary sensor research whose discovery promise remains bounded by causal, privacy, security, and governance limits.
