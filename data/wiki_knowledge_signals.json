@@ -8543,6 +8543,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/actionbackedanticorruptionpersuasion/"
     },
+    "ActionBiasUnderCommandPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/actionbiasundercommandpressure/"
+    },
     "ActionableOrganizationalValues": {
       "episode_count": 1,
       "show_count": 1,
@@ -66177,6 +66193,22 @@
       "updated": "2026-10-17",
       "url": "/wiki/concepts/constraintbasedcreativewritingpedagogy/"
     },
+    "ConstraintDrivenDoctrineShift": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/constraintdrivendoctrineshift/"
+    },
     "ConstraintFirstTrainingDesign": {
       "episode_count": 1,
       "show_count": 1,
@@ -73323,9 +73355,9 @@
       "url": "/wiki/concepts/cursushonorum/"
     },
     "CurtisLeMay": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8855008412 [GLT8855008412].md",
@@ -73347,6 +73379,13 @@
           "show": "Revisionist History",
           "title": "Goodbye, Farewell and Amen",
           "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        },
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
         }
       ],
       "updated": "2026-11-17",
@@ -140971,9 +141010,9 @@
       "url": "/wiki/entities/hawkhurstgang/"
     },
     "HaywoodHansell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
@@ -140981,6 +141020,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell and Adam Grant",
           "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        },
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
         }
       ],
       "updated": "2026-11-17",
@@ -160773,9 +160819,9 @@
       "url": "/wiki/concepts/innovationdrugtranslationsystem/"
     },
     "InnovationVisionExecutionGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
@@ -160783,6 +160829,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell and Adam Grant",
           "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        },
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
         }
       ],
       "updated": "2026-11-17",
@@ -226274,9 +226327,9 @@
       "url": "/wiki/entities/naomirothman/"
     },
     "NapalmWarfare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
@@ -226284,6 +226337,13 @@
           "show": "Revisionist History",
           "title": "Goodbye, Farewell and Amen",
           "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        },
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
         }
       ],
       "updated": "2026-11-17",
@@ -240161,9 +240221,9 @@
       "url": "/wiki/entities/overturesupersonicairliner/"
     },
     "OverwhelmingForceCasualtyLogic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
@@ -240171,6 +240231,13 @@
           "show": "Revisionist History",
           "title": "Goodbye, Farewell and Amen",
           "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        },
+        {
+          "episode_file": "Bombs-Away_LeMay [Bombs-Away_LeMay].md",
+          "key": "bombs-away-lemay-bombs-away-lemay",
+          "show": "Revisionist History",
+          "title": "Bombs Away LeMay",
+          "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
         }
       ],
       "updated": "2026-11-17",

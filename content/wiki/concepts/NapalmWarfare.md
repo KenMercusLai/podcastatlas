@@ -4,6 +4,7 @@ type: concept
 tags: [warfare, napalm, air-power, civilian-harm, military-technology]
 sources:
   - goodbye-farewell-and-amen-goodbye-farewell-and-amen
+  - bombs-away-lemay-bombs-away-lemay
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ Napalm warfare is the use of gelled incendiary weapons to burn structures, terra
 
 ## Current Synthesis
 
-[[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] traces a normalization pathway rather than a static weapon history. Incendiary bombing over Japan was defended through urban construction, industrial dispersal, and the counterfactual claim that rapid surrender prevented worse suffering. In Korea, the source says the pretense of targeting buildings fell away as napalm was openly used against troop concentrations and extensive destruction reached North Korean cities and infrastructure.
+The sources trace a normalization pathway rather than a static weapon history. [[bombs-away-lemay-bombs-away-lemay]] begins with the operational turn: failed precision attacks, the jet stream, low-altitude night flying, removal of most defensive guns, and pressure for results culminated in incendiary area attack on a densely populated Tokyo district. The episode reports 1,665 tons of napalm, about 16 square miles burned, and more than 100,000 deaths in Operation Meetinghouse before similar raids spread to another 66 cities.
+
+[[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] then follows the normalization across wars. Incendiary bombing over Japan was defended through urban construction, industrial dispersal, and the counterfactual claim that rapid surrender prevented worse suffering. In Korea, the source says the pretense of targeting buildings fell away as napalm was openly used against troop concentrations and extensive destruction reached North Korean cities and infrastructure.
 
 Vietnam then tests whether availability and prior apparent success had hardened into doctrine. [[CurtisLeMay]] continued to favor heavier bombing, while co-inventor [[LouisFieser]] urged international prohibition. The weapon therefore becomes a case of purpose expansion, institutional forgetting, and strategic lock-in: technical effectiveness at burning does not establish political effectiveness, moral permissibility, or suitability across different wars.
 
@@ -28,11 +31,13 @@ Vietnam then tests whether availability and prior apparent success had hardened 
 - Repeated use changes institutional expectations, making an extraordinary method easier to treat as an ordinary option.
 - Weapon memory is shaped by who names the attacker, preserves civilian testimony, and marks the place of invention.
 - Later opposition by an inventor does not by itself settle responsibility or undo institutional silence.
+- Operational pressure can normalize a weapon by making destructive output the replacement metric for a failed targeting doctrine.
 
 ## Evidence
 
 ### Japan and consequentialist justification
 
+- [[bombs-away-lemay-bombs-away-lemay]] reports the planning, load choices, urban target, firestorm scale, and civilian cost of Operation Meetinghouse.
 - [[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] presents firebombing and atomic bombing as alternatives to invasion while keeping their civilian destruction visible.
 
 ### Korea and purpose expansion
@@ -49,11 +54,12 @@ Vietnam then tests whether availability and prior apparent success had hardened 
 
 ## Counterevidence & Qualifications
 
-The source is a structured summary of one interpretive podcast episode, not a complete technical, legal, diplomatic, or campaign history. It does not compare every incendiary weapon, operator, theater, target type, command decision, or casualty estimate. The strategic effects attributed to bombing and the counterfactual harms of alternative campaigns remain uncertain.
+The sources are structured summaries of two interpretive podcast episodes, not a complete technical, legal, diplomatic, or campaign history. They do not compare every incendiary weapon, operator, theater, target type, command decision, or casualty estimate. The Meetinghouse figures, total campaign deaths, strategic effects attributed to bombing, and counterfactual harms of alternative campaigns remain uncertain.
 
 ## What Changed
 
-- Established napalm warfare as a cross-conflict pattern of target expansion, normalization, strategic carryover, and contested memory.
+- Added the jet-stream-to-night-bombing constraint cascade and Operation Meetinghouse as the initial Japanese campaign mechanism.
+- Made measurable destructive output a driver of normalization alongside later target expansion and strategic carryover.
 
 ## Related Concepts
 
@@ -62,3 +68,4 @@ The source is a structured summary of one interpretive podcast episode, not a co
 - [[InstitutionalForgettingByOmission]] - explains how origin and responsibility can recede without explicit denial.
 - [[ContextualMoralJudgment]] - weighs constraints and alternatives without erasing inflicted harm.
 - [[PopularCultureHistoricalMemory]] - shows how television can reorganize who appears as victim or perpetrator.
+- [[ConstraintDrivenDoctrineShift]] - explains how operational adaptation opened the route from failed precision attacks to incendiary area bombing.

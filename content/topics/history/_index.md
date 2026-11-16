@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2826
+topic_total_pages: 2827
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7392,6 +7392,9 @@ topic_sources:
   - key: "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey"
     title: "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War"
     url: "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+  - key: "bombs-away-lemay-bombs-away-lemay"
+    title: "Bombs Away LeMay"
+    url: "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
   - key: "empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666"
     title: "Empress Matilda: Civil War and the Fight for the Throne"
     url: "/wiki/sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666/"

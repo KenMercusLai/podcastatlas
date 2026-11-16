@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bombs Away LeMay](sources/bombs-away-lemay-bombs-away-lemay.md) — Revisionist History traces how the jet stream, failed precision bombing, command pressure, and LeMay's action bias led to low-altitude incendiary attacks on Japanese cities.
 - [Hamlet Was Wrong](sources/hamlet-was-wrong-hamlet-was-wrong.md) — Revisionist History connects informal hiring, the Peter Principle, sales-promotion research, and Hirschman's action under uncertainty to a qualified skepticism about personnel prediction.
 - [Oh, Howard, You Idiot!](sources/oh-howard-you-idiot-oh-howard-you-idiot.md) — Revisionist History reframes Clifford Irving's fake Howard Hughes autobiography as both an expectation-matched institutional fraud and an unauthorized attempt to give Hughes intimacy, self-knowledge, and redemption.
 - [A Memorial for the Living](sources/a-memorial-for-the-living-a-memorial-for-the-living.md) — Revisionist History contrasts the engineered permanence of the 9/11 Memorial with Jacksonville's by-name homelessness list to test whether symbolic remembrance becomes material obligation toward living people.
@@ -31776,5 +31777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Napalm Warfare](concepts/NapalmWarfare.md) — Cross-conflict pattern of incendiary target expansion, normalization, strategic carryover, civilian harm, and contested memory.
 - [Institutional Forgetting by Omission](concepts/InstitutionalForgettingByOmission.md) — Loss of public responsibility when institutions or narratives omit origins, actors, victims, or causal links without explicit denial.
 - [Overwhelming Force Casualty Logic](concepts/OverwhelmingForceCasualtyLogic.md) — Claim that extreme force applied early can shorten war and reduce total deaths despite uncertain coercion and casualty forecasts.
+- [Action Bias Under Command Pressure](concepts/ActionBiasUnderCommandPressure.md) — Preference for visible execution under result pressure, especially when rapid adaptation changes irreversible human stakes.
+- [Constraint-Driven Doctrine Shift](concepts/ConstraintDrivenDoctrineShift.md) — Cascade in which operational limits alter execution until the mission's target, method, or moral character changes.
 
 ## Syntheses

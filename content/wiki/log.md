@@ -41807,6 +41807,14 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-17] ingest | Bombs Away LeMay
+
+Added a [[RevisionistHistory]] episode tracing the operational and moral transition from [[HaywoodHansell]]'s failed precision-bombing campaign to [[CurtisLeMay]]'s low-altitude incendiary attacks on Tokyo and other Japanese cities. Created [[ActionBiasUnderCommandPressure]] and [[ConstraintDrivenDoctrineShift]], then resynthesized LeMay, Hansell, [[InnovationVisionExecutionGap]], [[NapalmWarfare]], and [[OverwhelmingForceCasualtyLogic]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: cloud, navigation limits, targeting accuracy, and the jet stream defeated the B-29 precision doctrine, but those constraints did not make urban firebombing morally inevitable. LeMay's practical competence and decisiveness solved an operational problem while result pressure, fear of replacement, and compressed review helped turn adaptation into a change of target and moral category.
+
+No settled contradiction was adopted. The episode's avoided-invasion claim remains an unresolved counterfactual; the Hansell-LeMay idealist-versus-problem-solver contrast may compress wider command responsibility; and casualty totals, bomb tonnage, burn area, motives, and strategic effects remain episode-scoped because the supplied document is a structured summary rather than a transcript or independent campaign history. Broad host and show profiles and the automatic `wiki/overview.md` remained closed because focused canonical pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
 ## [2026-11-17] ingest | Just Sex
 
 Added a [[HiddenBrain]] episode with sociologist [[LisaWade]] separating the frequency of college hookups from [[CollegeHookupCulture|the culture governing their meaning]]. Created Wade's focused profile and [[PerformedNonattachment]], then resynthesized [[SexualScriptPerformancePressure]] from its complete preserved evidence inventory before appending the new source once. The broad Hidden Brain profile and automatic `wiki/overview.md` remained closed.
@@ -42270,6 +42278,10 @@ Core synthesis: an argument that extreme early force prevents longer war can be 
 No settled contradiction was adopted. The episode's avoided-invasion, partition, starvation, and shorter-war claims remain unresolved counterfactuals; the *M*A*S*H* disagreement is preserved as a tension between universal anti-war storytelling and specific historical responsibility. Casualty totals, strategic effects, institutional motives, and North Korean deterrence causation remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival campaign history, or systematic causal study. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,175 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

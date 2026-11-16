@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11632
+wiki_total_pages: 11634
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "ActionAgainstAnxiety"
     title: "Action Against Anxiety"
     url: "/wiki/concepts/actionagainstanxiety/"
+  - key: "ActionBiasUnderCommandPressure"
+    title: "Action Bias Under Command Pressure"
+    url: "/wiki/concepts/actionbiasundercommandpressure/"
   - key: "ActionDefinesIdentity"
     title: "Action Defines Identity"
     url: "/wiki/concepts/actiondefinesidentity/"

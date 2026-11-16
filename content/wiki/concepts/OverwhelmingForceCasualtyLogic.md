@@ -4,6 +4,7 @@ type: concept
 tags: [military-ethics, doctrine, consequentialism, civilian-harm, air-power]
 sources:
   - goodbye-farewell-and-amen-goodbye-farewell-and-amen
+  - bombs-away-lemay-bombs-away-lemay
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Overwhelming force casualty logic is the consequentialist claim that applying ex
 
 ## Current Synthesis
 
-[[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] presents [[CurtisLeMay]] as believing that once war began, failing to use enough force to win rapidly was itself immoral. He applied this reasoning retrospectively to Korea: initial refusal to burn towns, in his account, prolonged a conflict that ended with far wider destruction and death.
+[[bombs-away-lemay-bombs-away-lemay]] supplies the Japanese campaign that later supports the doctrine. It presents Operation Meetinghouse and the firebombing of another 66 cities as helping force surrender without a ground invasion, but places that claim beside mass civilian death and defers the moral reckoning. [[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] then presents [[CurtisLeMay]] as believing that once war began, failing to use enough force to win rapidly was itself immoral. He applied this reasoning retrospectively to Korea: initial refusal to burn towns, in his account, prolonged a conflict that ended with far wider destruction and death.
 
 The logic is morally serious but epistemically fragile. It compares visible immediate killing with uncertain future suffering and can make escalation appear humane whenever leaders predict a shorter war. Its evaluation therefore depends on whether victory was politically achievable by the proposed violence, whether less destructive alternatives were excluded, how civilian protection constrains action, and how error is handled when the forecast fails. Vietnam supplies the episode's central warning: confidence in a method's ability to compel surrender can survive after the strategic conditions that once seemed to support it have changed.
 
@@ -36,6 +37,7 @@ The logic is morally serious but epistemically fragile. It compares visible imme
 
 ### Japan counterfactual
 
+- [[bombs-away-lemay-bombs-away-lemay]] presents the incendiary campaign's scale and the claim that air power avoided a ground invasion without treating that assertion as a completed moral judgment.
 - [[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] presents early surrender, avoided invasion, avoided partition, and food relief as the strongest consequentialist defense of bombing Japan.
 
 ### Vietnam limit
@@ -44,11 +46,12 @@ The logic is morally serious but epistemically fragile. It compares visible imme
 
 ## Counterevidence & Qualifications
 
-The source does not adjudicate the counterfactual casualty totals for Japan or Korea, establish that LeMay's proposed opening attacks would have ended either war sooner, or compare the full set of diplomatic and military alternatives. The doctrine should not be reduced to simple cruelty, but its sincere life-saving rationale does not validate its predictions or permissions.
+The sources do not adjudicate the counterfactual casualty totals for Japan or Korea, establish that incendiary bombing was necessary to avoid invasion, show that LeMay's proposed opening attacks would have ended either war sooner, or compare the full set of diplomatic and military alternatives. The doctrine should not be reduced to simple cruelty, but its sincere life-saving rationale does not validate its predictions or permissions.
 
 ## What Changed
 
-- Established a framework for evaluating claims that early escalation is humane because it prevents longer war.
+- Added the Japanese firebombing campaign as the concrete source of the later overwhelming-force argument.
+- Clarified that military success and avoided-invasion claims do not complete the proportionality or necessity judgment.
 
 ## Related Concepts
 
