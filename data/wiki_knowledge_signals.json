@@ -63657,9 +63657,9 @@
       "url": "/wiki/concepts/compassionatewitnesspractice/"
     },
     "CompatibilityAsInteractionDynamic": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -63667,9 +63667,16 @@
           "show": "Revisionist History",
           "title": "Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live",
           "url": "/wiki/sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/compatibilityasinteractiondynamic/"
     },
     "CompelledDNASamplingFourthAmendment": {
@@ -93591,6 +93598,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/elevenlabs/"
     },
+    "EliFinkel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/elifinkel/"
+    },
     "EliLilly": {
       "episode_count": 7,
       "show_count": 5,
@@ -102642,9 +102665,9 @@
       "url": "/wiki/entities/estatesgeneral1789/"
     },
     "EstherPerel": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1527866809 [SCIM1527866809].md",
@@ -102652,9 +102675,16 @@
           "show": "Huberman Lab",
           "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
           "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/estherperel/"
     },
     "EstrobolomeEstrogenRecirculation": {
@@ -144340,9 +144370,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -144455,6 +144485,13 @@
           "show": "Hidden Brain",
           "title": "You 2.0: Did That Really Happen?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
         }
       ],
       "updated": "2026-11-17",
@@ -208417,6 +208454,22 @@
       "updated": "2026-10-30",
       "url": "/wiki/concepts/marriageexitfriction/"
     },
+    "MarriageExpectationInvestmentAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/marriageexpectationinvestmentalignment/"
+    },
     "MarriageIdealizationMismatch": {
       "episode_count": 1,
       "show_count": 1,
@@ -216014,6 +216067,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/michelfoucault/"
+    },
+    "MichelangeloEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/michelangeloeffect/"
     },
     "MichelleWahler": {
       "episode_count": 1,
@@ -268304,9 +268373,9 @@
       "url": "/wiki/concepts/relationshipfourhorsemen/"
     },
     "RelationshipNeedDiversification": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
@@ -268335,9 +268404,16 @@
           "show": "Huberman Lab",
           "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
           "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/relationshipneeddiversification/"
     },
     "RelationshipPolarityBalance": {
@@ -300764,6 +300840,22 @@
       ],
       "updated": "2026-10-29",
       "url": "/wiki/concepts/stepcounthealthdoseresponse/"
+    },
+    "StephanieCoontz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
+          "key": "default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736",
+          "show": "Hidden Brain",
+          "title": "You 2.0: When Did Marriage Become So Hard?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/stephaniecoontz/"
     },
     "StephenChow": {
       "episode_count": 2,

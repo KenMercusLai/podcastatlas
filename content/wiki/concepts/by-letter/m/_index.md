@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11593
+wiki_total_pages: 11595
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "MarriageExitFriction"
     title: "Marriage Exit Friction"
     url: "/wiki/concepts/marriageexitfriction/"
+  - key: "MarriageExpectationInvestmentAlignment"
+    title: "Marriage Expectation-Investment Alignment"
+    url: "/wiki/concepts/marriageexpectationinvestmentalignment/"
   - key: "MarriageIdealizationMismatch"
     title: "Marriage Idealization and Mismatch / 婚姻理想化与错配"
     url: "/wiki/concepts/marriageidealizationmismatch/"
@@ -980,6 +983,9 @@ wiki_pages:
   - key: "MiaphysiteChristianity"
     title: "Miaphysite Christianity"
     url: "/wiki/concepts/miaphysitechristianity/"
+  - key: "MichelangeloEffect"
+    title: "Michelangelo Effect"
+    url: "/wiki/concepts/michelangeloeffect/"
   - key: "MicroDramaFormBoundary"
     title: "Micro-Drama Form Boundary / 微短剧形式边界"
     url: "/wiki/concepts/microdramaformboundary/"

@@ -7,7 +7,8 @@ sources:
   - chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723
   - science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085
   - contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218
-last_updated: 2026-09-21
+  - default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The Eastwick episode extends the frame into relationship science. Friends and fa
 
 The Sexton episode adds a practitioner-facing version of the same constraint. Expecting one spouse to be best friend, co-parent, roommate, lover, confidant, and financial partner all at once makes one relationship carry roles that can conflict or change at different speeds. Diversification is therefore compatible with commitment: it protects the couple from becoming the only available channel for belonging, activity, disclosure, and care.
 
+The Finkel episode places the same strategy inside a historical account of marriage. As spouses became expected to provide not only security and love but also identity, novelty, esteem, and self-actualization, concentrating most emotional needs in one partner created a high-reward but high-risk social portfolio. Selectively asking less of marriage can therefore preserve its strongest functions when friends, independent activities, and a wider network provide other forms of support.
+
 ## Key Claims
 - A romantic partner does not need to satisfy every interest, habit, and social need.
 - Friendship and community reduce pressure on intimacy by distributing companionship, activity, feedback, and belonging.
@@ -30,7 +33,7 @@ The Sexton episode adds a practitioner-facing version of the same constraint. Ex
 - More real relationships provide better data than abstract standards alone, especially when attraction develops through repeated contact.
 - Diversification makes both [[SelfSimilarityInIntimacy]] and [[ComplementaryRelationshipSupport]] less absolute: a partner can be similar on core values and different elsewhere.
 - Men may face extra relationship fragility when weak social support networks make a romantic partner the main source of intimacy and care.
-- Long-term partnership becomes more brittle when one person is expected to perform every intimate, practical, social, and financial role.
+- Long-term partnership becomes more brittle when one person is expected to perform every intimate, practical, social, financial, identity, and growth role.
 
 ## Evidence
 - Activity and friendship distribution: [[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] argues that eating, films, sports, conversation, and other needs can be met by different friends instead of one partner.
@@ -39,12 +42,13 @@ The Sexton episode adds a practitioner-facing version of the same constraint. Ex
 - Gendered support risk: [[science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085]] says women are generally better at cultivating support while men often rely heavily on romantic partners for intimacy needs.
 - Repeated social contact: [[science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085]] recommends clubs, groups, activities, friends, and recurring gatherings as practical relationship formation environments.
 - Role overload: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] criticizes the expectation that one partner must simultaneously be best friend, co-parent, roommate, lover, confidant, and financial partner.
+- Social-portfolio diversification: [[default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736]] argues that selected emotional and recreational needs can be met through friends or independent activity, reducing concentrated pressure on a spouse.
 
 ## Counterevidence & Qualifications
-Diversification is not a reason to avoid commitment, hide needs, or outsource intimacy entirely. It also does not replace qualified care during serious mental-health or safety crises. Eastwick's gendered support claims are averages in the source note, not judgments about every man or woman. Friends and family can support a relationship, but the source distinguishes embedded shared experience from constantly asking outsiders to evaluate the relationship.
+Diversification is not a reason to avoid commitment, hide needs, or outsource intimacy entirely. It also does not replace qualified care during serious mental-health or safety crises. Eastwick's gendered support claims are averages in the source note, not judgments about every man or woman. Friends and family can support a relationship, but the source distinguishes embedded shared experience from constantly asking outsiders to evaluate the relationship. Finkel's reported association between a diversified social portfolio and happiness remains source-scoped and does not prove causality; support diversification also does not by itself imply sexual non-monogamy.
 
 ## What Changed
-- Added Sexton's partner-role-overload argument, extending diversification from support networks into long-term marriage design.
+- Added Finkel's social-portfolio model and its claim that selective demand reduction can strengthen rather than diminish a marriage.
 
 ## Related Concepts
 - [[SelfSimilarityInIntimacy]] - partner-similarity frame softened by distributing needs beyond the couple.

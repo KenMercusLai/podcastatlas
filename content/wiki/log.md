@@ -42050,3 +42050,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | You 2.0: When Did Marriage Become So Hard?
+
+Added a [[HiddenBrain]] episode with historian [[StephanieCoontz|Stephanie Coontz]] and social psychologist [[EliFinkel|Eli Finkel]] on marriage's shift from economic and political coordination toward romantic companionship and self-actualization. Created focused profiles for both guests plus [[MarriageExpectationInvestmentAlignment]] and [[MichelangeloEffect]], then resynthesized [[RelationshipNeedDiversification]], [[CompatibilityAsInteractionDynamic]], [[EstherPerel]], and [[HiddenBrain]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: elevated marital expectations can increase both fragility and possible fulfillment. When partners ask one relationship to provide love, belonging, identity, novelty, esteem, and growth, those demands must be matched by time, psychological energy, material resources, and responsive support. Couples can realign the system by investing more, interpreting ambiguous difficulties more carefully, developing compatibility through interaction, or meeting selected needs through friends and independent activities.
+
+No settled contradiction was adopted. The episode qualifies the idea of one timeless traditional marriage and strengthens existing support-diversification and interaction-developed compatibility accounts. The historical sequence, legal chronology, care-work estimate, social-portfolio association, relationship interventions, growth-mindset effects, and consensual-non-monogamy outcomes remain episode-scoped because the supplied file is a structured summary without underlying archives, methods, samples, effect sizes, or replication evidence. Growth framing and generous interpretation do not excuse coercion, abuse, chronic danger, or repeated refusal of accountability. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,159 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

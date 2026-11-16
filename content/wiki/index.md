@@ -5283,8 +5283,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 - [You 2.0: Did That Really Happen?](sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670.md) — Hidden Brain and Ayanna Thomas connect reconstructive memory, source confusion, eyewitness caution, aging stereotypes, retrieval practice, spacing, sleep, and mnemonic imagery.
+- [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
 
 ## Entities
+- [Eli Finkel](entities/EliFinkel.md) — Social psychologist connecting modern marital expectations to investment, developed compatibility, partner-supported growth, and diversified support.
+- [Stephanie Coontz](entities/StephanieCoontz.md) — Historian tracing marriage across economic coordination, romantic choice, household production, and changing gender roles.
 - [Yuna Wong](entities/YunaWong.md) — War-gaming researcher using AI-enabled multi-actor crisis simulation to reveal unplanned interactions and escalation risks.
 - [David Shlapak](entities/DavidShlapak.md) — RAND researcher using chance, repetition, and operational detail to push strategic simulation beyond habitual expectations.
 - [Thomas Schelling](entities/ThomasSchelling.md) — Strategic theorist whose observation about unconsidered possibilities supplies the episode's rationale for interactive simulation.
@@ -19983,6 +19986,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Marriage Expectation-Investment Alignment](concepts/MarriageExpectationInvestmentAlignment.md) — Principle that marital demands should match available time, attention, psychological energy, material resources, and wider support.
+- [Michelangelo Effect](concepts/MichelangeloEffect.md) — Partner-supported movement from a current self toward a valued ideal self through responsive affirmation.
 - [Strategic War Gaming](concepts/StrategicWarGaming.md) — Interactive assumption-testing method that uses roles, chance, repetition, and operational detail to prepare for plausible surprise without claiming prediction.
 - [Operational Friction in Strategic Planning](concepts/OperationalFrictionInStrategicPlanning.md) — Physical, human, logistical, informational, and emotional constraints that reshape an abstract strategic objective.
 - [Automated Deterrence Interaction Risk](concepts/AutomatedDeterrenceInteractionRisk.md) — Escalation danger when separately authorized military, allied, and commercial systems respond outside planners' intended signaling frame.

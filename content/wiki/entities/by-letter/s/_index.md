@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14602
+wiki_total_pages: 14604
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1724,6 +1724,9 @@ wiki_pages:
   - key: "StephanieByrne"
     title: "Stephanie Byrne"
     url: "/wiki/entities/stephaniebyrne/"
+  - key: "StephanieCoontz"
+    title: "Stephanie Coontz"
+    url: "/wiki/entities/stephaniecoontz/"
   - key: "StephanieHughes"
     title: "Stephanie Hughes"
     url: "/wiki/entities/stephaniehughes/"
