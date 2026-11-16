@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11415
+wiki_total_pages: 11418
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "RepresentationLearning"
     title: "Representation Learning"
     url: "/wiki/concepts/representationlearning/"
+  - key: "RepresentationalRiskInFilmDevelopment"
+    title: "Representational Risk in Film Development"
+    url: "/wiki/concepts/representationalriskinfilmdevelopment/"
   - key: "RepressionMartyrdomBackfire"
     title: "Repression-Martyrdom Backfire"
     url: "/wiki/concepts/repressionmartyrdombackfire/"

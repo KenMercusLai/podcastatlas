@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11415
+wiki_total_pages: 11418
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "AdaptationReceptionMemory"
     title: "Adaptation Reception Memory / 改编接受中的代际记忆"
     url: "/wiki/concepts/adaptationreceptionmemory/"
+  - key: "AdaptationInventedInternalConflict"
+    title: "Adaptation-Invented Internal Conflict"
+    url: "/wiki/concepts/adaptationinventedinternalconflict/"
   - key: "AdaptationLedProgramming"
     title: "Adaptation-Led Programming"
     url: "/wiki/concepts/adaptationledprogramming/"

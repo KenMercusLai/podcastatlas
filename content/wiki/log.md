@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | The Birthday Party with Charles Randolph | Development Hell
+
+Added the [[RevisionistHistory]] conversation in which [[CharlesRandolph]] explains [[BirthdayPartyFilm|The Birthday Party]], his unproduced adaptation of Stanley Alpert's kidnapping account. Created focused profiles for Randolph, the screenplay, and [[MilosForman|Miloš Forman]], plus [[AdaptationInventedInternalConflict]], [[CollaborativeCrossCulturalAuthorship]], and [[RepresentationalRiskInFilmDevelopment]]. Resynthesized [[AdaptationAsMoralReframing]] and [[UnrealizedCreativeWorkValue]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: invention can turn external danger into internal contradiction and restore moral legibility to people otherwise reduced to hero, victim, or threat, but changing a living subject's beliefs or empathy creates a separate ethical burden that dramatic usefulness cannot settle. Cross-cultural storytelling becomes more defensible through research, actors, consultation, revision, and meaningful corrective authority, yet collaboration does not erase unequal power or guarantee authenticity. Development risk can reside in premise and viewpoint rather than provocative wording alone, and a project needs a durable coalition of creative alignment, financing, performance, and accountability to survive it.
+
+No settled contradiction was adopted. Alpert's objection remains a legitimate conflict rather than evidence that either the memoir or screenplay supplies the complete moral account. The episode is a friendly, structured retrospective without the memoir, screenplay, court record, production archive, intern testimony, depicted young people's perspectives, or independent evidence about development decisions. Dialogue, sentences, motives, racial interpretation, Forman's health, authorship claims, and causes of nonproduction remain source-scoped. The broad [[MalcolmGladwell]] and Revisionist History pages and automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,060 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Blue Seattle with Cameron Crowe | Development Hell
 
 Added the [[RevisionistHistory]] conversation in which [[CameronCrowe]] reconstructs [[BlueSeattle]], an unproduced screenplay and ten-song cycle created with [[NancyWilson]] and [[AnnWilson]] for an imagined final [[ElvisPresley]] movie. Created focused profiles for Crowe, both Wilson sisters, and the project, then resynthesized Elvis from his complete preserved two-source evidence inventory before appending the new source once.
@@ -40682,6 +40692,10 @@ Added a [[RevisionistHistory]] episode in which [[PattyJenkins]] describes [[IAm
 Core synthesis: the film joins [[SecondChanceRecognitionFailure]] to an animal-centered production design built around patience, a small crew, concealed cameras, and possibly a real prison. Jenkins's financing account adds [[PrecedentLockedCreativeFinancing]]: demonstrated execution did not automatically produce trust in unfamiliar original work, while a narrow precedent set could reproduce gendered limits on creative authority. No settled contradiction is adopted. Prison-program effects, recidivism, studio and actor motives, sexism's causal weight, budget and production feasibility, the screenplay's quality, animal welfare, and counterfactual reception remain source-scoped because the supplied file is a structured episode summary rather than a transcript, screenplay, production archive, or independent study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,059 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

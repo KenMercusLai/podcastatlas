@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Birthday Party with Charles Randolph | Development Hell](sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell.md) — Charles Randolph uses an unproduced kidnapping adaptation to examine invented internal conflict, moral reframing, cross-cultural authorship, and representational development risk.
 - [I Am Superman with Patty Jenkins | Development Hell](sources/i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell.md) — Patty Jenkins uses an unproduced prison-dog fairy tale to examine second chances, authentic animal performance, original creative authority, sexism, grief, and precedent-locked financing.
 - [Labor of Love with M. Night Shyamalan | Development Hell](sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell.md) — M. Night Shyamalan uses his unproduced 1994 screenplay to examine marriage, genre, vulnerability, career timing, public acceptance, and the value and cost of an unrealized ideal.
 - [Blue Seattle with Cameron Crowe | Development Hell](sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell.md) — Cameron Crowe and Malcolm Gladwell use an unproduced Elvis musical and its surviving songs to examine formula, constrained agency, rejection, memory, and the value of unrealized work.
@@ -5183,6 +5184,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Charles Randolph](entities/CharlesRandolph.md) — Screenwriter using invented internal conflict and collaborative correction to pursue morally complex adaptation across social boundaries.
+- [The Birthday Party (Charles Randolph screenplay)](entities/BirthdayPartyFilm.md) — Unproduced kidnapping adaptation structured around mutual misrecognition, justice, empathy, and racial representation risk.
+- [Miloš Forman](entities/MilosForman.md) — Director whose censorship experience and willingness to assume artistic risk gave the screenplay its strongest reported production path.
 - [Patty Jenkins](entities/PattyJenkins.md) — Filmmaker whose unproduced prison-dog project joins exacting production design to questions of second chances and original creative authority.
 - [I Am Superman (Patty Jenkins film project)](entities/IAmSupermanFilm.md) — Unproduced adult fairy tale pairing a condemned fighting dog with an incarcerated man in a blocked rehabilitation program.
 - [M. Night Shyamalan](entities/MNightShyamalan.md) — Writer-director represented through the marriage, genre, audience, and creative-readiness tensions surrounding his unproduced screenplay.
@@ -19665,6 +19669,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Adaptation-Invented Internal Conflict](concepts/AdaptationInventedInternalConflict.md) — Creation of scenes or choices absent from a source so adapted characters confront internal contradiction as well as external pressure.
+- [Collaborative Cross-Cultural Authorship](concepts/CollaborativeCrossCulturalAuthorship.md) — Portrayal across social boundaries through research, consultation, performance, revision, and meaningful corrective authority.
+- [Representational Risk in Film Development](concepts/RepresentationalRiskInFilmDevelopment.md) — Creative and institutional risk that a project may reproduce harm or provoke criticism severe enough to alter production decisions.
 - [Second-Chance Recognition Failure](concepts/SecondChanceRecognitionFailure.md) — Failure of institutions to revise inherited labels when a person or animal may have changed or shown capacity for change.
 - [Precedent-Locked Creative Financing](concepts/PrecedentLockedCreativeFinancing.md) — Backward-looking selection pattern that rewards familiar categories while withholding trust from unfamiliar original work.
 - [Genre as Emotional Protection](concepts/GenreAsEmotionalProtection.md) — Use of genre distance and audience contract to make intense sentiment more approachable without replacing belief or craft.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14388
+wiki_total_pages: 14391
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "CharlesPonzi"
     title: "Charles Ponzi"
     url: "/wiki/entities/charlesponzi/"
+  - key: "CharlesRandolph"
+    title: "Charles Randolph"
+    url: "/wiki/entities/charlesrandolph/"
   - key: "CharlesRolls"
     title: "Charles Rolls"
     url: "/wiki/entities/charlesrolls/"

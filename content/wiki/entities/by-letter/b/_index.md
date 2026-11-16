@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14388
+wiki_total_pages: 14391
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1472,6 +1472,9 @@ wiki_pages:
   - key: "BirthOfANation"
     title: "The Birth of a Nation"
     url: "/wiki/entities/birthofanation/"
+  - key: "BirthdayPartyFilm"
+    title: "The Birthday Party (Charles Randolph screenplay)"
+    url: "/wiki/entities/birthdaypartyfilm/"
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"

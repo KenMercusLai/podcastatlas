@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14388
+wiki_total_pages: 14391
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "MilojeVasic"
     title: "Miloje Vasić"
     url: "/wiki/entities/milojevasic/"
+  - key: "MilosForman"
+    title: "Miloš Forman"
+    url: "/wiki/entities/milosforman/"
   - key: "Miltiades"
     title: "Miltiades"
     url: "/wiki/entities/miltiades/"

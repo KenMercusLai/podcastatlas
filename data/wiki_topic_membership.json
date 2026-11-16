@@ -20245,6 +20245,13 @@
       "url": "/topics/history/"
     }
   ],
+  "BirthdayPartyFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "BitStandardBook": [
     {
       "key": "culture",
@@ -23741,6 +23748,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CharlesRandolph": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CharlesSchwab": [
     {
       "key": "economics",
@@ -26729,6 +26743,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CollaborativeCrossCulturalAuthorship": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CollateralPunishmentAndGuiltByAssociation": [
@@ -64729,6 +64750,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MilosForman": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MimeticCompetitionAvoidance": [
     {
       "key": "economics",
@@ -79586,6 +79614,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "RepresentationalRiskInFilmDevelopment": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ReproductiveBodyOmenPolitics": [
@@ -114587,6 +114622,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series": [

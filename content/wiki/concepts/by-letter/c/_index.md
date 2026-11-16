@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11415
+wiki_total_pages: 11418
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1748,6 +1748,9 @@ wiki_pages:
   - key: "CollaborationVsCollusion"
     title: "Collaboration vs. Collusion"
     url: "/wiki/concepts/collaborationvscollusion/"
+  - key: "CollaborativeCrossCulturalAuthorship"
+    title: "Collaborative Cross-Cultural Authorship"
+    url: "/wiki/concepts/collaborativecrossculturalauthorship/"
   - key: "CollectibleDropScarcity"
     title: "Collectible Drop Scarcity"
     url: "/wiki/concepts/collectibledropscarcity/"

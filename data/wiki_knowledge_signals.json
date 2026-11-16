@@ -9007,9 +9007,9 @@
       "url": "/wiki/entities/adamipsmith/"
     },
     "AdaptationAsMoralReframing": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
@@ -9024,9 +9024,16 @@
           "show": "罗永浩的十字路口",
           "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
           "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        },
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/adaptationasmoralreframing/"
     },
     "AdaptationEndingEthics": {
@@ -9051,6 +9058,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/adaptationendingethics/"
+    },
+    "AdaptationInventedInternalConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/adaptationinventedinternalconflict/"
     },
     "AdaptationLedProgramming": {
       "episode_count": 2,
@@ -35242,6 +35265,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/birthofanation/"
     },
+    "BirthdayPartyFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/birthdaypartyfilm/"
+    },
     "BirthrightCitizenshipDebate": {
       "episode_count": 1,
       "show_count": 1,
@@ -49366,6 +49405,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/charlesponzi/"
     },
+    "CharlesRandolph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/charlesrandolph/"
+    },
     "CharlesSennett": {
       "episode_count": 3,
       "show_count": 1,
@@ -59920,6 +59975,22 @@
       ],
       "updated": "2026-10-16",
       "url": "/wiki/entities/collabcapital/"
+    },
+    "CollaborativeCrossCulturalAuthorship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/collaborativecrossculturalauthorship/"
     },
     "CollateralPunishmentAndGuiltByAssociation": {
       "episode_count": 10,
@@ -212581,6 +212652,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/milojevasic/"
     },
+    "MilosForman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/milosforman/"
+    },
     "Miltiades": {
       "episode_count": 2,
       "show_count": 1,
@@ -263033,6 +263120,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/replicationcrisis/"
+    },
+    "RepresentationalRiskInFilmDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/representationalriskinfilmdevelopment/"
     },
     "RepressionMartyrdomBackfire": {
       "episode_count": 3,
@@ -317875,9 +317978,9 @@
       "url": "/wiki/concepts/unlearningexamexpression/"
     },
     "UnrealizedCreativeWorkValue": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
@@ -317892,6 +317995,13 @@
           "show": "Revisionist History",
           "title": "Labor of Love with M. Night Shyamalan | Development Hell",
           "url": "/wiki/sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell/"
+        },
+        {
+          "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
+          "key": "the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell",
+          "show": "Revisionist History",
+          "title": "The Birthday Party with Charles Randolph | Development Hell",
+          "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
         }
       ],
       "updated": "2026-11-16",
