@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3711
+topic_total_pages: 3714
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2842,6 +2842,9 @@ topic_concepts:
   - key: "PreOrderLaunchConcentration"
     title: "Pre-Order Launch Concentration"
     url: "/wiki/concepts/preorderlaunchconcentration/"
+  - key: "PrecedentLockedCreativeFinancing"
+    title: "Precedent-Locked Creative Financing"
+    url: "/wiki/concepts/precedentlockedcreativefinancing/"
   - key: "PredestinedChoice"
     title: "Predestined Choice"
     url: "/wiki/concepts/predestinedchoice/"
@@ -5297,6 +5300,9 @@ topic_entities:
   - key: "HYROXWorldGmbH"
     title: "HYROX World GmbH"
     url: "/wiki/entities/hyroxworldgmbh/"
+  - key: "IAmSupermanFilm"
+    title: "I Am Superman (Patty Jenkins film project)"
+    url: "/wiki/entities/iamsupermanfilm/"
   - key: "ILibertine"
     title: "I, Libertine"
     url: "/wiki/entities/ilibertine/"
@@ -10626,6 +10632,9 @@ topic_sources:
   - key: "how-to-win-a-penalty-shootout-with-game-theory"
     title: "How to win a penalty shootout (with game theory)"
     url: "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"
+  - key: "i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell"
+    title: "I Am Superman with Patty Jenkins | Development Hell"
+    url: "/wiki/sources/i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell/"
   - key: "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015"
     title: "I, robot? AI and consciousness"
     url: "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"

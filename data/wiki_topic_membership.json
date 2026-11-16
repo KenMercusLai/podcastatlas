@@ -49861,6 +49861,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "IAmSupermanFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "IBM": [
     {
       "key": "technology",
@@ -75061,6 +75068,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PrecedentLockedCreativeFinancing": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PrecisionAgriculture": [
@@ -110760,6 +110774,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015": [

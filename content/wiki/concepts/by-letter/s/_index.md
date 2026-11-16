@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11413
+wiki_total_pages: 11415
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "SecondRenaissance"
     title: "Second Renaissance"
     url: "/wiki/concepts/secondrenaissance/"
+  - key: "SecondChanceRecognitionFailure"
+    title: "Second-Chance Recognition Failure"
+    url: "/wiki/concepts/secondchancerecognitionfailure/"
   - key: "SecondGenerationBusinessAdaptation"
     title: "Second-Generation Business Adaptation"
     url: "/wiki/concepts/secondgenerationbusinessadaptation/"

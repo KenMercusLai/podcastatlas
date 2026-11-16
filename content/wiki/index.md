@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [I Am Superman with Patty Jenkins | Development Hell](sources/i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell.md) — Patty Jenkins uses an unproduced prison-dog fairy tale to examine second chances, authentic animal performance, original creative authority, sexism, grief, and precedent-locked financing.
 - [Labor of Love with M. Night Shyamalan | Development Hell](sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell.md) — M. Night Shyamalan uses his unproduced 1994 screenplay to examine marriage, genre, vulnerability, career timing, public acceptance, and the value and cost of an unrealized ideal.
 - [Blue Seattle with Cameron Crowe | Development Hell](sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell.md) — Cameron Crowe and Malcolm Gladwell use an unproduced Elvis musical and its surviving songs to examine formula, constrained agency, rejection, memory, and the value of unrealized work.
 - [Malcolm on No Small Endeavor](sources/malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor.md) — Lee C. Camp and Malcolm Gladwell connect curious confidence, plural identity, moral storytelling, failure, whole-life comparison, and committed care.
@@ -5182,6 +5183,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Patty Jenkins](entities/PattyJenkins.md) — Filmmaker whose unproduced prison-dog project joins exacting production design to questions of second chances and original creative authority.
+- [I Am Superman (Patty Jenkins film project)](entities/IAmSupermanFilm.md) — Unproduced adult fairy tale pairing a condemned fighting dog with an incarcerated man in a blocked rehabilitation program.
 - [M. Night Shyamalan](entities/MNightShyamalan.md) — Writer-director represented through the marriage, genre, audience, and creative-readiness tensions surrounding his unproduced screenplay.
 - [Labor of Love (M. Night Shyamalan screenplay)](entities/LaborOfLoveShyamalan.md) — Unproduced 1994 screenplay about a widower's cross-country proof of love and its creator's thirty-year struggle over realization.
 - [Cameron Crowe](entities/CameronCrowe.md) — Filmmaker whose affectionate reconstruction of Elvis musicals became an unproduced screenplay and completed song cycle.
@@ -19662,6 +19665,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Second-Chance Recognition Failure](concepts/SecondChanceRecognitionFailure.md) — Failure of institutions to revise inherited labels when a person or animal may have changed or shown capacity for change.
+- [Precedent-Locked Creative Financing](concepts/PrecedentLockedCreativeFinancing.md) — Backward-looking selection pattern that rewards familiar categories while withholding trust from unfamiliar original work.
 - [Genre as Emotional Protection](concepts/GenreAsEmotionalProtection.md) — Use of genre distance and audience contract to make intense sentiment more approachable without replacing belief or craft.
 - [Unrealized Creative Work Value](concepts/UnrealizedCreativeWorkValue.md) — Value an uncompleted project creates through artifacts, collaboration, learning, memory, recognition, and preserved possibility.
 - [Formulaic Production and Artistic Confinement](concepts/FormulaicProductionArtisticConfinement.md) — Tension between repeatable commercial templates and an artist's control, range, or identification with the work.

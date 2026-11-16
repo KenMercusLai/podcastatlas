@@ -40674,3 +40674,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | I Am Superman with Patty Jenkins | Development Hell
+
+Added a [[RevisionistHistory]] episode in which [[PattyJenkins]] describes [[IAmSupermanFilm|I Am Superman]], an unproduced R-rated fairy tale pairing an abused fighting dog with an incarcerated man whom institutions continue to define through past danger.
+
+Core synthesis: the film joins [[SecondChanceRecognitionFailure]] to an animal-centered production design built around patience, a small crew, concealed cameras, and possibly a real prison. Jenkins's financing account adds [[PrecedentLockedCreativeFinancing]]: demonstrated execution did not automatically produce trust in unfamiliar original work, while a narrow precedent set could reproduce gendered limits on creative authority. No settled contradiction is adopted. Prison-program effects, recidivism, studio and actor motives, sexism's causal weight, budget and production feasibility, the screenplay's quality, animal welfare, and counterfactual reception remain source-scoped because the supplied file is a structured episode summary rather than a transcript, screenplay, production archive, or independent study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,059 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

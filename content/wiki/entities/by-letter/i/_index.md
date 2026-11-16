@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14386
+wiki_total_pages: 14388
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
     url: "/wiki/entities/indianrebellion1857/"
+  - key: "IAmSupermanFilm"
+    title: "I Am Superman (Patty Jenkins film project)"
+    url: "/wiki/entities/iamsupermanfilm/"
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
     url: "/wiki/entities/ihaveadreamspeech/"
