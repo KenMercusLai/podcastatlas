@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11469
+wiki_total_pages: 11472
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "PerformanceFootwearMarket"
     title: "Performance Footwear Market"
     url: "/wiki/concepts/performancefootwearmarket/"
+  - key: "PerformanceScaleCreativeConstraint"
+    title: "Performance Scale Creative Constraint"
+    url: "/wiki/concepts/performancescalecreativeconstraint/"
   - key: "PerformanceSupplementHierarchy"
     title: "Performance Supplement Hierarchy"
     url: "/wiki/concepts/performancesupplementhierarchy/"

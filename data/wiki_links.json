@@ -18419,6 +18419,10 @@
     "title": "Carl Jung / 荣格",
     "url": "/wiki/entities/carljung/"
   },
+  "CarlReiner": {
+    "title": "Carl Reiner",
+    "url": "/wiki/entities/carlreiner/"
+  },
   "CarlSagan": {
     "title": "Carl Sagan",
     "url": "/wiki/entities/carlsagan/"
@@ -73331,6 +73335,10 @@
     "title": "Performance-Linked Ad Spend Pricing",
     "url": "/wiki/concepts/performancelinkedadspendpricing/"
   },
+  "PerformanceScaleCreativeConstraint": {
+    "title": "Performance Scale Creative Constraint",
+    "url": "/wiki/concepts/performancescalecreativeconstraint/"
+  },
   "PerformanceSupplementHierarchy": {
     "title": "Performance Supplement Hierarchy",
     "url": "/wiki/concepts/performancesupplementhierarchy/"
@@ -80039,6 +80047,10 @@
     "title": "Reformation Toleration Boundary",
     "url": "/wiki/concepts/reformationtolerationboundary/"
   },
+  "RefrigeratorLaugh": {
+    "title": "Refrigerator Laugh",
+    "url": "/wiki/concepts/refrigeratorlaugh/"
+  },
   "RefugeeAidRegistrationGap": {
     "title": "Refugee Aid Registration Gap / 难民登记援助空窗",
     "url": "/wiki/concepts/refugeeaidregistrationgap/"
@@ -84419,6 +84431,10 @@
     "title": "Scottsboro Boys",
     "url": "/wiki/entities/scottsboroboys/"
   },
+  "ScreenActingMechanics": {
+    "title": "Screen Acting Mechanics",
+    "url": "/wiki/concepts/screenactingmechanics/"
+  },
   "ScreenActorsGuild": {
     "title": "Screen Actors Guild",
     "url": "/wiki/entities/screenactorsguild/"
@@ -87759,6 +87775,10 @@
     "title": "Snyder's-Lance",
     "url": "/wiki/entities/snyderslance/"
   },
+  "SoManySteves": {
+    "title": "So Many Steves: Afternoons with Steve Martin",
+    "url": "/wiki/entities/somanysteves/"
+  },
   "SoapOperaEffect": {
     "title": "Soap Opera Effect",
     "url": "/wiki/concepts/soapoperaeffect/"
@@ -89906,6 +89926,10 @@
   "SteveJobs": {
     "title": "Steve Jobs",
     "url": "/wiki/entities/stevejobs/"
+  },
+  "SteveMartin": {
+    "title": "Steve Martin",
+    "url": "/wiki/entities/stevemartin/"
   },
   "StevePapa": {
     "title": "Steve Papa",
@@ -112990,6 +113014,10 @@
   "intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014": {
     "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
     "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+  },
+  "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f": {
+    "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+    "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
   },
   "introducing-the-news-from-scene-on-radio-introducing-the-news-from-scene-on-radio": {
     "title": "Introducing The News from Scene on Radio",

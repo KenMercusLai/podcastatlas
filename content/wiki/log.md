@@ -41126,3 +41126,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin
+
+Added the [[RevisionistHistory]] preview for [[SoManySteves]], a conversational audio original built from [[SteveMartin]] and [[AdamGopnik]] discussing stand-up and film. Created focused profiles for Martin, the audiobook, and [[CarlReiner]], created [[PerformanceScaleCreativeConstraint]], [[ScreenActingMechanics]], and [[RefrigeratorLaugh]], and extended Gopnik from participatory mastery reporting into critical friendship and career periodization.
+
+Core synthesis: stadium-scale success can increase response while reducing the cheap experimentation and laughter-specific feedback that developing comedy needs. Film then imposes a different discipline: natural-looking action depends on precise coordination, durable work may require accepting many uncertain attempts, and an odd visual moment can be valuable because it returns to the audience later rather than because it is immediately easy to explain.
+
+No settled contradiction was adopted. Martin's stadium account does not show that large venues always prevent experimentation, Gopnik's three-phase chronology is a critical interpretation rather than an objective ranking, and the career, production, reception, and craft claims remain source-scoped because the supplied file is a structured summary of an eleven-minute promotional excerpt rather than the complete audiobook, transcript, production archive, filmography analysis, or audience study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[StandupComedyIteration]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,094 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

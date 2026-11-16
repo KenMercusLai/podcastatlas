@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14477
+wiki_total_pages: 14480
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "SnydersLance"
     title: "Snyder's-Lance"
     url: "/wiki/entities/snyderslance/"
+  - key: "SoManySteves"
+    title: "So Many Steves: Afternoons with Steve Martin"
+    url: "/wiki/entities/somanysteves/"
   - key: "Soccernomics"
     title: "Soccernomics / 《足球经济学》"
     url: "/wiki/entities/soccernomics/"
@@ -1775,6 +1778,9 @@ wiki_pages:
   - key: "SteveJobs"
     title: "Steve Jobs"
     url: "/wiki/entities/stevejobs/"
+  - key: "SteveMartin"
+    title: "Steve Martin"
+    url: "/wiki/entities/stevemartin/"
   - key: "StevePapa"
     title: "Steve Papa"
     url: "/wiki/entities/stevepapa/"

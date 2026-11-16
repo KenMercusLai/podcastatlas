@@ -8933,9 +8933,9 @@
       "url": "/wiki/entities/adamgalinsky/"
     },
     "AdamGopnik": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Mystery_of_Mastery_with_Adam_Gopnik [The_Mystery_of_Mastery_with_Adam_Gopnik].md",
@@ -8943,6 +8943,13 @@
           "show": "Revisionist History",
           "title": "The Mystery of Mastery with Adam Gopnik",
           "url": "/wiki/sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik/"
+        },
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
         }
       ],
       "updated": "2026-11-16",
@@ -46066,6 +46073,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/carlbogus/"
+    },
+    "CarlReiner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/carlreiner/"
     },
     "CarlSchurz": {
       "episode_count": 1,
@@ -241383,6 +241406,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
+    "PerformanceScaleCreativeConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/performancescalecreativeconstraint/"
+    },
     "PerformanceSupplementHierarchy": {
       "episode_count": 3,
       "show_count": 1,
@@ -263219,6 +263258,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/reformationtolerationboundary/"
     },
+    "RefrigeratorLaugh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/refrigeratorlaugh/"
+    },
     "RefugeeAidRegistrationGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -278201,6 +278256,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/scottsboroboys/"
     },
+    "ScreenActingMechanics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/screenactingmechanics/"
+    },
     "ScreenActorsGuild": {
       "episode_count": 1,
       "show_count": 1,
@@ -289790,6 +289861,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/snyderslance/"
     },
+    "SoManySteves": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/somanysteves/"
+    },
     "SocialBaseCollapseVsEliteRebellion": {
       "episode_count": 1,
       "show_count": 1,
@@ -296399,6 +296486,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/stevehilton/"
+    },
+    "SteveMartin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_So_Many_Steves,_A_New_Audiobook_from_Steve_Martin_and_Pushkin [Introducing_So_Many_Steves,_A_New_Audiobook_f.md",
+          "key": "introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f",
+          "show": "Revisionist History",
+          "title": "Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin",
+          "url": "/wiki/sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/stevemartin/"
     },
     "SteveShiDiFuShuoHost": {
       "episode_count": 14,

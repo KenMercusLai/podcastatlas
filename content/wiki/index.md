@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin](sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f.md) — Steve Martin and Adam Gopnik connect stadium-scale creative constraint, film-career phases, screen acting mechanics, sustained output, and delayed-memory comedy.
 - [A Good Circle: Hope College’s Radical Experiment in Generosity](sources/a-good-circle-a-good-circle.md) — Revisionist History tests Hope Forward’s tuition-free covenant against student choice, institutional risk, voluntary alumni giving, and service-based reciprocity.
 - [Acting Out](sources/acting-out.md) — Revisionist History connects Ella Fitzgerald's concealed confinement to the sociometric origins of social network analysis and the institutional racism its maps failed to explain.
 - [Taxonomy of the Modern Mystery Story](sources/taxonomy-of-the-modern-mystery-story.md) — Revisionist History classifies crime fiction by excellent, absent, incompetent, or corrupt authority and contrasts investigator-centered stories with consent-based policing and real evidentiary limits.
@@ -5218,6 +5219,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Mystery of Mastery with Adam Gopnik](sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik.md) — Revisionist History conversation on craft learning, shop talk, shared activity, amateur participation, expert appreciation, and committed performance.
 
 ## Entities
+- [Steve Martin](entities/SteveMartin.md) — Comedian, actor, and writer distinguishing public scale from creative feedback while reflecting on film craft and memorable comic risk.
+- [So Many Steves: Afternoons with Steve Martin](entities/SoManySteves.md) — Conversational audio original joining Adam Gopnik’s career interpretation to Steve Martin’s firsthand craft memories.
+- [Carl Reiner](entities/CarlReiner.md) — Comedian, writer, actor, and director represented as Steve Martin’s early film director and source of the refrigerator-laugh heuristic.
 - [Matt Scogin](entities/MattScogin.md) — Hope College president who designed Hope Forward as a tuition-free covenant funded through later voluntary giving.
 - [Hope College](entities/HopeCollege.md) — Christian college carrying the transition and financing risk of the Hope Forward experiment.
 - [Hope Forward](entities/HopeForward.md) — Tuition-free program replacing prescribed repayment with a voluntary post-graduation giving covenant.
@@ -19790,6 +19794,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Real Work](entities/TheRealWork.md) — Adam Gopnik book examining learning, mastery, and participation across multiple crafts.
 
 ## Concepts
+- [Performance Scale Creative Constraint](concepts/PerformanceScaleCreativeConstraint.md) — Loss of low-cost experimentation when intimate live work becomes a high-stakes large-venue spectacle.
+- [Screen Acting Mechanics](concepts/ScreenActingMechanics.md) — Medium-specific coordination of movement, props, sound, framing, continuity, and scene partners for recorded performance.
+- [Refrigerator Laugh](concepts/RefrigeratorLaugh.md) — Carl Reiner’s heuristic for a comic moment that becomes funny again during later everyday recollection.
 - [Debt-Constrained Education and Career Choice](concepts/DebtConstrainedEducationAndCareerChoice.md) — How tuition and repayment pressure can narrow fields of study and post-graduation work.
 - [Voluntary Pay-It-Forward Education](concepts/VoluntaryPayItForwardEducation.md) — Tuition-free financing model that relies on freely chosen future giving or service rather than enforceable repayment.
 - [Sociometry](concepts/Sociometry.md) — Measurement and visualization of attraction, rejection, preference, and isolation within a group, bounded by what its relational variables omit.

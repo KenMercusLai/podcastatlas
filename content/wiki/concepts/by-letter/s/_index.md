@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11469
+wiki_total_pages: 11472
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "ScottishReformationRoyalResistance"
     title: "Scottish Reformation Royal Resistance"
     url: "/wiki/concepts/scottishreformationroyalresistance/"
+  - key: "ScreenActingMechanics"
+    title: "Screen Acting Mechanics"
+    url: "/wiki/concepts/screenactingmechanics/"
   - key: "ScreenExitCreativePractice"
     title: "Screen Exit Creative Practice / 离开屏幕的创作实践"
     url: "/wiki/concepts/screenexitcreativepractice/"
