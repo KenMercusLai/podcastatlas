@@ -40791,3 +40791,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The IT Revolution
+
+Added a sponsored [[RevisionistHistory]] discussion connecting [[BostonChildrensHospital|Boston Children's Hospital]], [[TractorSupplyCompany|Tractor Supply Company]], and [[TMobile]] to private 5G, mobile clinical work, home care, employee-facing product information, ambient documentation, staged deployment, and technology leadership.
+
+Core synthesis: [[NetworkSlicing]] can define service behavior for congestion-sensitive and clinical workflows, but security, endpoint governance, fallback, and architecture comparison remain separate requirements. [[ConnectivityEnabledWorkflowRedesign]] now includes home infusion, clinical documentation, and retail service; [[DecentralizedHealthMonitoring]] extends cautiously toward selected home treatment. New pages distinguish [[ClinicalAmbientDocumentation]] from generic ambient AI and describe [[InfrastructureInvestmentOutcomeFraming]] as a way to connect invisible foundations to measurable service outcomes. No settled contradiction is adopted. The episode is a paid T-Mobile partnership and supplies no independent cost, performance, security, clinical-outcome, or alternative-architecture evaluation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,069 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

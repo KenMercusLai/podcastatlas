@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3864
+topic_total_pages: 3865
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3082,6 +3082,9 @@ topic_concepts:
   - key: "InfrastructureAccountabilityGap"
     title: "Infrastructure Accountability Gap"
     url: "/wiki/concepts/infrastructureaccountabilitygap/"
+  - key: "InfrastructureInvestmentOutcomeFraming"
+    title: "Infrastructure Investment Outcome Framing"
+    url: "/wiki/concepts/infrastructureinvestmentoutcomeframing/"
   - key: "InfrastructureLaborBurden"
     title: "Infrastructure Labor Burden"
     url: "/wiki/concepts/infrastructurelaborburden/"

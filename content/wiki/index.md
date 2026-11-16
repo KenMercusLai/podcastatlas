@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The IT Revolution](sources/the-it-revolution-the-it-revolution.md) — Sponsored Revisionist History episode on private 5G, home care, clinical ambient documentation, employee-facing retail tools, staged deployment, and outcome-led CIO leadership.
 - [Revisionist History LIVE with Nate Berkus](sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus.md) — Malcolm Gladwell and Nate Berkus connect exploratory travel, craft sourcing, biographical design, and anti-trend longevity.
 - [Welcome to Development Hell](sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Malcolm Gladwell introduces Development Hell as a mini-series about unseen creative work, high-risk development, and the grief and value attached to unproduced films.
 - [《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？](sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c.md) — 芮淇讲透资治通鉴以侯音之乱和定军山之战串联征敛压力、无计划反抗、兵力调动、统帅暴露及败后指挥恢复。
@@ -5192,6 +5193,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Boston Children's Hospital](entities/BostonChildrensHospital.md) — Pediatric healthcare organization connecting patient access, home care, clinical connectivity, and ambient documentation.
+- [Tractor Supply Company](entities/TractorSupplyCompany.md) — Rural-lifestyle retailer joining employee product knowledge, customer service, AI experimentation, and staged deployment.
+- [Heather Nelson](entities/HeatherNelson.md) — Healthcare technology leader framing connectivity as clinical infrastructure and the CIO as a business and culture partner.
+- [Callie Field](entities/CallieField.md) — T-Mobile discussion participant centering cancer-patient coordination burden and fragmented service systems.
 - [Nate Berkus](entities/NateBerkus.md) — interior designer connecting travel, sourcing, client biography, and durable personal taste.
 - [Stephen Gaghan](entities/StephenGaghan.md) — Screenwriter whose Blink development joins indirect nonfiction adaptation, deep revision, changing casting imagination, and grief-shaped suspension.
 - [Blink (unproduced film)](entities/BlinkFilm.md) — Unproduced screenplay joining extraordinary social perception, paternal approval, worker obligations, star attachment, and creative loss.
@@ -19696,6 +19701,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Clinical Ambient Documentation](concepts/ClinicalAmbientDocumentation.md) — AI-assisted encounter capture, summary, action extraction, and follow-up designed to reduce documentation friction while retaining verification and consent boundaries.
+- [Infrastructure Investment Outcome Framing](concepts/InfrastructureInvestmentOutcomeFraming.md) — Leadership practice that explains technical foundations through service failures, workflow dependencies, and measurable organizational outcomes.
 - [Exploratory Travel Serendipity](concepts/ExploratoryTravelSerendipity.md) — open-ended walking and local inquiry as a travel and creative discovery practice.
 - [Craft Sourcing Knowledge](concepts/CraftSourcingKnowledge.md) — place-, maker-, and fabrication-specific knowledge behind distinctive design.
 - [Biographical Interior Design](concepts/BiographicalInteriorDesign.md) — translation of inhabitants' routines, memories, and emotional cues into space.

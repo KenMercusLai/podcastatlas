@@ -37208,6 +37208,22 @@
       "updated": "2026-10-22",
       "url": "/wiki/entities/bosch/"
     },
+    "BostonChildrensHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/bostonchildrenshospital/"
+    },
     "BostonCorbett": {
       "episode_count": 2,
       "show_count": 1,
@@ -42537,6 +42553,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/caligula/"
+    },
+    "CallieField": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/calliefield/"
     },
     "CallingCommitmentTradeoff": {
       "episode_count": 2,
@@ -57679,6 +57711,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/clinicalaitraceability/"
     },
+    "ClinicalAmbientDocumentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/clinicalambientdocumentation/"
+    },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
       "show_count": 1,
@@ -63458,9 +63506,9 @@
       "url": "/wiki/concepts/connecticutlocalfiscalfragmentation/"
     },
     "ConnectivityEnabledWorkflowRedesign": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
@@ -63475,6 +63523,13 @@
           "show": "Revisionist History",
           "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
           "url": "/wiki/sources/exploring-life-saving-ai-tech-with-t-mobile-for-business/"
+        },
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
         }
       ],
       "updated": "2026-11-16",
@@ -76427,9 +76482,9 @@
       "url": "/wiki/concepts/decentralizedcommandleadership/"
     },
     "DecentralizedHealthMonitoring": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Exploring_Life-Saving_AI_Tech_with_T-Mobile_for_Business [Exploring_Life-Saving_AI_Tech_with_T-Mobile_for_Business].md",
@@ -76437,6 +76492,13 @@
           "show": "Revisionist History",
           "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
           "url": "/wiki/sources/exploring-life-saving-ai-tech-with-t-mobile-for-business/"
+        },
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
         }
       ],
       "updated": "2026-11-16",
@@ -138433,6 +138495,22 @@
       "updated": "2026-10-26",
       "url": "/wiki/entities/heatherhasson/"
     },
+    "HeatherNelson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/heathernelson/"
+    },
     "HeatherTuke": {
       "episode_count": 1,
       "show_count": 1,
@@ -156492,6 +156570,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/infrastructureaccountabilitygap/"
+    },
+    "InfrastructureInvestmentOutcomeFraming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/infrastructureinvestmentoutcomeframing/"
     },
     "IngredientFlavorLabelTransparency": {
       "episode_count": 1,
@@ -223128,9 +223222,9 @@
       "url": "/wiki/entities/netscape/"
     },
     "NetworkSlicing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
@@ -223145,6 +223239,13 @@
           "show": "Revisionist History",
           "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
           "url": "/wiki/sources/exploring-life-saving-ai-tech-with-t-mobile-for-business/"
+        },
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
         }
       ],
       "updated": "2026-11-16",
@@ -301454,9 +301555,9 @@
       "url": "/wiki/concepts/tcellengagers/"
     },
     "TMobile": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
@@ -301471,6 +301572,13 @@
           "show": "Revisionist History",
           "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
           "url": "/wiki/sources/exploring-life-saving-ai-tech-with-t-mobile-for-business/"
+        },
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
         }
       ],
       "updated": "2026-11-16",
@@ -313077,6 +313185,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/toyotaproductionsystempersonalwaste/"
+    },
+    "TractorSupplyCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
+          "key": "the-it-revolution-the-it-revolution",
+          "show": "Revisionist History",
+          "title": "The IT Revolution",
+          "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/tractorsupplycompany/"
     },
     "TradeDealCapitalStructure": {
       "episode_count": 2,

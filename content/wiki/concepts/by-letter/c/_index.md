@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11430
+wiki_total_pages: 11432
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "ClinicalAITraceability"
     title: "Clinical AI Traceability"
     url: "/wiki/concepts/clinicalaitraceability/"
+  - key: "ClinicalAmbientDocumentation"
+    title: "Clinical Ambient Documentation"
+    url: "/wiki/concepts/clinicalambientdocumentation/"
   - key: "ClinicalBehaviorChangeRedFlags"
     title: "Clinical Behavior-Change Red Flags / 行为突变就医信号"
     url: "/wiki/concepts/clinicalbehaviorchangeredflags/"

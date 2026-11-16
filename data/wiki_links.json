@@ -16011,6 +16011,10 @@
     "title": "Boston",
     "url": "/wiki/entities/boston/"
   },
+  "BostonChildrensHospital": {
+    "title": "Boston Children's Hospital",
+    "url": "/wiki/entities/bostonchildrenshospital/"
+  },
   "BostonCorbett": {
     "title": "Boston Corbett",
     "url": "/wiki/entities/bostoncorbett/"
@@ -17570,6 +17574,10 @@
   "Caligula": {
     "title": "Caligula",
     "url": "/wiki/entities/caligula/"
+  },
+  "CallieField": {
+    "title": "Callie Field",
+    "url": "/wiki/entities/calliefield/"
   },
   "CallingCommitmentTradeoff": {
     "title": "Calling Commitment Tradeoff",
@@ -22302,6 +22310,10 @@
   "ClinicalAITraceability": {
     "title": "Clinical AI Traceability",
     "url": "/wiki/concepts/clinicalaitraceability/"
+  },
+  "ClinicalAmbientDocumentation": {
+    "title": "Clinical Ambient Documentation",
+    "url": "/wiki/concepts/clinicalambientdocumentation/"
   },
   "ClinicalBehaviorChangeRedFlags": {
     "title": "Clinical Behavior-Change Red Flags / 行为突变就医信号",
@@ -44151,6 +44163,10 @@
     "title": "Heather Hasson",
     "url": "/wiki/entities/heatherhasson/"
   },
+  "HeatherNelson": {
+    "title": "Heather Nelson",
+    "url": "/wiki/entities/heathernelson/"
+  },
   "HeatherSchwartz": {
     "title": "Heather Schwartz",
     "url": "/wiki/entities/heatherschwartz/"
@@ -48742,6 +48758,10 @@
   "InfrastructureAccountabilityGap": {
     "title": "Infrastructure Accountability Gap",
     "url": "/wiki/concepts/infrastructureaccountabilitygap/"
+  },
+  "InfrastructureInvestmentOutcomeFraming": {
+    "title": "Infrastructure Investment Outcome Framing",
+    "url": "/wiki/concepts/infrastructureinvestmentoutcomeframing/"
   },
   "InfrastructureLaborBurden": {
     "title": "Infrastructure Labor Burden",
@@ -95259,6 +95279,10 @@
     "title": "Traction Tools",
     "url": "/wiki/entities/tractiontools/"
   },
+  "TractorSupplyCompany": {
+    "title": "Tractor Supply Company",
+    "url": "/wiki/entities/tractorsupplycompany/"
+  },
   "TracyJeremiah": {
     "title": "Tracy Jeremiah",
     "url": "/wiki/entities/tracyjeremiah/"
@@ -115410,6 +115434,10 @@
   "the-invention-of-an-epidemic-the-invention-of-an-epidemic": {
     "title": "The Invention of an Epidemic",
     "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+  },
+  "the-it-revolution-the-it-revolution": {
+    "title": "The IT Revolution",
+    "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
   },
   "the-joe-rogan-intervention-the-joe-rogan-intervention": {
     "title": "The Joe Rogan Intervention",

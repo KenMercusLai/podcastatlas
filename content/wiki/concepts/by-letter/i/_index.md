@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11430
+wiki_total_pages: 11432
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "InfrastructureAccountabilityGap"
     title: "Infrastructure Accountability Gap"
     url: "/wiki/concepts/infrastructureaccountabilitygap/"
+  - key: "InfrastructureInvestmentOutcomeFraming"
+    title: "Infrastructure Investment Outcome Framing"
+    url: "/wiki/concepts/infrastructureinvestmentoutcomeframing/"
   - key: "InfrastructureLaborBurden"
     title: "Infrastructure Labor Burden"
     url: "/wiki/concepts/infrastructurelaborburden/"

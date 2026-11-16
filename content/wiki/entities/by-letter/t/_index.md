@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14410
+wiki_total_pages: 14414
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "TractionTools"
     title: "Traction Tools"
     url: "/wiki/entities/tractiontools/"
+  - key: "TractorSupplyCompany"
+    title: "Tractor Supply Company"
+    url: "/wiki/entities/tractorsupplycompany/"
   - key: "TracyJeremiah"
     title: "Tracy Jeremiah"
     url: "/wiki/entities/tracyjeremiah/"

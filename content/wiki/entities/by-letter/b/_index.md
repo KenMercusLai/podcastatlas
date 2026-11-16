@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14410
+wiki_total_pages: 14414
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "Boston"
     title: "Boston"
     url: "/wiki/entities/boston/"
+  - key: "BostonChildrensHospital"
+    title: "Boston Children's Hospital"
+    url: "/wiki/entities/bostonchildrenshospital/"
   - key: "BostonCorbett"
     title: "Boston Corbett"
     url: "/wiki/entities/bostoncorbett/"

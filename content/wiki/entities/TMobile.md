@@ -5,6 +5,7 @@ tags: [company, telecommunications, mobile-network, 5g]
 sources:
   - invisible-infrastructure-with-t-mobile-for-business
   - exploring-life-saving-ai-tech-with-t-mobile-for-business
+  - the-it-revolution-the-it-revolution
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -13,13 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-T-Mobile enters the wiki through two sponsored [[RevisionistHistory]] episodes about enterprise connectivity. Its representative [[MoKatibeh]] presents [[NetworkSlicing|5G network slicing]], T-Priority, SuperMobile, and network APIs as infrastructure for maintaining selected service behavior and connecting outside applications to network capabilities.
+T-Mobile enters the wiki through three sponsored [[RevisionistHistory]] episodes about enterprise connectivity. Its representatives present [[NetworkSlicing|5G network slicing]], private networks, T-Priority, SuperMobile, and network APIs as infrastructure for maintaining selected service behavior and connecting outside applications to network capabilities.
 
 ## Current Profile
 
-The sources position T-Mobile as both network operator and workflow-design partner. The first says the company can tune capacity, reliability, performance, and latency for a slice, then combine adaptive connectivity with network-layer security and satellite communication in SuperMobile. The second extends the first-response case: T-Priority is described as offering priority, preemption, and dynamically allocated capacity, while planned APIs could expose location, quality-of-service, and real-time network-resource functions to platforms such as [[ThreeAMInnovations|3AM Innovations]].
+The sources position T-Mobile as both network operator and workflow-design partner. The infrastructure source says the company can tune capacity, reliability, performance, and latency for a slice, then combine adaptive connectivity with network-layer security and satellite communication in SuperMobile. The first-response source describes T-Priority as offering priority, preemption, and dynamically allocated capacity, while planned APIs could expose location, quality-of-service, and real-time network-resource functions to platforms such as [[ThreeAMInnovations|3AM Innovations]]. The healthcare and retail source adds private-network or designated-slice requirements for mobile clinical work and dense device environments.
 
-Formula One, first-response operations, [[CNN]] field reporting, [[SiemensEnergy]] maintenance, and firefighter situational awareness provide the main examples. These accounts are commercially informative but not independent: neither supplies comparative measurements, pricing, coverage boundaries, security evaluation, or procurement tradeoffs.
+Formula One, first-response operations, [[CNN]] field reporting, [[SiemensEnergy]] maintenance, firefighter situational awareness, [[BostonChildrensHospital|Boston Children's Hospital]], and [[TractorSupplyCompany|Tractor Supply Company]] provide the main examples. These accounts are commercially informative but not independent: none supplies comparative measurements, pricing, coverage boundaries, security evaluation, or procurement tradeoffs.
 
 ## Key Characteristics
 
@@ -29,6 +30,7 @@ Formula One, first-response operations, [[CNN]] field reporting, [[SiemensEnergy
 - Combines terrestrial slicing, network-layer security, and satellite communication in its product narrative.
 - Presents network APIs as controlled access to location, quality-of-service, and resource functions.
 - Uses customer deployments and event operations to demonstrate prospective workflow change.
+- Extends its enterprise narrative into hospitals where mobility, device density, privacy, and continuity raise the stakes of network failure.
 
 ## Evidence
 
@@ -41,21 +43,27 @@ Formula One, first-response operations, [[CNN]] field reporting, [[SiemensEnergy
 
 - [[invisible-infrastructure-with-t-mobile-for-business]] describes Formula One, Ryder Cup, MLB All-Star Week, CNN reporting, Siemens Energy maintenance, and first-response scenarios.
 - [[exploring-life-saving-ai-tech-with-t-mobile-for-business]] connects the network layer to radio analysis, wearables, phones, three-dimensional responder location, and incident command.
+- [[the-it-revolution-the-it-revolution]] connects private 5G and designated slices to clinical mobility, connected hospital devices, home care, and employee-facing retail tools.
+
+### Healthcare service requirements
+
+- [[the-it-revolution-the-it-revolution]] describes latency, capacity, reliability, encryption, patient-data protection, and attack-surface concerns in a hospital setting.
 
 ### Commercial evidence boundary
 
 - [[invisible-infrastructure-with-t-mobile-for-business]] is explicitly a paid partnership and supplies no independent benchmark, price comparison, or coverage audit.
 - [[exploring-life-saving-ai-tech-with-t-mobile-for-business]] is also a paid partnership and does not independently test T-Priority, network APIs, location accuracy, or safety outcomes.
+- [[the-it-revolution-the-it-revolution]] is a paid partnership and does not compare private 5G with upgraded Wi-Fi, wired infrastructure, other carriers, or alternative clinical architectures.
 
 ## Qualifications
 
-This profile is bounded to two sponsored episodes. Product capability, deployment chronology, security, customer benefit, and comparative performance are episode-reported claims rather than independently established findings. The claim that as much as all available capacity could be assigned to first responders is source-attributed, not a measured availability guarantee. Planned APIs and prospective uses should not be treated as deployed functions without further evidence.
+This profile is bounded to three sponsored episodes. Product capability, deployment chronology, security, customer benefit, and comparative performance are episode-reported claims rather than independently established findings. The claim that as much as all available capacity could be assigned to first responders is source-attributed, not a measured availability guarantee. Planned APIs, home-care scenarios, service-level descriptions, and prospective uses should not be treated as deployed functions or measured outcomes without further evidence.
 
 ## What Changed
 
-- Extended T-Priority from a product mention into a priority, preemption, and congestion-allocation account.
-- Added network APIs as a proposed bridge between carrier capabilities and emergency-response platforms.
-- Connected the network layer to a human-supervised firefighter situational-awareness workflow.
+- Extended the profile into hospital mobility, device density, privacy, and continuity requirements.
+- Added private networks and designated slices as the episode's proposed response to Wi-Fi limitations.
+- Strengthened the procurement qualification by requiring comparison with non-5G alternatives.
 
 ## Relationships
 
@@ -67,3 +75,5 @@ This profile is bounded to two sponsored episodes. Product capability, deploymen
 - [[EmergencyResponseDecisionSupport]] - public-safety workflow supported by connectivity, location, and sensor data.
 - [[ConnectivityEnabledWorkflowRedesign]] - operating change the company argues dependable connectivity can enable.
 - [[DirectToDeviceSatelliteConnectivity]] - adjacent satellite coverage model within a broader connectivity mix.
+- [[BostonChildrensHospital|Boston Children's Hospital]] - healthcare case for mobile clinical connectivity and home care.
+- [[TractorSupplyCompany|Tractor Supply Company]] - retail case for employee-facing mobile information and staged deployment.
