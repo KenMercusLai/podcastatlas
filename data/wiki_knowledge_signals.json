@@ -88109,9 +88109,9 @@
       "url": "/wiki/concepts/dualfemaleprotagonistcomplementarity/"
     },
     "DualProcessBereavementOscillation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5061041393 [SCIM5061041393].md",
@@ -88119,9 +88119,16 @@
           "show": "Huberman Lab",
           "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
           "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559 [default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559].md",
+          "key": "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559",
+          "show": "Hidden Brain",
+          "title": "Healing Your Heart",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/dualprocessbereavementoscillation/"
     },
     "DualSovereigntyStateDissolution": {
@@ -113081,6 +113088,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fivemarquiseshuanera/"
     },
+    "FiveStageGriefModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559 [default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559].md",
+          "key": "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559",
+          "show": "Hidden Brain",
+          "title": "Healing Your Heart",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/fivestagegriefmodel/"
+    },
     "FiveStarsOutOfTheEastBrocade": {
       "episode_count": 2,
       "show_count": 1,
@@ -131382,6 +131405,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/griefphysiologysupport/"
+    },
+    "GriefResponseAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559 [default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559].md",
+          "key": "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559",
+          "show": "Hidden Brain",
+          "title": "Healing Your Heart",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/griefresponseagency/"
     },
     "GrievanceDrivenStrongmanPolitics": {
       "episode_count": 1,
@@ -199681,6 +199720,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/luckymoneyfilm1937/"
+    },
+    "LucyHone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559 [default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559].md",
+          "key": "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559",
+          "show": "Hidden Brain",
+          "title": "Healing Your Heart",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/lucyhone/"
     },
     "LucyHughesHallett": {
       "episode_count": 1,
@@ -300922,9 +300977,9 @@
       "url": "/wiki/concepts/structureddecisionmodel/"
     },
     "StructuredGrievingPractice": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -300939,9 +300994,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Process of Healing from Grief",
           "url": "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559 [default.mp3_ywr3ahjkcgo_bce4fb6889bf99510a06c920c7b2a338_49546559].md",
+          "key": "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559",
+          "show": "Hidden Brain",
+          "title": "Healing Your Heart",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/structuredgrievingpractice/"
     },
     "StructuredSpontaneousSpeaking": {

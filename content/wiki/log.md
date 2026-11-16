@@ -41600,3 +41600,17 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Healing Your Heart
+
+Added a [[HiddenBrain]] episode following resilience researcher [[LucyHone]] after the death of her daughter Abby. Created [[GriefResponseAgency]] to distinguish involuntary grief reactions from partly selectable responses, and created [[FiveStageGriefModel]] to preserve the framework's historical influence while rejecting its use as a required bereavement sequence.
+
+Resynthesized [[DualProcessBereavementOscillation]] and [[StructuredGrievingPractice]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: confronting loss and restoring daily life can alternate without betrayal, while counterfactual limits and a helping-or-harming test can create response choice without making grief voluntary or blaming people whose suffering remains severe.
+
+No settled contradiction was adopted. Hone's family experience, the counselor warnings, typical-recovery claim, stage critique, cognitive-behavioral framing, and specific coping practices remain episode-scoped because the supplied file is a structured summary rather than a transcript, clinical record, or systematic review. Broad [[HiddenBrain]] and general resilience profiles remained closed because the focused pages capture the durable additions without reopening unrelated evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,126 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

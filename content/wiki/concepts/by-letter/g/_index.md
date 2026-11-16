@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11534
+wiki_total_pages: 11536
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "GriefPhysiologySupport"
     title: "Grief Physiology Support"
     url: "/wiki/concepts/griefphysiologysupport/"
+  - key: "GriefResponseAgency"
+    title: "Grief Response Agency"
+    url: "/wiki/concepts/griefresponseagency/"
   - key: "GriefInterruptedCreativeDevelopment"
     title: "Grief-Interrupted Creative Development"
     url: "/wiki/concepts/griefinterruptedcreativedevelopment/"

@@ -4,7 +4,8 @@ type: concept
 tags: [grief, bereavement, psychology, adaptation]
 sources:
   - healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393
-last_updated: 2026-09-21
+  - default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Dual-process bereavement oscillation is the episode's model of healthy grieving as movement between loss-oriented contact with pain and restoration-oriented participation in present life, rather than permanent immersion, permanent avoidance, or a fixed sequence of stages.
 
 ## Current Synthesis
-[[MaryFrancesOConnor]] presents oscillation as a normal adaptive capacity. A bereaved person can cry, yearn, remember, or withdraw and can also work, laugh, travel, form a new relationship, or solve practical problems. These modes do not cancel each other: restoration is not betrayal, and renewed grief does not prove that earlier adaptation failed.
+[[MaryFrancesOConnor]] presents oscillation as a normal adaptive capacity. A bereaved person can cry, yearn, remember, or withdraw and can also work, laugh, travel, form a new relationship, or solve practical problems. [[LucyHone]] makes the same rhythm concrete through “grief ambushes,” family attention, writing, awe, sport, friendship, and hope. These modes do not cancel each other: restoration is not betrayal, and renewed grief does not prove that earlier adaptation failed.
 
 The model explains why no single emotional state is the target. Exclusive avoidance can prevent learning, but continuous loss focus can also narrow life. Health lies in flexible movement between confronting absence and rebuilding a workable world, with social and professional support when the movement becomes persistently blocked.
 
@@ -33,12 +34,14 @@ The model explains why no single emotional state is the target. Exclusive avoida
 - Permission for restoration: [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] discusses guilt about joy, vacations, fun, and falling in love after loss.
 - Re-entry through action: [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] says difficult action may need to occur before motivation or relief arrives.
 - Failure modes: [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] identifies both avoidance and perseverative counterfactual thinking as obstacles.
+- Lived oscillation and response choice: [[default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559]] connects unpredictable grief, restorative breaks, positive emotion, and attention choices without requiring suppression.
 
 ## Counterevidence & Qualifications
 Oscillation is a descriptive adaptation model, not a schedule, performance target, or demand to alternate emotions on cue. Energy, trauma, sudden or violent death, social conditions, medical illness, and cultural or religious practice can change what movement is possible. The source does not establish an individualized diagnostic threshold or substitute this model for grief therapy, medical care, or suicide-related expertise.
 
 ## What Changed
-- Created the concept from O'Connor's explanation of the dual-process model of bereavement.
+- Added Hone's lived account of oscillation through grief ambushes, family life, positive emotion, and restorative activity.
+- Clarified that oscillation can include deliberate response choices without making grief itself voluntary.
 
 ## Related Concepts
 - [[GriefAttachmentRemapping]] - explains why the attachment persists while expectations and daily life change.
@@ -47,3 +50,4 @@ Oscillation is a descriptive adaptation model, not a schedule, performance targe
 - [[BereavementGriefWork]] - broader process of carrying loss through truth, ritual, support, and care.
 - [[GriefCompanionSupport]] - relational support that can make both mourning and restored activity safer.
 - [[TraumaNarrativeIntegration]] - neighboring process for integrating facts, memory, feeling, and bodily alarm.
+- [[GriefResponseAgency]] - explains the limited choices that can occur within movement between modes.

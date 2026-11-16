@@ -5,7 +5,8 @@ tags: [grief, psychology, emotional-health, behavior-change]
 sources:
   - essentials-the-science-process-of-healing-from-grief-scim9466548315
   - the-science-process-of-healing-from-grief-scim7724129089
-last_updated: 2026-10-01
+  - default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Structured grieving practice is the source's recommendation to set aside bounded
 ## Current Synthesis
 The practice is not avoidance and not forced closure. In the episode, [[AndrewHuberman]] recommends dedicating short blocks of time to deliberately access the bond with the lost person, animal, or thing. The goal is to let attachment remain vivid while giving the nervous system repeated opportunities to learn that the old space-time expectation is no longer available.
 
-The sources' main constraint is counterfactual thinking. "What if" scenarios about how the loss might have been prevented can attach grief to guilt and strengthen the episodic memory loops that make remapping harder. Structured grieving is therefore framed as active, bounded contact with attachment rather than open-ended rumination, while orientation to present space and time helps distinguish memory from an expectation of renewed physical access.
+The sources' main constraint is counterfactual thinking. “What if” scenarios about how the loss might have been prevented can attach grief to guilt and strengthen the episodic memory loops that make remapping harder. [[LucyHone]] adds a lived attentional rule: allow a limited number of counterfactual questions, then shift to a demanding activity and ask whether continued engagement is helping or harming. Structured grieving is therefore framed as active, bounded contact with attachment rather than open-ended rumination, while orientation to present space and time helps distinguish memory from an expectation of renewed physical access.
 
 ## Key Claims
 - Dedicated grieving time can make grief more active and less purely avoidant or intrusive.
@@ -35,13 +36,14 @@ The sources' main constraint is counterfactual thinking. "What if" scenarios abo
 - Rational grieving: [[essentials-the-science-process-of-healing-from-grief-scim9466548315]] defines grieving practice around accepting the new reality while anchoring to the depth of attachment.
 - Present orientation: [[the-science-process-of-healing-from-grief-scim7724129089]] pairs deliberate contact with the bond with awareness of current space and time.
 - Support boundary: [[essentials-the-science-process-of-healing-from-grief-scim9466548315]] also points to psychologists, psychiatrists, and bereavement groups when grief needs more support.
+- Lived counterfactual limit: [[default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559]] describes limiting “what if” questions and shifting attention without denying grief.
 
 ## Counterevidence & Qualifications
 The sources do not present structured grieving as a standalone treatment for complicated grief, major depression, trauma, suicidality, panic, substance misuse, or family crisis. The full episode and its Essentials condensation are shared provenance rather than independent replication. The recommendation is source-scoped public education and should be adapted with qualified support when grief is severe, prolonged, disabling, or medically/psychiatrically complex.
 
 ## What Changed
-- Added present-space-and-time orientation and the full episode's broader source-scoped duration range.
-- Marked the full episode and its Essentials condensation as shared rather than independent evidence.
+- Added Hone's lived counterfactual limit and helping-or-harming attention test.
+- Clarified that attentional shifting is meant to bound rumination rather than suppress grief.
 
 ## Related Concepts
 - [[GriefAttachmentRemapping]] - parent grief model that the practice operationalizes.
@@ -50,3 +52,4 @@ The sources do not present structured grieving as a standalone treatment for com
 - [[TraumaNarrativeIntegration]] - adjacent narrative and memory-processing frame.
 - [[MedicalRiskManagement]] - care-boundary concept for when professional support is needed.
 - [[SustainableHealthOptimization]] - broader realistic-routine frame.
+- [[GriefResponseAgency]] - response-choice framework that supplies the helping-or-harming test.
