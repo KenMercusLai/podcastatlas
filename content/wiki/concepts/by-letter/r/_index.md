@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11421
+wiki_total_pages: 11423
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1763,6 +1763,9 @@ wiki_pages:
   - key: "RulerScalePathDependence"
     title: "统治者尺度错配型路径依赖 / Ruler-Scale Path Dependence"
     url: "/wiki/concepts/rulerscalepathdependence/"
+  - key: "RoleTransitionCapabilityTrap"
+    title: "角色转换中的能力陷阱 / Role-Transition Capability Trap"
+    url: "/wiki/concepts/roletransitioncapabilitytrap/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"

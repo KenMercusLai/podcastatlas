@@ -40276,6 +40276,14 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | 《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱
+
+Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing the current [[HanzhongCampaign218LateHan|218–219 Hanzhong campaign]] arc from [[XiahouYuan|夏侯渊]]'s death through [[CaoCao|曹操]]'s withdrawal. Created [[HuangZhong|黄忠]], [[RoleTransitionCapabilityTrap|角色转换中的能力陷阱]], and [[PopulationRelocationBufferStrategy|迁民式战略缓冲]], then resynthesized the campaign, Xiahou Yuan, [[ZhangJiCaoOfficialLateHan|张既]], and [[AmbiguityBasedDeterrentBluff|疑兵式心理威慑]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: a capability suited to front-line execution can become a critical-node risk after promotion into system-preserving command; Liu Bei's refusal of decisive battle converts distance, organizational pressure, time, and morale into advantage; Zhao Yun's anomalously open camp works as a bluff because Cao-side suspicion makes hidden force plausible; and Zhang Ji's reported relocation proposal treats settlement and supply geography as a post-withdrawal defensive layer. No settled contradiction is adopted. The management analogy, private motives, troop and casualty totals, battle sequence, “鸡肋” anecdote, tripartite-order claim, relocation scale and geography, voluntariness, civilian cost, and strategic effect remain source-scoped because the supplied file is a structured summary rather than a transcript, critical edition, military study, or migration record. Broad Cao Cao, Liu Bei, Zhao Yun, and sunk-cost pages remained closed because the episode adds examples rather than revising those larger judgments. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,063 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | Did I Really Do That?
 
 Added the [[HiddenBrain]] episode in which [[SaulKassin]] explains voluntary, compliant, and internalized false confessions, the situational pressures that can produce them, and the unusual power of confession evidence over jurors and investigators. Established [[FalseConfessionPsychology]] and [[PostConfessionEvidenceContamination]], updated Hidden Brain from its complete four-source inventory, and migrated [[StanleyMilgram]] from its complete two-source inventory to the synthesis-first contract while adding the qualified interrogation-pressure comparison.
@@ -40715,6 +40723,10 @@ Added a [[RevisionistHistory]] episode in which [[GaryGoldman]] and [[AngusFletc
 Core synthesis: the screenplay creates an [[AlgorithmicAutonomyParadox]] rather than a simple anti-AI warning. Cole's intuition repeatedly fails and Plato's advice repeatedly succeeds, yet prediction accuracy does not settle informed consent, legitimate authority, moral responsibility, or who defines the objective. The development history adds [[VisionBackedFilmFinancing]]: actor and producer interest could not make a roughly $120 million, morally difficult project financeable without a director trusted to turn its premise into an execution plan. No settled contradiction is adopted. The ending, screenplay, actor and director attachments, budget, financing sequence, narrative-hardware claim, and algorithmic company's failure remain source-scoped because the supplied file is a structured summary rather than a transcript, screenplay, production archive, cited paper, or financial record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,062 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

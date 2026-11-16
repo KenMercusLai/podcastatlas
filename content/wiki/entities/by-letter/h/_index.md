@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14396
+wiki_total_pages: 14397
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1647,7 +1647,7 @@ wiki_pages:
     title: "汉中 / Hanzhong"
     url: "/wiki/entities/hanzhong/"
   - key: "HanzhongCampaign218LateHan"
-    title: "汉中争夺（218年） / Hanzhong Campaign (218 CE)"
+    title: "汉中争夺（218–219年） / Hanzhong Campaign (218–219 CE)"
     url: "/wiki/entities/hanzhongcampaign218latehan/"
   - key: "HanJingdi"
     title: "汉景帝 / Emperor Jing of Han"
@@ -2153,6 +2153,9 @@ wiki_pages:
   - key: "HuangXinlvDermatologist"
     title: "黄心律 / Huang Xinlü (dermatologist)"
     url: "/wiki/entities/huangxinlvdermatologist/"
+  - key: "HuangZhong"
+    title: "黄忠 / Huang Zhong"
+    url: "/wiki/entities/huangzhong/"
   - key: "HuangzhiKingdom"
     title: "黄支国 / Huangzhi Kingdom"
     url: "/wiki/entities/huangzhikingdom/"

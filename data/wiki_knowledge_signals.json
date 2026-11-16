@@ -16351,9 +16351,9 @@
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmbiguityBasedDeterrentBluff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
@@ -16361,9 +16361,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
+        },
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/ambiguitybaseddeterrentbluff/"
     },
     "AmbiguousRemainsBurialEthics": {
@@ -136026,9 +136033,9 @@
       "url": "/wiki/entities/hanzhongcampaign215/"
     },
     "HanzhongCampaign218LateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lpjdH6wOhap6BqBGHnVltu2OeY5i [lpjdH6wOhap6BqBGHnVltu2OeY5i].md",
@@ -136043,9 +136050,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1161丨曹操为什么要赐死儿媳妇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1161-caocao-wei-shenme-yao-cisi-erxifu-lhv36g01hxpxaabh77bbyosdjzfr/"
+        },
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/hanzhongcampaign218latehan/"
     },
     "HaoJieTaiyuanLateHan": {
@@ -147473,6 +147487,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/huangyunlatehan/"
+    },
+    "HuangZhong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/huangzhong/"
     },
     "HuangZiyiManufacturingReporter": {
       "episode_count": 3,
@@ -246464,6 +246494,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/populationhealthriskprediction/"
     },
+    "PopulationRelocationBufferStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/populationrelocationbufferstrategy/"
+    },
     "PopulistDemocraticEnergy": {
       "episode_count": 6,
       "show_count": 3,
@@ -269324,6 +269370,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/roletieredailiteracy/"
+    },
+    "RoleTransitionCapabilityTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/roletransitioncapabilitytrap/"
     },
     "Rollo": {
       "episode_count": 1,
@@ -335387,9 +335449,9 @@
       "url": "/wiki/entities/xiahoushengwesternhan/"
     },
     "XiahouYuan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
@@ -335418,9 +335480,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1136丨他勇如韩信，却因一个决定全家被杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb/"
+        },
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/xiahouyuan/"
     },
     "XiakeXingNovel": {
@@ -347272,9 +347341,9 @@
       "url": "/wiki/entities/zhanghuanlatehan/"
     },
     "ZhangJiCaoOfficialLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？ [lu8ocNIHZ6aRqLLfCc3uJOK6UJIl].md",
@@ -347289,9 +347358,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
+          "key": "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/zhangjicaoofficiallatehan/"
     },
     "ZhangJianCardiology": {

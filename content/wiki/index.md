@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱](sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu.md) — 芮淇讲透资治通鉴以夏侯渊之死、刘备长期对峙、赵云疑兵、曹操撤出汉中及张既迁民方案，讨论角色转换、心理威慑与战略缓冲。
 - [The Variable Man with Gary Goldman and Angus Fletcher | Development Hell](sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle.md) — Gary Goldman and Angus Fletcher use an unproduced Philip K. Dick adaptation to test AI prediction, free will, audience reasoning, and trusted-director financing.
 - [Bubbles with Isaac Adamson | Development Hell](sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell.md) — Isaac Adamson uses an unproduced stop-motion screenplay to examine unreliable narration, loyalty, alleged abuse, cultural reevaluation, and film-development risk.
 - [The Birthday Party with Charles Randolph | Development Hell](sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell.md) — Charles Randolph uses an unproduced kidnapping adaptation to examine invented internal conflict, moral reframing, cross-cultural authorship, and representational development risk.
@@ -5186,6 +5187,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [汉中争夺（218–219年） / Hanzhong Campaign (218–219 CE)](entities/HanzhongCampaign218LateHan.md) — 刘备从机会试探、早期受挫和益州动员转入长期对峙，最终迫使曹操撤回长安的多阶段争夺。
+- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — 曹方西线将领，其快速驰援与亲身犯险展示了条件敏感的执行优势及统帅角色中的关键节点风险。
+- [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 曹方西部中介与治理官员，从河东援助和马腾入朝安排延伸到汉中撤退后的迁民缓冲提议。
+- [黄忠 / Huang Zhong](entities/HuangZhong.md) — 刘备麾下汉中战役将领，当前证据聚焦其针对曹军粮队的快速出击及由此产生的接应风险。
 - [Isaac Adamson](entities/IsaacAdamson.md) — Screenwriter whose Bubbles project joins comic animal perspective to tragedy, moral blindness, revision, and development risk.
 - [Bubbles (Isaac Adamson screenplay)](entities/BubblesFilm.md) — Unproduced stop-motion screenplay using a chimpanzee's royal worldview to reinterpret Michael Jackson, loyalty, and denial.
 - [Michael Jackson](entities/MichaelJackson.md) — Musician represented narrowly as Bubbles's former companion and the morally disputed subject of Adamson's unproduced screenplay.
@@ -5433,7 +5438,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曹彰 / Cao Zhang (late Han)](entities/CaoZhangLateHan.md) — 受命平定乌桓并以战果威慑鲜卑、同时受君臣军令约束的曹操之子。
 - [曹休 / Cao Xiu (late Han)](entities/CaoXiuLateHan.md) — 以秘密行动与公开声势不相容为据识别张飞疑兵、帮助曹洪选择攻击吴兰的曹方将领。
 - [杨洪 / Yang Hong (late Han)](entities/YangHongLateHan.md) — 以汉中为益州咽喉主张增援，并以地方行政支撑前线兵粮动员的益州官员。
-- [汉中争夺（218年） / Hanzhong Campaign (218 CE)](entities/HanzhongCampaign218LateHan.md) — 从首次受挫转入长期对峙、把刘备攻势变成兵员粮草与后方治理考验的汉中战役阶段。
 - [Freakonomics Radio](entities/FreakonomicsRadio.md) — Economics podcast using expert disagreement to examine fertility preferences, work, housing, and family policy.
 - [Melissa Kearney](entities/MelissaKearney.md) — Economist interpreting U.S. fertility cohorts, intensive parenting, policy limits, and historical mortgage access.
 - [Lyman Stone](entities/LymanStone.md) — Demographer framing pronatalism as voluntary preference realization and emphasizing marriage, incentives, and family-suitable housing.
@@ -8624,7 +8628,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ines Butemacha](entities/InesButemacha.md) — Claimy representative explaining test-linked AI underwriting and premium incentives.
 - [John Farley (Gallagher)](entities/JohnFarleyGallagher.md) — Cyber-risk executive describing insurers' move from silence to scrutiny on AI.
 - [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
-- [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 先赴关中请求马腾援助河东，后以关系、后勤与公开迎送推动马腾入朝的曹操使者。
 - [乐进 / Le Jin (late Han)](entities/LeJinLateHan.md) — 与于禁分驻要地却需要赵俨居中协调的曹军将领。
 - [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
 - [路粹 / Lu Cui (late Han)](entities/LuCuiLateHan.md) — 孔融案中的正式弹劾者，将政治、交往、言论与名分指控捆绑为死罪案件。
@@ -11330,7 +11333,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范县 / Fan County (Late Han)](entities/FanCountyLateHan.md) — Remaining Cao-side Yanzhou county preserved when Jin Yun kills Fan Yi after Cheng Yu's persuasion.
 - [夏侯惇 / Xiahou Dun](entities/XiahouDun.md) — Cao-side commander whose profile combines a self-supported early following, Yanzhou stabilization, practical caution, and a Bowang pursuit failure.
 - [李典 / Li Dian](entities/LiDian.md) — Cao-side officer whose profile combines group-scale recruitment, correct reading of the Bowang lure, and Xiahou Dun's rescue.
-- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — Cao-side commander spanning the Donghai surrender operation, rapid Qishan relief delegation, and the later Hanzhong reversal.
 - [许众 / Xu Zhong (Jin commentator)](entities/XuZhongJin.md) — Later commentator whose criticism of Jin Yun frames the Fan County case as a filial-duty and loyalty dilemma.
 - [仓亭津 / Cangting Ford (Late Han)](entities/CangtingFordLateHan.md) — Yellow River crossing where Cheng Yu blocks Chen Gong's advance toward Dong'e and Cao Cao's remaining Yanzhou base.
 - [苍亭之战 / Cangting Battle (late Han)](entities/CangtingBattleLateHan.md) — Post-Guandu battle where Cao Cao keeps pressure on Yuan Shao after Xun Yu's threat-sequencing advice.
@@ -19676,6 +19678,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [角色转换中的能力陷阱 / Role-Transition Capability Trap](concepts/RoleTransitionCapabilityTrap.md) — 原有强项在责任单位和风险结构改变后压制谨慎、倾听、授权或系统保护的角色适配风险。
+- [迁民式战略缓冲 / Population-Relocation Buffer Strategy](concepts/PopulationRelocationBufferStrategy.md) — 通过迁移居民、削弱争夺走廊的补给与地方支持来提高未来进军成本，同时带来同意和民生边界。
+- [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势部队以反常镇定或暴露姿态制造伏兵疑虑，使对手在不确定性下放弃或混乱撤退。
 - [Algorithmic Autonomy Paradox](concepts/AlgorithmicAutonomyParadox.md) — Conflict between outcome-improving algorithmic advice and retained human judgment, consent, and authority.
 - [Vision-Backed Film Financing](concepts/VisionBackedFilmFinancing.md) — Requirement that costly, difficult work acquire a trusted creative leader who can make its execution investable.
 - [Moral Blindness Through Unreliable Narration](concepts/MoralBlindnessUnreliableNarration.md) — Narrative method in which loyalty and limited interpretation hide meanings that become increasingly visible to the audience.
@@ -20925,7 +20930,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise](concepts/EvidenceSuppressionDynasticCompromise.md) — 私下承认受保护宗室可能有罪，却主动切断通向最终惩罚的证据链，以法律可信度和档案真相换取短期王朝稳定。
 - [旁支继承的连锁内乱风险 / Collateral Succession Disorder Risk](concepts/CollateralSuccessionDisorderRisk.md) — 旁支继承把竞争性血统、承诺与恢复要求转移给后代，从而可能把一次立储选择延长为多代冲突。
 - [Asset-Qualified Official Entry / 赀选式财产资格入仕](concepts/AssetQualifiedOfficialEntry.md) — 以家庭财产验证入仕资格并承担任官成本、同时保留身份品行与才能筛选的选官通道，区别于直接买官。
-- [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
 - [肉刑执行减害 / Corporal Punishment Harm Reduction](concepts/CorporalPunishmentHarmReduction.md) — 在保留肉刑的前提下，同时降低刑量并规范刑具、施打部位与执行程序，以减少死亡和残疾风险。
 - [Accusation Response Restraint / 诬陷回应克制](concepts/AccusationResponseRestraint.md) — 不让每一项误解或恶意指控立即支配行动的克制策略，其适用性取决于证据、权力、制度与他人风险。
 - [举荐问责式选才 / Recommendation-Accountability Talent Selection](concepts/RecommendationAccountabilityTalentSelection.md) — 让高级官员发现并推荐人才，再以被荐者表现反向奖惩举荐人，并与能力考试、德行考察和职位配置结合的选才机制。

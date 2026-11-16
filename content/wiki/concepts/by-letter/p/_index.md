@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11421
+wiki_total_pages: 11423
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3233,6 +3233,9 @@ wiki_pages:
   - key: "PosthumousMeritVindication"
     title: "身后功过昭雪 / Posthumous Merit Vindication"
     url: "/wiki/concepts/posthumousmeritvindication/"
+  - key: "PopulationRelocationBufferStrategy"
+    title: "迁民式战略缓冲 / Population-Relocation Buffer Strategy"
+    url: "/wiki/concepts/populationrelocationbufferstrategy/"
   - key: "ProgressPressureRestPermission"
     title: "进步压力与休息许可 / Progress Pressure and Permission to Rest"
     url: "/wiki/concepts/progresspressurerestpermission/"

@@ -43424,7 +43424,7 @@
     "url": "/wiki/entities/hanzhongcampaign215/"
   },
   "HanzhongCampaign218LateHan": {
-    "title": "汉中争夺（218年） / Hanzhong Campaign (218 CE)",
+    "title": "汉中争夺（218–219年） / Hanzhong Campaign (218–219 CE)",
     "url": "/wiki/entities/hanzhongcampaign218latehan/"
   },
   "HanzhongDui": {
@@ -46630,6 +46630,10 @@
   "HuangZheng": {
     "title": "黄峥 / Huang Zheng",
     "url": "/wiki/entities/huangzheng/"
+  },
+  "HuangZhong": {
+    "title": "黄忠 / Huang Zhong",
+    "url": "/wiki/entities/huangzhong/"
   },
   "HuangZiyiEducationReporter": {
     "title": "黄子翊 / Huang Ziyi",
@@ -75007,6 +75011,10 @@
     "title": "Population-Level Health Advice",
     "url": "/wiki/concepts/populationlevelhealthadvice/"
   },
+  "PopulationRelocationBufferStrategy": {
+    "title": "迁民式战略缓冲 / Population-Relocation Buffer Strategy",
+    "url": "/wiki/concepts/populationrelocationbufferstrategy/"
+  },
   "PopulistDemocraticEnergy": {
     "title": "Populist Democratic Energy",
     "url": "/wiki/concepts/populistdemocraticenergy/"
@@ -81986,6 +81994,10 @@
   "RoleTieredAILiteracy": {
     "title": "Role-Tiered AI Literacy",
     "url": "/wiki/concepts/roletieredailiteracy/"
+  },
+  "RoleTransitionCapabilityTrap": {
+    "title": "角色转换中的能力陷阱 / Role-Transition Capability Trap",
+    "url": "/wiki/concepts/roletransitioncapabilitytrap/"
   },
   "Rolex": {
     "title": "Rolex",
@@ -118226,6 +118238,10 @@
   "zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i": {
     "title": "《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i/"
+  },
+  "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu": {
+    "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",
