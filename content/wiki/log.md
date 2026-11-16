@@ -41028,3 +41028,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Taxonomy of the Modern Mystery Story
+
+Added the [[RevisionistHistory]] lecture classifying crime stories by excellent, absent, incompetent, or corrupt authority. Created [[CrimeFictionAuthorityTaxonomy]] and extended [[FictionalFrontierSelfDefenseMyth]] beyond literal frontier settings through the Western pattern of order restored outside effective public authority.
+
+Core synthesis: the taxonomy is useful as a deliberately reductive diagnostic vocabulary, not an exhaustive genre law. The episode's stronger institutional contribution is its contrast between investigator-centered fiction and [[RobertPeel]]'s consent-based model: [[PoliceLegitimacyClearanceCapacity]] depends on voluntary public information, while stories often assign success to exceptional professionals acting with unrealistic autonomy. [[CSIEffect]] now combines two sources showing how fictional forensic abundance can make ordinary evidence appear inadequate.
+
+No settled contradiction was adopted. The episode's links from fiction to political belief, police identity, juror conduct, or public trust remain plausible hypotheses rather than measured causal effects. Clearance rates, confidence figures, misconduct estimates, genre classifications, and legal or forensic examples remain source-scoped because the supplied file is a structured summary rather than a transcript, dataset, institutional audit, legal record, or systematic media study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,087 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

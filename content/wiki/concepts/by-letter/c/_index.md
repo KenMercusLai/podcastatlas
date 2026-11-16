@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11456
+wiki_total_pages: 11457
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3146,6 +3146,9 @@ wiki_pages:
   - key: "CrimeStatisticsComparability"
     title: "Crime Statistics Comparability"
     url: "/wiki/concepts/crimestatisticscomparability/"
+  - key: "CrimeFictionAuthorityTaxonomy"
+    title: "Crime-Fiction Authority Taxonomy"
+    url: "/wiki/concepts/crimefictionauthoritytaxonomy/"
   - key: "CrimeanWar"
     title: "Crimean War"
     url: "/wiki/concepts/crimeanwar/"

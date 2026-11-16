@@ -41596,6 +41596,29 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/cpraedresponseboundary/"
     },
+    "CSIEffect": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
+          "key": "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343",
+          "show": "蜜獾吃书",
+          "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+          "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+        },
+        {
+          "episode_file": "Taxonomy_of_the_Modern_Mystery_Story [Taxonomy_of_the_Modern_Mystery_Story].md",
+          "key": "taxonomy-of-the-modern-mystery-story",
+          "show": "Revisionist History",
+          "title": "Taxonomy of the Modern Mystery Story",
+          "url": "/wiki/sources/taxonomy-of-the-modern-mystery-story/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/csieffect/"
+    },
     "CSLewis": {
       "episode_count": 3,
       "show_count": 2,
@@ -69162,6 +69185,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/cricketimperialidentity/"
+    },
+    "CrimeFictionAuthorityTaxonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Taxonomy_of_the_Modern_Mystery_Story [Taxonomy_of_the_Modern_Mystery_Story].md",
+          "key": "taxonomy-of-the-modern-mystery-story",
+          "show": "Revisionist History",
+          "title": "Taxonomy of the Modern Mystery Story",
+          "url": "/wiki/sources/taxonomy-of-the-modern-mystery-story/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/crimefictionauthoritytaxonomy/"
     },
     "CrimeStatisticsComparability": {
       "episode_count": 3,
@@ -110302,9 +110341,9 @@
       "url": "/wiki/concepts/fictionalfactionalinferenceboundary/"
     },
     "FictionalFrontierSelfDefenseMyth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
@@ -110312,6 +110351,13 @@
           "show": "Revisionist History",
           "title": "Guns Part 2: Getting out of Dodge",
           "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        },
+        {
+          "episode_file": "Taxonomy_of_the_Modern_Mystery_Story [Taxonomy_of_the_Modern_Mystery_Story].md",
+          "key": "taxonomy-of-the-modern-mystery-story",
+          "show": "Revisionist History",
+          "title": "Taxonomy of the Modern Mystery Story",
+          "url": "/wiki/sources/taxonomy-of-the-modern-mystery-story/"
         }
       ],
       "updated": "2026-11-16",
@@ -246312,9 +246358,9 @@
       "url": "/wiki/concepts/policedisciplineremovalbarriers/"
     },
     "PoliceLegitimacyClearanceCapacity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
@@ -246322,9 +246368,16 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "Taxonomy_of_the_Modern_Mystery_Story [Taxonomy_of_the_Modern_Mystery_Story].md",
+          "key": "taxonomy-of-the-modern-mystery-story",
+          "show": "Revisionist History",
+          "title": "Taxonomy of the Modern Mystery Story",
+          "url": "/wiki/sources/taxonomy-of-the-modern-mystery-story/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/policelegitimacyclearancecapacity/"
     },
     "PoliceMisconductConcentration": {
@@ -269888,9 +269941,9 @@
       "url": "/wiki/entities/robertnapier/"
     },
     "RobertPeel": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6124252189 [GLT6124252189].md",
@@ -269898,9 +269951,16 @@
           "show": "The Rest Is History",
           "title": "35. The Prime Ministers’ World Cup",
           "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        },
+        {
+          "episode_file": "Taxonomy_of_the_Modern_Mystery_Story [Taxonomy_of_the_Modern_Mystery_Story].md",
+          "key": "taxonomy-of-the-modern-mystery-story",
+          "show": "Revisionist History",
+          "title": "Taxonomy of the Modern Mystery Story",
+          "url": "/wiki/sources/taxonomy-of-the-modern-mystery-story/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/robertpeel/"
     },
     "RobertSapolsky": {

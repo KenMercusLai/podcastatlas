@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Taxonomy of the Modern Mystery Story](sources/taxonomy-of-the-modern-mystery-story.md) — Revisionist History classifies crime fiction by excellent, absent, incompetent, or corrupt authority and contrasts investigator-centered stories with consent-based policing and real evidentiary limits.
 - [Guns Part 1: The Sudden Celebrity of Sir John Knight](sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight.md) — Revisionist History reopens Sir John Knight's 1686 acquittal through contemporary newsletters and questions its use as a clean public-carry precedent in Bruen.
 - [Guns Part 2: Getting out of Dodge](sources/guns-part-2-getting-out-of-dodge.md) — Revisionist History contrasts Gunsmoke's armed-individual safety myth with historical Dodge City policing, firearm restrictions, and collective public-carry risk.
 - [Guns Part 3: A Shooting Lesson](sources/guns-part-3-a-shooting-lesson.md) — Revisionist History tests assault-weapon categories against firearm mechanics, modularity, legal feature lists, and mass-shooting autopsy patterns.
@@ -19767,6 +19768,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Crime-Fiction Authority Taxonomy](concepts/CrimeFictionAuthorityTaxonomy.md) — Four-role model distinguishing stories with excellent, absent, incompetent, or corrupt official authority while treating hybrids and causal media effects cautiously.
 - [History-and-Tradition Constitutional Test](concepts/HistoryAndTraditionConstitutionalTest.md) — Constitutional method whose reliance on historical analogues creates source-selection and circularity risks.
 - [Contextual Legal History](concepts/ContextualLegalHistory.md) — Method of testing compressed legal reports against contemporary records, local rules, politics, and procedure.
 - [Fictional Frontier Self-Defense Myth](concepts/FictionalFrontierSelfDefenseMyth.md) — Narrative pattern in which institutional failure makes the armed individual appear to be the decisive source of public safety.

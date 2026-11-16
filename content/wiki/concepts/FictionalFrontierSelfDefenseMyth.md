@@ -4,6 +4,7 @@ type: concept
 tags: [media, westerns, gun-culture, public-safety]
 sources:
   - guns-part-2-getting-out-of-dodge
+  - taxonomy-of-the-modern-mystery-story
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ The fictional frontier self-defense myth is a narrative model in which public in
 
 “Kite's Reward” intensifies the lesson by first showing that surrendering a gun can end status-driven challenges and enable social reintegration, then killing the disarmed man when a bounty hunter arrives. [[guns-part-2-getting-out-of-dodge]] argues that this emotional reversal can make gun regulation feel like the cause of vulnerability even when the historical frontier used policing and firearm restrictions to reduce danger.
 
+[[taxonomy-of-the-modern-mystery-story]] generalizes the structure through the Western category, where absent effective authority forces an ordinary or exceptional individual to restore order. Jack Reacher broadens the pattern beyond literal frontier settings and shows that “Western” names an institutional arrangement, not scenery.
+
 ## Key Claims
 
 - Recurring fictional danger can make institutional failure feel normal and permanent.
@@ -27,6 +30,7 @@ The fictional frontier self-defense myth is a narrative model in which public in
 - Narrative reversal can make disarmament emotionally responsible for a later attack.
 - Fictional frontier history can conceal the policing and firearm regulation used by actual towns.
 - Cultural plausibility is not proof that a story caused a particular legal or political judgment.
+- The Western pattern can operate in contemporary settings whenever effective public authority is narratively removed.
 
 ## Evidence
 
@@ -42,14 +46,19 @@ The fictional frontier self-defense myth is a narrative model in which public in
 
 - [[guns-part-2-getting-out-of-dodge]] compares the show's armed-individual logic with [[SamuelAlito]]'s commuter hypothetical while acknowledging that direct influence is unproven.
 
+### Generalized Western structure
+
+- [[taxonomy-of-the-modern-mystery-story]] classifies Jack Reacher as a Western because he restores order beyond meaningful police control.
+
 ## Counterevidence & Qualifications
 
-The source examines one episode and selected early seasons rather than the full *Gunsmoke* corpus or representative audience reception. Fiction can support multiple readings, and no viewing evidence links the featured story to a justice's later reasoning. The concept therefore identifies a narrative structure and a plausible cultural pathway, not a measured media effect or substitute for constitutional analysis.
+The sources examine selected works rather than a representative corpus or audience reception. Fiction can support multiple readings, and no viewing evidence links the featured story to a justice's later reasoning. The concept therefore identifies a narrative structure and a plausible cultural pathway, not a measured media effect, exhaustive genre category, or substitute for constitutional analysis.
 
 ## What Changed
 
 - Established a mechanism connecting recurring fictional danger, institutional helplessness, and armed personal responsibility.
 - Made the gap between narrative plausibility and demonstrated political influence explicit.
+- Generalized the mechanism beyond frontier settings through the Western authority category.
 
 ## Related Concepts
 
@@ -57,3 +66,4 @@ The source examines one episode and selected early seasons rather than the full 
 - [[FrontierGunRegulation]] - historical evidence that complicates the unregulated-frontier premise.
 - [[MultiInterventionGunViolencePrevention]] - portfolio alternative to locating safety in one armed individual.
 - [[VisibilityDrivenPolicyUrgency]] - adjacent process through which vivid stories can outweigh aggregate burden in public attention.
+- [[CrimeFictionAuthorityTaxonomy]] - broader model that defines the Western by absent effective authority.

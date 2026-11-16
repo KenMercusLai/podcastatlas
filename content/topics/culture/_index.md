@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3736
+topic_total_pages: 3738
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1003,6 +1003,9 @@ topic_concepts:
   - key: "CreatureSocialExclusion"
     title: "Creature Social Exclusion / 被排斥者如何被制造成怪物"
     url: "/wiki/concepts/creaturesocialexclusion/"
+  - key: "CrimeFictionAuthorityTaxonomy"
+    title: "Crime-Fiction Authority Taxonomy"
+    url: "/wiki/concepts/crimefictionauthoritytaxonomy/"
   - key: "CriminalRomanticization"
     title: "Criminal Romanticization"
     url: "/wiki/concepts/criminalromanticization/"
@@ -10815,6 +10818,9 @@ topic_sources:
   - key: "sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908"
     title: "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company."
     url: "/wiki/sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908/"
+  - key: "taxonomy-of-the-modern-mystery-story"
+    title: "Taxonomy of the Modern Mystery Story"
+    url: "/wiki/sources/taxonomy-of-the-modern-mystery-story/"
   - key: "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128"
     title: "Teaching students to 'be better than a robot'"
     url: "/wiki/sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128/"
