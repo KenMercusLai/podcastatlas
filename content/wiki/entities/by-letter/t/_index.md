@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14475
+wiki_total_pages: 14477
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "ThePrincipleOfResponsibility"
     title: "The Principle of Responsibility / 《责任原理》"
     url: "/wiki/entities/theprincipleofresponsibility/"
+  - key: "TheRealWork"
+    title: "The Real Work"
+    url: "/wiki/entities/therealwork/"
   - key: "TheRealReal"
     title: "The RealReal"
     url: "/wiki/entities/therealreal/"

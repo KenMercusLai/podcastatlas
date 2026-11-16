@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11467
+wiki_total_pages: 11469
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2174,6 +2174,9 @@ wiki_pages:
   - key: "AmateurFarmingVsLivelihoodAgriculture"
     title: "Amateur Farming Vs Livelihood Agriculture / 业余种地与生计农业"
     url: "/wiki/concepts/amateurfarmingvslivelihoodagriculture/"
+  - key: "AmateurPracticeValue"
+    title: "Amateur Practice Value"
+    url: "/wiki/concepts/amateurpracticevalue/"
   - key: "AmazonDSPLaborModel"
     title: "Amazon DSP Labor Model"
     url: "/wiki/concepts/amazondsplabormodel/"

@@ -41112,3 +41112,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Mystery of Mastery with Adam Gopnik
+
+Added the [[RevisionistHistory]] conversation with [[AdamGopnik]] on [[TheRealWork]], craft learning, technical language, amateur participation, expert appreciation, shared activity, and performance under pressure. Created focused profiles for Gopnik and the book, created [[AmateurPracticeValue]] and [[CraftShopTalk]], and extended [[SharedActivitySocialScaffolding]] from designed gatherings into shared learning as a relational language when direct conversation is difficult.
+
+Core synthesis: inexpert practice need not be failed professionalism. It can provide absorption, enjoyment, relationship, community participation, and a more concrete understanding of expert difficulty, while practitioner shop talk makes otherwise hidden distinctions and standards legible. These claims preserve standards and learning friction: pleasurable absorption is not a complete mechanism of skill acquisition, jargon is not proof of expertise, and preparation cannot eliminate every uncertainty in committed performance.
+
+No settled contradiction was adopted. The episode's claims about happiness, memory, community institutions, writing method, cross-craft commonality, biographical details, and the David Blaine bullet-catch account remain personal, interpretive, or source-scoped because the supplied file is a structured summary rather than a transcript, biography, performance record, or empirical study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,093 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

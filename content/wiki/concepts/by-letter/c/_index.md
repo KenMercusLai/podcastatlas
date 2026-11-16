@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11467
+wiki_total_pages: 11469
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2990,6 +2990,9 @@ wiki_pages:
   - key: "CraftLaborBottleneck"
     title: "Craft Labor Bottleneck"
     url: "/wiki/concepts/craftlaborbottleneck/"
+  - key: "CraftShopTalk"
+    title: "Craft Shop Talk"
+    url: "/wiki/concepts/craftshoptalk/"
   - key: "CraftSourcingKnowledge"
     title: "Craft Sourcing Knowledge"
     url: "/wiki/concepts/craftsourcingknowledge/"

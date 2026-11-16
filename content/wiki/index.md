@@ -5215,6 +5215,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Feeling A Bit Attacked with Maria Konnikova](sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova.md) — Revisionist History conversation on competitive debate, precise profanity, cheating escalation, ranking incentives, and ambiguous administrative staffing.
 - [The Pushkin Prize for Egregiously Deceptive Self-Promotion](sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion.md) — Revisionist History audit of Columbia's disputed ranking inputs, their modeled score effects, and the institution's response after exposure.
 - [The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan](sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and.md) — Revisionist History conversation on female athlete development, youth-sport incentives, coaching education, safeguarding, access, and autonomy.
+- [The Mystery of Mastery with Adam Gopnik](sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik.md) — Revisionist History conversation on craft learning, shop talk, shared activity, amateur participation, expert appreciation, and committed performance.
 
 ## Entities
 - [Matt Scogin](entities/MattScogin.md) — Hope College president who designed Hope Forward as a tuition-free covenant funded through later voluntary giving.
@@ -19785,6 +19786,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moshe Porat](entities/MoshePorat.md) — Former Temple business-school dean in the episode's adjudicated ranking-fraud comparison case.
 - [Lauren Fleshman](entities/LaurenFleshman.md) — Runner, coach, author, and advocate for development-centered girls' sport and athlete autonomy.
 - [Linda Flanagan](entities/LindaFlanagan.md) — Coach and author critiquing early specialization, adult incentives, unequal access, and unsafe youth-sport culture.
+- [Adam Gopnik](entities/AdamGopnik.md) — Writer using participatory reporting and practitioner encounters to examine mastery and the value of inexpert practice.
+- [The Real Work](entities/TheRealWork.md) — Adam Gopnik book examining learning, mastery, and participation across multiple crafts.
 
 ## Concepts
 - [Debt-Constrained Education and Career Choice](concepts/DebtConstrainedEducationAndCareerChoice.md) — How tuition and repayment pressure can narrow fields of study and post-graduation work.
@@ -31363,5 +31366,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Institutional Ranking Data Integrity](concepts/InstitutionalRankingDataIntegrity.md) — Requirement that consequential ranking inputs remain traceable to records, definitions, inclusion rules, and accountable corrections.
 - [Female Athlete Development](concepts/FemaleAthleteDevelopment.md) — Sex-aware developmental model separating puberty-related performance variation from failed potential or a defective body.
 - [Youth Sports Incentive Pressure](concepts/YouthSportsIncentivePressure.md) — Escalation linking scholarships, admissions, commercial pathways, early competition, adult status, and safeguarding risk.
+- [Amateur Practice Value](concepts/AmateurPracticeValue.md) — Intrinsic and civic value of attentive participation without requiring professional-level achievement.
+- [Craft Shop Talk](concepts/CraftShopTalk.md) — Field-specific discourse through which practitioners share otherwise hidden techniques, distinctions, standards, and purposes.
 
 ## Syntheses

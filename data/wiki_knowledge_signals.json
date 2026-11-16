@@ -8932,6 +8932,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/adamgalinsky/"
     },
+    "AdamGopnik": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mystery_of_Mastery_with_Adam_Gopnik [The_Mystery_of_Mastery_with_Adam_Gopnik].md",
+          "key": "the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik",
+          "show": "Revisionist History",
+          "title": "The Mystery of Mastery with Adam Gopnik",
+          "url": "/wiki/sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/adamgopnik/"
+    },
     "AdamGrant": {
       "episode_count": 3,
       "show_count": 2,
@@ -16197,6 +16213,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/amateurfarmingvslivelihoodagriculture/"
+    },
+    "AmateurPracticeValue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mystery_of_Mastery_with_Adam_Gopnik [The_Mystery_of_Mastery_with_Adam_Gopnik].md",
+          "key": "the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik",
+          "show": "Revisionist History",
+          "title": "The Mystery of Mastery with Adam Gopnik",
+          "url": "/wiki/sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/amateurpracticevalue/"
     },
     "AmazonLeo": {
       "episode_count": 1,
@@ -68217,6 +68249,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/craftlaborbottleneck/"
+    },
+    "CraftShopTalk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mystery_of_Mastery_with_Adam_Gopnik [The_Mystery_of_Mastery_with_Adam_Gopnik].md",
+          "key": "the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik",
+          "show": "Revisionist History",
+          "title": "The Mystery of Mastery with Adam Gopnik",
+          "url": "/wiki/sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/craftshoptalk/"
     },
     "CraftSourcingKnowledge": {
       "episode_count": 1,
@@ -283099,9 +283147,9 @@
       "url": "/wiki/entities/shaqiuguandulatehan/"
     },
     "SharedActivitySocialScaffolding": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -283109,9 +283157,16 @@
           "show": "Revisionist History",
           "title": "Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live",
           "url": "/wiki/sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada/"
+        },
+        {
+          "episode_file": "The_Mystery_of_Mastery_with_Adam_Gopnik [The_Mystery_of_Mastery_with_Adam_Gopnik].md",
+          "key": "the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik",
+          "show": "Revisionist History",
+          "title": "The Mystery of Mastery with Adam Gopnik",
+          "url": "/wiki/sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/sharedactivitysocialscaffolding/"
     },
     "SharedBikeCapitalWar": {
@@ -308864,6 +308919,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/theprincipleofresponsibility/"
+    },
+    "TheRealWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mystery_of_Mastery_with_Adam_Gopnik [The_Mystery_of_Mastery_with_Adam_Gopnik].md",
+          "key": "the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik",
+          "show": "Revisionist History",
+          "title": "The Mystery of Mastery with Adam Gopnik",
+          "url": "/wiki/sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/therealwork/"
     },
     "TheRestIsHistory": {
       "episode_count": 36,
