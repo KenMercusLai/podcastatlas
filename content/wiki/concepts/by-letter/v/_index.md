@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11439
+wiki_total_pages: 11443
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "VisceralAdiposityMetabolicRisk"
     title: "Visceral Adiposity and Metabolic Risk"
     url: "/wiki/concepts/visceraladipositymetabolicrisk/"
+  - key: "VisibilityDrivenPolicyUrgency"
+    title: "Visibility-Driven Policy Urgency"
+    url: "/wiki/concepts/visibilitydrivenpolicyurgency/"
   - key: "VisionAsDecisionFilter"
     title: "Vision as a Decision Filter"
     url: "/wiki/concepts/visionasdecisionfilter/"

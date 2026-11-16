@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11439
+wiki_total_pages: 11443
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1763,6 +1763,9 @@ wiki_pages:
   - key: "MultiFiberArrangement"
     title: "Multi-Fiber Arrangement"
     url: "/wiki/concepts/multifiberarrangement/"
+  - key: "MultiInterventionGunViolencePrevention"
+    title: "Multi-Intervention Gun-Violence Prevention"
+    url: "/wiki/concepts/multiinterventiongunviolenceprevention/"
   - key: "MultiIssueNegotiation"
     title: "Multi-Issue Negotiation / 多议题谈判"
     url: "/wiki/concepts/multiissuenegotiation/"

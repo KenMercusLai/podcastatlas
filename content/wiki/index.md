@@ -5197,8 +5197,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
 - [This Is Your Captain Speaking](sources/this-is-your-captain-speaking.md) — Revisionist History episode on pilot voice, professional speech convergence, passenger reassurance, stereotype, and crisis judgment.
+- [The Bear Was Poked With Maria Konnikova](sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova.md) — Revisionist History listener audit connecting weapon-category framing, trauma-care inequality, visibility-driven urgency, and portfolio gun-violence prevention.
 
 ## Entities
+- [Maria Konnikova](entities/MariaKonnikova.md) — Writer and psychologist serving as Revisionist History ombudsman and testing polarized reception, inequality, and policy analogies.
 - [Håkon the Good](entities/HakonTheGood.md) — Norwegian Christian ruler whose compromise with traditional sacrifice exposes the limits of early royal conversion.
 - [Justin Harrison](entities/JustinHarrison.md) — You Only Virtual founder whose effort to preserve a bond with his mother tests the promise and costs of AI grief technology.
 - [Melody Harrison](entities/MelodyHarrison.md) — Justin Harrison's mother and the source person for the evolving Versona described by Hidden Brain.
@@ -19723,6 +19725,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Weapon-Category Policy Framing](concepts/WeaponCategoryPolicyFraming.md) — Distinction between technically accurate firearm categories and whether those categories capture the broader distribution of harm.
+- [Trauma-Care Access Inequality](concepts/TraumaCareAccessInequality.md) — Unequal survival from severe injury caused by the geographic and economic distribution of timely specialist care.
+- [Visibility-Driven Policy Urgency](concepts/VisibilityDrivenPolicyUrgency.md) — Gap between aggregate harm and the vivid cases that generate public attention and political pressure.
+- [Multi-Intervention Gun-Violence Prevention](concepts/MultiInterventionGunViolencePrevention.md) — Portfolio approach combining regulation, medicine, reporting, and mechanism-specific prevention.
 - [Agricultural Leverage and Weather Shock](concepts/AgriculturalLeverageAndWeatherShock.md) — Compound risk in which fixed expansion obligations persist while drought reduces the output and cash flow needed to service them.
 - [Livelihood Simulation Game](concepts/LivelihoodSimulationGame.md) — Rule-based model translating an occupation's assets, income, costs, uncertainty, and failure conditions into play.
 - [Shared Play as Social Support](concepts/SharedPlayAsSocialSupport.md) — Use of games to externalize adversity, create humor, and support repeated family or community contact.

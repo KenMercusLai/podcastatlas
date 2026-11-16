@@ -40865,3 +40865,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Bear Was Poked With Maria Konnikova
+
+Added a [[RevisionistHistory]] listener audit in which [[MariaKonnikova]] and [[MalcolmGladwell]] examine belief-shaped reception of a provocative gun-series episode, the limits of firearm-category framing, unequal access to trauma care, and the gap between public visibility and aggregate harm.
+
+Core synthesis: [[WeaponCategoryPolicyFraming]] separates technically accurate classification from whether a regulated category captures the larger risk; [[TraumaCareAccessInequality]] distinguishes medical progress from equitable survival; [[VisibilityDrivenPolicyUrgency]] explains why prominent mass shootings can dominate ordinary homicide and opioid mortality; and [[MultiInterventionGunViolencePrevention]] treats regulation, trauma care, reporting, and mechanism-specific prevention as a portfolio requiring prioritization and evaluation. No settled contradiction was adopted. The episode itself weakens its moral-hazard hypothesis through the opioid comparison, and its firearm, mortality, clinical, policy, and AI claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles were kept closed because focused pages capture the durable additions without reopening otherwise unchanged evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,075 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11439
+wiki_total_pages: 11443
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "TraumaWitnessingAndLanguage"
     title: "Trauma Witnessing and Language"
     url: "/wiki/concepts/traumawitnessingandlanguage/"
+  - key: "TraumaCareAccessInequality"
+    title: "Trauma-Care Access Inequality"
+    url: "/wiki/concepts/traumacareaccessinequality/"
   - key: "TraumaConsequenceInstitutionalCrimeNarrative"
     title: "Trauma-Consequence Institutional Crime Narrative / 创伤后果与制度犯罪叙事"
     url: "/wiki/concepts/traumaconsequenceinstitutionalcrimenarrative/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3734
+topic_total_pages: 3735
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3787,6 +3787,9 @@ topic_concepts:
   - key: "VietnamWarCredibilityCollapse"
     title: "Vietnam War Credibility Collapse"
     url: "/wiki/concepts/vietnamwarcredibilitycollapse/"
+  - key: "VisibilityDrivenPolicyUrgency"
+    title: "Visibility-Driven Policy Urgency"
+    url: "/wiki/concepts/visibilitydrivenpolicyurgency/"
   - key: "VisionBackedFilmFinancing"
     title: "Vision-Backed Film Financing"
     url: "/wiki/concepts/visionbackedfilmfinancing/"
