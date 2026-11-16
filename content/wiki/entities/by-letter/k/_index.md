@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14618
+wiki_total_pages: 14619
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "KatePorterfield"
     title: "Kate Porterfield"
     url: "/wiki/entities/kateporterfield/"
+  - key: "KateSweeny"
+    title: "Kate Sweeny"
+    url: "/wiki/entities/katesweeny/"
   - key: "KatherineAshley"
     title: "Katherine Ashley"
     url: "/wiki/entities/katherineashley/"

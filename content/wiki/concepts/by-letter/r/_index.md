@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11612
+wiki_total_pages: 11614
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "ReliabilityDrivenInfrastructureOwnership"
     title: "Reliability-Driven Infrastructure Ownership"
     url: "/wiki/concepts/reliabilitydriveninfrastructureownership/"
+  - key: "ReliefResponseTypes"
+    title: "Relief Response Types"
+    url: "/wiki/concepts/reliefresponsetypes/"
   - key: "ReliefBasedReligiousMobilization"
     title: "Relief-Based Religious Mobilization / 救济型宗教动员"
     url: "/wiki/concepts/reliefbasedreligiousmobilization/"

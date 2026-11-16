@@ -42168,3 +42168,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Waiting Games
+
+Added a [[HiddenBrain]] episode featuring [[KateSweeny]] on the psychology of waiting and relief. Created focused pages for [[ReliefResponseTypes]] and [[WaitingUnderUncertainty]], distinguishing near-miss exhilaration from task-completion exhaustion and combining optimism, late-stage preparation, contingency planning, possible silver linings, and flow into a time-sensitive waiting toolkit.
+
+No settled contradiction was adopted. The two relief patterns are tendencies rather than exhaustive categories, optimism and pessimism carry timing-dependent tradeoffs, and the reported singing, bar-exam, biopsy, and quarantine findings remain episode-scoped because the supplied document is a structured summary without methods, sample detail, effect sizes, or replication evidence. The automatic `wiki/overview.md` remained unchanged because the episode adds focused concepts without warranting a new global corpus-level synthesis paragraph.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,168 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Waiting Games](sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587.md) — Hidden Brain and Kate Sweeny distinguish near-miss from task-completion relief and connect waiting distress to timing, control, outlook, contingency planning, and flow.
 - [Malcolm Gladwell and Adam Grant](sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant.md) — Revisionist History conversation on constrained moral judgment, innovation execution, harmonious passion, scientist-mode rethinking, and durable principles with revisable plans.
 - [Lord of the Rankings](sources/lord-of-the-rankings-lord-of-the-rankings.md) — Revisionist History uses Reed's ranking reconstruction, weakly informed peer assessment, and HBCU bond costs to expose circular and racialized institutional reputation.
 - [Project Dillard](sources/project-dillard-project-dillard.md) — Revisionist History uses Dillard University to show how wealth, selectivity, student advantage, and reputation can outrank access, support, and developmental contribution.
@@ -5294,6 +5295,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
+- [Kate Sweeny](entities/KateSweeny.md) — Psychologist studying waiting, uncertainty, relief, limited control, and time-sensitive coping.
 - [Haywood Hansell](entities/HaywoodHansell.md) — Precision-bombing advocate whose humane technological ambition encountered severe wartime execution limits.
 - [The Bomber Mafia](entities/TheBomberMafiaBook.md) — Malcolm Gladwell book about precision air power, operational failure, and catastrophic wartime alternatives.
 - [Think Again](entities/ThinkAgainBook.md) — Adam Grant book framing opinions as hypotheses and plans as revisable while preserving durable principles.
@@ -20008,6 +20010,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Relief Response Types](concepts/ReliefResponseTypes.md) — Distinction between reflective, high-arousal near-miss relief and exhausted, closing relief after completing an ordeal.
+- [Waiting Under Uncertainty](concepts/WaitingUnderUncertainty.md) — Time-varying strain of awaiting a consequential outcome and a bounded toolkit of outlook, planning, possible benefits, and flow.
 - [Contextual Moral Judgment](concepts/ContextualMoralJudgment.md) — Evaluation that incorporates constraints, feasible alternatives, and execution difficulty without converting explanation into exoneration.
 - [Innovation Vision-Execution Gap](concepts/InnovationVisionExecutionGap.md) — Distance between an attractive theory of technological change and reliable, responsible performance under operating conditions.
 - [Harmonious Passion](concepts/HarmoniousPassion.md) — Intrinsically chosen, pleasurable immersion compatible with restraint, recovery, relationships, and wider life.

@@ -80005,6 +80005,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ReliefResponseTypes": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ReligiousControlledSubstanceExemption": [
     {
       "key": "politics",
@@ -98831,6 +98838,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WaitingUnderUncertainty": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "WaitlistInvitationGrowth": [

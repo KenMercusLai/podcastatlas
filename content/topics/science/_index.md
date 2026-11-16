@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1715
+topic_total_pages: 1717
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2041,6 +2041,9 @@ topic_concepts:
   - key: "RelationshipFourHorsemen"
     title: "Relationship Four Horsemen / 关系四骑士"
     url: "/wiki/concepts/relationshipfourhorsemen/"
+  - key: "ReliefResponseTypes"
+    title: "Relief Response Types"
+    url: "/wiki/concepts/reliefresponsetypes/"
   - key: "ReligiousExperienceMedicalizationBoundary"
     title: "Religious Experience Medicalization Boundary"
     url: "/wiki/concepts/religiousexperiencemedicalizationboundary/"
@@ -2659,6 +2662,9 @@ topic_concepts:
   - key: "VulnerabilityAsLoveSource"
     title: "Vulnerability As Love Source / 脆弱作为爱的源泉"
     url: "/wiki/concepts/vulnerabilityaslovesource/"
+  - key: "WaitingUnderUncertainty"
+    title: "Waiting Under Uncertainty"
+    url: "/wiki/concepts/waitingunderuncertainty/"
   - key: "WarmthCompetenceStereotype"
     title: "Warmth-Competence Stereotype / 热情-能力刻板印象"
     url: "/wiki/concepts/warmthcompetencestereotype/"

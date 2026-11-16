@@ -177753,6 +177753,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/kateporterfield/"
     },
+    "KateSweeny": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fb27a2f1edb36120fa77e5b7b54ac6de_51580587 [default.mp3_ywr3ahjkcgo_fb27a2f1edb36120fa77e5b7b54ac6de_51580587].md",
+          "key": "default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587",
+          "show": "Hidden Brain",
+          "title": "Waiting Games",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/katesweeny/"
+    },
     "KatherineAshley": {
       "episode_count": 1,
       "show_count": 1,
@@ -269102,6 +269118,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/reliabilitydriveninfrastructureownership/"
     },
+    "ReliefResponseTypes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fb27a2f1edb36120fa77e5b7b54ac6de_51580587 [default.mp3_ywr3ahjkcgo_fb27a2f1edb36120fa77e5b7b54ac6de_51580587].md",
+          "key": "default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587",
+          "show": "Hidden Brain",
+          "title": "Waiting Games",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/reliefresponsetypes/"
+    },
     "ReligiousAuthorityAfterTempleDestruction": {
       "episode_count": 1,
       "show_count": 1,
@@ -331083,6 +331115,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/concepts/waitinglaboravailability/"
+    },
+    "WaitingUnderUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fb27a2f1edb36120fa77e5b7b54ac6de_51580587 [default.mp3_ywr3ahjkcgo_fb27a2f1edb36120fa77e5b7b54ac6de_51580587].md",
+          "key": "default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587",
+          "show": "Hidden Brain",
+          "title": "Waiting Games",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/waitingunderuncertainty/"
     },
     "Wales": {
       "episode_count": 1,
