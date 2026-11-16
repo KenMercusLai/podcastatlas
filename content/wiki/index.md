@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Conspiracy of Silence](sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302.md) — Hidden Brain and Timur Kuran connect preference falsification to recursive conformity, authoritarian enforcement, dissent cascades, democratic pressure, humor, and civility.
 - [When Doing Right Feels Wrong](sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639.md) — Hidden Brain uses Darwin Rocher's police whistleblowing case to connect loyalty–justice conflict, moral stress, moral licensing, retaliation, and mission-directed loyalty.
 - [Relax and Win: How Bud Winter Built Speed City](sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed.md) — Revisionist History connects Bud Winter's relaxation training, talent development, sprint mechanics, and Speed City's athletic prominence to later athlete activism.
 - [Revisionist History Season 7: The Experiment Experience](sources/revisionist-history-season-7-the-experiment-experience-revisionist-history-season-7-the-experiment-experience.md) — Season-seven trailer framing uncertainty, error, thought experiments, natural experiments, and magic-wand scenarios as prompts for inquiry rather than findings.
@@ -5248,6 +5249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Timur Kuran](entities/TimurKuran.md) — Economist and political scientist connecting private-public divergence to conformity feedback, dissent cascades, and political change.
 - [Darwin Rocher](entities/DarwinRocher.md) — Detroit police officer who reported a planned violent robbery by trusted colleagues, cooperated with the FBI, and endured severe retaliation.
 - [Adam Waytz](entities/AdamWaytz.md) — Psychologist interpreting whistleblowing through competing moral values, contextual salience, moral stress, and mission-directed loyalty.
 - [Bud Winter](entities/BudWinter.md) — Speed City coach who combined relaxation, visualization, sprint mechanics, and systematic talent development.
@@ -19884,6 +19886,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Preference Falsification](concepts/PreferenceFalsification.md) — Socially pressured misrepresentation of wants or beliefs that can manufacture apparent consensus and conceal conditions for rapid change.
 - [Loyalty–Justice Moral Conflict](concepts/LoyaltyJusticeMoralConflict.md) — Conflict in which group loyalty favors silence while fairness, harm prevention, honesty, or public duty favors disclosure.
 - [Whistleblowing as Mission Loyalty](concepts/WhistleblowingAsMissionLoyalty.md) — Frame treating grounded reporting as fidelity to an institution's legitimate purpose rather than betrayal of colleagues or leaders.
 - [Moral Stress](concepts/MoralStress.md) — Strain from acting against an important moral intuition or choosing among values that each feel binding.

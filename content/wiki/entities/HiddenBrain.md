@@ -13,6 +13,7 @@ sources:
   - default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184
   - default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222
   - default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639
+  - default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, moral conflict, whistleblowing, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, moral conflict, whistleblowing, preference falsification, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -43,14 +44,16 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639|When Doing Right Feels Wrong]] follows [[DarwinRocher]] from trusted police bonds into reporting and covert FBI cooperation against colleagues planning a potentially lethal robbery. [[AdamWaytz]] uses the case to develop [[LoyaltyJusticeMoralConflict]], [[MoralStress]], and [[MoralLicensing]], while [[WhistleblowingAsMissionLoyalty]] redirects loyalty toward lawful public purpose without minimizing retaliation, trauma, or evidentiary limits.
 
+[[default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302|A Conspiracy of Silence]] has [[TimurKuran]] connect everyday tact, workplace silence, religious expression, authoritarian control, democratic party discipline, elections, humor, and polarization through [[PreferenceFalsification]]. Public conformity can recursively manufacture apparent consensus and then unwind through dissent cascades, while retrospective motive claims, election-specific explanations, and the boundary between civility and information-suppressing coercion remain explicitly qualified.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
 - Connects research ideas to relationships, politics, justice, moral conflict, organizations, mental health, history, and systems design.
 - Pairs reframing with qualifications about evidence, severity, and individual variation.
-- Moves from observed human experience to mechanisms, population evidence, ethical questions, and usable everyday practices.
 - Preserves safety, accountability, and evidential limits when translating charitable interpretation or forgiveness into advice.
 - Uses wrongful-conviction cases and experiments to challenge intuitive confidence in confession evidence and to motivate transparent investigation reform.
 - Uses sustained personal cases to expose tradeoffs among technological possibility, emotional meaning, consent, health, and living relationships.
+- Connects private-public divergence to feedback loops that can stabilize conformity or produce rapid social and political change.
 
 ## Evidence
 - Explanation and reasoning - [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361]] develops [[ExplanationDrivenSensemaking]], [[SelfExplanationKnowledgeCalibration]], and [[ExplanatoryOverreach]].
@@ -65,12 +68,13 @@ The current bounded evidence shows the program combining research explanation, c
 - Goal fit and motivation - [[default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184]] develops [[SelfConcordantGoalSelection]], [[IdentifiedMotivationPersistence]], and [[CommitmentDeliberationRubicon]] while extending [[MotivationCrowdingOut]].
 - AI-mediated grief - [[default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222]] uses [[YouOnlyVirtual]] to connect relationship-pattern modeling and continuing bonds with consent, authenticity, dependence, and present-relationship costs.
 - Loyalty, justice, and whistleblowing - [[default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639]] uses Rocher's case and Waytz's interpretation to connect competing moral values, contextual salience, retaliation, and mission-directed loyalty.
+- Preference falsification and dissent cascades - [[default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302]] uses Kuran's framework to connect perceived sanctions, misleading public consensus, citizen enforcement, threshold effects, democratic pressure, humor, and civility.
 
 ## Qualifications
-The profile is based on ten supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, composite characters, founder narratives, whistleblower testimony, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering or product analysis, policy evaluation, underlying study review, or structural analysis. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, collective-efficacy, motivation, legal-career, athlete, goal-fit, AI-grief benefit, consent, adoption, whistleblowing, moral-salience, retaliation, and long-term-harm claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, causal humility, rest, small action, self-concordance, mission-directed loyalty, and continuing digital interaction do not erase credible danger, boundaries, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
+The profile is based on eleven supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, composite characters, founder narratives, whistleblower testimony, wrongful-conviction narratives, political examples, and public-opinion interpretations illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering or product analysis, survey review, election analysis, policy evaluation, underlying study review, or structural analysis. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, collective-efficacy, motivation, legal-career, athlete, goal-fit, AI-grief benefit, consent, adoption, whistleblowing, moral-salience, retaliation, private-belief prevalence, dissent-cascade causality, voter motivation, and long-term-harm claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, causal humility, rest, small action, self-concordance, mission-directed loyalty, and continuing digital interaction do not erase credible danger, boundaries, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
 
 ## What Changed
-- Added the whistleblowing branch connecting loyalty–justice conflict, moral stress, moral licensing, retaliation, and mission-directed loyalty.
+- Added the preference-falsification branch connecting private-public divergence, conformity feedback, dissent cascades, democratic pressure, and civility.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -106,3 +110,5 @@ The profile is based on ten supplied episode summaries and does not establish th
 - [[AdamWaytz]] - psychologist interpreting the competing moral values and organizational response.
 - [[LoyaltyJusticeMoralConflict]] - framework for disclosure that serves justice while violating group loyalty.
 - [[WhistleblowingAsMissionLoyalty]] - organizational reframing developed by the episode.
+- [[TimurKuran]] - economist and political scientist guiding the preference-falsification branch.
+- [[PreferenceFalsification]] - framework connecting perceived sanctions, public performance, misleading consensus, and sudden revelation.

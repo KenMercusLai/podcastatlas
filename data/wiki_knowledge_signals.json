@@ -143108,9 +143108,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -143181,6 +143181,13 @@
           "show": "Hidden Brain",
           "title": "When Doing Right Feels Wrong",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2e8bbfb73b37c052c8149a42261bc57f_58412302 [default.mp3_ywr3ahjkcgo_2e8bbfb73b37c052c8149a42261bc57f_58412302].md",
+          "key": "default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302",
+          "show": "Hidden Brain",
+          "title": "A Conspiracy of Silence",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302/"
         }
       ],
       "updated": "2026-11-16",
@@ -253318,6 +253325,22 @@
       "updated": "2026-11-11",
       "url": "/wiki/concepts/preemptivemoraleshock/"
     },
+    "PreferenceFalsification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2e8bbfb73b37c052c8149a42261bc57f_58412302 [default.mp3_ywr3ahjkcgo_2e8bbfb73b37c052c8149a42261bc57f_58412302].md",
+          "key": "default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302",
+          "show": "Hidden Brain",
+          "title": "A Conspiracy of Silence",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/preferencefalsification/"
+    },
     "PrefrontalCortexOverattribution": {
       "episode_count": 2,
       "show_count": 2,
@@ -315401,6 +315424,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/timothysyndrometherapytranslation/"
+    },
+    "TimurKuran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2e8bbfb73b37c052c8149a42261bc57f_58412302 [default.mp3_ywr3ahjkcgo_2e8bbfb73b37c052c8149a42261bc57f_58412302].md",
+          "key": "default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302",
+          "show": "Hidden Brain",
+          "title": "A Conspiracy of Silence",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/timurkuran/"
     },
     "TinaBarton": {
       "episode_count": 1,

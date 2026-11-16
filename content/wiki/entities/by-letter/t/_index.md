@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14540
+wiki_total_pages: 14541
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "TimothyDonovan"
     title: "Timothy Donovan"
     url: "/wiki/entities/timothydonovan/"
+  - key: "TimurKuran"
+    title: "Timur Kuran"
+    url: "/wiki/entities/timurkuran/"
   - key: "TinaBarton"
     title: "Tina Barton"
     url: "/wiki/entities/tinabarton/"

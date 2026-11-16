@@ -41556,3 +41556,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | A Conspiracy of Silence
+
+Added a [[HiddenBrain]] episode with [[TimurKuran]] on [[PreferenceFalsification]] across everyday tact, workplace silence, religious identity, authoritarian rule, democratic politics, elections, humor, and polarization.
+
+Created Timur Kuran and Preference Falsification, then resynthesized Hidden Brain from its complete preserved ten-source inventory before appending the new source once. Core synthesis: public performance can become misleading social information when people anticipate punishment or stigma, recursively manufacturing apparent consensus; heterogeneous dissent thresholds can then make previously hidden opposition visible in a rapid cascade.
+
+No settled contradiction was adopted. Post-regime disavowal cannot identify sincere former believers, conformists, opportunists, or retrospective revision; public-private divergence does not prove hidden majority opposition; and tact can preserve civility when it does not suppress information needed for collective judgment. Historical examples, survey claims, religious trends, electoral interpretations, voter motives, and cascade causality remain episode-scoped because the supplied file is a structured summary rather than a transcript, primary survey set, election study, archival record, or comparative political analysis. Broad politician, country, and regime profiles remained closed because the episode uses them as examples without materially changing their current profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,123 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
