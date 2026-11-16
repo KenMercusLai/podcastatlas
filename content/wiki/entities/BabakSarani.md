@@ -5,6 +5,7 @@ tags: [person, trauma-surgeon, emergency-medicine, gun-violence]
 sources:
   - guns-part-5-the-footnote
   - guns-part-3-a-shooting-lesson
+  - doctors-guns-and-money
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ Babak Sarani is a trauma surgeon who explains both the clinical importance of ra
 
 ## Current Profile
 
-Sarani describes level-one trauma centers as expensive systems that keep specialist staff and resources available around the clock. His account distinguishes temporary field stabilization from definitive treatment: paramedics may buy time for some chest injuries, but uncontrolled bleeding and injuries to organs such as the liver can require rapid specialist intervention.
+Sarani describes level-one trauma centers as expensive systems that keep specialist staff and resources available around the clock. His account distinguishes temporary field stabilization from definitive treatment: paramedics may buy time for some chest injuries, but uncontrolled bleeding and injuries to organs such as the liver can require rapid specialist intervention. The preview reports that he had treated more than 500 gunshot victims since entering practice in 2005 and uses Washington, D.C.'s limited number of level-one centers to illustrate that this capability is concentrated rather than hospital-standard.
 
 His role in the episode is explanatory rather than evaluative. He supplies the clinical mechanism connecting transport and facility access to survival, while the geographic and racial distribution claims come from other researchers.
 
@@ -41,6 +42,7 @@ In a separate episode, Sarani leads a review of 232 autopsy reports from 23 mass
 ### System capability
 
 - [[guns-part-5-the-footnote]] presents his account of level-one trauma centers' round-the-clock specialist resources and paramedic stabilization for selected chest injuries.
+- [[doctors-guns-and-money]] corroborates that mechanism and adds the episode-reported practice count and Washington, D.C. facility context.
 
 ### Mass-shooting injury patterns
 
@@ -49,11 +51,12 @@ In a separate episode, Sarani leads a review of 232 autopsy reports from 23 mass
 
 ## Qualifications
 
-The sources are structured podcast summaries rather than transcripts, clinical guidelines, the autopsy paper, patient-level data, or a complete professional biography. Specific time effects, procedures, injury examples, center requirements, and costs remain educational and source-scoped rather than individualized medical guidance. The mass-shooting finding is bounded to a selected 23-event sample; the sources do not provide selection criteria, statistical uncertainty, ammunition, injury detail, or support for generalizing to firearm violence as a whole.
+The sources are structured podcast summaries rather than transcripts, clinical guidelines, the autopsy paper, patient-level data, or a complete professional biography. The new source is also a short promotional preview. Specific time effects, procedures, injury examples, practice counts, hospital counts, center requirements, and costs remain educational and source-scoped rather than individualized medical guidance. The mass-shooting finding is bounded to a selected 23-event sample; the sources do not provide selection criteria, statistical uncertainty, ammunition, injury detail, or support for generalizing to firearm violence as a whole.
 
 ## What Changed
 
 - Expanded the profile from trauma-system timing to a qualified, context-sensitive account of firearm category and mass-shooting fatality.
+- Added corroborating practice and facility context without changing the qualified clinical assessment.
 
 ## Relationships
 

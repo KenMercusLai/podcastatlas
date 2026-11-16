@@ -5,6 +5,7 @@ tags: [homicide, trauma-care, emergency-response, criminal-justice]
 sources:
   - guns-part-5-the-footnote
   - guns-part-4-moral-hazard
+  - doctors-guns-and-money
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -37,6 +38,7 @@ This does not make medicine the cause of the original violence or imply that eve
 ### Clinical mechanism
 
 - [[guns-part-5-the-footnote]] reports [[BabakSarani]]'s explanation that survival from severe bleeding can decline with every minute before definitive care.
+- [[doctors-guns-and-money]] corroborates the same mechanism through bleeding, liver injury, chest decompression, transport, and level-one trauma capability.
 - [[guns-part-4-moral-hazard]] describes advances in transport, imaging, vascular intervention, neurosurgery, bleeding control, and swelling management through the Kennedy counterfactual.
 
 ### Trend divergence
@@ -53,12 +55,13 @@ This does not make medicine the cause of the original violence or imply that eve
 
 ## Counterevidence & Qualifications
 
-The sources do not supply comparable injury-severity measures, full transport and treatment records, causal identification, uncertainty, or replication. Victim outcome can also reflect weapon, wound location, scene safety, bystander action, comorbidity, hospital capability, and chance. The Alabama imprisonment counterfactual, Kennedy survival reconstruction, trauma-improvement rate, national counterfactual homicide range, and Memphis trend therefore remain hypotheses or episode-reported estimates rather than proof about specific lives or a fully identified national effect.
+The sources do not supply comparable injury-severity measures, full transport and treatment records, causal identification, uncertainty, or replication; the new source is a short promotional preview. Victim outcome can also reflect weapon, wound location, scene safety, bystander action, comorbidity, hospital capability, and chance. The Alabama imprisonment counterfactual, Kennedy survival reconstruction, trauma-improvement rate, national counterfactual homicide range, and Memphis trend therefore remain hypotheses or episode-reported estimates rather than proof about specific lives or a fully identified national effect.
 
 ## What Changed
 
 - Added historical treatment comparison and city-level trend divergence to the survival-system mechanism.
 - Made nonfatal-shooting measurement the necessary complement to homicide counts.
+- Added corroborating preview evidence for the clinical mechanism without changing the current judgment.
 
 ## Related Concepts
 

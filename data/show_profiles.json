@@ -970,7 +970,7 @@
       "earliest_episode_date": "2017-05-26",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 113,
+      "source_note_count": 114,
       "topic_matched_source_note_count": 45,
       "topics": [
         {
@@ -1049,9 +1049,9 @@
           "episode_count": 4
         },
         {
-          "key": "BrandonScott",
-          "title": "Brandon Scott",
-          "url": "/wiki/entities/brandonscott/",
+          "key": "BabakSarani",
+          "title": "Babak Sarani",
+          "url": "/wiki/entities/babaksarani/",
           "kind": "person",
           "episode_count": 3
         }

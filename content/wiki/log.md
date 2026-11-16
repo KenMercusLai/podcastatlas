@@ -40969,6 +40969,16 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | Doctors, Guns, and Money
+
+Added the short [[RevisionistHistory]] preview connecting gunshot survival to paramedic stabilization, transport time, level-one trauma capability, Chicago's racial geography, and hospital payer incentives. Appended the source once to the complete preserved evidence inventories for [[BabakSarani]], [[ElizabethTung]], [[TraumaCareAccessInequality]], and [[HomicideAsSurvivalSystemOutcome]].
+
+Core synthesis: homicide totals measure both potentially lethal violence and whether the emergency-care chain prevents death. The preview corroborates the later full episode's account that minutes matter for severe bleeding, some field interventions buy transport time, majority-Black South Side communities were disproportionately distant from level-one trauma care, and lower reimbursement can make high-need neighborhoods unattractive locations for expensive services.
+
+No settled contradiction was adopted. The preview strengthens existing evidence without changing the wiki's qualified judgment, and it does not establish that trauma care replaces prevention or that payer mix alone determines facility location. Clinical timelines, the five-mile mortality estimate, sevenfold disparity, facility counts and costs, practice count, and financing mechanism remain episode-scoped because the supplied file is a structured promotional summary rather than a transcript, study, guideline, clinical dataset, trauma-system plan, or financial record. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[PrehospitalEmergencyMedicalResponse]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,086 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Guns Part 4: Moral Hazard
 
 Added the [[RevisionistHistory]] episode using [[RobertFKennedy|Robert F. Kennedy]]'s 1968 treatment, trauma-system trends, and [[NatalieHipple]]'s Indianapolis work to separate shooting exposure from medically mediated death. Created bounded profiles for [[EdwardCornwell]], [[JordanKomisarow]], and [[NatalieHipple]], plus [[NonfatalShootingMeasurement]] and [[TraumaCareMoralHazard]].
@@ -41010,6 +41020,10 @@ Core synthesis: the conventional digest account makes Knight's acquittal look li
 No settled contradiction was adopted. Malcolm's public-carry reading and the Harris-Gladwell contextual reconstruction remain competing interpretations, and the supplied file does not reproduce the newsletters, trial record, legal digests, *Bruen* briefs or opinions, or the complete scholarly debate. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,085 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

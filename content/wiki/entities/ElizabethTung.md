@@ -4,6 +4,7 @@ type: entity
 tags: [person, physician-researcher, health-equity, chicago]
 sources:
   - guns-part-5-the-footnote
+  - doctors-guns-and-money
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -33,18 +34,21 @@ Tung argues that payer mix can make high-need gunshot care financially unattract
 ### Trauma-desert geography
 
 - [[guns-part-5-the-footnote]] reports Tung's finding that majority-Black Chicago census tracts, especially on the South Side, were disproportionately distant from level-one trauma care.
+- [[doctors-guns-and-money]] independently previews the same trauma-desert pattern and the episode-reported sevenfold South Side disparity.
 
 ### Financing and workforce effects
 
 - [[guns-part-5-the-footnote]] attributes to Tung the payer-mix explanation, nationalized-healthcare proposal, and moral-injury framing.
+- [[doctors-guns-and-money]] corroborates the narrower claim that Medicaid and uninsured care can make high-need neighborhoods financially unattractive locations for trauma centers.
 
 ## Qualifications
 
-The source does not provide Tung's paper, methods, geographic definitions, time-series controls, reimbursement data, comparative financing analysis, or direct policy design. The sevenfold disparity, causal role of payer mix, nationalized-care judgment, and moral-injury account remain episode-scoped rather than a complete evaluation of Chicago or U.S. trauma-system planning.
+The sources do not provide Tung's paper, methods, geographic definitions, time-series controls, reimbursement data, comparative financing analysis, or direct policy design; the new source is also a short promotional preview. The sevenfold disparity, causal role of payer mix, nationalized-care judgment, and moral-injury account remain episode-scoped rather than a complete evaluation of Chicago or U.S. trauma-system planning.
 
 ## What Changed
 
 - Created a profile joining Tung's access research, financing diagnosis, policy preference, and healthcare-worker moral-injury frame.
+- Strengthened support for the trauma-desert and payer-mix mechanism without changing its qualified status.
 
 ## Relationships
 

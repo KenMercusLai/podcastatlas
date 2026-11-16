@@ -5,6 +5,7 @@ tags: [healthcare, trauma, inequality, geography, gun-violence]
 sources:
   - the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova
   - guns-part-5-the-footnote
+  - doctors-guns-and-money
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -38,11 +39,13 @@ This is not an argument against medical improvement. It shifts evaluation from w
 
 - [[the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova]] reports Konnikova's synthesis of racial and socioeconomic inequality across Chicago, Washington, Alabama, and rural and urban cases.
 - [[guns-part-5-the-footnote]] reports Chicago research associating distance beyond five miles with higher gunshot mortality and placing majority-Black South Side tracts disproportionately in trauma deserts.
+- [[doctors-guns-and-money]] corroborates those episode-reported distance and racial-geography findings in a shorter preview.
 
 ### Innovation distribution
 
 - [[the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova]] reports Gladwell's argument that costly trauma centers tend to be placed where they are economically viable, potentially adding capability where medical resources are already stronger.
 - [[guns-part-5-the-footnote]] attributes to [[ElizabethTung]] a payer-mix mechanism that can penalize hospitals for serving uninsured and Medicaid-heavy populations.
+- [[doctors-guns-and-money]] states the same mechanism as a structural mismatch between community need and hospital financial viability.
 
 ### Transport and treatment
 
@@ -50,11 +53,12 @@ This is not an argument against medical improvement. It shifts evaluation from w
 
 ## Counterevidence & Qualifications
 
-The sources supply no trauma-system map, patient-level outcomes, full center-financing model, causal identification, or comparison between center expansion and alternative delivery systems. Facility location can reflect caseload, staffing, transport networks, certification, and regional planning as well as profitability. The Chicago estimates, Alabama comparison, payer explanation, and Brandon timeline require their underlying studies and records. The episodes establish mechanisms and cases to investigate, not a measured national effect or proof that every death was preventable.
+The sources supply no trauma-system map, patient-level outcomes, full center-financing model, causal identification, or comparison between center expansion and alternative delivery systems; the new source is a short promotional preview. Facility location can reflect caseload, staffing, transport networks, certification, and regional planning as well as profitability. The Chicago estimates, Alabama comparison, payer explanation, and Brandon timeline require their underlying studies and records. The episodes establish mechanisms and cases to investigate, not a measured national effect or proof that every death was preventable.
 
 ## What Changed
 
 - Added Chicago trauma-desert geography, payer incentives, ambulance response, and post-admission outcomes to the earlier access-centered synthesis.
+- Added corroborating preview evidence without changing the current access-and-financing judgment.
 
 ## Related Concepts
 
