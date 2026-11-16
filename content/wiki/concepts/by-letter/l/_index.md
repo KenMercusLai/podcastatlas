@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11639
+wiki_total_pages: 11642
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "LegalServicesAIEconomics"
     title: "Legal Services AI Economics"
     url: "/wiki/concepts/legalservicesaieconomics/"
+  - key: "LegalTitleAndMoralOwnership"
+    title: "Legal Title and Moral Ownership"
+    url: "/wiki/concepts/legaltitleandmoralownership/"
   - key: "LegalTruthEvidenceGap"
     title: "Legal Truth-Evidence Gap / 法律真相与证据差距"
     url: "/wiki/concepts/legaltruthevidencegap/"

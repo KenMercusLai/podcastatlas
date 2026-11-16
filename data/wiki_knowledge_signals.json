@@ -24745,9 +24745,9 @@
       "url": "/wiki/concepts/artscareerformation/"
     },
     "ArtworkValueProvenanceAndAttention": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
@@ -24755,9 +24755,16 @@
           "show": "无时差研究所",
           "title": "EP163-被互联网冲击的艺术",
           "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
+        },
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/artworkvalueprovenanceandattention/"
     },
     "ArvindKrishna": {
@@ -58657,6 +58664,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/claudemethospreview/"
     },
+    "ClaudeUllin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/claudeullin/"
+    },
     "ClaudiaMueller": {
       "episode_count": 1,
       "show_count": 1,
@@ -82026,6 +82049,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/deterrencefailureagainstexpansion/"
+    },
+    "DetroitInstituteOfArts": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/detroitinstituteofarts/"
     },
     "DeutscheBahn": {
       "episode_count": 1,
@@ -142386,6 +142425,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/concepts/hedonicadaptationandcontrast/"
     },
+    "HedwigUllmann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/hedwigullmann/"
+    },
     "HefeiBattle215": {
       "episode_count": 1,
       "show_count": 1,
@@ -147622,6 +147677,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/holmespastichetradition/"
+    },
+    "HolocaustEraArtRestitution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/holocausteraartrestitution/"
     },
     "HolocaustMemoryStateLegitimacy": {
       "episode_count": 1,
@@ -185422,6 +185493,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/legalservicesaieconomics/"
+    },
+    "LegalTitleAndMoralOwnership": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/legaltitleandmoralownership/"
     },
     "LegalizedGovernmentWaste": {
       "episode_count": 1,
@@ -224851,6 +224938,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/entities/musepersonalagent/"
+    },
+    "MuseumCollectionStewardship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/museumcollectionstewardship/"
     },
     "MuseumInterpretationLegibility": {
       "episode_count": 2,
@@ -297895,6 +297998,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/sophiescholl/"
     },
+    "SophieUllman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/sophieullman/"
+    },
     "SophieZhang": {
       "episode_count": 1,
       "show_count": 1,
@@ -328839,6 +328958,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/vascularsurgerysymptomrouting/"
+    },
+    "VaseWithCarnations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
+          "key": "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh",
+          "show": "Revisionist History",
+          "title": "Hedwig’s Lost Van Gogh",
+          "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/vasewithcarnations/"
     },
     "VasilyChuikov": {
       "episode_count": 1,

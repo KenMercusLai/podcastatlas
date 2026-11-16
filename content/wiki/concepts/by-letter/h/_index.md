@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11639
+wiki_total_pages: 11642
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "HolocaustWarningActionGap"
     title: "Holocaust Warning-to-Action Gap"
     url: "/wiki/concepts/holocaustwarningactiongap/"
+  - key: "HolocaustEraArtRestitution"
+    title: "Holocaust-Era Art Restitution"
+    url: "/wiki/concepts/holocausteraartrestitution/"
   - key: "Holodomor"
     title: "Holodomor"
     url: "/wiki/concepts/holodomor/"

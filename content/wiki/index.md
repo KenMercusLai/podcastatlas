@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hedwig’s Lost Van Gogh](sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh.md) — Revisionist History connects Van Gogh authentication, Hedwig Ullmann’s forced exile, descendant memory, museum collection review, and the gap between legal title and moral restitution.
 - [The Powerball Revolution](sources/the-powerball-revolution-the-powerball-revolution.md) — Revisionist History connects Bolivian student-council lotteries, weak leadership prediction, NIH grant-score calibration, and threshold-then-lottery institutional design.
 - [The Bomber Mafia](sources/the-bomber-mafia-the-bomber-mafia.md) — Revisionist History introduces the precision-bombing doctrine, LeMay's evidence-led command, the B-29 promise, and the risk that technological mastery narrows moral judgment.
 - [May the Best Firebomb Win](sources/may-the-best-firebomb-win-may-the-best-firebomb-win.md) — Revisionist History reconstructs napalm's formulation, competitive testing, and pressure on precision-bombing doctrine while exposing the moral abstraction of technical optimization.
@@ -5306,6 +5307,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
 
 ## Entities
+- [Hedwig Ullmann](entities/HedwigUllmann.md) — German Jewish collector whose forced exile dispersed a collection later reconstructed through descendant provenance research.
+- [Claude Ullin](entities/ClaudeUllin.md) — Hedwig Ullmann’s grandson, family archivist, and restitution claimant linking lost artworks to memory and healing.
+- [Sophie Ullman](entities/SophieUllman.md) — Great-granddaughter interpreting the family’s lost artworks through gratitude, inherited grief, and restitution as healing.
+- [Vase with Carnations](entities/VaseWithCarnations.md) — Minor Van Gogh still life whose authentication, Ullmann provenance, and Detroit ownership separate market value, legal title, and moral responsibility.
+- [Detroit Institute of Arts](entities/DetroitInstituteOfArts.md) — Museum holding Vase with Carnations and serving as the episode’s case study in authentication, retention, and restitution ethics.
 - [Adam Cronkite](entities/AdamCronkite.md) — Organizer of Bolivian student-council lottery experiments testing participation, representation, and hidden leadership.
 - [Michael Lauer](entities/MichaelLauer.md) — NIH official whose grant-score analysis motivates humility about ranking fundable research.
 - [The Lawrenceville School](entities/LawrencevilleSchool.md) — Student workshop test case for election legitimacy and qualified-pool lotteries.
@@ -20042,6 +20048,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 
 ## Concepts
+- [Holocaust-Era Art Restitution](concepts/HolocaustEraArtRestitution.md) — Provenance-sensitive recovery or acknowledgment of art lost through persecution, forced sale, pressured consignment, or refugee flight.
+- [Legal Title and Moral Ownership](concepts/LegalTitleAndMoralOwnership.md) — Distinction between enforceable possession and an ethically sufficient reason to retain, use, display, or profit from an object.
+- [Museum Collection Stewardship](concepts/MuseumCollectionStewardship.md) — Mission-based review of acquisition, storage, display, deaccessioning, and restitution rather than permanent retention by default.
 - [Sortition](concepts/Sortition.md) — Selection by lot as a way to broaden entry and reduce dependence on campaign performance.
 - [Qualified-Pool Lottery](concepts/QualifiedPoolLottery.md) — Two-stage design that screens for minimum quality and randomizes among acceptable options.
 - [Predictive Selection Limits](concepts/PredictiveSelectionLimits.md) — Gap between visible selection signals and later performance in leadership, research, or admissions.

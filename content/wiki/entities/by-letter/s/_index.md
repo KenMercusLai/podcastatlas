@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14640
+wiki_total_pages: 14645
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "SophieScholl"
     title: "Sophie Scholl"
     url: "/wiki/entities/sophiescholl/"
+  - key: "SophieUllman"
+    title: "Sophie Ullman"
+    url: "/wiki/entities/sophieullman/"
   - key: "SophieZhang"
     title: "Sophie Zhang"
     url: "/wiki/entities/sophiezhang/"

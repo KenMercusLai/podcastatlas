@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14640
+wiki_total_pages: 14645
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1418,6 +1418,9 @@ wiki_pages:
   - key: "ClaudeTag"
     title: "Claude Tag"
     url: "/wiki/entities/claudetag/"
+  - key: "ClaudeUllin"
+    title: "Claude Ullin"
+    url: "/wiki/entities/claudeullin/"
   - key: "ClaudeMethosPreview"
     title: "Claude-Methos Preview"
     url: "/wiki/entities/claudemethospreview/"

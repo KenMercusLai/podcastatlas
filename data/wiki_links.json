@@ -22443,6 +22443,10 @@
     "title": "Claude Tag",
     "url": "/wiki/entities/claudetag/"
   },
+  "ClaudeUllin": {
+    "title": "Claude Ullin",
+    "url": "/wiki/entities/claudeullin/"
+  },
   "ClaudiaGoldin": {
     "title": "Claudia Goldin",
     "url": "/wiki/entities/claudiagoldin/"
@@ -28882,6 +28886,10 @@
   "Detroit": {
     "title": "Detroit",
     "url": "/wiki/entities/detroit/"
+  },
+  "DetroitInstituteOfArts": {
+    "title": "Detroit Institute of Arts",
+    "url": "/wiki/entities/detroitinstituteofarts/"
   },
   "DeutscheBahn": {
     "title": "Deutsche Bahn",
@@ -44899,6 +44907,10 @@
     "title": "Hedonic Adaptation and Contrast",
     "url": "/wiki/concepts/hedonicadaptationandcontrast/"
   },
+  "HedwigUllmann": {
+    "title": "Hedwig Ullmann",
+    "url": "/wiki/entities/hedwigullmann/"
+  },
   "Hefei": {
     "title": "Hefei / 合肥",
     "url": "/wiki/entities/hefei/"
@@ -46214,6 +46226,10 @@
   "HoloAssets": {
     "title": "Holo Assets",
     "url": "/wiki/concepts/holoassets/"
+  },
+  "HolocaustEraArtRestitution": {
+    "title": "Holocaust-Era Art Restitution",
+    "url": "/wiki/concepts/holocausteraartrestitution/"
   },
   "HolocaustMemoryStateLegitimacy": {
     "title": "Holocaust Memory and State Legitimacy",
@@ -57239,6 +57255,10 @@
     "title": "Legal Services AI Economics",
     "url": "/wiki/concepts/legalservicesaieconomics/"
   },
+  "LegalTitleAndMoralOwnership": {
+    "title": "Legal Title and Moral Ownership",
+    "url": "/wiki/concepts/legaltitleandmoralownership/"
+  },
   "LegalTruthEvidenceGap": {
     "title": "Legal Truth-Evidence Gap / 法律真相与证据差距",
     "url": "/wiki/concepts/legaltruthevidencegap/"
@@ -67990,6 +68010,10 @@
   "MusePersonalAgent": {
     "title": "Muse Personal Agent",
     "url": "/wiki/entities/musepersonalagent/"
+  },
+  "MuseumCollectionStewardship": {
+    "title": "Museum Collection Stewardship",
+    "url": "/wiki/concepts/museumcollectionstewardship/"
   },
   "MuseumInterpretationLegibility": {
     "title": "Museum Interpretation Legibility / 博物馆阐释可读性",
@@ -89555,6 +89579,10 @@
     "title": "Sophie Scholl",
     "url": "/wiki/entities/sophiescholl/"
   },
+  "SophieUllman": {
+    "title": "Sophie Ullman",
+    "url": "/wiki/entities/sophieullman/"
+  },
   "SophieZhang": {
     "title": "Sophie Zhang",
     "url": "/wiki/entities/sophiezhang/"
@@ -99230,6 +99258,10 @@
   "VascularSurgerySymptomRouting": {
     "title": "Vascular Surgery Symptom Routing / 血管外科症状分诊",
     "url": "/wiki/concepts/vascularsurgerysymptomrouting/"
+  },
+  "VaseWithCarnations": {
+    "title": "Vase with Carnations",
+    "url": "/wiki/entities/vasewithcarnations/"
   },
   "VashonIslandCoffeeDust": {
     "title": "Vashon Island Coffee Dust",
@@ -113954,6 +113986,10 @@
   "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393": {
     "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
     "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+  },
+  "hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh": {
+    "title": "Hedwig’s Lost Van Gogh",
+    "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
   },
   "heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt": {
     "title": "何广智×罗永浩！何广智：我到长安了",

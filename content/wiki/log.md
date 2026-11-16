@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Hedwig’s Lost Van Gogh
+
+Added a [[RevisionistHistory]] episode using [[VaseWithCarnations|Vase with Carnations]] to connect [[HedwigUllmann]]'s forced exile, [[ClaudeUllin]]'s provenance research, and [[SophieUllman]]'s account of intergenerational healing. Created synthesis-first profiles for the family, painting, and [[DetroitInstituteOfArts]], plus [[HolocaustEraArtRestitution]], [[LegalTitleAndMoralOwnership]], and [[MuseumCollectionStewardship]], then resynthesized [[ArtworkValueProvenanceAndAttention]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: authentication and institutional recognition can transform an artwork's price without changing the object or its aesthetic quality, while lawful title can survive even when the history of loss creates an unresolved moral claim. Statutes of limitations and narrow duress rules may close litigation, but voluntary provenance-led return shows that restitution can also operate as ethical acknowledgment and family healing.
+
+No settled contradiction was adopted. The museum-hoarding analogy remains provocative rather than equivalent; the episode gives limited space to museum reasoning; and transaction chronology, legal holdings, valuation, attribution, and institutional motives remain source-scoped because the supplied file is a structured summary rather than a transcript, provenance archive, court record, or independent art-historical study. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,180 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | The Powerball Revolution
 
 Added a [[RevisionistHistory]] episode connecting [[AdamCronkite]]'s Bolivian student-council experiments, [[MichaelLauer]]'s reported NIH grant-score analysis, and a [[LawrencevilleSchool]] workshop. Created synthesis-first pages for those three entities plus [[Sortition]], [[QualifiedPoolLottery]], and [[PredictiveSelectionLimits]], then resynthesized [[CitizensAssembly]] and [[NationalInstitutesOfHealth]] from their complete preserved evidence inventories before appending the new source once.
@@ -42318,6 +42328,10 @@ Core synthesis: precision bombing was not one proposition but a chain from aircr
 No settled contradiction was adopted. The Saint-Nazaire result does not establish general precision feasibility, and biographical memories, lecture calculations, institutional counts, anti-aircraft probabilities, mission results, B-29 performance, motives, and aesthetic reactions remain episode-scoped because the supplied file is a structured summary rather than a transcript, doctrine archive, or comparative campaign history. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,178 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

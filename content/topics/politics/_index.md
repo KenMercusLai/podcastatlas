@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3575
+topic_total_pages: 3576
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2620,6 +2620,9 @@ topic_concepts:
   - key: "LegalServicesAIEconomics"
     title: "Legal Services AI Economics"
     url: "/wiki/concepts/legalservicesaieconomics/"
+  - key: "LegalTitleAndMoralOwnership"
+    title: "Legal Title and Moral Ownership"
+    url: "/wiki/concepts/legaltitleandmoralownership/"
   - key: "LegalTruthEvidenceGap"
     title: "Legal Truth-Evidence Gap / 法律真相与证据差距"
     url: "/wiki/concepts/legaltruthevidencegap/"

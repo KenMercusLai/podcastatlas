@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14640
+wiki_total_pages: 14645
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "VascoGoncalves"
     title: "Vasco Goncalves"
     url: "/wiki/entities/vascogoncalves/"
+  - key: "VaseWithCarnations"
+    title: "Vase with Carnations"
+    url: "/wiki/entities/vasewithcarnations/"
   - key: "VashonIslandCoffeeDust"
     title: "Vashon Island Coffee Dust"
     url: "/wiki/entities/vashonislandcoffeedust/"

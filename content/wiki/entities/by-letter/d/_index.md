@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14640
+wiki_total_pages: 14645
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "Detroit"
     title: "Detroit"
     url: "/wiki/entities/detroit/"
+  - key: "DetroitInstituteOfArts"
+    title: "Detroit Institute of Arts"
+    url: "/wiki/entities/detroitinstituteofarts/"
   - key: "DeutscheBahn"
     title: "Deutsche Bahn"
     url: "/wiki/entities/deutschebahn/"

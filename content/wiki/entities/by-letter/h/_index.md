@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14640
+wiki_total_pages: 14645
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "Hector"
     title: "Hector"
     url: "/wiki/entities/hector/"
+  - key: "HedwigUllmann"
+    title: "Hedwig Ullmann"
+    url: "/wiki/entities/hedwigullmann/"
   - key: "Hefei"
     title: "Hefei / 合肥"
     url: "/wiki/entities/hefei/"
