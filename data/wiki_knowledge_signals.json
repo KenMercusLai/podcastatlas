@@ -11026,6 +11026,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/aethelredtheunready/"
     },
+    "AffectiveForecastingAndFocalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b7066006957064dce5b1c84ae245f230_50385021 [default.mp3_ywr3ahjkcgo_b7066006957064dce5b1c84ae245f230_50385021].md",
+          "key": "default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021",
+          "show": "Hidden Brain",
+          "title": "Where Happiness Hides",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/affectiveforecastingandfocalism/"
+    },
     "AffectivePolarization": {
       "episode_count": 3,
       "show_count": 3,
@@ -141494,9 +141510,9 @@
       "url": "/wiki/entities/hedongpeiclan/"
     },
     "HedonicAdaptationAndContrast": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5061134579 [SCIM5061134579].md",
@@ -141518,6 +141534,13 @@
           "show": "Hidden Brain",
           "title": "Minimizing Pain, Maximizing Joy",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b7066006957064dce5b1c84ae245f230_50385021 [default.mp3_ywr3ahjkcgo_b7066006957064dce5b1c84ae245f230_50385021].md",
+          "key": "default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021",
+          "show": "Hidden Brain",
+          "title": "Where Happiness Hides",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021/"
         }
       ],
       "updated": "2026-11-17",
@@ -295879,6 +295902,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/songwritingemotionalprocessing/"
+    },
+    "SonjaLyubomirsky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b7066006957064dce5b1c84ae245f230_50385021 [default.mp3_ywr3ahjkcgo_b7066006957064dce5b1c84ae245f230_50385021].md",
+          "key": "default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021",
+          "show": "Hidden Brain",
+          "title": "Where Happiness Hides",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/sonjalyubomirsky/"
     },
     "SonnyLoughran": {
       "episode_count": 1,

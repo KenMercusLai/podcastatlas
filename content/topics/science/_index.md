@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1701
+topic_total_pages: 1704
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -58,6 +58,9 @@ topic_concepts:
   - key: "AerosolCoolingMasking"
     title: "Aerosol Cooling Masking"
     url: "/wiki/concepts/aerosolcoolingmasking/"
+  - key: "AffectiveForecastingAndFocalism"
+    title: "Affective Forecasting and Focalism"
+    url: "/wiki/concepts/affectiveforecastingandfocalism/"
   - key: "AffectivePolarization"
     title: "Affective Polarization / 情感极化"
     url: "/wiki/concepts/affectivepolarization/"
@@ -3653,6 +3656,9 @@ topic_entities:
   - key: "SongLe"
     title: "Song Le / 宋乐"
     url: "/wiki/entities/songle/"
+  - key: "SonjaLyubomirsky"
+    title: "Sonja Lyubomirsky"
+    url: "/wiki/entities/sonjalyubomirsky/"
   - key: "SouthernOcean"
     title: "Southern Ocean"
     url: "/wiki/entities/southernocean/"
@@ -5022,6 +5028,9 @@ topic_sources:
   - key: "defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038"
     title: "When You Need It To Be True"
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038/"
+  - key: "default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021"
+    title: "Where Happiness Hides"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021/"
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"

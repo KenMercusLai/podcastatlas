@@ -13560,6 +13560,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AffectiveForecastingAndFocalism": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AffectivePolarization": [
     {
       "key": "culture",
@@ -87354,6 +87361,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SonjaLyubomirsky": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SonnyLoughran": [
     {
       "key": "politics",
@@ -108500,6 +108514,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559": [

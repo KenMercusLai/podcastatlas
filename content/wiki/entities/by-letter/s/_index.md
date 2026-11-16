@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14591
+wiki_total_pages: 14592
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "Songtsam"
     title: "Songtsam / 松赞"
     url: "/wiki/entities/songtsam/"
+  - key: "SonjaLyubomirsky"
+    title: "Sonja Lyubomirsky"
+    url: "/wiki/entities/sonjalyubomirsky/"
   - key: "SonnyLoughran"
     title: "Sonny Loughran"
     url: "/wiki/entities/sonnyloughran/"

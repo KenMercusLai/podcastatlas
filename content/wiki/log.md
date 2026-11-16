@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Where Happiness Hides
+
+Added the [[HiddenBrain]] episode with psychologist [[SonjaLyubomirsky]] on [[HedonicAdaptationAndContrast]], [[AffectiveForecastingAndFocalism]], savoring, relationships, gratitude, intrinsic motivation, and social connection. Created focused synthesis-first pages for Lyubomirsky and affective forecasting, then resynthesized hedonic adaptation from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: forecasts often overweight the dramatic moment of gaining sight, a job, money, status, or a relationship while underweighting the ordinary routines that follow. After arrival, rising aspirations and changed comparison groups can make an advantage feel normal or necessary. Variety, intentional gaps, imagined loss, gratitude, impermanence awareness, social contact, and process attention may renew notice, while adaptation can also help feelings change after setbacks.
+
+No settled contradiction was adopted. Adaptation is neither complete nor uniform, and severe poverty, abuse, war, disability, illness, trauma, depression, or unsafe relationships cannot be reduced to mindset or gratitude. Study, genetic, cultural, intervention, relationship, and writing claims remain episode-scoped because the supplied file is a structured summary without methods, samples, effect sizes, uncertainty, or replication history. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening a large unchanged evidence inventory or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,154 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | When Doing Right Feels Wrong
 
 Added the [[HiddenBrain]] episode following [[DarwinRocher]] from close police bonds into reporting and covert FBI cooperation against three colleagues planning a robbery that could include murder. Created focused profiles for Rocher and [[AdamWaytz]], plus [[LoyaltyJusticeMoralConflict]], [[WhistleblowingAsMissionLoyalty]], [[MoralStress]], and [[MoralLicensing]].
@@ -41741,10 +41751,6 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
-## [2026-11-17] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-11-17] ingest | Cede of doubt: a NATO offer to Ukraine
 
 Added a [[TheIntelligence]] episode connecting an unaccepted NATO-for-territory proposal, the uneven constraints of American divided government, and a South London classroom lesson in AI scrutiny and evidence-based disagreement. Created [[NegotiatedSecurityGuaranteeCredibility]] to separate treaty labels from allied authorization, operational specificity, adversary acceptance, and political durability, and created [[DividedGovernmentExecutiveConstraint]] to distinguish congressional oversight and fiscal leverage from continuing delegated presidential authority.
@@ -41980,6 +41986,10 @@ No settled contradiction was adopted. The episode strengthens existing identity 
 The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,152 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

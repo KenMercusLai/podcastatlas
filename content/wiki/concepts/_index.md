@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11584
+wiki_total_pages: 11585
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "AffectionDrivenSuccessionRisk"
     title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
     url: "/wiki/concepts/affectiondrivensuccessionrisk/"
+  - key: "AffectiveForecastingAndFocalism"
+    title: "Affective Forecasting and Focalism"
+    url: "/wiki/concepts/affectiveforecastingandfocalism/"
   - key: "AffectivePolarization"
     title: "Affective Polarization / 情感极化"
     url: "/wiki/concepts/affectivepolarization/"
