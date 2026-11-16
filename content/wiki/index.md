@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What Makes Relationships Thrive](sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281.md) — Hidden Brain and Harry Reis separate actual from perceived understanding and connect both to belonging, listening, conflict, and openness without agreement.
 - [Cede of doubt: a NATO offer to Ukraine](sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916.md) — The Intelligence connects an unaccepted NATO-for-territory proposal, uneven congressional checks on executive power, and classroom practice in AI scrutiny and evidence-based disagreement.
 - [Minimizing Pain, Maximizing Joy](sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609.md) — Hidden Brain and William Irvine connect Stoic control allocation, early setback reframing, manageable discomfort, imagined loss, and finitude to resilience and renewed appreciation.
 - [Mind Reading 2.0: How Others See You](sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125.md) — Hidden Brain and Erica Boothby connect the liking gap to private self-criticism, attention asymmetries, indirect signaling, curiosity, and expressed appreciation.
@@ -5262,6 +5263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Harry Reis](entities/HarryReis.md) — Psychologist studying how accurate and perceived understanding shape relationships and conflict.
 - [Topical Talk](entities/TopicalTalk.md) — Free current-affairs classroom programme teaching knowledge, AI scrutiny, communication, and respectful evidence-based disagreement.
 - [Economist Educational Foundation](entities/EconomistEducationalFoundation.md) — Independent education organization supplying Topical Talk resources and framing critical discussion as a response to misinformation and polarization.
 - [Kiku Sharda](entities/KikuSharda.md) — Indian actor connecting costume-led character embodiment, collaborative television comedy, and human performance under AI.
@@ -19923,6 +19925,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Perceived Understanding In Relationships](concepts/PerceivedUnderstandingInRelationships.md) — The belief that another person knows who one is and why one's perspective makes sense, distinct from perfect accuracy or agreement.
 - [Negotiated Security Guarantee Credibility](concepts/NegotiatedSecurityGuaranteeCredibility.md) — Four-gate test for whether a diplomatic security promise is deliverable, operationally specific, accepted, and durable.
 - [Divided Government Executive Constraint](concepts/DividedGovernmentExecutiveConstraint.md) — Uneven legislative checking of presidential power through funding, statutes, oversight, and bargaining while delegated executive discretion persists.
 - [Character Embodiment Through Costume](concepts/CharacterEmbodimentThroughCostume.md) — Acting method joining completed appearance and imagined biography to embodied character response.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14565
+wiki_total_pages: 14566
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "HarryPrice"
     title: "Harry Price"
     url: "/wiki/entities/harryprice/"
+  - key: "HarryReis"
+    title: "Harry Reis"
+    url: "/wiki/entities/harryreis/"
   - key: "HarrySTruman"
     title: "Harry S. Truman"
     url: "/wiki/entities/harrystruman/"

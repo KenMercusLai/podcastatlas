@@ -67067,9 +67067,9 @@
       "url": "/wiki/concepts/conversationalbeautyadvising/"
     },
     "ConversationalReceptiveness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116 [default.mp3_ywr3ahjkcgo_741c785acf100f951118c170a6512dc3_52645116].md",
@@ -67077,9 +67077,16 @@
           "show": "Hidden Brain",
           "title": "The Conversations that Bring Us Closer",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116-default-mp3-ywr3ahjkcgo-741c785acf100f951118c170a6512dc3-52645116/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281 [default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281].md",
+          "key": "default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281",
+          "show": "Hidden Brain",
+          "title": "What Makes Relationships Thrive",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/conversationalreceptiveness/"
     },
     "ConversationalUtilityPayment": {
@@ -139277,6 +139284,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/harryprice/"
     },
+    "HarryReis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281 [default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281].md",
+          "key": "default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281",
+          "show": "Hidden Brain",
+          "title": "What Makes Relationships Thrive",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/harryreis/"
+    },
     "HarrySTruman": {
       "episode_count": 1,
       "show_count": 1,
@@ -143567,9 +143590,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -143654,9 +143677,16 @@
           "show": "Hidden Brain",
           "title": "How Rude!",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281 [default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281].md",
+          "key": "default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281",
+          "show": "Hidden Brain",
+          "title": "What Makes Relationships Thrive",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/hiddenbrain/"
     },
     "HiddenHearingLoss": {
@@ -243438,6 +243468,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
+    "PerceivedUnderstandingInRelationships": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281 [default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281].md",
+          "key": "default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281",
+          "show": "Hidden Brain",
+          "title": "What Makes Relationships Thrive",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/perceivedunderstandinginrelationships/"
+    },
     "PerceptionAsBiologicalInference": {
       "episode_count": 5,
       "show_count": 1,
@@ -292895,9 +292941,9 @@
       "url": "/wiki/entities/somanysteves/"
     },
     "SocialAttentionAsymmetry": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125 [default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125].md",
@@ -292905,6 +292951,13 @@
           "show": "Hidden Brain",
           "title": "Mind Reading 2.0: How Others See You",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281 [default.mp3_ywr3ahjkcgo_ea5bbec6d5f8dceb54214fa00e91a356_48702281].md",
+          "key": "default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281",
+          "show": "Hidden Brain",
+          "title": "What Makes Relationships Thrive",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281/"
         }
       ],
       "updated": "2026-11-17",

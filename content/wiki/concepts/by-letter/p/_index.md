@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11558
+wiki_total_pages: 11559
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "PerceivedSimilarityInRelationships"
     title: "Perceived Similarity In Relationships"
     url: "/wiki/concepts/perceivedsimilarityinrelationships/"
+  - key: "PerceivedUnderstandingInRelationships"
+    title: "Perceived Understanding In Relationships"
+    url: "/wiki/concepts/perceivedunderstandinginrelationships/"
   - key: "PerceptionAsBiologicalInference"
     title: "Perception as Biological Inference"
     url: "/wiki/concepts/perceptionasbiologicalinference/"

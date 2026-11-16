@@ -15,14 +15,15 @@ sources:
   - default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639
   - default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302
   - default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447
-last_updated: 2026-11-16
+  - default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, moral conflict, whistleblowing, preference falsification, incivility, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, relationship understanding, moral conflict, whistleblowing, preference falsification, incivility, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -49,6 +50,8 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447|How Rude!]] has [[ChristinePorath]] connect rude exposure to threat capture, attention and memory errors, reduced creativity, weaker trust, information withholding, customer response, medical-team risk, and onward social transmission. [[CivilityFeedbackCulture]] and [[SelfDistancingRecovery]] supply prevention and recovery branches while keeping perception differences, evidential limits, and institutional accountability visible.
 
+[[default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281|What Makes Relationships Thrive]] has [[HarryReis]] separate accurate interpersonal knowledge from [[PerceivedUnderstandingInRelationships|the felt experience of being understood]]. Assumed transparency, vulnerable concealment, reply-focused listening, and stale impressions make understanding harder, while reflective confirmation makes interpretation correctable and preserves the distinction between acknowledging a perspective and agreeing with it.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
 - Connects research ideas to relationships, politics, justice, moral conflict, organizations, mental health, history, and systems design.
@@ -73,12 +76,13 @@ The current bounded evidence shows the program combining research explanation, c
 - Loyalty, justice, and whistleblowing - [[default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639]] uses Rocher's case and Waytz's interpretation to connect competing moral values, contextual salience, retaliation, and mission-directed loyalty.
 - Preference falsification and dissent cascades - [[default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302]] uses Kuran's framework to connect perceived sanctions, misleading public consensus, citizen enforcement, threshold effects, democratic pressure, humor, and civility.
 - Incivility, cognition, and recovery - [[default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447]] uses Porath's account to connect target and witness impairment, trust loss, social transmission, feedback culture, and self-distancing.
+- Relationship understanding - [[default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281]] uses Reis's account to connect actual and perceived understanding with disclosure, reflective listening, updating, belonging, conflict, and openness without agreement.
 
 ## Qualifications
-The profile is based on twelve supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, composite characters, founder narratives, whistleblower testimony, wrongful-conviction narratives, workplace examples, political examples, and public-opinion interpretations illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering or product analysis, survey review, election analysis, policy evaluation, underlying study review, workplace investigation, or structural analysis. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, collective-efficacy, motivation, legal-career, athlete, goal-fit, AI-grief benefit, consent, adoption, whistleblowing, moral-salience, retaliation, private-belief prevalence, dissent-cascade causality, voter motivation, incivility effect size, self-awareness prevalence, social transmission, recovery, and long-term-harm claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, causal humility, rest, small action, self-concordance, mission-directed loyalty, self-distancing, and continuing digital interaction do not erase credible danger, boundaries, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
+The profile is based on thirteen supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, composite characters, founder narratives, whistleblower testimony, wrongful-conviction narratives, workplace examples, political examples, relationship anecdotes, and public-opinion interpretations illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering or product analysis, survey review, election analysis, policy evaluation, underlying study review, workplace investigation, or structural analysis. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, collective-efficacy, motivation, legal-career, athlete, goal-fit, AI-grief benefit, consent, adoption, whistleblowing, moral-salience, retaliation, private-belief prevalence, dissent-cascade causality, voter motivation, incivility effect size, self-awareness prevalence, social transmission, recovery, perceived-understanding, prejudice, relationship-outcome, and long-term-harm claims remain episode-scoped. Charitable interpretation, receptiveness, reflective listening, apology, forgiveness, causal humility, rest, small action, self-concordance, mission-directed loyalty, self-distancing, and continuing digital interaction do not erase credible danger, boundaries, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
 
 ## What Changed
-- Added the incivility branch connecting cognitive impairment, witness effects, trust loss, social transmission, feedback culture, and recovery.
+- Added the relationship-understanding branch connecting actual knowledge, felt understanding, reflective listening, updating, belonging, and disagreement.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -120,3 +124,5 @@ The profile is based on twelve supplied episode summaries and does not establish
 - [[IncivilityCognitiveAndSocialSpillover]] - framework connecting rude exposure to impaired performance and onward transmission.
 - [[CivilityFeedbackCulture]] - prevention and repair model joining respect with direct behavioral feedback.
 - [[SelfDistancingRecovery]] - perspective practice for restoring attention after a rude encounter.
+- [[HarryReis]] - psychologist guiding the relationship-understanding branch.
+- [[PerceivedUnderstandingInRelationships]] - distinction between accurate knowledge and the felt experience of being known.
