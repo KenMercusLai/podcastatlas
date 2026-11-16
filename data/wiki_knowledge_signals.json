@@ -23104,6 +23104,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/argonautica/"
     },
+    "ArgumentFlowing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Goes_to_Debate_School [Malcolm_Goes_to_Debate_School].md",
+          "key": "malcolm-goes-to-debate-school-malcolm-goes-to-debate-school",
+          "show": "Revisionist History",
+          "title": "Malcolm Goes to Debate School",
+          "url": "/wiki/sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/argumentflowing/"
+    },
     "AriWallach": {
       "episode_count": 1,
       "show_count": 1,
@@ -40031,6 +40047,22 @@
       ],
       "updated": "2026-10-21",
       "url": "/wiki/entities/brookfield/"
+    },
+    "BrooklynDebateLeague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Goes_to_Debate_School [Malcolm_Goes_to_Debate_School].md",
+          "key": "malcolm-goes-to-debate-school-malcolm-goes-to-debate-school",
+          "show": "Revisionist History",
+          "title": "Malcolm Goes to Debate School",
+          "url": "/wiki/sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/brooklyndebateleague/"
     },
     "BrownVBoardOfEducation": {
       "episode_count": 1,
@@ -62749,9 +62781,9 @@
       "url": "/wiki/concepts/competitionmetricvaluecompression/"
     },
     "CompetitiveDebateListeningTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Feeling_A_Bit_Attacked_with_Maria_Konnikova [Feeling_A_Bit_Attacked_with_Maria_Konnikova].md",
@@ -62759,6 +62791,13 @@
           "show": "Revisionist History",
           "title": "Feeling A Bit Attacked with Maria Konnikova",
           "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "Malcolm_Goes_to_Debate_School [Malcolm_Goes_to_Debate_School].md",
+          "key": "malcolm-goes-to-debate-school-malcolm-goes-to-debate-school",
+          "show": "Revisionist History",
+          "title": "Malcolm Goes to Debate School",
+          "url": "/wiki/sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school/"
         }
       ],
       "updated": "2026-11-16",

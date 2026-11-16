@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14480
+wiki_total_pages: 14481
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "BrookingsInstitution"
     title: "Brookings Institution"
     url: "/wiki/entities/brookingsinstitution/"
+  - key: "BrooklynDebateLeague"
+    title: "Brooklyn Debate League"
+    url: "/wiki/entities/brooklyndebateleague/"
   - key: "Brooks"
     title: "Brooks"
     url: "/wiki/entities/brooks/"

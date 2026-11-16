@@ -16934,6 +16934,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ArgumentFlowing": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AriRedbord": [
     {
       "key": "politics",
@@ -21495,6 +21502,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "BrooklynDebateLeague": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Brooks": [
@@ -112038,6 +112052,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "malcolm-goes-to-debate-school-malcolm-goes-to-debate-school": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431": [

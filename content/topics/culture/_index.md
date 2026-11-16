@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3745
+topic_total_pages: 3748
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -358,6 +358,9 @@ topic_concepts:
   - key: "ArcheryFlow"
     title: "Archery Flow / 射箭专注体验"
     url: "/wiki/concepts/archeryflow/"
+  - key: "ArgumentFlowing"
+    title: "Argument Flowing"
+    url: "/wiki/concepts/argumentflowing/"
   - key: "AristocraticSpiritConsumptionBoundary"
     title: "Aristocratic Spirit Consumption Boundary / 贵族精神消费边界"
     url: "/wiki/concepts/aristocraticspiritconsumptionboundary/"
@@ -4604,6 +4607,9 @@ topic_entities:
   - key: "BritishMuseum"
     title: "British Museum"
     url: "/wiki/entities/britishmuseum/"
+  - key: "BrooklynDebateLeague"
+    title: "Brooklyn Debate League"
+    url: "/wiki/entities/brooklyndebateleague/"
   - key: "Brooks"
     title: "Brooks"
     url: "/wiki/entities/brooks/"
@@ -10746,6 +10752,9 @@ topic_sources:
   - key: "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4"
     title: "Let’s get this party restarted: Republicans reel from the midterms"
     url: "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
+  - key: "malcolm-goes-to-debate-school-malcolm-goes-to-debate-school"
+    title: "Malcolm Goes to Debate School"
+    url: "/wiki/sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school/"
   - key: "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c"
     title: "Marine warfare: Le Pen runs for president"
     url: "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"

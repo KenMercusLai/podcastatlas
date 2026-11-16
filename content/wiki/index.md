@@ -5217,6 +5217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Pushkin Prize for Egregiously Deceptive Self-Promotion](sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion.md) — Revisionist History audit of Columbia's disputed ranking inputs, their modeled score effects, and the institution's response after exposure.
 - [The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan](sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and.md) — Revisionist History conversation on female athlete development, youth-sport incentives, coaching education, safeguarding, access, and autonomy.
 - [The Mystery of Mastery with Adam Gopnik](sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik.md) — Revisionist History conversation on craft learning, shop talk, shared activity, amateur participation, expert appreciation, and committed performance.
+- [Malcolm Goes to Debate School](sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school.md) — Revisionist History postmortem on audience-centered persuasion, hostile framing, emotional investment, and flowing as trained argument listening.
 
 ## Entities
 - [Steve Martin](entities/SteveMartin.md) — Comedian, actor, and writer distinguishing public scale from creative feedback while reflecting on film craft and memorable comic risk.
@@ -19792,6 +19793,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Linda Flanagan](entities/LindaFlanagan.md) — Coach and author critiquing early specialization, adult incentives, unequal access, and unsafe youth-sport culture.
 - [Adam Gopnik](entities/AdamGopnik.md) — Writer using participatory reporting and practitioner encounters to examine mastery and the value of inexpert practice.
 - [The Real Work](entities/TheRealWork.md) — Adam Gopnik book examining learning, mastery, and participation across multiple crafts.
+- [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
 
 ## Concepts
 - [Performance Scale Creative Constraint](concepts/PerformanceScaleCreativeConstraint.md) — Loss of low-cost experimentation when intimate live work becomes a high-stakes large-venue spectacle.
@@ -31375,5 +31377,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Youth Sports Incentive Pressure](concepts/YouthSportsIncentivePressure.md) — Escalation linking scholarships, admissions, commercial pathways, early competition, adult status, and safeguarding risk.
 - [Amateur Practice Value](concepts/AmateurPracticeValue.md) — Intrinsic and civic value of attentive participation without requiring professional-level achievement.
 - [Craft Shop Talk](concepts/CraftShopTalk.md) — Field-specific discourse through which practitioners share otherwise hidden techniques, distinctions, standards, and purposes.
+- [Argument Flowing](concepts/ArgumentFlowing.md) — Structured tracking of claims, evidence, and responses that turns listening into a trainable debate practice.
 
 ## Syntheses

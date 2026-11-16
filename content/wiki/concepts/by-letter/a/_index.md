@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11472
+wiki_total_pages: 11473
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2708,6 +2708,9 @@ wiki_pages:
   - key: "ArgentinePoloCluster"
     title: "Argentine Polo Cluster"
     url: "/wiki/concepts/argentinepolocluster/"
+  - key: "ArgumentFlowing"
+    title: "Argument Flowing"
+    url: "/wiki/concepts/argumentflowing/"
   - key: "AristocraticDeathDignity"
     title: "Aristocratic Death Dignity / 贵族式临终尊严"
     url: "/wiki/concepts/aristocraticdeathdignity/"
