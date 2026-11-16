@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11563
+wiki_total_pages: 11565
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1127,6 +1127,9 @@ wiki_pages:
   - key: "ChocolateLabelStandards"
     title: "Chocolate Label Standards"
     url: "/wiki/concepts/chocolatelabelstandards/"
+  - key: "ChoiceArchitecture"
+    title: "Choice Architecture"
+    url: "/wiki/concepts/choicearchitecture/"
   - key: "ChoiceClosureSatisfaction"
     title: "Choice Closure and Satisfaction"
     url: "/wiki/concepts/choiceclosuresatisfaction/"

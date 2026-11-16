@@ -55629,6 +55629,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/chocolatedrinktosolidtransition/"
     },
+    "ChoiceArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896 [default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896].md",
+          "key": "default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896",
+          "show": "Hidden Brain",
+          "title": "Choose Carefully",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/choicearchitecture/"
+    },
     "ChoiceClosureSatisfaction": {
       "episode_count": 1,
       "show_count": 1,
@@ -75055,6 +75071,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/dariusiii/"
+    },
+    "DarkPatterns": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896 [default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896].md",
+          "key": "default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896",
+          "show": "Hidden Brain",
+          "title": "Choose Carefully",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/darkpatterns/"
     },
     "DarlaBuchanan": {
       "episode_count": 1,
@@ -101677,6 +101709,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/ericgoldman/"
+    },
+    "EricJohnsonChoiceResearcher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896 [default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896].md",
+          "key": "default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896",
+          "show": "Hidden Brain",
+          "title": "Choose Carefully",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ericjohnsonchoiceresearcher/"
     },
     "EricTheRed": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1690
+topic_total_pages: 1691
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3026,6 +3026,9 @@ topic_entities:
   - key: "ErasmusDarwin"
     title: "Erasmus Darwin / 伊拉斯默·达尔文"
     url: "/wiki/entities/erasmusdarwin/"
+  - key: "EricJohnsonChoiceResearcher"
+    title: "Eric Johnson (choice researcher)"
+    url: "/wiki/entities/ericjohnsonchoiceresearcher/"
   - key: "EricWeinstein"
     title: "Eric Weinstein"
     url: "/wiki/entities/ericweinstein/"

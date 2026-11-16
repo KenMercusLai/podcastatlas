@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11563
+wiki_total_pages: 11565
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "DarkOffice"
     title: "Dark Office"
     url: "/wiki/concepts/darkoffice/"
+  - key: "DarkPatterns"
+    title: "Dark Patterns"
+    url: "/wiki/concepts/darkpatterns/"
   - key: "DarkTokens"
     title: "Dark Tokens"
     url: "/wiki/concepts/darktokens/"

@@ -41794,3 +41794,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Choose Carefully
+
+Added a [[HiddenBrain]] episode with psychologist [[EricJohnsonChoiceResearcher|Eric Johnson]] on [[ChoiceArchitecture]] as the unavoidable design of option sets, order, descriptions, defaults, cues, and action costs. Created Johnson's focused profile and [[DarkPatterns]], while connecting the episode to [[ReflectiveChoiceFormation]], [[StatedRevealedPreferenceGap]], [[GenericDrugSubstitutionDecision]], [[ChesleySullenberger]], and [[WinstonChurchill]].
+
+Core synthesis: a choice environment cannot be neutral merely by offering options, because some design determines what appears, what happens under inaction, and how much work each path requires. Defaults can operate through convenience, implied endorsement, and perceived possession; order, cues, and complexity can change attention, memory accessibility, strategy, and preferences constructed during the decision. Helpful architecture makes consequences legible and reduces irrelevant burden, while dark patterns use concealment, automatic continuation, or one-sided friction to serve the designer at the chooser's expense.
+
+No settled contradiction was adopted. Stable values can coexist with preference construction, a changed choice does not by itself establish manipulation, and narrower choice can support reflection or become paternalistic depending on context. The generic-prescribing and end-of-life examples do not authorize individualized medical conclusions, the Derren Brown sequence is staged illustration rather than controlled evidence, and all reported effect sizes and causal claims remain episode-scoped because the supplied file is a structured summary without underlying papers, methods, measures, or replication detail. Broad existing profiles remained closed because the focused pages capture the durable addition without reopening large unrelated evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,140 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

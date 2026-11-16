@@ -21419,6 +21419,10 @@
     "title": "Chocolate Label Standards",
     "url": "/wiki/concepts/chocolatelabelstandards/"
   },
+  "ChoiceArchitecture": {
+    "title": "Choice Architecture",
+    "url": "/wiki/concepts/choicearchitecture/"
+  },
   "ChoiceClosureSatisfaction": {
     "title": "Choice Closure and Satisfaction",
     "url": "/wiki/concepts/choiceclosuresatisfaction/"
@@ -27178,6 +27182,10 @@
   "DarkOffice": {
     "title": "Dark Office",
     "url": "/wiki/concepts/darkoffice/"
+  },
+  "DarkPatterns": {
+    "title": "Dark Patterns",
+    "url": "/wiki/concepts/darkpatterns/"
   },
   "DarkTokens": {
     "title": "Dark Tokens",
@@ -33750,6 +33758,10 @@
   "EricGoldman": {
     "title": "Eric Goldman",
     "url": "/wiki/entities/ericgoldman/"
+  },
+  "EricJohnsonChoiceResearcher": {
+    "title": "Eric Johnson (choice researcher)",
+    "url": "/wiki/entities/ericjohnsonchoiceresearcher/"
   },
   "EricLiZhiqiang": {
     "title": "Eric Li Zhiqiang / 李志强",
@@ -110986,6 +110998,10 @@
   "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693": {
     "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+  },
+  "default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896": {
+    "title": "Choose Carefully",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896/"
   },
   "default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952": {
     "title": "Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan",
