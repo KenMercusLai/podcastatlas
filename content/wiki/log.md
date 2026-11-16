@@ -41808,3 +41808,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Revisionist History Holiday Sampler
+
+Added a [[RevisionistHistory]] holiday sampler pairing [[HallieRubenhold]]'s [[BadWomenTheRipperRetold|Bad Women: The Ripper Retold]] preview with a short follow-up on COVID-detection dogs used on concert tours. Created the series profile, [[GenderedDiseaseControl]], and [[CanineDiseaseDetectionScreening]], then resynthesized [[ElizabethStride]], [[HallieRubenhold]], and [[VictorianWomenPrecarity]] from each page's complete preserved source inventory before appending the new source once.
+
+Core historical synthesis: Stride's life should be read as a sequence rather than an occupational label. A comparatively prosperous Swedish farm childhood led into domestic service, an unmarried pregnancy, registration as a “public woman,” invasive inspection, syphilis confinement, painful treatment, stillbirth, durable stigma, and narrowed employment before later migration and Whitechapel precarity. The source supports the qualified inference that gendered disease control could help produce the sex-work identity it claimed only to detect, while leaving consent, infection history, stillbirth causation, and the precise policy-to-occupation path unresolved.
+
+Core biodetection synthesis: trained dogs were fast, mobile, and popular in backstage concert-tour screening, but deployment and testimonial evidence do not establish diagnostic validity. The supplied summary provides no sensitivity, specificity, blinding, handler-cue controls, false-result rates, confirmatory pathway, or causal outbreak comparison.
+
+No settled contradiction was adopted. The expanded Stride biography complements rather than resolves the uncertainty over whether she and [[CatherineEddowes]] had the same killer. Historical syphilis and treatment details remain source-scoped medical history, and tour use does not establish that canine screening can replace conventional testing. Broad hub profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening large unrelated evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,141 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

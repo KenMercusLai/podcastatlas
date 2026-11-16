@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Revisionist History Holiday Sampler](sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler.md) — Revisionist History pairs Hallie Rubenhold's victim-centered account of Elizabeth Stride and gendered disease control with an operationally promising but clinically unvalidated concert-tour use of COVID-detection dogs.
 - [Choose Carefully](sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896.md) — Hidden Brain and Eric Johnson connect defaults, order, cues, complexity, and friction to constructed preference and the ethical boundary between helpful design and dark patterns.
 - [Just Watch Me!](sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747.md) — Hidden Brain connects conditional underdog motivation with qualified hero-journey reframing, authentic narrative fit, and structural limits on agency.
 - [Changing Behavior, Not Beliefs](sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123.md) — Hidden Brain and Philip Atiba Goff connect racial disparity to behavior-focused measurement, avoidable police contact, alternative crisis response, and cumulative harm reduction.
@@ -5267,6 +5268,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Bad Women: The Ripper Retold](entities/BadWomenTheRipperRetold.md) — Hallie Rubenhold podcast series recovering the lives of Jack the Ripper's victims from misogynistic labels and offender-centered mythology.
 - [Eric Johnson (choice researcher)](entities/EricJohnsonChoiceResearcher.md) — Psychologist connecting defaults, effort, order, cues, and constructed preference to the ethics of decision design.
 - [Samir Nurmohamed](entities/SamirNurmohamed.md) — Behavioral scientist studying when perceived low expectations trigger threat or motivating resistance.
 - [Ben Rogers](entities/BenRogers.md) — Social scientist studying qualified hero-journey reframing, narrative meaning, and agency.
@@ -19935,6 +19937,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Gendered Disease Control](concepts/GenderedDiseaseControl.md) — Public-health regime in which sex-selective surveillance, invasive inspection, confinement, and stigma can create lasting exclusion.
+- [Canine Disease-Detection Screening](concepts/CanineDiseaseDetectionScreening.md) — Trained-dog disease screening distinguished between rapid operational deployment and the diagnostic evidence needed for clinical validity.
 - [Choice Architecture](concepts/ChoiceArchitecture.md) — Unavoidable design of options, order, defaults, cues, and action costs surrounding a decision.
 - [Dark Patterns](concepts/DarkPatterns.md) — Exploitative design using concealment or asymmetric friction to turn inattention into enrollment, continuation, or obstructed exit.
 - [Underdog Effect](concepts/UnderdogEffect.md) — Conditional effort response in which a person rejects low expectations and works to disprove them.

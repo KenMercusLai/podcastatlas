@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11565
+wiki_total_pages: 11567
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "CandidateIdentityFraud"
     title: "Candidate Identity Fraud"
     url: "/wiki/concepts/candidateidentityfraud/"
+  - key: "CanineDiseaseDetectionScreening"
+    title: "Canine Disease-Detection Screening"
+    url: "/wiki/concepts/caninediseasedetectionscreening/"
   - key: "CannabisDoseRouteVulnerability"
     title: "Cannabis Dose-Route-Vulnerability Framework"
     url: "/wiki/concepts/cannabisdoseroutevulnerability/"

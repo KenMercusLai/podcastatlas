@@ -29084,6 +29084,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/badthoughts/"
     },
+    "BadWomenTheRipperRetold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
+          "key": "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler",
+          "show": "Revisionist History",
+          "title": "The Revisionist History Holiday Sampler",
+          "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/badwomentheripperretold/"
+    },
     "BadmintonInputCostInventoryCycle": {
       "episode_count": 1,
       "show_count": 1,
@@ -44149,6 +44165,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cangtingbattlelatehan/"
+    },
+    "CanineDiseaseDetectionScreening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
+          "key": "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler",
+          "show": "Revisionist History",
+          "title": "The Revisionist History Holiday Sampler",
+          "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/caninediseasedetectionscreening/"
     },
     "CannabisDoseRouteVulnerability": {
       "episode_count": 2,
@@ -93809,9 +93841,9 @@
       "url": "/wiki/entities/elizabethsennett/"
     },
     "ElizabethStride": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7980605076 [GLT7980605076].md",
@@ -93819,9 +93851,16 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
+          "key": "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler",
+          "show": "Revisionist History",
+          "title": "The Revisionist History Holiday Sampler",
+          "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/elizabethstride/"
     },
     "ElizabethTung": {
@@ -124017,6 +124056,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/genderedcreatorconfidence/"
     },
+    "GenderedDiseaseControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
+          "key": "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler",
+          "show": "Revisionist History",
+          "title": "The Revisionist History Holiday Sampler",
+          "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/gendereddiseasecontrol/"
+    },
     "GenderedFandomDelegitimation": {
       "episode_count": 1,
       "show_count": 1,
@@ -135970,9 +136025,9 @@
       "url": "/wiki/entities/halliemiller/"
     },
     "HallieRubenhold": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9221135938 [GLT9221135938].md",
@@ -135980,9 +136035,16 @@
           "show": "The Rest Is History",
           "title": "24. Sex in the City",
           "url": "/wiki/sources/24-sex-in-the-city-glt9221135938/"
+        },
+        {
+          "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
+          "key": "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler",
+          "show": "Revisionist History",
+          "title": "The Revisionist History Holiday Sampler",
+          "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/hallierubenhold/"
     },
     "HalloweenHistoricalLayering": {
@@ -327039,9 +327101,9 @@
       "url": "/wiki/concepts/victoriantourismformation/"
     },
     "VictorianWomenPrecarity": {
-      "episode_count": 6,
-      "show_count": 2,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -327084,9 +327146,16 @@
           "show": "The Rest Is History",
           "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
           "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
+        },
+        {
+          "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
+          "key": "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler",
+          "show": "Revisionist History",
+          "title": "The Revisionist History Holiday Sampler",
+          "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/victorianwomenprecarity/"
     },
     "VideoMME": {

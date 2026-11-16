@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14572
+wiki_total_pages: 14573
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "BadThoughts"
     title: "Bad Thoughts"
     url: "/wiki/entities/badthoughts/"
+  - key: "BadWomenTheRipperRetold"
+    title: "Bad Women: The Ripper Retold"
+    url: "/wiki/entities/badwomentheripperretold/"
   - key: "BafangElectric"
     title: "Bafang Electric / 八方股份"
     url: "/wiki/entities/bafangelectric/"

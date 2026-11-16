@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11565
+wiki_total_pages: 11567
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "GenderedCreatorConfidence"
     title: "Gendered Creator Confidence"
     url: "/wiki/concepts/genderedcreatorconfidence/"
+  - key: "GenderedDiseaseControl"
+    title: "Gendered Disease Control"
+    url: "/wiki/concepts/gendereddiseasecontrol/"
   - key: "GenderedDomesticHorror"
     title: "Gendered Domestic Horror / 性别化家庭恐怖"
     url: "/wiki/concepts/gendereddomestichorror/"

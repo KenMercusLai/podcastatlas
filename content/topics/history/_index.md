@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2818
+topic_total_pages: 2820
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2072,6 +2072,9 @@ topic_entities:
   - key: "Austria"
     title: "Austria"
     url: "/wiki/entities/austria/"
+  - key: "BadWomenTheRipperRetold"
+    title: "Bad Women: The Ripper Retold"
+    url: "/wiki/entities/badwomentheripperretold/"
   - key: "BattleOfCrete"
     title: "Battle of Crete"
     url: "/wiki/entities/battleofcrete/"
@@ -7485,6 +7488,9 @@ topic_sources:
   - key: "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007"
     title: "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup"
     url: "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+  - key: "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler"
+    title: "The Revisionist History Holiday Sampler"
+    url: "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
   - key: "trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494"
     title: "Trailer: Tocqueville Road Trip"
     url: "/wiki/sources/trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494/"
