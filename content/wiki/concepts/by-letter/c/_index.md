@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11507
+wiki_total_pages: 11509
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "CategoryFocusBeforeExpansion"
     title: "Category Focus Before Expansion"
     url: "/wiki/concepts/categoryfocusbeforeexpansion/"
+  - key: "CategoryRevival"
+    title: "Category Revival"
+    url: "/wiki/concepts/categoryrevival/"
   - key: "Cathars"
     title: "Cathars"
     url: "/wiki/concepts/cathars/"

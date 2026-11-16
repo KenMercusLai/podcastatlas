@@ -18042,6 +18042,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/andersarmy/"
     },
+    "AndersEisner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/anderseisner/"
+    },
     "AndingCiXinBook": {
       "episode_count": 1,
       "show_count": 1,
@@ -41825,9 +41841,9 @@
       "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
     },
     "CPGManufacturingScaleUp": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
@@ -41884,9 +41900,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
           "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
+        },
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/cpgmanufacturingscaleup/"
     },
     "CPRAEDResponseBoundary": {
@@ -47352,6 +47375,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/categorybeachheadentry/"
+    },
+    "CategoryRevival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/categoryrevival/"
     },
     "Cathars": {
       "episode_count": 3,
@@ -128821,6 +128860,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/gonzalopizarro/"
     },
+    "GoodCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/goodculture/"
+    },
     "GoodDeathPoliticalSurvival": {
       "episode_count": 6,
       "show_count": 1,
@@ -167211,6 +167266,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/jerusalemhymn/"
+    },
+    "JesseMerrill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/jessemerrill/"
     },
     "JesseOwens": {
       "episode_count": 5,
@@ -253094,6 +253165,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/preparedfallbackstronghold/"
     },
+    "PreparedVirality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/preparedvirality/"
+    },
     "PresbyopiaCorrectionFitting": {
       "episode_count": 1,
       "show_count": 1,
@@ -276521,6 +276608,78 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/salesbasedproductionlocalization/"
+    },
+    "SalesVelocity": {
+      "episode_count": 9,
+      "show_count": 2,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
+          "key": "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d",
+          "show": "How I Built This with Guy Raz",
+          "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
+          "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+        },
+        {
+          "episode_file": "Justin’s Nut Butter： Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter. [b456c4b4-0243-4e46-9460-d0de7cf5d98b].md",
+          "key": "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+          "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+        },
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "e.l.f. Cosmetics： Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant [bbc71e65-9e47-41cb-8dd4-c61fcfc2572e].md",
+          "key": "e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e",
+          "show": "How I Built This with Guy Raz",
+          "title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
+          "url": "/wiki/sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e/"
+        },
+        {
+          "episode_file": "Advice Line with Shazi Visram of Happy Family Organics [c354a554-e764-44c6-89f9-e2192e3e5a86].md",
+          "key": "advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Shazi Visram of Happy Family Organics",
+          "url": "/wiki/sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86/"
+        },
+        {
+          "episode_file": "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
+          "key": "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2",
+          "show": "How I Built This with Guy Raz",
+          "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
+          "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+        },
+        {
+          "episode_file": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025) [6dadc048-8cec-44ec-a3cf-ec314a00e41e].md",
+          "key": "advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
+          "url": "/wiki/sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e/"
+        },
+        {
+          "episode_file": "Costco ｜ Acquired (1) [costco-1].md",
+          "key": "costco-1",
+          "show": "Acquired",
+          "title": "Costco",
+          "url": "/wiki/sources/costco-1/"
+        },
+        {
+          "episode_file": "VMP7035807570 [VMP7035807570].md",
+          "key": "vmp7035807570-vmp7035807570",
+          "show": "How I Built This with Guy Raz",
+          "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+          "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/salesvelocity/"
     },
     "Salesforce": {
       "episode_count": 4,

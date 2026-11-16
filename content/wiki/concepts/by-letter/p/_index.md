@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11507
+wiki_total_pages: 11509
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2039,6 +2039,9 @@ wiki_pages:
   - key: "PreparedHighValueFoodFormats"
     title: "Prepared High-Value Food Formats / 高价值食材即食化"
     url: "/wiki/concepts/preparedhighvaluefoodformats/"
+  - key: "PreparedVirality"
+    title: "Prepared Virality"
+    url: "/wiki/concepts/preparedvirality/"
   - key: "Preregistration"
     title: "Preregistration"
     url: "/wiki/concepts/preregistration/"

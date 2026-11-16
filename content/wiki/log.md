@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Good Culture: How Jesse Merrill Made Cottage Cheese Cool
+
+Added the [[HowIBuiltThis]] founder story of [[JesseMerrill]], [[AndersEisner]], and [[GoodCulture]]. Created the three focused profiles plus [[CategoryRevival]] and [[PreparedVirality]], resynthesized [[SalesVelocity]] into `synthesis-v1`, and updated [[CPGManufacturingScaleUp]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Good Culture revived a familiar but declining category by joining thicker texture, a short ingredient list, clear cottage-cheese packaging, sampling, store-level expiration and velocity management, and creator relationships. The TikTok recipe wave accelerated demand after those capabilities were in place, but the company’s reported inability to serve more than half of demand shows that attention readiness and fulfillment readiness are distinct.
+
+No settled contradiction was adopted. Revenue, category size, consumption, demand, transaction timing, health, sustainability, and clean-label claims remain founder- or episode-reported. Merrill’s ulcerative-colitis account is personal experience rather than general medical guidance, and virality does not by itself establish durable repeat purchase. Broad [[HowIBuiltThis]], [[GuyRaz]], retailer, investor, packaging, demo, and distribution pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was not manually rewritten.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,114 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Tim Harford Cools Us Down This Summer
 
 Added the [[RevisionistHistory]] distribution of a [[CautionaryTales]] South Pole excerpt and discussion comparing [[RobertFalconScott]], [[RoaldAmundsen]], and [[ClementsMarkham]]. Created the three focused profiles plus [[ResourceAbundanceCoordinationBurden]] and [[OperationalMethodFit]], resynthesized [[TimHarford]], [[CautionaryTales]], and [[HeroicFailureMemory]] from their complete preserved evidence inventories, and appended the new source once to each.
@@ -41416,6 +41426,10 @@ No settled contradiction was adopted. The new account of Mitchell's death does n
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,113 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

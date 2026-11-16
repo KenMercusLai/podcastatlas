@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14521
+wiki_total_pages: 14524
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "AnderMedicalAesthetics"
     title: "Ander (medical-aesthetics guest)"
     url: "/wiki/entities/andermedicalaesthetics/"
+  - key: "AndersEisner"
+    title: "Anders Eisner"
+    url: "/wiki/entities/anderseisner/"
   - key: "AndersArmy"
     title: "Anders' Army"
     url: "/wiki/entities/andersarmy/"

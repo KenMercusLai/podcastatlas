@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Good Culture: How Jesse Merrill Made Cottage Cheese Cool](sources/vmp7035807570-vmp7035807570.md) — How I Built This case on reviving cottage cheese through product, packaging, retail velocity, creator preparation, and manufacturing scale.
 - [Star Struck](sources/star-struck.md) — Revisionist History connects Margaret Mitchell’s death, a deleted A Star Is Born collision, and “accident” language to the delayed recognition of drunk-driving responsibility.
 - [When Will Met Grace](sources/when-will-met-grace-when-will-met-grace.md) — Revisionist History uses Will & Grace to examine how broadcast compromise, mass reach, LGBTQ+ normalization, and streaming fragmentation interact.
 - [“I Was a Stranger and You Welcomed Me”](sources/i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me.md) — Revisionist History connects Canadian refugee sponsorship, trauma-informed schooling, and a Holocaust survivor’s chain of help to distributed, repeatable kindness.
@@ -5239,6 +5240,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Good Culture](entities/GoodCulture.md) — Cottage-cheese brand combining category revival, retail execution, creator readiness, and constrained dairy capacity.
+- [Jesse Merrill](entities/JesseMerrill.md) — Good Culture co-founder and CEO whose experiential-marketing background became a retail and supply operating system.
+- [Anders Eisner](entities/AndersEisner.md) — Good Culture co-founder and board chair who supplied initial capital and shared the early retailer-validation test.
 - [A Star Is Born (1937)](entities/AStarIsBorn1937.md) — Film whose deleted fatal collision and revised ending shift responsibility, victim visibility, and sympathy.
 - [Dorothy Parker](entities/DorothyParker.md) — Screenwriter whose deleted collision scene made intoxicated driving’s harm to strangers visible.
 - [David O. Selznick](entities/DavidOSelznick.md) — Producer who removed A Star Is Born’s fatal collision after internal review.
@@ -19856,6 +19860,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Category Revival](concepts/CategoryRevival.md) — Renewal of a familiar but declining category through product repair, clearer meaning, new use occasions, retail proof, and supply readiness.
+- [Prepared Virality](concepts/PreparedVirality.md) — Product, creator, distribution, brand, and operating groundwork that improves conversion of an unpredictable attention event.
 - [Accident Framing and Responsibility](concepts/AccidentFramingAndResponsibility.md) — Distinction between an unintended outcome and the foreseeable choices and institutional tolerance preceding it.
 - [Broadcast Constraint-Reach Tradeoff](concepts/BroadcastConstraintReachTradeoff.md) — Exchange between gatekeeping and access to a large heterogeneous audience that may not already seek the work.
 - [LGBTQ+ Television Normalization](concepts/LGBTQTelevisionNormalization.md) — Repeated central representation that makes queer lives familiar while remaining compatible with omission and stereotype.

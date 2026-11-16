@@ -10267,6 +10267,10 @@
     "title": "Anders' Army",
     "url": "/wiki/entities/andersarmy/"
   },
+  "AndersEisner": {
+    "title": "Anders Eisner",
+    "url": "/wiki/entities/anderseisner/"
+  },
   "AndingCiXinBook": {
     "title": "《安定此心》",
     "url": "/wiki/entities/andingcixinbook/"
@@ -18862,6 +18866,10 @@
   "CategoryFocusBeforeExpansion": {
     "title": "Category Focus Before Expansion",
     "url": "/wiki/concepts/categoryfocusbeforeexpansion/"
+  },
+  "CategoryRevival": {
+    "title": "Category Revival",
+    "url": "/wiki/concepts/categoryrevival/"
   },
   "Caterpillar": {
     "title": "Caterpillar",
@@ -41379,6 +41387,10 @@
     "title": "Good Company Vs Good Stock",
     "url": "/wiki/concepts/goodcompanygoodstock/"
   },
+  "GoodCulture": {
+    "title": "Good Culture",
+    "url": "/wiki/entities/goodculture/"
+  },
   "GoodDeathPoliticalSurvival": {
     "title": "乱局善终 / Good Death Political Survival",
     "url": "/wiki/concepts/gooddeathpoliticalsurvival/"
@@ -51638,6 +51650,10 @@
   "JesseLivermore": {
     "title": "Jesse Livermore",
     "url": "/wiki/entities/jesselivermore/"
+  },
+  "JesseMerrill": {
+    "title": "Jesse Merrill",
+    "url": "/wiki/entities/jessemerrill/"
   },
   "JesseOwens": {
     "title": "Jesse Owens",
@@ -76470,6 +76486,10 @@
   "PreparedHighValueFoodFormats": {
     "title": "Prepared High-Value Food Formats / 高价值食材即食化",
     "url": "/wiki/concepts/preparedhighvaluefoodformats/"
+  },
+  "PreparedVirality": {
+    "title": "Prepared Virality",
+    "url": "/wiki/concepts/preparedvirality/"
   },
   "Preregistration": {
     "title": "Preregistration",
@@ -116998,6 +117018,10 @@
   "vmp4247798433-vmp4247798433": {
     "title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
     "url": "/wiki/sources/vmp4247798433-vmp4247798433/"
+  },
+  "vmp7035807570-vmp7035807570": {
+    "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
+    "url": "/wiki/sources/vmp7035807570-vmp7035807570/"
   },
   "vmp7917788157-vmp7917788157": {
     "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",

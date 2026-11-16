@@ -11,7 +11,8 @@ sources:
   - banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8
   - advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce
   - sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b
-last_updated: 2026-10-19
+  - vmp7035807570-vmp7035807570
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ knowledge_schema: synthesis-v1
 CPG manufacturing scale-up is the transition from a product a founder can make or supervise in small batches to a product that can be produced consistently, safely, economically, and at enough volume for customers and retailers.
 
 ## Current Synthesis
-Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows, refrigerated dough, and a durable-goods analogue, scale-up is a coupled system rather than a capacity purchase. Formulation, shelf life, equipment, operator knowledge, food safety, packaging, supplier depth, working capital, retail timing, and customer continuity have to mature together. Co-manufacturers are useful only where their actual process knowledge and minimum runs match the product and demand stage; owned capacity can improve control but raises financing and operating exposure; the largest line is not always the best learning environment for an unstable product; and retail commitments should not outrun repeatable production.
+Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows, refrigerated dough, cottage cheese, and a durable-goods analogue, scale-up is a coupled system rather than a capacity purchase. Formulation, shelf life, equipment, operator knowledge, food safety, packaging, supplier depth, working capital, retail timing, and customer continuity have to mature together. Co-manufacturers are useful only where their actual process knowledge and minimum runs match the product and demand stage; owned or dedicated capacity can improve control but raises financing and operating exposure; the largest line is not always the best learning environment for an unstable product; and both retail commitments and viral demand can outrun repeatable production.
 
 ## Key Claims
 - Product formulation and manufacturing method co-evolve; a home recipe cannot be assumed to survive commercial equipment unchanged.
@@ -30,7 +31,7 @@ Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows,
 - Demand can become dangerous when retail commitments or dependent customers arrive before replenishment and process reliability are secure.
 - Greater manufacturing control can protect safety, continuity, and differentiation, but it shifts capital, staffing, certification, and execution risk onto the brand.
 - Resilient scale requires use-state quality tests, documented process knowledge, qualified alternatives, and explicit limits on growth when supply cannot safely follow.
-- Grocery readiness may require simultaneous shelf-life, formulation, packaging, capacity, and retailer-acceptance work before demand can be tested fairly.
+- Grocery readiness may require simultaneous shelf-life, formulation, packaging, capacity, and retailer-acceptance work; viral or category-wide demand can then expose an industry capacity ceiling even after product-market fit is strong.
 
 ## Evidence
 ### Founder-made products becoming commercial processes
@@ -48,6 +49,10 @@ Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows,
 - [[advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce]] shows [[XOMarshmallow]] extending shelf life, changing ingredients, testing retailer-compatible sweeteners, raising capacity capital, and importing manufacturing lessons before broad grocery commitments.
 - [[sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b]] shows a specialized allergy-conscious test plant helping translate home starch-and-flour experiments into a commercial dough, while the full-line conversion couples formulation change to retailer demand and packaging.
 
+### Lab-to-line transfer and category capacity
+- [[vmp7035807570-vmp7035807570]] shows [[GoodCulture]] laboratory cottage cheese turning soupy on full-scale equipment, scarce partners lacking the required organic, clean-label, single-serve, or fruit capabilities, and later viral demand exceeding available dairy capacity.
+- [[vmp7035807570-vmp7035807570]] shows dedicated facilities and an experienced operating hire becoming necessary after demand had already been validated, separating market risk from capacity-ramp risk.
+
 ### Supplier resilience beyond food
 - [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] provides a durable-goods analogue: [[YETI]] needed digitized designs, molds, overseas and U.S. factories, documentation, and supplier redundancy after losing a key manufacturing partner.
 
@@ -58,11 +63,12 @@ Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows,
 - The cases are founder retrospectives across materially different categories, so their operating lessons should not be treated as one universal scale sequence.
 - XO Marshmallow's 18-month shelf-life target, profitability, facility capacity, and retail readiness are company-reported and not validated by sell-through or audited production data in the source.
 - Sweet Loren's manufacturing, ingredient-exclusion, and scale claims are founder-reported; the episode does not provide plant audits, certification records, or cross-contact testing.
+- Good Culture's reported demand gap, category capacity, dedicated-facility ramp, clean-label formulation, and revenue are founder-reported; the source does not provide plant data, supply contracts, utilization, quality audits, or audited demand forecasts.
 
 ## What Changed
-- Added Sweet Loren's as a stage-matched co-manufacturing and refrigerated-logistics case.
-- Made minimum runs and current demand part of manufacturing-partner fit.
-- Added whole-line reformulation as a coupled product, plant, retailer, and packaging transition.
+- Added Good Culture as a lab-to-line transfer and industry-capacity case.
+- Distinguished early manufacturing fit from later category-wide capacity ramp risk.
+- Added viral demand as a stress test that can outrun dedicated facilities even after strong product-market fit.
 
 ## Related Concepts
 - [[NovelFoodManufacturingTransferRisk]] - specific risk when unfamiliar ingredients move to faster industrial equipment.
@@ -73,3 +79,5 @@ Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows,
 - [[SupplierConcentrationCrisis]] - single-partner dependence can turn disruption into a survival threat.
 - [[FounderCashFlowConstraint]] - inventory, equipment, failed runs, and lead times consume cash before revenue is collected.
 - [[RetailChannelComplementarity]] - channel expansion can add demand only if production can reliably serve the new purchase occasion.
+- [[PreparedVirality]] - attention readiness still depends on production capacity that can fulfill accelerated demand.
+- [[CategoryRevival]] - renewed category demand can expose manufacturing infrastructure that was sized for decline.
