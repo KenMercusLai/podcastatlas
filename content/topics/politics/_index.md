@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3551
+topic_total_pages: 3552
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6611,6 +6611,9 @@ topic_entities:
   - key: "GeorgeOrwell"
     title: "George Orwell / 乔治·奥威尔"
     url: "/wiki/entities/georgeorwell/"
+  - key: "GeorgeSantos"
+    title: "George Santos"
+    url: "/wiki/entities/georgesantos/"
   - key: "GeorgeWBush"
     title: "George W. Bush"
     url: "/wiki/entities/georgewbush/"

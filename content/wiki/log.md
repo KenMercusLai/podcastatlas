@@ -41084,3 +41084,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Pushkin Prize for Egregiously Deceptive Self-Promotion
+
+Added the [[RevisionistHistory]] episode auditing [[ColumbiaUniversity]]'s disputed submissions to [[USNewsAndWorldReport|U.S. News and World Report]]. Created focused profiles for [[MichaelThaddeus]], [[LaurenLavelle]], [[GeorgeSantos]], and [[MoshePorat]], created [[InstitutionalRankingDataIntegrity]], extended [[CheatingEscalationRationalization]], and migrated the bounded U.S. News and [[TempleUniversity]] pages to synthesis-v1.
+
+Core synthesis: consequential ranking inputs need to reconcile with course, regulatory, personnel, and audited financial records, while category definitions and inclusion rules must remain explicit. The episode's cross-record discrepancies and modeled score effects strengthen the case for incentive and verification failure but do not identify who prepared or approved Columbia's figures or prove coordinated intent. Temple supplies a distinct adjudicated comparison in which external investigation, compensation, and referral to authorities make post-discovery accountability visible.
+
+No settled contradiction was adopted. Class-size, staffing, qualification, ratio, spending, algorithm, score-effect, tuition, investigation, correction, and resignation claims remain episode-scoped because the supplied file is a structured summary rather than the underlying datasets, methodology, financial statements, legal record, or institutional reviews. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[ColumbiaUniversity]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,091 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

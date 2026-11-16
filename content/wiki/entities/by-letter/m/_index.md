@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14469
+wiki_total_pages: 14473
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "MichaelSnyder"
     title: "Michael Snyder"
     url: "/wiki/entities/michaelsnyder/"
+  - key: "MichaelThaddeus"
+    title: "Michael Thaddeus"
+    url: "/wiki/entities/michaelthaddeus/"
   - key: "MichaelTracey"
     title: "Michael Tracey"
     url: "/wiki/entities/michaeltracey/"
@@ -1871,6 +1874,9 @@ wiki_pages:
   - key: "MoscowUprising1682"
     title: "Moscow Uprising of 1682 / 1682年莫斯科起义"
     url: "/wiki/entities/moscowuprising1682/"
+  - key: "MoshePorat"
+    title: "Moshe Porat"
+    url: "/wiki/entities/mosheporat/"
   - key: "MOSS"
     title: "MOSS"
     url: "/wiki/entities/moss/"

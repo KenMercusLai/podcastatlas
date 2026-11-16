@@ -5213,6 +5213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unlocking Hidden Potential with Adam Grant](sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant.md) — Revisionist History live conversation on developmental potential, hidden practice, perfectionist undertraining, prestige, admissions, and values-based choice.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 - [Feeling A Bit Attacked with Maria Konnikova](sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova.md) — Revisionist History conversation on competitive debate, precise profanity, cheating escalation, ranking incentives, and ambiguous administrative staffing.
+- [The Pushkin Prize for Egregiously Deceptive Self-Promotion](sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion.md) — Revisionist History audit of Columbia's disputed ranking inputs, their modeled score effects, and the institution's response after exposure.
 
 ## Entities
 - [Matt Scogin](entities/MattScogin.md) — Hope College president who designed Hope Forward as a tuition-free covenant funded through later voluntary giving.
@@ -15219,7 +15220,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [National Football League](entities/NationalFootballLeague.md) — U.S. football league analyzed by Acquired as a league-first media system and used elsewhere as a comparison for salary caps, free agency, and sports-rights inflation.
 - [Los Angeles Dodgers](entities/LosAngelesDodgers.md) — High-payroll MLB team used in the episode's competitive-balance and salary-cap debate.
 - [Laura McGrath](entities/LauraMcGrath.md) — Temple University professor explaining bestseller history, New York Times list opacity, and ranking-game incentives.
-- [Temple University](entities/TempleUniversity.md) — Laura McGrath's academic affiliation in the Planet Money bestseller-list episode.
+- [Temple University](entities/TempleUniversity.md) — University appearing through bestseller-list research and an adjudicated business-school ranking fraud and remediation case.
 - [Patrick Healy](entities/PatrickHealy.md) — New York Times voice defending the bestseller-list methodology as data-based and anti-gaming oriented.
 - [Rachel Salzman](entities/RachelSalzman.md) — W. W. Norton publicity director coordinating Planet Money book pre-orders, media, and live-event launch strategy.
 - [Gene Shepard](entities/GeneShepard.md) — Radio personality whose I, Libertine prank illustrates perceived-demand feedback in bestseller culture.
@@ -17292,7 +17293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Coppenheifer](entities/MichaelCoppenheifer.md) — Marketplace Tech speaker connecting student AI use for campus vibe and offer comparison to colleges' need to monitor AI descriptions.
 - [Nick Swisher](entities/NickSwisher.md) — Indiana Wesleyan University speaker explaining AI-era higher-education marketing and conversational FAQ strategy.
 - [Indiana Wesleyan University](entities/IndianaWesleyanUniversity.md) — Higher-education case spending on AI discoverability and adding FAQ content for prospective student questions.
-- [U.S. News and World Report](entities/USNewsAndWorldReport.md) — Ranking reference used in the college-search episode to show how AI can reinforce familiar school lists.
+- [U.S. News and World Report](entities/USNewsAndWorldReport.md) — College-ranking institution shaping AI-visible school discovery and relying on consequential institution-submitted data.
 - [Instagram](entities/Instagram.md) — Meta social platform tied to youth-safety litigation, college-search vibe signals, and Muse Image public-likeness generation.
 - [Ray Smith](entities/RaySmith.md) — Wall Street Journal workplace reporter interviewed by Marketplace Tech about AI job interviews, candidate experience, automated assessments, and human-in-the-loop hiring.
 - [Ray Dalio](entities/RayDalio.md) — Investor linking all-weather allocation and gold diversification to a five-force framework for debt, political division, geopolitics, technology, and natural shocks.
@@ -19777,6 +19778,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chesley Sullenberger](entities/ChesleySullenberger.md) — Airline captain whose Hudson River emergency distinguishes vocal reassurance from demonstrated crisis judgment.
 - [Jennifer Pardo](entities/JenniferPardo.md) — Speech psychologist explaining phonetic convergence while qualifying claims that pilots uniformly sound alike.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
+- [Michael Thaddeus](entities/MichaelThaddeus.md) — Columbia mathematics professor whose cross-record audit challenged the university's U.S. News ranking submissions.
+- [Lauren Lavelle](entities/LaurenLavelle.md) — Data scientist who modeled the score effects of Columbia's disputed ranking inputs.
+- [George Santos](entities/GeorgeSantos.md) — Satirical namesake used to define the episode's standard for gratuitous deceptive self-promotion.
+- [Moshe Porat](entities/MoshePorat.md) — Former Temple business-school dean in the episode's adjudicated ranking-fraud comparison case.
 
 ## Concepts
 - [Debt-Constrained Education and Career Choice](concepts/DebtConstrainedEducationAndCareerChoice.md) — How tuition and repayment pressure can narrow fields of study and post-graduation work.
@@ -31351,6 +31356,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Communication Accommodation](concepts/CommunicationAccommodation.md) — Conscious or automatic speech adjustment toward an in-group or away from an out-group.
 - [Competitive Debate–Listening Tradeoff](concepts/CompetitiveDebateListeningTradeoff.md) — Tension between debate's gains in voice and attentive response and a contest format rewarding formula, emotional control, and rapid fluency.
 - [Contextual Profanity Precision](concepts/ContextualProfanityPrecision.md) — Standard judging taboo language by expressive purpose, contextual fit, and deliberate choice rather than categorical approval or prohibition.
-- [Cheating Escalation and Rationalization](concepts/CheatingEscalationRationalization.md) — Process by which weakly checked violations grow while competitive excuses preserve a legitimate self-image.
+- [Cheating Escalation and Rationalization](concepts/CheatingEscalationRationalization.md) — Process by which weakly checked violations grow while competitive excuses preserve a legitimate self-image, now grounded by detailed ranking-input discrepancies.
+- [Institutional Ranking Data Integrity](concepts/InstitutionalRankingDataIntegrity.md) — Requirement that consequential ranking inputs remain traceable to records, definitions, inclusion rules, and accountable corrections.
 
 ## Syntheses

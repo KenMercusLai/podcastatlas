@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14469
+wiki_total_pages: 14473
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "LaurenColensoSemple"
     title: "Lauren Colenso-Semple"
     url: "/wiki/entities/laurencolensosemple/"
+  - key: "LaurenLavelle"
+    title: "Lauren Lavelle"
+    url: "/wiki/entities/laurenlavelle/"
   - key: "LaurenLoricchio"
     title: "Lauren Loricchio"
     url: "/wiki/entities/laurenloricchio/"

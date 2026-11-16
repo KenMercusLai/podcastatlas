@@ -50440,9 +50440,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "CheatingEscalationRationalization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Feeling_A_Bit_Attacked_with_Maria_Konnikova [Feeling_A_Bit_Attacked_with_Maria_Konnikova].md",
@@ -50450,6 +50450,13 @@
           "show": "Revisionist History",
           "title": "Feeling A Bit Attacked with Maria Konnikova",
           "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
         }
       ],
       "updated": "2026-11-16",
@@ -124817,6 +124824,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/georgesalomon/"
     },
+    "GeorgeSantos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/georgesantos/"
+    },
     "GeorgeShiras": {
       "episode_count": 1,
       "show_count": 1,
@@ -158169,6 +158192,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/institutionalpolicypluralism/"
     },
+    "InstitutionalRankingDataIntegrity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/institutionalrankingdataintegrity/"
+    },
     "InstitutionalReconstructionFromPrecedent": {
       "episode_count": 2,
       "show_count": 1,
@@ -180274,6 +180313,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/laurencolensosemple/"
+    },
+    "LaurenLavelle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/laurenlavelle/"
     },
     "LaurentNunez": {
       "episode_count": 1,
@@ -212757,6 +212812,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/michaelsnyder/"
     },
+    "MichaelThaddeus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/michaelthaddeus/"
+    },
     "MichaelTracey": {
       "episode_count": 1,
       "show_count": 1,
@@ -218501,6 +218572,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/moscowuprising1682/"
+    },
+    "MoshePorat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mosheporat/"
     },
     "MosquitoBitePrevention": {
       "episode_count": 1,
@@ -306525,6 +306612,29 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/temperatureminimumclockshifting/"
     },
+    "TempleUniversity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f14ed98e2c3081ca2cb07c336de9a889_47774897 [default.mp3_ywr3ahjkcgo_f14ed98e2c3081ca2cb07c336de9a889_47774897].md",
+          "key": "how-to-make-a-book-into-a-bestseller",
+          "show": "Planet Money",
+          "title": "How to make a BOOK into a bestseller",
+          "url": "/wiki/sources/how-to-make-a-book-into-a-bestseller/"
+        },
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/templeuniversity/"
+    },
     "TemporallyGatedNeuroplasticity": {
       "episode_count": 1,
       "show_count": 1,
@@ -318485,6 +318595,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+    },
+    "USNewsAndWorldReport": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260225_0225_MP_TECH_pod_128 [tech_20260225_0225_MP_TECH_pod_128].md",
+          "key": "tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI Meets the Search for a BA",
+          "url": "/wiki/sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion [The_Pushkin_Prize_for_Egregiously_Deceptive_Self-Promotion].md",
+          "key": "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion",
+          "show": "Revisionist History",
+          "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
+          "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/usnewsandworldreport/"
     },
     "USVKhoury": {
       "episode_count": 2,
