@@ -41254,3 +41254,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part One
+
+Added the Cadillac-sponsored [[RevisionistHistory]] experience test in which [[MalcolmGladwell]] introduces the all-electric [[CadillacLyriq|Cadillac LYRIQ]] through a child's first reaction, street attention, his own drive, and a blindfolded cabin test with a long-term EV owner. Resynthesized [[Cadillac]], the [[CadillacLyriq|LYRIQ]], [[MelissaGrady]], and [[BrandHeritageElectrification]] from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: Part One adds the sensory side of heritage-led electrification. Exterior form, immediate acceleration, quietness, a pedestrian sound described as derived from solar recordings, a 33-inch display, and tactile materials can differentiate an EV before Part Two's explicit old-versus-new comparison makes those cues legible as Cadillac continuity. Required safety and digital features can support a luxury promise when they are designed and narrated as a coherent experience.
+
+No settled contradiction was adopted. The “appliance” comparison remains rhetorical because the rival EV is unnamed, the reactions and blindfolded test are informal, and Cadillac sponsored the episode. Price, range, charging, efficiency, reliability, handling limits, safety comparisons, and long-term ownership remain outside the source's scope. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[GeneralMotors]], automatic `wiki/overview.md`, and adjacent multi-source EV pages were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,103 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
