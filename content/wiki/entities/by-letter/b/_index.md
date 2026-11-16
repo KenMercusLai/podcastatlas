@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14391
+wiki_total_pages: 14394
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "BubAgent"
     title: "Bub"
     url: "/wiki/entities/bubagent/"
+  - key: "BubblesFilm"
+    title: "Bubbles (Isaac Adamson screenplay)"
+    url: "/wiki/entities/bubblesfilm/"
   - key: "BubblesAndCrashes"
     title: "Bubbles and Crashes"
     url: "/wiki/entities/bubblesandcrashes/"

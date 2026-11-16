@@ -40700,3 +40700,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Bubbles with Isaac Adamson | Development Hell
+
+Added a [[RevisionistHistory]] episode in which [[IsaacAdamson]] reconstructs [[BubblesFilm|Bubbles]], his unproduced stop-motion screenplay about [[MichaelJackson]] narrated by [[BubblesChimpanzee|Bubbles the chimpanzee]].
+
+Core synthesis: the imagined Bubbles's royal hierarchy, pseudo-Shakespearean dignity, jealousy, and loyalty make him a comic-tragic unreliable narrator whose mistaken interpretations expose meanings the audience can see before he does. After *Leaving Neverland*, revisions moved him toward explicit recognition and rejection of alleged abuse, increasing moral clarity while weakening some of the original tragic blindness. The same cultural change made the story more artistically consequential and more difficult for directors, marketers, financiers, and Netflix to carry into public life. No settled contradiction is adopted. The real chimpanzee's biography remains separate from the screenplay's invented voice, while allegations, reported events, motives, legal review, production chronology, withdrawal and cancellation causes, and counterfactual reception remain source-scoped because the supplied file is a structured episode summary rather than a transcript, screenplay, documentary, legal file, or production archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,061 sources across 810 overview paragraphs and nine topics.

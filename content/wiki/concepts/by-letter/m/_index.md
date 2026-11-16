@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11418
+wiki_total_pages: 11419
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1571,6 +1571,9 @@ wiki_pages:
   - key: "MoralBeautyAwe"
     title: "Moral Beauty Awe"
     url: "/wiki/concepts/moralbeautyawe/"
+  - key: "MoralBlindnessUnreliableNarration"
+    title: "Moral Blindness Through Unreliable Narration"
+    url: "/wiki/concepts/moralblindnessunreliablenarration/"
   - key: "MoralCostOfEffectiveRescue"
     title: "Moral Cost of Effective Rescue / 成事的道德代价"
     url: "/wiki/concepts/moralcostofeffectiverescue/"

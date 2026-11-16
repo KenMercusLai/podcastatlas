@@ -40009,9 +40009,9 @@
       "url": "/wiki/entities/bubagent/"
     },
     "BubblesChimpanzee": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5532014348 [GLT5532014348].md",
@@ -40019,10 +40019,33 @@
           "show": "The Rest Is History",
           "title": "426. History's Greatest Monkeys",
           "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        },
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/bubbleschimpanzee/"
+    },
+    "BubblesFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/bubblesfilm/"
     },
     "Bucephalus": {
       "episode_count": 3,
@@ -160911,6 +160934,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/isariveralive/"
     },
+    "IsaacAdamson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/isaacadamson/"
+    },
     "IsaacAsimov": {
       "episode_count": 3,
       "show_count": 3,
@@ -210873,6 +210912,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/entities/michaelheltzen/"
     },
+    "MichaelJackson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/michaeljackson/"
+    },
     "MichaelKilgard": {
       "episode_count": 1,
       "show_count": 1,
@@ -216192,6 +216247,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/moralbeautyawe/"
+    },
+    "MoralBlindnessUnreliableNarration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/moralblindnessunreliablenarration/"
     },
     "MoralDesertPoliticalOutcomeGap": {
       "episode_count": 3,
@@ -263122,9 +263193,9 @@
       "url": "/wiki/concepts/replicationcrisis/"
     },
     "RepresentationalRiskInFilmDevelopment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Birthday_Party_with_Charles_Randolph_Development_Hell [The_Birthday_Party_with_Charles_Randolph_Development_Hell].md",
@@ -263132,6 +263203,13 @@
           "show": "Revisionist History",
           "title": "The Birthday Party with Charles Randolph | Development Hell",
           "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        },
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
         }
       ],
       "updated": "2026-11-16",
@@ -317978,9 +318056,9 @@
       "url": "/wiki/concepts/unlearningexamexpression/"
     },
     "UnrealizedCreativeWorkValue": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
@@ -318002,6 +318080,13 @@
           "show": "Revisionist History",
           "title": "The Birthday Party with Charles Randolph | Development Hell",
           "url": "/wiki/sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell/"
+        },
+        {
+          "episode_file": "Bubbles_with_Isaac_Adamson_Development_Hell [Bubbles_with_Isaac_Adamson_Development_Hell].md",
+          "key": "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell",
+          "show": "Revisionist History",
+          "title": "Bubbles with Isaac Adamson | Development Hell",
+          "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
         }
       ],
       "updated": "2026-11-16",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14391
+wiki_total_pages: 14394
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "IsARiverAlive"
     title: "Is a River Alive? / 《活水》"
     url: "/wiki/entities/isariveralive/"
+  - key: "IsaacAdamson"
+    title: "Isaac Adamson"
+    url: "/wiki/entities/isaacadamson/"
   - key: "IsaacAsimov"
     title: "Isaac Asimov / 艾萨克·阿西莫夫"
     url: "/wiki/entities/isaacasimov/"

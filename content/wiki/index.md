@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bubbles with Isaac Adamson | Development Hell](sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell.md) — Isaac Adamson uses an unproduced stop-motion screenplay to examine unreliable narration, loyalty, alleged abuse, cultural reevaluation, and film-development risk.
 - [The Birthday Party with Charles Randolph | Development Hell](sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell.md) — Charles Randolph uses an unproduced kidnapping adaptation to examine invented internal conflict, moral reframing, cross-cultural authorship, and representational development risk.
 - [I Am Superman with Patty Jenkins | Development Hell](sources/i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell.md) — Patty Jenkins uses an unproduced prison-dog fairy tale to examine second chances, authentic animal performance, original creative authority, sexism, grief, and precedent-locked financing.
 - [Labor of Love with M. Night Shyamalan | Development Hell](sources/labor-of-love-with-m-night-shyamalan-development-hell-labor-of-love-with-m-night-shyamalan-development-hell.md) — M. Night Shyamalan uses his unproduced 1994 screenplay to examine marriage, genre, vulnerability, career timing, public acceptance, and the value and cost of an unrealized ideal.
@@ -5184,6 +5185,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Isaac Adamson](entities/IsaacAdamson.md) — Screenwriter whose Bubbles project joins comic animal perspective to tragedy, moral blindness, revision, and development risk.
+- [Bubbles (Isaac Adamson screenplay)](entities/BubblesFilm.md) — Unproduced stop-motion screenplay using a chimpanzee's royal worldview to reinterpret Michael Jackson, loyalty, and denial.
+- [Michael Jackson](entities/MichaelJackson.md) — Musician represented narrowly as Bubbles's former companion and the morally disputed subject of Adamson's unproduced screenplay.
 - [Charles Randolph](entities/CharlesRandolph.md) — Screenwriter using invented internal conflict and collaborative correction to pursue morally complex adaptation across social boundaries.
 - [The Birthday Party (Charles Randolph screenplay)](entities/BirthdayPartyFilm.md) — Unproduced kidnapping adaptation structured around mutual misrecognition, justice, empathy, and racial representation risk.
 - [Miloš Forman](entities/MilosForman.md) — Director whose censorship experience and willingness to assume artistic risk gave the screenplay its strongest reported production path.
@@ -8063,7 +8067,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Leah Crum](entities/LeahCrum.md) — Mindset researcher connecting informational framing with food-, satiety-, activity-, and health-related outcomes.
 - [Jenny the Orangutan](entities/JennyOrangutan.md) — London Zoo orangutan whose behavior became a notable human-animal continuity case for Charles Darwin.
 - [Jaco Macaco](entities/JacoMacaco.md) — Regency London fighting primate whose disputed biography entered parliamentary animal-welfare debate.
-- [Bubbles the Chimpanzee](entities/BubblesChimpanzee.md) — Celebrity chimpanzee whose path from infant pet to sanctuary exposes the limits of humanized private ownership.
+- [Bubbles the Chimpanzee](entities/BubblesChimpanzee.md) — Celebrity chimpanzee whose path from infant pet to sanctuary and fictional narrator exposes the limits of humanized ownership and interpretation.
 - [Cal Newport](entities/CalNewport.md) — computer science professor and author connecting attention design, deep work, digital minimalism, and sustainable knowledge-work systems.
 - [John Jacob Astor IV](entities/JohnJacobAstor.md) — Gilded Age millionaire connecting Titanic's first class to New York wealth and luxury hospitality.
 - [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, and early interpreter of American succession whose journalism turned attention into policy pressure.
@@ -19669,13 +19673,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Moral Blindness Through Unreliable Narration](concepts/MoralBlindnessUnreliableNarration.md) — Narrative method in which loyalty and limited interpretation hide meanings that become increasingly visible to the audience.
 - [Adaptation-Invented Internal Conflict](concepts/AdaptationInventedInternalConflict.md) — Creation of scenes or choices absent from a source so adapted characters confront internal contradiction as well as external pressure.
 - [Collaborative Cross-Cultural Authorship](concepts/CollaborativeCrossCulturalAuthorship.md) — Portrayal across social boundaries through research, consultation, performance, revision, and meaningful corrective authority.
-- [Representational Risk in Film Development](concepts/RepresentationalRiskInFilmDevelopment.md) — Creative and institutional risk that a project may reproduce harm or provoke criticism severe enough to alter production decisions.
+- [Representational Risk in Film Development](concepts/RepresentationalRiskInFilmDevelopment.md) — Creative and institutional risk arising from harmful representation, anticipated criticism, or cultural reevaluation during development.
 - [Second-Chance Recognition Failure](concepts/SecondChanceRecognitionFailure.md) — Failure of institutions to revise inherited labels when a person or animal may have changed or shown capacity for change.
 - [Precedent-Locked Creative Financing](concepts/PrecedentLockedCreativeFinancing.md) — Backward-looking selection pattern that rewards familiar categories while withholding trust from unfamiliar original work.
 - [Genre as Emotional Protection](concepts/GenreAsEmotionalProtection.md) — Use of genre distance and audience contract to make intense sentiment more approachable without replacing belief or craft.
-- [Unrealized Creative Work Value](concepts/UnrealizedCreativeWorkValue.md) — Value an uncompleted project creates through artifacts, collaboration, learning, memory, recognition, and preserved possibility.
+- [Unrealized Creative Work Value](concepts/UnrealizedCreativeWorkValue.md) — Value an uncompleted project creates through artifacts, collaboration, memory, preserved possibility, and unresolved cultural argument.
 - [Formulaic Production and Artistic Confinement](concepts/FormulaicProductionArtisticConfinement.md) — Tension between repeatable commercial templates and an artist's control, range, or identification with the work.
 - [Curious Confidence](concepts/CuriousConfidence.md) — Humility about one's knowledge joined to enough self-security to admit ignorance and ask questions.
 - [Plural Identity Self-Prioritization](concepts/PluralIdentitySelfPrioritization.md) — Agency to rank and revise the importance of multiple identities while recognizing social constraint.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3720
+topic_total_pages: 3723
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4577,6 +4577,9 @@ topic_entities:
   - key: "BrownVBoardOfEducation"
     title: "Brown v. Board of Education"
     url: "/wiki/entities/brownvboardofeducation/"
+  - key: "BubblesFilm"
+    title: "Bubbles (Isaac Adamson screenplay)"
+    url: "/wiki/entities/bubblesfilm/"
   - key: "BubblesAndCrashes"
     title: "Bubbles and Crashes"
     url: "/wiki/entities/bubblesandcrashes/"
@@ -5369,6 +5372,9 @@ topic_entities:
   - key: "IsARiverAlive"
     title: "Is a River Alive? / 《活水》"
     url: "/wiki/entities/isariveralive/"
+  - key: "IsaacAdamson"
+    title: "Isaac Adamson"
+    url: "/wiki/entities/isaacadamson/"
   - key: "IsaoTakahata"
     title: "Isao Takahata / 高畑勋"
     url: "/wiki/entities/isaotakahata/"
@@ -10413,6 +10419,9 @@ topic_sources:
   - key: "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf"
     title: "Bots on the ground: China leads humanoid race"
     url: "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+  - key: "bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell"
+    title: "Bubbles with Isaac Adamson | Development Hell"
+    url: "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
   - key: "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811"
     title: "Bye bye Bibi? Israel’s election results"
     url: "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
