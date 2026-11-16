@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14453
+wiki_total_pages: 14457
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "DoctorFaustusMarlowe"
     title: "Doctor Faustus / 《浮士德博士的悲剧》 (Marlowe)"
     url: "/wiki/entities/doctorfaustusmarlowe/"
+  - key: "DodgeCity"
+    title: "Dodge City"
+    url: "/wiki/entities/dodgecity/"
   - key: "Dolby"
     title: "Dolby"
     url: "/wiki/entities/dolby/"

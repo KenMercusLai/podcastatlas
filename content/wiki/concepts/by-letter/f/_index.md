@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11451
+wiki_total_pages: 11454
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "FictionalFactionalInferenceBoundary"
     title: "Fictional Factional Inference Boundary / 虚构派系解读边界"
     url: "/wiki/concepts/fictionalfactionalinferenceboundary/"
+  - key: "FictionalFrontierSelfDefenseMyth"
+    title: "Fictional Frontier Self-Defense Myth"
+    url: "/wiki/concepts/fictionalfrontierselfdefensemyth/"
   - key: "FictionalHistoriography"
     title: "Fictional Historiography"
     url: "/wiki/concepts/fictionalhistoriography/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "FrontierDefensivePatience"
     title: "Frontier Defensive Patience / 边境防御耐心"
     url: "/wiki/concepts/frontierdefensivepatience/"
+  - key: "FrontierGunRegulation"
+    title: "Frontier Gun Regulation"
+    url: "/wiki/concepts/frontiergunregulation/"
   - key: "FrontierModelAccessRestrictions"
     title: "Frontier Model Access Restrictions"
     url: "/wiki/concepts/frontiermodelaccessrestrictions/"

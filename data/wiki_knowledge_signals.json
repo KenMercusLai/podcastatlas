@@ -23395,6 +23395,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/armedforcesmovementportugal/"
     },
+    "ArmedPublicCarryCollectiveRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/armedpubliccarrycollectiverisk/"
+    },
     "ArmyAbolitionDemocraticSafeguard": {
       "episode_count": 1,
       "show_count": 1,
@@ -30499,6 +30515,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/barbarastuckey/"
+    },
+    "BarbaraUnderwood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/barbaraunderwood/"
     },
     "BarbecueChainScalability": {
       "episode_count": 1,
@@ -83388,6 +83420,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/documentaryethicalrestraint/"
     },
+    "DodgeCity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/dodgecity/"
+    },
     "DogBloodCase": {
       "episode_count": 3,
       "show_count": 1,
@@ -110223,6 +110271,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/fictionalfactionalinferenceboundary/"
     },
+    "FictionalFrontierSelfDefenseMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/fictionalfrontierselfdefensemyth/"
+    },
     "FictionalRelationshipCompatibilityReading": {
       "episode_count": 7,
       "show_count": 1,
@@ -117710,6 +117774,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/frontierdefensivepatience/"
+    },
+    "FrontierGunRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/frontiergunregulation/"
     },
     "FrontierModelCommercialHalfLife": {
       "episode_count": 1,
@@ -131619,6 +131699,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/gunpowderplot/"
+    },
+    "Gunsmoke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/gunsmoke/"
     },
     "GunterGrass": {
       "episode_count": 1,
@@ -219160,9 +219256,9 @@
       "url": "/wiki/concepts/multievidencedisasterreconstruction/"
     },
     "MultiInterventionGunViolencePrevention": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -219191,6 +219287,13 @@
           "show": "Revisionist History",
           "title": "Guns Part 3: A Shooting Lesson",
           "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
+        },
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
         }
       ],
       "updated": "2026-11-16",
@@ -275124,6 +275227,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/samsonrowley/"
+    },
+    "SamuelAlito": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/samuelalito/"
     },
     "SamuelJohnson": {
       "episode_count": 5,

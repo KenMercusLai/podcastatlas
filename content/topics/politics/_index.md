@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3549
+topic_total_pages: 3551
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5972,6 +5972,9 @@ topic_entities:
   - key: "BarbaraCarvalho"
     title: "Barbara Carvalho"
     url: "/wiki/entities/barbaracarvalho/"
+  - key: "BarbaraUnderwood"
+    title: "Barbara Underwood"
+    url: "/wiki/entities/barbaraunderwood/"
   - key: "BarronTrump"
     title: "Barron Trump"
     url: "/wiki/entities/barrontrump/"
@@ -8009,6 +8012,9 @@ topic_entities:
   - key: "SamBeale"
     title: "Sam Beale"
     url: "/wiki/entities/sambeale/"
+  - key: "SamuelAlito"
+    title: "Samuel Alito"
+    url: "/wiki/entities/samuelalito/"
   - key: "SamuelJohnson"
     title: "Samuel Johnson"
     url: "/wiki/entities/samueljohnson/"

@@ -7,6 +7,7 @@ sources:
   - guns-part-6-sin-is-the-failure-to-bother-to-care
   - guns-part-5-the-footnote
   - guns-part-3-a-shooting-lesson
+  - guns-part-2-getting-out-of-dodge
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -23,16 +24,16 @@ Gladwell's episode-level proposal combines elements of Canadian gun rules, expan
 
 Pratt's account adds trauma-informed retaliation prevention, community gunshot first aid, and credible sources of dignity and belonging. “The Footnote” deepens the downstream branch by separating assault incidence from survival and showing how ambulance response, trauma-center geography, specialist readiness, and hospital financing can affect both deaths and homicide classifications. These additions distinguish upstream prevention from downstream survival: law may change access and conditions, trusted intervention may interrupt a conflict, and first aid or trauma care may reduce death after injury.
 
-The assault-weapon episode adds a regulatory-design boundary. It argues that a feature-defined rifle ban can leave functionally similar weapons available and cites a selected mass-shooting sample in which handgun victims were more likely to die. Its recommendation for common rules across rifles and handguns broadens the regulatory layer without proving that category-specific rules are useless. The portfolio frame still requires each measure to name its target mechanism, population, evidence, implementation conditions, and possible interaction with other measures. The sources endorse breadth without ranking interventions or specifying a shared evaluation plan.
+The assault-weapon episode adds a regulatory-design boundary. It argues that a feature-defined rifle ban can leave functionally similar weapons available and cites a selected mass-shooting sample in which handgun victims were more likely to die. Its recommendation for common rules across rifles and handguns broadens the regulatory layer without proving that category-specific rules are useless. “Getting out of Dodge” adds policing, carry restrictions, and enforcement while distinguishing one person's intended self-defense from multi-carrier interaction risk in crowded places. The portfolio frame still requires each measure to name its target mechanism, population, evidence, implementation conditions, and possible interaction with other measures. The sources endorse breadth without ranking interventions or specifying a shared evaluation plan.
 
 ## Key Claims
 
-- Gun violence is not one homogeneous problem with one causal pathway.
-- Broad and category-specific weapon rules, trauma survival, injury reporting, and frontline prevention address different stages of harm and remain separately testable.
+- Gun violence is not one homogeneous problem: broad and category-specific weapon rules, trauma survival, injury reporting, and frontline prevention address different stages of harm and remain separately testable.
 - Measures can be complementary even when none is sufficient alone.
 - Illegal-firearm use and interpersonal conflict can limit the reach of some proposed laws without making law irrelevant.
 - Trauma, status, retaliation, bystander response, and trauma-center access require different intervention points.
 - Trauma-system reform includes financing, placement, transport, and treatment rather than simply adding clinical technique.
+- Public-carry policy must evaluate collective interaction, enforcement, and police response rather than only one carrier's intended defensive use.
 - A portfolio still requires prioritization, measurement, coordination, and distributional safeguards.
 
 ## Evidence
@@ -54,14 +55,16 @@ The assault-weapon episode adds a regulatory-design boundary. It argues that a f
 ### Regulatory coverage
 
 - [[guns-part-3-a-shooting-lesson]] argues that feature lists, exemptions, rapid reloading, and weapon substitution can limit a narrow ban's coverage while leaving open the empirical effect of particular rules.
+- [[guns-part-2-getting-out-of-dodge]] adds historically grounded carry restrictions and contrasts an individual commuter hypothetical with mistakes, crossfire, escalation, and police-identification risk among multiple armed people.
 
 ## Counterevidence & Qualifications
 
-The sources do not identify the full intervention set, rank expected impact, specify costs or governance, define Canadian provisions or proposed common firearm rules, or provide a shared evaluation framework. A broad portfolio can diffuse accountability or preserve ineffective programs unless measures are tested and retired. Incomplete category coverage, fast reloading, and illegal-firearm use do not establish that acquisition, trafficking, possession, storage, magazine, feature, or market rules have no effect. First aid and trauma care after a shooting cannot substitute for preventing violence, while the Alabama comparison, Chicago estimates, and selected 23-shooting autopsy sample do not establish the effect size of specific reforms.
+The sources do not identify the full intervention set, rank expected impact, specify costs or governance, define Canadian provisions or proposed common firearm rules, or provide a shared evaluation framework. A broad portfolio can diffuse accountability or preserve ineffective programs unless measures are tested and retired. Incomplete category coverage, fast reloading, and illegal-firearm use do not establish that acquisition, trafficking, possession, storage, magazine, feature, carry, or market rules have no effect. First aid and trauma care after a shooting cannot substitute for preventing violence, while the Alabama comparison, Chicago estimates, selected 23-shooting autopsy sample, and *Bruen* hypotheticals do not establish the effect size of specific reforms. Historical existence also does not by itself prove modern effectiveness or constitutional validity.
 
 ## What Changed
 
 - Added a category-neutral regulatory floor while preserving the need to evaluate narrower firearm rules independently.
+- Added policing, public-carry interaction risk, and enforcement as distinct portfolio mechanisms.
 
 ## Related Concepts
 
@@ -74,3 +77,5 @@ The sources do not identify the full intervention set, rank expected impact, spe
 - [[PlaceBasedViolencePrevention]] - environmental intervention suited to place-level risk.
 - [[CommunityGunshotFirstAid]] - downstream pre-arrival survival layer within the portfolio.
 - [[IndifferenceAsMoralFailure]] - moral frame for taking responsibility across several intervention layers.
+- [[ArmedPublicCarryCollectiveRisk]] - system-level mechanism addressed by carry policy and police-response design.
+- [[FrontierGunRegulation]] - historical evidence that formal restrictions and enforcement were part of public-order systems.

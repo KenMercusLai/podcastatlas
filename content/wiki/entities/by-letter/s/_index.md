@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14453
+wiki_total_pages: 14457
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "Samsung"
     title: "Samsung"
     url: "/wiki/entities/samsung/"
+  - key: "SamuelAlito"
+    title: "Samuel Alito"
+    url: "/wiki/entities/samuelalito/"
   - key: "SamuelBeckett"
     title: "Samuel Beckett"
     url: "/wiki/entities/samuelbeckett/"

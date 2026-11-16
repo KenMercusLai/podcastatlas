@@ -11707,6 +11707,10 @@
     "title": "Armed Protest-Zone Security",
     "url": "/wiki/concepts/armedprotestzonesecurity/"
   },
+  "ArmedPublicCarryCollectiveRisk": {
+    "title": "Armed Public-Carry Collective Risk",
+    "url": "/wiki/concepts/armedpubliccarrycollectiverisk/"
+  },
   "ArmoredCombat": {
     "title": "Armored Combat / 盔甲格斗",
     "url": "/wiki/concepts/armoredcombat/"
@@ -13694,6 +13698,10 @@
   "BarbaraStuckey": {
     "title": "Barbara Stuckey",
     "url": "/wiki/entities/barbarastuckey/"
+  },
+  "BarbaraUnderwood": {
+    "title": "Barbara Underwood",
+    "url": "/wiki/entities/barbaraunderwood/"
   },
   "BarbecueChainScalability": {
     "title": "Barbecue Chain Scalability / 烧烤连锁规模化",
@@ -29555,6 +29563,10 @@
     "title": "Documentary Ethical Restraint / 纪录片伦理克制",
     "url": "/wiki/concepts/documentaryethicalrestraint/"
   },
+  "DodgeCity": {
+    "title": "Dodge City",
+    "url": "/wiki/entities/dodgecity/"
+  },
   "DogBloodCase": {
     "title": "Dog-Blood Case / 狗血案",
     "url": "/wiki/concepts/dogbloodcase/"
@@ -36171,6 +36183,10 @@
     "title": "Fictional Factional Inference Boundary / 虚构派系解读边界",
     "url": "/wiki/concepts/fictionalfactionalinferenceboundary/"
   },
+  "FictionalFrontierSelfDefenseMyth": {
+    "title": "Fictional Frontier Self-Defense Myth",
+    "url": "/wiki/concepts/fictionalfrontierselfdefensemyth/"
+  },
   "FictionalHistoriography": {
     "title": "Fictional Historiography",
     "url": "/wiki/concepts/fictionalhistoriography/"
@@ -38434,6 +38450,10 @@
   "FrontierDefensivePatience": {
     "title": "Frontier Defensive Patience / 边境防御耐心",
     "url": "/wiki/concepts/frontierdefensivepatience/"
+  },
+  "FrontierGunRegulation": {
+    "title": "Frontier Gun Regulation",
+    "url": "/wiki/concepts/frontiergunregulation/"
   },
   "FrontierModelAccessRestrictions": {
     "title": "Frontier Model Access Restrictions",
@@ -42382,6 +42402,10 @@
   "GunpowderPlot": {
     "title": "Gunpowder Plot",
     "url": "/wiki/concepts/gunpowderplot/"
+  },
+  "Gunsmoke": {
+    "title": "Gunsmoke",
+    "url": "/wiki/entities/gunsmoke/"
   },
   "GunterGrass": {
     "title": "Günter Grass / 君特·格拉斯",
@@ -83559,6 +83583,10 @@
     "title": "Samsung",
     "url": "/wiki/entities/samsung/"
   },
+  "SamuelAlito": {
+    "title": "Samuel Alito",
+    "url": "/wiki/entities/samuelalito/"
+  },
   "SamuelBeckett": {
     "title": "Samuel Beckett",
     "url": "/wiki/entities/samuelbeckett/"
@@ -112194,6 +112222,10 @@
   "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6": {
     "title": "Gulf-co-operation counsel: what next for the region",
     "url": "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+  },
+  "guns-part-2-getting-out-of-dodge": {
+    "title": "Guns Part 2: Getting out of Dodge",
+    "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
   },
   "guns-part-3-a-shooting-lesson": {
     "title": "Guns Part 3: A Shooting Lesson",

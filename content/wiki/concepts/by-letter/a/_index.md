@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11451
+wiki_total_pages: 11454
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2732,6 +2732,9 @@ wiki_pages:
   - key: "ArmedProtestZoneSecurity"
     title: "Armed Protest-Zone Security"
     url: "/wiki/concepts/armedprotestzonesecurity/"
+  - key: "ArmedPublicCarryCollectiveRisk"
+    title: "Armed Public-Carry Collective Risk"
+    url: "/wiki/concepts/armedpubliccarrycollectiverisk/"
   - key: "ArmoredCombat"
     title: "Armored Combat / 盔甲格斗"
     url: "/wiki/concepts/armoredcombat/"

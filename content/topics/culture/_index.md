@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3735
+topic_total_pages: 3736
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1477,6 +1477,9 @@ topic_concepts:
   - key: "FictionalFactionalInferenceBoundary"
     title: "Fictional Factional Inference Boundary / 虚构派系解读边界"
     url: "/wiki/concepts/fictionalfactionalinferenceboundary/"
+  - key: "FictionalFrontierSelfDefenseMyth"
+    title: "Fictional Frontier Self-Defense Myth"
+    url: "/wiki/concepts/fictionalfrontierselfdefensemyth/"
   - key: "FictionalRelationshipCompatibilityReading"
     title: "Fictional Relationship Compatibility Reading / 虚构关系适配性阅读"
     url: "/wiki/concepts/fictionalrelationshipcompatibilityreading/"

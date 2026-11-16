@@ -18998,6 +18998,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BarbaraUnderwood": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BarbellStrategy": [
     {
       "key": "economics",
@@ -39289,6 +39296,13 @@
     }
   ],
   "FictionalFactionalInferenceBoundary": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FictionalFrontierSelfDefenseMyth": [
     {
       "key": "culture",
       "label": "Culture",
@@ -82461,6 +82475,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SamuelAlito": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SamuelBeckett": [

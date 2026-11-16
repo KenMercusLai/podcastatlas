@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Guns Part 2: Getting out of Dodge](sources/guns-part-2-getting-out-of-dodge.md) — Revisionist History contrasts Gunsmoke's armed-individual safety myth with historical Dodge City policing, firearm restrictions, and collective public-carry risk.
 - [Guns Part 3: A Shooting Lesson](sources/guns-part-3-a-shooting-lesson.md) — Revisionist History tests assault-weapon categories against firearm mechanics, modularity, legal feature lists, and mass-shooting autopsy patterns.
 - [Guns Part 4: Moral Hazard](sources/guns-part-4-moral-hazard.md) — Revisionist History separates shooting exposure from medically mediated homicide and qualifies the claim that trauma success weakens prevention pressure.
 - [Guns Part 5: The Footnote](sources/guns-part-5-the-footnote.md) — Revisionist History connects trauma timing, racialized care geography, hospital financing, ambulance delay, and homicide classification through Brandon Young's death.
@@ -5208,6 +5209,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Gunsmoke](entities/Gunsmoke.md) — Television Western whose recurring violence and disarmament tragedy support an armed-individual model of public safety.
+- [Dodge City](entities/DodgeCity.md) — Kansas frontier town whose policing and firearm restrictions contrast with its persistently violent fictional image.
+- [Samuel Alito](entities/SamuelAlito.md) — Supreme Court justice whose Bruen commuter hypothetical frames public carry through immediate individual self-defense.
+- [Barbara Underwood](entities/BarbaraUnderwood.md) — New York advocate emphasizing mistakes, escalation, crossfire, and police ambiguity when many people carry guns in crowded places.
 - [Greg Wallace](entities/GregWallace.md) — Law professor and competitive shooter supplying the episode's technical critique of assault-weapon bans.
 - [Josh Sugarman](entities/JoshSugarman.md) — Gun-control advocate whose assault-weapon strategy and technical framing are challenged in the episode.
 - [Violence Policy Center](entities/ViolencePolicyCenter.md) — Advocacy organization at the center of the episode's dispute over firearm categories, features, and killing power.
@@ -19756,6 +19761,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Fictional Frontier Self-Defense Myth](concepts/FictionalFrontierSelfDefenseMyth.md) — Narrative pattern in which institutional failure makes the armed individual appear to be the decisive source of public safety.
+- [Armed Public-Carry Collective Risk](concepts/ArmedPublicCarryCollectiveRisk.md) — Interaction risk created when multiple carriers act under fear, density, incomplete information, and police role ambiguity.
+- [Frontier Gun Regulation](concepts/FrontierGunRegulation.md) — Nineteenth-century carry, sensitive-place, sales, and access restrictions used as tools of public order.
 - [Trauma-Care Moral Hazard](concepts/TraumaCareMoralHazard.md) — Qualified hypothesis that medically reduced mortality can mask shootings and weaken prevention pressure.
 - [Nonfatal Shooting Measurement](concepts/NonfatalShootingMeasurement.md) — Linked measurement of shooting exposure, injury, treatment outcome, and death beyond homicide counts.
 - [Homicide as a Survival-System Outcome](concepts/HomicideAsSurvivalSystemOutcome.md) — Framework separating serious violence from the emergency and trauma-system factors that determine fatality and legal classification.
