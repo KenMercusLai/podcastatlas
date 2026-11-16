@@ -5,7 +5,8 @@ tags: [working-memory, cognition, neuroscience, dopamine]
 sources:
   - how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835
   - tools-to-enhance-working-memory-attention-scim1948560111
-last_updated: 2026-09-27
+  - default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The evidence distinguishes working memory from both passive short-term storage a
 
 Dopamine helps stabilize relevant frontal activity, but the relationship is not linear. Both sources use bromocriptine to support [[DopamineInvertedU]]: a manipulation can improve performance among people with lower baseline capacity yet worsen it among those starting higher. The solo episode further separates prefrontal distractor control from basal-ganglia switching or go/no-go functions. Behavioral span, genetics, and other physiological measures may characterize baseline state in research, but none is a simple clinical dopamine test or diagnosis.
 
+Interruption recovery extends active control into task resumption. The laboratory game in [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712|Work 2.0: Life, Interrupted]] requires retaining rules, answering an interrupting question, and accurately resuming the primary task. The episode reports that higher working-memory capacity is associated with less interruption harm and explores electrical stimulation, but its single-host demonstration cannot establish causation and its broader result lacks study details.
+
 ## Key Claims
 - Working memory keeps unavailable information online and manipulates it for current goals.
 - It supports comprehension, planning, reasoning, action sequencing, distractor suppression, and task switching rather than serving as passive storage alone.
@@ -26,6 +29,7 @@ Dopamine helps stabilize relevant frontal activity, but the relationship is not 
 - Dopamine can stabilize working-memory representations, but too little and too much may both impair performance.
 - Baseline capacity changes how a person may respond to a dopamine-related intervention.
 - A brief working-memory score is an incomplete behavioral proxy, not a direct measure of brain dopamine or a stand-alone diagnosis.
+- Interruption recovery includes preserving or reconstructing the task state needed for the next correct action after attention is diverted.
 
 ## Evidence
 - Active-maintenance definition - [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]] distinguishes holding and manipulating information from long-term memory.
@@ -35,13 +39,16 @@ Dopamine helps stabilize relevant frontal activity, but the relationship is not 
 - Immediate-use and sequencing account - [[tools-to-enhance-working-memory-attention-scim1948560111]] distinguishes active temporary use from stored memory and applies it to everyday action sequences.
 - Distributed control account - [[tools-to-enhance-working-memory-attention-scim1948560111]] links distractor suppression mainly to prefrontal circuitry and task switching or go/no-go control to basal-ganglia circuitry.
 - Self-test boundary - [[tools-to-enhance-working-memory-attention-scim1948560111]] uses span exercises as demonstrations while explicitly rejecting diagnostic interpretation.
+- Interruption recovery - [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712]] separates answers during an interruption from speed and accuracy on resuming a rule-heavy primary task.
+- Enhancement boundary - [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712]] treats transcranial direct-current stimulation as a research tool and rejects causal inference from the host's two-round demonstration.
 
 ## Counterevidence & Qualifications
-The page does not imply that one task captures a person's general intelligence or executive capacity, that a behavioral score directly measures dopamine, or that dopamine agonists, supplements, cold exposure, or sound tools should be used as self-treatment. The sources' drug, genetic, biomarker, circuit-localization, and intervention examples remain source-scoped and require study-specific or clinical interpretation.
+The page does not imply that one task captures a person's general intelligence or executive capacity, that a behavioral score directly measures dopamine, or that dopamine agonists, supplements, cold exposure, sound tools, or electrical stimulation should be used as self-treatment. The sources' drug, genetic, biomarker, circuit-localization, and intervention examples remain source-scoped and require study-specific or clinical interpretation. The new source supplies no tDCS protocol, sample, effect size, adverse-event record, or replication evidence.
 
 ## What Changed
 - Expanded active control from maintenance and manipulation into immediate sequencing, distractor suppression, and task switching.
 - Added the boundary that informal span exercises are demonstrations rather than dopamine assays or diagnoses.
+- Added interruption-resumption measurement and the tDCS research-use boundary.
 
 ## Related Concepts
 - [[ExecutiveFunction]] - broader control system that selects and uses maintained information.

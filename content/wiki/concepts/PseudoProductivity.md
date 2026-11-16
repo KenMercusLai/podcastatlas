@@ -5,7 +5,8 @@ tags: [productivity, knowledge-work, management, measurement]
 sources:
   - how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504
   - ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge
-last_updated: 2026-10-02
+  - default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Those signals can become self-defeating. Workers spend more time demonstrating w
 
 EP196 adds the document-and-reporting version. Repeatedly rewriting the same material, producing several weekly-report variants, expanding one sentence into many, polishing presentations up a hierarchy, and attending meetings that merely read existing documents can make proof-of-work consume the work itself. Longer output then burdens both writer and reader without guaranteeing a better decision.
 
+A further visibility asymmetry favors immediate activity. Replies satisfy a present social expectation and make usefulness legible, while the cost of the idea, book, judgment, or solution that never emerged is counterfactual and difficult to observe. This helps explain why convenience and visible motion can defeat longer-term effectiveness even when workers recognize the attention cost, as argued in [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712|Work 2.0: Life, Interrupted]].
+
 ## Key Claims
 - Visible activity becomes attractive when meaningful output is hard to measure.
 - Responsiveness can signal commitment without demonstrating value or quality.
@@ -28,19 +31,22 @@ EP196 adds the document-and-reporting version. Repeatedly rewriting the same mat
 - Document length, version count, and presentation polish can become effort signals disconnected from information value.
 - Workers can become busy communicating about work while losing time to perform it.
 - Better systems need explicit priorities, workload visibility, and output-aware evaluation.
+- Visible responsiveness can beat valuable but counterfactual output because one is immediately observable and the other is not.
 
 ## Evidence
 - Definition - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] defines pseudo-productivity as visible activity standing in for useful effort.
 - Technology shift - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] connects email, Slack, and networked computers to fine-grained visibility of busyness.
 - Burnout mechanism - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] argues that meetings and messages can consume the time needed to do the underlying work.
 - Reporting theater - [[ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge]] describes duplicated weekly reports, repeated document rewrites, page-count competition, read-aloud meetings, and presentation polishing that may not change the final decision.
+- Visibility asymmetry - [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712]] contrasts the immediate social reward of responsiveness with the unobservable cost of work or ideas that never materialize.
 
 ## Counterevidence & Qualifications
-Communication, responsiveness, documents, and meetings can be valuable outputs when coordination, service, safety, recordkeeping, or relationship maintenance is the work. The problem is not visibility itself but using a weak activity measure without context. Neither source provides a universal replacement metric for heterogeneous knowledge work, and EP196's examples are experiential rather than a measured prevalence study.
+Communication, responsiveness, documents, and meetings can be valuable outputs when coordination, service, safety, recordkeeping, or relationship maintenance is the work. The problem is not visibility itself but using a weak activity measure without context. None of the sources provides a universal replacement metric for heterogeneous knowledge work, and EP196's examples are experiential rather than a measured prevalence study. The new episode's psychological drivers and productivity costs remain source-scoped without underlying methods or quantitative evidence.
 
 ## What Changed
 - Extended visible-activity signaling from messages and meetings into duplicated reports, page-count competition, and presentation labor.
 - Added reader cost and decision irrelevance as tests for whether documentation is productive.
+- Added the asymmetry between observable responsiveness and counterfactual lost output.
 
 ## Related Concepts
 - [[HyperactiveHiveMind]] - collaboration pattern that produces continuous visible activity.

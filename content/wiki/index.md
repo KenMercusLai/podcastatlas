@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Work 2.0: Life, Interrupted](sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712.md) — Hidden Brain and Cal Newport connect attention residue, role-specific deep work, negotiated availability, visible busyness, working-memory interruption research, and the risk that efficiency becomes more work.
 - [Work 2.0: Rebel with a Cause](sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468.md) — Hidden Brain distinguishes purposeful challenge from destructive rule-breaking while keeping expertise, respectful dissent, explicit safeguards, and a retracted study in view.
 - [Work 2.0: The One-Room Commute](sources/default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044.md) — Hidden Brain and Nick Bloom use Ctrip's randomized experiment to connect remote productivity and retention gains with isolation, promotion penalties, unequal access, and conditional hybrid design.
 - [The Psychology of Self-Doubt](sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798.md) — Hidden Brain episode on the impostor phenomenon, identity-sensitive pressure, evidence-based recalibration, and the boundary between useful and harmful doubt.
@@ -5272,6 +5273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Melissa Sheldrup](entities/MelissaSheldrup.md) — Researcher studying working memory, interruption recovery, and the evidentiary limits of transcranial direct-current stimulation demonstrations.
 - [Francesca Gino](entities/FrancescaGino.md) — Behavioral scientist presenting rebel talent under a material research-integrity warning that excludes a retracted karaoke study from the evidence base.
 - [Massimo Bottura](entities/MassimoBottura.md) — Chef illustrating curiosity-led experimentation, employee contribution, ordinary-task participation, and shared-mission leadership.
 - [Kevin Cokley](entities/KevinCokley.md) — Psychologist connecting the impostor phenomenon to evidence calibration, identity, institutional climate, preparation, and health.
@@ -19947,6 +19949,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Transcranial Direct-Current Stimulation Research Boundary](concepts/TranscranialDirectCurrentStimulationResearchBoundary.md) — Boundary between a temporary laboratory probe and an established everyday cognitive enhancement.
 - [Constructive Rebellion](concepts/ConstructiveRebellion.md) — Purposeful challenge to conventions joined to competence, ethical limits, shared purpose, and explicit compliance zones.
 - [Calibrated Self-Doubt](concepts/CalibratedSelfDoubt.md) — Proportionate uncertainty that supports preparation and humility without becoming a verdict on worth, belonging, or health.
 - [Contingent Infant Vocal Feedback](concepts/ContingentInfantVocalFeedback.md) — Reciprocal process in which infant vocalization guides caregiver response and that response shapes the infant's next vocalization.

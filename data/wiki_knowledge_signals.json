@@ -42826,9 +42826,9 @@
       "url": "/wiki/entities/caldoge/"
     },
     "CalNewport": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -42836,9 +42836,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
           "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/calnewport/"
     },
     "Calais": {
@@ -78679,9 +78686,9 @@
       "url": "/wiki/concepts/deeptimementalprosthesis/"
     },
     "DeepWorkPractice": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -78689,9 +78696,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
           "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/deepworkpractice/"
     },
     "DeepZ": {
@@ -154108,9 +154122,9 @@
       "url": "/wiki/entities/hypenvice/"
     },
     "HyperactiveHiveMind": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -154125,9 +154139,16 @@
           "show": "无时差研究所",
           "title": "EP196-人类高效工作研究报告",
           "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/hyperactivehivemind/"
     },
     "HyperscaleDataCenterMoratorium": {
@@ -211969,6 +211990,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/melissakearney/"
     },
+    "MelissaSheldrup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/melissasheldrup/"
+    },
     "MelitaCyril": {
       "episode_count": 1,
       "show_count": 1,
@@ -258443,9 +258480,9 @@
       "url": "/wiki/concepts/pseudoindependentwomennarrative/"
     },
     "PseudoProductivity": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -258460,9 +258497,16 @@
           "show": "无时差研究所",
           "title": "EP196-人类高效工作研究报告",
           "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/pseudoproductivity/"
     },
     "PseudonymousParticipationVerificationTradeoff": {
@@ -264192,9 +264236,9 @@
       "url": "/wiki/concepts/rashomoneffect/"
     },
     "RatchetEffectWorkplace": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
@@ -264216,9 +264260,16 @@
           "show": "纸醉金迷FM",
           "title": "079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人",
           "url": "/wiki/sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/ratcheteffectworkplace/"
     },
     "RatepayerProtectionAct": {
@@ -309247,9 +309298,9 @@
       "url": "/wiki/concepts/taskspecificworkspacedesign/"
     },
     "TaskSwitchingResidue": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -309278,9 +309329,16 @@
           "show": "三五环",
           "title": "No.214 低能量人的电池使用指南",
           "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/taskswitchingresidue/"
     },
     "TasteFirstCPGPositioning": {
@@ -319559,6 +319617,22 @@
       ],
       "updated": "2026-10-22",
       "url": "/wiki/concepts/transboundaryhazegovernance/"
+    },
+    "TranscranialDirectCurrentStimulationResearchBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/transcranialdirectcurrentstimulationresearchboundary/"
     },
     "TranscranialMagneticStimulationForDepression": {
       "episode_count": 2,
@@ -339341,9 +339415,9 @@
       "url": "/wiki/concepts/workerbasemodelrouting/"
     },
     "WorkingMemoryActiveControl": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4205449835 [SCIM4205449835].md",
@@ -339358,9 +339432,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Enhance Working Memory & Attention",
           "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712 [default.mp3_ywr3ahjkcgo_01b4ea684c25d46bfca84c97e3c8f96f_52625712].md",
+          "key": "default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712",
+          "show": "Hidden Brain",
+          "title": "Work 2.0: Life, Interrupted",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/workingmemoryactivecontrol/"
     },
     "WorkingMemoryLearningBottleneck": {

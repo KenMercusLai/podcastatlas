@@ -41880,3 +41880,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Work 2.0: Life, Interrupted
+
+Added a [[HiddenBrain]] episode with [[CalNewport]] and [[MelissaSheldrup]] on deep work, attention residue, working-memory recovery, and transcranial direct-current stimulation. Created Sheldrup's focused profile and [[TranscranialDirectCurrentStimulationResearchBoundary]], then resynthesized [[CalNewport]], [[DeepWorkPractice]], [[TaskSwitchingResidue]], [[PseudoProductivity]], [[HyperactiveHiveMind]], [[WorkingMemoryActiveControl]], and [[RatchetEffectWorkplace]] from each page's complete preserved source inventory before appending the new source once.
+
+Core synthesis: deep work is a role-specific and socially negotiated condition rather than a universal demand for long isolation. Brief undivided patient attention can count as depth, while shared inboxes, declared response windows, emergency channels, and manager-agreed work ratios can preserve access without silently transferring interruption to colleagues. Visible responsiveness often wins because its social benefit is immediate while lost ideas and degraded judgment are counterfactual and hard to count. Working-memory research can measure both interruption answers and primary-task resumption, but a one-person stimulation demonstration does not establish causation or everyday efficacy.
+
+No settled contradiction was adopted. Newport's missed interview keeps the inconvenience of reduced availability visible, and emergency, service, and relationship-heavy roles preserve a genuine boundary on isolation. Hospital retention, attention residue, working-memory capacity, productivity, and broader stimulation effects remain episode-scoped because the supplied file is a structured summary without underlying papers, methods, sample sizes, effect sizes, adverse-event reporting, or replication detail. The efficiency discussion extends the workplace ratchet: saved time becomes leisure only when people and institutions choose not to refill it with more work.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 5,146 sources across 811 overview paragraphs and nine topics. Added-line wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

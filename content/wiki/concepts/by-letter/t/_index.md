@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11574
+wiki_total_pages: 11575
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "TranscendentExitPoliticalCamouflage"
     title: "Transcendent Exit Political Camouflage / 假托神仙式权力退场"
     url: "/wiki/concepts/transcendentexitpoliticalcamouflage/"
+  - key: "TranscranialDirectCurrentStimulationResearchBoundary"
+    title: "Transcranial Direct-Current Stimulation Research Boundary"
+    url: "/wiki/concepts/transcranialdirectcurrentstimulationresearchboundary/"
   - key: "TranscranialMagneticStimulationForDepression"
     title: "Transcranial Magnetic Stimulation for Depression"
     url: "/wiki/concepts/transcranialmagneticstimulationfordepression/"

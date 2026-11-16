@@ -7,8 +7,9 @@ sources:
   - how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885
   - how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504
   - no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn
+  - default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-09
+last_updated: 2026-11-17
 ---
 
 # Task Switching Residue
@@ -25,8 +26,10 @@ The Newport interview adds a workplace-system consequence. Email, Slack, phone c
 
 The Liu Fei episode adds a creator-operator account of the same mechanism. His “one take” rule keeps context-heavy writing or recording together, while small messages are delayed and batched; he describes task context as something that must be reloaded after interruption. It also links switching residue to [[CoordinationTax]]: organizational messages and approval chains repeatedly force people to reconstruct not only the task but also the participants, authority, and prior decisions.
 
+[[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712|Work 2.0: Life, Interrupted]] sharpens both the brief-switch and resumption claims. It attributes demanding-task impairment after a context change to Sophie Leroy's attention-residue research, then uses [[MelissaSheldrup]]'s laboratory game to separate performance during the interruption from the speed and accuracy of the next action on the primary task. The episode does not supply either underlying study, so the mechanism and effect remain source-scoped.
+
 ## Key Claims
-- Switching tasks has a cost because the previous activity leaves residue.
+- Switching tasks can carry both entry and resumption costs because the previous activity leaves residue.
 - Fast switching, knowing when to switch, and using transition practices to reconfigure are skills rather than automatic defaults.
 - Solitude and silence may train comfort with one's own thoughts and emotions.
 - The concept links attention control, emotion regulation, thought control, and physiological regulation.
@@ -43,14 +46,17 @@ The Liu Fei episode adds a creator-operator account of the same mechanism. His �
 - Knowledge-work switching - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] links frequent email, Slack, and phone checks to costly cognitive transitions.
 - Coordination lock-in - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] argues that an individual cannot simply ignore messages when the surrounding workflow depends on responsiveness.
 - Creator-operator application - [[no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn]] describes uninterrupted writing and recording, delayed message checking, task-type days, and organizational context reload.
+- Brief-switch mechanism - [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712]] reports that even short checks can leave attention attached to the prior context and reduce demanding-task performance.
+- Resumption measurement - [[default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712]] measures interruption answers separately from the speed and correctness of return to the main game.
 
 ## Counterevidence & Qualifications
-The sources do not establish that silence, meditation, single-tasking, or batching benefits everyone in the same way or that every context switch is harmful. Transition training is a plausible practice and lab ritual rather than a validated universal intervention, and event segmentation can organize memory as well as fragment it. Rapid switching is also necessary in emergency, service, and tightly coupled operational roles; Liu's schedule depends on creator autonomy that many workers do not have. The relevant question is whether the benefit exceeds the transition and response-delay cost.
+The sources do not establish that silence, meditation, single-tasking, or batching benefits everyone in the same way or that every context switch is harmful. Transition training is a plausible practice and lab ritual rather than a validated universal intervention, and event segmentation can organize memory as well as fragment it. Rapid switching is also necessary in emergency, service, and tightly coupled operational roles; Liu's schedule depends on creator autonomy that many workers do not have. The new episode supplies neither Leroy's paper nor Sheldrup's full methods, sample, effect size, or replication record. The relevant question is whether the focus benefit exceeds the transition and response-delay cost.
 
 ## What Changed
 - Added entry-and-return costs and the event-boundary account of fragmented memory.
 - Added the organizational case where message-based coordination makes switching a shared workflow cost.
 - Added a creator-operator application connecting task-type batching, context reload, and coordination overhead.
+- Added separate measurement of interruption performance and primary-task resumption.
 
 ## Related Concepts
 - [[AttentionCapacitySelection]] - attention framework underlying task selection and switching.
