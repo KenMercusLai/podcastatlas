@@ -41584,3 +41584,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | A Blockbuster-era law could define modern online privacy rules
+
+Added a [[MarketplaceTech]] episode with [[EricGoldman]] on the [[VideoPrivacyProtectionAct]], its origin in the disclosure of [[RobertBork]]'s video-rental history, Supreme Court uncertainty over analytics and targeted advertising, consent friction, statutory-damages exposure, and AI agents acting for users.
+
+Created Robert Bork, Video Privacy Protection Act, [[LegacyPrivacyStatuteInternetSpillover]], and [[DelegatedAIAgentConsent]]. Migrated and resynthesized Eric Goldman from his complete preserved source inventory, and resynthesized [[ComprehensiveConsumerDataPrivacy]] to add legacy-statute dependence as a consequence of the federal policy gap. Broad Marketplace Tech, Supreme Court, Amazon, and platform profiles remained closed because the short source does not materially change their current profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+No settled contradiction was adopted. A broad VPPA reading may strengthen privacy remedies while creating widespread litigation and consent friction; a narrow reading may avoid statutory mismatch while leaving common data practices outside this law. The case path, legal test, affected-case count, agent authority, named-company restrictions, and practical effects remain unresolved or source-scoped.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,125 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -63525,9 +63525,9 @@
       "url": "/wiki/concepts/compounddisastermortality/"
     },
     "ComprehensiveConsumerDataPrivacy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -63556,9 +63556,16 @@
           "show": "Marketplace Tech",
           "title": "ICE is collecting DNA from detainees for future policing",
           "url": "/wiki/sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261116_1116_MP_TECH_pod_128 [tech_20261116_1116_MP_TECH_pod_128].md",
+          "key": "tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A Blockbuster-era law could define modern online privacy rules",
+          "url": "/wiki/sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
     },
     "CompromisedNarratorSatire": {
@@ -78802,6 +78809,22 @@
       ],
       "updated": "2026-11-14",
       "url": "/wiki/concepts/delayedgratificationrebalancing/"
+    },
+    "DelegatedAIAgentConsent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261116_1116_MP_TECH_pod_128 [tech_20261116_1116_MP_TECH_pod_128].md",
+          "key": "tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A Blockbuster-era law could define modern online privacy rules",
+          "url": "/wiki/sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/delegatedaiagentconsent/"
     },
     "DelegatedAgentInteraction": {
       "episode_count": 1,
@@ -101328,6 +101351,36 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/ericfeishu/"
+    },
+    "EricGoldman": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260401_0401_MP_TECH_pod_128 [tech_20260401_0401_MP_TECH_pod_128].md",
+          "key": "tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Youtube held liable for their addictive products",
+          "url": "/wiki/sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260205_0205_MP_TECH_pod_128 [tech_20260205_0205_MP_TECH_pod_128].md",
+          "key": "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is social media addictive? And are social media companies liable?",
+          "url": "/wiki/sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261116_1116_MP_TECH_pod_128 [tech_20261116_1116_MP_TECH_pod_128].md",
+          "key": "tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A Blockbuster-era law could define modern online privacy rules",
+          "url": "/wiki/sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/ericgoldman/"
     },
     "EricTheRed": {
       "episode_count": 1,
@@ -182838,6 +182891,22 @@
       ],
       "updated": "2026-11-02",
       "url": "/wiki/concepts/legacyluxurybrandevreset/"
+    },
+    "LegacyPrivacyStatuteInternetSpillover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261116_1116_MP_TECH_pod_128 [tech_20261116_1116_MP_TECH_pod_128].md",
+          "key": "tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A Blockbuster-era law could define modern online privacy rules",
+          "url": "/wiki/sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/legacyprivacystatuteinternetspillover/"
     },
     "LegalAIVerificationAuditability": {
       "episode_count": 3,
@@ -271893,6 +271962,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/robertblum/"
     },
+    "RobertBork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261116_1116_MP_TECH_pod_128 [tech_20261116_1116_MP_TECH_pod_128].md",
+          "key": "tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A Blockbuster-era law could define modern online privacy rules",
+          "url": "/wiki/sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/robertbork/"
+    },
     "RobertBoyle": {
       "episode_count": 3,
       "show_count": 2,
@@ -325912,6 +325997,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/videopodcastaffordance/"
+    },
+    "VideoPrivacyProtectionAct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261116_1116_MP_TECH_pod_128 [tech_20261116_1116_MP_TECH_pod_128].md",
+          "key": "tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A Blockbuster-era law could define modern online privacy rules",
+          "url": "/wiki/sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/videoprivacyprotectionact/"
     },
     "VidkunQuisling": {
       "episode_count": 1,

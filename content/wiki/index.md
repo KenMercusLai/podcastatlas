@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Blockbuster-era law could define modern online privacy rules](sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128.md) — Marketplace Tech and Eric Goldman connect the VPPA's videotape-era categories to modern analytics, advertising, statutory damages, consent friction, and delegated AI-agent consent.
 - [How Rude!](sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447.md) — Hidden Brain and Christine Porath connect incivility to cognitive impairment, trust loss, social transmission, feedback culture, and self-distancing recovery.
 - [A Conspiracy of Silence](sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302.md) — Hidden Brain and Timur Kuran connect preference falsification to recursive conformity, authoritarian enforcement, dissent cascades, democratic pressure, humor, and civility.
 - [When Doing Right Feels Wrong](sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639.md) — Hidden Brain uses Darwin Rocher's police whistleblowing case to connect loyalty–justice conflict, moral stress, moral licensing, retaliation, and mission-directed loyalty.
@@ -5250,6 +5251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Robert Bork](entities/RobertBork.md) — Supreme Court nominee whose disclosed video-rental history prompted the 1988 Video Privacy Protection Act.
 - [Christine Porath](entities/ChristinePorath.md) — Behavioral scientist connecting incivility to attention, performance, trust, social transmission, and respectful workplace culture.
 - [Timur Kuran](entities/TimurKuran.md) — Economist and political scientist connecting private-public divergence to conformity feedback, dissent cascades, and political change.
 - [Darwin Rocher](entities/DarwinRocher.md) — Detroit police officer who reported a planned violent robbery by trusted colleagues, cooperated with the FBI, and endured severe retaliation.
@@ -16248,7 +16250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nvidia Vera Rubin Platform](entities/NvidiaVeraRubinPlatform.md) — Post-Blackwell Nvidia platform in E230's GTC roadmap, used to test whether future AI systems can scale through supply-chain and data-center constraints.
 - [NeMo Cloud](entities/NeMoCloud.md) — Nvidia software/cloud layer in E230, framed as an agent-deployment and token-demand surface rather than only an application service.
 - [Groq](entities/Groq.md) — Low-latency inference-chip reference in E230, used to explain SRAM-heavy LPU-style specialization for agentic workloads.
-- [Eric Goldman](entities/EricGoldman.md) — Legal expert explaining platform causation, Section 230, bellwether verdicts, appeal risks, and spillover risk in social-media addiction litigation.
+- [Eric Goldman](entities/EricGoldman.md) — Technology-law expert connecting platform causation and appellate defenses to legacy privacy statutes, consent, and internet-liability spillover.
 - [Santa Clara University](entities/SantaClaraUniversity.md) — University affiliation for Eric Goldman in the Marketplace Tech social-media verdict and Section 230 appeal episode.
 - [High Tech Law Institute](entities/HighTechLawInstitute.md) — Santa Clara University institute anchoring Eric Goldman's technology-law expertise in the social-media verdict episode.
 - [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose place-grounded technology stories now span wildfire rebuilding materials and Akron's AI public-finance analogy.
@@ -19888,6 +19890,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Video Privacy Protection Act](concepts/VideoPrivacyProtectionAct.md) — 1988 video-record privacy statute now disputed as a remedy for website analytics and targeted-advertising disclosures.
+- [Legacy Privacy Statute Internet Spillover](concepts/LegacyPrivacyStatuteInternetSpillover.md) — Expansion of older narrow privacy laws into routine modern web practices with uncertain category fit and litigation scale.
+- [Delegated AI Agent Consent](concepts/DelegatedAIAgentConsent.md) — Question of when an AI agent may validly accept data, privacy, access, or transaction terms for a user.
 - [Incivility Cognitive and Social Spillover](concepts/IncivilityCognitiveAndSocialSpillover.md) — How disrespect captures attention, degrades target and witness performance, weakens trust, and spreads into later interactions.
 - [Civility Feedback Culture](concepts/CivilityFeedbackCulture.md) — Respectful culture combining self-awareness, behavioral feedback, caring directness, trust, and repair.
 - [Self-Distancing Recovery](concepts/SelfDistancingRecovery.md) — Observer perspective and longer time horizon used to reduce emotional capture and restore effective attention.
@@ -27851,7 +27856,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [California AB 1709](concepts/CaliforniaAB1709.md) — Proposed California under-16 social-media ban used as a case of child-safety technology regulation colliding with First Amendment speech-access limits.
 - [Youth Online Speech Rights](concepts/YouthOnlineSpeechRights.md) — Claim that minors have constitutional interests in speaking and accessing lawful online speech, not only adults or platforms.
 - [Social Media Age-Gate Speech Burden](concepts/SocialMediaAgeGateSpeechBurden.md) — Risk that age verification, parental consent, or categorical youth bans restrict lawful online speech for minors and adults.
-- [Comprehensive Consumer Data Privacy](concepts/ComprehensiveConsumerDataPrivacy.md) — Privacy-law approach that targets invasive collection, opaque targeting, and surveillance-based platform incentives instead of broad age-based access bans.
+- [Comprehensive Consumer Data Privacy](concepts/ComprehensiveConsumerDataPrivacy.md) — Cross-system privacy approach covering collection, targeting, purpose, retention, sharing, recourse, and consent beyond narrow sectoral remedies.
 - [Federal Data Practice Trust](concepts/FederalDataPracticeTrust.md) — Public belief that federal agencies collect, use, share, and retain personal data in legitimate, accountable ways.
 - [Public Benefits Data Chilling Effect](concepts/PublicBenefitsDataChillingEffect.md) — Risk that people avoid education, housing, health, nutrition, or other public services because they mistrust how benefit data will be used.
 - [Enforcement Agency Data Sharing](concepts/EnforcementAgencyDataSharing.md) — Concern that personal data collected for one service or government purpose can move into law-enforcement, immigration, or DHS use.

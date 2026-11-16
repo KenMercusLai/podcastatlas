@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11531
+wiki_total_pages: 11534
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "VideoPodcastAffordance"
     title: "Video Podcast Affordance"
     url: "/wiki/concepts/videopodcastaffordance/"
+  - key: "VideoPrivacyProtectionAct"
+    title: "Video Privacy Protection Act"
+    url: "/wiki/concepts/videoprivacyprotectionact/"
   - key: "VideoStoreCulture"
     title: "Video Store Culture"
     url: "/wiki/concepts/videostoreculture/"

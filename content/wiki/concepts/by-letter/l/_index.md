@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11531
+wiki_total_pages: 11534
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "LegacyLuxuryBrandEVReset"
     title: "Legacy Luxury Brand EV Reset / 传统豪华品牌电动化重置"
     url: "/wiki/concepts/legacyluxurybrandevreset/"
+  - key: "LegacyPrivacyStatuteInternetSpillover"
+    title: "Legacy Privacy Statute Internet Spillover"
+    url: "/wiki/concepts/legacyprivacystatuteinternetspillover/"
   - key: "LegalAgentOrchestration"
     title: "Legal Agent Orchestration"
     url: "/wiki/concepts/legalagentorchestration/"

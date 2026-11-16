@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3874
+topic_total_pages: 3875
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3262,6 +3262,9 @@ topic_concepts:
   - key: "LearningHowToLearn"
     title: "Learning How To Learn"
     url: "/wiki/concepts/learninghowtolearn/"
+  - key: "LegacyPrivacyStatuteInternetSpillover"
+    title: "Legacy Privacy Statute Internet Spillover"
+    url: "/wiki/concepts/legacyprivacystatuteinternetspillover/"
   - key: "LegalAgentOrchestration"
     title: "Legal Agent Orchestration"
     url: "/wiki/concepts/legalagentorchestration/"

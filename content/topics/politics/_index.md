@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3556
+topic_total_pages: 3559
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2581,6 +2581,9 @@ topic_concepts:
   - key: "LeanVersusCleanBubblePolicy"
     title: "Lean Versus Clean Bubble Policy"
     url: "/wiki/concepts/leanversuscleanbubblepolicy/"
+  - key: "LegacyPrivacyStatuteInternetSpillover"
+    title: "Legacy Privacy Statute Internet Spillover"
+    url: "/wiki/concepts/legacyprivacystatuteinternetspillover/"
   - key: "LegalAgentOrchestration"
     title: "Legal Agent Orchestration"
     url: "/wiki/concepts/legalagentorchestration/"
@@ -4774,6 +4777,9 @@ topic_concepts:
   - key: "VictoryDeterrenceDiplomacy"
     title: "Victory Deterrence Diplomacy / 胜势威慑外交"
     url: "/wiki/concepts/victorydeterrencediplomacy/"
+  - key: "VideoPrivacyProtectionAct"
+    title: "Video Privacy Protection Act"
+    url: "/wiki/concepts/videoprivacyprotectionact/"
   - key: "VIEEmployeeEquityMismatch"
     title: "VIE Employee Equity Mismatch / VIE 员工股权主体错位"
     url: "/wiki/concepts/vieemployeeequitymismatch/"
@@ -7955,6 +7961,9 @@ topic_entities:
   - key: "RishiSunak"
     title: "Rishi Sunak"
     url: "/wiki/entities/rishisunak/"
+  - key: "RobertBork"
+    title: "Robert Bork"
+    url: "/wiki/entities/robertbork/"
   - key: "RobertFKennedy"
     title: "Robert F. Kennedy"
     url: "/wiki/entities/robertfkennedy/"

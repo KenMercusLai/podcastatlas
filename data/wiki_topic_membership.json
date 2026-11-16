@@ -57810,6 +57810,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "LegacyPrivacyStatuteInternetSpillover": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LegalAIHallucination": [
     {
       "key": "technology",
@@ -80952,6 +80964,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobertBork": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RobertBoyle": [
     {
       "key": "science",
@@ -97959,6 +97978,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "VideoPrivacyProtectionAct": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "VideoStoreCulture": [
