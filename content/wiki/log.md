@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Guns Part 5: The Footnote
+
+Added the [[RevisionistHistory]] episode following a footnote in [[PenelopeHanke]] and [[JamesGundlach]]'s “Damned Upon Arrival” to [[BrandonYoung]]'s death. Created bounded profiles for Hanke, Gundlach, Brandon, trauma surgeon [[BabakSarani]], and physician-researcher [[ElizabethTung]], plus [[HomicideAsSurvivalSystemOutcome]]. Resynthesized [[TraumaCareAccessInequality]] and [[MultiInterventionGunViolencePrevention]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: homicide statistics combine severe violence with a survival system. Bleeding, ambulance response, transport distance, trauma-center capability, specialist readiness, payer incentives, and treatment after admission can change whether comparable injuries become deaths and whether assaults become homicide convictions. The Chicago and Alabama accounts show how these mechanisms may compound racial and geographic inequality, while Brandon's reported hour-plus ambulance response for six miles makes the institutional stakes personal.
+
+No settled contradiction was adopted. Medical survival infrastructure complements rather than replaces primary violence prevention, and facility location can reflect caseload, staffing, certification, and regional planning as well as profitability. The Alabama sample and counterfactual are suggestive rather than definitive; its case controls and replication are not supplied. Chicago estimates, payer causality, ambulance timing, dialogue, and individual case conclusions remain episode-scoped because the supplied file is a structured summary rather than a transcript, paper, dataset, dispatch record, medical record, or independent investigation. The broad [[MalcolmGladwell]] and Revisionist History profiles and automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,081 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Unlocking Hidden Potential with Adam Grant
 
 Added the live [[RevisionistHistory]] conversation in which [[MalcolmGladwell]] interviews [[AdamGrant]] about [[HiddenPotential]], starting-ability bias, unseen practice, productive struggle, perfectionism, prestige, admissions, and values-based choice. Resynthesized Grant, the book, [[PotentialAsGrowthRate]], and [[PerfectionismAsAvoidance]] from their complete preserved evidence inventories before appending the new source once, and upgraded [[IvyLeagueMeritocracy]] to the synthesis-v1 contract.
@@ -40940,6 +40950,10 @@ Added a comic [[RevisionistHistory]] travel detour in which [[MalcolmGladwell]] 
 Core synthesis: [[PetTravel]] now extends beyond RV selection to air and ordinary-car transport, including separation anxiety, airline communication, back-seat safety, bedding, toys, illness, treats, and the extra care work animals create. [[ExploratoryTravelSerendipity]] now includes unusual interests and dog parks as routes to memorable encounters, while distinguishing chosen openness from costly disorientation. No settled contradiction was adopted. The episode's Las Vegas, North Carolina, weather-reporting, airline, safety, behavioral, and product claims remain source-scoped because the supplied file is a structured summary rather than a transcript, veterinary guide, transport standard, historical record, or comparative travel study. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,080 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

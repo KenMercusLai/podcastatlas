@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14442
+wiki_total_pages: 14447
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "Penelope"
     title: "Penelope"
     url: "/wiki/entities/penelope/"
+  - key: "PenelopeHanke"
+    title: "Penelope Hanke"
+    url: "/wiki/entities/penelopehanke/"
   - key: "PengLeiHuawei"
     title: "Peng Lei / 彭磊"
     url: "/wiki/entities/pengleihuawei/"

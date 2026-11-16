@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14442
+wiki_total_pages: 14447
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
     url: "/wiki/entities/baicapital/"
+  - key: "BabakSarani"
+    title: "Babak Sarani"
+    url: "/wiki/entities/babaksarani/"
   - key: "BabingtonPlot"
     title: "Babington Plot"
     url: "/wiki/entities/babingtonplot/"
@@ -1187,6 +1190,9 @@ wiki_pages:
   - key: "BrandonScott"
     title: "Brandon Scott"
     url: "/wiki/entities/brandonscott/"
+  - key: "BrandonYoung"
+    title: "Brandon Young"
+    url: "/wiki/entities/brandonyoung/"
   - key: "BRAVOTrial"
     title: "BRAVO Trial"
     url: "/wiki/entities/bravotrial/"

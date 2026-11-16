@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Guns Part 5: The Footnote](sources/guns-part-5-the-footnote.md) — Revisionist History connects trauma timing, racialized care geography, hospital financing, ambulance delay, and homicide classification through Brandon Young's death.
 - [Five Burning Travel Questions with Malcolm Gladwell](sources/five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell.md) — Revisionist History uses comic travel mishaps and dog journeys to connect destination verification, pet logistics, and chance encounters.
 - [Guns Part 6: “Sin is the failure to bother to care”](sources/guns-part-6-sin-is-the-failure-to-bother-to-care.md) — Revisionist History connects Abdullah Pratt's lived and clinical experience to retaliation, moral attention, and community gunshot first aid.
 - [Oil and Blood: The Osage Murders from Cautionary Tales](sources/oil-and-blood-the-osage-murders-from-cautionary-tales.md) — Revisionist History connects Osage oil headrights, racialized guardianship, Hale's inheritance plot, federal investigation, and wider systemic complicity.
@@ -5205,6 +5206,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Brandon Young](entities/BrandonYoung.md) — Teenager whose attempted transition from gang life, protection of three youths, and death anchor the episode's footnote.
+- [James Gundlach](entities/JamesGundlach.md) — Sociologist, informal guardian, and coauthor who used Brandon Young's case as a research dedication.
+- [Penelope Hanke](entities/PenelopeHanke.md) — Coauthor of the Alabama study connecting unequal victim survival to homicide imprisonment.
+- [Babak Sarani](entities/BabakSarani.md) — Trauma surgeon explaining the time-sensitive clinical mechanism linking transport delay to survival.
+- [Elizabeth Tung](entities/ElizabethTung.md) — Physician-researcher connecting Chicago trauma deserts to racial geography, payer incentives, and moral injury.
 - [Abdullah Pratt](entities/AbdullahPratt.md) — Chicago emergency physician joining lived bereavement, trauma care, violence analysis, and youth first-aid training.
 - [William Shockley](entities/WilliamShockley.md) — semiconductor physicist whose technical prestige concentrated talent while destructive management helped disperse it into new firms.
 - [May Bradford Shockley](entities/MayBradfordShockley.md) — Shockley's formidable mother and the episode's proposed private link between Palo Alto and his Mountain View location choice.
@@ -19742,6 +19748,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Homicide as a Survival-System Outcome](concepts/HomicideAsSurvivalSystemOutcome.md) — Framework separating serious violence from the emergency and trauma-system factors that determine fatality and legal classification.
 - [Community Gunshot First Aid](concepts/CommunityGunshotFirstAid.md) — Bystander training for alerting emergency services, locating bleeding, and controlling blood loss before professional care arrives.
 - [Indifference as Moral Failure](concepts/IndifferenceAsMoralFailure.md) — Capacity-sensitive view that failing to notice or help can be morally significant even when one did not cause the harm.
 - [Osage Headright Inheritance](concepts/OsageHeadrightInheritance.md) — mineral-rights inheritance mechanism that preserved Osage value while creating lethal incentives under predatory institutions.

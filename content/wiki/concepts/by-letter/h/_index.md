@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11448
+wiki_total_pages: 11449
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "HomestayDifferentiation"
     title: "Homestay Differentiation"
     url: "/wiki/concepts/homestaydifferentiation/"
+  - key: "HomicideAsSurvivalSystemOutcome"
+    title: "Homicide as a Survival-System Outcome"
+    url: "/wiki/concepts/homicideassurvivalsystemoutcome/"
   - key: "HoneyQualityStandards"
     title: "Honey Quality Standards"
     url: "/wiki/concepts/honeyqualitystandards/"

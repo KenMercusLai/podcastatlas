@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14442
+wiki_total_pages: 14447
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "JamesGraham"
     title: "James Graham / 詹姆斯·格雷厄姆"
     url: "/wiki/entities/jamesgraham/"
+  - key: "JamesGundlach"
+    title: "James Gundlach"
+    url: "/wiki/entities/jamesgundlach/"
   - key: "JamesHacker"
     title: "James Hacker / Jim Hacker / 詹姆斯·哈克"
     url: "/wiki/entities/jameshacker/"
