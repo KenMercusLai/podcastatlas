@@ -101579,6 +101579,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/ericzwick/"
     },
+    "EricaBoothby": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125 [default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125].md",
+          "key": "default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125",
+          "show": "Hidden Brain",
+          "title": "Mind Reading 2.0: How Others See You",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ericaboothby/"
+    },
     "EricaChenoweth": {
       "episode_count": 1,
       "show_count": 1,
@@ -188188,6 +188204,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/lihuaspeechtherapist/"
+    },
+    "LikingGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125 [default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125].md",
+          "key": "default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125",
+          "show": "Hidden Brain",
+          "title": "Mind Reading 2.0: How Others See You",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/likinggap/"
     },
     "LilaScience": {
       "episode_count": 1,
@@ -292717,6 +292749,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/somanysteves/"
     },
+    "SocialAttentionAsymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125 [default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125].md",
+          "key": "default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125",
+          "show": "Hidden Brain",
+          "title": "Mind Reading 2.0: How Others See You",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/socialattentionasymmetry/"
+    },
     "SocialBaseCollapseVsEliteRebellion": {
       "episode_count": 1,
       "show_count": 1,
@@ -293399,9 +293447,9 @@
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SocialMisprediction": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -293430,9 +293478,16 @@
           "show": "Revisionist History",
           "title": "Face Value",
           "url": "/wiki/sources/face-value-face-value/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125 [default.mp3_ywr3ahjkcgo_1dfa7e5aca191bd78c9a8028baf43cb1_50295125].md",
+          "key": "default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125",
+          "show": "Hidden Brain",
+          "title": "Mind Reading 2.0: How Others See You",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/socialmisprediction/"
     },
     "SocialRankFlexibility": {

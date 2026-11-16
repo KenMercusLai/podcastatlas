@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Mind Reading 2.0: How Others See You](sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125.md) — Hidden Brain and Erica Boothby connect the liking gap to private self-criticism, attention asymmetries, indirect signaling, curiosity, and expressed appreciation.
 - [The Benefits of Mixed Emotions](sources/default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474-default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474.md) — Hidden Brain and Naomi Rothman connect emotional ambivalence to social penalties, advice-taking, creativity, cooperative problem-solving, and the promotion-performance paradox in leadership.
 - [How to Change the World](sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134.md) — Hidden Brain and Erica Chenoweth connect comparative campaign success to participation, institutional defection, tactical innovation, discipline, and qualified threshold claims.
 - [You Don't Need a Crystal Ball](sources/default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597.md) — Hidden Brain connects warning reception, trusted messengers, permafrost risk, and Challenger to calibrated probabilistic forecasting.
@@ -5650,6 +5651,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
 - [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, whistleblowing, forgiveness, false confessions, difficult conversations, and chance-sensitive causality.
+- [Erica Boothby](entities/EricaBoothby.md) — Psychologist studying the liking gap and errors in how people infer others' attention and judgments.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
@@ -23612,6 +23614,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宫廷信息纪律 / Palace Information Discipline](concepts/PalaceInformationDiscipline.md) — pattern where officials treat even small palace details as politically sensitive access information.
 - [Everyday Social Connection](concepts/EverydaySocialConnection.md) — Small repeated greetings, compliments, questions, and conversations as low-pressure well-being practice.
 - [Social Misprediction](concepts/SocialMisprediction.md) — Error pattern where people misforecast others' interest, warmth, intelligence, or willingness to help.
+- [Liking Gap](concepts/LikingGap.md) — Tendency to underestimate how much a conversation partner enjoyed the interaction or liked oneself.
+- [Social Attention Asymmetry](concepts/SocialAttentionAsymmetry.md) — Mismatch between private access to one's own salience and limited evidence of what others notice, hide, or remember.
 - [Voice Humanization](concepts/VoiceHumanization.md) — Communication frame where hearing voice makes active thought and personhood more perceptible than text alone.
 - [Real Exposure for Social Anxiety](concepts/RealExposureSocialAnxiety.md) — Social-anxiety practice frame where safe real interaction updates false rejection forecasts.
 - [Diagnosis Personhood Boundary](concepts/DiagnosisPersonhoodBoundary.md) — Disability and parenting caution against letting diagnosis replace attention to the actual person.

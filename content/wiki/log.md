@@ -41686,3 +41686,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Mind Reading 2.0: How Others See You
+
+Added a [[HiddenBrain]] episode with psychologist [[EricaBoothby]] on why people often infer harsher social judgments than their conversation partners report. Created Boothby's focused profile, [[LikingGap]], and [[SocialAttentionAsymmetry]], then resynthesized [[SocialMisprediction]] from its complete preserved five-source inventory.
+
+Core synthesis: private access to mistakes, insecurity, intentions, and self-focused attention can outweigh the hidden evidence of another person's liking, observation, memory, or continuing thought. This produces more than a simple spotlight effect: people may overestimate scrutiny during interaction, underestimate concealed observation outside it, and underestimate how much their words remain in another person's mind. Outside perspective, respectful questions, other-focused curiosity, and expressed appreciation can improve calibration without guaranteeing reciprocity.
+
+No settled contradiction was adopted. More charitable forecasts do not establish that every approach is welcome or safe, and privacy, culture, power, prejudice, or genuine rejection can change both evaluation and the cost of testing it. Lifespan, social-anxiety, narcissism, study-design, effect-size, cultural, and clinical claims remain unresolved or episode-scoped because the supplied file is a structured summary rather than a transcript, paper set, dataset, or clinical guideline. The broad [[HiddenBrain]] profile remained closed because the focused pages capture the durable addition without reopening its unrelated evidence inventory. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,132 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

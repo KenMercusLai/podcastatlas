@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11551
+wiki_total_pages: 11553
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "LightweightGoldJewelryAdaptation"
     title: "Lightweight Gold Jewelry Adaptation / 黄金首饰轻量化"
     url: "/wiki/concepts/lightweightgoldjewelryadaptation/"
+  - key: "LikingGap"
+    title: "Liking Gap"
+    url: "/wiki/concepts/likinggap/"
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1687
+topic_total_pages: 1689
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1369,6 +1369,9 @@ topic_concepts:
   - key: "LightFoodCategoryReframing"
     title: "Light-Food Category Reframing / 轻食品类重构"
     url: "/wiki/concepts/lightfoodcategoryreframing/"
+  - key: "LikingGap"
+    title: "Liking Gap"
+    url: "/wiki/concepts/likinggap/"
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"
@@ -2308,6 +2311,9 @@ topic_concepts:
   - key: "SmartRingHardwareSubscription"
     title: "Smart Ring Hardware Subscription / 智能戒指硬件订阅"
     url: "/wiki/concepts/smartringhardwaresubscription/"
+  - key: "SocialAttentionAsymmetry"
+    title: "Social Attention Asymmetry"
+    url: "/wiki/concepts/socialattentionasymmetry/"
   - key: "SocialComparisonPressure"
     title: "Social Comparison Pressure / 社会比较压力"
     url: "/wiki/concepts/socialcomparisonpressure/"
