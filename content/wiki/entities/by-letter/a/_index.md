@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14645
+wiki_total_pages: 14649
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1472,6 +1472,12 @@ wiki_pages:
   - key: "AndyStumpf"
     title: "Andy Stumpf"
     url: "/wiki/entities/andystumpf/"
+  - key: "AndyWarhol"
+    title: "Andy Warhol"
+    url: "/wiki/entities/andywarhol/"
+  - key: "AndyWarholMuseum"
+    title: "Andy Warhol Museum"
+    url: "/wiki/entities/andywarholmuseum/"
   - key: "AngelOakSmokehouse"
     title: "Angel Oak Smokehouse"
     url: "/wiki/entities/angeloaksmokehouse/"

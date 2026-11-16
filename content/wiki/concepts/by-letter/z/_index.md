@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 11642
+wiki_total_pages: 11644
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"

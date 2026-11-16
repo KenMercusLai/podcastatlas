@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11642
+wiki_total_pages: 11644
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"

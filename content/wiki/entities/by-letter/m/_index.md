@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14645
+wiki_total_pages: 14649
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "Metroland"
     title: "Metroland"
     url: "/wiki/entities/metroland/"
+  - key: "MetropolitanMuseumOfArt"
+    title: "Metropolitan Museum of Art"
+    url: "/wiki/entities/metropolitanmuseumofart/"
   - key: "MetropolitanPolice"
     title: "Metropolitan Police"
     url: "/wiki/entities/metropolitanpolice/"

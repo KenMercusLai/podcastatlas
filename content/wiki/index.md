@@ -5305,8 +5305,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 - [You 2.0: Our Pursuit of Happiness](sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002.md) — Hidden Brain and Emily Balcetis connect narrow targets, materialized intentions, visual choice design, obstacle rehearsal, and wide-bracket review to goal pursuit.
 - [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
+- [Dragon Psychology 101](sources/dragon-psychology-101-dragon-psychology-101.md) — Revisionist History connects museum accumulation, collection accounting, Warhol's archive, hoarding psychology, and object-mediated memory.
 
 ## Entities
+- [Metropolitan Museum of Art](entities/MetropolitanMuseumOfArt.md) — New York museum used to examine financial strain, acquisition, inaccessible holdings, collection accounting, and resistance to disposal.
+- [Andy Warhol Museum](entities/AndyWarholMuseum.md) — Single-artist museum preserving time capsules, ephemera, containers, arrangement, and personal effects as contextual evidence.
+- [Andy Warhol](entities/AndyWarhol.md) — Artist whose flea-market collecting, time capsules, and broad object sensitivity became an institutional archive.
+- [Randy Frost](entities/RandyFrost.md) — Psychologist connecting hoarding with usefulness, emotional attachment, aesthetic sensitivity, autobiographical memory, and identity.
 - [Hedwig Ullmann](entities/HedwigUllmann.md) — German Jewish collector whose forced exile dispersed a collection later reconstructed through descendant provenance research.
 - [Claude Ullin](entities/ClaudeUllin.md) — Hedwig Ullmann’s grandson, family archivist, and restitution claimant linking lost artworks to memory and healing.
 - [Sophie Ullman](entities/SophieUllman.md) — Great-granddaughter interpreting the family’s lost artworks through gratitude, inherited grief, and restitution as healing.
@@ -20048,6 +20053,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 
 ## Concepts
+- [Object-Mediated Memory and Identity](concepts/ObjectMediatedMemoryAndIdentity.md) — Physical possessions as cues that retrieve autobiographical memory, sustain emotional continuity, and materialize parts of the self.
+- [Museum Collection Noncapitalization](concepts/MuseumCollectionNoncapitalization.md) — Accounting treatment that excludes collection value from the main statement of financial position while leaving governance questions unresolved.
 - [Holocaust-Era Art Restitution](concepts/HolocaustEraArtRestitution.md) — Provenance-sensitive recovery or acknowledgment of art lost through persecution, forced sale, pressured consignment, or refugee flight.
 - [Legal Title and Moral Ownership](concepts/LegalTitleAndMoralOwnership.md) — Distinction between enforceable possession and an ethically sufficient reason to retain, use, display, or profit from an object.
 - [Museum Collection Stewardship](concepts/MuseumCollectionStewardship.md) — Mission-based review of acquisition, storage, display, deaccessioning, and restitution rather than permanent retention by default.

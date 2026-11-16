@@ -42340,3 +42340,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Dragon Psychology 101
+
+Added a [[RevisionistHistory]] episode connecting the [[MetropolitanMuseumOfArt|Metropolitan Museum of Art]]'s financial and accounting paradox with the [[AndyWarholMuseum]], [[AndyWarhol]]'s accumulation, and [[RandyFrost]]'s psychology of attachment. Created focused pages for those four entities, [[ObjectMediatedMemoryAndIdentity]], and [[MuseumCollectionNoncapitalization]], then resynthesized [[MuseumCollectionStewardship]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: usefulness, emotion, aesthetic attention, and autobiographical memory can make disposal feel like loss of meaning or self; museums can inherit a related reluctance through provenance, preservation duties, and institutional identity. Collection noncapitalization reinforces the separation from ordinary asset logic, but neither accounting treatment nor the Smaug analogy settles mission, public trust, donor, research, legal, or ethical obligations.
+
+No settled contradiction was adopted. The museum-hoarding comparison remains an argumentative analogy rather than a clinical equivalence, and the episode's collection counts, financial history, accounting effects, and institutional motives remain source-scoped. Broad [[MalcolmGladwell]], Revisionist History, Tolkien, and dragon profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,181 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

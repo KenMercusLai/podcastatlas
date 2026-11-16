@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11642
+wiki_total_pages: 11644
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1913,6 +1913,9 @@ wiki_pages:
   - key: "MuscularChristianity"
     title: "Muscular Christianity"
     url: "/wiki/concepts/muscularchristianity/"
+  - key: "MuseumCollectionNoncapitalization"
+    title: "Museum Collection Noncapitalization"
+    url: "/wiki/concepts/museumcollectionnoncapitalization/"
   - key: "MuseumCollectionStewardship"
     title: "Museum Collection Stewardship"
     url: "/wiki/concepts/museumcollectionstewardship/"

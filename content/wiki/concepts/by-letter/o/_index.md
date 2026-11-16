@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11642
+wiki_total_pages: 11644
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "ObamacareSubsidyCliff"
     title: "Obamacare Subsidy Cliff"
     url: "/wiki/concepts/obamacaresubsidycliff/"
+  - key: "ObjectMediatedMemoryAndIdentity"
+    title: "Object-Mediated Memory and Identity"
+    url: "/wiki/concepts/objectmediatedmemoryandidentity/"
   - key: "ObjectiveDeception"
     title: "Objective Deception"
     url: "/wiki/concepts/objectivedeception/"

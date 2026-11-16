@@ -19564,6 +19564,38 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/andystumpf/"
     },
+    "AndyWarhol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/andywarhol/"
+    },
+    "AndyWarholMuseum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/andywarholmuseum/"
+    },
     "AnemiaDiagnosticReasoning": {
       "episode_count": 1,
       "show_count": 1,
@@ -215967,6 +215999,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/metroland/"
     },
+    "MetropolitanMuseumOfArt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/metropolitanmuseumofart/"
+    },
     "MetropolitanPolice": {
       "episode_count": 3,
       "show_count": 2,
@@ -224939,10 +224987,26 @@
       "updated": "2026-10-23",
       "url": "/wiki/entities/musepersonalagent/"
     },
-    "MuseumCollectionStewardship": {
+    "MuseumCollectionNoncapitalization": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/museumcollectionnoncapitalization/"
+    },
+    "MuseumCollectionStewardship": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Hedwig_s_Lost_Van_Gogh [Hedwig_s_Lost_Van_Gogh].md",
@@ -224950,6 +225014,13 @@
           "show": "Revisionist History",
           "title": "Hedwig’s Lost Van Gogh",
           "url": "/wiki/sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh/"
+        },
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
         }
       ],
       "updated": "2026-11-17",
@@ -234374,6 +234445,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/oberost/"
+    },
+    "ObjectMediatedMemoryAndIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/objectmediatedmemoryandidentity/"
     },
     "ObjectMediatedPoliticalUltimatum": {
       "episode_count": 1,
@@ -266142,6 +266229,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/randomizedcontrolledtrials/"
+    },
+    "RandyFrost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dragon_Psychology_101 [Dragon_Psychology_101].md",
+          "key": "dragon-psychology-101-dragon-psychology-101",
+          "show": "Revisionist History",
+          "title": "Dragon Psychology 101",
+          "url": "/wiki/sources/dragon-psychology-101-dragon-psychology-101/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/randyfrost/"
     },
     "RandyNewman": {
       "episode_count": 1,

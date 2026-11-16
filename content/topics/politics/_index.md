@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3576
+topic_total_pages: 3577
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2932,6 +2932,9 @@ topic_concepts:
   - key: "MultidimensionalMarriageMeaning"
     title: "Multidimensional Marriage Meaning / 婚姻的多维意义"
     url: "/wiki/concepts/multidimensionalmarriagemeaning/"
+  - key: "MuseumCollectionNoncapitalization"
+    title: "Museum Collection Noncapitalization"
+    url: "/wiki/concepts/museumcollectionnoncapitalization/"
   - key: "MuslimPersonalLawIndia"
     title: "Muslim Personal Law in India"
     url: "/wiki/concepts/muslimpersonallawindia/"
