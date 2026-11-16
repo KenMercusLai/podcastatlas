@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3567
+topic_total_pages: 3572
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -733,6 +733,9 @@ topic_concepts:
   - key: "ChildrensMediaValuesDebate"
     title: "Children's Media Values Debate"
     url: "/wiki/concepts/childrensmediavaluesdebate/"
+  - key: "ChildrensNarrativeLegalSocialization"
+    title: "Children's Narrative Legal Socialization"
+    url: "/wiki/concepts/childrensnarrativelegalsocialization/"
   - key: "ChinaAnimalProtectionLawGap"
     title: "China Animal Protection Law Gap / 中国动物保护立法空白"
     url: "/wiki/concepts/chinaanimalprotectionlawgap/"
@@ -1807,6 +1810,9 @@ topic_concepts:
   - key: "FormalEqualityStructuralDiscrimination"
     title: "Formal Equality and Structural Discrimination / 形式平等与结构性歧视"
     url: "/wiki/concepts/formalequalitystructuraldiscrimination/"
+  - key: "FormalLegalityJusticeGap"
+    title: "Formal Legality-Justice Gap"
+    url: "/wiki/concepts/formallegalityjusticegap/"
   - key: "FoundationOwnedBrandStewardship"
     title: "Foundation-Owned Brand Stewardship"
     url: "/wiki/concepts/foundationownedbrandstewardship/"
@@ -4810,6 +4816,9 @@ topic_concepts:
   - key: "VillageSelfGovernance"
     title: "Village Self-Governance / 村庄自主治理"
     url: "/wiki/concepts/villageselfgovernance/"
+  - key: "ViolenceAsInstitutionalSubstitute"
+    title: "Violence as Institutional Substitute"
+    url: "/wiki/concepts/violenceasinstitutionalsubstitute/"
   - key: "VirtueOverNaturalBarriers"
     title: "Virtue Over Natural Barriers / 德胜地险"
     url: "/wiki/concepts/virtueovernaturalbarriers/"
@@ -7265,6 +7274,9 @@ topic_entities:
   - key: "LatinAmerica"
     title: "Latin America"
     url: "/wiki/entities/latinamerica/"
+  - key: "LauraBethNielsen"
+    title: "Laura Beth Nielsen"
+    url: "/wiki/entities/laurabethnielsen/"
   - key: "LauraIves"
     title: "Laura Ives"
     url: "/wiki/entities/lauraives/"
@@ -9879,6 +9891,9 @@ topic_sources:
   - key: "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d"
     title: "Latin lessons: the Donroe-doctrine boost"
     url: "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+  - key: "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract"
+    title: "Little Mermaid Part 1: The Golden Contract"
+    url: "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
   - key: "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515"
     title: "Love in the time of Palantir"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515/"

@@ -53936,6 +53936,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/childrensmediavaluesdebate/"
     },
+    "ChildrensNarrativeLegalSocialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Little_Mermaid_Part_1_The_Golden_Contract [Little_Mermaid_Part_1_The_Golden_Contract].md",
+          "key": "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract",
+          "show": "Revisionist History",
+          "title": "Little Mermaid Part 1: The Golden Contract",
+          "url": "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/childrensnarrativelegalsocialization/"
+    },
     "Chile": {
       "episode_count": 4,
       "show_count": 3,
@@ -115801,6 +115817,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/formalequalitystructuraldiscrimination/"
     },
+    "FormalLegalityJusticeGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Little_Mermaid_Part_1_The_Golden_Contract [Little_Mermaid_Part_1_The_Golden_Contract].md",
+          "key": "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract",
+          "show": "Revisionist History",
+          "title": "Little Mermaid Part 1: The Golden Contract",
+          "url": "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/formallegalityjusticegap/"
+    },
     "FormalizedCultivationCritique": {
       "episode_count": 1,
       "show_count": 1,
@@ -139098,9 +139130,9 @@
       "url": "/wiki/entities/hanqingurey/"
     },
     "HansChristianAndersen": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "187.豌豆公主：高敏和混沌是你真名 [999958166].md",
@@ -139122,9 +139154,16 @@
           "show": "The Rest Is History",
           "title": "71. England v Denmark",
           "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
+        },
+        {
+          "episode_file": "Little_Mermaid_Part_1_The_Golden_Contract [Little_Mermaid_Part_1_The_Golden_Contract].md",
+          "key": "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract",
+          "show": "Revisionist History",
+          "title": "Little Mermaid Part 1: The Golden Contract",
+          "url": "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/hanschristianandersen/"
     },
     "HansJonas": {
@@ -183069,6 +183108,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
+    },
+    "LauraBethNielsen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Little_Mermaid_Part_1_The_Golden_Contract [Little_Mermaid_Part_1_The_Golden_Contract].md",
+          "key": "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract",
+          "show": "Revisionist History",
+          "title": "Little Mermaid Part 1: The Golden Contract",
+          "url": "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/laurabethnielsen/"
     },
     "LauraChase": {
       "episode_count": 1,
@@ -313674,6 +313729,29 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/thelifeofjohnson/"
     },
+    "TheLittleMermaid": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "55.安徒生童话：海的女儿和不灭的灵魂 [639782306].md",
+          "key": "55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306",
+          "show": "蜜獾吃书",
+          "title": "55.安徒生童话：海的女儿和不灭的灵魂",
+          "url": "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"
+        },
+        {
+          "episode_file": "Little_Mermaid_Part_1_The_Golden_Contract [Little_Mermaid_Part_1_The_Golden_Contract].md",
+          "key": "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract",
+          "show": "Revisionist History",
+          "title": "Little Mermaid Part 1: The Golden Contract",
+          "url": "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/thelittlemermaid/"
+    },
     "TheLordOfTheRings": {
       "episode_count": 2,
       "show_count": 1,
@@ -329153,6 +329231,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/vinland/"
+    },
+    "ViolenceAsInstitutionalSubstitute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Little_Mermaid_Part_1_The_Golden_Contract [Little_Mermaid_Part_1_The_Golden_Contract].md",
+          "key": "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract",
+          "show": "Revisionist History",
+          "title": "Little Mermaid Part 1: The Golden Contract",
+          "url": "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/violenceasinstitutionalsubstitute/"
     },
     "ViolenceConcentration": {
       "episode_count": 4,

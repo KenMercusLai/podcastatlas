@@ -24604,6 +24604,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChildrensNarrativeLegalSocialization": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Chile": [
     {
       "key": "technology",
@@ -40669,6 +40681,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FormalLegalityJusticeGap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "FormulaOne": [
@@ -57561,6 +57585,18 @@
     }
   ],
   "LaughterAgainstAuthority": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "LauraBethNielsen": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -98395,6 +98431,18 @@
       "url": "/topics/history/"
     }
   ],
+  "ViolenceAsInstitutionalSubstitute": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "VirtualAssetAMLRisk": [
     {
       "key": "economics",
@@ -112194,6 +112242,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan": [

@@ -6,7 +6,8 @@ sources:
   - 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166
   - 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306
   - 71-england-v-denmark-glt2805859297
-last_updated: 2026-10-03
+  - little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Hans Christian Andersen appears as a Danish writer whose compact fairy tales combine satire, sorrow, bodily vulnerability, class anxiety, death, spiritual aspiration, and sympathy for marginal or displaced figures, and whose awkward visit to [[CharlesDickens]] became a comic episode in [[AngloDanishRelations|Anglo-Danish literary relations]].
+Hans Christian Andersen appears as a Danish writer whose compact fairy tales combine satire, sorrow, bodily vulnerability, class anxiety, exclusion, death, spiritual aspiration, and sympathy for marginal or displaced figures, and whose awkward visit to [[CharlesDickens]] became a comic episode in [[AngloDanishRelations|Anglo-Danish literary relations]].
 
 ## Current Profile
 
@@ -24,6 +25,8 @@ The two literary discussions reject the idea that Andersen wrote simplistic mora
 
 The Anglo-Danish survey adds a social-literary afterlife. Andersen admired Dickens intensely and stayed at Gad's Hill for five weeks in 1857, but the episode depicts him as a demanding and emotionally difficult guest whose visit exhausted the Dickens family. The anecdote complicates the sympathetic authorial profile without resolving personality from a single hostile household memory.
 
+The profile now includes a second reading of [[TheLittleMermaid|《海的女儿》]] as a work of transformation and outsider longing. Its voicelessness, bodily pain, rejection, and dissolution are connected to scholarship about Andersen's insecurity and an unreturned attachment to a young man shortly before composition. The biographical parallel helps explain the story's emotional structure but remains an interpretation rather than proof that one relationship determines the tale. [[little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract|Little Mermaid Part 1: The Golden Contract]]
+
 ## Key Characteristics
 
 - Fairy-tale writer for children and adults whose work becomes more realistic, sorrowful, and socially attentive.
@@ -32,21 +35,24 @@ The Anglo-Danish survey adds a social-literary afterlife. Andersen admired Dicke
 - Author for whom death, sacrifice, faith, freedom, and spiritual transformation remain central rather than sanitized.
 - Ambiguous literary figure whose tales can sustain class, gender, bodily, and psychological readings at once.
 - Danish admirer of Dickens remembered through a prolonged and reportedly disastrous English visit.
+- Writer whose outsider experience and unreturned attachment provide a qualified autobiographical context for *The Little Mermaid*.
 
 ## Evidence
 
 - All-ages seriousness and spiritual longing - [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] connects satire, loneliness, death, toys, marginal figures, and *The Little Mermaid*'s freedom and immortal-soul quest.
 - Class, gender, and bodily ambiguity - [[187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]] reads *The Princess and the Pea* and *The Swineherd* through unstable truth, class satire, punishment, sensitivity, and consent.
 - Literary encounter - [[71-england-v-denmark-glt2805859297]] recounts Andersen's 1857 stay with Dickens as admiration turning into household strain and comic Anglo-Danish memory.
+- Outsider and autobiographical reading - [[little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract]] links transformation, exclusion, sacrifice, and unreturned love to Andersen's insecurity and a reported attachment shortly before he wrote *The Little Mermaid*.
 
 ## Qualifications
 
-The literary readings are interpretive podcast discussions rather than a comprehensive biography or survey of Andersen's works. Spiritual, autobiographical, class, gender, and sensitivity readings can coexist without proving authorial intent. Autism- or neurodiversity-related language is explicitly speculative, not diagnosis. The Dickens visit is presented through anecdote and family reaction; reported behavior and retrospective judgments do not establish Andersen's whole personality.
+The literary readings are interpretive podcast discussions rather than a comprehensive biography or survey of Andersen's works. Spiritual, autobiographical, class, gender, and sensitivity readings can coexist without proving authorial intent. The unrequited-attachment account is presented through scholarship summarized by the episode and should not reduce the tale to one biographical key. Autism- or neurodiversity-related language is explicitly speculative, not diagnosis. The Dickens visit is presented through anecdote and family reaction; reported behavior and retrospective judgments do not establish Andersen's whole personality.
 
 ## What Changed
 
 - Recast the earlier prose page into the synthesis schema while preserving its literary evidence inventory.
 - Added the Dickens visit as a qualified biographical and Anglo-Danish cultural episode.
+- Added the qualified outsider and unreturned-love context for *The Little Mermaid*.
 
 ## Relationships
 
@@ -56,5 +62,6 @@ The literary readings are interpretive podcast discussions rather than a compreh
 - [[CharlesDickens]] - admired English author and host of Andersen's difficult 1857 visit.
 - [[AdultFairyTaleReading]] - framework for reading the tales beyond childhood nostalgia.
 - [[FairyTaleDeathAndSpirituality]] - account of Andersen's refusal to remove death and spiritual desire from children's literature.
+- [[AdaptationOriginalTextConfusion]] - separates Andersen's tragic structure from Disney's romance-and-villain reorganization.
 - [[LiteraryAmbiguityAsComplexity]] - relationship explaining how opposed readings can remain active within a very short tale.
 - [[AngloDanishRelations]] - cultural relationship in which literary admiration also produced discomfort and comic memory.

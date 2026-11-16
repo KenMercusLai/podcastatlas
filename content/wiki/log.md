@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Little Mermaid Part 1: The Golden Contract
+
+Added a [[RevisionistHistory]] episode in which [[MalcolmGladwell]] and [[LauraBethNielsen|Laura Beth Nielsen]] read Disney's *The Little Mermaid* as an early model of law, morality, and justice. Created Nielsen's focused profile plus [[ChildrensNarrativeLegalSocialization]], [[FormalLegalityJusticeGap]], and [[ViolenceAsInstitutionalSubstitute]], then resynthesized [[HansChristianAndersen|Hans Christian Andersen]] and [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Ursula's golden contract turns documentary form into apparently absolute legitimacy even though Ariel is a minor, surrenders her voice, risks enslavement, and faces interference by the stronger party. Triton's inability to undo the bargain and the absence of review, trial, or arrest leave Eric's killing of Ursula as the effective remedy, making violence substitute for institutional justice. Andersen's original remains distinct: its pain, silence, spiritual aspiration, outsider longing, and unreturned love form a tragedy rather than Disney's simple villain structure.
+
+No settled contradiction was adopted. Andersen's sea witch and Disney's Ursula belong to different versions, while the episode's child-influence claim is interpretive rather than supported here by direct causal evidence. Contract doctrine, biographical interpretation, film-study prevalence, and audience effects remain source-scoped because the supplied file is a structured summary without underlying transcripts, legal citations, methods, samples, or effect sizes. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and [[TheWaltDisneyCompany]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,162 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | You 2.0: Cultivating Your Purpose
 
 Added the [[HiddenBrain]] episode with psychologist [[AnthonyBurrow]] on [[PurposeAsOngoingDirection]], [[PurposeCultivationPathways]], identity development, emotional stability, effort, and unequal access to possible futures. Created focused synthesis-first profiles for Burrow and [[GripTape]], then resynthesized [[PurposeIntegratedMotivation]] and Hidden Brain from their complete preserved evidence inventories before appending the new source once.
@@ -42084,6 +42094,10 @@ Core synthesis: calm intentions do not guarantee access to the same priorities u
 No settled contradiction was adopted. Failure to leave, confront, or resist does not establish consent, while state-dependent explanation does not erase accountability. The ice-water, sexual-arousal, harassment, training, addiction, and policy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, ethics materials, replication evidence, or policy evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,160 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide validator still reports 60 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

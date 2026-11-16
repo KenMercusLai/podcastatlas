@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3774
+topic_total_pages: 3778
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -703,6 +703,9 @@ topic_concepts:
   - key: "ChildrensMediaValuesDebate"
     title: "Children's Media Values Debate"
     url: "/wiki/concepts/childrensmediavaluesdebate/"
+  - key: "ChildrensNarrativeLegalSocialization"
+    title: "Children's Narrative Legal Socialization"
+    url: "/wiki/concepts/childrensnarrativelegalsocialization/"
   - key: "ChinaFilmSchedulingRisk"
     title: "China Film Scheduling Risk / 中国电影档期风险"
     url: "/wiki/concepts/chinafilmschedulingrisk/"
@@ -1579,6 +1582,9 @@ topic_concepts:
   - key: "FootballYouthAcademyContinuity"
     title: "Football Youth Academy Continuity"
     url: "/wiki/concepts/footballyouthacademycontinuity/"
+  - key: "FormalLegalityJusticeGap"
+    title: "Formal Legality-Justice Gap"
+    url: "/wiki/concepts/formallegalityjusticegap/"
   - key: "FormulaicProductionArtisticConfinement"
     title: "Formulaic Production and Artistic Confinement"
     url: "/wiki/concepts/formulaicproductionartisticconfinement/"
@@ -3838,6 +3844,9 @@ topic_concepts:
   - key: "VietnamWarCredibilityCollapse"
     title: "Vietnam War Credibility Collapse"
     url: "/wiki/concepts/vietnamwarcredibilitycollapse/"
+  - key: "ViolenceAsInstitutionalSubstitute"
+    title: "Violence as Institutional Substitute"
+    url: "/wiki/concepts/violenceasinstitutionalsubstitute/"
   - key: "VisibilityDrivenPolicyUrgency"
     title: "Visibility-Driven Policy Urgency"
     url: "/wiki/concepts/visibilitydrivenpolicyurgency/"
@@ -5696,6 +5705,9 @@ topic_entities:
   - key: "LateTalk"
     title: "LateTalk"
     url: "/wiki/entities/latetalk/"
+  - key: "LauraBethNielsen"
+    title: "Laura Beth Nielsen"
+    url: "/wiki/entities/laurabethnielsen/"
   - key: "LauraCirelli"
     title: "Laura Cirelli"
     url: "/wiki/entities/lauracirelli/"
