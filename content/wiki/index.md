@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Guns Part 4: Moral Hazard](sources/guns-part-4-moral-hazard.md) — Revisionist History separates shooting exposure from medically mediated homicide and qualifies the claim that trauma success weakens prevention pressure.
 - [Guns Part 5: The Footnote](sources/guns-part-5-the-footnote.md) — Revisionist History connects trauma timing, racialized care geography, hospital financing, ambulance delay, and homicide classification through Brandon Young's death.
 - [Five Burning Travel Questions with Malcolm Gladwell](sources/five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell.md) — Revisionist History uses comic travel mishaps and dog journeys to connect destination verification, pet logistics, and chance encounters.
 - [Guns Part 6: “Sin is the failure to bother to care”](sources/guns-part-6-sin-is-the-failure-to-bother-to-care.md) — Revisionist History connects Abdullah Pratt's lived and clinical experience to retaliation, moral attention, and community gunshot first aid.
@@ -5206,6 +5207,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Edward Cornwell](entities/EdwardCornwell.md) — Trauma surgeon explaining clinical learning, survival gains, and the limits of hospital-only responses to gun violence.
+- [Jordan Komisarow](entities/JordanKomisarow.md) — Trauma neurosurgeon comparing Robert F. Kennedy's 1968 treatment with a qualified modern survival pathway.
+- [Natalie Hipple](entities/NatalieHipple.md) — Criminologist using police and medical records to measure nonfatal shooting exposure.
 - [Brandon Young](entities/BrandonYoung.md) — Teenager whose attempted transition from gang life, protection of three youths, and death anchor the episode's footnote.
 - [James Gundlach](entities/JamesGundlach.md) — Sociologist, informal guardian, and coauthor who used Brandon Young's case as a research dedication.
 - [Penelope Hanke](entities/PenelopeHanke.md) — Coauthor of the Alabama study connecting unequal victim survival to homicide imprisonment.
@@ -19748,6 +19752,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Trauma-Care Moral Hazard](concepts/TraumaCareMoralHazard.md) — Qualified hypothesis that medically reduced mortality can mask shootings and weaken prevention pressure.
+- [Nonfatal Shooting Measurement](concepts/NonfatalShootingMeasurement.md) — Linked measurement of shooting exposure, injury, treatment outcome, and death beyond homicide counts.
 - [Homicide as a Survival-System Outcome](concepts/HomicideAsSurvivalSystemOutcome.md) — Framework separating serious violence from the emergency and trauma-system factors that determine fatality and legal classification.
 - [Community Gunshot First Aid](concepts/CommunityGunshotFirstAid.md) — Bystander training for alerting emergency services, locating bleeding, and controlling blood loss before professional care arrives.
 - [Indifference as Moral Failure](concepts/IndifferenceAsMoralFailure.md) — Capacity-sensitive view that failing to notice or help can be morally significant even when one did not cause the harm.

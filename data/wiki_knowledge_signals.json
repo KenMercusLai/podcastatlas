@@ -90141,6 +90141,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/edwardcoke/"
     },
+    "EdwardCornwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_4_Moral_Hazard [Guns_Part_4_Moral_Hazard].md",
+          "key": "guns-part-4-moral-hazard",
+          "show": "Revisionist History",
+          "title": "Guns Part 4: Moral Hazard",
+          "url": "/wiki/sources/guns-part-4-moral-hazard/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/edwardcornwell/"
+    },
     "EdwardGrey": {
       "episode_count": 3,
       "show_count": 1,
@@ -144733,9 +144749,9 @@
       "url": "/wiki/concepts/homericnostos/"
     },
     "HomicideAsSurvivalSystemOutcome": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Guns_Part_5_The_Footnote [Guns_Part_5_The_Footnote].md",
@@ -144743,6 +144759,13 @@
           "show": "Revisionist History",
           "title": "Guns Part 5: The Footnote",
           "url": "/wiki/sources/guns-part-5-the-footnote/"
+        },
+        {
+          "episode_file": "Guns_Part_4_Moral_Hazard [Guns_Part_4_Moral_Hazard].md",
+          "key": "guns-part-4-moral-hazard",
+          "show": "Revisionist History",
+          "title": "Guns Part 4: Moral Hazard",
+          "url": "/wiki/sources/guns-part-4-moral-hazard/"
         }
       ],
       "updated": "2026-11-16",
@@ -171493,6 +171516,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/jonathanwilsonfootballwriter/"
+    },
+    "JordanKomisarow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_4_Moral_Hazard [Guns_Part_4_Moral_Hazard].md",
+          "key": "guns-part-4-moral-hazard",
+          "show": "Revisionist History",
+          "title": "Guns Part 4: Moral Hazard",
+          "url": "/wiki/sources/guns-part-4-moral-hazard/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/jordankomisarow/"
     },
     "JordanNanos": {
       "episode_count": 1,
@@ -221957,6 +221996,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/nataliecrawford/"
     },
+    "NatalieHipple": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_4_Moral_Hazard [Guns_Part_4_Moral_Hazard].md",
+          "key": "guns-part-4-moral-hazard",
+          "show": "Revisionist History",
+          "title": "Guns Part 4: Moral Hazard",
+          "url": "/wiki/sources/guns-part-4-moral-hazard/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/nataliehipple/"
+    },
     "NatalieStokel": {
       "episode_count": 1,
       "show_count": 1,
@@ -227389,6 +227444,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/nonalignedcourtsurvival/"
+    },
+    "NonfatalShootingMeasurement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_4_Moral_Hazard [Guns_Part_4_Moral_Hazard].md",
+          "key": "guns-part-4-moral-hazard",
+          "show": "Revisionist History",
+          "title": "Guns Part 4: Moral Hazard",
+          "url": "/wiki/sources/guns-part-4-moral-hazard/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/nonfatalshootingmeasurement/"
     },
     "NongfuSpring": {
       "episode_count": 2,
@@ -315058,6 +315129,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/traumacareaccessinequality/"
+    },
+    "TraumaCareMoralHazard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_4_Moral_Hazard [Guns_Part_4_Moral_Hazard].md",
+          "key": "guns-part-4-moral-hazard",
+          "show": "Revisionist History",
+          "title": "Guns Part 4: Moral Hazard",
+          "url": "/wiki/sources/guns-part-4-moral-hazard/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/traumacaremoralhazard/"
     },
     "TraumaConsequenceInstitutionalCrimeNarrative": {
       "episode_count": 1,

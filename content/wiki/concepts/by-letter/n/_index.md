@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11449
+wiki_total_pages: 11451
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "NonStandardLodgingSearch"
     title: "Non-Standard Lodging Search / 非标住宿搜索"
     url: "/wiki/concepts/nonstandardlodgingsearch/"
+  - key: "NonfatalShootingMeasurement"
+    title: "Nonfatal Shooting Measurement"
+    url: "/wiki/concepts/nonfatalshootingmeasurement/"
   - key: "NonfictionPublicness"
     title: "Nonfiction Publicness"
     url: "/wiki/concepts/nonfictionpublicness/"

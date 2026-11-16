@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11449
+wiki_total_pages: 11451
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "TraumaCareAccessInequality"
     title: "Trauma-Care Access Inequality"
     url: "/wiki/concepts/traumacareaccessinequality/"
+  - key: "TraumaCareMoralHazard"
+    title: "Trauma-Care Moral Hazard"
+    url: "/wiki/concepts/traumacaremoralhazard/"
   - key: "TraumaConsequenceInstitutionalCrimeNarrative"
     title: "Trauma-Consequence Institutional Crime Narrative / 创伤后果与制度犯罪叙事"
     url: "/wiki/concepts/traumaconsequenceinstitutionalcrimenarrative/"

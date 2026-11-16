@@ -40958,3 +40958,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Guns Part 4: Moral Hazard
+
+Added the [[RevisionistHistory]] episode using [[RobertFKennedy|Robert F. Kennedy]]'s 1968 treatment, trauma-system trends, and [[NatalieHipple]]'s Indianapolis work to separate shooting exposure from medically mediated death. Created bounded profiles for [[EdwardCornwell]], [[JordanKomisarow]], and [[NatalieHipple]], plus [[NonfatalShootingMeasurement]] and [[TraumaCareMoralHazard]].
+
+Core synthesis: [[HomicideAsSurvivalSystemOutcome]] now includes historical treatment comparison and the possibility that rising injury or severity can coexist with falling mortality. Nonfatal shooting data are necessary to determine whether lower homicide reflects less violence or better survival. The episode's moral-hazard claim remains qualified: statistical masking is plausible and supported more directly than any resulting change in public, media, advocacy, or legislative behavior.
+
+No settled contradiction was adopted. Kennedy's survival, Cornwell's survival estimate, the trauma-improvement rate, the national counterfactual homicide range, Memphis trends, Indianapolis findings, and political effects remain episode-scoped because the supplied file is a structured summary rather than a transcript, clinical record, underlying study, or dataset. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[RobertFKennedy]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,082 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

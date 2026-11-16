@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14447
+wiki_total_pages: 14450
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "JordanBelfort"
     title: "Jordan Belfort"
     url: "/wiki/entities/jordanbelfort/"
+  - key: "JordanKomisarow"
+    title: "Jordan Komisarow"
+    url: "/wiki/entities/jordankomisarow/"
   - key: "JordanNanos"
     title: "Jordan Nanos"
     url: "/wiki/entities/jordannanos/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1671
+topic_total_pages: 1672
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2975,6 +2975,9 @@ topic_entities:
   - key: "EddieChang"
     title: "Eddie Chang"
     url: "/wiki/entities/eddiechang/"
+  - key: "EdwardCornwell"
+    title: "Edward Cornwell"
+    url: "/wiki/entities/edwardcornwell/"
   - key: "EdwardJonesPsychologist"
     title: "Edward Jones / 爱德华·琼斯"
     url: "/wiki/entities/edwardjonespsychologist/"
