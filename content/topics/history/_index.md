@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2822
+topic_total_pages: 2824
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2234,6 +2234,9 @@ topic_entities:
   - key: "HardcoreHistory"
     title: "Hardcore History"
     url: "/wiki/entities/hardcorehistory/"
+  - key: "HaywoodHansell"
+    title: "Haywood Hansell"
+    url: "/wiki/entities/haywoodhansell/"
   - key: "HeinrichSchliemann"
     title: "Heinrich Schliemann"
     url: "/wiki/entities/heinrichschliemann/"
@@ -2510,6 +2513,9 @@ topic_entities:
   - key: "TerracottaArmy"
     title: "Terracotta Army / 兵马俑"
     url: "/wiki/entities/terracottaarmy/"
+  - key: "TheBomberMafiaBook"
+    title: "The Bomber Mafia"
+    url: "/wiki/entities/thebombermafiabook/"
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"

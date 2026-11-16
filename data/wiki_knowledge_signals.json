@@ -9050,9 +9050,9 @@
       "url": "/wiki/entities/adamgopnik/"
     },
     "AdamGrant": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -9074,9 +9074,16 @@
           "show": "Revisionist History",
           "title": "Unlocking Hidden Potential with Adam Grant",
           "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
+        },
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamHamilton": {
@@ -66945,6 +66952,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/contextualmonarchicalsuccess/"
     },
+    "ContextualMoralJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/contextualmoraljudgment/"
+    },
     "ContextualProductEducation": {
       "episode_count": 1,
       "show_count": 1,
@@ -73119,9 +73142,9 @@
       "url": "/wiki/concepts/cursushonorum/"
     },
     "CurtisLeMay": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8855008412 [GLT8855008412].md",
@@ -73129,9 +73152,16 @@
           "show": "The Rest Is History",
           "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
           "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        },
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/curtislemay/"
     },
     "CustomGovernanceBeyondPaperAdministration": {
@@ -139996,6 +140026,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/harlemglobetrotters/"
     },
+    "HarmoniousPassion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/harmoniouspassion/"
+    },
     "HaroldDavidson": {
       "episode_count": 1,
       "show_count": 1,
@@ -140611,6 +140657,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/hawkhurstgang/"
+    },
+    "HaywoodHansell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/haywoodhansell/"
     },
     "HazelGroveCustoms": {
       "episode_count": 1,
@@ -160365,6 +160427,22 @@
       ],
       "updated": "2026-11-14",
       "url": "/wiki/concepts/innovationdrugtranslationsystem/"
+    },
+    "InnovationVisionExecutionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/innovationvisionexecutiongap/"
     },
     "InnovativeDrugClinicalBenefitThreshold": {
       "episode_count": 2,
@@ -217288,9 +217366,9 @@
       "url": "/wiki/entities/mikebirbiglia/"
     },
     "MikeLazaridis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_BlackBerry_Problem_The_Mistakes_Series [The_BlackBerry_Problem_The_Mistakes_Series].md",
@@ -217298,9 +217376,16 @@
           "show": "Revisionist History",
           "title": "The BlackBerry Problem | The Mistakes Series",
           "url": "/wiki/sources/the-blackberry-problem-the-mistakes-series-the-blackberry-problem-the-mistakes-series/"
+        },
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/mikelazaridis/"
     },
     "MikePitts": {
@@ -256991,6 +257076,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/principateconstitutionalfiction/"
     },
+    "PrincipleStrategySeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/principlestrategyseparation/"
+    },
     "PrincipledNonKillingUnderRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -282690,9 +282791,9 @@
       "url": "/wiki/concepts/scientificselfcorrection/"
     },
     "ScientistModeThinking": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -282700,9 +282801,16 @@
           "show": "Huberman Lab",
           "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
           "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+        },
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/scientistmodethinking/"
     },
     "ScipioAemilianus": {
@@ -313360,6 +313468,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/theblitz/"
     },
+    "TheBomberMafiaBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/thebombermafiabook/"
+    },
     "TheCanterburyTales": {
       "episode_count": 1,
       "show_count": 1,
@@ -315763,6 +315887,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/thinsolesneakerrevival/"
+    },
+    "ThinkAgainBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
+          "key": "malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell and Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/thinkagainbook/"
     },
     "ThirdCenturyCrisis": {
       "episode_count": 3,

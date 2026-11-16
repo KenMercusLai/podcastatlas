@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14615
+wiki_total_pages: 14618
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "TheBlindAssassinNovel"
     title: "The Blind Assassin / 《盲刺客》"
     url: "/wiki/entities/theblindassassinnovel/"
+  - key: "TheBomberMafiaBook"
+    title: "The Bomber Mafia"
+    url: "/wiki/entities/thebombermafiabook/"
   - key: "TheCanterburyTales"
     title: "The Canterbury Tales"
     url: "/wiki/entities/thecanterburytales/"
@@ -794,6 +797,9 @@ wiki_pages:
   - key: "ThielFellowship"
     title: "Thiel Fellowship"
     url: "/wiki/entities/thielfellowship/"
+  - key: "ThinkAgainBook"
+    title: "Think Again"
+    url: "/wiki/entities/thinkagainbook/"
   - key: "ThinkingMachinesLab"
     title: "Thinking Machines Lab"
     url: "/wiki/entities/thinkingmachineslab/"

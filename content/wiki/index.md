@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Malcolm Gladwell and Adam Grant](sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant.md) — Revisionist History conversation on constrained moral judgment, innovation execution, harmonious passion, scientist-mode rethinking, and durable principles with revisable plans.
 - [Lord of the Rankings](sources/lord-of-the-rankings-lord-of-the-rankings.md) — Revisionist History uses Reed's ranking reconstruction, weakly informed peer assessment, and HBCU bond costs to expose circular and racialized institutional reputation.
 - [Project Dillard](sources/project-dillard-project-dillard.md) — Revisionist History uses Dillard University to show how wealth, selectivity, student advantage, and reputation can outrank access, support, and developmental contribution.
 - [Little Mermaid Part 1: The Golden Contract](sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract.md) — Revisionist History reads Disney's golden contract as a lesson about formal legality, exploitative consent, children's legal socialization, and violence replacing institutional justice.
@@ -5293,6 +5294,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
+- [Haywood Hansell](entities/HaywoodHansell.md) — Precision-bombing advocate whose humane technological ambition encountered severe wartime execution limits.
+- [The Bomber Mafia](entities/TheBomberMafiaBook.md) — Malcolm Gladwell book about precision air power, operational failure, and catastrophic wartime alternatives.
+- [Think Again](entities/ThinkAgainBook.md) — Adam Grant book framing opinions as hypotheses and plans as revisable while preserving durable principles.
 - [Reed College](entities/ReedCollege.md) — Institution whose public-data ranking reconstruction exposed an exceptional mismatch and the influence of peer assessment.
 - [Kelly McConville](entities/KellyMcConville.md) — Reed statistics professor leading the public-data reconstruction of the U.S. News ranking model.
 - [Dillard University](entities/DillardUniversity.md) — Historically Black liberal arts university used to contrast access and student development with ranking-driven prestige.
@@ -19311,7 +19315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anna Chennault](entities/AnnaChennault.md) — Campaign intermediary whose contact with South Vietnam is documented but whose decisive influence remains contested.
 - [George Wallace](entities/GeorgeWallace.md) — Alabama segregationist who nationalized anti-government and law-and-order grievance in a consequential 1968 third-party campaign.
 - [Lurleen Wallace](entities/LurleenWallace.md) — Alabama proxy governor whose election preserved George Wallace's control despite term limits.
-- [Curtis LeMay](entities/CurtisLeMay.md) — Wallace running mate whose nuclear-weapons remarks created a campaign credibility crisis.
+- [Curtis LeMay](entities/CurtisLeMay.md) — Air commander associated with incendiary bombing and later Wallace running mate whose nuclear remarks created a campaign crisis.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
@@ -20004,6 +20008,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Contextual Moral Judgment](concepts/ContextualMoralJudgment.md) — Evaluation that incorporates constraints, feasible alternatives, and execution difficulty without converting explanation into exoneration.
+- [Innovation Vision-Execution Gap](concepts/InnovationVisionExecutionGap.md) — Distance between an attractive theory of technological change and reliable, responsible performance under operating conditions.
+- [Harmonious Passion](concepts/HarmoniousPassion.md) — Intrinsically chosen, pleasurable immersion compatible with restraint, recovery, relationships, and wider life.
+- [Principle-Strategy Separation](concepts/PrincipleStrategySeparation.md) — Practice of preserving a cause or value while treating the current plan for advancing it as revisable.
 - [Institutional Reputation Feedback Loop](concepts/InstitutionalReputationFeedbackLoop.md) — Mechanism through which prior status and visibility shape weakly informed ratings that then reproduce status, visibility, and resource access.
 - [College Ranking Privilege](concepts/CollegeRankingPrivilege.md) — Pattern in which wealth, student advantage, selectivity, completion, and reputation are repeatedly counted as educational quality.
 - [Children's Narrative Legal Socialization](concepts/ChildrensNarrativeLegalSocialization.md) — How stories supply early models of rules, authority, fairness, and remedies without mechanically determining children's beliefs.

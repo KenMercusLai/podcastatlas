@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3880
+topic_total_pages: 3881
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3097,6 +3097,9 @@ topic_concepts:
   - key: "InfrastructureSoftwareRevaluation"
     title: "Infrastructure Software Revaluation"
     url: "/wiki/concepts/infrastructuresoftwarerevaluation/"
+  - key: "InnovationVisionExecutionGap"
+    title: "Innovation Vision-Execution Gap"
+    url: "/wiki/concepts/innovationvisionexecutiongap/"
   - key: "InstitutionalKnowledgeTransfer"
     title: "Institutional Knowledge Transfer"
     url: "/wiki/concepts/institutionalknowledgetransfer/"

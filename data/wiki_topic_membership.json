@@ -46982,6 +46982,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HaywoodHansell": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HeJiachen": [
     {
       "key": "technology",
@@ -51667,6 +51674,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "InnovationVisionExecutionGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "InnovativeDrugCommercialInsuranceCatalog": [
@@ -93221,6 +93235,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheBomberMafiaBook": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheBoyAndTheHeron": [
     {
       "key": "culture",
@@ -94213,6 +94239,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ThinkAgainBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ThirdFrontConstruction": [

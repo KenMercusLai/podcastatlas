@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11608
+wiki_total_pages: 11612
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "InjuryRecoveryAdherence"
     title: "Injury Recovery Adherence"
     url: "/wiki/concepts/injuryrecoveryadherence/"
+  - key: "InnovationVisionExecutionGap"
+    title: "Innovation Vision-Execution Gap"
+    url: "/wiki/concepts/innovationvisionexecutiongap/"
   - key: "InnovationDrugTranslationSystem"
     title: "Innovation-Drug Translation System / 创新药转化系统"
     url: "/wiki/concepts/innovationdrugtranslationsystem/"

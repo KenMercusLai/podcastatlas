@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1714
+topic_total_pages: 1715
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3746,6 +3746,9 @@ topic_entities:
   - key: "TheodoreSimon"
     title: "Theodore Simon / 西奥多·西蒙"
     url: "/wiki/entities/theodoresimon/"
+  - key: "ThinkAgainBook"
+    title: "Think Again"
+    url: "/wiki/entities/thinkagainbook/"
   - key: "TianjinUniversity"
     title: "Tianjin University / 天津大学"
     url: "/wiki/entities/tianjinuniversity/"

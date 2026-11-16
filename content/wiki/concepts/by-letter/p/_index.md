@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11608
+wiki_total_pages: 11612
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2183,6 +2183,9 @@ wiki_pages:
   - key: "PrincipateConstitutionalFiction"
     title: "Principate Constitutional Fiction"
     url: "/wiki/concepts/principateconstitutionalfiction/"
+  - key: "PrincipleStrategySeparation"
+    title: "Principle-Strategy Separation"
+    url: "/wiki/concepts/principlestrategyseparation/"
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"

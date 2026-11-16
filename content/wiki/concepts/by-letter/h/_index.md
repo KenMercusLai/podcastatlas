@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11608
+wiki_total_pages: 11612
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "HaremSuccessionRiskControl"
     title: "Harem Succession Risk Control / 后宫继承风险控制"
     url: "/wiki/concepts/haremsuccessionriskcontrol/"
+  - key: "HarmoniousPassion"
+    title: "Harmonious Passion"
+    url: "/wiki/concepts/harmoniouspassion/"
   - key: "HarnessEngineering"
     title: "Harness Engineering"
     url: "/wiki/concepts/harnessengineering/"

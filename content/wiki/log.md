@@ -42154,3 +42154,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Malcolm Gladwell and Adam Grant
+
+Added a [[RevisionistHistory]] conversation pairing [[TheBomberMafiaBook|The Bomber Mafia]] with [[ThinkAgainBook|Think Again]]. Created focused pages for [[HaywoodHansell]], both books, [[ContextualMoralJudgment]], the [[InnovationVisionExecutionGap]], [[HarmoniousPassion]], and [[PrincipleStrategySeparation]]; extended [[AdamGrant]], [[CurtisLeMay]], [[MikeLazaridis]], and [[ScientistModeThinking]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: responsible judgment considers constraints, feasible alternatives, and execution difficulty without erasing harm; ambitious technologies must survive real operating conditions; intense engagement is healthiest when intrinsically chosen, pleasurable, restrained, and socially sustainable; and durable principles can coexist with plans treated as revisable hypotheses.
+
+No settled contradiction was adopted. Grant's emphasis on civilian suffering qualifies Gladwell's contextual sympathy, their apparent dispute about obsession narrows through the harmonious-versus-pressured distinction, and the BlackBerry exchange exposes competing units of evaluation rather than one factual conflict. Historical bombing claims, counterfactual war outcomes, passion effects, and the BlackBerry ecosystem argument remain source-scoped because the supplied file is a structured summary rather than a transcript, archival history, research review, or causal evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,167 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

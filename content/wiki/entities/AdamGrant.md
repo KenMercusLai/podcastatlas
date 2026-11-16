@@ -6,27 +6,28 @@ sources:
   - how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142
   - pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada
   - unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant
-last_updated: 2026-11-16
+  - malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
 # Adam Grant
 
 ## Overview
-Adam Grant is an organizational psychologist, Wharton professor, and author interviewed by [[AndrewHuberman]] about motivation, creativity, feedback, rethinking, and character skills, and by [[MalcolmGladwell]] about [[HiddenPotential]], educational judgment, relationships, compatibility, and [[VibeAdamGrantBook|Vibe]].
+Adam Grant is an organizational psychologist, Wharton professor, and author interviewed by [[AndrewHuberman]] about motivation, creativity, feedback, rethinking, and character skills, and by [[MalcolmGladwell]] about [[ThinkAgainBook|Think Again]], [[HiddenPotential]], educational judgment, relationships, compatibility, and [[VibeAdamGrantBook|Vibe]].
 
 ## Current Profile
 Grant's practical psychology repeatedly separates useful mechanisms from broad labels. Delay can be incubation or costly procrastination; rewards can raise output or crowd out autonomy; authenticity can express values or excuse impulsiveness; and a relationship called friendship can function through goals, play, support, or transaction. His organizing concern is how people and institutions create conditions in which learning and connection remain possible.
 
-His method combines research summaries, personal experiments, memorable prompts, and usable distinctions. He recommends asking for advice rather than generic feedback, scoring how well criticism is received, treating opinions as hypotheses, and calibrating standards by task importance. In the *Hidden Potential* live discussion, his remedial-writing, public-speaking, and diving stories illustrate how early judgment and perfectionism can conceal growth; in the relationship discussion, he treats compatibility as an interaction dynamic, role expectations as negotiable, compassion as separable from emotional over-identification, and shared activity as support for connection.
+His method combines research summaries, personal experiments, memorable prompts, and usable distinctions. He recommends asking for advice rather than generic feedback, scoring how well criticism is received, treating opinions as hypotheses, and calibrating standards by task importance. In the *Think Again* conversation he contrasts overconfidence with humility, doubt, curiosity, and learning, then uses [[PrincipleStrategySeparation]] to preserve commitments while making plans revisable. In the *Hidden Potential* live discussion, his remedial-writing, public-speaking, and diving stories illustrate how early judgment and perfectionism can conceal growth; in the relationship discussion, he treats compatibility as an interaction dynamic, role expectations as negotiable, compassion as separable from emotional over-identification, and shared activity as support for connection.
 
 ## Key Characteristics
 - Reframes motivation and performance as interactions among person, task, incentives, and environment.
 - Treats curiosity, purpose, autonomy, meaningful contribution, and shared activity as distinct routes into action or connection.
 - Favors future-oriented advice and multiple independent evaluators over identity-level judgment.
-- Uses [[ScientistModeThinking]] to make revision, disagreement, and failed experiments compatible with confidence.
+- Uses [[ScientistModeThinking]] and [[PrincipleStrategySeparation]] to make revision, disagreement, and failed strategies compatible with confidence and durable values.
 - Defines potential through growth under challenge rather than initial ability and separates status achievement from success grounded in character, meaning, and values.
-- Promotes imperfectionism as selective allocation of excellence, not indifference to quality.
+- Distinguishes externally pressured compulsion from [[HarmoniousPassion]] organized around intrinsic motivation, restraint, and joy.
 - Classifies relationships by shared purpose and treats those roles as fluid rather than hierarchical.
 
 ## Evidence
@@ -37,12 +38,15 @@ His method combines research summaries, personal experiments, memorable prompts,
 - Education and values - [[unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant]] critiques prestige-centered parenting and inherited advantage while keeping college choice dependent on individual obstacles, evidence, goals, and values.
 - Relationship roles and expectations - [[pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada]] presents allies, pals, companions, and associates as fluid purposes whose mismatch can create distrust.
 - Compatibility and connection - [[pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada]] reports the limits of profile prediction and uses varied situations, games, tasks, and rituals as ways to reveal or build connection.
+- Rethinking and values - [[malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant]] develops the humility-to-curiosity cycle and separates durable principles from revisable plans.
+- Passion and consequence - [[malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant]] distinguishes pressured obsessive passion from intrinsically motivated harmonious passion and challenges contextual sympathy that neglects inflicted harm.
 
 ## Qualifications
-This profile is bounded to three long-form conversations and their structured summaries. Research examples are reported conversationally without full methods, and Grant's personal routines, writing assessment, diving experience, relationship categories, admissions arguments, or gathering preferences should not be treated as universal causal evidence. The page describes his arguments in the sources rather than a complete academic biography or independent evaluation of his publications.
+This profile is bounded to four long-form conversations and their structured summaries. Research examples are reported conversationally without full methods, and Grant's personal routines, writing assessment, diving experience, passion distinction, relationship categories, admissions arguments, or gathering preferences should not be treated as universal causal evidence. The page describes his arguments in the sources rather than a complete academic biography or independent evaluation of his publications.
 
 ## What Changed
-- Added the live *Hidden Potential* account of early judgment, unseen practice, perfectionist undertraining, prestige pressure, and values-based choice.
+- Rethinking now explicitly preserves durable principles while exposing plans to evidence and revision.
+- Added the distinction between pressured compulsion and intrinsically chosen, restrained, joyful passion.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer who connects Grant's psychology claims to attention, arousal, and practical routines.
@@ -50,6 +54,9 @@ This profile is bounded to three long-form conversations and their structured su
 - [[HiddenPotential]] - book organizing the episode's development and character-skills theme.
 - [[AdviceSeekingForImprovement]] - future-oriented critique method Grant recommends.
 - [[ScientistModeThinking]] - rethinking posture associated with his account of intellectual humility.
+- [[ThinkAgainBook|Think Again]] - book organizing his account of overconfidence, curiosity, and revision.
+- [[PrincipleStrategySeparation]] - distinction allowing stable commitments and flexible methods to coexist.
+- [[HarmoniousPassion]] - intrinsically motivated form of intense engagement he contrasts with pressured compulsion.
 - [[PotentialAsGrowthRate]] - developmental frame that captures the episode's central judgment.
 - [[MalcolmGladwell]] - interviewer who pressure-tests Grant's relationship arguments through personal cases and counterexamples.
 - [[VibeAdamGrantBook|Vibe]] - book organizing Grant's relationship-purpose and connection framework.
