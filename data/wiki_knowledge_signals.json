@@ -34108,6 +34108,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/betterbrain/"
     },
+    "BettyBoop": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_c2fd254b4766f56729e42b13659ee5ab_33371321 [default.mp3_ywr3ahjkcgo_c2fd254b4766f56729e42b13659ee5ab_33371321].md",
+          "key": "betty-boop-excel-olympics-penny-isms-our-2026-valentines",
+          "show": "Planet Money",
+          "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",
+          "url": "/wiki/sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines/"
+        },
+        {
+          "episode_file": "From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phenomenon [From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phen.md",
+          "key": "from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen",
+          "show": "Revisionist History",
+          "title": "From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon",
+          "url": "/wiki/sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/bettyboop/"
+    },
     "BeverageDevelopmentFeasibility": {
       "episode_count": 3,
       "show_count": 3,
@@ -40022,6 +40045,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/brixton/"
+    },
+    "BroadcastIntimacyAsPersonalBrand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phenomenon [From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phen.md",
+          "key": "from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen",
+          "show": "Revisionist History",
+          "title": "From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon",
+          "url": "/wiki/sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/broadcastintimacyaspersonalbrand/"
     },
     "Broadcom": {
       "episode_count": 2,
@@ -179569,6 +179608,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/entities/laifen/"
     },
+    "LakeBell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phenomenon [From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phen.md",
+          "key": "from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen",
+          "show": "Revisionist History",
+          "title": "From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon",
+          "url": "/wiki/sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/lakebell/"
+    },
     "LakotaPeople": {
       "episode_count": 8,
       "show_count": 1,
@@ -238611,6 +238666,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/parisforeignmissionssociety/"
     },
+    "ParisHilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phenomenon [From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phen.md",
+          "key": "from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen",
+          "show": "Revisionist History",
+          "title": "From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon",
+          "url": "/wiki/sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/parishilton/"
+    },
     "ParisOfTroy": {
       "episode_count": 1,
       "show_count": 1,
@@ -282289,6 +282360,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/sexualitysecrecypoliticalvulnerability/"
+    },
+    "SexyBabyVoice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phenomenon [From_Inside_Voice_Lake_Bell_and_the_Sexy_Baby_Voice_Phen.md",
+          "key": "from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen",
+          "show": "Revisionist History",
+          "title": "From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon",
+          "url": "/wiki/sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sexybabyvoice/"
     },
     "ShaWujing": {
       "episode_count": 3,

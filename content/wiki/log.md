@@ -41268,3 +41268,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon
+
+Added the [[RevisionistHistory]] excerpt in which [[LakeBell|Lake Bell]] and [[MalcolmGladwell|Malcolm Gladwell]] examine [[SexyBabyVoice|the “sexy baby voice”]] as a variable cluster of high pitch, vocal fry, uptalk, breathiness, and run-together phrasing. Created focused profiles for Bell and [[ParisHilton]], created [[SexyBabyVoice]] and [[BroadcastIntimacyAsPersonalBrand]], and resynthesized [[BettyBoop]] from its complete preserved source inventory before appending the new source once.
+
+Core synthesis: vocal style can influence perceived authority without establishing intelligence, competence, agency, or conscious intent. Bell's historical interpretation links Betty Boop and [[MarilynMonroe]] to Hilton and [[KimKardashian]], arguing that celebrity culture turned private-sounding intimacy into a public persona; her critique becomes most defensible when it distinguishes natural variation and unconscious habit from informed performance and social effect.
+
+No settled contradiction was adopted. The episode complements [[PilotVoice]] by showing a differently gendered authority stereotype, but its vocal demonstrations, historical lineage, prevalence claim, and account of celebrity contagion remain cultural interpretation rather than acoustic-corpus, controlled-perception, audience, or causal evidence. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MarilynMonroe]], [[KimKardashian]], automatic `wiki/overview.md`, and adjacent multi-source pages were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,104 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

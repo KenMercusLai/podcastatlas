@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11490
+wiki_total_pages: 11492
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "SexualitySecrecyPoliticalVulnerability"
     title: "Sexuality, Secrecy, and Political Vulnerability"
     url: "/wiki/concepts/sexualitysecrecypoliticalvulnerability/"
+  - key: "SexyBabyVoice"
+    title: "Sexy Baby Voice"
+    url: "/wiki/concepts/sexybabyvoice/"
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"

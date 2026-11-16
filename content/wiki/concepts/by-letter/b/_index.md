@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11490
+wiki_total_pages: 11492
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "BroadcastInfrastructureSunset"
     title: "Broadcast Infrastructure Sunset"
     url: "/wiki/concepts/broadcastinfrastructuresunset/"
+  - key: "BroadcastIntimacyAsPersonalBrand"
+    title: "Broadcast Intimacy as Personal Brand"
+    url: "/wiki/concepts/broadcastintimacyaspersonalbrand/"
   - key: "BrokenWindowsPolicing"
     title: "Broken-Windows Policing"
     url: "/wiki/concepts/brokenwindowspolicing/"

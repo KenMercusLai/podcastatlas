@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon](sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen.md) — Lake Bell and Malcolm Gladwell separate a high-pitched, fry-inflected celebrity vocal persona from intelligence, natural variation, and mature vocal agency.
 - [The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part One](sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-one-the-cadillac-lyriq-malcolm-gladwell-meets-an-electr.md) — Sponsored Revisionist History experience test connecting exterior appeal, immediate acceleration, pedestrian sound, digital displays, and tactile cabin luxury while leaving comparative ownership evidence untested.
 - [The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two](sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec.md) — Sponsored Revisionist History road test connecting family utility, quietness, classic Cadillac character, and heritage-led electrification while leaving price, charging, and independent performance untested.
 - [From Broken Record: Rick Rubin in Conversation with Malcolm Gladwell](sources/from-broken-record-rick-rubin-in-conversation-with-malcolm-gladwell-from-broken-record-rick-rubin-in-conversation-with.md) — Rubin and Gladwell connect receptive attention, transformative influence, provisional judgment, emotional imperfection, and collaborator consensus to creativity as a way of living.
@@ -19816,8 +19817,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Gopnik](entities/AdamGopnik.md) — Writer using participatory reporting and practitioner encounters to examine mastery and the value of inexpert practice.
 - [The Real Work](entities/TheRealWork.md) — Adam Gopnik book examining learning, mastery, and participation across multiple crafts.
 - [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
+- [Lake Bell](entities/LakeBell.md) — Actor, filmmaker, and author using vocal performance to examine gender, authority, celebrity persona, and mature voice.
+- [Paris Hilton](entities/ParisHilton.md) — Media personality presented as a formative modern case of intimate vocal cues becoming a recognizable celebrity identity.
 
 ## Concepts
+- [Sexy Baby Voice](concepts/SexyBabyVoice.md) — Qualified vocal cluster joining high pitch, fry, uptalk, breathiness, compressed phrasing, and gendered listener interpretations of sexuality, youth, and authority.
+- [Broadcast Intimacy as Personal Brand](concepts/BroadcastIntimacyAsPersonalBrand.md) — Conversion of private-sounding vocal or sexual cues into a repeatable public persona that creates recognition and attention.
 - [Brand Heritage Electrification](concepts/BrandHeritageElectrification.md) — Strategy for changing automotive powertrain and technology while preserving recognizable experiential and design qualities of a legacy marque.
 - [Creative Abundance and Transformative Influence](concepts/CreativeAbundanceAndTransformativeInfluence.md) — Qualified abundance model in which imitation becomes reinterpretation while credit, power, consent, and material benefit remain ethical constraints.
 - [Provisional Creative Judgment](concepts/ProvisionalCreativeJudgment.md) — Time-bounded evaluation practice that preserves curiosity about unfamiliar work and undeveloped ability without requiring eventual approval.

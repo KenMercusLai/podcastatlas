@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14495
+wiki_total_pages: 14497
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "Paris"
     title: "Paris"
     url: "/wiki/entities/paris/"
+  - key: "ParisHilton"
+    title: "Paris Hilton"
+    url: "/wiki/entities/parishilton/"
   - key: "ParisLOreal"
     title: "Paris L'Oreal / 巴黎欧莱雅"
     url: "/wiki/entities/parisloreal/"
