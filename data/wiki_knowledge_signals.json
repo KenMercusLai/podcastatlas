@@ -73355,9 +73355,9 @@
       "url": "/wiki/concepts/cursushonorum/"
     },
     "CurtisLeMay": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8855008412 [GLT8855008412].md",
@@ -73386,6 +73386,13 @@
           "show": "Revisionist History",
           "title": "Bombs Away LeMay",
           "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
+        },
+        {
+          "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
+          "key": "may-the-best-firebomb-win-may-the-best-firebomb-win",
+          "show": "Revisionist History",
+          "title": "May the Best Firebomb Win",
+          "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
         }
       ],
       "updated": "2026-11-17",
@@ -90628,6 +90635,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/dzogchen/"
+    },
+    "EBHirschberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
+          "key": "may-the-best-firebomb-win-may-the-best-firebomb-win",
+          "show": "Revisionist History",
+          "title": "May the Best Firebomb Win",
+          "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ebhirschberg/"
     },
     "EBPFObservability": {
       "episode_count": 1,
@@ -150663,6 +150686,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/howardsrebnick/"
     },
+    "HoytHottel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
+          "key": "may-the-best-firebomb-win-may-the-best-firebomb-win",
+          "show": "Revisionist History",
+          "title": "May the Best Firebomb Win",
+          "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/hoythottel/"
+    },
     "HuChangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -199567,9 +199606,9 @@
       "url": "/wiki/entities/louisedwardnolan/"
     },
     "LouisFieser": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
@@ -199577,6 +199616,13 @@
           "show": "Revisionist History",
           "title": "Goodbye, Farewell and Amen",
           "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        },
+        {
+          "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
+          "key": "may-the-best-firebomb-win-may-the-best-firebomb-win",
+          "show": "Revisionist History",
+          "title": "May the Best Firebomb Win",
+          "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
         }
       ],
       "updated": "2026-11-17",
@@ -226327,9 +226373,9 @@
       "url": "/wiki/entities/naomirothman/"
     },
     "NapalmWarfare": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
@@ -226344,6 +226390,13 @@
           "show": "Revisionist History",
           "title": "Bombs Away LeMay",
           "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
+        },
+        {
+          "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
+          "key": "may-the-best-firebomb-win-may-the-best-firebomb-win",
+          "show": "Revisionist History",
+          "title": "May the Best Firebomb Win",
+          "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
         }
       ],
       "updated": "2026-11-17",
@@ -312248,6 +312301,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
+    },
+    "TechnicalOptimizationMoralAbstraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
+          "key": "may-the-best-firebomb-win-may-the-best-firebomb-win",
+          "show": "Revisionist History",
+          "title": "May the Best Firebomb Win",
+          "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/technicaloptimizationmoralabstraction/"
     },
     "TechnicalProductLifestyleTranslation": {
       "episode_count": 1,

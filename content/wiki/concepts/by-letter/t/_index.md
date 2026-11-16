@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11634
+wiki_total_pages: 11635
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "TechnicalLeadershipForTechnologyCompanies"
     title: "Technical Leadership For Technology Companies"
     url: "/wiki/concepts/technicalleadershipfortechnologycompanies/"
+  - key: "TechnicalOptimizationMoralAbstraction"
+    title: "Technical Optimization as Moral Abstraction"
+    url: "/wiki/concepts/technicaloptimizationmoralabstraction/"
   - key: "TechnicalProductLifestyleTranslation"
     title: "Technical Product Lifestyle Translation / 专业产品生活方式转译"
     url: "/wiki/concepts/technicalproductlifestyletranslation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14635
+wiki_total_pages: 14637
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "EightyThousandHours"
     title: "80,000 Hours"
     url: "/wiki/entities/eightythousandhours/"
+  - key: "EBHirschberg"
+    title: "E. B. Hirschberg"
+    url: "/wiki/entities/ebhirschberg/"
   - key: "EJChichilnisky"
     title: "E.J. Chichilnisky"
     url: "/wiki/entities/ejchichilnisky/"

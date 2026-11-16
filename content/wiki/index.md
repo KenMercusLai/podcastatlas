@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [May the Best Firebomb Win](sources/may-the-best-firebomb-win-may-the-best-firebomb-win.md) — Revisionist History reconstructs napalm's formulation, competitive testing, and pressure on precision-bombing doctrine while exposing the moral abstraction of technical optimization.
 - [Bombs Away LeMay](sources/bombs-away-lemay-bombs-away-lemay.md) — Revisionist History traces how the jet stream, failed precision bombing, command pressure, and LeMay's action bias led to low-altitude incendiary attacks on Japanese cities.
 - [Hamlet Was Wrong](sources/hamlet-was-wrong-hamlet-was-wrong.md) — Revisionist History connects informal hiring, the Peter Principle, sales-promotion research, and Hirschman's action under uncertainty to a qualified skepticism about personnel prediction.
 - [Oh, Howard, You Idiot!](sources/oh-howard-you-idiot-oh-howard-you-idiot.md) — Revisionist History reframes Clifford Irving's fake Howard Hughes autobiography as both an expectation-matched institutional fraud and an unauthorized attempt to give Hughes intimacy, self-knowledge, and redemption.
@@ -5303,6 +5304,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
 
 ## Entities
+- [Hoyt Hottel](entities/HoytHottel.md) — MIT combustion specialist who organized the wartime incendiary competition and building-scale tests that validated napalm.
+- [E. B. Hirschberg](entities/EBHirschberg.md) — Experimental chemist and engineer who helped formulate napalm and designed its explosive dispersal device.
 - [Albert O. Hirschman](entities/AlbertOHirschman.md) — economist invoked as a source for action under irreducible uncertainty.
 - [Alan Benson](entities/AlanBenson.md) — economist whose sales-organization research tests promotion mismatch and incentive trade-offs.
 - [Howard Hughes](entities/HowardHughes.md) — Industrialist, aviator, filmmaker, and reclusive celebrity whose managed legend and inaccessibility made him the target of a fake autobiography.
@@ -20034,6 +20037,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 
 ## Concepts
+- [Technical Optimization as Moral Abstraction](concepts/TechnicalOptimizationMoralAbstraction.md) — Separation of measurable system performance from the human meaning of the outcome being optimized.
 - [Hiring Nihilism](concepts/HiringNihilism.md) — bounded skepticism about the predictive authority of résumés, interviews, and promotion rituals.
 - [Expectation-Matched Literary Forgery](concepts/ExpectationMatchedLiteraryForgery.md) — Counterfeit text made credible by matching an inaccessible subject's known voice, circumstances, and audience expectations across correlated evidence channels.
 - [Redemptive Counterfeit Biography](concepts/RedemptiveCounterfeitBiography.md) — Unauthorized invented life that grants a subject emotional repair while falsely claiming factual and biographical authority.

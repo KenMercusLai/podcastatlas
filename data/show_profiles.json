@@ -982,8 +982,8 @@
       "earliest_episode_date": "2016-06-03",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 161,
-      "topic_matched_source_note_count": 60,
+      "source_note_count": 162,
+      "topic_matched_source_note_count": 61,
       "topics": [
         {
           "key": "culture",
@@ -995,7 +995,7 @@
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "politics",
@@ -1047,6 +1047,13 @@
           "episode_count": 4
         },
         {
+          "key": "CurtisLeMay",
+          "title": "Curtis LeMay",
+          "url": "/wiki/entities/curtislemay/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "JesseOwens",
           "title": "Jesse Owens",
           "url": "/wiki/entities/jesseowens/",
@@ -1059,13 +1066,6 @@
           "url": "/wiki/entities/tmobile/",
           "kind": "organization",
           "episode_count": 4
-        },
-        {
-          "key": "AdamGrant",
-          "title": "Adam Grant",
-          "url": "/wiki/entities/adamgrant/",
-          "kind": "person",
-          "episode_count": 3
         }
       ],
       "start_here_episode_files": [

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2827
+topic_total_pages: 2828
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7455,6 +7455,9 @@ topic_sources:
   - key: "hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses"
     title: "Hitler’s Olympics, Part 9: A Plague on Both Your Houses"
     url: "/wiki/sources/hitler-s-olympics-part-9-a-plague-on-both-your-houses-hitler-s-olympics-part-9-a-plague-on-both-your-houses/"
+  - key: "may-the-best-firebomb-win-may-the-best-firebomb-win"
+    title: "May the Best Firebomb Win"
+    url: "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
   - key: "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv"
     title: "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上"
     url: "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
