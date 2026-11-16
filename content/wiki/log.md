@@ -41226,3 +41226,17 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Show 69 - Twilight of the Aesir
+
+Added the [[HardcoreHistory]] episode that frames the Viking Age through Frankish-Christian frontier pressure, converging maritime and commercial causes, escalating raids, mobile armies, tribute, settlement, and reciprocal state formation. Created [[VikingRaidingEscalation]], then resynthesized [[VikingAgePeriodization]], [[CoerciveChristianization]], [[CarolingianImperialFragmentation]], [[DanegeldEscalation]], [[GreatHeathenArmy]], and [[Lindisfarne]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Lindisfarne remains a powerful conventional marker but not the first Scandinavian raid; defensive hardening could suppress small attacks while selecting for larger Viking organizations; tribute and mercenary bargains could be rational immediate survival strategies while increasing longer-run leverage; and Viking pressure both exploited political fragmentation and elevated rulers able to provide effective local protection.
+
+No settled contradiction was adopted. The episode's threatened-pagan-frontier framing contextualizes Scandinavian aggression without excusing killing, rape, enslavement, pillage, or conquest. The Verden total, pre-793 chronology, environmental contribution, Ragnar tradition, force sizes, Rus chronology, armed-family-migration hypothesis, siege narratives, and Frankish silver-payment estimate remain disputed, interpretive, or source-scoped. Broad [[DanCarlin]], [[HardcoreHistory]], [[AlfredTheGreat]], [[AngloSaxonStateFormation]], [[VikingEasternRoutes]], [[KievanRus]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,101 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

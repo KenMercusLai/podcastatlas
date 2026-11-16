@@ -5209,6 +5209,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hitler’s Olympics, Part 2: Pangloss, Polonius, Prufrock](sources/hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock.md) — Revisionist History profile of Charles Sherrill, the IOC's 1933 eligibility guarantee, and elite procedural accommodation of Nazi persecution.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 - [Show 70 - Twilight of the Aesir II](sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii.md) — Hardcore History on Norse lived belief, settlement, eastern cultural mixture, Christianization, state-building, and the uneven end of the Viking Age.
+- [Show 69 - Twilight of the Aesir](sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir.md) — Hardcore History on Frankish-Christian frontier pressure, Viking raiding escalation, mobile conquest, tribute, defensive adaptation, and reciprocal state formation.
 
 - [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
 - [This Is Your Captain Speaking](sources/this-is-your-captain-speaking.md) — Revisionist History episode on pilot voice, professional speech convergence, passenger reassurance, stereotype, and crisis judgment.
@@ -22229,6 +22230,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Viking Ritual Violence](concepts/VikingRitualViolence.md) — Funerary sacrifice and animal slaughter held together with moral seriousness and evidential uncertainty.
 - [Valkyries and Battle Fate](concepts/ValkyrieBattleFate.md) — Violent battle beings understood through fate-weaving, terror, weapons, movement, and mind rather than later romance alone.
 - [Viking Age Periodization](concepts/VikingAgePeriodization.md) — Distinction between memorable event boundaries and uneven social transformation from roughly 720-750 through the mid-11th century.
+- [Viking Raiding Escalation](concepts/VikingRaidingEscalation.md) — Feedback process connecting converging raid incentives, defensive hardening, larger mobile forces, settlement, and reciprocal state formation.
 - [Pelvic-Floor Function Matching](concepts/PelvicFloorFunctionMatching.md) — Assessment-led distinction among pelvic-floor weakness, excessive tension, pain, and poor coordination before rehabilitation is selected.
 - [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
 - [Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序](concepts/EmotionAcceptanceSignalAction.md) — 先允许并识别情绪，再解释可能信号、调节状态并选择行动的顺序。

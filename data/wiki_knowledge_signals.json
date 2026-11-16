@@ -46448,9 +46448,9 @@
       "url": "/wiki/concepts/carolingiancorrectio/"
     },
     "CarolingianImperialFragmentation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6103469677 [GLT6103469677].md",
@@ -46458,9 +46458,16 @@
           "show": "The Rest Is History",
           "title": "525. Charlemagne: Emperor of the West (Part 3)",
           "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        },
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/carolingianimperialfragmentation/"
     },
     "CarolingianLearningReform": {
@@ -59321,9 +59328,9 @@
       "url": "/wiki/entities/coerciveacts/"
     },
     "CoerciveChristianization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1992648453 [GLT1992648453].md",
@@ -59338,9 +59345,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 70 - Twilight of the Aesir II",
           "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
+        },
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/coercivechristianization/"
     },
     "CoerciveCoalitionExitDesign": {
@@ -73529,9 +73543,9 @@
       "url": "/wiki/entities/dancereflections/"
     },
     "DanegeldEscalation": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -73546,9 +73560,16 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/danegeldescalation/"
     },
     "DanelawSettlement": {
@@ -129730,9 +129751,9 @@
       "url": "/wiki/concepts/greatgame/"
     },
     "GreatHeathenArmy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7924523463 [GLT7924523463].md",
@@ -129740,9 +129761,16 @@
           "show": "The Rest Is History",
           "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
           "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
+        },
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/greatheathenarmy/"
     },
     "GreatIrishFamine": {
@@ -187288,9 +187316,9 @@
       "url": "/wiki/entities/lindaloman/"
     },
     "Lindisfarne": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9977520388 [GLT9977520388].md",
@@ -187298,9 +187326,16 @@
           "show": "The Rest Is History",
           "title": "34. St Cuthbert’s Day",
           "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
+        },
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/lindisfarne/"
     },
     "LindonDyna": {
@@ -324239,9 +324274,9 @@
       "url": "/wiki/concepts/vietnameserefugeeexodus/"
     },
     "VikingAgePeriodization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1200485419 [GLT1200485419].md",
@@ -324256,9 +324291,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 70 - Twilight of the Aesir II",
           "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
+        },
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/vikingageperiodization/"
     },
     "VikingAgeWorldview": {
@@ -324327,6 +324369,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/vikingeasternroutes/"
+    },
+    "VikingRaidingEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha69_Twilight_of_the_Aesir [dchha69_Twilight_of_the_Aesir].md",
+          "key": "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 69 - Twilight of the Aesir",
+          "url": "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/vikingraidingescalation/"
     },
     "VikingRitualViolence": {
       "episode_count": 2,

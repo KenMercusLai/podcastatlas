@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11488
+wiki_total_pages: 11489
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "VikingEasternRoutes"
     title: "Viking Eastern Routes"
     url: "/wiki/concepts/vikingeasternroutes/"
+  - key: "VikingRaidingEscalation"
+    title: "Viking Raiding Escalation"
+    url: "/wiki/concepts/vikingraidingescalation/"
   - key: "VikingRitualViolence"
     title: "Viking Ritual Violence"
     url: "/wiki/concepts/vikingritualviolence/"

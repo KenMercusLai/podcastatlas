@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2814
+topic_total_pages: 2815
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7449,6 +7449,9 @@ topic_sources:
   - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
     title: "Reconstruction: The Unfinished Promise"
     url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
+  - key: "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir"
+    title: "Show 69 - Twilight of the Aesir"
+    url: "/wiki/sources/dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir/"
   - key: "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii"
     title: "Show 70 - Twilight of the Aesir II"
     url: "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
