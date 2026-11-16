@@ -42300,3 +42300,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Bomber Mafia
+
+Added the opening [[RevisionistHistory]] installment on the interwar Bomber Mafia, [[CurtisLeMay]]'s evidence-led command, and the B-29's promise. Created [[BomberMafiaPrecisionDoctrine]], then resynthesized LeMay, [[InnovationVisionExecutionGap]], and [[TechnicalOptimizationMoralAbstraction]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: precision bombing was not one proposition but a chain from aircraft reach and delivery accuracy through critical-system disruption, civilian pressure, political surrender, and a shorter war. LeMay's straight-run experiment and the B-29 support parts of that chain, not the whole; the doctrine remained coercive toward civilians even where it aspired to be more discriminating than area bombing.
+
+No settled contradiction was adopted. The Saint-Nazaire result does not establish general precision feasibility, and biographical memories, lecture calculations, institutional counts, anti-aircraft probabilities, mission results, B-29 performance, motives, and aesthetic reactions remain episode-scoped because the supplied file is a structured summary rather than a transcript, doctrine archive, or comparative campaign history. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,178 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

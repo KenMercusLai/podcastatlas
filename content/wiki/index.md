@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Bomber Mafia](sources/the-bomber-mafia-the-bomber-mafia.md) — Revisionist History introduces the precision-bombing doctrine, LeMay's evidence-led command, the B-29 promise, and the risk that technological mastery narrows moral judgment.
 - [May the Best Firebomb Win](sources/may-the-best-firebomb-win-may-the-best-firebomb-win.md) — Revisionist History reconstructs napalm's formulation, competitive testing, and pressure on precision-bombing doctrine while exposing the moral abstraction of technical optimization.
 - [Bombs Away LeMay](sources/bombs-away-lemay-bombs-away-lemay.md) — Revisionist History traces how the jet stream, failed precision bombing, command pressure, and LeMay's action bias led to low-altitude incendiary attacks on Japanese cities.
 - [Hamlet Was Wrong](sources/hamlet-was-wrong-hamlet-was-wrong.md) — Revisionist History connects informal hiring, the Peter Principle, sales-promotion research, and Hirschman's action under uncertainty to a qualified skepticism about personnel prediction.
@@ -20037,6 +20038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 
 ## Concepts
+- [Bomber Mafia Precision Doctrine](concepts/BomberMafiaPrecisionDoctrine.md) — Critical-node air-power theory decomposed across reach, accuracy, system disruption, civilian pressure, and political surrender.
 - [Technical Optimization as Moral Abstraction](concepts/TechnicalOptimizationMoralAbstraction.md) — Separation of measurable system performance from the human meaning of the outcome being optimized.
 - [Hiring Nihilism](concepts/HiringNihilism.md) — bounded skepticism about the predictive authority of résumés, interviews, and promotion rituals.
 - [Expectation-Matched Literary Forgery](concepts/ExpectationMatchedLiteraryForgery.md) — Counterfeit text made credible by matching an inaccessible subject's known voice, circumstances, and audience expectations across correlated evidence channels.

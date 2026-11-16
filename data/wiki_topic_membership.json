@@ -20752,6 +20752,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BomberMafiaPrecisionDoctrine": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BonarLaw": [
     {
       "key": "politics",
@@ -115776,6 +115783,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-bomber-mafia-the-bomber-mafia": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "the-business-of-heated-rivalry": [

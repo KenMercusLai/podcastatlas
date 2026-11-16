@@ -37571,6 +37571,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/bollandbranch/"
     },
+    "BomberMafiaPrecisionDoctrine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Bomber_Mafia [The_Bomber_Mafia].md",
+          "key": "the-bomber-mafia-the-bomber-mafia",
+          "show": "Revisionist History",
+          "title": "The Bomber Mafia",
+          "url": "/wiki/sources/the-bomber-mafia-the-bomber-mafia/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/bombermafiaprecisiondoctrine/"
+    },
     "BonarLaw": {
       "episode_count": 1,
       "show_count": 1,
@@ -73355,9 +73371,9 @@
       "url": "/wiki/concepts/cursushonorum/"
     },
     "CurtisLeMay": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT8855008412 [GLT8855008412].md",
@@ -73393,6 +73409,13 @@
           "show": "Revisionist History",
           "title": "May the Best Firebomb Win",
           "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
+        },
+        {
+          "episode_file": "The_Bomber_Mafia [The_Bomber_Mafia].md",
+          "key": "the-bomber-mafia-the-bomber-mafia",
+          "show": "Revisionist History",
+          "title": "The Bomber Mafia",
+          "url": "/wiki/sources/the-bomber-mafia-the-bomber-mafia/"
         }
       ],
       "updated": "2026-11-17",
@@ -160858,9 +160881,9 @@
       "url": "/wiki/concepts/innovationdrugtranslationsystem/"
     },
     "InnovationVisionExecutionGap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
@@ -160875,6 +160898,13 @@
           "show": "Revisionist History",
           "title": "Bombs Away LeMay",
           "url": "/wiki/sources/bombs-away-lemay-bombs-away-lemay/"
+        },
+        {
+          "episode_file": "The_Bomber_Mafia [The_Bomber_Mafia].md",
+          "key": "the-bomber-mafia-the-bomber-mafia",
+          "show": "Revisionist History",
+          "title": "The Bomber Mafia",
+          "url": "/wiki/sources/the-bomber-mafia-the-bomber-mafia/"
         }
       ],
       "updated": "2026-11-17",
@@ -312303,9 +312333,9 @@
       "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
     },
     "TechnicalOptimizationMoralAbstraction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "May_the_Best_Firebomb_Win [May_the_Best_Firebomb_Win].md",
@@ -312313,6 +312343,13 @@
           "show": "Revisionist History",
           "title": "May the Best Firebomb Win",
           "url": "/wiki/sources/may-the-best-firebomb-win-may-the-best-firebomb-win/"
+        },
+        {
+          "episode_file": "The_Bomber_Mafia [The_Bomber_Mafia].md",
+          "key": "the-bomber-mafia-the-bomber-mafia",
+          "show": "Revisionist History",
+          "title": "The Bomber Mafia",
+          "url": "/wiki/sources/the-bomber-mafia-the-bomber-mafia/"
         }
       ],
       "updated": "2026-11-17",

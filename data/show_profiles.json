@@ -982,8 +982,8 @@
       "earliest_episode_date": "2016-06-03",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 162,
-      "topic_matched_source_note_count": 61,
+      "source_note_count": 163,
+      "topic_matched_source_note_count": 62,
       "topics": [
         {
           "key": "culture",
@@ -995,7 +995,7 @@
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 19
+          "source_note_count": 20
         },
         {
           "key": "politics",
@@ -1040,16 +1040,16 @@
           "episode_count": 6
         },
         {
-          "key": "AveryBrundage",
-          "title": "Avery Brundage",
-          "url": "/wiki/entities/averybrundage/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
           "key": "CurtisLeMay",
           "title": "Curtis LeMay",
           "url": "/wiki/entities/curtislemay/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "AveryBrundage",
+          "title": "Avery Brundage",
+          "url": "/wiki/entities/averybrundage/",
           "kind": "person",
           "episode_count": 4
         },

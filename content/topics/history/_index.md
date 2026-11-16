@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2828
+topic_total_pages: 2829
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7503,6 +7503,9 @@ topic_sources:
   - key: "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398"
     title: "The Beatles: The British Invasion, with Conan O’Brien (Part 2)"
     url: "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+  - key: "the-bomber-mafia-the-bomber-mafia"
+    title: "The Bomber Mafia"
+    url: "/wiki/sources/the-bomber-mafia-the-bomber-mafia/"
   - key: "the-department-of-physiological-hygiene"
     title: "The Department of Physiological Hygiene"
     url: "/wiki/sources/the-department-of-physiological-hygiene/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11635
+wiki_total_pages: 11636
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "BodylineCrisis"
     title: "Bodyline Crisis"
     url: "/wiki/concepts/bodylinecrisis/"
+  - key: "BomberMafiaPrecisionDoctrine"
+    title: "Bomber Mafia Precision Doctrine"
+    url: "/wiki/concepts/bombermafiaprecisiondoctrine/"
   - key: "BondFundReturnExpectationReset"
     title: "Bond Fund Return Expectation Reset"
     url: "/wiki/concepts/bondfundreturnexpectationreset/"
