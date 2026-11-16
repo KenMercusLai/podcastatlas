@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [When Will Met Grace](sources/when-will-met-grace-when-will-met-grace.md) — Revisionist History uses Will & Grace to examine how broadcast compromise, mass reach, LGBTQ+ normalization, and streaming fragmentation interact.
 - [“I Was a Stranger and You Welcomed Me”](sources/i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me.md) — Revisionist History connects Canadian refugee sponsorship, trauma-informed schooling, and a Holocaust survivor’s chain of help to distributed, repeatable kindness.
 - [Tim Harford Cools Us Down This Summer](sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer.md) — Scott and Amundsen’s South Pole race connects resource overload, method fit, patron constraints, deception, and heroic-failure memory.
 - [We’re Back … With More Experiments!](sources/we-re-back-with-more-experiments-we-re-back-with-more-experiments.md) — Revisionist History trailer previews sacrifice, suffering and service, educational privilege, and unintended consequences while deferring evidence to the later full episodes.
@@ -5237,6 +5238,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Will & Grace](entities/WillAndGrace.md) — NBC sitcom whose conventional form carried central gay characters and relationships to a mass audience.
+- [Max Mutchnick](entities/MaxMutchnick.md) — Will & Grace co-creator whose friendship and coming-out history informed the show's premise.
+- [David Kohan](entities/DavidKohan.md) — Will & Grace co-creator used in the episode's comparison of broadcast development and streaming freedom.
 - [Chio Reichman](entities/ChioReichman.md) — Holocaust survivor whose escape from Treblinka and chain of limited assistance ground the episode’s distributed-kindness argument.
 - [Robert Falcon Scott](entities/RobertFalconScott.md) — British Antarctic leader whose broad mission, mixed transport system, and patron constraints turned apparent abundance into operational fragility.
 - [Roald Amundsen](entities/RoaldAmundsen.md) — Norwegian polar explorer whose focused dog-and-ski system combined operational excellence with ethically troubling deception.
@@ -19847,6 +19851,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Broadcast Constraint-Reach Tradeoff](concepts/BroadcastConstraintReachTradeoff.md) — Exchange between gatekeeping and access to a large heterogeneous audience that may not already seek the work.
+- [LGBTQ+ Television Normalization](concepts/LGBTQTelevisionNormalization.md) — Repeated central representation that makes queer lives familiar while remaining compatible with omission and stereotype.
 - [Private Refugee Sponsorship](concepts/PrivateRefugeeSponsorship.md) — Community resettlement model built on additional admissions, complementary practical support, and preserved public responsibility.
 - [Distributed Kindness](concepts/DistributedKindness.md) — Accumulation of bounded, complementary acts whose combined effect can produce survival, settlement, or belonging.
 - [Trauma-Informed Refugee Education](concepts/TraumaInformedRefugeeEducation.md) — School framework joining safety, belonging, language access, behavioral interpretation, and learning without reducing children to trauma.

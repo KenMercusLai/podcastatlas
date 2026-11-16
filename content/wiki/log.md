@@ -41386,3 +41386,21 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | When Will Met Grace
+
+Added a [[RevisionistHistory]] source on how [[MaxMutchnick]] and [[DavidKohan]] developed [[WillAndGrace|Will & Grace]] through [[NBC]]'s advertiser-sensitive broadcast system and how conventional sitcom form carried central gay characters, friendships, social spaces, and desire to a mass audience.
+
+Created [[WillAndGrace|Will & Grace]], Max Mutchnick, David Kohan, [[BroadcastConstraintReachTradeoff]], and [[LGBTQTelevisionNormalization]]. Resynthesized [[MassBroadcastCulture]] and NBC from their complete preserved evidence inventories before appending the new source once; NBC was migrated to the synthesis-v1 contract. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and [[Netflix]] profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories.
+
+Core synthesis: creative freedom, representational completeness, audience scale, and persuasion are separate dimensions. Broadcast gatekeeping restricted what *Will & Grace* could show, but its shared audience repeatedly exposed viewers beyond an already sympathetic niche to gay lives treated as ordinary. Streaming expands choice and creative liberty while recommendation-led fragmentation may weaken common exposure.
+
+No settled contradiction was adopted. The episode strengthens the existing account of mass broadcasting as a shared-audience system while adding its advertiser dependence and unequal inclusion. It does not prove that *Will & Grace* caused rising support for same-sex marriage, and its omissions of HIV and fuller sexual representation remain substantive limitations. Ratings, public-opinion figures, executive motives, commissioning comparisons, and attributed cultural influence remain source-scoped because the supplied file is a structured bilingual summary rather than a transcript, production archive, ratings dataset, or causal reception study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,112 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

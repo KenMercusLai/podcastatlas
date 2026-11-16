@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11504
-- Entities: 14514
-- Sources: 5111
-- Total wiki content pages: 31130
+- Concepts: 11506
+- Entities: 14517
+- Sources: 5112
+- Total wiki content pages: 31136
 
 ## Links
-- Wiki link references: 700203
-- Unique wiki link targets: 31170
-- Missing targets: 52
+- Wiki link references: 700297
+- Unique wiki link targets: 31177
+- Missing targets: 53
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5111
-- Matched episodes: 5111
+- Source pages: 5112
+- Matched episodes: 5112
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -73,6 +73,8 @@ outputs: ["html"]
   - `content/wiki/concepts/PlatformNativePublicHistory.md`
 - `[[CrisisCommunicationFailure]]`
   - `content/wiki/concepts/HighConsequenceBiologicalResearchTransparency.md`
+- `[[CulturalVisibilityAsImplementation]]`
+  - `content/wiki/concepts/LGBTQTelevisionNormalization.md`
 - `[[DigitalAttentionFragmentation]]`
   - `content/wiki/concepts/CinemaAudienceBehavioralContract.md`
 - `[[EmpathyAsRegulatedCapacity]]`

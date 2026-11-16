@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14514
+wiki_total_pages: 14517
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "WilfredOwen"
     title: "Wilfred Owen"
     url: "/wiki/entities/wilfredowen/"
+  - key: "WillAndGrace"
+    title: "Will & Grace"
+    url: "/wiki/entities/willandgrace/"
   - key: "WillAhmed"
     title: "Will Ahmed"
     url: "/wiki/entities/willahmed/"

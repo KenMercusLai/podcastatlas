@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14514
+wiki_total_pages: 14517
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "MaxKrummel"
     title: "Max Krummel"
     url: "/wiki/entities/maxkrummel/"
+  - key: "MaxMutchnick"
+    title: "Max Mutchnick"
+    url: "/wiki/entities/maxmutchnick/"
   - key: "MaxTegmark"
     title: "Max Tegmark"
     url: "/wiki/entities/maxtegmark/"

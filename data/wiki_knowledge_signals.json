@@ -40149,6 +40149,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/brixton/"
     },
+    "BroadcastConstraintReachTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/broadcastconstraintreachtradeoff/"
+    },
     "BroadcastIntimacyAsPersonalBrand": {
       "episode_count": 1,
       "show_count": 1,
@@ -76267,6 +76283,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/davidkennedycriminologist/"
+    },
+    "DavidKohan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/davidkohan/"
     },
     "DavidLinden": {
       "episode_count": 1,
@@ -179024,6 +179056,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/lcubelifestyle/"
     },
+    "LGBTQTelevisionNormalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/lgbtqtelevisionnormalization/"
+    },
     "LGElectronics": {
       "episode_count": 1,
       "show_count": 1,
@@ -207372,9 +207420,9 @@
       "url": "/wiki/concepts/masonicsecrecyconspiracyfeedback/"
     },
     "MassBroadcastCulture": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -207389,9 +207437,16 @@
           "show": "The Rest Is History",
           "title": "28. The Kings of Comedy",
           "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
+        },
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/massbroadcastculture/"
     },
     "MassExtinctionPlanetaryWarning": {
@@ -208332,6 +208387,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maxkrummel/"
+    },
+    "MaxMutchnick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/maxmutchnick/"
     },
     "MaxVonThun": {
       "episode_count": 1,
@@ -222376,6 +222447,36 @@
       ],
       "updated": "2026-10-16",
       "url": "/wiki/concepts/natoalliancecredibility/"
+    },
+    "NBC": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "The NFL ｜ Acquired (1) [the-nfl-1].md",
+          "key": "the-nfl-1",
+          "show": "Acquired",
+          "title": "The NFL",
+          "url": "/wiki/sources/the-nfl-1/"
+        },
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/nbc/"
     },
     "NCTExozyme": {
       "episode_count": 1,
@@ -334616,6 +334717,22 @@
       ],
       "updated": "2026-10-30",
       "url": "/wiki/entities/willahmed/"
+    },
+    "WillAndGrace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "When_Will_Met_Grace [When_Will_Met_Grace].md",
+          "key": "when-will-met-grace-when-will-met-grace",
+          "show": "Revisionist History",
+          "title": "When Will Met Grace",
+          "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/willandgrace/"
     },
     "WillCreeley": {
       "episode_count": 1,

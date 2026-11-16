@@ -16695,6 +16695,10 @@
     "title": "Broadcast Centralization",
     "url": "/wiki/concepts/broadcastcentralization/"
   },
+  "BroadcastConstraintReachTradeoff": {
+    "title": "Broadcast Constraint-Reach Tradeoff",
+    "url": "/wiki/concepts/broadcastconstraintreachtradeoff/"
+  },
   "BroadcastInfrastructureSunset": {
     "title": "Broadcast Infrastructure Sunset",
     "url": "/wiki/concepts/broadcastinfrastructuresunset/"
@@ -27514,6 +27518,10 @@
   "DavidKirtley": {
     "title": "David Kirtley",
     "url": "/wiki/entities/davidkirtley/"
+  },
+  "DavidKohan": {
+    "title": "David Kohan",
+    "url": "/wiki/entities/davidkohan/"
   },
   "DavidLieb": {
     "title": "David Lieb",
@@ -55487,6 +55495,10 @@
     "title": "L-Design",
     "url": "/wiki/entities/ldesign/"
   },
+  "LGBTQTelevisionNormalization": {
+    "title": "LGBTQ+ Television Normalization",
+    "url": "/wiki/concepts/lgbtqtelevisionnormalization/"
+  },
   "LGElectronics": {
     "title": "LG Electronics",
     "url": "/wiki/entities/lgelectronics/"
@@ -63526,6 +63538,10 @@
   "MaxKrummel": {
     "title": "Max Krummel",
     "url": "/wiki/entities/maxkrummel/"
+  },
+  "MaxMutchnick": {
+    "title": "Max Mutchnick",
+    "url": "/wiki/entities/maxmutchnick/"
   },
   "MaxTegmark": {
     "title": "Max Tegmark",
@@ -101483,6 +101499,10 @@
     "title": "Will Ahmed",
     "url": "/wiki/entities/willahmed/"
   },
+  "WillAndGrace": {
+    "title": "Will & Grace",
+    "url": "/wiki/entities/willandgrace/"
+  },
   "WillCreeley": {
     "title": "Will Creeley",
     "url": "/wiki/entities/willcreeley/"
@@ -118254,6 +118274,10 @@
   "when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986": {
     "title": "When chips are down: Nvidia CEO’s risky relationship",
     "url": "/wiki/sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986/"
+  },
+  "when-will-met-grace-when-will-met-grace": {
+    "title": "When Will Met Grace",
+    "url": "/wiki/sources/when-will-met-grace-when-will-met-grace/"
   },
   "who-decides-what-big-box-sells-our-game-got-us-answers": {
     "title": "Who decides what big box sells? Our GAME got us answers",
