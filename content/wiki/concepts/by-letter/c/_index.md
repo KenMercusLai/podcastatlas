@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11436
+wiki_total_pages: 11437
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2279,6 +2279,9 @@ wiki_pages:
   - key: "CongressionalWarPowersConstraint"
     title: "Congressional War-Powers Constraint"
     url: "/wiki/concepts/congressionalwarpowersconstraint/"
+  - key: "ConnectedSportsExperience"
+    title: "Connected Sports Experience"
+    url: "/wiki/concepts/connectedsportsexperience/"
   - key: "ConnecticutLocalFiscalFragmentation"
     title: "Connecticut Local Fiscal Fragmentation"
     url: "/wiki/concepts/connecticutlocalfiscalfragmentation/"

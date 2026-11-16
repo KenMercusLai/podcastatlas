@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 11436
+wiki_total_pages: 11437
 wiki_pages:
   - key: "XianxiaHumanCenteredCultivation"
     title: "Human-Centered Xianxia Cultivation / 人道优先的仙侠修行"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3733
+topic_total_pages: 3734
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -874,6 +874,9 @@ topic_concepts:
   - key: "ConcertResidencyEconomics"
     title: "Concert Residency Economics"
     url: "/wiki/concepts/concertresidencyeconomics/"
+  - key: "ConnectedSportsExperience"
+    title: "Connected Sports Experience"
+    url: "/wiki/concepts/connectedsportsexperience/"
   - key: "ConscienceFormationUnderDictatorship"
     title: "Conscience Formation Under Dictatorship"
     url: "/wiki/concepts/conscienceformationunderdictatorship/"

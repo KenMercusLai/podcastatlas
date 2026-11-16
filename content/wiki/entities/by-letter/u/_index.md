@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 14418
+wiki_total_pages: 14421
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "Ukraine"
     title: "Ukraine"
     url: "/wiki/entities/ukraine/"
+  - key: "UlfEwaldsson"
+    title: "Ulf Ewaldsson"
+    url: "/wiki/entities/ulfewaldsson/"
   - key: "UlrichBeck"
     title: "Ulrich Beck / 乌尔里希·贝克"
     url: "/wiki/entities/ulrichbeck/"

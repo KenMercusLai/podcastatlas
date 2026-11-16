@@ -42587,9 +42587,9 @@
       "url": "/wiki/entities/caligula/"
     },
     "CallieField": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_IT_Revolution [The_IT_Revolution].md",
@@ -42597,6 +42597,13 @@
           "show": "Revisionist History",
           "title": "The IT Revolution",
           "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        },
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
         }
       ],
       "updated": "2026-11-16",
@@ -63505,6 +63512,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/congressionalwarpowersconstraint/"
     },
+    "ConnectedSportsExperience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/connectedsportsexperience/"
+    },
     "ConnecticutCitizensAssembly": {
       "episode_count": 1,
       "show_count": 1,
@@ -63538,9 +63561,9 @@
       "url": "/wiki/concepts/connecticutlocalfiscalfragmentation/"
     },
     "ConnectivityEnabledWorkflowRedesign": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
@@ -63562,6 +63585,13 @@
           "show": "Revisionist History",
           "title": "The IT Revolution",
           "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        },
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
         }
       ],
       "updated": "2026-11-16",
@@ -93371,6 +93401,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/emilybalcetis/"
     },
+    "EmilyPrazer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/emilyprazer/"
+    },
     "EmmaGriffin": {
       "episode_count": 1,
       "show_count": 1,
@@ -111544,9 +111590,9 @@
       "url": "/wiki/concepts/fiveforcessystemiccycle/"
     },
     "FiveG": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_692d6955512ebefc6d82d5d1cb1dae3b_32655740 [default.mp3_ywr3ahjkcgo_692d6955512ebefc6d82d5d1cb1dae3b_32655740].md",
@@ -111561,9 +111607,16 @@
           "show": "忽左忽右",
           "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
           "url": "/wiki/sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4/"
+        },
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/fiveg/"
     },
     "FiveGuys": {
@@ -113414,6 +113467,36 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/formerenemyloyaltyreframing/"
+    },
+    "FormulaOne": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Formula 1 ｜ Acquired (1) [formula-1-1].md",
+          "key": "formula-1-1",
+          "show": "Acquired",
+          "title": "Formula 1",
+          "url": "/wiki/sources/formula-1-1/"
+        },
+        {
+          "episode_file": "Ferrari ｜ Acquired (1) [ferrari-1].md",
+          "key": "ferrari-1",
+          "show": "Acquired",
+          "title": "Ferrari",
+          "url": "/wiki/sources/ferrari-1/"
+        },
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/formulaone/"
     },
     "FormulaicProductionArtisticConfinement": {
       "episode_count": 1,
@@ -178825,6 +178908,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/entities/larryellison/"
+    },
+    "LasVegasGrandPrix": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/lasvegasgrandprix/"
     },
     "LastMileCourierCompensation": {
       "episode_count": 1,
@@ -301651,9 +301750,9 @@
       "url": "/wiki/concepts/tcellengagers/"
     },
     "TMobile": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Invisible_Infrastructure_with_T-Mobile_for_Business [Invisible_Infrastructure_with_T-Mobile_for_Business].md",
@@ -301675,6 +301774,13 @@
           "show": "Revisionist History",
           "title": "The IT Revolution",
           "url": "/wiki/sources/the-it-revolution-the-it-revolution/"
+        },
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
         }
       ],
       "updated": "2026-11-16",
@@ -317346,6 +317452,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/ukrainiannationalidentity/"
+    },
+    "UlfEwaldsson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_New_Day_at_the_Races [A_New_Day_at_the_Races].md",
+          "key": "a-new-day-at-the-races-a-new-day-at-the-races",
+          "show": "Revisionist History",
+          "title": "A New Day at the Races",
+          "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/ulfewaldsson/"
     },
     "UlrichBeck": {
       "episode_count": 1,

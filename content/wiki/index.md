@@ -5193,6 +5193,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hitler’s Olympics, Part 2: Pangloss, Polonius, Prufrock](sources/hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock.md) — Revisionist History profile of Charles Sherrill, the IOC's 1933 eligibility guarantee, and elite procedural accommodation of Nazi persecution.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
+- [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
+
 ## Entities
 - [George Rohrbacher](entities/GeorgeRohrbacher.md) — Farmer and game designer who converted the Breaks Ranch crisis into The Farming Game.
 - [Anne Rohrbacher](entities/AnneRohrbacher.md) — Farmer and operating partner who co-developed and commercialized The Farming Game.
@@ -19705,6 +19707,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [League of Corinth](entities/LeagueOfCorinth.md) — Macedonian-led Greek peace and Persian-war alliance combining real coordination with unequal coercive control.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
+- [Ulf Ewaldsson](entities/UlfEwaldsson.md) — T-Mobile executive presenting live-event capacity, low latency, sensors, and telemetry through Formula One and SailGP cases.
+- [Emily Prazer](entities/EmilyPrazer.md) — Las Vegas Grand Prix commercial executive connecting connectivity with access, navigation, entertainment, and event operations.
+- [Las Vegas Grand Prix](entities/LasVegasGrandPrix.md) — Formula One street race used as a dense-crowd connectivity and connected-spectator case.
+
 ## Concepts
 - [Agricultural Leverage and Weather Shock](concepts/AgriculturalLeverageAndWeatherShock.md) — Compound risk in which fixed expansion obligations persist while drought reduces the output and cash flow needed to service them.
 - [Livelihood Simulation Game](concepts/LivelihoodSimulationGame.md) — Rule-based model translating an occupation's assets, income, costs, uncertainty, and failure conditions into play.
@@ -31250,5 +31256,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Broken-Windows Policing](concepts/BrokenWindowsPolicing.md) — Disorder-enforcement model separated from the intrinsic value of orderly public space and rejected as a necessary cause of New York's crime decline.
 - [Place-Based Violence Prevention](concepts/PlaceBasedViolencePrevention.md) — Environmental repair approach acting on neglected spaces without making broad low-level arrest the primary intervention.
+
+- [Connected Sports Experience](concepts/ConnectedSportsExperience.md) — Networked video, sensors, telemetry, navigation, and audience interfaces that make live competition more legible and personalized.
 
 ## Syntheses

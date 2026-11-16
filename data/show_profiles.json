@@ -964,7 +964,7 @@
       "earliest_episode_date": "2018-05-03",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 100,
+      "source_note_count": 101,
       "topic_matched_source_note_count": 43,
       "topics": [
         {
@@ -1036,16 +1036,16 @@
           "episode_count": 4
         },
         {
+          "key": "TMobile",
+          "title": "T-Mobile",
+          "url": "/wiki/entities/tmobile/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
           "key": "BrandonScott",
           "title": "Brandon Scott",
           "url": "/wiki/entities/brandonscott/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "CharlesSennett",
-          "title": "Charles Sennett",
-          "url": "/wiki/entities/charlessennett/",
           "kind": "person",
           "episode_count": 3
         }

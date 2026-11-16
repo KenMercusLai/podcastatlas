@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14418
+wiki_total_pages: 14421
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "LarryTheCat"
     title: "Larry the Cat"
     url: "/wiki/entities/larrythecat/"
+  - key: "LasVegasGrandPrix"
+    title: "Las Vegas Grand Prix"
+    url: "/wiki/entities/lasvegasgrandprix/"
   - key: "LateJulySnacks"
     title: "Late July Snacks"
     url: "/wiki/entities/latejulysnacks/"
