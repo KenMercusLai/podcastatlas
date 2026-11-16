@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11473
+wiki_total_pages: 11478
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "BiologicalAgency"
     title: "Biological Agency / 生物能动性"
     url: "/wiki/concepts/biologicalagency/"
+  - key: "BiologicalCapabilityDemocratizationRisk"
+    title: "Biological Capability Democratization Risk"
+    url: "/wiki/concepts/biologicalcapabilitydemocratizationrisk/"
   - key: "BiologicalHarnessEngineering"
     title: "Biological Harness Engineering"
     url: "/wiki/concepts/biologicalharnessengineering/"

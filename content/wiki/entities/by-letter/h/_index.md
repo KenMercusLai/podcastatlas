@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14481
+wiki_total_pages: 14485
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "HighTechLawInstitute"
     title: "High Tech Law Institute"
     url: "/wiki/entities/hightechlawinstitute/"
+  - key: "HigherAnimalsBook"
+    title: "Higher Animals"
+    url: "/wiki/entities/higheranimalsbook/"
   - key: "Hightouch"
     title: "Hightouch"
     url: "/wiki/entities/hightouch/"

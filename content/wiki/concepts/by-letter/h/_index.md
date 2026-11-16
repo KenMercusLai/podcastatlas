@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11473
+wiki_total_pages: 11478
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "HerbalSupplementLiverToxicity"
     title: "Herbal Supplement Liver Toxicity"
     url: "/wiki/concepts/herbalsupplementlivertoxicity/"
+  - key: "HeritableWildlifeVaccination"
+    title: "Heritable Wildlife Vaccination"
+    url: "/wiki/concepts/heritablewildlifevaccination/"
   - key: "HeritageProductInnovationDebt"
     title: "Heritage Product Innovation Debt"
     url: "/wiki/concepts/heritageproductinnovationdebt/"

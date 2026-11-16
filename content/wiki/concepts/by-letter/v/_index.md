@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11473
+wiki_total_pages: 11478
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "VaccineScheduleTrustRebuilding"
     title: "Vaccine Schedule Trust Rebuilding"
     url: "/wiki/concepts/vaccinescheduletrustrebuilding/"
+  - key: "VaccineTrustCollectiveMemory"
+    title: "Vaccine Trust and Collective Memory"
+    url: "/wiki/concepts/vaccinetrustcollectivememory/"
   - key: "VagusStimulationStateBoundary"
     title: "Vagus Stimulation State Boundary"
     url: "/wiki/concepts/vagusstimulationstateboundary/"

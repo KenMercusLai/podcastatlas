@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14481
+wiki_total_pages: 14485
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "IsraelAcabla"
     title: "Israel Acabla"
     url: "/wiki/entities/israelacabla/"
+  - key: "IsraelWeinstein"
+    title: "Israel Weinstein"
+    url: "/wiki/entities/israelweinstein/"
   - key: "Istanbul"
     title: "Istanbul / 伊斯坦布尔"
     url: "/wiki/entities/istanbul/"

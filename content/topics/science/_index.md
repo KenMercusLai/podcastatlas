@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1672
+topic_total_pages: 1673
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2482,6 +2482,9 @@ topic_concepts:
   - key: "SymptomFunctionDissociation"
     title: "Symptom–Function Dissociation"
     url: "/wiki/concepts/symptomfunctiondissociation/"
+  - key: "SyntheticBiologyInformationScience"
+    title: "Synthetic Biology as Information Science"
+    url: "/wiki/concepts/syntheticbiologyinformationscience/"
   - key: "SyntheticHappiness"
     title: "Synthetic Happiness"
     url: "/wiki/concepts/synthetichappiness/"

@@ -20856,9 +20856,9 @@
       "url": "/wiki/entities/anthonyeden/"
     },
     "AnthonyFauci": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -20880,9 +20880,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Bill Gurley: Searching for Feynman",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        },
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/anthonyfauci/"
     },
     "AnthonyWoodville": {
@@ -35144,6 +35151,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/biologicalagemeasurementboundary/"
+    },
+    "BiologicalCapabilityDemocratizationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/biologicalcapabilitydemocratizationrisk/"
     },
     "BiologicalHarnessEngineering": {
       "episode_count": 1,
@@ -126224,6 +126247,22 @@
       "updated": "2026-10-23",
       "url": "/wiki/entities/giniigenticai/"
     },
+    "GinkgoBioworks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/ginkgobioworks/"
+    },
     "GiorgioMoroder": {
       "episode_count": 1,
       "show_count": 1,
@@ -141498,6 +141537,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/hereditarysuccessioncapabilitydecay/"
     },
+    "HeritableWildlifeVaccination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/heritablewildlifevaccination/"
+    },
     "HeritageProductInnovationDebt": {
       "episode_count": 2,
       "show_count": 1,
@@ -142950,6 +143005,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/highvarianceideaprotection/"
+    },
+    "HigherAnimalsBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/higheranimalsbook/"
     },
     "HilareeNelson": {
       "episode_count": 1,
@@ -162800,6 +162871,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/israel/"
+    },
+    "IsraelWeinstein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/israelweinstein/"
     },
     "IsraeliElection2026": {
       "episode_count": 5,
@@ -212977,6 +213064,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/michaelsnyder/"
     },
+    "MichaelSpecter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/michaelspecter/"
+    },
     "MichaelThaddeus": {
       "episode_count": 1,
       "show_count": 1,
@@ -217182,9 +217285,9 @@
       "url": "/wiki/concepts/modernwuxiaheroism/"
     },
     "Moderna": {
-      "episode_count": 5,
-      "show_count": 5,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
@@ -217220,9 +217323,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        },
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/moderna/"
     },
     "ModernistArchitecture": {
@@ -256606,6 +256716,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/publichealthinformationtriage/"
     },
+    "PublicHealthMobilizationCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/publichealthmobilizationcapacity/"
+    },
     "PublicHealthTrustCommunication": {
       "episode_count": 1,
       "show_count": 1,
@@ -277652,9 +277778,9 @@
       "url": "/wiki/concepts/sciencebasedtooltaxonomy/"
     },
     "ScienceCommunicationTrustRepair": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -277662,9 +277788,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/sciencecommunicationtrustrepair/"
     },
     "ScienceFictionContextStripping": {
@@ -302951,6 +303084,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/syncopy/"
     },
+    "SyntheticBiologyInformationScience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/syntheticbiologyinformationscience/"
+    },
     "SyntheticBiologyScreeningSafeguards": {
       "episode_count": 1,
       "show_count": 1,
@@ -321840,6 +321989,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
+    },
+    "VaccineTrustCollectiveMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Higher_Animals_with_Michael_Specter [Higher_Animals_with_Michael_Specter].md",
+          "key": "higher-animals-with-michael-specter-higher-animals-with-michael-specter",
+          "show": "Revisionist History",
+          "title": "Higher Animals with Michael Specter",
+          "url": "/wiki/sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/vaccinetrustcollectivememory/"
     },
     "VagusStimulationStateBoundary": {
       "episode_count": 4,

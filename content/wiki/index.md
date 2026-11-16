@@ -5218,8 +5218,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Crisis in Girls’ Sports with Lauren Fleshman and Linda Flanagan](sources/the-crisis-in-girls-sports-with-lauren-fleshman-and-linda-flanagan-the-crisis-in-girls-sports-with-lauren-fleshman-and.md) — Revisionist History conversation on female athlete development, youth-sport incentives, coaching education, safeguarding, access, and autonomy.
 - [The Mystery of Mastery with Adam Gopnik](sources/the-mystery-of-mastery-with-adam-gopnik-the-mystery-of-mastery-with-adam-gopnik.md) — Revisionist History conversation on craft learning, shop talk, shared activity, amateur participation, expert appreciation, and committed performance.
 - [Malcolm Goes to Debate School](sources/malcolm-goes-to-debate-school-malcolm-goes-to-debate-school.md) — Revisionist History postmortem on audience-centered persuasion, hostile framing, emotional investment, and flowing as trained argument listening.
+- [Higher Animals with Michael Specter](sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter.md) — Revisionist History conversation and audiobook excerpt on synthetic biology, mRNA vaccine design, biosecurity, the 1947 New York smallpox campaign, and public trust.
 
 ## Entities
+- [Michael Specter](entities/MichaelSpecter.md) — Science writer and author connecting programmable biology, dual-use risk, public-health history, and earned trust.
+- [Israel Weinstein](entities/IsraelWeinstein.md) — New York City health commissioner represented through the rapid 1947 smallpox vaccination campaign.
+- [Ginkgo Bioworks](entities/GinkgoBioworks.md) — Synthetic-biology company illustrating biologically grown materials and cross-disciplinary biological manufacturing.
+- [Higher Animals](entities/HigherAnimalsBook.md) — Michael Specter audiobook joining programmable biology and biosecurity to the institutional history of vaccination.
 - [Steve Martin](entities/SteveMartin.md) — Comedian, actor, and writer distinguishing public scale from creative feedback while reflecting on film craft and memorable comic risk.
 - [So Many Steves: Afternoons with Steve Martin](entities/SoManySteves.md) — Conversational audio original joining Adam Gopnik’s career interpretation to Steve Martin’s firsthand craft memories.
 - [Carl Reiner](entities/CarlReiner.md) — Comedian, writer, actor, and director represented as Steve Martin’s early film director and source of the refrigerator-laugh heuristic.
@@ -19796,6 +19801,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
 
 ## Concepts
+- [Synthetic Biology as Information Science](concepts/SyntheticBiologyInformationScience.md) — View of biological sequences as portable design information whose physical execution still requires validation and governance.
+- [Biological Capability Democratization Risk](concepts/BiologicalCapabilityDemocratizationRisk.md) — Dual-use risk created as biological design and construction tools become cheaper, smaller, and more accessible.
+- [Public Health Mobilization Capacity](concepts/PublicHealthMobilizationCapacity.md) — Ability to turn a medical intervention into rapid population coverage through supply, access, communication, leadership, and cooperation.
+- [Vaccine Trust and Collective Memory](concepts/VaccineTrustCollectiveMemory.md) — Relationship between vaccine confidence, fading memory of prevented disease, and institutions' need to earn present legitimacy.
+- [Heritable Wildlife Vaccination](concepts/HeritableWildlifeVaccination.md) — Proposed inherited disease resistance for threatened animals when repeated individual vaccination is impractical.
 - [Performance Scale Creative Constraint](concepts/PerformanceScaleCreativeConstraint.md) — Loss of low-cost experimentation when intimate live work becomes a high-stakes large-venue spectacle.
 - [Screen Acting Mechanics](concepts/ScreenActingMechanics.md) — Medium-specific coordination of movement, props, sound, framing, continuity, and scene partners for recorded performance.
 - [Refrigerator Laugh](concepts/RefrigeratorLaugh.md) — Carl Reiner’s heuristic for a comic moment that becomes funny again during later everyday recollection.

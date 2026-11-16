@@ -20151,6 +20151,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BiologicalCapabilityDemocratizationRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BiologicalHarnessEngineering": [
     {
       "key": "science",
@@ -47607,6 +47614,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HigherAnimalsBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HigherEducationAIDiscoverability": [
@@ -90631,6 +90645,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SyntheticBiologyInformationScience": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SyntheticBiologyScreeningSafeguards": [

@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11473
-- Entities: 14481
-- Sources: 5095
-- Total wiki content pages: 31050
+- Concepts: 11478
+- Entities: 14485
+- Sources: 5096
+- Total wiki content pages: 31060
 
 ## Links
-- Wiki link references: 698860
-- Unique wiki link targets: 31089
-- Missing targets: 50
+- Wiki link references: 699009
+- Unique wiki link targets: 31100
+- Missing targets: 51
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5095
-- Matched episodes: 5095
+- Source pages: 5096
+- Matched episodes: 5096
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -75,6 +75,8 @@ outputs: ["html"]
   - `content/wiki/concepts/HighConsequenceBiologicalResearchTransparency.md`
 - `[[DigitalAttentionFragmentation]]`
   - `content/wiki/concepts/CinemaAudienceBehavioralContract.md`
+- `[[GeneticRescue]]`
+  - `content/wiki/concepts/HeritableWildlifeVaccination.md`
 - `[[GutMicrobiomeNutritionSupport]]`
   - `content/wiki/concepts/ProbioticUseBoundary.md`
 - `[[Hanshu]]`

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11473
+wiki_total_pages: 11478
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2897,6 +2897,9 @@ wiki_pages:
   - key: "SyntheticAgentData"
     title: "Synthetic Agent Data"
     url: "/wiki/concepts/syntheticagentdata/"
+  - key: "SyntheticBiologyInformationScience"
+    title: "Synthetic Biology as Information Science"
+    url: "/wiki/concepts/syntheticbiologyinformationscience/"
   - key: "SyntheticBiologyScreeningSafeguards"
     title: "Synthetic Biology Screening Safeguards"
     url: "/wiki/concepts/syntheticbiologyscreeningsafeguards/"

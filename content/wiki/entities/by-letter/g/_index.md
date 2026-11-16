@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14481
+wiki_total_pages: 14485
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "GiniIGenticAI"
     title: "Gini (iGentic AI)"
     url: "/wiki/entities/giniigenticai/"
+  - key: "GinkgoBioworks"
+    title: "Ginkgo Bioworks"
+    url: "/wiki/entities/ginkgobioworks/"
   - key: "GinnySpicer"
     title: "Ginny Spicer"
     url: "/wiki/entities/ginnyspicer/"

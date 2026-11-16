@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11473
+wiki_total_pages: 11478
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2783,6 +2783,9 @@ wiki_pages:
   - key: "PublicHealthInvisibility"
     title: "Public Health Invisibility"
     url: "/wiki/concepts/publichealthinvisibility/"
+  - key: "PublicHealthMobilizationCapacity"
+    title: "Public Health Mobilization Capacity"
+    url: "/wiki/concepts/publichealthmobilizationcapacity/"
   - key: "PublicHousingDisplacement"
     title: "Public Housing Displacement"
     url: "/wiki/concepts/publichousingdisplacement/"
