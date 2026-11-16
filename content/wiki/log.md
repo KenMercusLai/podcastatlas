@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Guns Part 3: A Shooting Lesson
+
+Added the [[RevisionistHistory]] episode in which [[GregWallace]] teaches [[MalcolmGladwell]] firearm mechanics and challenges feature-based assault-weapon bans, while [[JoshSugarman]] and the [[ViolencePolicyCenter]] defend the category's advocacy rationale. Created focused profiles for Wallace, Sugarman, and the organization, expanded [[BabakSarani]] from trauma timing to the episode-reported mass-shooting autopsy analysis, and resynthesized [[WeaponCategoryPolicyFraming]] and [[MultiInterventionGunViolencePrevention]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: civilian semi-automatic and selective-fire military rifles should not be treated as mechanically equivalent, while AR-15 modularity lets law distinguish configurations whose listed features may not define the firing mechanism. Incompleteness, rapid reloading, and weapon substitution do not by themselves prove a rule ineffective. Sarani's selected 23-shooting sample reportedly found handgun victims more likely to die because attackers were closer, struck the head or torso more often, and fired repeated shots; that finding supports context-sensitive risk assessment and a common regulatory floor without making rifles benign or category-specific rules useless.
+
+No settled contradiction was adopted. The episode sharpens the existing distinction between accurate classification and adequate policy coverage. Wallace's anti-ban position, the adversarial Sugarman interview, the absence of full statutes and publications, and the selected autopsy sample limit generalization. Firing rates, reload times, historical strategy, dialogue, motives, legal effects, and fatality comparisons remain episode-scoped because the supplied file is a structured summary rather than a transcript, legal analysis, policy evaluation, experimental study, advocacy archive, autopsy paper, or underlying dataset. The broad [[MalcolmGladwell]] and Revisionist History profiles and automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,083 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Guns Part 5: The Footnote
 
 Added the [[RevisionistHistory]] episode following a footnote in [[PenelopeHanke]] and [[JamesGundlach]]'s “Damned Upon Arrival” to [[BrandonYoung]]'s death. Created bounded profiles for Hanke, Gundlach, Brandon, trauma surgeon [[BabakSarani]], and physician-researcher [[ElizabethTung]], plus [[HomicideAsSurvivalSystemOutcome]]. Resynthesized [[TraumaCareAccessInequality]] and [[MultiInterventionGunViolencePrevention]] from their complete preserved evidence inventories before appending the new source once.
@@ -40968,6 +40978,10 @@ Core synthesis: [[HomicideAsSurvivalSystemOutcome]] now includes historical trea
 No settled contradiction was adopted. Kennedy's survival, Cornwell's survival estimate, the trauma-improvement rate, the national counterfactual homicide range, Memphis trends, Indianapolis findings, and political effects remain episode-scoped because the supplied file is a structured summary rather than a transcript, clinical record, underlying study, or dataset. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[RobertFKennedy]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,082 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

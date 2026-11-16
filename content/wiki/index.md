@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Guns Part 3: A Shooting Lesson](sources/guns-part-3-a-shooting-lesson.md) — Revisionist History tests assault-weapon categories against firearm mechanics, modularity, legal feature lists, and mass-shooting autopsy patterns.
 - [Guns Part 4: Moral Hazard](sources/guns-part-4-moral-hazard.md) — Revisionist History separates shooting exposure from medically mediated homicide and qualifies the claim that trauma success weakens prevention pressure.
 - [Guns Part 5: The Footnote](sources/guns-part-5-the-footnote.md) — Revisionist History connects trauma timing, racialized care geography, hospital financing, ambulance delay, and homicide classification through Brandon Young's death.
 - [Five Burning Travel Questions with Malcolm Gladwell](sources/five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell.md) — Revisionist History uses comic travel mishaps and dog journeys to connect destination verification, pet logistics, and chance encounters.
@@ -5207,13 +5208,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Greg Wallace](entities/GregWallace.md) — Law professor and competitive shooter supplying the episode's technical critique of assault-weapon bans.
+- [Josh Sugarman](entities/JoshSugarman.md) — Gun-control advocate whose assault-weapon strategy and technical framing are challenged in the episode.
+- [Violence Policy Center](entities/ViolencePolicyCenter.md) — Advocacy organization at the center of the episode's dispute over firearm categories, features, and killing power.
 - [Edward Cornwell](entities/EdwardCornwell.md) — Trauma surgeon explaining clinical learning, survival gains, and the limits of hospital-only responses to gun violence.
 - [Jordan Komisarow](entities/JordanKomisarow.md) — Trauma neurosurgeon comparing Robert F. Kennedy's 1968 treatment with a qualified modern survival pathway.
 - [Natalie Hipple](entities/NatalieHipple.md) — Criminologist using police and medical records to measure nonfatal shooting exposure.
 - [Brandon Young](entities/BrandonYoung.md) — Teenager whose attempted transition from gang life, protection of three youths, and death anchor the episode's footnote.
 - [James Gundlach](entities/JamesGundlach.md) — Sociologist, informal guardian, and coauthor who used Brandon Young's case as a research dedication.
 - [Penelope Hanke](entities/PenelopeHanke.md) — Coauthor of the Alabama study connecting unequal victim survival to homicide imprisonment.
-- [Babak Sarani](entities/BabakSarani.md) — Trauma surgeon explaining the time-sensitive clinical mechanism linking transport delay to survival.
+- [Babak Sarani](entities/BabakSarani.md) — Trauma surgeon connecting time-critical care and mass-shooting injury patterns to context-sensitive firearm risk.
 - [Elizabeth Tung](entities/ElizabethTung.md) — Physician-researcher connecting Chicago trauma deserts to racial geography, payer incentives, and moral injury.
 - [Abdullah Pratt](entities/AbdullahPratt.md) — Chicago emergency physician joining lived bereavement, trauma care, violence analysis, and youth first-aid training.
 - [William Shockley](entities/WilliamShockley.md) — semiconductor physicist whose technical prestige concentrated talent while destructive management helped disperse it into new firms.
@@ -19760,10 +19764,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Osage Headright Inheritance](concepts/OsageHeadrightInheritance.md) — mineral-rights inheritance mechanism that preserved Osage value while creating lethal incentives under predatory institutions.
 - [Racialized Financial Guardianship](concepts/RacializedFinancialGuardianship.md) — racial incompetency regime that transferred Osage adults' financial control to white guardians.
 - [Systemic Complicity in Mass Violence](concepts/SystemicComplicityInMassViolence.md) — framework for distributed violence enabled by institutions and social devaluation without one central command.
-- [Weapon-Category Policy Framing](concepts/WeaponCategoryPolicyFraming.md) — Distinction between technically accurate firearm categories and whether those categories capture the broader distribution of harm.
+- [Weapon-Category Policy Framing](concepts/WeaponCategoryPolicyFraming.md) — Distinction among firearm mechanisms, regulated configurations, and whether legal categories capture real-world harm.
 - [Trauma-Care Access Inequality](concepts/TraumaCareAccessInequality.md) — Unequal survival from severe injury caused by the geographic and economic distribution of timely specialist care.
 - [Visibility-Driven Policy Urgency](concepts/VisibilityDrivenPolicyUrgency.md) — Gap between aggregate harm and the vivid cases that generate public attention and political pressure.
-- [Multi-Intervention Gun-Violence Prevention](concepts/MultiInterventionGunViolencePrevention.md) — Portfolio approach combining regulation, medicine, reporting, and mechanism-specific prevention.
+- [Multi-Intervention Gun-Violence Prevention](concepts/MultiInterventionGunViolencePrevention.md) — Portfolio combining broad and narrow regulation, medicine, reporting, and mechanism-specific prevention.
 - [Agricultural Leverage and Weather Shock](concepts/AgriculturalLeverageAndWeatherShock.md) — Compound risk in which fixed expansion obligations persist while drought reduces the output and cash flow needed to service them.
 - [Livelihood Simulation Game](concepts/LivelihoodSimulationGame.md) — Rule-based model translating an occupation's assets, income, costs, uncertainty, and failure conditions into play.
 - [Shared Play as Social Support](concepts/SharedPlayAsSocialSupport.md) — Use of games to externalize adversity, create humor, and support repeated family or community contact.

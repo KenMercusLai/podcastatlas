@@ -28535,9 +28535,9 @@
       "url": "/wiki/entities/basulatehan/"
     },
     "BabakSarani": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Guns_Part_5_The_Footnote [Guns_Part_5_The_Footnote].md",
@@ -28545,6 +28545,13 @@
           "show": "Revisionist History",
           "title": "Guns Part 5: The Footnote",
           "url": "/wiki/sources/guns-part-5-the-footnote/"
+        },
+        {
+          "episode_file": "Guns_Part_3_A_Shooting_Lesson [Guns_Part_3_A_Shooting_Lesson].md",
+          "key": "guns-part-3-a-shooting-lesson",
+          "show": "Revisionist History",
+          "title": "Guns Part 3: A Shooting Lesson",
+          "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
         }
       ],
       "updated": "2026-11-16",
@@ -129749,6 +129756,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/entities/gregmarshall/"
     },
+    "GregWallace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_3_A_Shooting_Lesson [Guns_Part_3_A_Shooting_Lesson].md",
+          "key": "guns-part-3-a-shooting-lesson",
+          "show": "Revisionist History",
+          "title": "Guns Part 3: A Shooting Lesson",
+          "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/gregwallace/"
+    },
     "GregorStrasser": {
       "episode_count": 3,
       "show_count": 1,
@@ -172144,6 +172167,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/joshspencer/"
+    },
+    "JoshSugarman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_3_A_Shooting_Lesson [Guns_Part_3_A_Shooting_Lesson].md",
+          "key": "guns-part-3-a-shooting-lesson",
+          "show": "Revisionist History",
+          "title": "Guns Part 3: A Shooting Lesson",
+          "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/joshsugarman/"
     },
     "JoshWaitzkin": {
       "episode_count": 1,
@@ -219121,9 +219160,9 @@
       "url": "/wiki/concepts/multievidencedisasterreconstruction/"
     },
     "MultiInterventionGunViolencePrevention": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -219145,6 +219184,13 @@
           "show": "Revisionist History",
           "title": "Guns Part 5: The Footnote",
           "url": "/wiki/sources/guns-part-5-the-footnote/"
+        },
+        {
+          "episode_file": "Guns_Part_3_A_Shooting_Lesson [Guns_Part_3_A_Shooting_Lesson].md",
+          "key": "guns-part-3-a-shooting-lesson",
+          "show": "Revisionist History",
+          "title": "Guns Part 3: A Shooting Lesson",
+          "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
         }
       ],
       "updated": "2026-11-16",
@@ -323035,6 +323081,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/violenceconcentration/"
     },
+    "ViolencePolicyCenter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_3_A_Shooting_Lesson [Guns_Part_3_A_Shooting_Lesson].md",
+          "key": "guns-part-3-a-shooting-lesson",
+          "show": "Revisionist History",
+          "title": "Guns Part 3: A Shooting Lesson",
+          "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/violencepolicycenter/"
+    },
     "ViolenceReductionPublicHealthModel": {
       "episode_count": 1,
       "show_count": 1,
@@ -328886,9 +328948,9 @@
       "url": "/wiki/concepts/wealthtransmissionrestraint/"
     },
     "WeaponCategoryPolicyFraming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -328896,6 +328958,13 @@
           "show": "Revisionist History",
           "title": "The Bear Was Poked With Maria Konnikova",
           "url": "/wiki/sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "Guns_Part_3_A_Shooting_Lesson [Guns_Part_3_A_Shooting_Lesson].md",
+          "key": "guns-part-3-a-shooting-lesson",
+          "show": "Revisionist History",
+          "title": "Guns Part 3: A Shooting Lesson",
+          "url": "/wiki/sources/guns-part-3-a-shooting-lesson/"
         }
       ],
       "updated": "2026-11-16",

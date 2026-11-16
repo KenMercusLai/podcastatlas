@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14450
+wiki_total_pages: 14453
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "GregRosalsky"
     title: "Greg Rosalsky"
     url: "/wiki/entities/gregrosalsky/"
+  - key: "GregWallace"
+    title: "Greg Wallace"
+    url: "/wiki/entities/gregwallace/"
   - key: "GregorStrasser"
     title: "Gregor Strasser"
     url: "/wiki/entities/gregorstrasser/"
