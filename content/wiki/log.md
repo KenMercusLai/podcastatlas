@@ -41368,3 +41368,21 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | “I Was a Stranger and You Welcomed Me”
+
+Added a [[RevisionistHistory]] source on a southern Ontario community's sponsorship of Vietnamese refugees, a Canadian school's reception of Syrian children, and [[ChioReichman]]'s survival after escaping Treblinka.
+
+Created [[ChioReichman]], [[PrivateRefugeeSponsorship]], [[DistributedKindness]], and [[TraumaInformedRefugeeEducation]]. Resynthesized [[StrangerHospitalityEthics]], [[VietnameseRefugeeExodus]], and [[IndifferenceAsMoralFailure]] from their complete preserved evidence inventories before appending the new source once. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles remained closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories.
+
+Core synthesis: useful care need not begin as heroism. Complementary acts involving housing, work, paperwork, meals, education, language support, emotional reassurance, false papers, transport, shelter, and employment can accumulate into survival and belonging, while public institutions, safeguards, and structural responsibility remain necessary.
+
+No settled contradiction was adopted. The episode's Canadian-American policy comparison remains one-sided and incomplete; refugee totals, maritime deaths, school demographics, Treblinka details, helper counts, and comparative system performance remain source-scoped.
+
+Downstream synthesis refreshed the dirty `work-education-and-society` topic and completed the due global compaction; the rendered artifacts validate 5,111 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

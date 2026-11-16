@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11501
+wiki_total_pages: 11504
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "DistributedIntercityCoachModel"
     title: "Distributed Intercity Coach Model / 分散站点城际大巴模式"
     url: "/wiki/concepts/distributedintercitycoachmodel/"
+  - key: "DistributedKindness"
+    title: "Distributed Kindness"
+    url: "/wiki/concepts/distributedkindness/"
   - key: "DistributedNeuralRepresentation"
     title: "Distributed Neural Representation"
     url: "/wiki/concepts/distributedneuralrepresentation/"

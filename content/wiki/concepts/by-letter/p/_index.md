@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11501
+wiki_total_pages: 11504
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2237,6 +2237,9 @@ wiki_pages:
   - key: "PrivateRailwayExpansionGovernance"
     title: "Private Railway Expansion Governance"
     url: "/wiki/concepts/privaterailwayexpansiongovernance/"
+  - key: "PrivateRefugeeSponsorship"
+    title: "Private Refugee Sponsorship"
+    url: "/wiki/concepts/privaterefugeesponsorship/"
   - key: "PrivateRegulatoryPower"
     title: "Private Regulatory Power"
     url: "/wiki/concepts/privateregulatorypower/"

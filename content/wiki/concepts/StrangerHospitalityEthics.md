@@ -6,6 +6,7 @@ sources:
   - bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf
   - dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue
   - huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1
+  - i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -22,9 +23,11 @@ The 电影巨辩 episode strengthens the Odyssey branch by naming the rule as [[
 
 The later 电影巨辩 episode sharpens the qualification around 《欢迎来龙餐馆》. Food, hosting, child protection, and ordinary labor remain meaningful humane thresholds, but [[EverydayHumanitarianismInWarFilm]] shows their limit: hospitality can resist enemy logic without being a complete political account of war, occupation, resistance, terrorism, and responsibility.
 
+The [[RevisionistHistory]] refugee episode moves the concept from interpretive criticism into reported community practice. [[PrivateRefugeeSponsorship]] turns welcome into housing, employment, paperwork, meals, language learning, education, and companionship; [[TraumaInformedRefugeeEducation]] extends the same baseline into a school. Hospitality becomes durable when many people supply complementary care, but [[DistributedKindness]] still requires public institutions and cannot replace refugee-policy evaluation.
+
 ## Key Claims
 - Door-crossing scenes make identity unstable: the same person can appear as guest, host, king, foreigner, refugee, worker, or threat.
-- Hospitality ethics works as a low civilizational baseline before richer political agreement exists.
+- Hospitality ethics works as a low civilizational baseline before richer political agreement exists, and it becomes durable when translated into complementary practical tasks and institutional support.
 - Stranger treatment is not only kindness; it determines whether social order can survive fear and uncertainty.
 - Food, lodging, labor, and ordinary care can become moral infrastructure in stories about war or collapse.
 - Hospitality ethics is strongest as a minimum threshold; it becomes politically thin when asked to replace analysis of war and power.
@@ -39,14 +42,16 @@ The later 电影巨辩 episode sharpens the qualification around 《欢迎来龙
 - Hospitality threshold: [[huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1]] treats cooking and child protection as sincere humane baselines while warning against turning them into a full war judgment.
 - Qualified comparison: [[bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf]] warns that [[TheOdyssey|《奥德赛》]] and [[JourneyToTheWest|《西游记》]] have different religious and cultural sources.
 - Weaponized gift and trust collapse: [[dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue]] reads Nolan's Odyssey through Zeus law and the Trojan Horse as a betrayal of gift, guest, host, and stranger meaning.
+- Practical hospitality: [[i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me]] follows a Canadian community turning welcome into housing, work, paperwork, education, meals, and companionship.
 
 ## Counterevidence & Qualifications
-The concept is an interpretive bridge built from culture-review and film-analysis sources. It should not flatten Greek guest-host law, Chinese pilgrimage fiction, and modern war film into the same historical institution. The newer 《欢迎来龙餐馆》 source especially warns that humane ordinary care is not enough to resolve political responsibility in war.
+The concept spans interpretive media sources and one reported refugee-resettlement case. It should not flatten Greek guest-host law, Chinese pilgrimage fiction, modern war film, Holocaust survival, and Canadian sponsorship into the same historical institution. Humane ordinary care is not enough to resolve political responsibility in war, and one favorable sponsorship story does not establish comparative refugee-policy performance.
 
 ## What Changed
 - Added the qualification that food, hosting, and child protection are humane thresholds rather than complete war politics.
 - Added Zeus-law trust as the Odyssey-specific version of the stranger-hospitality problem.
 - Added the Trojan Horse as the negative case where gift and entry become weaponized.
+- Added practical refugee welcome as a distributed task system supported by schools and public institutions.
 
 ## Related Concepts
 - [[HomericHospitalityTest]] - ancient epic branch that grounds hospitality in Odyssey homecoming and stranger tests.
@@ -56,3 +61,5 @@ The concept is an interpretive bridge built from culture-review and film-analysi
 - [[SocialTrustAndHappiness]] - adjacent social-trust frame connecting trust to everyday well-being.
 - [[ClassicReadingComplexity]] - reading discipline needed to avoid collapsing different cultural sources.
 - [[HeroJourneyNarrative]] - journey structure that often puts the traveler across thresholds and into stranger tests.
+- [[PrivateRefugeeSponsorship]] - institutional form that translates stranger welcome into concrete resettlement work.
+- [[DistributedKindness]] - cumulative mechanism by which bounded acts make hospitality durable.

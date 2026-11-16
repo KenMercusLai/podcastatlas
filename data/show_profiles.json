@@ -970,14 +970,14 @@
       "earliest_episode_date": "2016-06-03",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 137,
-      "topic_matched_source_note_count": 52,
+      "source_note_count": 138,
+      "topic_matched_source_note_count": 53,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 23
+          "source_note_count": 24
         },
         {
           "key": "history",

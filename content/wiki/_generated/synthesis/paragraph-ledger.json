@@ -810,12 +810,13 @@
       "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70",
       "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5",
       "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
-      "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a"
+      "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a",
+      "d26832b5069872e77e47b2673ef7c74133a8832a9ca6aef8f2dd087e358b7636"
     ],
-    "paragraph_count": 810
+    "paragraph_count": 811
   },
-  "overview_commit": "6a835e53659373473bc6bb12e53cf513e73bbc53",
-  "overview_digest": "f3bf61df9017a15768e55593782bf3248aa2970f856faecf8499e53bae52522c",
+  "overview_commit": "edcdc6060cea8c8a6b802e58b7413e948642ea05",
+  "overview_digest": "4898a112fce04f4a84614358081db11209d491b1a3984aa166ef2c0b2677c0cc",
   "paragraphs": [
     {
       "id": "db527a52393f1b38fbff139f3a01ba168ed954b3ce175d1e2f9a667ddf61185f",
@@ -23601,6 +23602,28 @@
         "HuangLeBusinesswoman",
         "MegaSpeed",
         "allin-e297-ch-allin-e297-ch"
+      ]
+    },
+    {
+      "id": "d26832b5069872e77e47b2673ef7c74133a8832a9ca6aef8f2dd087e358b7636",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest refugee-and-care addition is [[i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me|“I Was a Stranger and You Welcomed Me”]], a [[RevisionistHistory]] episode connecting a southern Ontario community's sponsorship of Vietnamese refugees, a Canadian school's reception of Syrian children, and [[ChioReichman]]'s survival after escaping Treblinka. It adds [[PrivateRefugeeSponsorship]], [[DistributedKindness]], [[TraumaInformedRefugeeEducation]], and Chio Reichman while extending [[VietnameseRefugeeExodus]], [[StrangerHospitalityEthics]], and [[IndifferenceAsMoralFailure]]. Its core synthesis is that useful care need not begin as heroism: housing, work, paperwork, food, language support, education, emotional reassurance, papers, transport, and shelter can become transformative when different people provide complementary help. No settled contradiction is adopted. The Canadian-American policy comparison is brief and one-sided, while refugee totals, school demographics, helper counts, and comparative system performance remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "ChioReichman",
+        "DistributedKindness",
+        "IndifferenceAsMoralFailure",
+        "PrivateRefugeeSponsorship",
+        "RevisionistHistory",
+        "StrangerHospitalityEthics",
+        "TraumaInformedRefugeeEducation",
+        "VietnameseRefugeeExodus",
+        "i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me"
       ]
     }
   ],

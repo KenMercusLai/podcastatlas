@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“I Was a Stranger and You Welcomed Me”](sources/i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me.md) — Revisionist History connects Canadian refugee sponsorship, trauma-informed schooling, and a Holocaust survivor’s chain of help to distributed, repeatable kindness.
 - [Tim Harford Cools Us Down This Summer](sources/tim-harford-cools-us-down-this-summer-tim-harford-cools-us-down-this-summer.md) — Scott and Amundsen’s South Pole race connects resource overload, method fit, patron constraints, deception, and heroic-failure memory.
 - [We’re Back … With More Experiments!](sources/we-re-back-with-more-experiments-we-re-back-with-more-experiments.md) — Revisionist History trailer previews sacrifice, suffering and service, educational privilege, and unintended consequences while deferring evidence to the later full episodes.
 - [Outliers, Revisited](sources/outliers-revisited-outliers-revisited.md) — Revisionist History connects relative-age bias, cumulative selection advantage, maturity-adjusted swimming, Wharton privilege, and beneficiary resistance to fairness reform.
@@ -5236,6 +5237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Chio Reichman](entities/ChioReichman.md) — Holocaust survivor whose escape from Treblinka and chain of limited assistance ground the episode’s distributed-kindness argument.
 - [Robert Falcon Scott](entities/RobertFalconScott.md) — British Antarctic leader whose broad mission, mixed transport system, and patron constraints turned apparent abundance into operational fragility.
 - [Roald Amundsen](entities/RoaldAmundsen.md) — Norwegian polar explorer whose focused dog-and-ski system combined operational excellence with ethically troubling deception.
 - [Clements Markham](entities/ClementsMarkham.md) — Geographical patron whose influence over Scott illustrates conflict between distant authority and field evidence.
@@ -19845,6 +19847,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Private Refugee Sponsorship](concepts/PrivateRefugeeSponsorship.md) — Community resettlement model built on additional admissions, complementary practical support, and preserved public responsibility.
+- [Distributed Kindness](concepts/DistributedKindness.md) — Accumulation of bounded, complementary acts whose combined effect can produce survival, settlement, or belonging.
+- [Trauma-Informed Refugee Education](concepts/TraumaInformedRefugeeEducation.md) — School framework joining safety, belonging, language access, behavioral interpretation, and learning without reducing children to trauma.
 - [Resource Abundance Coordination Burden](concepts/ResourceAbundanceCoordinationBurden.md) — Execution loss when money, people, technologies, objectives, and stakeholder obligations outgrow integration capacity.
 - [Operational Method Fit](concepts/OperationalMethodFit.md) — Degree to which tools, skills, maintenance, logistics, and learned practices form an environment-suited operating system.
 - [Relative Age Effect](concepts/RelativeAgeEffect.md) — Cutoff-based developmental advantage that can shape selection, investment, gifted placement, and later opportunity.

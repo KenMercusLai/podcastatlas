@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-11-15
-as_of_overview_commit: 0d07fe78564941dd146535a26d697ac96ca6bc36
-summary: "Durable value joins capability to evidence, implementation, accountability, context, and human judgment; institutions and memory determine what persists."
-episode_count: 5076
-source_count: 5076
-paragraph_count: 810
+as_of_overview_commit: edcdc6060cea8c8a6b802e58b7413e948642ea05
+summary: "Reliable knowledge and durable action depend on context, evidence, institutional capacity, human judgment, and clear boundaries between claims, tools, and outcomes."
+episode_count: 5111
+source_count: 5111
+paragraph_count: 811
 topic_count: 9
 ---
 
@@ -82,7 +82,7 @@ Public literacy should keep mechanisms, measurement, uncertainty, urgent escalat
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, relationships, routines, role boundaries, protected access, and human judgment.
+Learning and social capacity depend on effort, feedback, relationships, routines, role boundaries, protected access, and human judgment; distributed kindness complements durable institutions.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
