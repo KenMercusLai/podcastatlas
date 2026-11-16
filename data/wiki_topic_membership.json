@@ -34297,6 +34297,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DyadicLullabyCoregulation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "DylanField": [
     {
       "key": "technology",
@@ -42736,6 +42743,13 @@
     }
   ],
   "GarageDragonTest": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "GardenerParenting": [
     {
       "key": "science",
       "label": "Science",
@@ -57486,6 +57500,13 @@
     }
   ],
   "LaughterAgainstAuthority": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "LauraCirelli": [
     {
       "key": "culture",
       "label": "Culture",

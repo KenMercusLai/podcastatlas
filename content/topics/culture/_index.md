@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3769
+topic_total_pages: 3771
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1234,6 +1234,9 @@ topic_concepts:
   - key: "DreamLogicNarrative"
     title: "Dream Logic Narrative"
     url: "/wiki/concepts/dreamlogicnarrative/"
+  - key: "DyadicLullabyCoregulation"
+    title: "Dyadic Lullaby Coregulation"
+    url: "/wiki/concepts/dyadiclullabycoregulation/"
   - key: "EarlyWomenFilmPioneers"
     title: "Early Women Film Pioneers"
     url: "/wiki/concepts/earlywomenfilmpioneers/"
@@ -5687,6 +5690,9 @@ topic_entities:
   - key: "LateTalk"
     title: "LateTalk"
     url: "/wiki/entities/latetalk/"
+  - key: "LauraCirelli"
+    title: "Laura Cirelli"
+    url: "/wiki/entities/lauracirelli/"
   - key: "LauraMcGrath"
     title: "Laura McGrath"
     url: "/wiki/entities/lauramcgrath/"

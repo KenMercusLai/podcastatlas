@@ -41824,3 +41824,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Bringing Up Baby
+
+Added a [[HiddenBrain]] episode on reciprocal infant communication and exploratory development. Created [[AlisonGopnik]], [[LauraCirelli]], [[RachelAlbert]], [[ContingentInfantVocalFeedback]], [[FunctionSensitiveTantrumResponse]], [[DyadicLullabyCoregulation]], [[GardenerParenting]], and [[ExplorationInstructionTradeoff]], then resynthesized [[HiddenBrain]], [[PreverbalRelationalAttunement]], and [[RitualSynchronyAndProsociality]] from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: babies are active participants in social and learning loops. Synchrony can cue affiliation, babbling and caregiver response can rapidly alter one another, and soothing singing can regulate both caregiver and infant. Direct teaching can efficiently transmit a known solution while narrowing exploration; play, participation, and apprenticeship help build knowledge that transfers when conditions change. Gardener parenting therefore takes responsibility for conditions without claiming to manufacture a predetermined adult.
+
+No settled contradiction was adopted. Planned ignoring remains dependent on behavioral function and cannot override safety or assessment; gardener parenting remains compatible with boundaries and explicit teaching; and experimental percentages, short-term vocal changes, arousal measures, robot comparisons, and developmental outcomes remain episode-scoped because the supplied document is a structured summary rather than the underlying research.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,142 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

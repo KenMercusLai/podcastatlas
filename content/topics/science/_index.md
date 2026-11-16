@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1691
+topic_total_pages: 1692
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1033,6 +1033,9 @@ topic_concepts:
   - key: "GarageDragonTest"
     title: "Garage Dragon Test"
     url: "/wiki/concepts/garagedragontest/"
+  - key: "GardenerParenting"
+    title: "Gardener Parenting"
+    url: "/wiki/concepts/gardenerparenting/"
   - key: "GenderBarrierSpaceflight"
     title: "Gender Barrier Spaceflight"
     url: "/wiki/concepts/genderbarrierspaceflight/"

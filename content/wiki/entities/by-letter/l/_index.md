@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14573
+wiki_total_pages: 14576
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "LauraChase"
     title: "Laura Chase / 劳拉"
     url: "/wiki/entities/laurachase/"
+  - key: "LauraCirelli"
+    title: "Laura Cirelli"
+    url: "/wiki/entities/lauracirelli/"
   - key: "LauraIves"
     title: "Laura Ives"
     url: "/wiki/entities/lauraives/"

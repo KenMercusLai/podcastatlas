@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11567
+wiki_total_pages: 11572
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1520,6 +1520,9 @@ wiki_pages:
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"
+  - key: "ExplorationInstructionTradeoff"
+    title: "Exploration-Instruction Tradeoff"
+    url: "/wiki/concepts/explorationinstructiontradeoff/"
   - key: "ExploratoryTravelSerendipity"
     title: "Exploratory Travel Serendipity"
     url: "/wiki/concepts/exploratorytravelserendipity/"

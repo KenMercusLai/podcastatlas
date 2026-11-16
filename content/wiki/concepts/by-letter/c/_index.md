@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11567
+wiki_total_pages: 11572
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2669,6 +2669,9 @@ wiki_pages:
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"
+  - key: "ContingentInfantVocalFeedback"
+    title: "Contingent Infant Vocal Feedback"
+    url: "/wiki/concepts/contingentinfantvocalfeedback/"
   - key: "ContinualLearning"
     title: "Continual Learning"
     url: "/wiki/concepts/continuallearning/"

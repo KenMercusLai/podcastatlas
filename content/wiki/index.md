@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bringing Up Baby](sources/default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272-default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272.md) — Hidden Brain connects infant synchrony, contingent babbling, tantrum function, lullaby coregulation, gardener parenting, and exploratory learning.
 - [The Revisionist History Holiday Sampler](sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler.md) — Revisionist History pairs Hallie Rubenhold's victim-centered account of Elizabeth Stride and gendered disease control with an operationally promising but clinically unvalidated concert-tour use of COVID-detection dogs.
 - [Choose Carefully](sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896.md) — Hidden Brain and Eric Johnson connect defaults, order, cues, complexity, and friction to constructed preference and the ethical boundary between helpful design and dark patterns.
 - [Just Watch Me!](sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747.md) — Hidden Brain connects conditional underdog motivation with qualified hero-journey reframing, authentic narrative fit, and structural limits on agency.
@@ -5268,6 +5269,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Alison Gopnik](entities/AlisonGopnik.md) — Psychologist connecting gardener parenting, play, exploration, and apprenticeship to flexible development.
+- [Laura Cirelli](entities/LauraCirelli.md) — Researcher studying infant synchrony, affiliation, and helping behavior.
+- [Rachel Albert](entities/RachelAlbert.md) — Researcher studying babbling as reciprocal infant-caregiver language development.
 - [Bad Women: The Ripper Retold](entities/BadWomenTheRipperRetold.md) — Hallie Rubenhold podcast series recovering the lives of Jack the Ripper's victims from misogynistic labels and offender-centered mythology.
 - [Eric Johnson (choice researcher)](entities/EricJohnsonChoiceResearcher.md) — Psychologist connecting defaults, effort, order, cues, and constructed preference to the ethics of decision design.
 - [Samir Nurmohamed](entities/SamirNurmohamed.md) — Behavioral scientist studying when perceived low expectations trigger threat or motivating resistance.
@@ -19937,6 +19941,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Contingent Infant Vocal Feedback](concepts/ContingentInfantVocalFeedback.md) — Reciprocal process in which infant vocalization guides caregiver response and that response shapes the infant's next vocalization.
+- [Function-Sensitive Tantrum Response](concepts/FunctionSensitiveTantrumResponse.md) — Matching adult response to both an outburst's emotional phase and its behavioral consequence.
+- [Dyadic Lullaby Coregulation](concepts/DyadicLullabyCoregulation.md) — Bidirectional adjustment of caregiver and infant arousal during soothing singing.
+- [Gardener Parenting](concepts/GardenerParenting.md) — Environment-centered caregiving that supports development without treating a child as a predetermined product.
+- [Exploration-Instruction Tradeoff](concepts/ExplorationInstructionTradeoff.md) — Tension between efficient transmission of a known solution and broad search that supports discovery and adaptation.
 - [Gendered Disease Control](concepts/GenderedDiseaseControl.md) — Public-health regime in which sex-selective surveillance, invasive inspection, confinement, and stigma can create lasting exclusion.
 - [Canine Disease-Detection Screening](concepts/CanineDiseaseDetectionScreening.md) — Trained-dog disease screening distinguished between rapid operational deployment and the diagnostic evidence needed for clinical validity.
 - [Choice Architecture](concepts/ChoiceArchitecture.md) — Unavoidable design of options, order, defaults, cues, and action costs surrounding a decision.
