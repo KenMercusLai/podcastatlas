@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3738
+topic_total_pages: 3740
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -856,6 +856,9 @@ topic_concepts:
   - key: "CompassionateCharacterInterpretation"
     title: "Compassionate Character Interpretation / 悲悯式角色理解"
     url: "/wiki/concepts/compassionatecharacterinterpretation/"
+  - key: "CompetitiveDebateListeningTradeoff"
+    title: "Competitive Debate–Listening Tradeoff"
+    url: "/wiki/concepts/competitivedebatelisteningtradeoff/"
   - key: "ComplementaryFriendshipRoles"
     title: "Complementary Friendship Roles / 互补型友情角色"
     url: "/wiki/concepts/complementaryfriendshiproles/"
@@ -910,6 +913,9 @@ topic_concepts:
   - key: "ContextualFlavorPerception"
     title: "Contextual Flavor Perception"
     url: "/wiki/concepts/contextualflavorperception/"
+  - key: "ContextualProfanityPrecision"
+    title: "Contextual Profanity Precision"
+    url: "/wiki/concepts/contextualprofanityprecision/"
   - key: "ContinuousDJMixing"
     title: "Continuous DJ Mixing"
     url: "/wiki/concepts/continuousdjmixing/"

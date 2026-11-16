@@ -5212,6 +5212,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Doctors, Guns, and Money](sources/doctors-guns-and-money.md) — Revisionist History preview connecting gunshot survival to paramedic response, trauma-center distance, racial geography, and hospital financing.
 - [Unlocking Hidden Potential with Adam Grant](sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant.md) — Revisionist History live conversation on developmental potential, hidden practice, perfectionist undertraining, prestige, admissions, and values-based choice.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
+- [Feeling A Bit Attacked with Maria Konnikova](sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova.md) — Revisionist History conversation on competitive debate, precise profanity, cheating escalation, ranking incentives, and ambiguous administrative staffing.
 
 ## Entities
 - [Matt Scogin](entities/MattScogin.md) — Hope College president who designed Hope Forward as a tuition-free covenant funded through later voluntary giving.
@@ -5253,7 +5254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tom White](entities/TomWhite.md) — Bureau investigator who exposed Hale's conspiracy amid corruption and evidentiary obstruction.
 - [David Grann](entities/DavidGrann.md) — later researcher who widened the history beyond the Bureau's closed-case narrative.
 - [Osage Murders](entities/OsageMurders.md) — killings and suspicious deaths encompassing Hale's prosecuted plot and a wider unresolved system of predation.
-- [Maria Konnikova](entities/MariaKonnikova.md) — Writer and psychologist serving as Revisionist History ombudsman and testing polarized reception, inequality, and policy analogies.
+- [Maria Konnikova](entities/MariaKonnikova.md) — Writer and psychologist serving as Revisionist History ombudsman and testing debate, language, cheating, polarized reception, inequality, and policy analogies.
 - [Håkon the Good](entities/HakonTheGood.md) — Norwegian Christian ruler whose compromise with traditional sacrifice exposes the limits of early royal conversion.
 - [Justin Harrison](entities/JustinHarrison.md) — You Only Virtual founder whose effort to preserve a bond with his mother tests the promise and costs of AI grief technology.
 - [Melody Harrison](entities/MelodyHarrison.md) — Justin Harrison's mother and the source person for the evolving Versona described by Hidden Brain.
@@ -31348,5 +31349,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Connected Sports Experience](concepts/ConnectedSportsExperience.md) — Networked video, sensors, telemetry, navigation, and audience interfaces that make live competition more legible and personalized.
 - [Pilot Voice](concepts/PilotVoice.md) — Occupational speech style through which pilots project calm competence to passengers who cannot observe cockpit work directly.
 - [Communication Accommodation](concepts/CommunicationAccommodation.md) — Conscious or automatic speech adjustment toward an in-group or away from an out-group.
+- [Competitive Debate–Listening Tradeoff](concepts/CompetitiveDebateListeningTradeoff.md) — Tension between debate's gains in voice and attentive response and a contest format rewarding formula, emotional control, and rapid fluency.
+- [Contextual Profanity Precision](concepts/ContextualProfanityPrecision.md) — Standard judging taboo language by expressive purpose, contextual fit, and deliberate choice rather than categorical approval or prohibition.
+- [Cheating Escalation and Rationalization](concepts/CheatingEscalationRationalization.md) — Process by which weakly checked violations grow while competitive excuses preserve a legitimate self-image.
 
 ## Syntheses

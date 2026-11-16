@@ -41070,3 +41070,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Feeling A Bit Attacked with Maria Konnikova
+
+Added the [[RevisionistHistory]] ombudsman conversation connecting debate, profanity, cheating, ranking systems, athletic equipment, and university administration. Created [[CompetitiveDebateListeningTradeoff]], [[ContextualProfanityPrecision]], and [[CheatingEscalationRationalization]], and extended [[MariaKonnikova]] from gun-policy audience interpretation into her earlier reasoning about rhetoric, language, incentives, and rule-sensitive judgment.
+
+Core synthesis: debate can build voice, confidence, perspective-taking, and attentive listening while a timed competitive format rewards formula, emotional control, and immediate fluency. Profanity is treated as precise when deliberately chosen for expressive work and lazy when it substitutes for thought. Cheating can escalate when small violations go unchecked and competitive pressure supplies self-protective rationalizations, but ambiguity about applicable rules separates moral discomfort from formal misconduct.
+
+No settled contradiction was adopted. Claims about anger and cognition, Russian profanity and censorship, Columbia's reconstructed ranking score, misconduct at other universities, athletic shoe legality, and university staffing remain source-scoped or unresolved because the supplied file is a structured summary rather than a transcript, study, statute, ranking dataset, rulebook, or staffing audit. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[ColumbiaUniversity]], [[AlexanderPushkin]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,090 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

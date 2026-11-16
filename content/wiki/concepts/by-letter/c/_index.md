@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11461
+wiki_total_pages: 11464
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "ChatbotGeneratedContentLiability"
     title: "Chatbot-Generated Content Liability"
     url: "/wiki/concepts/chatbotgeneratedcontentliability/"
+  - key: "CheatingEscalationRationalization"
+    title: "Cheating Escalation and Rationalization"
+    url: "/wiki/concepts/cheatingescalationrationalization/"
   - key: "ChemicalControlAsManufacturingCapability"
     title: "Chemical Control As Manufacturing Capability"
     url: "/wiki/concepts/chemicalcontrolasmanufacturingcapability/"
@@ -2087,6 +2090,9 @@ wiki_pages:
   - key: "CompetitiveBillionaireWealth"
     title: "Competitive Billionaire Wealth"
     url: "/wiki/concepts/competitivebillionairewealth/"
+  - key: "CompetitiveDebateListeningTradeoff"
+    title: "Competitive Debate–Listening Tradeoff"
+    url: "/wiki/concepts/competitivedebatelisteningtradeoff/"
   - key: "CompetitiveSpreadsheeting"
     title: "Competitive Spreadsheeting"
     url: "/wiki/concepts/competitivespreadsheeting/"
@@ -2627,6 +2633,9 @@ wiki_pages:
   - key: "ContextualProductEducation"
     title: "Contextual Product Education"
     url: "/wiki/concepts/contextualproducteducation/"
+  - key: "ContextualProfanityPrecision"
+    title: "Contextual Profanity Precision"
+    url: "/wiki/concepts/contextualprofanityprecision/"
   - key: "ContextualSodiumIntake"
     title: "Contextual Sodium Intake"
     url: "/wiki/concepts/contextualsodiumintake/"

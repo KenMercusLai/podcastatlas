@@ -50439,6 +50439,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/chezhoulatehan/"
     },
+    "CheatingEscalationRationalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Feeling_A_Bit_Attacked_with_Maria_Konnikova [Feeling_A_Bit_Attacked_with_Maria_Konnikova].md",
+          "key": "feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Feeling A Bit Attacked with Maria Konnikova",
+          "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/cheatingescalationrationalization/"
+    },
     "CheckersDog": {
       "episode_count": 1,
       "show_count": 1,
@@ -62663,6 +62679,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/competitionmetricvaluecompression/"
     },
+    "CompetitiveDebateListeningTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Feeling_A_Bit_Attacked_with_Maria_Konnikova [Feeling_A_Bit_Attacked_with_Maria_Konnikova].md",
+          "key": "feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Feeling A Bit Attacked with Maria Konnikova",
+          "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/competitivedebatelisteningtradeoff/"
+    },
     "CompetitiveWineBlindTasting": {
       "episode_count": 1,
       "show_count": 1,
@@ -65678,6 +65710,22 @@
       ],
       "updated": "2026-10-22",
       "url": "/wiki/concepts/contextualproducteducation/"
+    },
+    "ContextualProfanityPrecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Feeling_A_Bit_Attacked_with_Maria_Konnikova [Feeling_A_Bit_Attacked_with_Maria_Konnikova].md",
+          "key": "feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Feeling A Bit Attacked with Maria Konnikova",
+          "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/contextualprofanityprecision/"
     },
     "ContextualSodiumIntake": {
       "episode_count": 2,
@@ -204322,9 +204370,9 @@
       "url": "/wiki/entities/mariahalpin/"
     },
     "MariaKonnikova": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -204332,6 +204380,13 @@
           "show": "Revisionist History",
           "title": "The Bear Was Poked With Maria Konnikova",
           "url": "/wiki/sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "Feeling_A_Bit_Attacked_with_Maria_Konnikova [Feeling_A_Bit_Attacked_with_Maria_Konnikova].md",
+          "key": "feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova",
+          "show": "Revisionist History",
+          "title": "Feeling A Bit Attacked with Maria Konnikova",
+          "url": "/wiki/sources/feeling-a-bit-attacked-with-maria-konnikova-feeling-a-bit-attacked-with-maria-konnikova/"
         }
       ],
       "updated": "2026-11-16",

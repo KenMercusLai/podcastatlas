@@ -27340,6 +27340,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CompetitiveDebateListeningTradeoff": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ComplementaryFriendshipRoles": [
     {
       "key": "culture",
@@ -28239,6 +28246,13 @@
     }
   ],
   "ContextualFlavorPerception": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ContextualProfanityPrecision": [
     {
       "key": "culture",
       "label": "Culture",
