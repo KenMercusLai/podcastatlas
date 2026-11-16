@@ -41492,3 +41492,21 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Mushrooms for the Mind & Immune System | Paul Stamets
+
+Added a [[HubermanLab]] conversation with [[PaulStamets]] spanning fungal ecology, medicinal-mushroom research, psilocybin, electrical signaling, the human mycobiome, and environmental remediation.
+
+Created Paul Stamets, [[MedicinalMushroomImmuneModulation]], [[ComplexNaturalProductSynergy]], [[FungalNetworkIntelligenceBoundary]], and [[MycoremediationConstraints]]. Broad [[AndrewHuberman]], [[HubermanLab]], [[PsilocybinMushrooms]], [[PsychedelicIntegration]], [[PsychedelicMicrodosingEvidence]], [[Neuroplasticity]], and immune-system profiles remained closed because the new source reinforces their present evidence and safety boundaries without changing the current judgment.
+
+Core synthesis: fungi justify serious ecological, biochemical, clinical, and engineering research, but each claim must stay attached to its evidence level. Whole-extract effects do not by themselves prove synergy; early clinical signals do not establish a treatment; patterned electrical activity does not establish language or consciousness; and controlled remediation demonstrations do not guarantee field-scale cleanup.
+
+No settled contradiction was adopted. The episode aligns with immune modulation rather than indiscriminate boosting and with structured psychedelic screening and integration. Its favorable observational microdosing findings do not overturn the wiki's weak causal judgment because expectancy, self-selection, placebo, and community influence remain unresolved. Trial outcomes, antiviral screens, gene-expression findings, microdosing performance, fungal signaling, mycobiome implications, and remediation results remain source-scoped because the supplied file is a structured episode summary rather than a transcript or primary study record. Stamets's supplement-company ownership adds an independent-replication requirement.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,119 sources across 811 overview paragraphs and nine topics. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

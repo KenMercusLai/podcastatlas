@@ -63310,6 +63310,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/complexdestinationtravelrisk/"
     },
+    "ComplexNaturalProductSynergy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1074623919 [SCIM1074623919].md",
+          "key": "scim1074623919-scim1074623919",
+          "show": "Huberman Lab",
+          "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+          "url": "/wiki/sources/scim1074623919-scim1074623919/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/complexnaturalproductsynergy/"
+    },
     "ComplexTraumaRecognition": {
       "episode_count": 10,
       "show_count": 2,
@@ -120428,6 +120444,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/funeraryprivilegeabuse/"
+    },
+    "FungalNetworkIntelligenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1074623919 [SCIM1074623919].md",
+          "key": "scim1074623919-scim1074623919",
+          "show": "Huberman Lab",
+          "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+          "url": "/wiki/sources/scim1074623919-scim1074623919/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/fungalnetworkintelligenceboundary/"
     },
     "FurnitureAffordabilityPriceReset": {
       "episode_count": 1,
@@ -210102,6 +210134,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/medicibank/"
     },
+    "MedicinalMushroomImmuneModulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1074623919 [SCIM1074623919].md",
+          "key": "scim1074623919-scim1074623919",
+          "show": "Huberman Lab",
+          "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+          "url": "/wiki/sources/scim1074623919-scim1074623919/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/medicinalmushroomimmunemodulation/"
+    },
     "MedicinePoisonBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -222403,6 +222451,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/mycenae/"
+    },
+    "MycoremediationConstraints": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1074623919 [SCIM1074623919].md",
+          "key": "scim1074623919-scim1074623919",
+          "show": "Huberman Lab",
+          "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+          "url": "/wiki/sources/scim1074623919-scim1074623919/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/mycoremediationconstraints/"
     },
     "MyopiaSurgeryRiskBoundary": {
       "episode_count": 4,
@@ -241016,6 +241080,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/paulrouse/"
+    },
+    "PaulStamets": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1074623919 [SCIM1074623919].md",
+          "key": "scim1074623919-scim1074623919",
+          "show": "Huberman Lab",
+          "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+          "url": "/wiki/sources/scim1074623919-scim1074623919/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/paulstamets/"
     },
     "PaulVonHindenburg": {
       "episode_count": 6,

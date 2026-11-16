@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11517
+wiki_total_pages: 11521
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2117,6 +2117,9 @@ wiki_pages:
   - key: "ComplexDestinationTravelRisk"
     title: "Complex Destination Travel Risk"
     url: "/wiki/concepts/complexdestinationtravelrisk/"
+  - key: "ComplexNaturalProductSynergy"
+    title: "Complex Natural Product Synergy"
+    url: "/wiki/concepts/complexnaturalproductsynergy/"
   - key: "ComplexTraumaRecognition"
     title: "Complex Trauma Recognition"
     url: "/wiki/concepts/complextraumarecognition/"
