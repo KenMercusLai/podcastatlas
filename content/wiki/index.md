@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Minimizing Pain, Maximizing Joy](sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609.md) — Hidden Brain and William Irvine connect Stoic control allocation, early setback reframing, manageable discomfort, imagined loss, and finitude to resilience and renewed appreciation.
 - [Mind Reading 2.0: How Others See You](sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125.md) — Hidden Brain and Erica Boothby connect the liking gap to private self-criticism, attention asymmetries, indirect signaling, curiosity, and expressed appreciation.
 - [The Benefits of Mixed Emotions](sources/default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474-default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474.md) — Hidden Brain and Naomi Rothman connect emotional ambivalence to social penalties, advice-taking, creativity, cooperative problem-solving, and the promotion-performance paradox in leadership.
 - [How to Change the World](sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134.md) — Hidden Brain and Erica Chenoweth connect comparative campaign success to participation, institutional defection, tactical innovation, discipline, and qualified threshold claims.
@@ -5259,6 +5260,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Putting Our Assumptions to the Test](sources/putting-our-assumptions-to-the-test.md) — Hidden Brain episode on Abhijit Banerjee, randomized field experiments, mechanism learning, and expert uncertainty.
 
 ## Entities
+- [William Irvine](entities/WilliamIrvine.md) — Philosopher presenting Stoicism as practical training in control allocation, early reframing, manageable discomfort, and renewed appreciation.
 - [Naomi Rothman](entities/NaomiRothman.md) — Psychologist studying how mixed emotions shape judgment, creativity, negotiation, status perception, and leadership.
 - [Erica Chenoweth](entities/EricaChenoweth.md) — Political scientist whose comparative campaign research anchors the episode's strategic case for civil resistance.
 - [Maria Stephan](entities/MariaStephan.md) — Scholar who challenged anecdotal comparison and collaborated on the violent-versus-nonviolent campaign study.
@@ -19915,6 +19917,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Stoic Control Allocation](concepts/StoicControlAllocation.md) — Three-part allocation of effort across chosen action, external fact, and mixed outcomes, with internal-goal and structural boundaries.
+- [Stoic Setback Reframing](concepts/StoicSetbackReframing.md) — Bounded early-response practices for limiting secondary anger and rumination without denying harm or needed care.
 - [Emotional Ambivalence](concepts/EmotionalAmbivalence.md) — Simultaneous positive and negative feeling that can impose decision and status costs while supporting inquiry, advice-taking, and cognitive flexibility.
 - [Ambivalent Leadership](concepts/AmbivalentLeadership.md) — Promotion-performance paradox in which mixed emotion lowers perceived authority while sometimes improving information flow, ethics judgments, and team performance.
 - [Paradox Mindset](concepts/ParadoxMindset.md) — Provisional both-and inquiry stance for preserving competing information without treating every contradiction as solvable or delaying necessary choice.

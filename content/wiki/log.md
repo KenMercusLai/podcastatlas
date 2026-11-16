@@ -41700,3 +41700,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Minimizing Pain, Maximizing Joy
+
+Added a [[HiddenBrain]] episode with philosopher [[WilliamIrvine]] on practical Stoicism. Created Irvine's focused profile, [[StoicControlAllocation]], and [[StoicSetbackReframing]], then resynthesized [[HedonicAdaptationAndContrast]] from its complete preserved source inventory before appending the new source once.
+
+Core synthesis: separating chosen actions from external and mixed outcomes can preserve useful effort, while rapid challenge reframing, humor, and attention to the next workable step may limit the secondary damage of anger and rumination. Brief imagined loss, last-time reflection, and comparison can interrupt hedonic familiarity and renew appreciation, but none of these practices makes emotion fully voluntary or substitutes for safety, accountability, care, accommodation, material support, structural change, or collective action.
+
+No settled contradiction was adopted. The target-versus-victim distinction can support agency but can also become gaslighting or blame when detached from real constraint. Biographical anecdotes, ancient-philosophy claims, the five-second window, emotional-inoculation analogy, happiness model, and practice effects remain episode-scoped because the supplied file is a structured summary rather than a transcript, trial, clinical guideline, historical study, or systematic review. The broad [[HiddenBrain]] and illustrative-biography profiles remained closed because focused pages capture the durable additions without reopening unrelated evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,133 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

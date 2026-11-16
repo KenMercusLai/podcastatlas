@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11553
+wiki_total_pages: 11555
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2285,6 +2285,12 @@ wiki_pages:
   - key: "StockTipGroupRisk"
     title: "Stock Tip Group Risk"
     url: "/wiki/concepts/stocktipgrouprisk/"
+  - key: "StoicControlAllocation"
+    title: "Stoic Control Allocation"
+    url: "/wiki/concepts/stoiccontrolallocation/"
+  - key: "StoicSetbackReframing"
+    title: "Stoic Setback Reframing"
+    url: "/wiki/concepts/stoicsetbackreframing/"
   - key: "StonehengeRitualLandscape"
     title: "Stonehenge Ritual Landscape"
     url: "/wiki/concepts/stonehengerituallandscape/"

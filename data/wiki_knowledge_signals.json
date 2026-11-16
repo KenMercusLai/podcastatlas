@@ -140801,9 +140801,9 @@
       "url": "/wiki/entities/hedongpeiclan/"
     },
     "HedonicAdaptationAndContrast": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5061134579 [SCIM5061134579].md",
@@ -140818,9 +140818,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
           "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609 [default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609].md",
+          "key": "default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609",
+          "show": "Hidden Brain",
+          "title": "Minimizing Pain, Maximizing Joy",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/hedonicadaptationandcontrast/"
     },
     "HefeiBattle215": {
@@ -299727,6 +299734,38 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/stocktondarlingtonrailway/"
     },
+    "StoicControlAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609 [default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609].md",
+          "key": "default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609",
+          "show": "Hidden Brain",
+          "title": "Minimizing Pain, Maximizing Joy",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/stoiccontrolallocation/"
+    },
+    "StoicSetbackReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609 [default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609].md",
+          "key": "default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609",
+          "show": "Hidden Brain",
+          "title": "Minimizing Pain, Maximizing Joy",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/stoicsetbackreframing/"
+    },
     "StoneOfScone": {
       "episode_count": 1,
       "show_count": 1,
@@ -336868,6 +336907,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/williamiii/"
+    },
+    "WilliamIrvine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609 [default.mp3_ywr3ahjkcgo_91192c979073e33ce00ed870a5bcb17b_52205609].md",
+          "key": "default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609",
+          "show": "Hidden Brain",
+          "title": "Minimizing Pain, Maximizing Joy",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/williamirvine/"
     },
     "WilliamJosephSimmons": {
       "episode_count": 1,
