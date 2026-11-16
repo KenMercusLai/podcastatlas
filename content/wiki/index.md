@@ -5298,6 +5298,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
 - [You, But Better](sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835.md) — Hidden Brain and Katy Milkman connect obstacle diagnosis, temptation bundling, fresh starts, feedback, deadlines, defaults, and commitment devices to practical behavior change.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
+- [You 2.0: Our Pursuit of Happiness](sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002.md) — Hidden Brain and Emily Balcetis connect narrow targets, materialized intentions, visual choice design, obstacle rehearsal, and wide-bracket review to goal pursuit.
 
 ## Entities
 - [Albert O. Hirschman](entities/AlbertOHirschman.md) — economist invoked as a source for action under irreducible uncertainty.
@@ -31767,5 +31768,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Temptation Bundling](concepts/TemptationBundling.md) — Reserving an immediate enjoyment for simultaneous use with a worthwhile but otherwise avoidable task.
 - [Fresh Start Effect](concepts/FreshStartEffect.md) — Temporal-landmark reset that can renew motivation after failure or disrupt an already-successful trajectory.
 - [Behavior Change Obstacle Matching](concepts/BehaviorChangeObstacleMatching.md) — Diagnostic practice of selecting a behavior-change tool for the specific barrier blocking action.
+- [Goal Materialization](concepts/GoalMaterialization.md) — Conversion of a distant or hidden intention into a visible representation tied to present action or review.
+- [Wide-Bracket Goal Review](concepts/WideBracketGoalReview.md) — Broad review across life domains or time periods that reveals priorities, trade-offs, and cumulative progress.
 
 ## Syntheses

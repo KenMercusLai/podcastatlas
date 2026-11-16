@@ -41395,6 +41395,10 @@
     "title": "Goal Management Training",
     "url": "/wiki/concepts/goalmanagementtraining/"
   },
+  "GoalMaterialization": {
+    "title": "Goal Materialization",
+    "url": "/wiki/concepts/goalmaterialization/"
+  },
   "GoalPursuitBehaviorDesign": {
     "title": "Goal Pursuit Behavior Design",
     "url": "/wiki/concepts/goalpursuitbehaviordesign/"
@@ -102351,6 +102355,10 @@
     "title": "Wi-Fi Master Key / Wi-Fi 万能钥匙",
     "url": "/wiki/entities/wifimasterkey/"
   },
+  "WideBracketGoalReview": {
+    "title": "Wide-Bracket Goal Review",
+    "url": "/wiki/concepts/widebracketgoalreview/"
+  },
   "WidgeryInquiry": {
     "title": "Widgery Inquiry",
     "url": "/wiki/entities/widgeryinquiry/"
@@ -111598,6 +111606,10 @@
   "default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757": {
     "title": "The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757/"
+  },
+  "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002": {
+    "title": "You 2.0: Our Pursuit of Happiness",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
   },
   "default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447": {
     "title": "How Rude!",

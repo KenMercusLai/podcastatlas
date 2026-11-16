@@ -56047,9 +56047,9 @@
       "url": "/wiki/concepts/chocolatedrinktosolidtransition/"
     },
     "ChoiceArchitecture": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896 [default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896].md",
@@ -56064,6 +56064,13 @@
           "show": "Hidden Brain",
           "title": "You, But Better",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
         }
       ],
       "updated": "2026-11-17",
@@ -95748,9 +95755,9 @@
       "url": "/wiki/entities/emilemichael/"
     },
     "EmilyBalcetis": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -95786,9 +95793,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Set & Achieve Goals",
           "url": "/wiki/sources/essentials-how-to-set-achieve-goals-scim4913225889/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/emilybalcetis/"
     },
     "EmilyPrazer": {
@@ -122170,9 +122184,9 @@
       "url": "/wiki/concepts/futureregretfinancialplanning/"
     },
     "FutureSelfContinuity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9541341305 [SCIM9541341305].md",
@@ -122180,9 +122194,16 @@
           "show": "Huberman Lab",
           "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
           "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/futureselfcontinuity/"
     },
     "FutureVisionsAsPresentAnxiety": {
@@ -129393,6 +129414,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/goalmanagementtraining/"
+    },
+    "GoalMaterialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/goalmaterialization/"
     },
     "GoalPursuitBehaviorDesign": {
       "episode_count": 8,
@@ -214477,9 +214514,9 @@
       "url": "/wiki/concepts/mentalbandwidth/"
     },
     "MentalContrastingImplementationIntentions": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -214508,9 +214545,16 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
           "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/mentalcontrastingimplementationintentions/"
     },
     "MentalHealthBiologicalFoundations": {
@@ -259050,9 +259094,9 @@
       "url": "/wiki/concepts/progresspressurerestpermission/"
     },
     "ProgressTrackingSelfAssessment": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128 [E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a83829c].md",
@@ -259088,9 +259132,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Set & Achieve Goals",
           "url": "/wiki/sources/essentials-how-to-set-achieve-goals-scim4913225889/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/progresstrackingselfassessment/"
     },
     "ProgressVisibilityDesign": {
@@ -330515,9 +330566,9 @@
       "url": "/wiki/concepts/visualfatiguecausebasedmanagement/"
     },
     "VisualFocusEffortTool": {
-      "episode_count": 11,
-      "show_count": 1,
-      "source_note_count": 11,
+      "episode_count": 12,
+      "show_count": 2,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -330595,9 +330646,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Set & Achieve Goals",
           "url": "/wiki/sources/essentials-how-to-set-achieve-goals-scim4913225889/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {
@@ -339324,6 +339382,22 @@
       ],
       "updated": "2026-11-09",
       "url": "/wiki/entities/whoswho/"
+    },
+    "WideBracketGoalReview": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002 [default.mp3_ywr3ahjkcgo_8462fe97eef50d4a98b4f9b755916f20_43682002].md",
+          "key": "default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Our Pursuit of Happiness",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/widebracketgoalreview/"
     },
     "WidgeryInquiry": {
       "episode_count": 1,

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | You 2.0: Our Pursuit of Happiness
+
+Added a [[HiddenBrain]] episode with [[EmilyBalcetis]] on how visual attention and representation can shape perceived effort, motivation, and goal pursuit. Created focused synthesis-first pages for [[GoalMaterialization]] and [[WideBracketGoalReview]], then resynthesized Balcetis, [[VisualFocusEffortTool]], [[ChoiceArchitecture]], [[FutureSelfContinuity]], [[MentalContrastingImplementationIntentions]], and [[ProgressTrackingSelfAssessment]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: narrow focus can support execution toward a defined nearby endpoint, while materialized intentions, visual choice design, obstacle rehearsal, and wider review serve different problems. A wide bracket is most useful for selecting direction, exposing cross-domain trade-offs, and keeping accumulated progress visible; it does not replace the concrete next target once direction is chosen.
+
+No settled contradiction was adopted. The episode's roughly 23%-faster walking account agrees with the earlier solo retelling but not the later interview's 27% figure, so the exact effect remains unresolved. Stated retirement-saving intentions are not verified contributions, repeated Michael Phelps anecdotes are not independent intervention evidence, and the walking, cafeteria, ambiguous-figure, retirement, and pop-up-shop results remain episode-scoped because the supplied document is a structured summary without full methods, citations, uncertainty, or replication evidence. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,174 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Hamlet Was Wrong
 
 Added the [[RevisionistHistory]] episode connecting [[MalcolmGladwell]]'s informal hiring stories to the [[PeterPrinciple]], [[AlanBenson]]'s sales-organization research, and [[AlbertOHirschman]]'s view of doubt as permission to act. Created focused synthesis-first pages for Benson, Hirschman, and [[HiringNihilism]], and resynthesized [[LawrenceJPeter]] and the Peter Principle from their complete preserved evidence inventories before appending the new source once.
@@ -42238,6 +42248,10 @@ Core synthesis: the hoax succeeded by making research, documents, performance, l
 No settled contradiction was adopted. Literary ingenuity and emotional insight do not legitimate forged attribution, financial fraud, or publication without consent; mental-health, injury, motive, expert-reaction, and manuscript-value claims remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,172 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

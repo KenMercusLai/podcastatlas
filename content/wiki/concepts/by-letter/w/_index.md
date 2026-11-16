@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11627
+wiki_total_pages: 11629
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "WICFormulaContracting"
     title: "WIC Formula Contracting"
     url: "/wiki/concepts/wicformulacontracting/"
+  - key: "WideBracketGoalReview"
+    title: "Wide-Bracket Goal Review"
+    url: "/wiki/concepts/widebracketgoalreview/"
   - key: "WildMushroomFoodSafety"
     title: "Wild Mushroom Food Safety"
     url: "/wiki/concepts/wildmushroomfoodsafety/"

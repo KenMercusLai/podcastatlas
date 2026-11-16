@@ -4,8 +4,9 @@ type: concept
 tags: [future-self, behavior-change, decision-making, psychology]
 sources:
   - create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305
+  - default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-11-17
 ---
 
 # Future-Self Continuity
@@ -18,6 +19,8 @@ In [[create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541
 
 The episode links this bridge to saving, health behavior, and life direction, but its strongest claim is practical rather than clinical: writing and visualization can change the present deliberation even if the later artifact is never revisited. The tools remain prompts, not guarantees of durable behavior change.
 
+The earlier [[default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002|Hidden Brain episode]] supplies a classroom application: students viewed aged images, imagined their retired relationships and activities, and mostly said they intended to save from an upcoming paycheck. This reinforces the temporal-proximity mechanism but narrows the evidentiary claim because stated intention is not observed saving.
+
 ## Key Claims
 - Temporal distance can weaken identification with a later self.
 - Visual aging cues can make delayed consequences more emotionally salient.
@@ -29,12 +32,13 @@ The episode links this bridge to saving, health behavior, and life direction, bu
 - Aged-image intervention - [[create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305]] recounts research in which viewing an aged self increased hypothetical retirement allocation.
 - Daily cue - [[create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305]] describes Wallach keeping an aged image on his mirror to guide health choices.
 - Letter practice - [[create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305]] says the writing process itself creates a private conversation with a later self.
+- Retirement-intention exercise - [[default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002]] describes aged images and imagined retired lives followed by stated plans to begin saving.
 
 ## Counterevidence & Qualifications
-The source summary does not provide study size, replication status, effect magnitude, or evidence that a hypothetical allocation becomes sustained real-world saving. Future-self imagery can clarify values, but it cannot remove uncertainty, structural constraints, or conflict among present needs and future goals.
+The source summaries do not provide complete methods, replication status, durable effect evidence, or proof that a hypothetical allocation or stated intention becomes sustained real-world saving. Future-self imagery can clarify values, but it cannot remove uncertainty, structural constraints, or conflict among present needs and future goals.
 
 ## What Changed
-- Created the concept around the episode's future-self research and practices.
+- Added an earlier classroom exercise while distinguishing intended saving from verified behavior.
 
 ## Related Concepts
 - [[LongPathFramework]] - places future-self continuity inside a wider intergenerational framework.
@@ -42,3 +46,4 @@ The source summary does not provide study size, replication status, effect magni
 - [[PsychologicalDistanceSelfControl]] - explains how temporal distance changes the salience of higher-order goals.
 - [[CommitmentBiasPublicPromise]] - adjacent method for keeping a present value available during later choice.
 - [[AttentionCapacitySelection]] - relevant because current attention determines whether future consequences enter deliberation.
+- [[GoalMaterialization]] - broader externalization mechanism that makes a distant intention visually present.

@@ -14,8 +14,9 @@ sources:
   - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
   - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
   - essentials-how-to-set-achieve-goals-scim4913225889
+  - default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-11-17
 ---
 
 # Visual Focus Effort Tool
@@ -40,6 +41,8 @@ The 2021 endurance episode provides an earlier field application rather than a c
 
 The still earlier [[scim3840916606-scim3840916606]] episode presents visual focus as an entry route to cognitive focus. It proposes 60-120 seconds on a small target at the intended working distance and links convergence and narrow aperture to attention-related state change. Its additional reduced-blinking suggestion conflicts with the later toolkit's explicit permission to blink normally, so the durable synthesis is relaxed target selection rather than forced staring or blink suppression.
 
+The earlier [[default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002|Hidden Brain episode]] adds the clearest task-selection boundary. Narrow focus is useful when a target is defined and nearby enough for an extra push; [[WideBracketGoalReview|a wider bracket]] is useful when selecting direction, comparing life domains, or recognizing progress over time. The two modes are complementary only when matched to the decision stage.
+
 ## Key Claims
 - Visual and cognitive focus are coupled closely enough that gaze can be treated as part of task setup.
 - Narrow gaze is proposed as an activation tool at the start of a work bout or during a demanding phase of physical effort.
@@ -63,12 +66,14 @@ The still earlier [[scim3840916606-scim3840916606]] episode presents visual focu
 - Early endurance application - [[scim8024795061-scim8024795061]] proposes switching between a concrete landmark and wider vision as effort and mental fatigue change.
 - Earliest focus exercise - [[scim3840916606-scim3840916606]] proposes 60-120 seconds of target fixation at the task's working distance while treating visual narrowing as one route into cognitive focus.
 - Condensed desk-work provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats periodic panoramic distance viewing and clarifies that checking a phone does not supply that visual recovery.
+- Task-stage boundary - [[default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002]] contrasts narrow focus for a defined nearby endpoint with wider review for priorities, trade-offs, and cumulative progress.
 
 ## Counterevidence & Qualifications
-The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context. The early solo account and its condensed edit report 23% faster movement, while the full interview and its condensed edit report 27%; all agree on a 17% perceived-effort, discomfort, or pain difference. None of the Essentials edits is independent validation, and the early endurance application is anecdotal. Their 30-60-second, 30-90-second, 60-120-second, up-to-three-minute, and 45-to-5 ranges do not establish optimal durations. The earliest episode's reduced-blinking suggestion is not required by the later protocols, which allow normal blinking; continuous narrowing or forced staring may itself become tiring. A physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. Screen width and elevation must remain compatible with visual comfort, accessibility, pain, and task demands. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
+The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context. The early solo account, its condensed edit, and the Hidden Brain retelling report about 23% faster movement, while the full interview and its condensed edit report 27%; all agree on a 17% perceived-effort, discomfort, or pain difference. These retellings are not replications, neither Essentials edit is independent validation, and the early endurance application is anecdotal. Their 30-60-second, 30-90-second, 60-120-second, up-to-three-minute, and 45-to-5 ranges do not establish optimal durations. The earliest episode's reduced-blinking suggestion is not required by the later protocols, which allow normal blinking; continuous narrowing or forced staring may itself become tiring or conceal relevant trade-offs. A physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. Screen width and elevation must remain compatible with visual comfort, accessibility, pain, and task demands. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
 
 ## What Changed
-- No current judgment changed; the new Essentials edit repeats the earlier solo protocol and 23% figure without resolving the 23%-versus-27% discrepancy.
+- Added the task-stage boundary: narrow focus supports execution toward a defined target, while wide review supports direction and trade-off decisions.
+- Added another 23% retelling without treating repeated reporting as independent confirmation.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - broader toolkit that places gaze control inside a scheduled work session.
@@ -78,3 +83,4 @@ The source notes provide reported effect sizes for one walking task but not the 
 - [[VisualSystemHealthToolkit]] - broader visual-use framework that bounds narrow focus with varied distance and panoramic viewing.
 - [[FocusTrainingToolkit]] - broader behavior-first context for using fixation as an optional state cue.
 - [[TaskSpecificWorkspaceDesign]] - workspace-level use of visual aperture and target position.
+- [[WideBracketGoalReview]] - complementary broad mode for priority selection, trade-offs, and longer-horizon progress.

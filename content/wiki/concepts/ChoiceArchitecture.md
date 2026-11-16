@@ -5,6 +5,7 @@ tags: [decision-making, behavioral-design, defaults, friction, ethics]
 sources:
   - default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896
   - default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835
+  - default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The mechanisms are plural. A default may prevail because it requires less work, 
 Ethical judgment cannot rest on whether the design influences behavior, because all designs do. More useful tests ask whether the architecture makes material consequences legible, reduces irrelevant burden, preserves meaningful alternatives and correction, and serves the chooser's interests. [[DarkPatterns]] fail these tests by using asymmetrical friction, concealment, or automatic continuation to turn inattention into advantage for the designer.
 
 Choice architecture can also be self-authored. [[default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835|You, But Better]] reports increased participation under automatic retirement enrollment and describes stocking healthier food, changing a browser's opening page, or automating transfers into savings. The ethical distinction remains whether the design advances the chooser's considered interests with usable exit, not whether it was installed by a person, employer, platform, or state.
+
+A specifically visual branch appears in [[default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002|You 2.0: Our Pursuit of Happiness]]. Traffic-light labels and eye-level placement can change which cafeteria items are salient, while keeping desired books visible or preferred snack pouches out of sight changes attention and access at home. These examples extend architecture from defaults and formal option sets to visual prominence without establishing that visibility alone explains the reported behavior.
 
 ## Key Claims
 
@@ -57,14 +60,19 @@ Choice architecture can also be self-authored. [[default-mp3-ywr3ahjkcgo-2fc4436
 
 - [[default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835]] reports automatic retirement enrollment and describes healthier food placement, browser defaults, and automated saving as ways to design one's own path of least resistance.
 
+### Visual salience and access
+
+- [[default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002]] reports cafeteria labeling and placement changes and uses household visibility as a self-authored example.
+
 ## Counterevidence & Qualifications
 
-The sources are structured episode summaries rather than the underlying research record. They do not provide study methods, sample characteristics, uncertainty intervals, replication evidence, or competing interpretations for the reported behavioral and financial effects. A changed choice under a default does not show that the choice is uninformed, unwanted, or harmful, and disclosure of random assignment did not eliminate all end-of-life default effects in the reported example. Conversely, a large option set is not inherently freer if comparison is unusable, but narrowing choice can still become paternalistic or exclusionary. Stable values and constraints can coexist with preference construction. Self-authored defaults can become stale or overrestrictive, while employer or state defaults can serve institutional interests rather than the chooser's. Emergency simplification, generic prescribing, voter registration, medical care, commerce, dating, and retirement require context-specific safeguards rather than one universal default.
+The sources are structured episode summaries rather than the underlying research record. They do not provide study methods, sample characteristics, uncertainty intervals, replication evidence, or competing interpretations for the reported behavioral and financial effects. A changed choice under a default or visual frame does not show that the choice is informed, wanted, durable, or caused by one design element, and disclosure of random assignment did not eliminate all end-of-life default effects in the reported example. Conversely, a large option set is not inherently freer if comparison is unusable, but narrowing choice or hiding an option can still become paternalistic or exclusionary. Stable values and constraints can coexist with preference construction. Self-authored defaults can become stale or overrestrictive, while employer or state designs can serve institutional interests rather than the chooser's. Emergency simplification, generic prescribing, voter registration, medical care, commerce, dating, food, and retirement require context-specific safeguards rather than one universal design.
 
 ## What Changed
 
 - Established an umbrella account joining defaults, order, cues, complexity, effort, constructed preference, and ethical design.
 - Added self-authored defaults and future-self protection while preserving usable exit as an ethical boundary.
+- Added visual labels, placement, prominence, and concealment as architecture while retaining causal and autonomy qualifications.
 
 ## Related Concepts
 
@@ -76,3 +84,4 @@ The sources are structured episode summaries rather than the underlying research
 - [[PresentBias]] - explains why current architecture may be designed to protect delayed interests.
 - [[UlyssesContract]] - stronger precommitment branch that can restrict later options.
 - [[BehaviorChangeObstacleMatching]] - diagnostic rule for using defaults only when friction is the operative barrier.
+- [[GoalMaterialization]] - externalizes a chosen intention or consequence so it enters present attention.
