@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11546
+wiki_total_pages: 11548
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "ExpertTrustRepair"
     title: "Expert Trust Repair"
     url: "/wiki/concepts/experttrustrepair/"
+  - key: "ExpertUncertaintyCommunication"
+    title: "Expert Uncertainty Communication"
+    url: "/wiki/concepts/expertuncertaintycommunication/"
   - key: "ExpertiseAmplifiedAIUse"
     title: "Expertise-Amplified AI Use"
     url: "/wiki/concepts/expertiseamplifiedaiuse/"

@@ -5254,6 +5254,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Department of Physiological Hygiene](sources/the-department-of-physiological-hygiene.md) — Revisionist History reconstruction of the Minnesota starvation protocol, its acute psychological harms, difficult rehabilitation, scientific legacy, and modern ethical boundary.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
+- [Putting Our Assumptions to the Test](sources/putting-our-assumptions-to-the-test.md) — Hidden Brain episode on Abhijit Banerjee, randomized field experiments, mechanism learning, and expert uncertainty.
+
 ## Entities
 - [Naomi Rothman](entities/NaomiRothman.md) — Psychologist studying how mixed emotions shape judgment, creativity, negotiation, status perception, and leadership.
 - [Erica Chenoweth](entities/EricaChenoweth.md) — Political scientist whose comparative campaign research anchors the episode's strategic case for civil resistance.
@@ -31561,5 +31563,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Argument Flowing](concepts/ArgumentFlowing.md) — Structured tracking of claims, evidence, and responses that turns listening into a trainable debate practice.
 
 - [Research Participant Agency](concepts/ResearchParticipantAgency.md) — Ethical framework giving participant purpose, collaboration, and testimony weight without treating consent as a waiver of institutional duties.
+
+- [Intervention Mechanism Learning](concepts/InterventionMechanismLearning.md) — Use of intervention results to revise causal explanations while preserving rival-mechanism limits.
+- [Expert Uncertainty Communication](concepts/ExpertUncertaintyCommunication.md) — Practice of binding expert claims to ranges, scope, alternatives, and revision conditions.
 
 ## Syntheses

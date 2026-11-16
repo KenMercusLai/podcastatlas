@@ -7508,6 +7508,29 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/abdullahpratt/"
     },
+    "AbhijitBanerjee": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406 [default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406].md",
+          "key": "piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school",
+          "show": "Planet Money",
+          "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+          "url": "/wiki/sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231 [default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231].md",
+          "key": "putting-our-assumptions-to-the-test",
+          "show": "Hidden Brain",
+          "title": "Putting Our Assumptions to the Test",
+          "url": "/wiki/sources/putting-our-assumptions-to-the-test/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/abhijitbanerjee/"
+    },
     "AbhijitTipke": {
       "episode_count": 2,
       "show_count": 1,
@@ -103199,6 +103222,29 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/evidencebasedciviccooperation/"
     },
+    "EvidenceBasedDevelopmentPolicy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406 [default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406].md",
+          "key": "piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school",
+          "show": "Planet Money",
+          "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+          "url": "/wiki/sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231 [default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231].md",
+          "key": "putting-our-assumptions-to-the-test",
+          "show": "Hidden Brain",
+          "title": "Putting Our Assumptions to the Test",
+          "url": "/wiki/sources/putting-our-assumptions-to-the-test/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/evidencebaseddevelopmentpolicy/"
+    },
     "EvidenceBoundFolkloreInquiry": {
       "episode_count": 6,
       "show_count": 4,
@@ -104883,6 +104929,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/expertrubricverification/"
+    },
+    "ExpertUncertaintyCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231 [default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231].md",
+          "key": "putting-our-assumptions-to-the-test",
+          "show": "Hidden Brain",
+          "title": "Putting Our Assumptions to the Test",
+          "url": "/wiki/sources/putting-our-assumptions-to-the-test/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/expertuncertaintycommunication/"
     },
     "ExpertiseAmplifiedAIUse": {
       "episode_count": 4,
@@ -161738,6 +161800,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/interventiondeliveryframing/"
+    },
+    "InterventionMechanismLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231 [default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231].md",
+          "key": "putting-our-assumptions-to-the-test",
+          "show": "Hidden Brain",
+          "title": "Putting Our Assumptions to the Test",
+          "url": "/wiki/sources/putting-our-assumptions-to-the-test/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/interventionmechanismlearning/"
     },
     "InterventionWithdrawalDependency": {
       "episode_count": 2,
@@ -262976,6 +263054,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/ranavalonai/"
     },
+    "RandomizedControlledTrials": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406 [default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406].md",
+          "key": "piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school",
+          "show": "Planet Money",
+          "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+          "url": "/wiki/sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231 [default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231].md",
+          "key": "putting-our-assumptions-to-the-test",
+          "show": "Hidden Brain",
+          "title": "Putting Our Assumptions to the Test",
+          "url": "/wiki/sources/putting-our-assumptions-to-the-test/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/randomizedcontrolledtrials/"
+    },
     "RandyNewman": {
       "episode_count": 1,
       "show_count": 1,
@@ -266959,9 +267060,9 @@
       "url": "/wiki/concepts/religiousshamegracegap/"
     },
     "RemedialEducationTargeting": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406 [default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406].md",
@@ -266976,9 +267077,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231 [default.mp3_ywr3ahjkcgo_de7484d9298e266f64e5a6c331eba958_51596231].md",
+          "key": "putting-our-assumptions-to-the-test",
+          "show": "Hidden Brain",
+          "title": "Putting Our Assumptions to the Test",
+          "url": "/wiki/sources/putting-our-assumptions-to-the-test/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/remedialeducationtargeting/"
     },
     "RememberUnderstandActLoop": {

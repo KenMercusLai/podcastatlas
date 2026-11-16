@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3560
+topic_total_pages: 3561
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2422,6 +2422,9 @@ topic_concepts:
   - key: "InterstateCascadeDiplomacy"
     title: "Interstate Cascade Diplomacy / 多国连锁外交"
     url: "/wiki/concepts/interstatecascadediplomacy/"
+  - key: "InterventionMechanismLearning"
+    title: "Intervention Mechanism Learning"
+    url: "/wiki/concepts/interventionmechanismlearning/"
   - key: "IntimateFrontierPacification"
     title: "Intimate Frontier Pacification / 亲密关系式边患安抚"
     url: "/wiki/concepts/intimatefrontierpacification/"

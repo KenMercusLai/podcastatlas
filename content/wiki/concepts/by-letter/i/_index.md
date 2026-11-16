@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11546
+wiki_total_pages: 11548
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1121,6 +1121,9 @@ wiki_pages:
   - key: "InterventionDeliveryFraming"
     title: "Intervention Delivery Framing"
     url: "/wiki/concepts/interventiondeliveryframing/"
+  - key: "InterventionMechanismLearning"
+    title: "Intervention Mechanism Learning"
+    url: "/wiki/concepts/interventionmechanismlearning/"
   - key: "InterventionalUltrasoundSafety"
     title: "Interventional Ultrasound Safety / 介入超声安全边界"
     url: "/wiki/concepts/interventionalultrasoundsafety/"
