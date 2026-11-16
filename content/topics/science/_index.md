@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1704
+topic_total_pages: 1708
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1957,6 +1957,9 @@ topic_concepts:
   - key: "PsychologicalBoundaryProtection"
     title: "Psychological Boundary Protection / 心理边界保护"
     url: "/wiki/concepts/psychologicalboundaryprotection/"
+  - key: "PsychologicalCounterfactualThinking"
+    title: "Psychological Counterfactual Thinking"
+    url: "/wiki/concepts/psychologicalcounterfactualthinking/"
   - key: "PsychologicalDistanceSelfControl"
     title: "Psychological Distance Self-Control"
     url: "/wiki/concepts/psychologicaldistanceselfcontrol/"
@@ -2023,6 +2026,12 @@ topic_concepts:
   - key: "ReflexiveSelfAwareness"
     title: "Reflexive Self-Awareness / 反身性自我意识"
     url: "/wiki/concepts/reflexiveselfawareness/"
+  - key: "RegretIntegration"
+    title: "Regret Integration"
+    url: "/wiki/concepts/regretintegration/"
+  - key: "RegretResponsibilityAttribution"
+    title: "Regret Responsibility Attribution"
+    url: "/wiki/concepts/regretresponsibilityattribution/"
   - key: "RelationshipFeedbackLoop"
     title: "Relationship Feedback Loop / 亲密关系反馈闭环"
     url: "/wiki/concepts/relationshipfeedbackloop/"
@@ -5034,6 +5043,9 @@ topic_sources:
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"
+  - key: "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793"
+    title: "You 2.0: Regrets, I Have a Few..."
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
   - key: "default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597"
     title: "You Don't Need a Crystal Ball"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597/"

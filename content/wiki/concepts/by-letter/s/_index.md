@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11585
+wiki_total_pages: 11588
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "SatiricalGroupPortrait"
     title: "Satirical Group Portrait"
     url: "/wiki/concepts/satiricalgroupportrait/"
+  - key: "SatisficingDecisionStrategy"
+    title: "Satisficing Decision Strategy"
+    url: "/wiki/concepts/satisficingdecisionstrategy/"
   - key: "Saturnalia"
     title: "Saturnalia"
     url: "/wiki/concepts/saturnalia/"

@@ -41994,3 +41994,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | You 2.0: Regrets, I Have a Few...
+
+Added a [[HiddenBrain]] episode with psychologist [[AmySomerville|Amy Somerville]] on regret as learning versus rumination, upward and downward counterfactuals, responsibility attribution, guilt, inaction, and satisficing. Created Somerville's focused profile plus [[PsychologicalCounterfactualThinking]], [[RegretResponsibilityAttribution]], and [[SatisficingDecisionStrategy]], then resynthesized [[RegretIntegration]], [[RuminationVsReflection]], and [[HiddenBrain]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: regret is constructive when comparison with an imagined alternative produces new understanding, clarifies values, supports repair, or changes later action. It becomes harmful when it repeats intrusively without novelty, or when one vivid “what if” is treated as proof of total control over a multi-causal event. Upward counterfactuals can guide improvement, downward counterfactuals can provide relief, and satisficing limits prospective regret by ending search when meaningful standards are met.
+
+No settled contradiction was adopted. Context can qualify responsibility without excusing harmful conduct, while accountability need not become total self-condemnation. The listener stories, symptom associations, action-versus-inaction timing, cultural attribution, medalist satisfaction, grade-threshold, and decision-strategy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, or replication evidence. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,155 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

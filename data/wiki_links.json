@@ -10087,6 +10087,10 @@
     "title": "Amy Scott",
     "url": "/wiki/entities/amyscott/"
   },
+  "AmySomerville": {
+    "title": "Amy Somerville",
+    "url": "/wiki/entities/amysomerville/"
+  },
   "AmyWebb": {
     "title": "Amy Webb",
     "url": "/wiki/entities/amywebb/"
@@ -78143,6 +78147,10 @@
     "title": "Psychological Boundary Protection / 心理边界保护",
     "url": "/wiki/concepts/psychologicalboundaryprotection/"
   },
+  "PsychologicalCounterfactualThinking": {
+    "title": "Psychological Counterfactual Thinking",
+    "url": "/wiki/concepts/psychologicalcounterfactualthinking/"
+  },
   "PsychologicalDistanceSelfControl": {
     "title": "Psychological Distance Self-Control",
     "url": "/wiki/concepts/psychologicaldistanceselfcontrol/"
@@ -80866,6 +80874,10 @@
   "RegretIntegration": {
     "title": "Regret Integration",
     "url": "/wiki/concepts/regretintegration/"
+  },
+  "RegretResponsibilityAttribution": {
+    "title": "Regret Responsibility Attribution",
+    "url": "/wiki/concepts/regretresponsibilityattribution/"
   },
   "RegulatedCPGMessaging": {
     "title": "Regulated CPG Messaging",
@@ -84766,6 +84778,10 @@
   "SatiricalGroupPortrait": {
     "title": "Satirical Group Portrait",
     "url": "/wiki/concepts/satiricalgroupportrait/"
+  },
+  "SatisficingDecisionStrategy": {
+    "title": "Satisficing Decision Strategy",
+    "url": "/wiki/concepts/satisficingdecisionstrategy/"
   },
   "SatishVangala": {
     "title": "Satish Vangala",
@@ -111350,6 +111366,10 @@
   "default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469": {
     "title": "Being Kind to Yourself",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469/"
+  },
+  "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793": {
+    "title": "You 2.0: Regrets, I Have a Few...",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
   },
   "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097": {
     "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",

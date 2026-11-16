@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11585
+wiki_total_pages: 11588
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2723,6 +2723,9 @@ wiki_pages:
   - key: "PsychologicalBoundaryProtection"
     title: "Psychological Boundary Protection / 心理边界保护"
     url: "/wiki/concepts/psychologicalboundaryprotection/"
+  - key: "PsychologicalCounterfactualThinking"
+    title: "Psychological Counterfactual Thinking"
+    url: "/wiki/concepts/psychologicalcounterfactualthinking/"
   - key: "PsychologicalDistanceSelfControl"
     title: "Psychological Distance Self-Control"
     url: "/wiki/concepts/psychologicaldistanceselfcontrol/"

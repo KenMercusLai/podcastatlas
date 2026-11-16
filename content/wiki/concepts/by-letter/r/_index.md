@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11585
+wiki_total_pages: 11588
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "RegretIntegration"
     title: "Regret Integration"
     url: "/wiki/concepts/regretintegration/"
+  - key: "RegretResponsibilityAttribution"
+    title: "Regret Responsibility Attribution"
+    url: "/wiki/concepts/regretresponsibilityattribution/"
   - key: "RegulatedConsumerProductMoat"
     title: "Regulated Consumer Product Moat"
     url: "/wiki/concepts/regulatedconsumerproductmoat/"

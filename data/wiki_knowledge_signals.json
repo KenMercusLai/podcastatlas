@@ -17445,6 +17445,22 @@
       "updated": "2026-11-09",
       "url": "/wiki/entities/amyinvestmentabc/"
     },
+    "AmySomerville": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/amysomerville/"
+    },
     "AmyWebb": {
       "episode_count": 2,
       "show_count": 1,
@@ -144214,9 +144230,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -144315,6 +144331,13 @@
           "show": "Hidden Brain",
           "title": "Bringing Up Baby",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272-default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
         }
       ],
       "updated": "2026-11-17",
@@ -259508,6 +259531,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/psychologicalboundaryprotection/"
     },
+    "PsychologicalCounterfactualThinking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/psychologicalcounterfactualthinking/"
+    },
     "PsychologicalDistanceSelfControl": {
       "episode_count": 2,
       "show_count": 1,
@@ -267411,6 +267450,45 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/regnansinexcelsis/"
+    },
+    "RegretIntegration": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "日谈串台｜ 姐妹聊天会：重启人生也是我最妖娇 [616116425].md",
+          "key": "ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜姐妹聊天会：重启人生也是我最妖娇",
+          "url": "/wiki/sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/regretintegration/"
+    },
+    "RegretResponsibilityAttribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/regretresponsibilityattribution/"
     },
     "RegulatedCryptoTrustStrategy": {
       "episode_count": 2,
@@ -277632,9 +277710,9 @@
       "url": "/wiki/concepts/rulerwillaslaw/"
     },
     "RuminationVsReflection": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "132.当过度思考的打工人遇上低欲望的时代 [luAQsWjQEZBAkxDRcsHifxI0eRmO].md",
@@ -277670,9 +277748,16 @@
           "show": "无时差研究所",
           "title": "EP18-真的！多失恋几次，你就长大了",
           "url": "/wiki/sources/ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/ruminationvsreflection/"
     },
     "Ruminawi": {
@@ -280787,6 +280872,22 @@
       ],
       "updated": "2026-11-09",
       "url": "/wiki/concepts/satelliteheatsignatureconflictmonitoring/"
+    },
+    "SatisficingDecisionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793 [default.mp3_ywr3ahjkcgo_e3af8fff4431a2e0de997f372a273cac_28609793].md",
+          "key": "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Regrets, I Have a Few...",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/satisficingdecisionstrategy/"
     },
     "SatnamSanghera": {
       "episode_count": 1,

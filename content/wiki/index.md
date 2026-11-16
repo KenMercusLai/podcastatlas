@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [You 2.0: Regrets, I Have a Few...](sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793.md) — Hidden Brain and Amy Somerville connect regret with learning versus rumination, counterfactual comparison, proportionate responsibility, and satisficing.
 - [Where Happiness Hides](sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021.md) — Hidden Brain and Sonja Lyubomirsky connect focal happiness forecasts, adaptation, rising expectations, comparison, savoring, social connection, and qualified emotional recovery.
 - [Just Sex](sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294.md) — Hidden Brain and Lisa Wade separate hookup frequency from an alcohol-, status-, and detachment-centered campus script with unequal access and emotional costs.
 - [Group Think](sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056.md) — Hidden Brain and Jay Van Bavel connect group identity to perception, polarization, platform hostility, shared goals, and cooperative boundary expansion.
@@ -5281,6 +5282,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 
 ## Entities
+- [Amy Somerville](entities/AmySomerville.md) — Psychologist connecting regret to constructive reflection, counterfactual function, proportionate responsibility, and satisficing.
 - [Sonja Lyubomirsky](entities/SonjaLyubomirsky.md) — Psychologist connecting affective forecasting, hedonic adaptation, savoring, relationships, and qualified agency.
 - [Lisa Wade](entities/LisaWade.md) — Sociologist distinguishing college sexual behavior from the status, gender, peer, and emotional rules surrounding hookups.
 - [Jay Van Bavel](entities/JayVanBavel.md) — Social psychologist connecting group identity to preference, perception, reward, polarization, and cooperative boundary expansion.
@@ -5701,7 +5703,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
-- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, whistleblowing, forgiveness, false confessions, difficult conversations, and chance-sensitive causality.
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, regret, moral judgment, forgiveness, difficult conversations, and chance-sensitive causality.
 - [Erica Boothby](entities/EricaBoothby.md) — Psychologist studying the liking gap and errors in how people infer others' attention and judgments.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
@@ -19969,6 +19971,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Psychological Counterfactual Thinking](concepts/PsychologicalCounterfactualThinking.md) — Comparison of actual outcomes with better or worse imagined alternatives for learning, relief, and causal judgment.
+- [Regret Responsibility Attribution](concepts/RegretResponsibilityAttribution.md) — Proportionate account of personal agency that resists both total self-blame and context-based exoneration.
+- [Satisficing Decision Strategy](concepts/SatisficingDecisionStrategy.md) — Standards-based stopping rule that limits open-ended maximizing, comparison, and choice overload.
 - [Affective Forecasting and Focalism](concepts/AffectiveForecastingAndFocalism.md) — Why salient future changes can crowd ordinary context out of predictions about lasting feeling.
 - [College Hookup Culture](concepts/CollegeHookupCulture.md) — Campus sexual script joining casual intimacy to alcohol, peer approval, status, performed detachment, and unequal participation.
 - [Performed Nonattachment](concepts/PerformedNonattachment.md) — Strategic display of caring less to preserve casual status and avoid the social cost of emotional honesty.
@@ -29465,7 +29470,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Reality Verification Tax](concepts/AIRealityVerificationTax.md) — Extra user, journalist, and institutional burden created when AI makes media fabrication cheaper than verification.
 - [Content Credentials](concepts/ContentCredentials.md) — Media-provenance standard layer for attaching authenticity signals to captured or edited content.
 - [Life Restart Thought Experiment](concepts/LifeRestartThoughtExperiment.md) — Reflective device asking what one would revisit with memory intact, used to reveal unresolved meaning rather than a corrected life plan.
-- [Regret Integration](concepts/RegretIntegration.md) — Process of keeping embarrassment, pain, mistakes, and unfinished goodbyes inside a coherent life story instead of treating them only as errors to erase.
+- [Regret Integration](concepts/RegretIntegration.md) — Process of carrying painful experience into a coherent life story through proportionate responsibility, new understanding, repair, or changed action.
 - [Pet Grief And Care](concepts/PetGriefAndCare.md) — Companion-animal bonds across practical care, quality-of-life decisions, loss, public mourning, changed routines, and continuing influence.
 - [Mother-Daughter Reconciliation](concepts/MotherDaughterReconciliation.md) — Adult reinterpretation of maternal absence, conflict, expectation, and repair.
 - [Female Self-Possession](concepts/FemaleSelfPossession.md) — Women's Day life-design stance built around self-knowledge, self-directed choice, learning capacity, and love without conventional success scripts.
@@ -30020,7 +30025,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Knowing Enough](concepts/KnowingEnough.md) — Restraint practice for defining when more revenue, products, trading, achievement, or status no longer serves trust, relationships, or life.
 - [Benfen / 本分](concepts/Benfen.md) — Practice of doing what should be done after stripping away pressure, temptation, ego, and external scoring.
 - [As It Is Practice / 如其所是](concepts/AsItIsPractice.md) — Seeing and acting within the situation as it is, with proportionate agency rather than ego-driven interpretation.
-- [Rumination Vs Reflection](concepts/RuminationVsReflection.md) — Distinction between repetitive inner noise and useful thinking, especially around investing, comparison, and modern attention systems.
+- [Rumination Vs Reflection](concepts/RuminationVsReflection.md) — Functional distinction between intrusive repetition and thought that revises understanding or enables action.
 - [Open Source Infrastructure Trust](concepts/OpenSourceInfrastructureTrust.md) — Trust pattern where infrastructure users rely on visible source, documentation, roadmap, process, issue history, and technical direction rather than code release alone.
 - [Database Cloud Service Commercialization](concepts/DatabaseCloudServiceCommercialization.md) — Open-source database monetization route where managed cloud service sells operational reliability without undermining community trust.
 - [Founder-Led Software Globalization](concepts/FounderLedSoftwareGlobalization.md) — Globalization pattern where founders move presence, language, documentation, hiring, sales, and organization into the target software market.
