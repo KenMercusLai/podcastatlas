@@ -42942,6 +42942,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/calibratednegotiationquestions/"
     },
+    "CalibratedSelfDoubt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ccb1b539aa8604c65d846131f60617e0_47196798 [default.mp3_ywr3ahjkcgo_ccb1b539aa8604c65d846131f60617e0_47196798].md",
+          "key": "default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798",
+          "show": "Hidden Brain",
+          "title": "The Psychology of Self-Doubt",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/calibratedselfdoubt/"
+    },
     "California": {
       "episode_count": 15,
       "show_count": 5,
@@ -157534,9 +157550,9 @@
       "url": "/wiki/concepts/impossibleexperimentdesign/"
     },
     "ImpostorSyndrome": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128 [E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a83829c].md",
@@ -157558,9 +157574,16 @@
           "show": "文化有限",
           "title": "Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人",
           "url": "/wiki/sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ccb1b539aa8604c65d846131f60617e0_47196798 [default.mp3_ywr3ahjkcgo_ccb1b539aa8604c65d846131f60617e0_47196798].md",
+          "key": "default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798",
+          "show": "Hidden Brain",
+          "title": "The Psychology of Self-Doubt",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/impostorsyndrome/"
     },
     "ImreNagy": {
@@ -177494,6 +177517,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/kevinbass/"
+    },
+    "KevinCokley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ccb1b539aa8604c65d846131f60617e0_47196798 [default.mp3_ywr3ahjkcgo_ccb1b539aa8604c65d846131f60617e0_47196798].md",
+          "key": "default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798",
+          "show": "Hidden Brain",
+          "title": "The Psychology of Self-Doubt",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/kevincokley/"
     },
     "KevinDing": {
       "episode_count": 1,

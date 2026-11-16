@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Psychology of Self-Doubt](sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798.md) — Hidden Brain episode on the impostor phenomenon, identity-sensitive pressure, evidence-based recalibration, and the boundary between useful and harmful doubt.
 - [Bringing Up Baby](sources/default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272-default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272.md) — Hidden Brain connects infant synchrony, contingent babbling, tantrum function, lullaby coregulation, gardener parenting, and exploratory learning.
 - [The Revisionist History Holiday Sampler](sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler.md) — Revisionist History pairs Hallie Rubenhold's victim-centered account of Elizabeth Stride and gendered disease control with an operationally promising but clinically unvalidated concert-tour use of COVID-detection dogs.
 - [Choose Carefully](sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896.md) — Hidden Brain and Eric Johnson connect defaults, order, cues, complexity, and friction to constructed preference and the ethical boundary between helpful design and dark patterns.
@@ -5269,6 +5270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Kevin Cokley](entities/KevinCokley.md) — Psychologist connecting the impostor phenomenon to evidence calibration, identity, institutional climate, preparation, and health.
 - [Alison Gopnik](entities/AlisonGopnik.md) — Psychologist connecting gardener parenting, play, exploration, and apprenticeship to flexible development.
 - [Laura Cirelli](entities/LauraCirelli.md) — Researcher studying infant synchrony, affiliation, and helping behavior.
 - [Rachel Albert](entities/RachelAlbert.md) — Researcher studying babbling as reciprocal infant-caregiver language development.
@@ -19941,6 +19943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Calibrated Self-Doubt](concepts/CalibratedSelfDoubt.md) — Proportionate uncertainty that supports preparation and humility without becoming a verdict on worth, belonging, or health.
 - [Contingent Infant Vocal Feedback](concepts/ContingentInfantVocalFeedback.md) — Reciprocal process in which infant vocalization guides caregiver response and that response shapes the infant's next vocalization.
 - [Function-Sensitive Tantrum Response](concepts/FunctionSensitiveTantrumResponse.md) — Matching adult response to both an outburst's emotional phase and its behavioral consequence.
 - [Dyadic Lullaby Coregulation](concepts/DyadicLullabyCoregulation.md) — Bidirectional adjustment of caregiver and infant arousal during soothing singing.

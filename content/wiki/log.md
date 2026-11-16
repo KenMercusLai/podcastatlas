@@ -41838,3 +41838,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Psychology of Self-Doubt
+
+Added a [[HiddenBrain]] episode with psychologist [[KevinCokley]] on the [[ImpostorSyndrome|impostor phenomenon]], confirmation bias, identity-sensitive pressure, evidence-based self-calibration, and the boundary between useful and harmful doubt. Created Cokley's focused profile and [[CalibratedSelfDoubt]], then resynthesized [[ImpostorSyndrome]] from its complete preserved source inventory before appending the new source once.
+
+Core synthesis: achievement does not automatically become self-trust when private mistakes remain vivid and contrary evidence is discounted. Concrete records, fair comparison, grounded praise, and institutions that make mistakes survivable can correct distorted self-assessment. Doubt is useful only while it supports evidence review, preparation, humility, and revision; it becomes harmful when it governs identity, discourages opportunity, or compromises rest and mental or physical health.
+
+No settled contradiction was adopted. The new source extends rather than displaces the wiki's distinction between false inadequacy and genuine capability, ethical, or role-fit problems. Gender, race, GPA, anxiety, depression, stereotype, praise, and belonging claims remain episode-scoped without the underlying studies, while public-figure examples do not establish diagnosis or a universal threshold for productive doubt. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening a large unrelated evidence inventory.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,143 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

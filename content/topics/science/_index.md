@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1692
+topic_total_pages: 1695
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -331,6 +331,9 @@ topic_concepts:
   - key: "CaffeineAdenosineSleepTiming"
     title: "Caffeine-Adenosine Sleep Timing"
     url: "/wiki/concepts/caffeineadenosinesleeptiming/"
+  - key: "CalibratedSelfDoubt"
+    title: "Calibrated Self-Doubt"
+    url: "/wiki/concepts/calibratedselfdoubt/"
   - key: "CaliforniaEnergyPermittingPolitics"
     title: "California Energy Permitting Politics"
     url: "/wiki/concepts/californiaenergypermittingpolitics/"
@@ -3260,6 +3263,9 @@ topic_entities:
   - key: "Kenya"
     title: "Kenya"
     url: "/wiki/entities/kenya/"
+  - key: "KevinCokley"
+    title: "Kevin Cokley"
+    url: "/wiki/entities/kevincokley/"
   - key: "KevinMitchell"
     title: "Kevin Mitchell"
     url: "/wiki/entities/kevinmitchell/"
@@ -4848,6 +4854,9 @@ topic_sources:
   - key: "the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996"
     title: "The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis"
     url: "/wiki/sources/the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996/"
+  - key: "default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798"
+    title: "The Psychology of Self-Doubt"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798/"
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
