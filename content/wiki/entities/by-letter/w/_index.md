@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14593
+wiki_total_pages: 14597
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "WilliamRandolphLovelace"
     title: "William Randolph Lovelace"
     url: "/wiki/entities/williamrandolphlovelace/"
+  - key: "WilliamSchneider"
+    title: "William Schneider"
+    url: "/wiki/entities/williamschneider/"
   - key: "WilliamShakespeare"
     title: "William Shakespeare / 威廉·莎士比亚"
     url: "/wiki/entities/williamshakespeare/"

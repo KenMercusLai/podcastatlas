@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14593
+wiki_total_pages: 14597
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "ClaireClairmont"
     title: "Claire Clairmont / 克莱尔·克莱尔蒙特"
     url: "/wiki/entities/claireclairmont/"
+  - key: "ClaireGuest"
+    title: "Claire Guest"
+    url: "/wiki/entities/claireguest/"
   - key: "ClaireIsabelWebb"
     title: "Claire Isabel Webb"
     url: "/wiki/entities/claireisabelwebb/"

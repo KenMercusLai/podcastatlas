@@ -18338,6 +18338,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/andreaskarlstadt/"
     },
+    "AndreasMershin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Dog_Will_See_You_Now [The_Dog_Will_See_You_Now].md",
+          "key": "the-dog-will-see-you-now-the-dog-will-see-you-now",
+          "show": "Revisionist History",
+          "title": "The Dog Will See You Now",
+          "url": "/wiki/sources/the-dog-will-see-you-now-the-dog-will-see-you-now/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/andreasmershin/"
+    },
     "AndreessenHorowitz": {
       "episode_count": 4,
       "show_count": 4,
@@ -44300,9 +44316,9 @@
       "url": "/wiki/entities/cangtingbattlelatehan/"
     },
     "CanineDiseaseDetectionScreening": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Revisionist_History_Holiday_Sampler [The_Revisionist_History_Holiday_Sampler].md",
@@ -44310,6 +44326,13 @@
           "show": "Revisionist History",
           "title": "The Revisionist History Holiday Sampler",
           "url": "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"
+        },
+        {
+          "episode_file": "The_Dog_Will_See_You_Now [The_Dog_Will_See_You_Now].md",
+          "key": "the-dog-will-see-you-now-the-dog-will-see-you-now",
+          "show": "Revisionist History",
+          "title": "The Dog Will See You Now",
+          "url": "/wiki/sources/the-dog-will-see-you-now-the-dog-will-see-you-now/"
         }
       ],
       "updated": "2026-11-17",
@@ -58065,6 +58088,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/claireclairmont/"
+    },
+    "ClaireGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Dog_Will_See_You_Now [The_Dog_Will_See_You_Now].md",
+          "key": "the-dog-will-see-you-now-the-dog-will-see-you-now",
+          "show": "Revisionist History",
+          "title": "The Dog Will See You Now",
+          "url": "/wiki/sources/the-dog-will-see-you-now-the-dog-will-see-you-now/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/claireguest/"
     },
     "ClaireLungo": {
       "episode_count": 1,
@@ -119112,6 +119151,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/frenchsecularuniversalism/"
+    },
+    "FrequencyFirstOutbreakScreening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Dog_Will_See_You_Now [The_Dog_Will_See_You_Now].md",
+          "key": "the-dog-will-see-you-now-the-dog-will-see-you-now",
+          "show": "Revisionist History",
+          "title": "The Dog Will See You Now",
+          "url": "/wiki/sources/the-dog-will-see-you-now-the-dog-will-see-you-now/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/frequencyfirstoutbreakscreening/"
     },
     "FreshAllergySafeProductionScaling": {
       "episode_count": 1,
@@ -315989,6 +316044,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/threerefusalsintegrity/"
     },
+    "ThreeSixtyCanineGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Dog_Will_See_You_Now [The_Dog_Will_See_You_Now].md",
+          "key": "the-dog-will-see-you-now-the-dog-will-see-you-now",
+          "show": "Revisionist History",
+          "title": "The Dog Will See You Now",
+          "url": "/wiki/sources/the-dog-will-see-you-now-the-dog-will-see-you-now/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/threesixtycaninegroup/"
+    },
     "ThriveCausemetics": {
       "episode_count": 1,
       "show_count": 1,
@@ -338716,6 +338787,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/williampynchon/"
+    },
+    "WilliamSchneider": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Dog_Will_See_You_Now [The_Dog_Will_See_You_Now].md",
+          "key": "the-dog-will-see-you-now-the-dog-will-see-you-now",
+          "show": "Revisionist History",
+          "title": "The Dog Will See You Now",
+          "url": "/wiki/sources/the-dog-will-see-you-now-the-dog-will-see-you-now/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/williamschneider/"
     },
     "WilliamShakespeare": {
       "episode_count": 5,

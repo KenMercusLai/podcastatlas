@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | The Dog Will See You Now
+
+Added a [[RevisionistHistory]] episode in which [[MalcolmGladwell]] follows working-dog selection at [[ThreeSixtyCanineGroup|360 Canine Group]], [[AndreasMershin]] and [[ClaireGuest|Claire Guest's]] prostate-cancer demonstration, and [[WilliamSchneider|William Schneider's]] synthetic disease-scent training. Created focused synthesis-first profiles for Mershin, Guest, Schneider, and 360 Canine Group, plus [[FrequencyFirstOutbreakScreening]], then resynthesized [[CanineDiseaseDetectionScreening]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: disease-related metabolic changes may create odor patterns that trained dogs can generalize across people, while inert scent aids may support safer and more scalable training. The defensible deployment model is layered triage: a rapid canine alert routes to confirmation rather than becoming a diagnosis, and speed, access, cost, and repetition may matter to outbreak control alongside per-screen accuracy.
+
+No settled contradiction was adopted. The later holiday sampler adds real concert-tour deployment and acceptance but does not resolve clinical validity. The episode's 99% COVID accuracy, comparative superiority, universal disease-detection success, olfactory sensitivity, Army spending, cost, reproduction-number, and scale claims remain source-scoped because the supplied file is a structured summary without protocols, samples, blinding, comparator definitions, uncertainty, independent replication, or field outcomes. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 5,156 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Where Happiness Hides
 
 Added the [[HiddenBrain]] episode with psychologist [[SonjaLyubomirsky]] on [[HedonicAdaptationAndContrast]], [[AffectiveForecastingAndFocalism]], savoring, relationships, gratitude, intrinsic motivation, and social connection. Created focused synthesis-first pages for Lyubomirsky and affective forecasting, then resynthesized hedonic adaptation from its complete preserved evidence inventory before appending the new source once.
@@ -42004,6 +42014,10 @@ Core synthesis: regret is constructive when comparison with an imagined alternat
 No settled contradiction was adopted. Context can qualify responsibility without excusing harmful conduct, while accountability need not become total self-condemnation. The listener stories, symptom associations, action-versus-inaction timing, cultural attribution, medalist satisfaction, grade-threshold, and decision-strategy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, or replication evidence. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,155 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

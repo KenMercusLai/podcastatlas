@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Dog Will See You Now](sources/the-dog-will-see-you-now-the-dog-will-see-you-now.md) — Revisionist History connects disease-associated odor, trained dogs, synthetic scent aids, layered confirmation, and frequency-first outbreak screening while preserving major validation and scaling limits.
 - [You 2.0: Regrets, I Have a Few...](sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793.md) — Hidden Brain and Amy Somerville connect regret with learning versus rumination, counterfactual comparison, proportionate responsibility, and satisficing.
 - [Where Happiness Hides](sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021.md) — Hidden Brain and Sonja Lyubomirsky connect focal happiness forecasts, adaptation, rising expectations, comparison, savoring, social connection, and qualified emotional recovery.
 - [Just Sex](sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294.md) — Hidden Brain and Lisa Wade separate hookup frequency from an alcohol-, status-, and detachment-centered campus script with unequal access and emotional costs.
@@ -5282,6 +5283,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 
 ## Entities
+- [Andreas Mershin](entities/AndreasMershin.md) — Researcher connecting disease-associated metabolic odor patterns, cross-patient generalization, and canine medical screening under a strong validation boundary.
+- [Claire Guest](entities/ClaireGuest.md) — Researcher and dog trainer applying working-dog scent methods to disease-associated samples and prostate-cancer demonstrations.
+- [William Schneider](entities/WilliamSchneider.md) — Former plant virologist presented as developing inert, scalable scent-training aids for disease-detection dogs.
+- [360 Canine Group](entities/ThreeSixtyCanineGroup.md) — Working-dog organization illustrating detection-dog selection and a proposed layered school-screening workflow.
 - [Amy Somerville](entities/AmySomerville.md) — Psychologist connecting regret to constructive reflection, counterfactual function, proportionate responsibility, and satisficing.
 - [Sonja Lyubomirsky](entities/SonjaLyubomirsky.md) — Psychologist connecting affective forecasting, hedonic adaptation, savoring, relationships, and qualified agency.
 - [Lisa Wade](entities/LisaWade.md) — Sociologist distinguishing college sexual behavior from the status, gender, peer, and emotional rules surrounding hookups.
@@ -19971,6 +19976,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Frequency-First Outbreak Screening](concepts/FrequencyFirstOutbreakScreening.md) — Rapid, inexpensive, repeated triage evaluated through timely confirmation, false-result harms, and measured transmission outcomes.
 - [Psychological Counterfactual Thinking](concepts/PsychologicalCounterfactualThinking.md) — Comparison of actual outcomes with better or worse imagined alternatives for learning, relief, and causal judgment.
 - [Regret Responsibility Attribution](concepts/RegretResponsibilityAttribution.md) — Proportionate account of personal agency that resists both total self-blame and context-based exoneration.
 - [Satisficing Decision Strategy](concepts/SatisficingDecisionStrategy.md) — Standards-based stopping rule that limits open-ended maximizing, comparison, and choice overload.
