@@ -6951,6 +6951,10 @@
     "title": "《冰与火之歌》 / A Song of Ice and Fire",
     "url": "/wiki/entities/asongoficeandfire/"
   },
+  "AStarIsBorn1937": {
+    "title": "A Star Is Born (1937)",
+    "url": "/wiki/entities/astarisborn1937/"
+  },
   "AStretchOfHighwayTwoLanesWide": {
     "title": "《一段双车道公路》",
     "url": "/wiki/entities/astretchofhighwaytwolaneswide/"
@@ -7318,6 +7322,10 @@
   "AccessionTimingCoalitionSignal": {
     "title": "称帝时机与拥戴信号 / Accession Timing Coalition Signal",
     "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
+  },
+  "AccidentFramingAndResponsibility": {
+    "title": "Accident Framing and Responsibility",
+    "url": "/wiki/concepts/accidentframingandresponsibility/"
   },
   "AccidentalVirality": {
     "title": "Accidental Virality",
@@ -27547,6 +27555,10 @@
     "title": "David McRaney / 大卫·麦克雷尼",
     "url": "/wiki/entities/davidmcraney/"
   },
+  "DavidOSelznick": {
+    "title": "David O. Selznick",
+    "url": "/wiki/entities/davidoselznick/"
+  },
   "DavidRailton": {
     "title": "David Railton",
     "url": "/wiki/entities/davidrailton/"
@@ -30218,6 +30230,10 @@
   "DorothyArzner": {
     "title": "Dorothy Arzner / 多罗西·阿兹娜",
     "url": "/wiki/entities/dorothyarzner/"
+  },
+  "DorothyParker": {
+    "title": "Dorothy Parker",
+    "url": "/wiki/entities/dorothyparker/"
   },
   "DorothyThompson": {
     "title": "Dorothy Thompson",
@@ -47162,6 +47178,10 @@
   "HuggingFace": {
     "title": "Hugging Face",
     "url": "/wiki/entities/huggingface/"
+  },
+  "HughGravitt": {
+    "title": "Hugh Gravitt",
+    "url": "/wiki/entities/hughgravitt/"
   },
   "HughParsons": {
     "title": "Hugh Parsons",
@@ -115250,6 +115270,10 @@
   "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354": {
     "title": "Spring, then fall: a weakened Muslim Brotherhood",
     "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+  },
+  "star-struck": {
+    "title": "Star Struck",
+    "url": "/wiki/sources/star-struck/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14517
+wiki_total_pages: 14521
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "AJourneyToTheWesternIslands"
     title: "A Journey to the Western Islands of Scotland"
     url: "/wiki/entities/ajourneytothewesternislands/"
+  - key: "AStarIsBorn1937"
+    title: "A Star Is Born (1937)"
+    url: "/wiki/entities/astarisborn1937/"
   - key: "ATrueStory"
     title: "A True Story / 《真实的故事》"
     url: "/wiki/entities/atruestory/"

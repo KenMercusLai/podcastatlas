@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14517
+wiki_total_pages: 14521
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "DavidMcRaney"
     title: "David McRaney / 大卫·麦克雷尼"
     url: "/wiki/entities/davidmcraney/"
+  - key: "DavidOSelznick"
+    title: "David O. Selznick"
+    url: "/wiki/entities/davidoselznick/"
   - key: "DavidRailton"
     title: "David Railton"
     url: "/wiki/entities/davidrailton/"
@@ -1055,6 +1058,9 @@ wiki_pages:
   - key: "DorothyArzner"
     title: "Dorothy Arzner / 多罗西·阿兹娜"
     url: "/wiki/entities/dorothyarzner/"
+  - key: "DorothyParker"
+    title: "Dorothy Parker"
+    url: "/wiki/entities/dorothyparker/"
   - key: "DorothyThompson"
     title: "Dorothy Thompson"
     url: "/wiki/entities/dorothythompson/"

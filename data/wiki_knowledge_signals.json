@@ -7040,6 +7040,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/asongoficeandfire/"
     },
+    "AStarIsBorn1937": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/astarisborn1937/"
+    },
     "ATrueStory": {
       "episode_count": 1,
       "show_count": 1,
@@ -8003,6 +8019,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
+    },
+    "AccidentFramingAndResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/accidentframingandresponsibility/"
     },
     "AccountableSelfForgiveness": {
       "episode_count": 1,
@@ -76362,6 +76394,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/davidmancuso/"
     },
+    "DavidOSelznick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/davidoselznick/"
+    },
     "DavidRailton": {
       "episode_count": 1,
       "show_count": 1,
@@ -86033,6 +86081,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/dorianyates/"
+    },
+    "DorothyParker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/dorothyparker/"
     },
     "DorothyThompson": {
       "episode_count": 2,
@@ -150253,6 +150317,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/hudsonsbaycompany/"
     },
+    "HughGravitt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/hughgravitt/"
+    },
     "HughParsons": {
       "episode_count": 1,
       "show_count": 1,
@@ -204995,9 +205075,9 @@
       "url": "/wiki/entities/margaretlambert/"
     },
     "MargaretMitchell": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -205012,9 +205092,16 @@
           "show": "无时差研究所",
           "title": "EP133-有关种族的议题，中文互联网究竟还有多少误解？",
           "url": "/wiki/sources/ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618/"
+        },
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/margaretmitchell/"
     },
     "MargaretMurray": {
@@ -223254,9 +223341,9 @@
       "url": "/wiki/concepts/narrativecreativitytraining/"
     },
     "NarrativeEndingDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
@@ -223264,6 +223351,13 @@
           "show": "Revisionist History",
           "title": "A Treat for the Die-Hards",
           "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        },
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
         }
       ],
       "updated": "2026-11-16",
@@ -223385,9 +223479,9 @@
       "url": "/wiki/concepts/narrativemisdirection/"
     },
     "NarrativeMoralRehearsal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_on_No_Small_Endeavor [Malcolm_on_No_Small_Endeavor].md",
@@ -223395,6 +223489,13 @@
           "show": "Revisionist History",
           "title": "Malcolm on No Small Endeavor",
           "url": "/wiki/sources/malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor/"
+        },
+        {
+          "episode_file": "Star_Struck [Star_Struck].md",
+          "key": "star-struck",
+          "show": "Revisionist History",
+          "title": "Star Struck",
+          "url": "/wiki/sources/star-struck/"
         }
       ],
       "updated": "2026-11-16",

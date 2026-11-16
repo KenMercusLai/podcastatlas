@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3763
+topic_total_pages: 3764
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4220,6 +4220,9 @@ topic_entities:
   - key: "AJourneyToTheWesternIslands"
     title: "A Journey to the Western Islands of Scotland"
     url: "/wiki/entities/ajourneytothewesternislands/"
+  - key: "AStarIsBorn1937"
+    title: "A Star Is Born (1937)"
+    url: "/wiki/entities/astarisborn1937/"
   - key: "ATrueStory"
     title: "A True Story / 《真实的故事》"
     url: "/wiki/entities/atruestory/"

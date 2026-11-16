@@ -41404,3 +41404,19 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Star Struck
+
+Added the [[RevisionistHistory]] episode connecting [[MargaretMitchell]]'s 1949 death to the deleted drunk-driving collision in [[AStarIsBorn1937|the 1937 *A Star Is Born*]]. Created focused profiles for the film, [[DorothyParker]], [[DavidOSelznick]], and [[HughGravitt]], created [[AccidentFramingAndResponsibility]], and resynthesized Mitchell, [[NarrativeMoralRehearsal]], and [[NarrativeEndingDesign]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: an unintended outcome can still arise from a foreseeable risk-creating choice, while “accident” language, weak enforcement expectations, sympathetic coverage, and narrative edits can move attention away from responsibility. Parker and Campbell's deleted scene could have supplied a vivid public model of intoxicated driving as lethal wrongdoing, but one unproduced film scene cannot be shown to have changed law, culture, or Mitchell's later death.
+
+No settled contradiction was adopted. The new account of Mitchell's death does not qualify the existing racial-memory analysis of her work. Impairment, speed, citation, testing, production-motive, legal-history, and cultural-causation claims remain source-scoped because the supplied file is a structured episode summary rather than a transcript, court record, screenplay archive, or reception study. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] pages, the automatic `wiki/overview.md`, and adjacent multi-source adaptation pages remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,113 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,6 +4,7 @@ type: concept
 tags: [storytelling, ethics, moral-formation, action]
 sources:
   - malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor
+  - star-struck
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -16,9 +17,11 @@ Narrative moral rehearsal is the process by which a concrete story gives someone
 
 ## Current Synthesis
 
-The episode's central case is a young Nashville driver who picks up a lost, shirtless [[MalcolmGladwell]] after studying the Good Samaritan at Bible study. Gladwell interprets the parable as more actionable than a general instruction to help the less fortunate because it supplies a scene: notice a stranger in distress, accept uncertainty, and choose to help.
+The initial case is a young Nashville driver who picks up a lost, shirtless [[MalcolmGladwell]] after studying the Good Samaritan at Bible study. Gladwell interprets the parable as more actionable than a general instruction to help the less fortunate because it supplies a scene: notice a stranger in distress, accept uncertainty, and choose to help.
 
 [[LeeCCamp]] broadens the point by contrasting rule-centered moral philosophy with traditions in which stories shape identity, attention, and character. An emergency physician returning to work in the dangerous neighborhood where he grew up supplies a second model of costly care. A story becomes morally serious in this account not merely when it produces tears, but when its emotional force remains with the audience and provokes a question about how they themselves would act.
+
+Moral rehearsal also operates at a public level and through absence. [[DorothyParker]] and Alan Campbell's deleted [[AStarIsBorn1937|*A Star Is Born*]] collision could have shown an intoxicated driver facing the strangers he killed at a time when law and culture often treated such deaths as accidents. The counterfactual cannot prove that the scene would have changed conduct or policy, but it shows that editorial choices can determine whether audiences practice recognizing responsibility at all. [[star-struck]]
 
 ## Key Claims
 
@@ -26,6 +29,7 @@ The episode's central case is a young Nashville driver who picks up a lost, shir
 - A concrete agent and choice can provide a behavioral model that a listener later retrieves.
 - Emotional force matters ethically when it sustains reflection or action rather than ending in sentiment alone.
 - Narrative can form attention and character without replacing principles, facts, or situational judgment.
+- Stories can rehearse public attribution of responsibility as well as individual helping behavior.
 - A memorable story may also mislead when analogy hides material differences, romanticizes risk, or narrows the available responses.
 
 ## Evidence
@@ -34,14 +38,16 @@ The episode's central case is a young Nashville driver who picks up a lost, shir
 - Rule-story contrast: [[malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor]] has Camp distinguish abstract moral instruction from traditions that use narrative to form perception and character.
 - Costly-care model: [[malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor]] presents a physician choosing to serve a dangerous neighborhood where he repeatedly treats people he knows.
 - Emotional boundary: [[malcolm-on-no-small-endeavor-malcolm-on-no-small-endeavor]] distinguishes transient tears from stories that remain and ask the audience how they should live.
+- Missing public model: [[star-struck]] contrasts Parker and Campbell's deleted fatal collision with a released ending that preserves Norman Maine as a romantic victim.
 
 ## Counterevidence & Qualifications
 
-The source offers illustrative cases rather than evidence that narrative reliably improves conduct. The driver's reasoning and the physician's motives are reported through a structured summary, and a single helpful decision does not settle the safety ethics of picking up strangers. Stories can manipulate, oversimplify, reward identification with the wrong actor, or crowd out less vivid statistical evidence. Moral rehearsal therefore needs factual checking, proportional risk judgment, and attention to structural responsibility.
+The sources offer illustrative and counterfactual cases rather than evidence that narrative reliably improves conduct. The driver's reasoning and the physician's motives are reported through a structured summary, and a single helpful decision does not settle the safety ethics of picking up strangers. The unproduced film scene cannot establish how audiences, law, or later collisions would have changed. Stories can manipulate, oversimplify, reward identification with the wrong actor, or crowd out less vivid statistical evidence. Moral rehearsal therefore needs factual checking, proportional risk judgment, and attention to structural responsibility.
 
 ## What Changed
 
-- Created the concept from the episode's Good Samaritan, physician, and emotionally durable storytelling cases.
+- Extended the concept from personal action models to public recognition of foreseeable responsibility.
+- Added missing or deleted narrative models as a qualified form of moral non-rehearsal.
 
 ## Related Concepts
 
@@ -49,3 +55,5 @@ The source offers illustrative cases rather than evidence that narrative reliabl
 - [[ConservationStoryMobilization]] - applies emotionally compelling stories to public action and its risks.
 - [[SlaveNarrativeMoralIdentification]] - historical branch in which life stories make distant oppression personally legible.
 - [[BeliefGroundedStorytelling]] - joins narrative persuasion with explicit grounding and evidentiary discipline.
+- [[AccidentFramingAndResponsibility]] - supplies the public-harm distinction rehearsed by the deleted collision.
+- [[NarrativeEndingDesign]] - explains how final revisions can redirect the judgment an audience practices.

@@ -4,6 +4,7 @@ type: concept
 tags: [storytelling, narrative-craft, endings, audience-reception]
 sources:
   - a-treat-for-the-die-hards
+  - star-struck
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -24,15 +25,17 @@ Legibility constrains surprise. “Free Brian Williams” makes its final revers
 
 Preparation and context complete the model. Gladwell prefers to know the destination and build backward, while [[AlanJackson]]'s performance of [[HeStoppedLovingHerToday]] at [[GeorgeJones]]'s funeral shows that an ending can arise from contextual convergence rather than newly invented plot. The song, death, widow, performer, and occasion make earlier material newly specific.
 
+An ethical constraint follows: an ending does not merely complete character arcs but distributes victims, consequences, and sympathy. Removing [[DorothyParker]] and Alan Campbell's fatal drunk-driving collision from [[AStarIsBorn1937|*A Star Is Born*]] keeps Norman Maine available as a romantic martyr; the released tree crash, limited punishment, Vicki's caretaking, and final “Mrs. Norman Maine” tribute turn accountability toward devotion. Narrative viability and moral framing are therefore inseparable even when a production decision begins as a plot problem. [[star-struck]]
+
 ## Key Claims
 
 - Endings can disproportionately shape retrospective judgment of an entire story.
 - A productive ending violates or revises a governing expectation while remaining connected to the established premise.
 - Character change may be small even when the audience's emotional journey is large.
 - Surprise must be legible enough for the audience to recognize the intended reclassification.
-- Testing alternate endings can reveal differences in emotional effect that abstract planning misses.
 - Working backward from a desired ending can make its decisive meaning feel prepared.
 - Context can supply closure by giving familiar material a new and specific referent.
+- Ending revisions redistribute moral attention by deciding whose harm remains visible and whose suffering organizes closure.
 
 ## Evidence
 
@@ -52,14 +55,18 @@ Preparation and context complete the model. Gladwell prefers to know the destina
 
 - [[a-treat-for-the-die-hards]] uses [[AlanJackson]]'s funeral performance to show an existing song becoming specifically about [[GeorgeJones]]'s death.
 
+### Moral redistribution
+
+- [[star-struck]] contrasts a deleted fatal collision with the released tree crash, jail, caretaking, suicide, and widow-centered tribute.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from one structured podcast summary and selected examples rather than a general narratology, cited first-impression literature, script archive, or reception study. Not every successful story depends on betrayal: fulfillment, accumulation, inevitability, ambiguity, or deliberate nonresolution can also provide closure. Audience testing may encourage emotional clarity while also rewarding familiarity, and a misunderstood turn can reflect audience priors, distribution context, or framing rather than craft alone. Working backward can strengthen preparation but may make the route overly visible or suppress discoveries made during composition.
+The concept is derived from two structured podcast summaries and selected examples rather than a general narratology, cited first-impression literature, script archive, or reception study. Not every successful story depends on betrayal: fulfillment, accumulation, inevitability, ambiguity, or deliberate nonresolution can also provide closure. Audience testing may encourage emotional clarity while also rewarding familiarity, and a misunderstood turn can reflect audience priors, distribution context, or framing rather than craft alone. Working backward can strengthen preparation but may make the route overly visible or suppress discoveries made during composition. The *A Star Is Born* counterfactual does not prove the deleted ending would have changed audiences or law.
 
 ## What Changed
 
-- Established a focused framework joining expectation revision, modest character change, legibility, iteration, backward construction, and contextual reclassification.
-- Distinguished an effective surprise from a turn whose intended judgment the audience cannot reconstruct.
+- Added victim visibility, consequence, and sympathy distribution as ethical dimensions of ending design.
+- Added a production case where narrative viability and public moral framing pull in different directions.
 
 ## Related Concepts
 
@@ -69,3 +76,5 @@ The concept is derived from one structured podcast summary and selected examples
 - [[ThemePlotCoherence]] - tests whether resolution and causal sequence support the story's larger meaning.
 - [[ExpectationReversalComedy]] - uses violated expectations specifically as comic material.
 - [[StoryWithoutLesson]] - qualifies the assumption that every ending needs an explicit moral key.
+- [[AccidentFramingAndResponsibility]] - names the responsibility judgment changed by the deleted collision.
+- [[NarrativeMoralRehearsal]] - explains how an ending can make an ethical pattern available or withhold it.
