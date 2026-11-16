@@ -4,7 +4,8 @@ type: entity
 tags: [person, britain, military, crimean-war, highland-brigade]
 sources:
   - 722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407
-last_updated: 2026-11-12
+  - 723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ Sir Colin Campbell was an experienced British Army officer who commanded the Hig
 
 The source argues that this experience did not overcome class hierarchy. As the son of a Glasgow carpenter, without great wealth or patrons and still formally a colonel, Campbell was not considered for the highest post. He instead received the three Highland regiments of the Highland Brigade, making his case an example of how rank, money, and patronage could separate demonstrated command experience from appointment authority.
 
+[[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] supplies battlefield evidence for that experience. At the Alma, Campbell's Highland regiments maintained discipline under fire and used the new Minié rifle effectively against Russian troops with inferior muskets, helping force the Russian retreat. The episode credits the combination of French flank movement and British rifle fire rather than making Campbell the sole cause of victory.
+
 ## Key Characteristics
 
 - Possessed extensive combat and independent command experience before the Crimean War.
@@ -27,20 +30,23 @@ The source argues that this experience did not overcome class hierarchy. As the 
 - Lacked the wealth, aristocratic origin, and patrons associated with senior appointment.
 - Remained formally a colonel despite his experience.
 - Received command of the three-regiment Highland Brigade rather than the army.
+- Led disciplined, rifle-armed Highland regiments effectively at the Alma.
 
 ## Evidence
 
 - Operational experience - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] emphasizes Campbell’s India and Punjab service.
 - Social constraint - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] identifies his carpenter father, limited money, weak patronage, and rank as barriers to supreme command.
 - Campaign role - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] places him in command of the Highland Brigade beneath [[FitzRoySomerset1stBaronRaglan|Lord Raglan]].
+- Battlefield performance - [[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] links Highland discipline and Minié-rifle fire under Campbell to victory at the Alma.
 
 ## Qualifications
 
-The episode’s class-prejudice explanation is plausible but source-scoped and does not reconstruct the complete appointment process, formal seniority rules, political deliberation, or every candidate. Greater prior experience does not by itself prove how Campbell would have performed as coalition commander.
+The episodes' class-prejudice explanation is plausible but source-scoped and does not reconstruct the complete appointment process, formal seniority rules, political deliberation, or every candidate. Greater prior experience and effective performance at the Alma do not by themselves prove how Campbell would have performed as coalition commander; weapon, unit, terrain, allied, and enemy effects also mattered.
 
 ## What Changed
 
 - Created a disambiguated profile separating the Victorian general from [[ColinCampbell|the modern technology executive of the same name]].
+- Added disciplined Highland Brigade performance and Minié-rifle effectiveness at the Alma.
 
 ## Relationships
 
@@ -48,3 +54,4 @@ The episode’s class-prejudice explanation is plausible but source-scoped and d
 - [[CrimeanWar]] - campaign in which he commanded the Highland Brigade.
 - [[ChargeOfTheLightBrigade]] - later disaster within the same campaign and appointment system, though not his brigade action.
 - [[ColinCampbell]] - unrelated modern technology executive requiring semantic disambiguation.
+- [[BattleOfTheAlma]] - battle where his Highland Brigade helped break the Russian defense.

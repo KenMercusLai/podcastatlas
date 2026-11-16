@@ -4,7 +4,8 @@ type: entity
 tags: [person, britain, military, crimean-war, coalition-command]
 sources:
   - 722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407
-last_updated: 2026-11-12
+  - 723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ FitzRoy Somerset, first Baron Raglan, was the British commander in the opening [
 
 The same career created a command gap. Raglan had not independently commanded an army in the field before his 1854 appointment, and the source contrasts his aristocratic access with [[ColinCampbellBritishArmy|Sir Colin Campbell]]’s deeper independent combat experience. At Constantinople and Varna, Raglan could cooperate with Saint-Arnaud and respond to Ottoman advice, but his handling of the Lucan-Cardigan dispute, Cardigan’s reconnaissance, disease, and the changing objective left diplomatic strength coupled to unresolved operational risk.
 
+[[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] makes that risk operational. Raglan personally selected an undefended landing site but accepted the loss of surprise; at the Alma he issued ambiguous orders and rode beyond easy control, yet his repeated restraint of weakened cavalry was defensible on preservation grounds. The same caution prevented pursuit and helped forfeit the chance to reach weakly defended Sevastopol quickly, after which he concentrated force on the siege while leaving Balaclava thinly protected.
+
 ## Key Characteristics
 
 - Displayed courage, stoicism, and composure in and after the Napoleonic Wars.
@@ -28,6 +31,7 @@ The same career created a command gap. Raglan had not independently commanded an
 - Benefited from aristocratic and institutional access unavailable to more socially marginal officers.
 - Managed cooperation with French and Ottoman leaders without conceding unified French command.
 - Exercised uneven judgment over the divided British cavalry command and Cardigan’s reconnaissance.
+- Combined personal reconnaissance and cavalry preservation with ambiguous battle control, non-pursuit, and an exposed supply-base allocation.
 
 ## Evidence
 
@@ -36,14 +40,16 @@ The same career created a command gap. Raglan had not independently commanded an
 - Independent-command gap - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] states that he had not commanded an army in the field before receiving the eastern command.
 - Appointment hierarchy - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] contrasts his selection with Campbell’s combat experience and social exclusion.
 - Campaign judgment - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] follows Raglan’s responses to the Cardigan-Lucan breach, the reconnaissance losses, Russian withdrawal, and the move toward Crimea.
+- Invasion and siege judgment - [[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] follows the landing choice, Alma command, cavalry restraint, delayed advance, and Balaclava allocation.
 
 ## Qualifications
 
-This profile comes from one narrative episode designed to explain the later Light Brigade disaster. It does not establish that Raglan’s social background alone caused his appointment or that prior independent command would have prevented later failures. Personality judgments, reported dialogue, appointment reasoning, and the allocation of responsibility among ministers, allied commanders, and subordinates remain source-scoped.
+This profile comes from two narrative episodes designed to explain the later Light Brigade disaster. It does not establish that Raglan’s social background alone caused his appointment or that prior independent command would have prevented later failures. The landing, pursuit, and Sevastopol decisions involved real tradeoffs; personality judgments, reported dialogue, counterfactuals, and responsibility among ministers, allied commanders, and subordinates remain source-scoped.
 
 ## What Changed
 
 - Established Raglan as a coalition-capable deputy elevated into independent command despite limited field-command experience.
+- Added the mixed operational record of a safe landing and cavalry preservation followed by confused control, non-pursuit, and vulnerable supply allocation.
 
 ## Relationships
 
@@ -52,3 +58,5 @@ This profile comes from one narrative episode designed to explain the later Ligh
 - [[GeorgeBingham3rdEarlOfLucan]] - cavalry commander whose dispute with Cardigan required Raglan’s supervision.
 - [[JamesBrudenell7thEarlOfCardigan]] - Light Brigade commander whom Raglan authorized, tasked, and promoted during the opening campaign.
 - [[CrimeanWar]] - conflict in which Raglan received his first independent army command.
+- [[BattleOfTheAlma]] - victory where his command position and cavalry restraint remained contested.
+- [[BattleOfBalaclava]] - battle arising around the supply base he left thinly defended.

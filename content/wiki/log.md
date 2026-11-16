@@ -40731,3 +40731,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | 723. The Charge of the Light Brigade: Crushing the Russians (Part 3)
+
+Added a [[TheRestIsHistory]] episode following the Allied Crimean landing through the [[BattleOfTheAlma|Battle of the Alma]], the missed opportunity against Sevastopol, and the opening of the [[BattleOfBalaclava|Battle of Balaclava]]. It adds [[LouisEdwardNolan]] and [[AlexanderSergeyevichMenshikov]] while resynthesizing [[CrimeanWar]], [[ChargeOfTheLightBrigade]], [[FitzRoySomerset1stBaronRaglan]], [[JacquesLeroyDeSaintArnaud]], [[ColinCampbellBritishArmy]], [[GeorgeBingham3rdEarlOfLucan]], and [[JamesBrudenell7thEarlOfCardigan]].
+
+Core synthesis: poor intelligence, transport, disease, divided command, and Russian mistakes shaped the invasion; French flank movement, Highland discipline, and Minié-rifle fire won at the Alma, but delayed exploitation allowed Sevastopol to fortify and turned a raid into a siege dependent on a vulnerable Balaclava corridor. Repeated cavalry restraint may have preserved weakened men and horses while also increasing frustration, reputational pressure, and appetite for decisive action. No settled contradiction is adopted. Force, gun, casualty, timing, weapon, command-motive, and counterfactual claims remain source-scoped because the supplied file is a structured episode summary rather than a transcript or specialist campaign history. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,064 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

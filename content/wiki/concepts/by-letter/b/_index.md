@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11423
+wiki_total_pages: 11425
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "BatterySwapInfrastructure"
     title: "Battery Swap Infrastructure / 换电体系"
     url: "/wiki/concepts/batteryswapinfrastructure/"
+  - key: "BattleOfBalaclava"
+    title: "Battle of Balaclava"
+    url: "/wiki/concepts/battleofbalaclava/"
   - key: "BattleOfBritain"
     title: "Battle of Britain"
     url: "/wiki/concepts/battleofbritain/"
@@ -203,6 +206,9 @@ wiki_pages:
   - key: "BattleOfTannenberg1914"
     title: "Battle of Tannenberg (1914)"
     url: "/wiki/concepts/battleoftannenberg1914/"
+  - key: "BattleOfTheAlma"
+    title: "Battle of the Alma"
+    url: "/wiki/concepts/battleofthealma/"
   - key: "BattleOfThermopylae"
     title: "Battle of Thermopylae"
     url: "/wiki/concepts/battleofthermopylae/"

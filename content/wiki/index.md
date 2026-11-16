@@ -5166,6 +5166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运动员最大的对手，是自己的大脑](sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae.md) — 不合时宜对谈温小倩，讨论长期运动心理保障、最佳表现区间、压力下的心理灵活性、过程注意与协同心理健康干预。
 
 - [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
+- [723. The Charge of the Light Brigade: Crushing the Russians (Part 3)](sources/723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615.md) — The Rest Is History on the Crimean landing, victory at the Alma, failure to exploit Sevastopol, and Balaclava's exposed supply system.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 - [Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live](sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada.md) — Revisionist History live conversation on relationship purposes, interaction-built compatibility, and shared activities as social scaffolding.
@@ -19622,6 +19623,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Brudenell, 7th Earl of Cardigan](entities/JamesBrudenell7thEarlOfCardigan.md) — British Light Brigade commander whose courage and horsemanship coexisted with inexperience, privilege, scandal, and rivalry with Lucan.
 - [George Bingham, 3rd Earl of Lucan](entities/GeorgeBingham3rdEarlOfLucan.md) — British cavalry division commander whose experience and endurance were offset by rigidity, low empathy, and hostility toward Cardigan.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
+- [Louis Edward Nolan](entities/LouisEdwardNolan.md) — Cavalry reformer whose aggressive doctrine and criticism of purchased command intensified pressure before Balaclava.
+- [Alexander Sergeyevich Menshikov](entities/AlexanderSergeyevichMenshikov.md) — Russian commander whose overconfidence and flank misjudgment contributed to defeat at the Alma.
 - [Franz Kafka / 弗兰茨·卡夫卡](entities/FranzKafka.md) — 以《审判》的不透明程序、分散执行和内化服从连接文学与平台治理的作家。
 - [Kafka's The Trial / 卡夫卡《审判》](entities/TheTrialKafka.md) — 通过无明确罪名、责任中心和可理解程序呈现权力如何改造语言、行动与尊严的小说。
 - [Margaret Atwood / 玛格丽特·阿特伍](entities/MargaretAtwood.md) — 通过《盲刺客》的多层叙事、女性创伤、记忆与身份问题进入当前 wiki 的加拿大作家。
@@ -31148,6 +31151,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Academic Evaluation Signal Collapse](concepts/AIAcademicEvaluationSignalCollapse.md) — Loss of signal when research-output volume outgrows qualified review and formal production becomes cheaper than understanding.
 - [Technical-Commercial Closure](concepts/TechnicalCommercialClosure.md) — Mapping from coherent technical capability to an urgent user problem, usable product, business value, and feedback loop.
 - [Charge of the Light Brigade](concepts/ChargeOfTheLightBrigade.md) — Balaclava cavalry disaster understood through interacting command failures, aristocratic military culture, courage, and rapid poetic commemoration.
+- [Battle of the Alma](concepts/BattleOfTheAlma.md) — Allied tactical victory whose incomplete exploitation helped turn the Crimean expedition into a siege.
+- [Battle of Balaclava](concepts/BattleOfBalaclava.md) — Battle over the exposed British supply base, framed by thin defenses, fragile roads, and cavalry command pressure.
 - [Enough-Based Work Exit](concepts/EnoughBasedWorkExit.md) — Household strategy that lowers the work-exit threshold by defining material sufficiency and trading consumption for control of time.
 - [Addiction as Control Strategy](concepts/AddictionAsControlStrategy.md) — Functional account of addiction as a predictable lever for changing internal experience even after pleasure declines.
 - [Radical Surrender in Recovery](concepts/RadicalSurrenderRecovery.md) — Active acceptance of failed control joined to guidance and the next available values-based action.
