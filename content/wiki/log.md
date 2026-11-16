@@ -41930,3 +41930,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | When You Need It To Be True
+
+Added a [[HiddenBrain]] episode placing [[LeonFestinger|Leon Festinger]]'s observation of [[DorothyMartin|Dorothy Martin]]'s failed 1954 prophecy beside Liz's account of a romance scam. Created synthesis-first pages for Martin and [[RomanceScamEntrapment]], and resynthesized Festinger and [[CognitiveDissonanceAndAccommodation]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: disconfirmation does not operate outside identity, hope, and prior commitment. The Seekers repeatedly reinterpreted failed spacecraft arrivals and an absent flood after sacrificing jobs, relationships, and reputation. Liz's account similarly joins perceived understanding, avoided verification, advance-fee requests, friends recast as enemies, partial repayment, crisis explanations, and future planning into a trap where accepting fraud meant losing a relationship narrative as well as recognizing financial loss.
+
+No settled contradiction was adopted. The episode complicates any simple expectation that decisive falsification automatically corrects belief, but two narrative cases do not establish a universal backfire effect, prevalence, or a complete causal model. Martin's motive and mental state, the scammer's verified identity, exact transactions, and clinical effects remain source-scoped because the supplied document is a structured summary rather than primary records or a verbatim transcript.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,150 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

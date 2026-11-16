@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1698
+topic_total_pages: 1701
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2110,6 +2110,9 @@ topic_concepts:
   - key: "RoleAttachmentPowerExit"
     title: "Role Attachment and Power Exit / 权力角色依附与退场"
     url: "/wiki/concepts/roleattachmentpowerexit/"
+  - key: "RomanceScamEntrapment"
+    title: "Romance Scam Entrapment"
+    url: "/wiki/concepts/romancescamentrapment/"
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"
@@ -2999,6 +3002,9 @@ topic_entities:
   - key: "DominicanRepublic"
     title: "Dominican Republic"
     url: "/wiki/entities/dominicanrepublic/"
+  - key: "DorothyMartin"
+    title: "Dorothy Martin"
+    url: "/wiki/entities/dorothymartin/"
   - key: "DrewHaven"
     title: "Drew Haven"
     url: "/wiki/entities/drewhaven/"
@@ -5013,6 +5019,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639"
     title: "When Doing Right Feels Wrong"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+  - key: "defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038"
+    title: "When You Need It To Be True"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038/"
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"

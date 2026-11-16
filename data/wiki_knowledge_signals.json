@@ -60699,9 +60699,9 @@
       "url": "/wiki/concepts/cognitivedifferencereframing/"
     },
     "CognitiveDissonanceAndAccommodation": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
@@ -60716,9 +60716,16 @@
           "show": "Revisionist History",
           "title": "Hitler’s Olympics, Part 1: The Blue-Eyed Tornado",
           "url": "/wiki/sources/hitler-s-olympics-part-1-the-blue-eyed-tornado-hitler-s-olympics-part-1-the-blue-eyed-tornado/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038 [default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038].md",
+          "key": "defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038",
+          "show": "Hidden Brain",
+          "title": "When You Need It To Be True",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/cognitivedissonanceandaccommodation/"
     },
     "CognitiveDiversityAIAdoption": {
@@ -86776,6 +86783,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/dorianyates/"
+    },
+    "DorothyMartin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038 [default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038].md",
+          "key": "defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038",
+          "show": "Hidden Brain",
+          "title": "When You Need It To Be True",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/dorothymartin/"
     },
     "DorothyParker": {
       "episode_count": 1,
@@ -184500,6 +184523,36 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/leolabrown/"
     },
+    "LeonFestinger": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2） [ltTNuxLYpCa4pAFz1MZdR3AizfCV].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv/"
+        },
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038 [default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038].md",
+          "key": "defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038",
+          "show": "Hidden Brain",
+          "title": "When You Need It To Be True",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/leonfestinger/"
+    },
     "LeonardCohen": {
       "episode_count": 2,
       "show_count": 2,
@@ -275728,6 +275781,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/romanceofthethreekingdoms/"
+    },
+    "RomanceScamEntrapment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038 [default.mp3_ywr3ahjkcgo_3bb43a3a1bc3b7d73f72cf6318a8ff07_56990038].md",
+          "key": "defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038",
+          "show": "Hidden Brain",
+          "title": "When You Need It To Be True",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/romancescamentrapment/"
     },
     "RomanticArtistMyth": {
       "episode_count": 2,

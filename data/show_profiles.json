@@ -507,14 +507,14 @@
       "earliest_episode_date": "2020-08-03",
       "latest_episode_date": "2026-11-16",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747 [default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747].md",
-      "source_note_count": 32,
-      "topic_matched_source_note_count": 12,
+      "source_note_count": 33,
+      "topic_matched_source_note_count": 13,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 11
+          "source_note_count": 12
         },
         {
           "key": "technology",

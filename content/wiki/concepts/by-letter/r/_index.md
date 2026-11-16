@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11577
+wiki_total_pages: 11578
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "RomanHellenisticImperialSynthesis"
     title: "Roman-Hellenistic Imperial Synthesis"
     url: "/wiki/concepts/romanhellenisticimperialsynthesis/"
+  - key: "RomanceScamEntrapment"
+    title: "Romance Scam Entrapment"
+    url: "/wiki/concepts/romancescamentrapment/"
   - key: "RomanticArtistMyth"
     title: "Romantic Artist Myth"
     url: "/wiki/concepts/romanticartistmyth/"

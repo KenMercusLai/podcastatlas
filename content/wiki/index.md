@@ -5274,6 +5274,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Putting Our Assumptions to the Test](sources/putting-our-assumptions-to-the-test.md) — Hidden Brain episode on Abhijit Banerjee, randomized field experiments, mechanism learning, and expert uncertainty.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
+- [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 
 ## Entities
 - [Kristin Neff](entities/KristinNeff.md) — Psychologist represented through her three-part self-compassion framework, accountable-care boundary, and practical response to the inner critic.
@@ -19957,6 +19958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 - [Al Levitt](entities/AlLevitt.md) — Aspiring Hollywood screenwriter and wartime film-unit member whose recollection contrasts youthful communist politics with work alongside Ronald Reagan.
 - [First Motion Picture Unit](entities/FirstMotionPictureUnit.md) — Army Air Forces wartime filmmaking unit producing training films and newsreels at the former Hal Roach Studios.
+- [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
 - [Self-Compassion](concepts/SelfCompassion.md) — Practice joining self-kindness, mindful pain recognition, and common humanity with conduct-specific accountability and change.
@@ -31647,5 +31649,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Intervention Mechanism Learning](concepts/InterventionMechanismLearning.md) — Use of intervention results to revise causal explanations while preserving rival-mechanism limits.
 - [Expert Uncertainty Communication](concepts/ExpertUncertaintyCommunication.md) — Practice of binding expert claims to ranges, scope, alternatives, and revision conditions.
+- [Romance Scam Entrapment](concepts/RomanceScamEntrapment.md) — Progressive binding of emotional trust, future hope, isolation, and material investment to a fabricated relationship.
 
 ## Syntheses
