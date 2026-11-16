@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3572
+topic_total_pages: 3575
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4240,6 +4240,9 @@ topic_concepts:
   - key: "SophisticationBasedPrivateMarketAccess"
     title: "Sophistication-Based Private-Market Access"
     url: "/wiki/concepts/sophisticationbasedprivatemarketaccess/"
+  - key: "Sortition"
+    title: "Sortition"
+    url: "/wiki/concepts/sortition/"
   - key: "SouthFloridaTechMigration"
     title: "South Florida Tech Migration"
     url: "/wiki/concepts/southfloridatechmigration/"
@@ -5786,6 +5789,9 @@ topic_entities:
   - key: "ActOfAbjuration"
     title: "Act of Abjuration"
     url: "/wiki/entities/actofabjuration/"
+  - key: "AdamCronkite"
+    title: "Adam Cronkite"
+    url: "/wiki/entities/adamcronkite/"
   - key: "AdamSiegel"
     title: "Adam Siegel"
     url: "/wiki/entities/adamsiegel/"
@@ -10083,6 +10089,9 @@ topic_sources:
   - key: "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7"
     title: "The Mourning Show: The Politics of Khamenei's Funeral"
     url: "/wiki/sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7/"
+  - key: "the-powerball-revolution-the-powerball-revolution"
+    title: "The Powerball Revolution"
+    url: "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
   - key: "the-secret-meeting-that-launched-opec"
     title: "The secret meeting that launched OPEC"
     url: "/wiki/sources/the-secret-meeting-that-launched-opec/"

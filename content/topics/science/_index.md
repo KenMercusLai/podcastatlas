@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1717
+topic_total_pages: 1718
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3419,6 +3419,9 @@ topic_entities:
   - key: "MichaelKilgard"
     title: "Michael Kilgard"
     url: "/wiki/entities/michaelkilgard/"
+  - key: "MichaelLauer"
+    title: "Michael Lauer"
+    url: "/wiki/entities/michaellauer/"
   - key: "MichaelPettit"
     title: "Michael Pettit"
     url: "/wiki/entities/michaelpettit/"

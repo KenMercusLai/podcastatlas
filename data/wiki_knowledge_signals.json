@@ -8994,6 +8994,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/adamalter/"
     },
+    "AdamCronkite": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/adamcronkite/"
+    },
     "AdamCsank": {
       "episode_count": 1,
       "show_count": 1,
@@ -57798,9 +57814,9 @@
       "url": "/wiki/concepts/citizensoldiersymboliclegitimacy/"
     },
     "CitizensAssembly": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
@@ -57808,9 +57824,16 @@
           "show": "Planet Money",
           "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        },
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
         }
       ],
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/citizensassembly/"
     },
     "CityPlacePremium": {
@@ -184144,6 +184167,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/lawrencejpeter/"
     },
+    "LawrencevilleSchool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/lawrencevilleschool/"
+    },
     "LawsonRetail": {
       "episode_count": 1,
       "show_count": 1,
@@ -216789,6 +216828,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/michaelkratsios/"
     },
+    "MichaelLauer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/michaellauer/"
+    },
     "MichaelLewisAuthor": {
       "episode_count": 1,
       "show_count": 1,
@@ -227362,9 +227417,9 @@
       "url": "/wiki/entities/nationalfascisti/"
     },
     "NationalInstitutesOfHealth": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -227393,9 +227448,16 @@
           "show": "Huberman Lab",
           "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
           "url": "/wiki/sources/scim5646582763-scim5646582763/"
+        },
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/nationalinstitutesofhealth/"
     },
     "NationalOceanicAndAtmosphericAdministration": {
@@ -256496,6 +256558,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/predictivehomeostaticcontrol/"
     },
+    "PredictiveSelectionLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/predictiveselectionlimits/"
+    },
     "PredictiveWorldModelAnxiety": {
       "episode_count": 1,
       "show_count": 1,
@@ -264242,6 +264320,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/qualcomm/"
+    },
+    "QualifiedPoolLottery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/qualifiedpoollottery/"
     },
     "QualityValueInvesting": {
       "episode_count": 1,
@@ -297887,6 +297981,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/sorenessrecoveryboundary/"
+    },
+    "Sortition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Powerball_Revolution [The_Powerball_Revolution].md",
+          "key": "the-powerball-revolution-the-powerball-revolution",
+          "show": "Revisionist History",
+          "title": "The Powerball Revolution",
+          "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/sortition/"
     },
     "SoulPhantomBlade": {
       "episode_count": 1,

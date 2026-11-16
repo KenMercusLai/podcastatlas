@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11636
+wiki_total_pages: 11639
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2000,6 +2000,9 @@ wiki_pages:
   - key: "PredictiveModelValidation"
     title: "Predictive Model Validation"
     url: "/wiki/concepts/predictivemodelvalidation/"
+  - key: "PredictiveSelectionLimits"
+    title: "Predictive Selection Limits"
+    url: "/wiki/concepts/predictiveselectionlimits/"
   - key: "PredictiveWorldModelAnxiety"
     title: "Predictive World-Model Anxiety / 预测世界模型焦虑"
     url: "/wiki/concepts/predictiveworldmodelanxiety/"

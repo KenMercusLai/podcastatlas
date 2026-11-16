@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11636
+wiki_total_pages: 11639
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "SorenessRecoveryBoundary"
     title: "Soreness-Recovery Boundary"
     url: "/wiki/concepts/sorenessrecoveryboundary/"
+  - key: "Sortition"
+    title: "Sortition"
+    url: "/wiki/concepts/sortition/"
   - key: "SoundBasedStateRegulation"
     title: "Sound-Based State Regulation"
     url: "/wiki/concepts/soundbasedstateregulation/"

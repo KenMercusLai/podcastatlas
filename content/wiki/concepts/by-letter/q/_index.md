@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 11636
+wiki_total_pages: 11639
 wiki_pages:
   - key: "QatariSmallStateSecurityStrategy"
     title: "Qatari Small-State Security Strategy"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "QuakerInwardEquality"
     title: "Quaker Inward Equality"
     url: "/wiki/concepts/quakerinwardequality/"
+  - key: "QualifiedPoolLottery"
+    title: "Qualified-Pool Lottery"
+    url: "/wiki/concepts/qualifiedpoollottery/"
   - key: "QualityLowPriceReasonedPremium"
     title: "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价"
     url: "/wiki/concepts/qualitylowpricereasonedpremium/"

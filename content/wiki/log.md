@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-17] ingest | The Powerball Revolution
+
+Added a [[RevisionistHistory]] episode connecting [[AdamCronkite]]'s Bolivian student-council experiments, [[MichaelLauer]]'s reported NIH grant-score analysis, and a [[LawrencevilleSchool]] workshop. Created synthesis-first pages for those three entities plus [[Sortition]], [[QualifiedPoolLottery]], and [[PredictiveSelectionLimits]], then resynthesized [[CitizensAssembly]] and [[NationalInstitutesOfHealth]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: elections and expert rankings can reward visible selection performance without reliably predicting later governing or research performance. A qualified-pool lottery retains a defensible threshold while acknowledging uncertainty among acceptable options, but the source does not establish that lotteries are universally superior or that citation impact exhausts scientific value.
+
+No settled contradiction was adopted. Participation, council output, leadership anecdotes, NIH analysis design, and long-term accountability remain source-scoped because the supplied file is a structured summary rather than a transcript or the underlying studies. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
 ## [2026-11-17] ingest | May the Best Firebomb Win
 
 Added a [[RevisionistHistory]] episode reconstructing napalm's development from gel chemistry and improvised prototypes through competitive trials, the M69 bomb, and reconstructed Japanese and German housing at Dugway. Created synthesis-first profiles for [[HoytHottel]] and [[EBHirschberg|E. B. Hirschberg]], plus [[TechnicalOptimizationMoralAbstraction]], then resynthesized [[LouisFieser]], [[CurtisLeMay]], and [[NapalmWarfare]] from their complete preserved evidence inventories before appending the new source once.
@@ -42310,6 +42318,10 @@ Core synthesis: precision bombing was not one proposition but a chain from aircr
 No settled contradiction was adopted. The Saint-Nazaire result does not establish general precision feasibility, and biographical memories, lecture calculations, institutional counts, anti-aircraft probabilities, mission results, B-29 performance, motives, and aesthetic reactions remain episode-scoped because the supplied file is a structured summary rather than a transcript, doctrine archive, or comparative campaign history. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,178 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

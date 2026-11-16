@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Powerball Revolution](sources/the-powerball-revolution-the-powerball-revolution.md) — Revisionist History connects Bolivian student-council lotteries, weak leadership prediction, NIH grant-score calibration, and threshold-then-lottery institutional design.
 - [The Bomber Mafia](sources/the-bomber-mafia-the-bomber-mafia.md) — Revisionist History introduces the precision-bombing doctrine, LeMay's evidence-led command, the B-29 promise, and the risk that technological mastery narrows moral judgment.
 - [May the Best Firebomb Win](sources/may-the-best-firebomb-win-may-the-best-firebomb-win.md) — Revisionist History reconstructs napalm's formulation, competitive testing, and pressure on precision-bombing doctrine while exposing the moral abstraction of technical optimization.
 - [Bombs Away LeMay](sources/bombs-away-lemay-bombs-away-lemay.md) — Revisionist History traces how the jet stream, failed precision bombing, command pressure, and LeMay's action bias led to low-altitude incendiary attacks on Japanese cities.
@@ -5305,6 +5306,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
 
 ## Entities
+- [Adam Cronkite](entities/AdamCronkite.md) — Organizer of Bolivian student-council lottery experiments testing participation, representation, and hidden leadership.
+- [Michael Lauer](entities/MichaelLauer.md) — NIH official whose grant-score analysis motivates humility about ranking fundable research.
+- [The Lawrenceville School](entities/LawrencevilleSchool.md) — Student workshop test case for election legitimacy and qualified-pool lotteries.
 - [Hoyt Hottel](entities/HoytHottel.md) — MIT combustion specialist who organized the wartime incendiary competition and building-scale tests that validated napalm.
 - [E. B. Hirschberg](entities/EBHirschberg.md) — Experimental chemist and engineer who helped formulate napalm and designed its explosive dispersal device.
 - [Albert O. Hirschman](entities/AlbertOHirschman.md) — economist invoked as a source for action under irreducible uncertainty.
@@ -20038,6 +20042,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 
 ## Concepts
+- [Sortition](concepts/Sortition.md) — Selection by lot as a way to broaden entry and reduce dependence on campaign performance.
+- [Qualified-Pool Lottery](concepts/QualifiedPoolLottery.md) — Two-stage design that screens for minimum quality and randomizes among acceptable options.
+- [Predictive Selection Limits](concepts/PredictiveSelectionLimits.md) — Gap between visible selection signals and later performance in leadership, research, or admissions.
 - [Bomber Mafia Precision Doctrine](concepts/BomberMafiaPrecisionDoctrine.md) — Critical-node air-power theory decomposed across reach, accuracy, system disruption, civilian pressure, and political surrender.
 - [Technical Optimization as Moral Abstraction](concepts/TechnicalOptimizationMoralAbstraction.md) — Separation of measurable system performance from the human meaning of the outcome being optimized.
 - [Hiring Nihilism](concepts/HiringNihilism.md) — bounded skepticism about the predictive authority of résumés, interviews, and promotion rituals.

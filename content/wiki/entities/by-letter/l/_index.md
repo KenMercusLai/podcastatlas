@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14637
+wiki_total_pages: 14640
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "LiTzarKai"
     title: "Richard Li Tzar-kai / 李澤楷"
     url: "/wiki/entities/litzarkai/"
+  - key: "LawrencevilleSchool"
+    title: "The Lawrenceville School"
+    url: "/wiki/entities/lawrencevilleschool/"
   - key: "LiaofanSixun"
     title: "《了凡四训》 / Liaofan Sixun"
     url: "/wiki/entities/liaofansixun/"
