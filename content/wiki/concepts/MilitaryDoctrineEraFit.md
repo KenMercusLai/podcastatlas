@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7
   - zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3
   - zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9
-last_updated: 2026-10-06
+  - goodbye-farewell-and-amen-goodbye-farewell-and-amen
+last_updated: 2026-11-17
 ---
 
 ## Definition
@@ -19,17 +20,19 @@ last_updated: 2026-10-06
 
 [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]] develops this principle through cavalry. The episode describes [[SunBinBingfa|《孙膑兵法》]] as reflecting an earlier environment in which mounted troops supported chariot and infantry warfare by seizing crossings, breaking supply lines, burning grain, and raiding agricultural territory. It then contrasts that environment with [[HuoQubing|霍去病]]'s long-range operations against [[Xiongnu|匈奴]], where cavalry could no longer be treated merely as an accessory. [[zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7|Hanji 327-2]] adds Huo's reported refusal to be constrained by ancient military texts and uses the 121 BCE Hexi campaign's claimed speed and reach as the practical test.
 
-The durable claim is not that older texts are useless. It is that tactical prescriptions are conditional knowledge: their authority depends on whether the underlying battlefield system still exists. Hanji 328-1 credits [[WeiQingHanGeneral|卫青]] with a five-part mounted organization, while Hanji 327-2 contrasts a Sunzi long-distance pursuit warning with source-reported cavalry tempo. [[zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9|Hanji 307-1]] adds that tempo can have a political complement: penetration, separation, local replenishment, and conditional surrender reduce the need to treat the opposing field as one main army. [[zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3|Hanji 326-1]] then adds the [[MobeiBattleWesternHan|Mobei]] test: Huo's direct mounted attack and long pursuit produce strategic effect, but the reported loss of most campaign horses limits continuation. Adaptation is therefore not freedom from logistics; a method can fit the battlefield and still consume soldiers, supplies, and mobility.
+The durable claim is not that older texts are useless. It is that tactical prescriptions are conditional knowledge: their authority depends on whether the underlying battlefield system still exists. Hanji 328-1 credits [[WeiQingHanGeneral|卫青]] with a five-part mounted organization, while Hanji 327-2 contrasts a Sunzi long-distance pursuit warning with source-reported cavalry tempo. [[zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9|Hanji 307-1]] adds that tempo can have a political complement: penetration, separation, local replenishment, and conditional surrender reduce the need to treat the opposing field as one main army. [[zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3|Hanji 326-1]] then adds the [[MobeiBattleWesternHan|Mobei]] test: Huo's direct mounted attack and long pursuit produce strategic effect, but the reported loss of most campaign horses limits continuation.
+
+[[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] broadens the concept from inherited texts to a commander's own successful experience. [[CurtisLeMay]] treated overwhelming incendiary air power as an answer across Japan, Korea, and Vietnam, but the episode argues that Vietnam's guerrilla and political conditions broke the assumed path from bombing to surrender. Adaptation is therefore not freedom from logistics or attachment: a method can fit one battlefield, consume the capacity needed to repeat it, or become a cognitive default after the system around it has changed.
 
 ## Key Claims
 
-- Military doctrine encodes assumptions about available arms, unit roles, terrain, enemies, supply, and communication.
-- A tactic can remain intelligible as historical knowledge while becoming unsuitable as a direct operating instruction.
-- Cavalry's shift from auxiliary mobility to independent long-range and decisive action changes what commanders can learn by literal imitation of older texts.
-- Operational adaptation can combine movement with political separation and conditional surrender rather than seeking only one main-force battle.
-- Adaptation requires organizational design and experienced instruction, not only a commander's willingness to reject tradition.
-- Battlefield success can challenge a doctrine's direct transfer, but it does not by itself prove that an entire text or tradition has become obsolete.
-- A doctrine can be operationally effective yet strategically self-limiting when horse, supply, or replacement losses prevent repetition.
+- Military doctrine encodes assumptions about arms, force structure, terrain, enemies, supply, communication, and political objectives.
+- A tactic can remain intelligible as historical knowledge while becoming unsuitable as direct operating instruction under changed conditions.
+- Cavalry's shift from auxiliary mobility to independent long-range action changes what commanders can learn by literal imitation of older texts.
+- Operational adaptation can join movement to political separation and conditional surrender rather than seeking only one main-force battle.
+- Adaptation requires organization, logistics, and instruction, not only willingness to reject tradition.
+- Success can harden a once-adaptive method into a default doctrine transferred beyond its valid conditions.
+- Destructive or battlefield effectiveness does not establish repeatability or a mechanism for political victory.
 
 ## Evidence
 
@@ -45,17 +48,23 @@ Later operational adaptation:
 - [[zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9|Hanji 307-1]] connects the first campaign's high tempo to penetration, separation of local groups, campaign replenishment, and conditional surrender, while leaving their exact mechanics source-scoped.
 
 Success and resource limit:
+
 - [[zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3|Hanji 326-1]] contrasts Wei Qing's formation-centered approach with Huo's surprise, direct shock, and pursuit in the Mobei campaign.
 - [[zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3|Hanji 326-1]] pairs the reported victory with severe horse loss, showing that battlefield fit does not remove the replacement and continuation problem.
 
+Cross-war transfer and political effect:
+
+- [[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] contrasts the claimed coercive success of bombing Japan with the destruction of Korea and failure of air power to compel victory in Vietnam.
+- [[goodbye-farewell-and-amen-goodbye-farewell-and-amen]] presents LeMay's attachment to aircraft and military hardware as part of his difficulty moving beyond a favored solution.
+
 ## Counterevidence & Qualifications
 
-None of the four sources supplies a full comparative military study. Hanji 328-1 does not reproduce the relevant passages from *Sun Bin's Art of War*, identify every formation text behind the Wei Qing claim, or trace cavalry's gradual and regionally uneven development across the Warring States, Qin, and Han. Hanji 327-2 does not reconstruct routes or logistics, verify its troop, casualty, distance, or daily-march figures, or show that one long-distance Sunzi warning was intended as an unconditional rule for every force type. Hanji 307-1 does not establish its route, force and loss totals, six-day distance, local-group identities, replenishment mechanics, surrender terms, or inferred Zhang Qian consultation. Hanji 326-1's direct-versus-formation contrast is stylized, and its route, result, and horse-loss figures remain episode-attributed. “时代变了,” “孙武兵法已经落后,” “横扫匈奴,” and “硬冲” are host rhetoric; the durable conclusion is conditional transfer under material and political limits, not dismissal of the whole tradition.
+None of the five sources supplies a full comparative military study. Hanji 328-1 does not reproduce the relevant passages from *Sun Bin's Art of War*, identify every formation text behind the Wei Qing claim, or trace cavalry's gradual and regionally uneven development across the Warring States, Qin, and Han. Hanji 327-2 does not reconstruct routes or logistics, verify its troop, casualty, distance, or daily-march figures, or show that one long-distance Sunzi warning was intended as an unconditional rule for every force type. Hanji 307-1 does not establish its route, force and loss totals, six-day distance, local-group identities, replenishment mechanics, surrender terms, or inferred Zhang Qian consultation. Hanji 326-1's direct-versus-formation contrast is stylized, and its route, result, and horse-loss figures remain episode-attributed. The LeMay episode does not independently establish the relative strategic effects, alternatives, or casualty counterfactuals for Japan, Korea, and Vietnam. “时代变了,” “孙武兵法已经落后,” “横扫匈奴,” and “硬冲” are host rhetoric; the durable conclusion is conditional transfer under material and political limits, not dismissal of an entire tradition or proof that one failed war invalidates every use of air power.
 
 ## What Changed
 
-- Added first-Hexi political disaggregation and conditional surrender to the existing cavalry-adaptation model.
-- Made campaign replenishment and severe claimed personnel loss explicit limits alongside remount attrition.
+- Extended era fit from inherited textual doctrine to methods hardened by a commander's own earlier success.
+- Added the requirement that destructive military effect connect to an achievable political outcome.
 
 ## Related Concepts
 
@@ -66,3 +75,5 @@ None of the four sources supplies a full comparative military study. Hanji 328-1
 - [[FirstHexiCampaignWesternHan|第一次河西之战]] - case joining mounted tempo to separation, conditional surrender, and unresolved logistics.
 - [[SunBinBingfa|《孙膑兵法》]] - inherited text whose cavalry prescriptions are treated as historically situated rather than universally executable.
 - [[SunziBingfa|《孙子兵法》]] - inherited text whose long-distance pursuit warning is used to test, but not negate, conditional applicability.
+- [[OverwhelmingForceCasualtyLogic]] - LeMay doctrine whose transfer depends on uncertain coercion and casualty forecasts.
+- [[NapalmWarfare]] - cross-conflict case separating technical destruction from strategic and political success.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14633
+wiki_total_pages: 14635
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "LouisEdwardNolan"
     title: "Louis Edward Nolan"
     url: "/wiki/entities/louisedwardnolan/"
+  - key: "LouisFieser"
+    title: "Louis Fieser"
+    url: "/wiki/entities/louisfieser/"
   - key: "LouisHong"
     title: "Louis Hong / 洪力德"
     url: "/wiki/entities/louishong/"

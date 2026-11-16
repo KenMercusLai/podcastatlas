@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11629
+wiki_total_pages: 11632
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "NamingSystemsAsSocialInstitutions"
     title: "Naming Systems as Social Institutions / 姓名制度作为社会制度"
     url: "/wiki/concepts/namingsystemsassocialinstitutions/"
+  - key: "NapalmWarfare"
+    title: "Napalm Warfare"
+    url: "/wiki/concepts/napalmwarfare/"
   - key: "NarcissisticRelationalControl"
     title: "Narcissistic Relational Control / 自恋式关系控制"
     url: "/wiki/concepts/narcissisticrelationalcontrol/"

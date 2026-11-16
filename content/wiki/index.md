@@ -5299,6 +5299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You, But Better](sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835.md) — Hidden Brain and Katy Milkman connect obstacle diagnosis, temptation bundling, fresh starts, feedback, deadlines, defaults, and commitment devices to practical behavior change.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 - [You 2.0: Our Pursuit of Happiness](sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002.md) — Hidden Brain and Emily Balcetis connect narrow targets, materialized intentions, visual choice design, obstacle rehearsal, and wide-bracket review to goal pursuit.
+- [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
 
 ## Entities
 - [Albert O. Hirschman](entities/AlbertOHirschman.md) — economist invoked as a source for action under irreducible uncertainty.
@@ -20028,6 +20029,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 - [Katy Milkman](entities/KatyMilkman.md) — Behavioral scientist matching enjoyment, feedback, timing, friction, and future-self obstacles with proportionate behavior-change tools.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
+- [Louis Fieser](entities/LouisFieser.md) — Harvard chemist presented as a napalm co-inventor who later urged an international prohibition on the weapon.
+- [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 
 ## Concepts
 - [Hiring Nihilism](concepts/HiringNihilism.md) — bounded skepticism about the predictive authority of résumés, interviews, and promotion rituals.
@@ -31770,5 +31773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behavior Change Obstacle Matching](concepts/BehaviorChangeObstacleMatching.md) — Diagnostic practice of selecting a behavior-change tool for the specific barrier blocking action.
 - [Goal Materialization](concepts/GoalMaterialization.md) — Conversion of a distant or hidden intention into a visible representation tied to present action or review.
 - [Wide-Bracket Goal Review](concepts/WideBracketGoalReview.md) — Broad review across life domains or time periods that reveals priorities, trade-offs, and cumulative progress.
+- [Napalm Warfare](concepts/NapalmWarfare.md) — Cross-conflict pattern of incendiary target expansion, normalization, strategic carryover, civilian harm, and contested memory.
+- [Institutional Forgetting by Omission](concepts/InstitutionalForgettingByOmission.md) — Loss of public responsibility when institutions or narratives omit origins, actors, victims, or causal links without explicit denial.
+- [Overwhelming Force Casualty Logic](concepts/OverwhelmingForceCasualtyLogic.md) — Claim that extreme force applied early can shorten war and reduce total deaths despite uncertain coercion and casualty forecasts.
 
 ## Syntheses

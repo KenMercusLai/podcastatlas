@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11629
+wiki_total_pages: 11632
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "InstitutionalFailureOwnership"
     title: "Institutional Failure Ownership"
     url: "/wiki/concepts/institutionalfailureownership/"
+  - key: "InstitutionalForgettingByOmission"
+    title: "Institutional Forgetting by Omission"
+    url: "/wiki/concepts/institutionalforgettingbyomission/"
   - key: "InstitutionalInformationAdvantage"
     title: "Institutional Information Advantage / 机构信息优势"
     url: "/wiki/concepts/institutionalinformationadvantage/"

@@ -67127,9 +67127,9 @@
       "url": "/wiki/concepts/contextualmonarchicalsuccess/"
     },
     "ContextualMoralJudgment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell_and_Adam_Grant [Malcolm_Gladwell_and_Adam_Grant].md",
@@ -67137,6 +67137,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell and Adam Grant",
           "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        },
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
         }
       ],
       "updated": "2026-11-17",
@@ -73316,9 +73323,9 @@
       "url": "/wiki/concepts/cursushonorum/"
     },
     "CurtisLeMay": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8855008412 [GLT8855008412].md",
@@ -73333,6 +73340,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell and Adam Grant",
           "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        },
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
         }
       ],
       "updated": "2026-11-17",
@@ -161153,6 +161167,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/institutionalfailurepunitivefantasy/"
     },
+    "InstitutionalForgettingByOmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/institutionalforgettingbyomission/"
+    },
     "InstitutionalInnovationAdoptionResistance": {
       "episode_count": 2,
       "show_count": 1,
@@ -199483,6 +199513,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/louisedwardnolan/"
     },
+    "LouisFieser": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/louisfieser/"
+    },
     "LouisLePrince": {
       "episode_count": 1,
       "show_count": 1,
@@ -203814,6 +203860,22 @@
       ],
       "updated": "2026-11-13",
       "url": "/wiki/concepts/magacoalitionfracture/"
+    },
+    "MASHTelevisionSeries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/mashtelevisionseries/"
     },
     "MDMA": {
       "episode_count": 4,
@@ -218054,9 +218116,9 @@
       "url": "/wiki/concepts/militarydisastermemory/"
     },
     "MilitaryDoctrineEraFit": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
@@ -218085,9 +218147,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
+        },
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/militarydoctrineerafit/"
     },
     "MilitaryFinanceCorruption": {
@@ -226203,6 +226272,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/naomirothman/"
+    },
+    "NapalmWarfare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/napalmwarfare/"
     },
     "NapoleonBonaparte": {
       "episode_count": 9,
@@ -240075,6 +240160,22 @@
       "updated": "2026-11-07",
       "url": "/wiki/entities/overturesupersonicairliner/"
     },
+    "OverwhelmingForceCasualtyLogic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/overwhelmingforcecasualtylogic/"
+    },
     "OwainGlyndwr": {
       "episode_count": 3,
       "show_count": 1,
@@ -252983,9 +253084,9 @@
       "url": "/wiki/concepts/popularcounterrevolution/"
     },
     "PopularCultureHistoricalMemory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3026558838 [GLT3026558838].md",
@@ -252993,9 +253094,16 @@
           "show": "The Rest Is History",
           "title": "5. 1981",
           "url": "/wiki/sources/5-1981-glt3026558838/"
+        },
+        {
+          "episode_file": "Goodbye,_Farewell_and_Amen [Goodbye,_Farewell_and_Amen].md",
+          "key": "goodbye-farewell-and-amen-goodbye-farewell-and-amen",
+          "show": "Revisionist History",
+          "title": "Goodbye, Farewell and Amen",
+          "url": "/wiki/sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/popularculturehistoricalmemory/"
     },
     "PopularMusicAsCulturalTransmission": {

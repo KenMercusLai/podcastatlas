@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11629
+wiki_total_pages: 11632
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "OverseasWarehouseInventoryRisk"
     title: "Overseas Warehouse Inventory Risk / 海外仓库存风险"
     url: "/wiki/concepts/overseaswarehouseinventoryrisk/"
+  - key: "OverwhelmingForceCasualtyLogic"
+    title: "Overwhelming Force Casualty Logic"
+    url: "/wiki/concepts/overwhelmingforcecasualtylogic/"
   - key: "OfficialMourningDutyConflict"
     title: "丁忧任职冲突 / Official Mourning Duty Conflict"
     url: "/wiki/concepts/officialmourningdutyconflict/"

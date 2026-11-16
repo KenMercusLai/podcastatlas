@@ -42260,3 +42260,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Goodbye, Farewell and Amen
+
+Added a [[RevisionistHistory]] episode following [[NapalmWarfare|napalm warfare]] from Japan through Korea and Vietnam while contrasting military counterfactuals with civilian testimony. Created focused synthesis-first pages for [[LouisFieser]], [[MASHTelevisionSeries|M*A*S*H]], napalm warfare, [[InstitutionalForgettingByOmission]], and [[OverwhelmingForceCasualtyLogic]], then resynthesized [[CurtisLeMay]], [[ContextualMoralJudgment]], [[MilitaryDoctrineEraFit]], and [[PopularCultureHistoricalMemory]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: an argument that extreme early force prevents longer war can be morally serious without being reliable, because it depends on uncertain coercion and casualty forecasts. LeMay's transfer of incendiary air-power logic across strategically different wars shows how earlier success can harden into doctrine, while Harvard's missing commemoration and the unidentified attacker in the *M*A*S*H* finale show how omission can redistribute agency and victimhood without explicit denial.
+
+No settled contradiction was adopted. The episode's avoided-invasion, partition, starvation, and shorter-war claims remain unresolved counterfactuals; the *M*A*S*H* disagreement is preserved as a tension between universal anti-war storytelling and specific historical responsibility. Casualty totals, strategic effects, institutional motives, and North Korean deterrence causation remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival campaign history, or systematic causal study. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,175 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
