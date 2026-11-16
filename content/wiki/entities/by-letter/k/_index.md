@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14586
+wiki_total_pages: 14587
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "KristinMcLean"
     title: "Kristin McLean"
     url: "/wiki/entities/kristinmclean/"
+  - key: "KristinNeff"
+    title: "Kristin Neff"
+    url: "/wiki/entities/kristinneff/"
   - key: "KristinSchwab"
     title: "Kristin Schwab"
     url: "/wiki/entities/kristinschwab/"

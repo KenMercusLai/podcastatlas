@@ -179677,6 +179677,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/kristallnacht/"
     },
+    "KristinNeff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e2a27d7d88294ddcadb978f863b0d5c9_49827469 [default.mp3_ywr3ahjkcgo_e2a27d7d88294ddcadb978f863b0d5c9_49827469].md",
+          "key": "default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469",
+          "show": "Hidden Brain",
+          "title": "Being Kind to Yourself",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/kristinneff/"
+    },
     "KrugerNationalPark": {
       "episode_count": 1,
       "show_count": 1,
@@ -283745,6 +283761,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/selfcommodificationthroughwork/"
+    },
+    "SelfCompassion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e2a27d7d88294ddcadb978f863b0d5c9_49827469 [default.mp3_ywr3ahjkcgo_e2a27d7d88294ddcadb978f863b0d5c9_49827469].md",
+          "key": "default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469",
+          "show": "Hidden Brain",
+          "title": "Being Kind to Yourself",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/selfcompassion/"
     },
     "SelfConceptPlasticity": {
       "episode_count": 1,

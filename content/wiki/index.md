@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Being Kind to Yourself](sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469.md) — Hidden Brain and Kristin Neff connect self-kindness, mindfulness, common humanity, protective self-criticism, and shame-safe accountability with explicit evidence limits.
 - [Teaser: The Compromises of Al Levitt](sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt.md) — Revisionist History teaser on Al Levitt's interrupted screenwriting path, wartime film service, and dismissive recollection of Ronald Reagan at the First Motion Picture Unit.
 - [Teaser: Pushkin’s Dirty Laundry](sources/teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry.md) — Revisionist History teaser on internal detergent backlash, disputed corporate environmental claims, ethical consumption, and lifestyle stereotypes.
 - [Work 2.0: Life, Interrupted](sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712.md) — Hidden Brain and Cal Newport connect attention residue, role-specific deep work, negotiated availability, visible busyness, working-memory interruption research, and the risk that efficiency becomes more work.
@@ -5275,6 +5276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Kristin Neff](entities/KristinNeff.md) — Psychologist represented through her three-part self-compassion framework, accountable-care boundary, and practical response to the inner critic.
 - [Brendan Francis Newnam](entities/BrendanFrancisNewnam.md) — Pushkin executive defending Ecover and challenging the evidence and stereotypes behind an earlier detergent judgment.
 - [Lital Molad](entities/LitalMolad.md) — Pushkin content executive whose sponsorship question prompts scrutiny of extensive favorable corporate coverage.
 - [Ecover](entities/Ecover.md) — Detergent company defended through disputed labor, environmental, supply-chain, and product-performance claims.
@@ -19957,6 +19959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [First Motion Picture Unit](entities/FirstMotionPictureUnit.md) — Army Air Forces wartime filmmaking unit producing training films and newsreels at the former Hal Roach Studios.
 
 ## Concepts
+- [Self-Compassion](concepts/SelfCompassion.md) — Practice joining self-kindness, mindful pain recognition, and common humanity with conduct-specific accountability and change.
 - [Ethical Consumer Choice Evaluation](concepts/EthicalConsumerChoiceEvaluation.md) — Multi-criterion product comparison that separates performance, corporate conduct, environmental scope, evidence quality, and consumer stereotypes.
 - [Transcranial Direct-Current Stimulation Research Boundary](concepts/TranscranialDirectCurrentStimulationResearchBoundary.md) — Boundary between a temporary laboratory probe and an established everyday cognitive enhancement.
 - [Constructive Rebellion](concepts/ConstructiveRebellion.md) — Purposeful challenge to conventions joined to competence, ethical limits, shared purpose, and explicit compliance zones.

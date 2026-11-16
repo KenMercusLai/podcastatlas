@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11576
+wiki_total_pages: 11577
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "SelfCommodificationThroughWork"
     title: "Self-Commodification Through Work / 劳动中的自我商品化"
     url: "/wiki/concepts/selfcommodificationthroughwork/"
+  - key: "SelfCompassion"
+    title: "Self-Compassion"
+    url: "/wiki/concepts/selfcompassion/"
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"

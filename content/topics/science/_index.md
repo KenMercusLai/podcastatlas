@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1695
+topic_total_pages: 1698
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2215,6 +2215,9 @@ topic_concepts:
   - key: "SelfAttachmentBelonging"
     title: "Self-Attachment and Belonging / 自我依恋与归属"
     url: "/wiki/concepts/selfattachmentbelonging/"
+  - key: "SelfCompassion"
+    title: "Self-Compassion"
+    url: "/wiki/concepts/selfcompassion/"
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
@@ -3272,6 +3275,9 @@ topic_entities:
   - key: "KonstantinaStankovic"
     title: "Konstantina Stankovic"
     url: "/wiki/entities/konstantinastankovic/"
+  - key: "KristinNeff"
+    title: "Kristin Neff"
+    url: "/wiki/entities/kristinneff/"
   - key: "KurtStenn"
     title: "Kurt Stenn / 库尔特·斯坦"
     url: "/wiki/entities/kurtstenn/"
@@ -4173,6 +4179,9 @@ topic_sources:
   - key: "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
     title: "As space launches increase, there aren't enough spaceports"
     url: "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469"
+    title: "Being Kind to Yourself"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469/"
   - key: "socialradarss2-billclerico-final"
     title: "Bill Clerico on WePay, YC, and Fire Tech"
     url: "/wiki/sources/socialradarss2-billclerico-final/"
