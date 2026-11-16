@@ -85281,6 +85281,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ShockleySemiconductorLaboratory": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Shodan": [
     {
       "key": "technology",
@@ -95056,6 +95063,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "TraitorousEight": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TransEurasianMigrationCascade": [
     {
       "key": "history",
@@ -100267,6 +100286,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WilliamShockley": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "WilliamSomersetMaugham": [
@@ -113081,6 +113107,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "silicon-valley-on-the-couch": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62": [

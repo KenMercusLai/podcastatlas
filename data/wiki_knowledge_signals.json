@@ -48191,9 +48191,9 @@
       "url": "/wiki/entities/chanzuckerberginitiative/"
     },
     "ChanceSensitiveCausality": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697 [default.mp3_ywr3ahjkcgo_0a3c8347ab08972a4dce8dba455358cf_53039697].md",
@@ -48201,6 +48201,13 @@
           "show": "Hidden Brain",
           "title": "Fluke: How Chance and Chaos Shape Our Lives",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697/"
+        },
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
         }
       ],
       "updated": "2026-11-16",
@@ -114713,6 +114720,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/founderpressurecompartmentalization/"
+    },
+    "FounderPsychologyOperationalRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-DrewHouston-v5 [TSR-S4-DrewHouston-v5].md",
+          "key": "tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5",
+          "show": "The Social Radars",
+          "title": "Drew Houston on Dropbox: Origin, Survival, and Reinvention",
+          "url": "/wiki/sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5/"
+        },
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/founderpsychologyoperationalrisk/"
     },
     "FounderResilience": {
       "episode_count": 6,
@@ -207068,6 +207098,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/may1968france/"
     },
+    "MayBradfordShockley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/maybradfordshockley/"
+    },
     "MayaActive": {
       "episode_count": 1,
       "show_count": 1,
@@ -284461,6 +284507,22 @@
       "updated": "2026-11-13",
       "url": "/wiki/concepts/shockreadystrategicresilience/"
     },
+    "ShockleySemiconductorLaboratory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/shockleysemiconductorlaboratory/"
+    },
     "ShoppingCenterRestaurantization": {
       "episode_count": 4,
       "show_count": 2,
@@ -285607,9 +285669,9 @@
       "url": "/wiki/entities/silixiaoweiwesternhan/"
     },
     "SiliconValleyInnovationSystem": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5734449332 [GLT5734449332].md",
@@ -285624,9 +285686,16 @@
           "show": "The Rest Is History",
           "title": "61. California",
           "url": "/wiki/sources/61-california-glt2438679240/"
+        },
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/siliconvalleyinnovationsystem/"
     },
     "SimaHuiLateHan": {
@@ -314270,6 +314339,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/trainingstressrecoverycontinuum/"
     },
+    "TraitorousEight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/traitorouseight/"
+    },
     "TransEurasianMigrationCascade": {
       "episode_count": 4,
       "show_count": 1,
@@ -332581,6 +332666,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/williamsheppard/"
+    },
+    "WilliamShockley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Silicon_Valley_on_the_Couch [Silicon_Valley_on_the_Couch].md",
+          "key": "silicon-valley-on-the-couch",
+          "show": "Revisionist History",
+          "title": "Silicon Valley on the Couch",
+          "url": "/wiki/sources/silicon-valley-on-the-couch/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/williamshockley/"
     },
     "WilliamSlim": {
       "episode_count": 1,

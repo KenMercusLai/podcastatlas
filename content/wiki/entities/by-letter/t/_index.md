@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14437
+wiki_total_pages: 14441
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "TrafalgarSquare"
     title: "Trafalgar Square"
     url: "/wiki/entities/trafalgarsquare/"
+  - key: "TraitorousEight"
+    title: "Traitorous Eight"
+    url: "/wiki/entities/traitorouseight/"
   - key: "TransMountainExpansion"
     title: "Trans Mountain Expansion"
     url: "/wiki/entities/transmountainexpansion/"

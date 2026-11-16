@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14437
+wiki_total_pages: 14441
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "ShizilukouCrossing"
     title: "Shizilukou Crossing"
     url: "/wiki/entities/shizilukoucrossing/"
+  - key: "ShockleySemiconductorLaboratory"
+    title: "Shockley Semiconductor Laboratory"
+    url: "/wiki/entities/shockleysemiconductorlaboratory/"
   - key: "Shodan"
     title: "Shodan"
     url: "/wiki/entities/shodan/"

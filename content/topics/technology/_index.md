@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3868
+topic_total_pages: 3872
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8381,6 +8381,9 @@ topic_entities:
   - key: "ShivonZilis"
     title: "Shivon Zilis"
     url: "/wiki/entities/shivonzilis/"
+  - key: "ShockleySemiconductorLaboratory"
+    title: "Shockley Semiconductor Laboratory"
+    url: "/wiki/entities/shockleysemiconductorlaboratory/"
   - key: "Shodan"
     title: "Shodan"
     url: "/wiki/entities/shodan/"
@@ -8762,6 +8765,9 @@ topic_entities:
   - key: "Trae"
     title: "Trae"
     url: "/wiki/entities/trae/"
+  - key: "TraitorousEight"
+    title: "Traitorous Eight"
+    url: "/wiki/entities/traitorouseight/"
   - key: "TransMountainExpansion"
     title: "Trans Mountain Expansion"
     url: "/wiki/entities/transmountainexpansion/"
@@ -8993,6 +8999,9 @@ topic_entities:
   - key: "WangTianfan"
     title: "Will Wang Tianfan / 汪天凡"
     url: "/wiki/entities/wangtianfan/"
+  - key: "WilliamShockley"
+    title: "William Shockley"
+    url: "/wiki/entities/williamshockley/"
   - key: "Wired"
     title: "Wired"
     url: "/wiki/entities/wired/"
@@ -10914,6 +10923,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230"
     title: "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"
+  - key: "silicon-valley-on-the-couch"
+    title: "Silicon Valley on the Couch"
+    url: "/wiki/sources/silicon-valley-on-the-couch/"
   - key: "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a"
     title: "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip"
     url: "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"

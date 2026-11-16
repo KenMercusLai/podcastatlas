@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2411
+topic_total_pages: 2412
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5600,6 +5600,9 @@ topic_entities:
   - key: "TracyYoung"
     title: "Tracy Young"
     url: "/wiki/entities/tracyyoung/"
+  - key: "TraitorousEight"
+    title: "Traitorous Eight"
+    url: "/wiki/entities/traitorouseight/"
   - key: "TrevorBlackwell"
     title: "Trevor Blackwell"
     url: "/wiki/entities/trevorblackwell/"

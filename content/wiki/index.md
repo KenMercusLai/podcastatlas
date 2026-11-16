@@ -5200,8 +5200,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [This Is Your Captain Speaking](sources/this-is-your-captain-speaking.md) — Revisionist History episode on pilot voice, professional speech convergence, passenger reassurance, stereotype, and crisis judgment.
 - [The Bear Was Poked With Maria Konnikova](sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova.md) — Revisionist History listener audit connecting weapon-category framing, trauma-care inequality, visibility-driven urgency, and portfolio gun-violence prevention.
 - [Unlocking Hidden Potential with Adam Grant](sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant.md) — Revisionist History live conversation on developmental potential, hidden practice, perfectionist undertraining, prestige, admissions, and values-based choice.
+- [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [William Shockley](entities/WilliamShockley.md) — semiconductor physicist whose technical prestige concentrated talent while destructive management helped disperse it into new firms.
+- [May Bradford Shockley](entities/MayBradfordShockley.md) — Shockley's formidable mother and the episode's proposed private link between Palo Alto and his Mountain View location choice.
+- [Shockley Semiconductor Laboratory](entities/ShockleySemiconductorLaboratory.md) — Mountain View talent node whose internal breakdown helped generate a regional semiconductor-company genealogy.
+- [Traitorous Eight](entities/TraitorousEight.md) — group whose coordinated departure transferred Shockley laboratory talent into Silicon Valley's wider company network.
 - [Osage Nation](entities/OsageNation.md) — Indigenous nation whose retained mineral rights brought wealth, predation, community trauma, and continuing claims for accountability.
 - [Mollie Burkhart](entities/MollieBurkhart.md) — Osage survivor whose family anchors the prosecuted inheritance conspiracy and its multigenerational aftermath.
 - [William Hale](entities/WilliamHale.md) — influential organizer of the murder-and-headright plot against Mollie Burkhart's family.
@@ -19803,7 +19808,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Restorative Withdrawal and Return](concepts/RestorativeWithdrawalAndReturn.md) — Temporary reduction of noise and demand evaluated by whether it improves re-entry into care and collective responsibility.
 - [Trust Decision Quality](concepts/TrustDecisionQuality.md) — Proportional process for testing familiarity, convenience, intuition, missing information, stakes, and reversibility before consequential trust decisions.
 - [Trust, Control, and Transparency Boundary](concepts/TrustControlTransparencyBoundary.md) — Distinction between explanatory openness and continuous visibility, with clear expectations supporting accountable autonomy.
-- [Chance-Sensitive Causality](concepts/ChanceSensitiveCausality.md) — Account of small, context-specific inputs becoming decisive through interacting causal chains while remaining difficult to predict.
+- [Chance-Sensitive Causality](concepts/ChanceSensitiveCausality.md) — Account of small inputs becoming decisive through causal chains, including private choices that select where structural capacities compound.
 - [Magnitude Bias](concepts/MagnitudeBias.md) — Tendency to expect dramatic outcomes to have equally dramatic, intentional, or narratively satisfying causes.
 - [Patient-Centered Healthcare Delivery](concepts/PatientCenteredHealthcareDelivery.md) — Experience-led care model joining timely access, patient data agency, and continuing support while preserving clinical and safety boundaries.
 - [Medication Authentication and Safety](concepts/MedicationAuthenticationAndSafety.md) — Verifiable medicine identity layer bounded by custody, privacy, workflow, and dose-level implementation constraints.
@@ -21444,7 +21449,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Teacher Administrative Overload / 教师事务性过载](concepts/TeacherAdministrativeOverload.md) — Non-teaching duty stack that compresses preparation, recovery, bodily care, and family time.
 - [School Mental-Health Referral Boundary / 学校心理健康转介边界](concepts/SchoolMentalHealthReferralBoundary.md) — Boundary between teacher observation and support versus professional diagnosis and treatment.
 - [Education Resource Equalization System Limits / 教育资源均衡的系统边界](concepts/EducationResourceEqualizationSystemLimits.md) — Constraints on equalization when staffing, incentives, school capacity, students, and family resources remain uneven.
-- [Silicon Valley Innovation System](concepts/SiliconValleyInnovationSystem.md) — How public research, Stanford commercialization, chips, migration, culture, and California future-branding combined into a technology cluster.
+- [Silicon Valley Innovation System](concepts/SiliconValleyInnovationSystem.md) — How institutions, chips, migration, employee mobility, culture, and contingent location choices combined into a technology cluster.
 - [Mass Internet Adoption](concepts/MassInternetAdoption.md) — Complementary access, interface, device, policy, and capacity layers that moved the internet into ordinary use and fragmented shared media attention.
 - [Social Media Prehistory](concepts/SocialMediaPrehistory.md) — The long lineage of networked social mechanics before modern mass-market platforms.
 - [Internet Political Amplification](concepts/InternetPoliticalAmplification.md) — Model separating older political ideas from the reach, intensity, coordination, and conflict produced by digital networks.
@@ -29234,7 +29239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bottom-Up Enterprise Distribution](concepts/BottomUpEnterpriseDistribution.md) — Enterprise adoption path where individual users and teams spread a tool before formal purchasing catches up.
 - [Strategic Focus Under Incumbent Pressure](concepts/StrategicFocusUnderIncumbentPressure.md) — Operating discipline of killing plausible adjacent bets and narrowing strategy when larger competitors subsidize or bundle nearby products.
 - [Knowledge Work Fragmentation](concepts/KnowledgeWorkFragmentation.md) — Workplace problem of information scattered across files, tabs, messages, apps, and ad hoc organization systems.
-- [Founder Psychology Operational Risk](concepts/FounderPsychologyOperationalRisk.md) — Risk that a company inherits a founder's unresolved blind spots and overused strengths as operating defaults.
+- [Founder Psychology Operational Risk](concepts/FounderPsychologyOperationalRisk.md) — Risk that founder blind spots, suspicion, or overused strengths become strategy, culture, control, and talent-retention failures.
 - [Founder Risk Calibration](concepts/FounderRiskCalibration.md) — Founder judgment pattern where a socially risky-looking choice can be rational once downside, upside, learning, and life trajectory are weighed correctly.
 - [OpenAI Board Crisis](concepts/OpenAIBoardCrisis.md) — November 2023 OpenAI governance crisis involving Altman's removal, employee revolt, Microsoft fallback, and board-composition lessons.
 - [Language Model Scaling Bet](concepts/LanguageModelScalingBet.md) — Research-strategy choice to concentrate compute and organizational belief behind scaled language models after a more efficient architecture appeared.

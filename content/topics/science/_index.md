@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1670
+topic_total_pages: 1671
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4731,6 +4731,9 @@ topic_sources:
   - key: "science-based-tools-for-increasing-happiness-scim9472441223"
     title: "Science-Based Tools for Increasing Happiness"
     url: "/wiki/sources/science-based-tools-for-increasing-happiness-scim9472441223/"
+  - key: "silicon-valley-on-the-couch"
+    title: "Silicon Valley on the Couch"
+    url: "/wiki/sources/silicon-valley-on-the-couch/"
   - key: "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836"
     title: "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing"
     url: "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"

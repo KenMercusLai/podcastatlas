@@ -40904,3 +40904,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Silicon Valley on the Couch
+
+Added the [[RevisionistHistory]] episode on [[WilliamShockley]], [[MayBradfordShockley]], [[ShockleySemiconductorLaboratory]], and the [[TraitorousEight]].
+
+Core synthesis: the episode qualifies Stanford-first, weather-first, and inevitable-cluster histories by proposing that Shockley's desire for maternal proximity may have influenced his Mountain View choice. His scientific prestige concentrated semiconductor talent, while coercive and paranoid management pushed eight leading employees into a locally rooted company genealogy. [[SiliconValleyInnovationSystem]] now combines this contingent biographical mechanism with public research, university commercialization, finance, migration, infrastructure, and culture; [[ChanceSensitiveCausality]] captures how a small private input can select where structural capacity compounds; and [[FounderPsychologyOperationalRisk]] distinguishes observable organizational transmission from retrospective diagnosis.
+
+No settled contradiction was adopted. May's proximity is a plausible but unproven motive, the proposed bipolar diagnosis was retrospective and made without examination, and the laboratory's importance does not make it the sole cause of Silicon Valley. Wartime impact, psychiatric interpretation, correspondence, geography, dialogue, and causal weights remain source-scoped because the supplied file is a structured summary rather than a transcript, clinical record, correspondence edition, or comprehensive semiconductor history. Broad [[RevisionistHistory]], university, [[BellLabs]], [[Intel]], and [[GordonMoore]] profiles were kept closed because focused pages capture the durable additions without reopening otherwise unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,078 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

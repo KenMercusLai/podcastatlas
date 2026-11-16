@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14437
+wiki_total_pages: 14441
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "WilliamSheppard"
     title: "William Sheppard"
     url: "/wiki/entities/williamsheppard/"
+  - key: "WilliamShockley"
+    title: "William Shockley"
+    url: "/wiki/entities/williamshockley/"
   - key: "WilliamSlim"
     title: "William Slim"
     url: "/wiki/entities/williamslim/"

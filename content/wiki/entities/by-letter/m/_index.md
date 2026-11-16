@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14437
+wiki_total_pages: 14441
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "May1968France"
     title: "May 1968 in France"
     url: "/wiki/entities/may1968france/"
+  - key: "MayBradfordShockley"
+    title: "May Bradford Shockley"
+    url: "/wiki/entities/maybradfordshockley/"
   - key: "MayDepartmentStores"
     title: "May Department Stores"
     url: "/wiki/entities/maydepartmentstores/"
