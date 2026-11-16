@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2410
+topic_total_pages: 2411
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2743,6 +2743,9 @@ topic_concepts:
   - key: "QuantumComputingCommercializationGap"
     title: "Quantum Computing Commercialization Gap"
     url: "/wiki/concepts/quantumcomputingcommercializationgap/"
+  - key: "RacializedFinancialGuardianship"
+    title: "Racialized Financial Guardianship"
+    url: "/wiki/concepts/racializedfinancialguardianship/"
   - key: "RandomMarketNarratives"
     title: "Random Market Narratives"
     url: "/wiki/concepts/randommarketnarratives/"

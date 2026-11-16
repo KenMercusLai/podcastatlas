@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-11-15
-as_of_overview_commit: 3ca73c1d1871deb99ce60f11a4d7de80c16793c7
-summary: "Durable value joins capability to evidence, implementation, accountability, context, and human judgment; analogy can clarify control without replacing proof."
-episode_count: 4964
-source_count: 4964
+as_of_overview_commit: 0d07fe78564941dd146535a26d697ac96ca6bc36
+summary: "Durable value joins capability to evidence, implementation, accountability, context, and human judgment; institutions and memory determine what persists."
+episode_count: 5076
+source_count: 5076
 paragraph_count: 810
 topic_count: 9
 ---
@@ -29,7 +29,7 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on the coupled system around models: compute, power, data, workflow integration, verification, governance, resilience, and human judgment.
+AI value depends on the coupled system around models: compute, power, data, workflows, verification, governance, resilience, and human judgment.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
@@ -68,7 +68,7 @@ Historical change emerges from interacting capacity, logistics, institutions, co
 
 ### Psychology and Personal Development
 
-Contextual judgment is central: function matters more than labels, regulation and collective performance are state-dependent, and historical analogy needs clinical boundaries.
+Contextual judgment is central: function matters more than labels, regulation is state-dependent, and analogy requires clinical boundaries.
 
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]]. Evidence: [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[ChildMentalHealthFamilySystemsSupport]], [[DreamDistressAndParasomniaEscalation]].
 - Regulation and self-trust emerge through a combined repertoire of body awareness, movement, emotional differentiation, cognitive reappraisal, grounding, environmental adjustment, and safe co-regulation rather than through willpower or insight alone, linking [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], and [[BrainBodyEmotionMapping]]. Evidence: [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], [[BrainBodyEmotionMapping]], [[EmotionalGranularity]], [[EmotionalFlashbackGrounding]], [[MovementPracticeAsAwareness]], [[StressResponseRecovery]].

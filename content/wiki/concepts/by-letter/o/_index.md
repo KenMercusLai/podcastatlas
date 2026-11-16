@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11443
+wiki_total_pages: 11446
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "OSLevelContext"
     title: "OS-Level Context"
     url: "/wiki/concepts/oslevelcontext/"
+  - key: "OsageHeadrightInheritance"
+    title: "Osage Headright Inheritance"
+    url: "/wiki/concepts/osageheadrightinheritance/"
   - key: "OstarbeiterForcedLabor"
     title: "Ostarbeiter Forced Labor / 东方劳工强制劳动"
     url: "/wiki/concepts/ostarbeiterforcedlabor/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Oil and Blood: The Osage Murders from Cautionary Tales](sources/oil-and-blood-the-osage-murders-from-cautionary-tales.md) — Revisionist History connects Osage oil headrights, racialized guardianship, Hale's inheritance plot, federal investigation, and wider systemic complicity.
 - [Healing 2.0: Disrupting Death](sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222.md) — Hidden Brain follows You Only Virtual's Versona from a mother-son bond into AI-mediated continuing contact, post-death learning, consent uncertainty, and severe personal tradeoffs.
 - [Board Game Season](sources/board-game-season-board-game-season.md) — Revisionist History on how George and Anne Rohrbacher turned drought, debt, and the farm crisis into a livelihood simulation that saved their farm and supported rural conversation.
 - [The IT Revolution](sources/the-it-revolution-the-it-revolution.md) — Sponsored Revisionist History episode on private 5G, home care, clinical ambient documentation, employee-facing retail tools, staged deployment, and outcome-led CIO leadership.
@@ -5200,6 +5201,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Bear Was Poked With Maria Konnikova](sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova.md) — Revisionist History listener audit connecting weapon-category framing, trauma-care inequality, visibility-driven urgency, and portfolio gun-violence prevention.
 
 ## Entities
+- [Osage Nation](entities/OsageNation.md) — Indigenous nation whose retained mineral rights brought wealth, predation, community trauma, and continuing claims for accountability.
+- [Mollie Burkhart](entities/MollieBurkhart.md) — Osage survivor whose family anchors the prosecuted inheritance conspiracy and its multigenerational aftermath.
+- [William Hale](entities/WilliamHale.md) — influential organizer of the murder-and-headright plot against Mollie Burkhart's family.
+- [Ernest Burkhart](entities/ErnestBurkhart.md) — Mollie's husband and guardian who participated in Hale's scheme and eventually testified.
+- [Tom White](entities/TomWhite.md) — Bureau investigator who exposed Hale's conspiracy amid corruption and evidentiary obstruction.
+- [David Grann](entities/DavidGrann.md) — later researcher who widened the history beyond the Bureau's closed-case narrative.
+- [Osage Murders](entities/OsageMurders.md) — killings and suspicious deaths encompassing Hale's prosecuted plot and a wider unresolved system of predation.
 - [Maria Konnikova](entities/MariaKonnikova.md) — Writer and psychologist serving as Revisionist History ombudsman and testing polarized reception, inequality, and policy analogies.
 - [Håkon the Good](entities/HakonTheGood.md) — Norwegian Christian ruler whose compromise with traditional sacrifice exposes the limits of early royal conversion.
 - [Justin Harrison](entities/JustinHarrison.md) — You Only Virtual founder whose effort to preserve a bond with his mother tests the promise and costs of AI grief technology.
@@ -19725,6 +19733,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Osage Headright Inheritance](concepts/OsageHeadrightInheritance.md) — mineral-rights inheritance mechanism that preserved Osage value while creating lethal incentives under predatory institutions.
+- [Racialized Financial Guardianship](concepts/RacializedFinancialGuardianship.md) — racial incompetency regime that transferred Osage adults' financial control to white guardians.
+- [Systemic Complicity in Mass Violence](concepts/SystemicComplicityInMassViolence.md) — framework for distributed violence enabled by institutions and social devaluation without one central command.
 - [Weapon-Category Policy Framing](concepts/WeaponCategoryPolicyFraming.md) — Distinction between technically accurate firearm categories and whether those categories capture the broader distribution of harm.
 - [Trauma-Care Access Inequality](concepts/TraumaCareAccessInequality.md) — Unequal survival from severe injury caused by the geographic and economic distribution of timely specialist care.
 - [Visibility-Driven Policy Urgency](concepts/VisibilityDrivenPolicyUrgency.md) — Gap between aggregate harm and the vivid cases that generate public attention and political pressure.

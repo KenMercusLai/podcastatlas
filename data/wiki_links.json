@@ -27343,6 +27343,10 @@
     "title": "David Goldfein",
     "url": "/wiki/entities/davidgoldfein/"
   },
+  "DavidGrann": {
+    "title": "David Grann",
+    "url": "/wiki/entities/davidgrann/"
+  },
   "DavidHorowitz": {
     "title": "David Horowitz",
     "url": "/wiki/entities/davidhorowitz/"
@@ -33530,6 +33534,10 @@
   "ErinMurphy": {
     "title": "Erin Murphy",
     "url": "/wiki/entities/erinmurphy/"
+  },
+  "ErnestBurkhart": {
+    "title": "Ernest Burkhart",
+    "url": "/wiki/entities/ernestburkhart/"
   },
   "ErnestHemingway": {
     "title": "Ernest Hemingway / 海明威",
@@ -66079,6 +66087,10 @@
     "title": "Molinos (Peru)",
     "url": "/wiki/entities/molinosperu/"
   },
+  "MollieBurkhart": {
+    "title": "Mollie Burkhart",
+    "url": "/wiki/entities/mollieburkhart/"
+  },
   "Moloch": {
     "title": "Moloch",
     "url": "/wiki/entities/moloch/"
@@ -71130,6 +71142,18 @@
   "OrvilleNelson": {
     "title": "Orville Nelson",
     "url": "/wiki/entities/orvillenelson/"
+  },
+  "OsageHeadrightInheritance": {
+    "title": "Osage Headright Inheritance",
+    "url": "/wiki/concepts/osageheadrightinheritance/"
+  },
+  "OsageMurders": {
+    "title": "Osage Murders",
+    "url": "/wiki/entities/osagemurders/"
+  },
+  "OsageNation": {
+    "title": "Osage Nation",
+    "url": "/wiki/entities/osagenation/"
   },
   "OsamaBinLaden": {
     "title": "Osama bin Laden",
@@ -78918,6 +78942,10 @@
   "RacializedAncestralClaimmaking": {
     "title": "Racialized Ancestral Claimmaking",
     "url": "/wiki/concepts/racializedancestralclaimmaking/"
+  },
+  "RacializedFinancialGuardianship": {
+    "title": "Racialized Financial Guardianship",
+    "url": "/wiki/concepts/racializedfinancialguardianship/"
   },
   "RacializedRemittancePolitics": {
     "title": "Racialized Remittance Politics / 种族化汇款政治",
@@ -91491,6 +91519,10 @@
     "title": "System-Level Vehicle Agent Architecture",
     "url": "/wiki/concepts/systemlevelvehicleagentarchitecture/"
   },
+  "SystemicComplicityInMassViolence": {
+    "title": "Systemic Complicity in Mass Violence",
+    "url": "/wiki/concepts/systemiccomplicityinmassviolence/"
+  },
   "SystemicDegenerativeVolatility": {
     "title": "Systemic Degenerative Volatility",
     "url": "/wiki/concepts/systemicdegenerativevolatility/"
@@ -94986,6 +95018,10 @@
   "TomSiegel": {
     "title": "Tom Siegel",
     "url": "/wiki/entities/tomsiegel/"
+  },
+  "TomWhite": {
+    "title": "Tom White",
+    "url": "/wiki/entities/tomwhite/"
   },
   "TomasHoloneck": {
     "title": "Tomas Holoneck",
@@ -101018,6 +101054,10 @@
   "WilliamGrindal": {
     "title": "William Grindal",
     "url": "/wiki/entities/williamgrindal/"
+  },
+  "WilliamHale": {
+    "title": "William Hale",
+    "url": "/wiki/entities/williamhale/"
   },
   "WilliamHastings": {
     "title": "William Hastings",
@@ -113674,6 +113714,10 @@
   "nooks-crannies-nooks-crannies": {
     "title": "Nooks & Crannies",
     "url": "/wiki/sources/nooks-crannies-nooks-crannies/"
+  },
+  "oil-and-blood-the-osage-murders-from-cautionary-tales": {
+    "title": "Oil and Blood: The Osage Murders from Cautionary Tales",
+    "url": "/wiki/sources/oil-and-blood-the-osage-murders-from-cautionary-tales/"
   },
   "older-workers-arent-retiring-should-they-be-forced-to": {
     "title": "Older workers aren't retiring. Should they be forced to?",

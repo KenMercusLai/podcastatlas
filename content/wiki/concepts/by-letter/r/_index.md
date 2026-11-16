@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11443
+wiki_total_pages: 11446
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "RacializedAncestralClaimmaking"
     title: "Racialized Ancestral Claimmaking"
     url: "/wiki/concepts/racializedancestralclaimmaking/"
+  - key: "RacializedFinancialGuardianship"
+    title: "Racialized Financial Guardianship"
+    url: "/wiki/concepts/racializedfinancialguardianship/"
   - key: "RacializedRemittancePolitics"
     title: "Racialized Remittance Politics / 种族化汇款政治"
     url: "/wiki/concepts/racializedremittancepolitics/"

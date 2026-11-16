@@ -40877,3 +40877,16 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-16] ingest | Oil and Blood: The Osage Murders from Cautionary Tales
+
+Added the [[RevisionistHistory]] episode on the [[OsageNation]], [[MollieBurkhart]] family, and [[OsageMurders]]. Created bounded profiles for [[WilliamHale]], [[ErnestBurkhart]], [[TomWhite]], and [[DavidGrann]], plus [[OsageHeadrightInheritance]], [[RacializedFinancialGuardianship]], and [[SystemicComplicityInMassViolence]].
+
+Core synthesis: retained mineral rights preserved Osage value after dispossession, but inheritable headrights became lethal inside a racial order that transferred financial control to white guardians and failed to protect Osage lives. Hale used family intimacy, guardian authority, wills, insurance, and violence in one prosecuted plot. White's investigation secured real convictions, but Grann's later research shows that separate perpetrators, suspicious guardian patterns, destroyed evidence, and continued killings make the Bureau's closed-case ending incomplete.
+
+No settled contradiction with the existing wiki was adopted. The episode directly qualifies a narrow history in which Hale's conviction solved the murders. Exact victim totals, causes of unresolved deaths, dialogue, motives, family recollections, medical claims, and the full scope of official complicity remain source-scoped because the supplied file is a structured summary rather than a transcript, case archive, medical record, or comprehensive Osage history. The broad [[RevisionistHistory]], [[PoliticalResourceCurse]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic; the maximum-age gate triggered global compaction. Refreshed artifacts validate 5,076 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

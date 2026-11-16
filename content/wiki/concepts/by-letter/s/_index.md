@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11443
+wiki_total_pages: 11446
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2933,6 +2933,9 @@ wiki_pages:
   - key: "SystemLevelVehicleAgentArchitecture"
     title: "System-Level Vehicle Agent Architecture"
     url: "/wiki/concepts/systemlevelvehicleagentarchitecture/"
+  - key: "SystemicComplicityInMassViolence"
+    title: "Systemic Complicity in Mass Violence"
+    url: "/wiki/concepts/systemiccomplicityinmassviolence/"
   - key: "SystemicDegenerativeVolatility"
     title: "Systemic Degenerative Volatility"
     url: "/wiki/concepts/systemicdegenerativevolatility/"
