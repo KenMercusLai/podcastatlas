@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11548
+wiki_total_pages: 11551
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "PlantationDiseaseEcology"
     title: "Plantation Disease Ecology"
     url: "/wiki/concepts/plantationdiseaseecology/"
+  - key: "PlantationSlaveryControlRegime"
+    title: "Plantation Slavery Control Regime"
+    url: "/wiki/concepts/plantationslaverycontrolregime/"
   - key: "PlantationSlaveryMoralShock"
     title: "Plantation Slavery Moral Shock"
     url: "/wiki/concepts/plantationslaverymoralshock/"

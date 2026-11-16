@@ -7,7 +7,8 @@ sources:
   - 183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
   - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
-last_updated: 2026-11-16
+  - dchha68-blitz-human-resources-dchha68-blitz-human-resources
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ Across both parts, Carlin treats history as useful perspective without denying i
 
 [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] shows the same method before the Persian invasion. Carlin moves between assassination uncertainty, succession custom, terrain, combined arms, psychological display, freedom claims, and the destruction of Thebes. Modern analogies make remote events vivid, but his strongest boundary is that strategic effectiveness, ancient political necessity, and favorable source tradition do not erase civilian suffering or settle personal responsibility.
 
+[[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] extends the method from war narrative to Atlantic slavery. Carlin builds an end-to-end system from labor demand, commodity profit, disease, captive supply, finance, shipping, state power, sale, plantation discipline, abolition, and revolution. He separates explanation from excuse: African participation does not erase European demand and institutional scale, historical context does not absolve Columbus, and slavery's role in Haitian revolutionary violence does not make massacre morally acceptable.
+
 ## Key Characteristics
 
 - Uses counterfactual choices to expose hidden assumptions about privilege, danger, technology, and political control.
@@ -35,6 +38,7 @@ Across both parts, Carlin treats history as useful perspective without denying i
 - Separates recognition of an achievement from moral endorsement of the person responsible for it.
 - Treats outcomes from the First World War and Civil War through Soviet collapse and the Ukraine invasion as contingent rather than inevitable.
 - Joins battlefield mechanics to moral cost and political psychology while retaining visible boundaries between event, inference, and speculation.
+- Uses systems analysis to distribute causal participation without flattening differences in power, demand, scale, or responsibility.
 
 ## Evidence
 
@@ -44,16 +48,17 @@ Across both parts, Carlin treats history as useful perspective without denying i
 - Contingency and strategy: both crossover parts treat outcomes as conditional; Part 1 tests Wilhelm, Lenin, nuclear weapons, and the Confederacy, while [[184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798|Part 2]] tests the Cold War and Putin's reading of Ukraine.
 - Sustained narrative method: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] compares Arrian, Diodorus, Curtius, Plutarch, and modern historians while integrating logistics, morale, violence, and qualified psychological reconstruction.
 - Moral and evidentiary tension: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] contrasts Arrian and Diodorus while separating tactical success, political context, uncertain agency, and the consequences of terror.
+- Atlantic system and moral responsibility: [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] connects commercial institutions, coerced labor, revolutionary emancipation, retaliatory violence, and the persistence of racial hierarchy while marking factual and interpretive limits.
 
 ## Qualifications
 
-This profile comes from two conversational crossover episodes and one structured summary rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, and Issus claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger.
+This profile comes from two conversational crossover episodes and three structured summaries rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, Atlantic slavery, and Haitian Revolution claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger.
 
 ## What Changed
 
-- Added an earlier Alexander case centered on assassination uncertainty, succession violence, and coercive consolidation.
-- Clarified that contextualizing ancient political necessity does not remove responsibility for suffering.
-- Added Thebes as a test of conflicting sources, freedom language, delegated legality, and exemplary terror.
+- Extended the demonstrated method from military history into Atlantic political economy and racial hierarchy.
+- Added a clearer distinction between distributed causal participation and unequal systemic responsibility.
+- Added Haiti as a case where emancipation, revolutionary necessity, and atrocity must remain in the same moral frame.
 
 ## Relationships
 

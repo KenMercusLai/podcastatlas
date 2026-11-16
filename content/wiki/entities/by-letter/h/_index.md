@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14554
+wiki_total_pages: 14559
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -116,9 +116,15 @@ wiki_pages:
   - key: "HainanAirlines"
     title: "Hainan Airlines / 海南航空"
     url: "/wiki/entities/hainanairlines/"
+  - key: "Haiti"
+    title: "Haiti"
+    url: "/wiki/entities/haiti/"
   - key: "HaitianFlavoring"
     title: "Haitian Flavoring / 海天味业"
     url: "/wiki/entities/haitianflavoring/"
+  - key: "HaitianRevolution"
+    title: "Haitian Revolution"
+    url: "/wiki/entities/haitianrevolution/"
   - key: "HakanFidan"
     title: "Hakan Fidan"
     url: "/wiki/entities/hakanfidan/"

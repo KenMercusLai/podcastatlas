@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11548
+wiki_total_pages: 11551
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2978,6 +2978,9 @@ wiki_pages:
   - key: "AthleticRegimenRigidity"
     title: "Athletic Regimen Rigidity / 训练制度刚性"
     url: "/wiki/concepts/athleticregimenrigidity/"
+  - key: "AtlanticSlaveTradeSystem"
+    title: "Atlantic Slave Trade System"
+    url: "/wiki/concepts/atlanticslavetradesystem/"
   - key: "AtlanticSlaveTradePrivateeringLink"
     title: "Atlantic Slave Trade-Privateering Link"
     url: "/wiki/concepts/atlanticslavetradeprivateeringlink/"

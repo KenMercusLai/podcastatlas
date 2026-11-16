@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3561
+topic_total_pages: 3562
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3283,6 +3283,9 @@ topic_concepts:
   - key: "PlantVarietyIntellectualProperty"
     title: "Plant Variety Intellectual Property"
     url: "/wiki/concepts/plantvarietyintellectualproperty/"
+  - key: "PlantationSlaveryControlRegime"
+    title: "Plantation Slavery Control Regime"
+    url: "/wiki/concepts/plantationslaverycontrolregime/"
   - key: "PlatformAntitrust"
     title: "Platform Antitrust"
     url: "/wiki/concepts/platformantitrust/"

@@ -41670,3 +41670,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Show 68 - BLITZ Human Resources
+
+Added a [[HardcoreHistory]] episode treating the [[AtlanticSlaveTradeSystem|Atlantic slave trade]] as an end-to-end system joining older captive markets to colonial labor demand, commodity profit, finance, shipping, insurance, chartered companies, naval capacity, and state power. Created [[PlantationSlaveryControlRegime]] to connect patrols, passes, curfews, family separation, sale, exemplary punishment, revolt fear, and the corruption of slaveholding society.
+
+Created focused profiles for [[SaintDomingue]], [[Haiti]], the [[HaitianRevolution]], [[ToussaintLouverture]], and [[JeanJacquesDessalines]]. Core synthesis: plantation wealth, hereditary racial ranking, free-colored rights claims, French revolutionary universalism, maroon resistance, state collapse, and coordinated slave revolt converged in an emancipatory revolution that defeated re-enslavement and founded Haiti, while shifting alliances, reciprocal atrocity, and post-independence massacre prevent a morally purified account.
+
+Created [[RacializedSlaveryAfterlife]] to distinguish the legal rupture of abolition from the persistence of color hierarchy, segregation, and constrained freedom. Resynthesized [[DanCarlin]] and [[HardcoreHistory]] from their complete preserved source inventories before appending the new source once. Broader profiles for Columbus, Las Casas, Jefferson, Hemings, and Douglass remained closed because the episode uses them illustratively and the focused pages capture the durable additions without reopening unrelated evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+No settled contradiction was adopted. African supplier participation does not cancel European demand-side, financial, maritime, and imperial responsibility; explaining Haitian retaliatory violence through slavery and colonial war does not excuse massacre; and abolition's incompleteness does not make segregation identical to chattel slavery. Counts, demographic claims, atrocity descriptions, motives, timelines, and causal weights remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival study, or systematic review.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,131 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

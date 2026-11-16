@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14554
+wiki_total_pages: 14559
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "TotemBranding"
     title: "Totem Branding"
     url: "/wiki/entities/totembranding/"
+  - key: "ToussaintLouverture"
+    title: "Toussaint Louverture"
+    url: "/wiki/entities/toussaintlouverture/"
   - key: "ToutiaoLite"
     title: "Toutiao Lite"
     url: "/wiki/entities/toutiaolite/"

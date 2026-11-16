@@ -12319,6 +12319,10 @@
     "title": "Atlantic Slave Trade-Privateering Link",
     "url": "/wiki/concepts/atlanticslavetradeprivateeringlink/"
   },
+  "AtlanticSlaveTradeSystem": {
+    "title": "Atlantic Slave Trade System",
+    "url": "/wiki/concepts/atlanticslavetradesystem/"
+  },
   "Atlantis": {
     "title": "Atlantis",
     "url": "/wiki/entities/atlantis/"
@@ -43271,9 +43275,17 @@
     "title": "Haircare Skincare-ization / 护发护肤化",
     "url": "/wiki/concepts/haircareskincareization/"
   },
+  "Haiti": {
+    "title": "Haiti",
+    "url": "/wiki/entities/haiti/"
+  },
   "HaitianFlavoring": {
     "title": "Haitian Flavoring / 海天味业",
     "url": "/wiki/entities/haitianflavoring/"
+  },
+  "HaitianRevolution": {
+    "title": "Haitian Revolution",
+    "url": "/wiki/entities/haitianrevolution/"
   },
   "HakanFidan": {
     "title": "Hakan Fidan",
@@ -51490,6 +51502,10 @@
   "JeanFrancoisChampollion": {
     "title": "Jean-Francois Champollion / 商博良",
     "url": "/wiki/entities/jeanfrancoischampollion/"
+  },
+  "JeanJacquesDessalines": {
+    "title": "Jean-Jacques Dessalines",
+    "url": "/wiki/entities/jeanjacquesdessalines/"
   },
   "JeanJacquesRousseau": {
     "title": "Jean-Jacques Rousseau / 卢梭",
@@ -74975,6 +74991,10 @@
     "title": "Plantation Disease Ecology",
     "url": "/wiki/concepts/plantationdiseaseecology/"
   },
+  "PlantationSlaveryControlRegime": {
+    "title": "Plantation Slavery Control Regime",
+    "url": "/wiki/concepts/plantationslaverycontrolregime/"
+  },
   "PlantationSlaveryMoralShock": {
     "title": "Plantation Slavery Moral Shock",
     "url": "/wiki/concepts/plantationslaverymoralshock/"
@@ -79623,6 +79643,10 @@
     "title": "Racialized Second-Chance Asymmetry",
     "url": "/wiki/concepts/racializedsecondchanceasymmetry/"
   },
+  "RacializedSlaveryAfterlife": {
+    "title": "Racialized Slavery Afterlife",
+    "url": "/wiki/concepts/racializedslaveryafterlife/"
+  },
   "RacingHeritageBrandMoat": {
     "title": "Racing Heritage Brand Moat",
     "url": "/wiki/concepts/racingheritagebrandmoat/"
@@ -84010,6 +84034,10 @@
   "SaintColumba": {
     "title": "Saint Columba",
     "url": "/wiki/entities/saintcolumba/"
+  },
+  "SaintDomingue": {
+    "title": "Saint-Domingue",
+    "url": "/wiki/entities/saintdomingue/"
   },
   "SaintLegendAccretion": {
     "title": "Saint Legend Accretion",
@@ -96146,6 +96174,10 @@
   "TouristificationOfEverydayMarkets": {
     "title": "Touristification of Everyday Markets / 日常市场游客化",
     "url": "/wiki/concepts/touristificationofeverydaymarkets/"
+  },
+  "ToussaintLouverture": {
+    "title": "Toussaint Louverture",
+    "url": "/wiki/entities/toussaintlouverture/"
   },
   "ToutengWar": {
     "title": "Touteng War",
@@ -110790,6 +110822,10 @@
   "data-risk-and-actuarial-science-in-insurance": {
     "title": "Data, Risk, and Actuarial Science in Insurance",
     "url": "/wiki/sources/data-risk-and-actuarial-science-in-insurance/"
+  },
+  "dchha68-blitz-human-resources-dchha68-blitz-human-resources": {
+    "title": "Show 68 - BLITZ Human Resources",
+    "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
   },
   "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir": {
     "title": "Show 69 - Twilight of the Aesir",

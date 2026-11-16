@@ -25794,6 +25794,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/atlanta/"
     },
+    "AtlanticSlaveTradeSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/atlanticslavetradesystem/"
+    },
     "Atlantis": {
       "episode_count": 2,
       "show_count": 1,
@@ -73889,9 +73905,9 @@
       "url": "/wiki/entities/dallaspolicedepartment/"
     },
     "DanCarlin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -73920,9 +73936,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 72 - Mania for Subjugation II",
           "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
+        },
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/dancarlin/"
     },
     "DanDriver": {
@@ -135543,6 +135566,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/hairscalpcareboundary/"
     },
+    "Haiti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/haiti/"
+    },
     "HaitianFlavoring": {
       "episode_count": 1,
       "show_count": 1,
@@ -135558,6 +135597,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/haitianflavoring/"
+    },
+    "HaitianRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/haitianrevolution/"
     },
     "HakeemSoleimani": {
       "episode_count": 1,
@@ -138580,9 +138635,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -138632,9 +138687,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 70 - Twilight of the Aesir II",
           "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
+        },
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/hardcorehistory/"
     },
     "HardwareDistributionDefensibility": {
@@ -166988,6 +167050,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jeanfrancoischampollion/"
+    },
+    "JeanJacquesDessalines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/jeanjacquesdessalines/"
     },
     "JeanJacquesRousseau": {
       "episode_count": 7,
@@ -247712,6 +247790,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/plantationdiseaseecology/"
     },
+    "PlantationSlaveryControlRegime": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/plantationslaverycontrolregime/"
+    },
     "PlantationSlaveryMoralShock": {
       "episode_count": 1,
       "show_count": 1,
@@ -262625,6 +262719,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/racializedsecondchanceasymmetry/"
     },
+    "RacializedSlaveryAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/racializedslaveryafterlife/"
+    },
     "RadicalAcceptanceChronicStress": {
       "episode_count": 3,
       "show_count": 2,
@@ -277513,6 +277623,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/saintcolumba/"
+    },
+    "SaintDomingue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/saintdomingue/"
     },
     "SaintLegendAccretion": {
       "episode_count": 4,
@@ -317851,6 +317977,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/touristificationofeverydaymarkets/"
+    },
+    "ToussaintLouverture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha68_BLITZ_Human_Resources [dchha68_BLITZ_Human_Resources].md",
+          "key": "dchha68-blitz-human-resources-dchha68-blitz-human-resources",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 68 - BLITZ Human Resources",
+          "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/toussaintlouverture/"
     },
     "TowerOfLondon": {
       "episode_count": 2,

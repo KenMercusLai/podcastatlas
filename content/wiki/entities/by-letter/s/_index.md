@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14554
+wiki_total_pages: 14559
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "SaintValentine"
     title: "Saint Valentine"
     url: "/wiki/entities/saintvalentine/"
+  - key: "SaintDomingue"
+    title: "Saint-Domingue"
+    url: "/wiki/entities/saintdomingue/"
   - key: "SainteBeuve"
     title: "Sainte-Beuve / 圣伯夫"
     url: "/wiki/entities/saintebeuve/"

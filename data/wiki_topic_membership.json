@@ -73831,6 +73831,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PlantationSlaveryControlRegime": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PlatformAffordance": [
     {
       "key": "culture",
@@ -108088,6 +108095,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "dchha68-blitz-human-resources-dchha68-blitz-human-resources": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "dchha69-twilight-of-the-aesir-dchha69-twilight-of-the-aesir": [

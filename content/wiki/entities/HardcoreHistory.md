@@ -10,7 +10,8 @@ sources:
   - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
   - dchha71-mania-for-subjugation-dchha71-mania-for-subjugation
   - dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii
-last_updated: 2026-11-16
+  - dchha68-blitz-human-resources-dchha68-blitz-human-resources
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,6 +31,8 @@ Across both crossover parts, Hardcore History is associated with comparison rath
 
 [[dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii]] extends the direct examples beyond Alexander. It connects lived Norse belief, migration, Rus cultural mixture, fortification, conversion, monarchy, and conquest while repeatedly distinguishing eyewitness evidence, hostile chronicles, late sagas, and modern interpretation. Its “twilight” argument treats the Viking Age's end as a cumulative transformation, with religious change given special weight but not isolated from settlement, defense, demography, and state capacity.
 
+[[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] broadens the direct sample again. The episode treats Atlantic slavery as an interconnected economic and coercive system, follows the captive experience from inland seizure through plantation control, and makes Saint-Domingue a test of how universal rights, slave revolt, emancipation, colonial restoration, independence, and retaliatory atrocity can occupy one narrative without collapsing their moral differences.
+
 ## Key Characteristics
 
 - Uses broad historical comparison and counterfactual questions to test present assumptions.
@@ -38,7 +41,7 @@ Across both crossover parts, Hardcore History is associated with comparison rath
 - Connects ancient source problems to modern propaganda and intelligence failure.
 - Uses military narrative to join tactical sequence with logistics, political legitimacy, violence, and qualified psychological interpretation.
 - Revises inherited civilizational stereotypes by comparing propaganda with institutional and logistical evidence.
-- Uses wide geographic movement to explain cultural transformation without treating a memorable endpoint as a universal switch.
+- Uses wide geographic and chronological movement to explain cultural transformation without treating a memorable endpoint or legal change as a universal switch.
 
 ## Evidence
 
@@ -50,16 +53,17 @@ Across both crossover parts, Hardcore History is associated with comparison rath
 - Accession, coercion, and evidence conflict: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] joins succession uncertainty, battlefield adaptation, psychological warfare, and Thebes's destruction without making strategic success a moral defense.
 - Structural and individual causation: [[dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii]] separates inherited pressure for invasion from Alexander's glory-driven escalation while revising Greek decadence claims about Persia.
 - Medieval transformation: [[dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii]] joins religion, settlement, defense, migration, state formation, and source criticism across the Viking world.
+- Atlantic slavery and emancipation: [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] joins commercial scale, captive experience, plantation coercion, abolitionist mobilization, Haitian revolution, and post-abolition racial hierarchy.
 
 ## Qualifications
 
-Two crossover episodes and five structured episode summaries cannot establish the format, range, or editorial method of the entire Hardcore History catalogue. Carlin's account of his own workflow is high-level, while the historical answers are conversational and often counterfactual. Careful uncertainty labels do not independently validate episode numbers, causal claims, analogies, or psychological possibilities.
+Two crossover episodes and six structured episode summaries cannot establish the format, range, or editorial method of the entire Hardcore History catalogue. Carlin's account of his own workflow is high-level, while the historical answers are conversational and often counterfactual. Careful uncertainty labels do not independently validate episode numbers, demographic totals, causal claims, analogies, atrocity accounts, or psychological possibilities.
 
 ## What Changed
 
-- Extended the direct episode sample from Alexander into Viking religion, migration, state formation, and conversion.
-- Added cumulative social transformation and competing period boundaries to the show's demonstrated method.
-- Added Christian, Muslim, saga, archaeological, and eyewitness evidence as explicitly differentiated source layers.
+- Extended the direct episode sample into Atlantic slavery, abolition, and the Haitian Revolution.
+- Added end-to-end system reconstruction from captive supply and finance through plantation control and racial afterlife.
+- Added revolutionary emancipation and retaliatory massacre as a test of moral explanation without exoneration.
 
 ## Relationships
 
