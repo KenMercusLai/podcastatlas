@@ -26,15 +26,16 @@ sources:
   - touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd
   - xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf
   - lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt
+  - zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e
 knowledge_schema: synthesis-v1
-last_updated: 2026-11-09
+last_updated: 2026-11-16
 ---
 
 # 面基
 
 ## Overview
 
-面基 is a Chinese podcast represented in the current Wiki through 23 source notes. Its corpus spans investing, valuation, trading, macroeconomics, AI workflows, labor, nonfiction, health, anthropology, creator work, and life design.
+面基 is a Chinese podcast represented in the current Wiki through 24 source notes. Its corpus spans investing, valuation, trading, macroeconomics, AI workflows, labor, nonfiction, health, anthropology, creator work, generational change, and life design.
 
 Its durable editorial identity is a recurring inquiry into how people preserve judgment and agency when markets, technologies, institutions, bodies, and life conditions remain uncertain.
 
@@ -48,6 +49,8 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 
 **Macro transmission** now becomes a more explicit fourth branch. The collaboration with [[InvestmentABC|投资ABC]] and [[MiaoYanliang|缪延亮]] moves from broad cycle narratives toward a method: trace budgets, expectations, firms, rates, currencies, debt, and AI through micro responses before turning them into conclusions or trades.
 
+**Generational social change** adds a fifth branch. The 80后 episode places work, housing, education, migration, family care, individualism, and technology inside one life-course comparison, while keeping cohort identity subordinate to differences of class, region, occupation, and wealth.
+
 ## Key Characteristics
 
 - **Practical agency is the strongest through-line.** The show repeatedly asks what a person can specify, practice, delegate, or refuse when outcomes remain uncertain.
@@ -56,6 +59,7 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 - **AI should extend judgment rather than replace intention.** Context, pacing, memory, authorship, and acceptance gates determine whether an AI workflow remains human-directed.
 - **The show connects finance with attention and life design.** Returns, tools, work, health, freedom, and public visibility are judged by whether they preserve autonomy and a life the person can inhabit.
 - **Macro narratives are tested through transmission.** Models and large themes become useful only after household, firm, market, policy, and expectation responses are made explicit.
+- **Life-course timing connects macro change to ordinary judgment.** Generational labels are useful when they show how institutions and technologies meet people at different ages, but not when they erase distribution inside a cohort.
 
 ## Evidence
 
@@ -65,19 +69,20 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 - **Embodied and institutional evidence:** [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]], [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]], [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]], [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]], and [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] treat bodies, work, field observation, and ordinary constraint as evidence.
 - **Media, attention, macro, and narrative:** [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]], [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]], [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb]], and [[xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf]] connect platform labor, opportunity, market narrative, personal attention, and audience value.
 - **Macro transmission, debt, and AI:** [[lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt]] connects general-equilibrium reasoning, neutral rates, deposits, currencies, Treasury safety, AI capex, labor substitution, and distribution.
+- **Generational change and middle age:** [[zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e]] connects rapid modernization, economic entry timing, housing, education, family duty, migration, and AI to changing beliefs about effort, security, and option preservation.
 
 ## Qualifications
 
-- This profile covers 23 represented episodes, not the complete 面基 archive.
+- This profile covers 24 represented episodes, not the complete 面基 archive.
 - A guest's argument, proprietary signal, reported performance, or product proposal should not automatically be treated as the show's permanent position or as independently verified evidence.
 - Investing has the deepest repeated evidence; labor, medicine, anthropology, and creator-economy branches remain less densely represented.
 - The newest macro episode's rate, exchange-rate, debt, AI-investment, employment, and inflation claims remain dated guest analysis rather than independently audited facts or personal investment advice.
+- The 80后 episode is an interpretive cohort conversation grounded mainly in urban, educated, content-industry experience; its population, housing, education, pension, and technology claims remain source-scoped.
 
 ## What Changed
 
-- Added a model-plus-feedback macro method that tests aggregate stories through household, firm, market, and expectation responses.
-- Extended the AI branch from workflow and investment into capex, wealth, labor, prices, and distribution as macro variables.
-- Added a collaboration relationship with 投资ABC through 厚望, Amiee, and 缪延亮.
+- Added generational formation as a life-course method for connecting macro, institutional, family, and technological change.
+- Extended the midlife branch from personal accounts into industry cycles, household balance sheets, care responsibility, and option preservation.
 
 ## Relationships
 
@@ -90,3 +95,5 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 - [[EmbodiedJudgment]] - links trained intuition, bodily feedback, and context-sensitive decision making.
 - [[GeneralEquilibriumPolicyTransmission]] - newest method relationship for tracing macro shocks into lived outcomes.
 - [[AIMacroCapitalLaborTransmission]] - newest bridge between AI investment, labor, prices, and distribution.
+- [[GenerationalFormationUnderRapidChange]] - newest relationship between life-stage timing and rapid social change.
+- [[MidlifeRiskRecalibration]] - newest extension of the show's agency theme into household and career uncertainty.

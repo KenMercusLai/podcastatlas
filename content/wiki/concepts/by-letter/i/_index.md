@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11513
+wiki_total_pages: 11516
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "IntergenerationalPatternPause"
     title: "Intergenerational Pattern Pause / 代际模式暂停键"
     url: "/wiki/concepts/intergenerationalpatternpause/"
+  - key: "IntergenerationalResponsibilityTransition"
+    title: "Intergenerational Responsibility Transition / 代际责任转型"
+    url: "/wiki/concepts/intergenerationalresponsibilitytransition/"
   - key: "IntergenerationalYouthEconomicBurden"
     title: "Intergenerational Youth Economic Burden"
     url: "/wiki/concepts/intergenerationalyoutheconomicburden/"

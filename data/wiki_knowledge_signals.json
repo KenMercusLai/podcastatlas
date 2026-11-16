@@ -123690,9 +123690,9 @@
       "url": "/wiki/concepts/generalverticalagentcollaboration/"
     },
     "GenerationalEconomicTiming": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_8dbc38a9b9e4647dbd8e2ebddb601c4e_26201098 [default.mp3_ywr3ahjkcgo_8dbc38a9b9e4647dbd8e2ebddb601c4e_26201098].md",
@@ -123700,10 +123700,33 @@
           "show": "Planet Money",
           "title": "Cost-cutting, quiet guilt and the inflation generation",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098/"
+        },
+        {
+          "episode_file": "lkwrwuj1jCFXwtE6DbvT1ELVgl6e [lkwrwuj1jCFXwtE6DbvT1ELVgl6e].md",
+          "key": "zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e",
+          "show": "面基",
+          "title": "咱们80后：一个代际与中国追赶的40年",
+          "url": "/wiki/sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/generationaleconomictiming/"
+    },
+    "GenerationalFormationUnderRapidChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkwrwuj1jCFXwtE6DbvT1ELVgl6e [lkwrwuj1jCFXwtE6DbvT1ELVgl6e].md",
+          "key": "zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e",
+          "show": "面基",
+          "title": "咱们80后：一个代际与中国追赶的40年",
+          "url": "/wiki/sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/generationalformationunderrapidchange/"
     },
     "GenerationalSocialismAppeal": {
       "episode_count": 1,
@@ -160167,6 +160190,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/intergenerationalpatternpause/"
+    },
+    "IntergenerationalResponsibilityTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkwrwuj1jCFXwtE6DbvT1ELVgl6e [lkwrwuj1jCFXwtE6DbvT1ELVgl6e].md",
+          "key": "zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e",
+          "show": "面基",
+          "title": "咱们80后：一个代际与中国追赶的40年",
+          "url": "/wiki/sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/intergenerationalresponsibilitytransition/"
     },
     "IntergenerationalYouthEconomicBurden": {
       "episode_count": 2,
@@ -213189,9 +213228,9 @@
       "url": "/wiki/entities/miankoulatehan/"
     },
     "Mianji": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
@@ -213353,9 +213392,16 @@
           "show": "面基",
           "title": "宏观经济如何传导给我们每个人？",
           "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        },
+        {
+          "episode_file": "lkwrwuj1jCFXwtE6DbvT1ELVgl6e [lkwrwuj1jCFXwtE6DbvT1ELVgl6e].md",
+          "key": "zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e",
+          "show": "面基",
+          "title": "咱们80后：一个代际与中国追赶的40年",
+          "url": "/wiki/sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/mianji/"
     },
     "MiaoGuangLateHan": {
@@ -214693,6 +214739,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/midlifefemalestrengthpowertraining/"
+    },
+    "MidlifeRiskRecalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkwrwuj1jCFXwtE6DbvT1ELVgl6e [lkwrwuj1jCFXwtE6DbvT1ELVgl6e].md",
+          "key": "zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e",
+          "show": "面基",
+          "title": "咱们80后：一个代际与中国追赶的40年",
+          "url": "/wiki/sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/midliferiskrecalibration/"
     },
     "MidtermBacklashForecasting": {
       "episode_count": 5,

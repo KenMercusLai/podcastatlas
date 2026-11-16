@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11513
+wiki_total_pages: 11516
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "MidlifeFemaleStrengthPowerTraining"
     title: "Midlife Female Strength and Power Training"
     url: "/wiki/concepts/midlifefemalestrengthpowertraining/"
+  - key: "MidlifeRiskRecalibration"
+    title: "Midlife Risk Recalibration / 中年风险再校准"
+    url: "/wiki/concepts/midliferiskrecalibration/"
   - key: "MidlifeThreeAccounts"
     title: "Midlife Three Accounts"
     url: "/wiki/concepts/midlifethreeaccounts/"

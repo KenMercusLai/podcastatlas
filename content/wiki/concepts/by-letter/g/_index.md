@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11513
+wiki_total_pages: 11516
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "GenerationalFamilyStrategy"
     title: "Generational Family Strategy / 家族代际战略"
     url: "/wiki/concepts/generationalfamilystrategy/"
+  - key: "GenerationalFormationUnderRapidChange"
+    title: "Generational Formation Under Rapid Change / 快速变迁中的代际形成"
+    url: "/wiki/concepts/generationalformationunderrapidchange/"
   - key: "GenerationalSocialismAppeal"
     title: "Generational Socialism Appeal"
     url: "/wiki/concepts/generationalsocialismappeal/"

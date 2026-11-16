@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咱们80后：一个代际与中国追赶的40年](sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e.md) — 面基以80后的生命轨迹连接快速现代化、教育、住房、家庭责任、中年风险与AI转型。
 - [Way to Go, Ohio](sources/way-to-go-ohio-way-to-go-ohio.md) — Revisionist History connects Akron's iodine experiment and iodized salt to a deliberately impossible vaccine-delivery thought experiment about form, friction, consent, and trust.
 - [In Triplicate](sources/in-triplicate.md) — Revisionist History connects triplicate prescription monitoring, Purdue's launch strategy, opioid outcomes, ignored warnings, and messenger-based evidence discounting.
 - [Good Culture: How Jesse Merrill Made Cottage Cheese Cool](sources/vmp7035807570-vmp7035807570.md) — How I Built This case on reviving cottage cheese through product, packaging, retail velocity, creator preparation, and manufacturing scale.
@@ -19867,6 +19868,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Generational Formation Under Rapid Change / 快速变迁中的代际形成](concepts/GenerationalFormationUnderRapidChange.md) — 以社会变化速度和人生阶段暴露解释代际共性，同时保留阶层、地域、职业与价值差异。
+- [Midlife Risk Recalibration / 中年风险再校准](concepts/MidlifeRiskRecalibration.md) — 在产业、资产和家庭责任变化中，从增长最大化转向现金流、健康、适应力与期权保留。
+- [Intergenerational Responsibility Transition / 代际责任转型](concepts/IntergenerationalResponsibilityTransition.md) — 成人承担向上赡养，却不再把子女视为未来养老工具的非对称家庭转型。
 - [Iodized Salt Population Prevention](concepts/IodizedSaltPopulationPrevention.md) — Population prevention through an inexpensive, stable, widely consumed iodine delivery vehicle, bounded by dose and governance requirements.
 - [Intervention Delivery Framing](concepts/InterventionDeliveryFraming.md) — Framework separating biological effect from physical form, label, friction, disclosure, choice, consent, and trust.
 - [Triplicate Prescription Monitoring](concepts/TriplicatePrescriptionMonitoring.md) — Serialized three-location controlled-prescription records that make oversight auditable and behaviorally salient.

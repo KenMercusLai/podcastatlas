@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3872
+topic_total_pages: 3873
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11364,6 +11364,9 @@ topic_sources:
   - key: "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406"
     title: "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？"
     url: "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+  - key: "zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e"
+    title: "咱们80后：一个代际与中国追赶的40年"
+    url: "/wiki/sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e/"
   - key: "na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr"
     title: "哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人"
     url: "/wiki/sources/na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr/"

@@ -40482,6 +40482,18 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | 咱们80后：一个代际与中国追赶的40年
+
+Added the [[Mianji|面基]] episode using China's 80后 to connect rapid modernization, university expansion, urbanization, housing, migration, family duty, the internet, and AI across one life course. Created [[GenerationalFormationUnderRapidChange|快速变迁中的代际形成]], [[MidlifeRiskRecalibration|中年风险再校准]], and [[IntergenerationalResponsibilityTransition|代际责任转型]], and resynthesized [[GenerationalEconomicTiming]] and [[Mianji|面基]] from their complete bounded source inventories before appending the new source once.
+
+Core synthesis: a generation is shaped by the institutions and technologies it encounters at formative life stages, but a shared historical baseline does not erase differences of class, region, occupation, gender, or wealth. The episode's midlife caution is best read as risk recalibration: effort still matters, while cash flow, health, low debt, adaptability, and reversible choices preserve options when industry, housing, education, and technology regimes change.
+
+No settled contradiction was adopted. The source extends U.S.-focused economic-timing evidence and existing technology-memory work. Population, graduate, housing, pension, industry, and AI-distribution claims remain episode-attributed and date-scoped, and the speakers' urban, educated, content-industry cases are not representative of the entire 80后 cohort. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,117 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | 史蒂夫说479期 - 我们都可能被PUA，或者PUA别人 | 反情感操纵心理科普
 
 Added the [[ShiDiFuShuo|史蒂夫说]] episode in which [[SteveShiDiFuShuoHost|Steve]] treats emotional manipulation as a behavior spectrum involving relationship power, reality interpretation, attention diversion, responsibility reversal, moving standards, authority claims, and outside-reference erosion. Created [[EmotionalManipulationRecognition]], then resynthesized [[PowerLiteracy]], [[RelationalInterpretiveAuthority]], [[PsychologicalAbuseRecognition]], the show, and the host from each page's complete preserved source inventory before appending the new source once.
@@ -41452,6 +41464,10 @@ No settled contradiction was adopted. Earlier iodine toxicity and later preventi
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,116 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
