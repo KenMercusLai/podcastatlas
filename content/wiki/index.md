@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Just Sex](sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294.md) — Hidden Brain and Lisa Wade separate hookup frequency from an alcohol-, status-, and detachment-centered campus script with unequal access and emotional costs.
 - [Group Think](sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056.md) — Hidden Brain and Jay Van Bavel connect group identity to perception, polarization, platform hostility, shared goals, and cooperative boundary expansion.
 - [Politics Is for Power: Moving Beyond Political Hobbyism](sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082.md) — Hidden Brain and Eytan Hirsch distinguish political hobbyism from local service, organization, turnout, persuasion, and institution-focused power building.
 - [Being Kind to Yourself](sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469.md) — Hidden Brain and Kristin Neff connect self-kindness, mindfulness, common humanity, protective self-criticism, and shame-safe accountability with explicit evidence limits.
@@ -5279,6 +5280,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 
 ## Entities
+- [Lisa Wade](entities/LisaWade.md) — Sociologist distinguishing college sexual behavior from the status, gender, peer, and emotional rules surrounding hookups.
 - [Jay Van Bavel](entities/JayVanBavel.md) — Social psychologist connecting group identity to preference, perception, reward, polarization, and cooperative boundary expansion.
 - [Eytan Hirsch](entities/EytanHirsch.md) — Political scientist distinguishing political hobbyism from sustained local organization, service, persuasion, and power building.
 - [Kristin Neff](entities/KristinNeff.md) — Psychologist represented through her three-part self-compassion framework, accountable-care boundary, and practical response to the inner critic.
@@ -19965,6 +19967,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [College Hookup Culture](concepts/CollegeHookupCulture.md) — Campus sexual script joining casual intimacy to alcohol, peer approval, status, performed detachment, and unequal participation.
+- [Performed Nonattachment](concepts/PerformedNonattachment.md) — Strategic display of caring less to preserve casual status and avoid the social cost of emotional honesty.
 - [Group Identity](concepts/GroupIdentity.md) — Context-sensitive incorporation of collective membership into belonging, valuation, perception, and action.
 - [Superordinate Identity Cooperation](concepts/SuperordinateIdentityCooperation.md) — Broader shared membership made credible through interdependence, inclusive leadership, and visible cooperative success.
 - [Political Hobbyism](concepts/PoliticalHobbyism.md) — Political attention used mainly for information, identity, emotion, status, or spectacle without an organized attempt to influence people or institutions.

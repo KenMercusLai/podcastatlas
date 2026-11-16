@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11582
+wiki_total_pages: 11584
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1790,6 +1790,9 @@ wiki_pages:
   - key: "CollegeCareerPreparation"
     title: "College Career Preparation"
     url: "/wiki/concepts/collegecareerpreparation/"
+  - key: "CollegeHookupCulture"
+    title: "College Hookup Culture"
+    url: "/wiki/concepts/collegehookupculture/"
   - key: "CollegeLogoLicensingMerchandise"
     title: "College Logo Licensing Merchandise / 大学校名校徽授权商品"
     url: "/wiki/concepts/collegelogolicensingmerchandise/"

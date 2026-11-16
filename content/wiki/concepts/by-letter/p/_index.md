@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11582
+wiki_total_pages: 11584
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "PerformativeShamelessnessCountercontrol"
     title: "Performative Shamelessness Counter-Control / 表演性“无耻”反制"
     url: "/wiki/concepts/performativeshamelessnesscountercontrol/"
+  - key: "PerformedNonattachment"
+    title: "Performed Nonattachment"
+    url: "/wiki/concepts/performednonattachment/"
   - key: "PerformerHealthAsCareerInfrastructure"
     title: "Performer Health as Career Infrastructure / 表演者健康作为职业基础设施"
     url: "/wiki/concepts/performerhealthascareerinfrastructure/"

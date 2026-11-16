@@ -41707,6 +41707,16 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-17] ingest | Just Sex
+
+Added a [[HiddenBrain]] episode with sociologist [[LisaWade]] separating the frequency of college hookups from [[CollegeHookupCulture|the culture governing their meaning]]. Created Wade's focused profile and [[PerformedNonattachment]], then resynthesized [[SexualScriptPerformancePressure]] from its complete preserved evidence inventory before appending the new source once. The broad Hidden Brain profile and automatic `wiki/overview.md` remained closed.
+
+Core synthesis: hookup culture is an institutional script rather than a count of sexual acts. Alcohol, parties, dancing, peer approval, partner status, apparent spontaneity, and post-encounter distance help classify intimacy as casual. Because emotional investment becomes a liability, stereotyped expectations can trigger recursive distancing in which each person performs less care than the other. Access and outcomes are also unequal across race, gender, sexuality, class, disability, conventional attractiveness, religious practice, alcohol use, and campus composition.
+
+No settled contradiction was adopted. The episode complements the modern-romance and sexual-agency pages by showing that public casual-sex norms can coexist with low participation, ambivalence, relationship desire, and refusal. It neither condemns all casual sex nor treats consent as sufficient to erase peer pressure, coercion, unequal access, or poor treatment. Participation statistics, demographic patterns, causal explanations, student testimony, and pandemic changes remain episode-scoped because the supplied file is a structured summary rather than a transcript, study set, dataset, or complete interview archive.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,153 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | Minimizing Pain, Maximizing Joy
 
 Added a [[HiddenBrain]] episode with philosopher [[WilliamIrvine]] on practical Stoicism. Created Irvine's focused profile, [[StoicControlAllocation]], and [[StoicSetbackReframing]], then resynthesized [[HedonicAdaptationAndContrast]] from its complete preserved source inventory before appending the new source once.

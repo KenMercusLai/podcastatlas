@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14590
+wiki_total_pages: 14591
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "LisaMosconi"
     title: "Lisa Mosconi"
     url: "/wiki/entities/lisamosconi/"
+  - key: "LisaWade"
+    title: "Lisa Wade"
+    url: "/wiki/entities/lisawade/"
   - key: "LitalMolad"
     title: "Lital Molad"
     url: "/wiki/entities/litalmolad/"

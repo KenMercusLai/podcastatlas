@@ -61521,6 +61521,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/collectivewatermanagement/"
     },
+    "CollegeHookupCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294 [default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294].md",
+          "key": "default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294",
+          "show": "Hidden Brain",
+          "title": "Just Sex",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/collegehookupculture/"
+    },
     "CollegeLogoLicensingMerchandise": {
       "episode_count": 1,
       "show_count": 1,
@@ -190092,6 +190108,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/lisamosconi/"
     },
+    "LisaWade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294 [default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294].md",
+          "key": "default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294",
+          "show": "Hidden Brain",
+          "title": "Just Sex",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/lisawade/"
+    },
     "LisbonEarthquake1755": {
       "episode_count": 2,
       "show_count": 2,
@@ -244669,6 +244701,22 @@
       "updated": "2026-10-20",
       "url": "/wiki/concepts/performativeshamelessnesscountercontrol/"
     },
+    "PerformedNonattachment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294 [default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294].md",
+          "key": "default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294",
+          "show": "Hidden Brain",
+          "title": "Just Sex",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/performednonattachment/"
+    },
     "PerformerAudienceStateCoupling": {
       "episode_count": 5,
       "show_count": 2,
@@ -285698,9 +285746,9 @@
       "url": "/wiki/entities/sexualpersonae/"
     },
     "SexualScriptPerformancePressure": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljRVwz7kAvgep3R4T8UXElvHxBql [ljRVwz7kAvgep3R4T8UXElvHxBql].md",
@@ -285708,9 +285756,16 @@
           "show": "Talk三联",
           "title": "EP293 性不容易，亲密更难：我们缺的是欲望，还是合适的人？",
           "url": "/wiki/sources/ep293-xing-bu-rongyi-qinmi-geng-nan-women-que-de-shi-yuwang-haishi-heshi-de-ren-ljrvwz7kavgep3r4t8uxelvhxbql/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294 [default.mp3_ywr3ahjkcgo_b22429cd47d6a37db02cc28d3ef377e1_25960294].md",
+          "key": "default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294",
+          "show": "Hidden Brain",
+          "title": "Just Sex",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294-default-mp3-ywr3ahjkcgo-b22429cd47d6a37db02cc28d3ef377e1-25960294/"
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/sexualscriptperformancepressure/"
     },
     "SexualitySecrecyPoliticalVulnerability": {
