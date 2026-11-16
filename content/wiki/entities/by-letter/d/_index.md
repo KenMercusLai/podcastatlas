@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14609
+wiki_total_pages: 14611
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "DignityAct"
     title: "Dignity Act"
     url: "/wiki/entities/dignityact/"
+  - key: "DillardUniversity"
+    title: "Dillard University"
+    url: "/wiki/entities/dillarduniversity/"
   - key: "DillinghamCommission"
     title: "Dillingham Commission"
     url: "/wiki/entities/dillinghamcommission/"

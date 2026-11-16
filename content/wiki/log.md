@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Project Dillard
+
+Added a [[RevisionistHistory]] episode in which [[MalcolmGladwell]] and [[WalterKimbrough]] use [[DillardUniversity]] to test what college rankings actually reward. Created focused synthesis-first pages for Dillard, Kimbrough, and [[CollegeRankingPrivilege]], then resynthesized [[USNewsAndWorldReport|U.S. News and World Report]], [[IvyLeagueMeritocracy]], and [[PotentialAsGrowthRate]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: endowment, spending, reputation, selectivity, test scores, completion, alumni giving, and debt can repeatedly encode institutional and student advantage, allowing rank to rise without demonstrated teaching improvement. Dillard's access mission, close support relationships, and reported Black-physics outcomes instead emphasize the difference between selecting conventionally strong students and helping students develop capability under less advantaged conditions.
+
+No settled contradiction was adopted. Resources, staffing, preparation, and completion can matter, but raw and correlated measures do not by themselves establish causal teaching quality, fit, or value added. The ranking model, regression fit, institutional finances, demographic shares, outcome counts, and student stories remain episode-scoped because the supplied file is a structured summary without underlying datasets, methods, uncertainty, or independent comparison. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving three pending ingests; refreshed artifacts validate 5,163 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | Little Mermaid Part 1: The Golden Contract
 
 Added a [[RevisionistHistory]] episode in which [[MalcolmGladwell]] and [[LauraBethNielsen|Laura Beth Nielsen]] read Disney's *The Little Mermaid* as an early model of law, morality, and justice. Created Nielsen's focused profile plus [[ChildrensNarrativeLegalSocialization]], [[FormalLegalityJusticeGap]], and [[ViolenceAsInstitutionalSubstitute]], then resynthesized [[HansChristianAndersen|Hans Christian Andersen]] and [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]] from their complete preserved evidence inventories before appending the new source once.
@@ -42094,6 +42104,10 @@ Core synthesis: calm intentions do not guarantee access to the same priorities u
 No settled contradiction was adopted. Failure to leave, confront, or resist does not establish consent, while state-dependent explanation does not erase accountability. The ice-water, sexual-arousal, harassment, training, addiction, and policy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, ethics materials, replication evidence, or policy evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,160 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide validator still reports 60 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

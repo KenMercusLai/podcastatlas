@@ -61695,6 +61695,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/collegelogolicensingmerchandise/"
     },
+    "CollegeRankingPrivilege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Project_Dillard [Project_Dillard].md",
+          "key": "project-dillard-project-dillard",
+          "show": "Revisionist History",
+          "title": "Project Dillard",
+          "url": "/wiki/sources/project-dillard-project-dillard/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/collegerankingprivilege/"
+    },
     "CollegeSportsFandomDemand": {
       "episode_count": 1,
       "show_count": 1,
@@ -83126,6 +83142,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/dilemmaactions/"
+    },
+    "DillardUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Project_Dillard [Project_Dillard].md",
+          "key": "project-dillard-project-dillard",
+          "show": "Revisionist History",
+          "title": "Project Dillard",
+          "url": "/wiki/sources/project-dillard-project-dillard/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/dillarduniversity/"
     },
     "DinaPowellMcCormick": {
       "episode_count": 1,
@@ -165651,9 +165683,9 @@
       "url": "/wiki/entities/ivonescimab/"
     },
     "IvyLeagueMeritocracy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "160.优秀的绵羊：请把说“不”的权利还给我 [933088014].md",
@@ -165668,9 +165700,16 @@
           "show": "Revisionist History",
           "title": "Unlocking Hidden Potential with Adam Grant",
           "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
+        },
+        {
+          "episode_file": "Project_Dillard [Project_Dillard].md",
+          "key": "project-dillard-project-dillard",
+          "show": "Revisionist History",
+          "title": "Project Dillard",
+          "url": "/wiki/sources/project-dillard-project-dillard/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/ivyleaguemeritocracy/"
     },
     "JAndTExpress": {
@@ -254403,9 +254442,9 @@
       "url": "/wiki/concepts/postwarteenageconsumermarket/"
     },
     "PotentialAsGrowthRate": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -254420,9 +254459,16 @@
           "show": "Revisionist History",
           "title": "Unlocking Hidden Potential with Adam Grant",
           "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
+        },
+        {
+          "episode_file": "Project_Dillard [Project_Dillard].md",
+          "key": "project-dillard-project-dillard",
+          "show": "Revisionist History",
+          "title": "Project Dillard",
+          "url": "/wiki/sources/project-dillard-project-dillard/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/potentialasgrowthrate/"
     },
     "PovertyMemoryCorruptionExcuse": {
@@ -323982,9 +324028,9 @@
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
     },
     "USNewsAndWorldReport": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260225_0225_MP_TECH_pod_128 [tech_20260225_0225_MP_TECH_pod_128].md",
@@ -323999,9 +324045,16 @@
           "show": "Revisionist History",
           "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
           "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+        },
+        {
+          "episode_file": "Project_Dillard [Project_Dillard].md",
+          "key": "project-dillard-project-dillard",
+          "show": "Revisionist History",
+          "title": "Project Dillard",
+          "url": "/wiki/sources/project-dillard-project-dillard/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/usnewsandworldreport/"
     },
     "USVKhoury": {
@@ -330851,6 +330904,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/walterhess/"
+    },
+    "WalterKimbrough": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Project_Dillard [Project_Dillard].md",
+          "key": "project-dillard-project-dillard",
+          "show": "Revisionist History",
+          "title": "Project Dillard",
+          "url": "/wiki/sources/project-dillard-project-dillard/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/walterkimbrough/"
     },
     "WalterOng": {
       "episode_count": 2,

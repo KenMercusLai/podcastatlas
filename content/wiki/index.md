@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Project Dillard](sources/project-dillard-project-dillard.md) — Revisionist History uses Dillard University to show how wealth, selectivity, student advantage, and reputation can outrank access, support, and developmental contribution.
 - [Little Mermaid Part 1: The Golden Contract](sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract.md) — Revisionist History reads Disney's golden contract as a lesson about formal legality, exploitative consent, children's legal socialization, and violence replacing institutional justice.
 - [You 2.0: Cultivating Your Purpose](sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705.md) — Hidden Brain and Anthony Burrow distinguish purpose from meaning and finite goals, then connect direction to emotional stability, effort, identity exploration, cultivation pathways, and unequal opportunity.
 - [You 2.0: In the Heat of the Moment](sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064.md) — Hidden Brain and George Loewenstein connect cross-state self-prediction, fear and arousal, realistic rehearsal, prepared responses, accessible safeguards, and decision delay.
@@ -5289,6 +5290,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
 
 ## Entities
+- [Dillard University](entities/DillardUniversity.md) — Historically Black liberal arts university used to contrast access and student development with ranking-driven prestige.
+- [Walter Kimbrough](entities/WalterKimbrough.md) — Dillard president arguing that college rankings perpetuate privilege and conflict with an access-oriented mission.
 - [Laura Beth Nielsen](entities/LauraBethNielsen.md) — Northwestern sociolegal scholar connecting children's media, legal consciousness, substantive justice, and institutional remedy.
 - [Anthony Burrow](entities/AnthonyBurrow.md) — Psychologist distinguishing ongoing purpose from meaning and goals while connecting direction to identity, effort, and developmental opportunity.
 - [GripTape](entities/GripTape.md) — Youth-development initiative using a ten-week self-directed challenge and adult champion to widen access to purpose exploration.
@@ -19994,6 +19997,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [College Ranking Privilege](concepts/CollegeRankingPrivilege.md) — Pattern in which wealth, student advantage, selectivity, completion, and reputation are repeatedly counted as educational quality.
 - [Children's Narrative Legal Socialization](concepts/ChildrensNarrativeLegalSocialization.md) — How stories supply early models of rules, authority, fairness, and remedies without mechanically determining children's beliefs.
 - [Formal Legality-Justice Gap](concepts/FormalLegalityJusticeGap.md) — Difference between an arrangement looking legally authoritative and deserving recognition or enforcement.
 - [Violence as Institutional Substitute](concepts/ViolenceAsInstitutionalSubstitute.md) — Narrative pattern in which absent or captured institutions leave private force as the only effective remedy.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11602
+wiki_total_pages: 11603
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "CollegeProgramEarningsAccountability"
     title: "College Program Earnings Accountability"
     url: "/wiki/concepts/collegeprogramearningsaccountability/"
+  - key: "CollegeRankingPrivilege"
+    title: "College Ranking Privilege"
+    url: "/wiki/concepts/collegerankingprivilege/"
   - key: "CollegeSportsFandomDemand"
     title: "College Sports Fandom Demand / 大学体育球迷需求"
     url: "/wiki/concepts/collegesportsfandomdemand/"
