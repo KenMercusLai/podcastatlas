@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11521
+wiki_total_pages: 11523
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3479,6 +3479,9 @@ wiki_pages:
   - key: "CultivatedMeat"
     title: "Cultivated Meat"
     url: "/wiki/concepts/cultivatedmeat/"
+  - key: "CultivationalCoaching"
+    title: "Cultivational Coaching"
+    url: "/wiki/concepts/cultivationalcoaching/"
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"

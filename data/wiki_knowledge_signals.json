@@ -40758,6 +40758,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/budgreenspan/"
     },
+    "BudWinter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/budwinter/"
+    },
     "BuddhistSpeechRestraint": {
       "episode_count": 2,
       "show_count": 1,
@@ -71760,6 +71776,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/cultivatedmeat/"
+    },
+    "CultivationalCoaching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/cultivationalcoaching/"
     },
     "CulturalDeclineAnxiety": {
       "episode_count": 1,
@@ -235127,9 +235159,9 @@
       "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
     },
     "OptimalPerformanceRange": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
@@ -235137,6 +235169,13 @@
           "show": "不合时宜",
           "title": "运动员最大的对手，是自己的大脑",
           "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
+        },
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
         }
       ],
       "updated": "2026-11-11",
@@ -262874,6 +262913,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/rayneo/"
     },
+    "RayNorton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/raynorton/"
+    },
     "RaySolomonoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -266176,6 +266231,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/relativeageeffect/"
+    },
+    "RelaxedMaximalPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/relaxedmaximalperformance/"
     },
     "ReliabilityDrivenInfrastructureOwnership": {
       "episode_count": 1,
@@ -277844,6 +277915,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/sanjosecalifornia/"
+    },
+    "SanJoseStateUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sanjosestateuniversity/"
     },
     "SanWuHuan": {
       "episode_count": 16,
@@ -295437,6 +295524,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/speechneuroprosthetics/"
+    },
+    "SpeedCity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Relax_and_Win_from_Legacy_of_Speed [Relax_and_Win_from_Legacy_of_Speed].md",
+          "key": "relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed",
+          "show": "Revisionist History",
+          "title": "Relax and Win: How Bud Winter Built Speed City",
+          "url": "/wiki/sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/speedcity/"
     },
     "SpencerKaplan": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14534
+wiki_total_pages: 14538
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "BudGreenspan"
     title: "Bud Greenspan"
     url: "/wiki/entities/budgreenspan/"
+  - key: "BudWinter"
+    title: "Bud Winter"
+    url: "/wiki/entities/budwinter/"
   - key: "Budokan"
     title: "Budokan"
     url: "/wiki/entities/budokan/"

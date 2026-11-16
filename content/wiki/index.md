@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Relax and Win: How Bud Winter Built Speed City](sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed.md) — Revisionist History connects Bud Winter's relaxation training, talent development, sprint mechanics, and Speed City's athletic prominence to later athlete activism.
 - [Revisionist History Season 7: The Experiment Experience](sources/revisionist-history-season-7-the-experiment-experience-revisionist-history-season-7-the-experiment-experience.md) — Season-seven trailer framing uncertainty, error, thought experiments, natural experiments, and magic-wand scenarios as prompts for inquiry rather than findings.
 - [Mushrooms for the Mind & Immune System | Paul Stamets](sources/scim1074623919-scim1074623919.md) — Huberman Lab distinguishes fungal ecology and research signals from commercial, clinical, psychedelic, and speculative overreach.
 - [The Magic Wand Experiment](sources/the-magic-wand-experiment-the-magic-wand-experiment.md) — Revisionist History uses impossible studies to expose causal questions about development, screens, social treatment, technology, and environment-led public health.
@@ -5246,6 +5247,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Bud Winter](entities/BudWinter.md) — Speed City coach who combined relaxation, visualization, sprint mechanics, and systematic talent development.
+- [Ray Norton](entities/RayNorton.md) — First major Speed City sprint star whose Rome injury marks the limits of technical and psychological preparation.
+- [Speed City](entities/SpeedCity.md) — San José State sprint program linking integrated coaching, national prominence, and later political visibility.
+- [San José State University](entities/SanJoseStateUniversity.md) — Institutional home of Speed City and a setting where Black athletic success met civil-rights organizing.
 - [Paul Stamets](entities/PaulStamets.md) — Mycologist and entrepreneur linking fungal ecology, natural-product research, psychedelics, and environmental applications.
 - [Joyce Benenson](entities/JoyceBenenson.md) — Child psychologist using an impossible sex-perception experiment to separate biological and parental influence.
 - [Adam Alter](entities/AdamAlter.md) — Psychologist proposing lifelong randomized screen exposure to study social and developmental effects.
@@ -19876,6 +19881,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Relaxed Maximal Performance](concepts/RelaxedMaximalPerformance.md) — High task-specific force and speed without unnecessary muscular tension or generalized strain.
+- [Cultivational Coaching](concepts/CultivationalCoaching.md) — Systematic production of capability through diagnosis, instruction, rehearsal, feedback, and refinement.
 - [Medicinal Mushroom Immune Modulation](concepts/MedicinalMushroomImmuneModulation.md) — Evidence boundary for preparation-specific fungal immune claims.
 - [Complex Natural Product Synergy](concepts/ComplexNaturalProductSynergy.md) — Distinguishes whole-preparation activity from demonstrated molecular synergy.
 - [Fungal Network Intelligence Boundary](concepts/FungalNetworkIntelligenceBoundary.md) — Separates fungal signaling from language, cognition, or consciousness claims.

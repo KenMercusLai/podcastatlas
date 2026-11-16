@@ -41526,3 +41526,19 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Relax and Win: How Bud Winter Built Speed City
+
+Added the [[RevisionistHistory]] episode on [[BudWinter]], [[RayNorton]], [[SanJoseStateUniversity]], and the emergence of [[SpeedCity]]. Created focused profiles for those four entities and created [[RelaxedMaximalPerformance]] and [[CultivationalCoaching]]. Resynthesized [[OptimalPerformanceRange]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: maximum useful effort is not generalized muscular strain. Winter's system joined task-specific relaxation, stopwatch feedback, visualization, mechanics, equipment refinement, and the recognition of overlooked trainable qualities. Norton's severe pre-Rome injury establishes the boundary: psychological and technical economy cannot replace healthy tissue, conditioning, sleep, or medical disclosure. Speed City's athletic prominence helped create public visibility for later athlete activism without by itself explaining political conviction or organizing.
+
+No settled contradiction was adopted. Fighter-pilot study design, coaching totals, record claims, biomechanics, injury details, motives, and causal influence remain source-scoped because the supplied file is a structured episode summary rather than a transcript, research report, coaching archive, or medical record. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and Olympic profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,121 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide ingest checker still reports 60 pre-existing broken wikilinks outside the changed pages; this ingest introduced none.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

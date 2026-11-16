@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14534
+wiki_total_pages: 14538
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "SanJoseCalifornia"
     title: "San Jose, California"
     url: "/wiki/entities/sanjosecalifornia/"
+  - key: "SanJoseStateUniversity"
+    title: "San José State University"
+    url: "/wiki/entities/sanjosestateuniversity/"
   - key: "SanJuanDeUlua"
     title: "San Juan de Ulua"
     url: "/wiki/entities/sanjuandeulua/"
@@ -1430,6 +1433,9 @@ wiki_pages:
   - key: "Sparta"
     title: "Sparta"
     url: "/wiki/entities/sparta/"
+  - key: "SpeedCity"
+    title: "Speed City"
+    url: "/wiki/entities/speedcity/"
   - key: "SpencerKaplan"
     title: "Spencer Kaplan"
     url: "/wiki/entities/spencerkaplan/"

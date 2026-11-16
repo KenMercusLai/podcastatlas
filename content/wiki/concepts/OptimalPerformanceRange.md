@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [performance, arousal, sports-psychology, attention]
 sources:
   - yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae
+  - relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed
 last_updated: 2026-11-11
 ---
 
@@ -14,7 +15,9 @@ Optimal performance range / 最佳表现区间 is the athlete- and task-specific
 ## Current Synthesis
 The range frame replaces the search for one perfect state. Competition adds consequence, public judgment, and career uncertainty that training cannot fully reproduce, so even excellent athletes may perform below their private peak. The practical goal is therefore not to guarantee flow or eliminate anxiety but to recognize current activation, keep it within a workable band, and know how execution changes across states.
 
-The useful band varies by event and person. Precision shooting may require comparatively lower activation, while fencing, boxing, or wrestling may need more mobilization. Under-activation can call for warm-up and energizing cues; excessive activation and somatic anxiety may call for breathing, music, conversation, attention shifts, or successful imagery. These are hypotheses to individualize and rehearse, not universal prescriptions.
+The useful band varies by event and person. Precision shooting may require comparatively lower activation, while fencing, boxing, wrestling, or sprinting may need more mobilization. Under-activation can call for warm-up and energizing cues; excessive activation and somatic anxiety may call for breathing, music, conversation, attention shifts, or successful imagery. These are hypotheses to individualize and rehearse, not universal prescriptions.
+
+[[relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed|Relax and Win]] sharpens what “activation” means inside that range. [[BudWinter]] did not ask sprinters to become globally passive; he asked them to preserve force and speed while releasing avoidable tension in the hands, jaw, and face. [[RelaxedMaximalPerformance]] therefore separates whole-task mobilization from local muscular strain. A highly activated athlete may still perform economically, while visible effort and maximal contraction everywhere can reduce speed.
 
 ## Key Claims
 - Peak performance is better modeled as a workable range than a single reproducible point.
@@ -22,19 +25,22 @@ The useful band varies by event and person. Precision shooting may require compa
 - Too little activation can impair mobilization, while excessive motivation or arousal can tighten and slow execution.
 - Competition performance may sit below training peaks because consequence and uncertainty cannot be perfectly simulated.
 - Regulation can move activation upward or downward; “calm” is not the correct target for every sport.
+- High task activation can coexist with local muscular relaxation, so visible strain is not a reliable measure of useful effort.
 - Stable execution across imperfect states is more trainable than reliably producing flow.
 
 ## Evidence
 - Range rather than point - [[yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae]] says mature athletes learn different ways to compete in different states and treats best performance as a zone.
 - Event specificity - [[yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae]] contrasts lower activation in shooting with higher activation in fencing, boxing, and wrestling.
 - Bidirectional regulation - [[yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae]] describes warm-up for insufficient activation and breathing, music, conversation, attention shifts, or imagery for excessive activation.
+- Local relaxation within sprint effort - [[relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed]] describes loose-hand and loose-jaw cues, timed strained-versus-relaxed runs, and the distinction between maximum muscle use and generalized tension.
 
 ## Counterevidence & Qualifications
-The episode invokes an inverted-U relationship but supplies no measurements, thresholds, or comparative studies, and a simple curve can hide skill, fatigue, injury, tactical demand, appraisal, and individual differences. Event labels do not determine one correct physiological state for every athlete. Flow frequency and peak-state reports are anecdotal here. Regulation practices should be evaluated within sport-specific coaching and medical boundaries rather than used to override exhaustion, pain, illness, or unsafe conditions.
+The sources invoke performance-range and relaxation mechanisms without supplying universal measurements, thresholds, or a comparative test of complete coaching systems. A simple curve can hide skill, fatigue, injury, local muscle demands, tactical demand, appraisal, and individual differences. Event labels do not determine one correct physiological state for every athlete, and some movements require task-specific stiffness. Flow frequency, peak-state reports, Winter's stopwatch comparisons, and the proposed oxygen cost remain source-scoped. Regulation practices should be evaluated within sport-specific coaching and medical boundaries rather than used to override exhaustion, pain, illness, or unsafe conditions.
 
 ## What Changed
-- Established a range-based alternative to chasing one perfect competitive state.
-- Added task-specific, bidirectional regulation while preserving individual and medical boundaries.
+- Distinguished whole-task activation from unnecessary local muscular tension.
+- Added sprinting as a case where high mobilization and relaxed execution can coexist.
+- Preserved injury, conditioning, and task-specific stiffness as limits on relaxation cues.
 
 ## Related Concepts
 - [[PsychologicalFlexibilityUnderPerformancePressure]] - ability to execute without first requiring an ideal internal state.
@@ -42,3 +48,4 @@ The episode invokes an inverted-U relationship but supplies no measurements, thr
 - [[FlowClutchLearningDistinction]] - separates effortless-feeling peak expression from effortful high performance and learning.
 - [[ArousalCircuitSpecificity]] - cautions that outward activation does not identify one universal internal mechanism.
 - [[EliteSportPsychologicalSupportSystem]] - preparation structure for identifying and rehearsing an athlete's workable range.
+- [[RelaxedMaximalPerformance]] - specifies how high effort can remain mechanically economical within the useful range.
