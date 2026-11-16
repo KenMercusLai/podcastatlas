@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11543
+wiki_total_pages: 11546
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2198,6 +2198,9 @@ wiki_pages:
   - key: "AmbisexualWorldbuilding"
     title: "Ambisexual Worldbuilding / 双性世界建构"
     url: "/wiki/concepts/ambisexualworldbuilding/"
+  - key: "AmbivalentLeadership"
+    title: "Ambivalent Leadership"
+    url: "/wiki/concepts/ambivalentleadership/"
   - key: "AmericaAsIdea"
     title: "America as Idea"
     url: "/wiki/concepts/americaasidea/"

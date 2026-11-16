@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11543
+wiki_total_pages: 11546
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "PaperWealthVsCashValue"
     title: "Paper Wealth Vs Cash Value"
     url: "/wiki/concepts/paperwealthvscashvalue/"
+  - key: "ParadoxMindset"
+    title: "Paradox Mindset"
+    url: "/wiki/concepts/paradoxmindset/"
   - key: "ParamilitarySpoilerViolence"
     title: "Paramilitary Spoiler Violence"
     url: "/wiki/concepts/paramilitaryspoilerviolence/"

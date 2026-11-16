@@ -41642,3 +41642,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Benefits of Mixed Emotions
+
+Added a [[HiddenBrain]] episode with psychologist [[NaomiRothman]] on [[EmotionalAmbivalence]], the discomfort and social penalties of visible conflict, and its context-dependent links to advice-taking, creativity, cognitive flexibility, cooperation, and judgment.
+
+Created Naomi Rothman, Emotional Ambivalence, [[AmbivalentLeadership]], and [[ParadoxMindset]]. Core synthesis: mixed emotions are neither a defect to suppress nor a universal advantage; they can preserve competing information and improve inquiry, but competitive settings, urgent decisions, and status expectations can convert the same conflict into delay, exploitation, or lost authority. The broad [[HiddenBrain]] profile remained closed because the focused pages capture the durable addition without reopening its unrelated evidence inventory. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+No settled contradiction was adopted. Advice receptiveness is useful only when advice is sound, cooperation moderates rather than guarantees benefit, and paradox mindset remains a hypothesis rather than an established intervention. Experimental effects, gender differences, earnings-call findings, team-performance mechanisms, and personal cases remain episode-scoped because the supplied file is a structured summary rather than a transcript, study report, dataset, or systematic review.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,129 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

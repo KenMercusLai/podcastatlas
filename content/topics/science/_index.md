@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1686
+topic_total_pages: 1687
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4794,6 +4794,9 @@ topic_sources:
   - key: "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637"
     title: "The Art of True Happiness | Dr. Arthur Brooks"
     url: "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+  - key: "default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474-default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474"
+    title: "The Benefits of Mixed Emotions"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474-default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474/"
   - key: "the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481"
     title: "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson"
     url: "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
