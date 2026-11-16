@@ -41510,3 +41510,19 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Revisionist History Season 7: The Experiment Experience
+
+Added a brief [[RevisionistHistory]] season-seven trailer in which [[MalcolmGladwell]] organizes the forthcoming episodes around thought experiments, what-if scenarios, natural experiments, and “magic wand” experiments.
+
+Resynthesized [[ImpossibleExperimentDesign]] to include the preview's experiment taxonomy and error-tolerant inquiry stance. The source is kept distinct from the later full episode: willingness to risk a wrong hypothesis supports inquiry only when the hypothesis remains testable and its evidentiary limits stay explicit. Large Malcolm Gladwell and Revisionist History profiles remained closed because the trailer adds no material biographical or organizational judgment.
+
+No settled contradiction was adopted. The preview's named locations, popular-culture fragments, scientific hypotheses, and blinded comparison remain promotional teasers rather than findings, and its several experiment types support different forms of inference.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,120 sources across 811 overview paragraphs and nine topics. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

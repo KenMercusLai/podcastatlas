@@ -156653,9 +156653,9 @@
       "url": "/wiki/concepts/importedtroopslocalelitecleavage/"
     },
     "ImpossibleExperimentDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Magic_Wand_Experiment [The_Magic_Wand_Experiment].md",
@@ -156663,6 +156663,13 @@
           "show": "Revisionist History",
           "title": "The Magic Wand Experiment",
           "url": "/wiki/sources/the-magic-wand-experiment-the-magic-wand-experiment/"
+        },
+        {
+          "episode_file": "Revisionist_History_Season_7_The_Experiment_Experience [Revisionist_History_Season_7_The_Experiment_Experience].md",
+          "key": "revisionist-history-season-7-the-experiment-experience-revisionist-history-season-7-the-experiment-experience",
+          "show": "Revisionist History",
+          "title": "Revisionist History Season 7: The Experiment Experience",
+          "url": "/wiki/sources/revisionist-history-season-7-the-experiment-experience-revisionist-history-season-7-the-experiment-experience/"
         }
       ],
       "updated": "2026-11-16",

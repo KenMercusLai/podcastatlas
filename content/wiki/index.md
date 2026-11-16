@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Revisionist History Season 7: The Experiment Experience](sources/revisionist-history-season-7-the-experiment-experience-revisionist-history-season-7-the-experiment-experience.md) — Season-seven trailer framing uncertainty, error, thought experiments, natural experiments, and magic-wand scenarios as prompts for inquiry rather than findings.
 - [Mushrooms for the Mind & Immune System | Paul Stamets](sources/scim1074623919-scim1074623919.md) — Huberman Lab distinguishes fungal ecology and research signals from commercial, clinical, psychedelic, and speculative overreach.
 - [The Magic Wand Experiment](sources/the-magic-wand-experiment-the-magic-wand-experiment.md) — Revisionist History uses impossible studies to expose causal questions about development, screens, social treatment, technology, and environment-led public health.
 - [咱们80后：一个代际与中国追赶的40年](sources/zanmen-80hou-yige-daiji-yu-zhongguo-zhuigan-de-40nian-lkwrwuj1jcfxwte6dbvt1elvgl6e.md) — 面基以80后的生命轨迹连接快速现代化、教育、住房、家庭责任、中年风险与AI转型。
