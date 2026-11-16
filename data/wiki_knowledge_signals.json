@@ -21167,6 +21167,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/antithesiswriting/"
     },
+    "AntiTrendDesignLongevity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/antitrenddesignlongevity/"
+    },
     "AntiUsurpationCoalitionPressure": {
       "episode_count": 4,
       "show_count": 1,
@@ -34880,6 +34896,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/bioequivalenceevidenceboundary/"
+    },
+    "BiographicalInteriorDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/biographicalinteriordesign/"
     },
     "Bioinformatics": {
       "episode_count": 2,
@@ -67774,6 +67806,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/craftlaborbottleneck/"
+    },
+    "CraftSourcingKnowledge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/craftsourcingknowledge/"
     },
     "CraigHeller": {
       "episode_count": 2,
@@ -103319,6 +103367,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/explanatoryoverreach/"
+    },
+    "ExploratoryTravelSerendipity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/exploratorytravelserendipity/"
     },
     "ExponentialTimeHypothesis": {
       "episode_count": 1,
@@ -201028,9 +201092,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 1,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -201234,6 +201298,13 @@
           "show": "Revisionist History",
           "title": "Pushkin Goes to the Olympics",
           "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        },
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
         }
       ],
       "updated": "2026-11-16",
@@ -221139,6 +221210,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/nataliestokel/"
+    },
+    "NateBerkus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/nateberkus/"
     },
     "NateSilver": {
       "episode_count": 1,
@@ -265318,9 +265405,9 @@
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
     "RevisionistHistory": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 1,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
@@ -265510,6 +265597,13 @@
           "show": "Revisionist History",
           "title": "Pushkin Goes to the Olympics",
           "url": "/wiki/sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics/"
+        },
+        {
+          "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
+          "key": "revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus",
+          "show": "Revisionist History",
+          "title": "Revisionist History LIVE with Nate Berkus",
+          "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
         }
       ],
       "updated": "2026-11-16",

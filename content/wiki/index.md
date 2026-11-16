@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Revisionist History LIVE with Nate Berkus](sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus.md) — Malcolm Gladwell and Nate Berkus connect exploratory travel, craft sourcing, biographical design, and anti-trend longevity.
 - [Welcome to Development Hell](sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Malcolm Gladwell introduces Development Hell as a mini-series about unseen creative work, high-risk development, and the grief and value attached to unproduced films.
 - [《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？](sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c.md) — 芮淇讲透资治通鉴以侯音之乱和定军山之战串联征敛压力、无计划反抗、兵力调动、统帅暴露及败后指挥恢复。
 - [《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱](sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu.md) — 芮淇讲透资治通鉴以夏侯渊之死、刘备长期对峙、赵云疑兵、曹操撤出汉中及张既迁民方案，讨论角色转换、心理威慑与战略缓冲。
@@ -5191,6 +5192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Nate Berkus](entities/NateBerkus.md) — interior designer connecting travel, sourcing, client biography, and durable personal taste.
 - [Stephen Gaghan](entities/StephenGaghan.md) — Screenwriter whose Blink development joins indirect nonfiction adaptation, deep revision, changing casting imagination, and grief-shaped suspension.
 - [Blink (unproduced film)](entities/BlinkFilm.md) — Unproduced screenplay joining extraordinary social perception, paternal approval, worker obligations, star attachment, and creative loss.
 - [Leonardo DiCaprio](entities/LeonardoDiCaprio.md) — Actor whose early enthusiasm and attachment helped launch Blink and generate broad studio demand before the role changed.
@@ -19694,6 +19696,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Exploratory Travel Serendipity](concepts/ExploratoryTravelSerendipity.md) — open-ended walking and local inquiry as a travel and creative discovery practice.
+- [Craft Sourcing Knowledge](concepts/CraftSourcingKnowledge.md) — place-, maker-, and fabrication-specific knowledge behind distinctive design.
+- [Biographical Interior Design](concepts/BiographicalInteriorDesign.md) — translation of inhabitants' routines, memories, and emotional cues into space.
+- [Anti-Trend Design Longevity](concepts/AntiTrendDesignLongevity.md) — identity-grounded livability as an alternative to fashion-led replacement.
 - [Grief-Interrupted Creative Development](concepts/GriefInterruptedCreativeDevelopment.md) — Suspension pattern where collaborator loss changes a work's emotional meaning so material readiness no longer ensures continuation.
 - [角色转换中的能力陷阱 / Role-Transition Capability Trap](concepts/RoleTransitionCapabilityTrap.md) — 原有强项在责任单位和风险结构改变后压制谨慎、倾听、授权或系统保护的角色适配风险。
 - [迁民式战略缓冲 / Population-Relocation Buffer Strategy](concepts/PopulationRelocationBufferStrategy.md) — 通过迁移居民、削弱争夺走廊的补给与地方支持来提高未来进军成本，同时带来同意和民生边界。

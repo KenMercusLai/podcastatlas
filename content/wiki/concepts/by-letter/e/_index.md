@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11426
+wiki_total_pages: 11430
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"
+  - key: "ExploratoryTravelSerendipity"
+    title: "Exploratory Travel Serendipity"
+    url: "/wiki/concepts/exploratorytravelserendipity/"
   - key: "ExponentialTimeHypothesis"
     title: "Exponential Time Hypothesis"
     url: "/wiki/concepts/exponentialtimehypothesis/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 14409
+wiki_total_pages: 14410
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "NataschaWodin"
     title: "Natascha Wodin / 纳塔莎·沃丁"
     url: "/wiki/entities/nataschawodin/"
+  - key: "NateBerkus"
+    title: "Nate Berkus"
+    url: "/wiki/entities/nateberkus/"
   - key: "NateBlecharczyk"
     title: "Nate Blecharczyk"
     url: "/wiki/entities/nateblecharczyk/"

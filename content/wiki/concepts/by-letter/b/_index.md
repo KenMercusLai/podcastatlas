@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11426
+wiki_total_pages: 11430
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "BioequivalenceEvidenceBoundary"
     title: "Bioequivalence Evidence Boundary / 生物等效性证据边界"
     url: "/wiki/concepts/bioequivalenceevidenceboundary/"
+  - key: "BiographicalInteriorDesign"
+    title: "Biographical Interior Design"
+    url: "/wiki/concepts/biographicalinteriordesign/"
   - key: "Bioinformatics"
     title: "Bioinformatics"
     url: "/wiki/concepts/bioinformatics/"

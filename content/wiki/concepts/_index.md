@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11426
+wiki_total_pages: 11430
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2513,6 +2513,9 @@ wiki_pages:
   - key: "AntiThesisWriting"
     title: "Anti-Thesis Writing / 反中心思想写作"
     url: "/wiki/concepts/antithesiswriting/"
+  - key: "AntiTrendDesignLongevity"
+    title: "Anti-Trend Design Longevity"
+    url: "/wiki/concepts/antitrenddesignlongevity/"
   - key: "AntiUsurpationCoalitionPressure"
     title: "Anti-Usurpation Coalition Pressure / 讨逆同盟压力"
     url: "/wiki/concepts/antiusurpationcoalitionpressure/"

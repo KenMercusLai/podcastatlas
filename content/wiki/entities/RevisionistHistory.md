@@ -30,6 +30,7 @@ sources:
   - the-tipping-point-revisited-georgetown-massacre-part-1-the-tipping-point-revisited-georgetown-massacre-part-1
   - the-tipping-point-revisited-an-excerpt
   - pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics
+  - revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -91,6 +92,8 @@ The Georgetown case adds a two-stage courtroom form. [[the-tipping-point-revisit
 [[the-tipping-point-revisited-an-excerpt|The Tipping Point Revisited: An Excerpt]] uses audiobook-preview storytelling to build a three-domain analogy. The show moves from Los Angeles robbery crews and organizers to the absence of a similar New York outbreak, then to [[JohnWennberg]]'s medical-practice maps and Waldorf-school vaccination clusters. The resulting [[BoundedSocialContagion]] frame makes community borders and [[SmallAreaVariation]] part of the explanation rather than assuming that a visible example spreads wherever opportunity exists.
 
 The compilation-preview form places women's exclusion, MRI/AI muscle mapping, and the Owens–Long friendship legend under a common Olympic-memory frame. The first two excerpts add substantive evidence; the final one is best read as a trailer for the later investigation because it gives the inspirational story in detail and ends before the correction. [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics|Pushkin Goes to the Olympics]]
+
+A live creative-practice conversation broadens the show beyond public-policy revisionism and production retrospection. In [[revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus|Revisionist History LIVE with Nate Berkus]], shared travel memories lead into [[NateBerkus]]'s accounts of [[ExploratoryTravelSerendipity]], [[CraftSourcingKnowledge]], [[BiographicalInteriorDesign]], and [[AntiTrendDesignLongevity]]. The episode is strongest as practitioner self-understanding and keeps its claims about innate disposition, instinct, and durable outcomes source-scoped.
 
 ## Key Characteristics
 
@@ -206,6 +209,10 @@ The compilation-preview form places women's exclusion, MRI/AI muscle mapping, an
 
 - [[pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics]] combines institutional history, sports technology, and mythmaking while distinguishing new evidence from a derivative cliffhanger preview.
 
+### Design, travel, and creative formation
+
+- [[revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus]] combines live interview, parallel travel memories, family influence, client observation, and design philosophy to make a practitioner's tacit method explicit.
+
 ## Qualifications
 
 The bounded sources do not establish the full range of the show. The health-reform episode's lost-chance framing does not prove that the 1974 compromise could have passed, and neither Baltimore's homicide sequence nor cross-national policing comparisons isolates the featured strategies' effects. The Second Amendment, Reconstruction, and Brown episodes give limited space to competing historical or legal interpretations. The Wu-Tang episode does not establish direct influence between simultaneous movements, the golf follow-up does not prove policy impact, and the cultivated-meat tasting does not resolve cost, regulation, scale, safety, lifecycle impact, or representative acceptance. Brown-era teacher-effect estimates, dismissal totals, and local motives remain episode-scoped. The news-season introduction is a feed presentation of another program. Dan's successful outcome does not make the trust episode comparative evidence for surgery, minority opinions, intuition, or high consultation counts. The anniversary source selects memorable successes and gives little attention to failures or editorial criticism. The *Encores* introduction is a 108-second teaser that supports only the archive-selection and autobiographical-memory framing. The Minhaj interview is an external retrospective summary rather than the Alabama season, court record, autopsy literature, or independent crime-policy review. The Thomas experiment did not achieve indistinguishability, used a specialized student sample, lacks primary legal and manufacturing records, and includes no recorded Bimbo response; its technical, preference, and corporate-power claims therefore remain bounded to the episode. The face-recognition episode is supplied as a structured summary rather than a transcript, diagnostic record, test dataset, or population study. The RotaTeq episode is also a structured, argumentative summary rather than the underlying trial, package insert, surveillance data, or Kennedy interview, and its ideological explanation is less secure than its comparative evidence critique.
@@ -228,11 +235,13 @@ The new cross-domain analogy is strongest as a question about boundaries. Its st
 
 The Olympic compilation is also bounded to a structured summary and selected excerpts. It supplies neither the race archive nor clinical validation, and its Owens–Long segment omits the evidence that later episodes use to test the legend.
 
+The Nate Berkus event adds a twenty-eighth bounded source. It is a friendly live conversation supplied as a structured summary rather than a transcript, client study, project archive, or comparative design evaluation. Its accounts of instinct, trend psychology, satisfaction, and longevity remain practitioner claims.
+
 ## What Changed
 
-- Added compilation-preview storytelling across institutional history, sports science, and public memory.
-- Distinguished genuinely new excerpt evidence from derivative promotion of a later investigation.
-- Preserved deferred correction as an editorial limitation rather than completed source criticism.
+- Added live creative-practice inquiry spanning travel, family formation, sourcing, and client interpretation.
+- Extended the show's autobiographical conversation format into interior design without treating practitioner testimony as comparative proof.
+- Preserved the boundary between evocative serendipity examples and causal claims about creativity.
 
 ## Relationships
 
@@ -312,3 +321,6 @@ The Olympic compilation is also bounded to a structured summary and selected exc
 - [[SmallAreaVariation]] - clustered local pattern the excerpt uses across medicine and vaccination.
 - [[WomenDistanceRunningExclusion]] - institutional history branch added through Olympic and Boston cases.
 - [[MuscleSpecificImaging]] - sports-science branch added through MRI/AI muscle mapping.
+- [[NateBerkus]] - live guest whose practice extends the show's inquiry into design and creative formation.
+- [[BiographicalInteriorDesign]] - client-centered design method developed through the conversation.
+- [[AntiTrendDesignLongevity]] - self-knowledge and livability framework developed through Berkus's anti-trend argument.
