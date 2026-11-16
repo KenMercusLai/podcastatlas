@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11419
+wiki_total_pages: 11421
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2027,6 +2027,9 @@ wiki_pages:
   - key: "AlgorithmicAngerEngagement"
     title: "Algorithmic Anger Engagement"
     url: "/wiki/concepts/algorithmicangerengagement/"
+  - key: "AlgorithmicAutonomyParadox"
+    title: "Algorithmic Autonomy Paradox"
+    url: "/wiki/concepts/algorithmicautonomyparadox/"
   - key: "AlgorithmicCaveAllegory"
     title: "Algorithmic Cave Allegory / 算法洞穴隐喻"
     url: "/wiki/concepts/algorithmiccaveallegory/"

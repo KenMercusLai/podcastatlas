@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3861
+topic_total_pages: 3864
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1297,6 +1297,9 @@ topic_concepts:
   - key: "AlgorithmAversion"
     title: "Algorithm Aversion"
     url: "/wiki/concepts/algorithmaversion/"
+  - key: "AlgorithmicAutonomyParadox"
+    title: "Algorithmic Autonomy Paradox"
+    url: "/wiki/concepts/algorithmicautonomyparadox/"
   - key: "AlgorithmicDesirePreemption"
     title: "Algorithmic Desire Preemption / 算法欲望预支"
     url: "/wiki/concepts/algorithmicdesirepreemption/"
@@ -8669,6 +8672,9 @@ topic_entities:
   - key: "TheSorcerersApprenticeGoethe"
     title: "The Sorcerer's Apprentice / 《魔法师的学徒》"
     url: "/wiki/entities/thesorcerersapprenticegoethe/"
+  - key: "TheVariableManFilm"
+    title: "The Variable Man (unproduced film)"
+    url: "/wiki/entities/thevariablemanfilm/"
   - key: "ThomaBravo"
     title: "Thoma Bravo"
     url: "/wiki/entities/thomabravo/"
@@ -10995,6 +11001,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555"
     title: "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+  - key: "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle"
+    title: "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell"
+    url: "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
   - key: "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128"
     title: "The year in AI wearables"
     url: "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"

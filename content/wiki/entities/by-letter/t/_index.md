@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14394
+wiki_total_pages: 14396
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "TheTroubles"
     title: "The Troubles"
     url: "/wiki/entities/thetroubles/"
+  - key: "TheVariableManFilm"
+    title: "The Variable Man (unproduced film)"
+    url: "/wiki/entities/thevariablemanfilm/"
   - key: "TheWageStandard"
     title: "The Wage Standard"
     url: "/wiki/entities/thewagestandard/"

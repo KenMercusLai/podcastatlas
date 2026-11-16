@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11419
+wiki_total_pages: 11421
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "VisionLanguageActionModels"
     title: "Vision Language Action Models"
     url: "/wiki/concepts/visionlanguageactionmodels/"
+  - key: "VisionBackedFilmFinancing"
+    title: "Vision-Backed Film Financing"
+    url: "/wiki/concepts/visionbackedfilmfinancing/"
   - key: "VisionToRealityExecution"
     title: "Vision-to-Reality Execution"
     url: "/wiki/concepts/visiontorealityexecution/"

@@ -14801,6 +14801,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/algeria/"
     },
+    "AlgorithmicAutonomyParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/algorithmicautonomyparadox/"
+    },
     "AlgorithmicCreatorSelfDiscipline": {
       "episode_count": 3,
       "show_count": 3,
@@ -19542,9 +19558,9 @@
       "url": "/wiki/concepts/angloukrainianrelations/"
     },
     "AngusFletcher": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Zootopia_Exposed!_(Part_One) [Zootopia_Exposed!_(Part_One)].md",
@@ -19559,6 +19575,13 @@
           "show": "Revisionist History",
           "title": "In Defense of PAW Patrol",
           "url": "/wiki/sources/in-defense-of-paw-patrol-in-defense-of-paw-patrol/"
+        },
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
         }
       ],
       "updated": "2026-11-16",
@@ -116009,9 +116032,9 @@
       "url": "/wiki/concepts/freespeechcoalitionvpaxton/"
     },
     "FreeWill": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -116047,9 +116070,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
           "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
+        },
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/freewill/"
     },
     "FreedomDutyAndSelfhood": {
@@ -120829,9 +120859,9 @@
       "url": "/wiki/entities/garrettboone/"
     },
     "GaryGoldman": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Zootopia_Exposed!_(Part_Two) [Zootopia_Exposed!_(Part_Two)].md",
@@ -120846,9 +120876,16 @@
           "show": "Revisionist History",
           "title": "Zootopia Exposed! (Part One)",
           "url": "/wiki/sources/zootopia-exposed-part-one-zootopia-exposed-part-one/"
+        },
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/garygoldman/"
     },
     "GaryHirschberg": {
@@ -241479,6 +241516,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/philipivoffrance/"
     },
+    "PhilipKDick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/philipkdick/"
+    },
     "PhilipMelanchthon": {
       "episode_count": 1,
       "show_count": 1,
@@ -307112,6 +307165,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/theturnofthescrew/"
     },
+    "TheVariableManFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/thevariablemanfilm/"
+    },
     "TheWashingtonCenter": {
       "episode_count": 1,
       "show_count": 1,
@@ -318056,9 +318125,9 @@
       "url": "/wiki/concepts/unlearningexamexpression/"
     },
     "UnrealizedCreativeWorkValue": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
@@ -318087,6 +318156,13 @@
           "show": "Revisionist History",
           "title": "Bubbles with Isaac Adamson | Development Hell",
           "url": "/wiki/sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell/"
+        },
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
         }
       ],
       "updated": "2026-11-16",
@@ -321511,6 +321587,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/visionasdecisionfilter/"
+    },
+    "VisionBackedFilmFinancing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Variable_Man_with_Gary_Goldman_and_Angus_Fletcher_Development_Hell [The_Variable_Man_with_Gary_Goldman_and_Angus_Fle.md",
+          "key": "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle",
+          "show": "Revisionist History",
+          "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
+          "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/visionbackedfilmfinancing/"
     },
     "VisualFatigueCauseBasedManagement": {
       "episode_count": 1,

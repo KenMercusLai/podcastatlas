@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3723
+topic_total_pages: 3726
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3781,6 +3781,9 @@ topic_concepts:
   - key: "VietnamWarCredibilityCollapse"
     title: "Vietnam War Credibility Collapse"
     url: "/wiki/concepts/vietnamwarcredibilitycollapse/"
+  - key: "VisionBackedFilmFinancing"
+    title: "Vision-Backed Film Financing"
+    url: "/wiki/concepts/visionbackedfilmfinancing/"
   - key: "VisualRepresentationLiteracy"
     title: "Visual Representation Literacy / 视觉表征素养"
     url: "/wiki/concepts/visualrepresentationliteracy/"
@@ -6884,6 +6887,9 @@ topic_entities:
   - key: "TimeMachine"
     title: "The Time Machine / 《时间机器》"
     url: "/wiki/entities/timemachine/"
+  - key: "TheVariableManFilm"
+    title: "The Variable Man (unproduced film)"
+    url: "/wiki/entities/thevariablemanfilm/"
   - key: "TheWageStandard"
     title: "The Wage Standard"
     url: "/wiki/entities/thewagestandard/"
@@ -10812,6 +10818,9 @@ topic_sources:
   - key: "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick"
     title: "The Tipping Point Revisited: Live with David Remnick"
     url: "/wiki/sources/the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick/"
+  - key: "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle"
+    title: "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell"
+    url: "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
   - key: "the-walt-disney-company-1"
     title: "The Walt Disney Company: Walt's Era"
     url: "/wiki/sources/the-walt-disney-company-1/"

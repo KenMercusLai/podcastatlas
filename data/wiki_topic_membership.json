@@ -14627,6 +14627,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AlgorithmicAutonomyParadox": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AlgorithmicCaveAllegory": [
     {
       "key": "culture",
@@ -93321,6 +93328,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheVariableManFilm": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheWageStandard": [
     {
       "key": "economics",
@@ -97763,6 +97782,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "VisionBackedFilmFinancing": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "VisionLanguageActionModels": [
@@ -114959,6 +114985,18 @@
     }
   ],
   "the-tipping-point-revisited-live-with-david-remnick-the-tipping-point-revisited-live-with-david-remnick": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "culture",
       "label": "Culture",

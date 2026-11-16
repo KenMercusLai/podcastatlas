@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Variable Man with Gary Goldman and Angus Fletcher | Development Hell](sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle.md) — Gary Goldman and Angus Fletcher use an unproduced Philip K. Dick adaptation to test AI prediction, free will, audience reasoning, and trusted-director financing.
 - [Bubbles with Isaac Adamson | Development Hell](sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell.md) — Isaac Adamson uses an unproduced stop-motion screenplay to examine unreliable narration, loyalty, alleged abuse, cultural reevaluation, and film-development risk.
 - [The Birthday Party with Charles Randolph | Development Hell](sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell.md) — Charles Randolph uses an unproduced kidnapping adaptation to examine invented internal conflict, moral reframing, cross-cultural authorship, and representational development risk.
 - [I Am Superman with Patty Jenkins | Development Hell](sources/i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell.md) — Patty Jenkins uses an unproduced prison-dog fairy tale to examine second chances, authentic animal performance, original creative authority, sexism, grief, and precedent-locked financing.
@@ -5352,8 +5353,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Los Angeles County Sheriff's Department](entities/LosAngelesCountySheriffsDepartment.md) — Ajay's employer, search authority, and subject of disputed case-handling allegations.
 - [Devil's Punchbowl Natural Area](entities/DevilsPunchbowlNaturalArea.md) — Rugged Antelope Valley landscape where Ajay began his final known run and the search was centered.
 - [Valley of Shadows](entities/ValleyOfShadowsPodcast.md) — Investigative podcast series linking an unresolved disappearance to questions of law-enforcement accountability.
-- [Angus Fletcher](entities/AngusFletcher.md) — Narrative scholar interpreting Zootopia 2's authorship allegory and critiquing predetermined children's stories as lost imaginative exercise.
-- [Gary Goldman](entities/GaryGoldman.md) — Filmmaker whose unsuccessful Zootopia appropriation claim is interpreted as the real-world referent for Gary De'Snake's grievance.
+- [The Variable Man (unproduced film)](entities/TheVariableManFilm.md) — Gary Goldman and Angus Fletcher's AI-centered Philip K. Dick adaptation about prediction, autonomy, and human unpredictability.
+- [Philip K. Dick](entities/PhilipKDick.md) — Science-fiction author whose predictive-computer story supplied The Variable Man's adaptation premise.
+- [Angus Fletcher](entities/AngusFletcher.md) — Narrative scholar and screenwriter connecting story uncertainty to audience reasoning, imagination, and AI autonomy.
+- [Gary Goldman](entities/GaryGoldman.md) — Screenwriter represented through Philip K. Dick adaptation, unproduced-film development, and an unsuccessful Zootopia appropriation claim.
 - [Jared Bush](entities/JaredBush.md) — Disney screenwriter interpreted through Zootopia 2's restoration themes and his family's history of challenging exclusion.
 - [Lester Bush Jr.](entities/LesterBushJr.md) — Physician-historian whose archival work reframed the Mormon priesthood ban as historically contingent policy.
 - [Andrew Jarecki](entities/AndrewJarecki.md) — Documentary filmmaker whose Alabama investigation joins discovery-led reporting, incarcerated collaboration, and continuing participant protection.
@@ -19673,6 +19676,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Algorithmic Autonomy Paradox](concepts/AlgorithmicAutonomyParadox.md) — Conflict between outcome-improving algorithmic advice and retained human judgment, consent, and authority.
+- [Vision-Backed Film Financing](concepts/VisionBackedFilmFinancing.md) — Requirement that costly, difficult work acquire a trusted creative leader who can make its execution investable.
 - [Moral Blindness Through Unreliable Narration](concepts/MoralBlindnessUnreliableNarration.md) — Narrative method in which loyalty and limited interpretation hide meanings that become increasingly visible to the audience.
 - [Adaptation-Invented Internal Conflict](concepts/AdaptationInventedInternalConflict.md) — Creation of scenes or choices absent from a source so adapted characters confront internal contradiction as well as external pressure.
 - [Collaborative Cross-Cultural Authorship](concepts/CollaborativeCrossCulturalAuthorship.md) — Portrayal across social boundaries through research, consultation, performance, revision, and meaningful corrective authority.

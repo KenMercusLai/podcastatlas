@@ -8,8 +8,9 @@ sources:
   - using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307
   - scim5791514102-scim5791514102
   - ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974
+  - the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-12
+last_updated: 2026-11-16
 ---
 
 # Free Will / 自由意志
@@ -24,13 +25,15 @@ The fixed-time branch uses [[StoryOfYourLife|《你一生的故事》]] to ask w
 
 A physics-and-theology position enters through [[BaoZhiguang|包智光]] in [[ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974]]. If reality is exhaustively described by determinism plus randomness, neither term is yet equivalent to a person's choice; however, inability to derive freedom from that framework does not prove its absence. Bao therefore treats freedom as an open metaphysical and lived capacity that can grow through relinquished control and becomes morally visible in [[LoveAsFreeSelfGift|freely chosen love]]. This directly contests Sapolsky's categorical denial without supplying an empirical proof of freedom.
 
+A technological thought experiment adds pressure from consistently superior advice rather than causal explanation. In [[the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle|The Variable Man]], Cole's independent judgment repeatedly fails while Plato's recommendations succeed, yet the AI's model still requires an unpredictable person and its engineered romance makes prediction inseparable from manipulation. The case therefore separates decision accuracy from legitimate authority: fallibility weakens romantic self-sovereignty without proving that agency should be permanently transferred to a system.
+
 ## Key Claims
 - Free will becomes trivial if it is reduced to random button pressing; the harder problem is meaningful action under causal pressure.
 - Ancient atomism, causal chains, religious omnipotence, Newtonian mechanics, [[LaplacesDemon|Laplace's demon]], evolution, and neuroscience each narrow intuitive self-sovereignty in different ways.
 - Biological life supplies a form of agency that cannot be captured by the image of passive matter alone.
 - Thoughts and choices may arise without a separately observable author, while deliberation and differences among intention, accident, negligence, and coercion remain practically consequential.
 - Knowledge and circumstance can change behavior without becoming exceptions to causality; they operate as additional causes.
-- Foreknowledge, determinism, or reduced self-sovereignty does not automatically empty chosen love, deliberation, responsibility, commitment, or experience of meaning.
+- Foreknowledge, determinism, superior advice, or reduced self-sovereignty does not automatically empty chosen love, deliberation, responsibility, commitment, or experience of meaning.
 - Determinism and randomness may fail to describe meaningful choice without that failure itself proving a separate metaphysical faculty; theological freedom-as-growth remains outside scientific demonstration.
 
 ## Evidence
@@ -42,14 +45,14 @@ A physics-and-theology position enters through [[BaoZhiguang|包智光]] in [[ai
 - Causal change without fatalism: [[scim5791514102-scim5791514102]] argues that learning, neuroplasticity, inspiring or discouraging information, and altered circumstance can change an organism without requiring free will.
 - AI boundary: [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] treats future systems with their own goals, meaning, embodiment, and action channels as a different governance problem from present language prediction.
 - Science-theology boundary: [[ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974]] argues that science neither proves freedom nor conclusively excludes it and connects deep freedom to chosen love.
+- Algorithmic deference: [[the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle]] uses a fictional AI whose advice repeatedly succeeds to show that decision quality and authority over a life are not the same question.
 
 ## Counterevidence & Qualifications
-The sources do not establish a single scientific resolution. The literary source is a philosophical thought experiment; the Harris source argues from introspection; the Sapolsky interview states a strong mechanistic position rather than demonstrating that no alternative account can survive; EP256 treats button-press experiments as too narrow for morally significant choice; and Bao's freedom-as-gift account is theological testimony rather than empirical evidence. Biological goal-directedness does not by itself prove metaphysical freedom, while denial of a separate author does not settle the correct legal or ethical allocation of responsibility. The direct dispute between Sapolsky's categorical denial and Bao's open metaphysical position remains unresolved. AI free-will risk remains conditional and speculative rather than a claim about present chatbots.
+The sources do not establish a single scientific resolution. The two literary sources are philosophical thought experiments; the Harris source argues from introspection; the Sapolsky interview states a strong mechanistic position rather than demonstrating that no alternative account can survive; EP256 treats button-press experiments as too narrow for morally significant choice; and Bao's freedom-as-gift account is theological testimony rather than empirical evidence. Biological goal-directedness does not by itself prove metaphysical freedom, while denial of a separate author does not settle the correct legal or ethical allocation of responsibility. The direct dispute between Sapolsky's categorical denial and Bao's open metaphysical position remains unresolved. Plato's fictional accuracy is not evidence about present AI, and AI free-will risk remains conditional and speculative rather than a claim about current chatbots.
 
 ## What Changed
-- Added Sapolsky's explicit causal account and clarified why change through knowledge or circumstance is compatible with determinism rather than evidence of an uncaused will.
-- Strengthened the distinction between denying authorship and endorsing fatalism.
-- Added Bao Zhiguang's science-theology boundary and marked its conflict with Sapolsky's categorical denial as unresolved.
+- Added superior algorithmic advice as a pressure on agency distinct from causal determinism, foreknowledge, and random choice.
+- Separated better predicted outcomes from legitimate authority over a person's goals, relationships, and responsibility.
 
 ## Related Concepts
 - [[CausalDeterminism]] - principal causal challenge to unconstrained authorship.
@@ -60,3 +63,4 @@ The sources do not establish a single scientific resolution. The literary source
 - [[NonDualMindfulness]] - experiential practice through which Harris examines the absence of a separate author.
 - [[AIFreeWillRisk]] - conditional governance problem if AI systems acquire goals and action freedom.
 - [[LoveAsFreeSelfGift]] - ethical domain in which Bao's source locates the practical importance of freedom.
+- [[AlgorithmicAutonomyParadox]] - conflict between outcome-improving deference and retained human judgment.
