@@ -40767,3 +40767,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Welcome to Development Hell
+
+Added a short [[RevisionistHistory]] preview in which [[MalcolmGladwell]] introduces *Development Hell*, a mini-series about promising film projects that never reached the screen. The preview uses Gladwell's own vanished Hollywood project and a comparison with pharmaceutical research to frame substantial unseen work as a recurring result of uncertain, high-risk development.
+
+Core synthesis: an abandoned project can retain creative, diagnostic, relational, and emotional value without its nonproduction proving either hidden greatness or institutional error. The source extends [[UnrealizedCreativeWorkValue]] with a development-system frame while keeping the film–pharmaceutical comparison qualified. No settled contradiction is adopted. Industry prevalence, project quality, emotional impact, and causes of nonproduction remain source-scoped because the supplied file is a promotional summary rather than a transcript, completed mini-series, production archive, or independent industry study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,067 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

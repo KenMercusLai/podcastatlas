@@ -29,7 +29,7 @@ topic_pages:
     label: "Culture"
     description: "Literature, media, art, film, music, books, education, sport, and the stories and practices through which societies make meaning."
     url: "/topics/culture/"
-    count: 3730
+    count: 3731
   - key: "science"
     label: "Science"
     description: "Medicine, health, biology, space, climate, environment, psychology, and the evidence and institutions behind scientific knowledge."

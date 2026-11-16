@@ -318516,9 +318516,9 @@
       "url": "/wiki/concepts/unlearningexamexpression/"
     },
     "UnrealizedCreativeWorkValue": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Blue_Seattle_with_Cameron_Crowe_Development_Hell [Blue_Seattle_with_Cameron_Crowe_Development_Hell].md",
@@ -318554,6 +318554,13 @@
           "show": "Revisionist History",
           "title": "The Variable Man with Gary Goldman and Angus Fletcher | Development Hell",
           "url": "/wiki/sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle/"
+        },
+        {
+          "episode_file": "Welcome_to_Development_Hell [Welcome_to_Development_Hell.mp3？t=1758562380&dl=1&in_playlist=0d4cc74d-fff7-4b89-8818-ae320.eyJpc3MiOiJvbW55IiwiaWF0IjoxNzk0NzM0MDI5LCJ0ZC1yZWciOmZhbHNlLCJ0ZC1hZHMiOiJub25lIn0].md",
+          "key": "welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0",
+          "show": "Revisionist History",
+          "title": "Welcome to Development Hell",
+          "url": "/wiki/sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0/"
         }
       ],
       "updated": "2026-11-16",
