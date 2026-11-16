@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11560
+wiki_total_pages: 11562
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "BehaviorBasedHumanReductionism"
     title: "Behavior-Based Human Reductionism / 行为化人性压缩"
     url: "/wiki/concepts/behaviorbasedhumanreductionism/"
+  - key: "BehaviorFocusedPoliceReform"
+    title: "Behavior-Focused Police Reform"
+    url: "/wiki/concepts/behaviorfocusedpolicereform/"
   - key: "BehavioralAgeInference"
     title: "Behavioral Age Inference"
     url: "/wiki/concepts/behavioralageinference/"

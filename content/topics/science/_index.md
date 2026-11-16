@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1689
+topic_total_pages: 1690
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3494,6 +3494,9 @@ topic_entities:
   - key: "PeteWalker"
     title: "Pete Walker"
     url: "/wiki/entities/petewalker/"
+  - key: "PhilipAtibaGoff"
+    title: "Philip Atiba Goff"
+    url: "/wiki/entities/philipatibagoff/"
   - key: "PhilipBall"
     title: "Philip Ball"
     url: "/wiki/entities/philipball/"

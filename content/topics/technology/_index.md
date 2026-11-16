@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3878
+topic_total_pages: 3879
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5993,6 +5993,9 @@ topic_entities:
   - key: "CenterForDemocracyAndTechnology"
     title: "Center for Democracy and Technology"
     url: "/wiki/entities/centerfordemocracyandtechnology/"
+  - key: "CenterForPolicingEquity"
+    title: "Center for Policing Equity"
+    url: "/wiki/entities/centerforpolicingequity/"
   - key: "Cerebras"
     title: "Cerebras"
     url: "/wiki/entities/cerebras/"

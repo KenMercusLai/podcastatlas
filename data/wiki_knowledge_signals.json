@@ -33119,6 +33119,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/behaviorchangebabysteps/"
     },
+    "BehaviorFocusedPoliceReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123 [default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123].md",
+          "key": "default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123",
+          "show": "Hidden Brain",
+          "title": "Changing Behavior, Not Beliefs",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/behaviorfocusedpolicereform/"
+    },
     "BehavioralAgeInference": {
       "episode_count": 2,
       "show_count": 1,
@@ -48293,6 +48309,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/centerforbuildinginnorthamerica/"
+    },
+    "CenterForPolicingEquity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123 [default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123].md",
+          "key": "default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123",
+          "show": "Hidden Brain",
+          "title": "Changing Behavior, Not Beliefs",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/centerforpolicingequity/"
     },
     "CentersForMedicareAndMedicaidServices": {
       "episode_count": 3,
@@ -212784,6 +212816,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/mentalhealthcrisisinterventionboundary/"
     },
+    "MentalHealthCrisisPoliceResponse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Kyiv brawl： Ukraine’s top general fired [6a609aec4fac21e67f1be165].md",
+          "key": "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165",
+          "show": "Economist Podcasts",
+          "title": "Kyiv brawl: Ukraine's top general fired",
+          "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123 [default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123].md",
+          "key": "default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123",
+          "show": "Hidden Brain",
+          "title": "Changing Behavior, Not Beliefs",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/mentalhealthcrisispoliceresponse/"
+    },
     "MentalHealthHelpSeekingScamRisk": {
       "episode_count": 2,
       "show_count": 2,
@@ -245916,6 +245971,22 @@
       "updated": "2026-10-29",
       "url": "/wiki/concepts/philanthropicneglectedness/"
     },
+    "PhilipAtibaGoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123 [default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123].md",
+          "key": "default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123",
+          "show": "Hidden Brain",
+          "title": "Changing Behavior, Not Beliefs",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/philipatibagoff/"
+    },
     "PhilipDCurtin": {
       "episode_count": 1,
       "show_count": 1,
@@ -249287,6 +249358,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/poland/"
+    },
+    "PoliceContactReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123 [default.mp3_ywr3ahjkcgo_f56cf603fee7139d9ccaabc72e668452_47437123].md",
+          "key": "default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123",
+          "show": "Hidden Brain",
+          "title": "Changing Behavior, Not Beliefs",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/policecontactreduction/"
     },
     "PoliceDisciplineRemovalBarriers": {
       "episode_count": 1,

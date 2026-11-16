@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14567
+wiki_total_pages: 14569
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "CenterForDemocracyAndTechnology"
     title: "Center for Democracy and Technology"
     url: "/wiki/entities/centerfordemocracyandtechnology/"
+  - key: "CenterForPolicingEquity"
+    title: "Center for Policing Equity"
+    url: "/wiki/entities/centerforpolicingequity/"
   - key: "CenterForStrategicAndInternationalStudies"
     title: "Center for Strategic and International Studies"
     url: "/wiki/entities/centerforstrategicandinternationalstudies/"

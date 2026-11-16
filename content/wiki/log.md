@@ -41770,3 +41770,13 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Changing Behavior, Not Beliefs
+
+Added a [[HiddenBrain]] episode with psychologist [[PhilipAtibaGoff]] on changing observable police behavior, institutional routines, risky situations, and public-service design without making proof of private prejudice a prerequisite for racial-equity reform. Created focused profiles for Goff and the [[CenterForPolicingEquity]], plus [[BehaviorFocusedPoliceReform]] and [[PoliceContactReduction]].
+
+Resynthesized [[MentalHealthCrisisPoliceResponse]] from its complete preserved source inventory before appending the new source once. Core synthesis: unequal access to care can turn a request for help into an armed police encounter; reducing harm therefore requires tactical patience, fit-for-purpose dispatch, alternative responders, housing and social-service capacity, and removal of avoidable enforcement contacts.
+
+No settled contradiction was adopted. Individual accountability and structural redesign can coexist, while consensus around removing unsuitable duties from police does not resolve disputes about budgets, coercive authority, or legal responsibility. The Las Vegas, Berkeley, and Minneapolis results remain source-scoped because the supplied file is a structured summary rather than a transcript, dataset, policy evaluation, or causal study; Goff explicitly declines to attribute Minneapolis's reported force decline precisely to his team's work. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening large unrelated evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,138 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.

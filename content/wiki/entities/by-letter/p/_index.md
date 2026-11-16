@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14567
+wiki_total_pages: 14569
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "PhiladelphiaPhillies"
     title: "Philadelphia Phillies"
     url: "/wiki/entities/philadelphiaphillies/"
+  - key: "PhilipAtibaGoff"
+    title: "Philip Atiba Goff"
+    url: "/wiki/entities/philipatibagoff/"
   - key: "PhilipBall"
     title: "Philip Ball"
     url: "/wiki/entities/philipball/"
