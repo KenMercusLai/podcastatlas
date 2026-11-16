@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14598
+wiki_total_pages: 14602
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "DavidSenra"
     title: "David Senra"
     url: "/wiki/entities/davidsenra/"
+  - key: "DavidShlapak"
+    title: "David Shlapak"
+    url: "/wiki/entities/davidshlapak/"
   - key: "DavidSilver"
     title: "David Silver"
     url: "/wiki/entities/davidsilver/"

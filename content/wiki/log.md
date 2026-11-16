@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | A Serious Game
+
+Added the [[RevisionistHistory]] episode in which [[MalcolmGladwell]] uses [[YunaWong]] and [[DavidShlapak]]'s [[RAND]] war games to distinguish preparation for surprise from prediction. Created focused profiles for Wong, Shlapak, [[ThomasSchelling]], and [[JohnGentile]], plus [[StrategicWarGaming]], [[OperationalFrictionInStrategicPlanning]], and [[AutomatedDeterrenceInteractionRisk]], then resynthesized RAND from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: interactive roles, chance, repetition, and operational detail can expose plausible events and constraints omitted from expert plans. The Korean collapse game turns nuclear-site security into a multi-year problem of border access, manpower, records, scientists, refugees, traffic, contamination, casualties, and emotion, while the AI-enabled East Asia game shows automated defenses, independent allies, commercial systems, and ambiguous military actions creating joint escalation risks.
+
+No settled contradiction was adopted. Simulated Baltic outcomes, Korean requirements, AI behavior, dialogue, and escalation sequences remain source-scoped rather than forecasts, and the episode's argument is qualified by limited attention to participant bias, design sensitivity, adjudication, false alarms, and external validity. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,158 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | The Dog Will See You Now
 
 Added a [[RevisionistHistory]] episode in which [[MalcolmGladwell]] follows working-dog selection at [[ThreeSixtyCanineGroup|360 Canine Group]], [[AndreasMershin]] and [[ClaireGuest|Claire Guest's]] prostate-cancer demonstration, and [[WilliamSchneider|William Schneider's]] synthetic disease-scent training. Created focused synthesis-first profiles for Mershin, Guest, Schneider, and 360 Canine Group, plus [[FrequencyFirstOutbreakScreening]], then resynthesized [[CanineDiseaseDetectionScreening]] from its complete preserved evidence inventory before appending the new source once.
@@ -42032,6 +42042,10 @@ Core synthesis: memory is useful but reconstructive. Later stories, images, ques
 No settled contradiction was adopted. The episode strengthens the wiki's existing reconstruction and contamination accounts while adding imagination-driven source confusion and a stereotype-threat boundary around later-life memory testing. Historical experiments, induced-memory rates, aging effects, stereotype-threat effects, sleep mechanisms, and learning benefits remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, uncertainty intervals, or replication history. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,157 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

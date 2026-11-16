@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11590
+wiki_total_pages: 11593
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3239,6 +3239,9 @@ wiki_pages:
   - key: "AutologousBreastReconstructionFlapSelection"
     title: "Autologous Breast Reconstruction Flap Selection / 自体组织乳房再造皮瓣选择"
     url: "/wiki/concepts/autologousbreastreconstructionflapselection/"
+  - key: "AutomatedDeterrenceInteractionRisk"
+    title: "Automated Deterrence Interaction Risk"
+    url: "/wiki/concepts/automateddeterrenceinteractionrisk/"
   - key: "AutomatedHiringProxyDiscrimination"
     title: "Automated Hiring Proxy Discrimination"
     url: "/wiki/concepts/automatedhiringproxydiscrimination/"

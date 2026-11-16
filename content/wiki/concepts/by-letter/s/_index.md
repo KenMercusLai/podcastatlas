@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11590
+wiki_total_pages: 11593
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2450,6 +2450,9 @@ wiki_pages:
   - key: "StrategicVisibilityScrutinyTradeoff"
     title: "Strategic Visibility-Scrutiny Tradeoff"
     url: "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
+  - key: "StrategicWarGaming"
+    title: "Strategic War Gaming"
+    url: "/wiki/concepts/strategicwargaming/"
   - key: "StrategyFollowsStructure"
     title: "Strategy Follows Structure"
     url: "/wiki/concepts/strategyfollowsstructure/"

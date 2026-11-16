@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14598
+wiki_total_pages: 14602
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "YunChangWesternHan"
     title: "Yun Chang (Western Han) / 云敞"
     url: "/wiki/entities/yunchangwesternhan/"
+  - key: "YunaWong"
+    title: "Yuna Wong"
+    url: "/wiki/entities/yunawong/"
   - key: "Yunmengze"
     title: "Yunmengze / 云梦泽"
     url: "/wiki/entities/yunmengze/"

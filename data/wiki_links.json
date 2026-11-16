@@ -12823,6 +12823,10 @@
     "title": "Automated Ball Strike Challenge System",
     "url": "/wiki/entities/automatedballstrikechallengesystem/"
   },
+  "AutomatedDeterrenceInteractionRisk": {
+    "title": "Automated Deterrence Interaction Risk",
+    "url": "/wiki/concepts/automateddeterrenceinteractionrisk/"
+  },
   "AutomatedHiringProxyDiscrimination": {
     "title": "Automated Hiring Proxy Discrimination",
     "url": "/wiki/concepts/automatedhiringproxydiscrimination/"
@@ -27742,6 +27746,10 @@
   "DavidSenra": {
     "title": "David Senra",
     "url": "/wiki/entities/davidsenra/"
+  },
+  "DavidShlapak": {
+    "title": "David Shlapak",
+    "url": "/wiki/entities/davidshlapak/"
   },
   "DavidSilver": {
     "title": "David Silver",
@@ -53175,6 +53183,10 @@
     "title": "John Foxe",
     "url": "/wiki/entities/johnfoxe/"
   },
+  "JohnGentile": {
+    "title": "John Gentile",
+    "url": "/wiki/entities/johngentile/"
+  },
   "JohnGibbon": {
     "title": "John Gibbon",
     "url": "/wiki/entities/johngibbon/"
@@ -71586,6 +71598,10 @@
   "OperationalDigitalTwin": {
     "title": "Operational Digital Twin",
     "url": "/wiki/concepts/operationaldigitaltwin/"
+  },
+  "OperationalFrictionInStrategicPlanning": {
+    "title": "Operational Friction in Strategic Planning",
+    "url": "/wiki/concepts/operationalfrictioninstrategicplanning/"
   },
   "OperationalGapOwnership": {
     "title": "Operational Gap Ownership / 主动补组织短板",
@@ -91171,6 +91187,10 @@
     "title": "Strategic Visibility-Scrutiny Tradeoff",
     "url": "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
   },
+  "StrategicWarGaming": {
+    "title": "Strategic War Gaming",
+    "url": "/wiki/concepts/strategicwargaming/"
+  },
   "StrategyExecutionAccountability": {
     "title": "Strategy–Execution Accountability",
     "url": "/wiki/concepts/strategyexecutionaccountability/"
@@ -95262,6 +95282,10 @@
   "ThomasPhillips": {
     "title": "Thomas Phillips",
     "url": "/wiki/entities/thomasphillips/"
+  },
+  "ThomasSchelling": {
+    "title": "Thomas Schelling",
+    "url": "/wiki/entities/thomasschelling/"
   },
   "ThomasSeymour": {
     "title": "Thomas Seymour",
@@ -106859,6 +106883,10 @@
     "title": "运雷",
     "url": "/wiki/entities/yunlei/"
   },
+  "YunaWong": {
+    "title": "Yuna Wong",
+    "url": "/wiki/entities/yunawong/"
+  },
   "YundaExpress": {
     "title": "韵达快递",
     "url": "/wiki/entities/yundaexpress/"
@@ -109818,6 +109846,10 @@
   "a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666": {
     "title": "A Science-Supported Journaling Protocol to Improve Mental & Physical Health",
     "url": "/wiki/sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666/"
+  },
+  "a-serious-game-a-serious-game": {
+    "title": "A Serious Game",
+    "url": "/wiki/sources/a-serious-game-a-serious-game/"
   },
   "a-tragedy-in-texas-the-mistakes-series-a-tragedy-in-texas-the-mistakes-series": {
     "title": "A Tragedy in Texas | The Mistakes Series",

@@ -27874,6 +27874,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/autologousbreastreconstructionflapselection/"
     },
+    "AutomatedDeterrenceInteractionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/automateddeterrenceinteractionrisk/"
+    },
     "AutomatedHiringProxyDiscrimination": {
       "episode_count": 1,
       "show_count": 1,
@@ -77271,6 +77287,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/davidsenra/"
+    },
+    "DavidShlapak": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/davidshlapak/"
     },
     "DavidSilver": {
       "episode_count": 2,
@@ -173174,6 +173206,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/johnfoxe/"
     },
+    "JohnGentile": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johngentile/"
+    },
     "JohnGibbon": {
       "episode_count": 1,
       "show_count": 1,
@@ -236730,6 +236778,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/operationaldigitaltwin/"
     },
+    "OperationalFrictionInStrategicPlanning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/operationalfrictioninstrategicplanning/"
+    },
     "OperationalMethodFit": {
       "episode_count": 1,
       "show_count": 1,
@@ -263570,6 +263634,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/raffairford/"
+    },
+    "RAND": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260323_0323_MP_TECH_pod_128 [tech_20260323_0323_MP_TECH_pod_128].md",
+          "key": "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What do students lose when they rely on AI for homework?",
+          "url": "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/rand/"
     },
     "RDT1B": {
       "episode_count": 1,
@@ -302352,6 +302439,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
     },
+    "StrategicWarGaming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/strategicwargaming/"
+    },
     "StrategyExecutionAccountability": {
       "episode_count": 1,
       "show_count": 1,
@@ -315735,6 +315838,22 @@
       ],
       "updated": "2026-10-31",
       "url": "/wiki/entities/thomasphilippon/"
+    },
+    "ThomasSchelling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/thomasschelling/"
     },
     "ThomasSeymour": {
       "episode_count": 2,
@@ -353238,6 +353357,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/yunchangwesternhan/"
+    },
+    "YunaWong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Serious_Game [A_Serious_Game].md",
+          "key": "a-serious-game-a-serious-game",
+          "show": "Revisionist History",
+          "title": "A Serious Game",
+          "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/yunawong/"
     },
     "YundaExpress": {
       "episode_count": 1,

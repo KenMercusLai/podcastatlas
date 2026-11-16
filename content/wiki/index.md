@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Serious Game](sources/a-serious-game-a-serious-game.md) — Revisionist History connects RAND war games, chance, Baltic and Korean scenarios, operational friction, and AI-enabled multi-actor escalation to preparation for surprise rather than prediction.
 - [The Dog Will See You Now](sources/the-dog-will-see-you-now-the-dog-will-see-you-now.md) — Revisionist History connects disease-associated odor, trained dogs, synthetic scent aids, layered confirmation, and frequency-first outbreak screening while preserving major validation and scaling limits.
 - [You 2.0: Regrets, I Have a Few...](sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793.md) — Hidden Brain and Amy Somerville connect regret with learning versus rumination, counterfactual comparison, proportionate responsibility, and satisficing.
 - [Where Happiness Hides](sources/default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021-default-mp3-ywr3ahjkcgo-b7066006957064dce5b1c84ae245f230-50385021.md) — Hidden Brain and Sonja Lyubomirsky connect focal happiness forecasts, adaptation, rising expectations, comparison, savoring, social connection, and qualified emotional recovery.
@@ -5284,6 +5285,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: Did That Really Happen?](sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670.md) — Hidden Brain and Ayanna Thomas connect reconstructive memory, source confusion, eyewitness caution, aging stereotypes, retrieval practice, spacing, sleep, and mnemonic imagery.
 
 ## Entities
+- [Yuna Wong](entities/YunaWong.md) — War-gaming researcher using AI-enabled multi-actor crisis simulation to reveal unplanned interactions and escalation risks.
+- [David Shlapak](entities/DavidShlapak.md) — RAND researcher using chance, repetition, and operational detail to push strategic simulation beyond habitual expectations.
+- [Thomas Schelling](entities/ThomasSchelling.md) — Strategic theorist whose observation about unconsidered possibilities supplies the episode's rationale for interactive simulation.
+- [John Gentile](entities/JohnGentile.md) — RAND military historian interpreting the North Korean collapse game's operational scale and complexity.
 - [Ayanna Thomas](entities/AyannaThomas.md) — Psychologist connecting reconstructive memory, imagination-driven source confusion, testimony caution, cognitive aging, and learning practice.
 - [Andreas Mershin](entities/AndreasMershin.md) — Researcher connecting disease-associated metabolic odor patterns, cross-patient generalization, and canine medical screening under a strong validation boundary.
 - [Claire Guest](entities/ClaireGuest.md) — Researcher and dog trainer applying working-dog scent methods to disease-associated samples and prostate-cancer demonstrations.
@@ -19978,6 +19983,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Strategic War Gaming](concepts/StrategicWarGaming.md) — Interactive assumption-testing method that uses roles, chance, repetition, and operational detail to prepare for plausible surprise without claiming prediction.
+- [Operational Friction in Strategic Planning](concepts/OperationalFrictionInStrategicPlanning.md) — Physical, human, logistical, informational, and emotional constraints that reshape an abstract strategic objective.
+- [Automated Deterrence Interaction Risk](concepts/AutomatedDeterrenceInteractionRisk.md) — Escalation danger when separately authorized military, allied, and commercial systems respond outside planners' intended signaling frame.
 - [Imagination Inflation and Source Confusion](concepts/ImaginationInflationAndSourceConfusion.md) — Repeated imagination can preserve event content while obscuring whether it came from action, perception, suggestion, or imagination.
 - [Frequency-First Outbreak Screening](concepts/FrequencyFirstOutbreakScreening.md) — Rapid, inexpensive, repeated triage evaluated through timely confirmation, false-result harms, and measured transmission outcomes.
 - [Psychological Counterfactual Thinking](concepts/PsychologicalCounterfactualThinking.md) — Comparison of actual outcomes with better or worse imagined alternatives for learning, relief, and causal judgment.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11590
+wiki_total_pages: 11593
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "OperationalDigitalTwin"
     title: "Operational Digital Twin"
     url: "/wiki/concepts/operationaldigitaltwin/"
+  - key: "OperationalFrictionInStrategicPlanning"
+    title: "Operational Friction in Strategic Planning"
+    url: "/wiki/concepts/operationalfrictioninstrategicplanning/"
   - key: "OperationalGapOwnership"
     title: "Operational Gap Ownership / 主动补组织短板"
     url: "/wiki/concepts/operationalgapownership/"

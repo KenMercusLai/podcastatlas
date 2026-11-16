@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3879
+topic_total_pages: 3880
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1408,6 +1408,9 @@ topic_concepts:
   - key: "AutoFormalization"
     title: "Auto-Formalization"
     url: "/wiki/concepts/autoformalization/"
+  - key: "AutomatedDeterrenceInteractionRisk"
+    title: "Automated Deterrence Interaction Risk"
+    url: "/wiki/concepts/automateddeterrenceinteractionrisk/"
   - key: "AutomatedHiringProxyDiscrimination"
     title: "Automated Hiring Proxy Discrimination"
     url: "/wiki/concepts/automatedhiringproxydiscrimination/"
