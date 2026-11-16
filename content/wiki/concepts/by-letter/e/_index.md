@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11575
+wiki_total_pages: 11576
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1112,6 +1112,9 @@ wiki_pages:
   - key: "ETFWrapperExpansion"
     title: "ETF Wrapper Expansion / ETF 包装扩张"
     url: "/wiki/concepts/etfwrapperexpansion/"
+  - key: "EthicalConsumerChoiceEvaluation"
+    title: "Ethical Consumer Choice Evaluation"
+    url: "/wiki/concepts/ethicalconsumerchoiceevaluation/"
   - key: "EthicalMinorityTravel"
     title: "Ethical Minority Travel / 少数民族地区旅行伦理"
     url: "/wiki/concepts/ethicalminoritytravel/"

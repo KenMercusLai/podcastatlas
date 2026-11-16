@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Teaser: Pushkin’s Dirty Laundry](sources/teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry.md) — Revisionist History teaser on internal detergent backlash, disputed corporate environmental claims, ethical consumption, and lifestyle stereotypes.
 - [Work 2.0: Life, Interrupted](sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712.md) — Hidden Brain and Cal Newport connect attention residue, role-specific deep work, negotiated availability, visible busyness, working-memory interruption research, and the risk that efficiency becomes more work.
 - [Work 2.0: Rebel with a Cause](sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468.md) — Hidden Brain distinguishes purposeful challenge from destructive rule-breaking while keeping expertise, respectful dissent, explicit safeguards, and a retracted study in view.
 - [Work 2.0: The One-Room Commute](sources/default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044.md) — Hidden Brain and Nick Bloom use Ctrip's randomized experiment to connect remote productivity and retention gains with isolation, promotion penalties, unequal access, and conditional hybrid design.
@@ -5273,6 +5274,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Brendan Francis Newnam](entities/BrendanFrancisNewnam.md) — Pushkin executive defending Ecover and challenging the evidence and stereotypes behind an earlier detergent judgment.
+- [Lital Molad](entities/LitalMolad.md) — Pushkin content executive whose sponsorship question prompts scrutiny of extensive favorable corporate coverage.
+- [Ecover](entities/Ecover.md) — Detergent company defended through disputed labor, environmental, supply-chain, and product-performance claims.
+- [Pushkin Industries](entities/PushkinIndustries.md) — Podcast company using internal editorial criticism as both follow-up material and subscription promotion.
 - [Melissa Sheldrup](entities/MelissaSheldrup.md) — Researcher studying working memory, interruption recovery, and the evidentiary limits of transcranial direct-current stimulation demonstrations.
 - [Francesca Gino](entities/FrancescaGino.md) — Behavioral scientist presenting rebel talent under a material research-integrity warning that excludes a retracted karaoke study from the evidence base.
 - [Massimo Bottura](entities/MassimoBottura.md) — Chef illustrating curiosity-led experimentation, employee contribution, ordinary-task participation, and shared-mission leadership.
@@ -19949,6 +19954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Ethical Consumer Choice Evaluation](concepts/EthicalConsumerChoiceEvaluation.md) — Multi-criterion product comparison that separates performance, corporate conduct, environmental scope, evidence quality, and consumer stereotypes.
 - [Transcranial Direct-Current Stimulation Research Boundary](concepts/TranscranialDirectCurrentStimulationResearchBoundary.md) — Boundary between a temporary laboratory probe and an established everyday cognitive enhancement.
 - [Constructive Rebellion](concepts/ConstructiveRebellion.md) — Purposeful challenge to conventions joined to competence, ethical limits, shared purpose, and explicit compliance zones.
 - [Calibrated Self-Doubt](concepts/CalibratedSelfDoubt.md) — Proportionate uncertainty that supports preparation and humility without becoming a verdict on worth, belonging, or health.

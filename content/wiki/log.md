@@ -41687,6 +41687,12 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-17] ingest | Teaser: Pushkin’s Dirty Laundry
+
+Added a [[RevisionistHistory]] teaser on internal detergent criticism, [[Ecover]] and [[ProcterGamble|Procter & Gamble]] environmental claims, [[EthicalConsumerChoiceEvaluation]], and the boundary between evidence and lifestyle stereotype. Created focused profiles for [[BrendanFrancisNewnam]], [[LitalMolad]], [[Ecover]], and [[PushkinIndustries]], then resynthesized [[ProcterGamble]] from its complete preserved source inventory before appending the new source once.
+
+No settled contradiction was found. The existing P&G evidence concerns a later supplement-acquisition report, while this teaser adds an earlier, unresolved detergent comparison. Wage, carbon, building, factory-energy, supply-chain, cleaning-performance, and subscription-price claims remain source-scoped because the supplied file is a short structured promotional summary rather than a transcript, audit, lifecycle assessment, product test, or current offer.
+
 ## [2026-11-17] ingest | Mind Reading 2.0: How Others See You
 
 Added a [[HiddenBrain]] episode with psychologist [[EricaBoothby]] on why people often infer harsher social judgments than their conversation partners report. Created Boothby's focused profile, [[LikingGap]], and [[SocialAttentionAsymmetry]], then resynthesized [[SocialMisprediction]] from its complete preserved five-source inventory.
@@ -41890,6 +41896,10 @@ Core synthesis: deep work is a role-specific and socially negotiated condition r
 No settled contradiction was adopted. Newport's missed interview keeps the inconvenience of reduced availability visible, and emergency, service, and relationship-heavy roles preserve a genuine boundary on isolation. Hospital retention, attention residue, working-memory capacity, productivity, and broader stimulation effects remain episode-scoped because the supplied file is a structured summary without underlying papers, methods, sample sizes, effect sizes, adverse-event reporting, or replication detail. The efficiency discussion extends the workplace ratchet: saved time becomes leisure only when people and institutions choose not to refill it with more work.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 5,146 sources across 811 overview paragraphs and nine topics. Added-line wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

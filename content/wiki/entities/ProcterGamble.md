@@ -1,23 +1,55 @@
 ---
 title: "Procter & Gamble"
 type: entity
-tags: [company, cpg, consumer-health, supplements]
-sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]
-last_updated: 2026-08-16
+tags: [company, cpg, consumer-health, supplements, detergent]
+sources:
+  - fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677
+  - teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry
+last_updated: 2026-11-17
+knowledge_schema: synthesis-v1
 ---
 
 # Procter & Gamble
 
-Procter & Gamble appears in [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] through Reuters-reported plans to acquire [[Thorne]] for $3.8 billion. The episode says the deal would expand P&G's portfolio across vitamins, minerals, probiotics, dietary fiber, and gut-health products.
+## Overview
 
-The wiki treats this as a [[SupplementBrandConsolidation]] case. A large CPG company can buy premium supplement brands to enter a recurring wellness category, but that business logic sits beside the wiki's existing concerns around [[DietarySupplementRegulation]], label accuracy, and evidence boundaries.
+Procter & Gamble is a consumer-products company represented in the bounded sources through a reported premium-supplement acquisition and a disputed comparison of detergent manufacturing and corporate environmental performance.
 
-## Source Position
-- P&G is treated as a strategic buyer expanding in premium consumer health.
-- The acquisition is source-scoped and expected to close in the fourth quarter in the episode's account.
-- The episode links the deal to broader competition for vitamins, minerals, and supplement demand.
+## Current Profile
 
-## Connections
-- [[Thorne]] - acquisition target in the source.
-- [[SupplementBrandConsolidation]] and [[RecurringSupplementCommerce]] - business-model concepts extended by the deal.
-- [[DietarySupplementRegulation]], [[SupplementLabelAccuracy]], and [[ThirdPartySupplementTesting]] - consumer-trust and oversight context.
+One source presents P&G as a strategic buyer reportedly planning to acquire [[Thorne]] for $3.8 billion and expand into premium vitamins, minerals, probiotics, fiber, and gut-health products. The other has [[MalcolmGladwell]] praise P&G and counter criticism of its environmental record by saying its detergent factories use wind energy, while [[BrendanFrancisNewnam]] argues that [[Ecover]] performs better across wages, carbon, buildings, and supply-chain footprint. The detergent comparison remains unresolved because the teaser supplies no common measurement boundary or independent evidence.
+
+## Key Characteristics
+
+- Large consumer-products company using acquisition as a route into premium consumer health.
+- Reported buyer of [[Thorne]] in a source-scoped $3.8 billion transaction.
+- Detergent manufacturer praised in a [[RevisionistHistory]] exchange for wind-powered factories.
+- Comparison point for a disputed ethical-consumption argument involving labor, emissions, buildings, supply chains, and product performance.
+
+## Evidence
+
+### Premium consumer-health expansion
+
+- [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] repeats a Reuters-reported plan for P&G to acquire [[Thorne]] and broaden its supplement portfolio.
+
+### Detergent manufacturing and environmental comparison
+
+- [[teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry]] attributes the wind-energy claim to Gladwell and the unfavorable Ecover comparison to Newnam.
+
+## Qualifications
+
+- The acquisition report is episode-scoped and does not include transaction documents or a later closing confirmation.
+- Wind-powered detergent factories address one production input, not the company's complete lifecycle emissions, labor record, building performance, or supply-chain footprint.
+- The teaser does not provide comparable audited data for P&G and Ecover, so it cannot establish which company is environmentally or socially preferable overall.
+
+## What Changed
+
+- Adds the detergent-manufacturing and ethical-consumption dispute without treating either side's corporate ranking as settled.
+- Migrates the entity to the synthesis-first schema while preserving the original acquisition evidence.
+
+## Relationships
+
+- [[Thorne]] - reported acquisition target for premium consumer-health expansion.
+- [[Ecover]] - detergent company used as the source's direct ethical and environmental comparison.
+- [[SupplementBrandConsolidation]] - business-model frame for the reported acquisition.
+- [[EthicalConsumerChoiceEvaluation]] - framework for keeping product, labor, environmental, and evidence criteria distinct.

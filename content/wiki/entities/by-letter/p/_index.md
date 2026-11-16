@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14580
+wiki_total_pages: 14584
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1247,6 +1247,9 @@ wiki_pages:
   - key: "PureFitness"
     title: "Pure Fitness / Pure"
     url: "/wiki/entities/purefitness/"
+  - key: "PushkinIndustries"
+    title: "Pushkin Industries"
+    url: "/wiki/entities/pushkinindustries/"
   - key: "Putian"
     title: "Putian / 莆田"
     url: "/wiki/entities/putian/"

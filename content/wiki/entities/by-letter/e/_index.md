@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14580
+wiki_total_pages: 14584
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "EcovacsRobotics"
     title: "Ecovacs Robotics / 科沃斯"
     url: "/wiki/entities/ecovacsrobotics/"
+  - key: "Ecover"
+    title: "Ecover"
+    url: "/wiki/entities/ecover/"
   - key: "Ecuador"
     title: "Ecuador"
     url: "/wiki/entities/ecuador/"

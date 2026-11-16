@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14580
+wiki_total_pages: 14584
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "BrendanBrady"
     title: "Brendan Brady"
     url: "/wiki/entities/brendanbrady/"
+  - key: "BrendanFrancisNewnam"
+    title: "Brendan Francis Newnam"
+    url: "/wiki/entities/brendanfrancisnewnam/"
   - key: "BrendanGlavin"
     title: "Brendan Glavin"
     url: "/wiki/entities/brendanglavin/"
