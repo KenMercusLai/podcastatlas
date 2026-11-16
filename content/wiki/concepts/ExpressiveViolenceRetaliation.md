@@ -5,7 +5,8 @@ tags: [violence, retaliation, grief, conflict]
 sources:
   - wolfgang-s-law-part-one
   - brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns
-last_updated: 2026-11-15
+  - guns-part-6-sin-is-the-failure-to-bother-to-care
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The category should guide inquiry rather than excuse conduct or overclaim motive
 
 The Lehrer interview sharpens the contrast with instrumental violence and its policy implications. If a person acts while angry, intoxicated, humiliated, or overwhelmed, increasing a distant sentence may have little immediate deterrent effect. Prevention then shifts toward emotional regulation, conflict interruption, weapon access, and trusted intervention before the act, without treating impulsivity as inevitability or diminished responsibility.
 
+Pratt's South Side account adds developmental time and status competition. Unaddressed childhood killings can remain active grievances years later, while notoriety and fear may offer recognition to people who have experienced little achievement or control. The result is not purely spontaneous: expressive retaliation can become a durable social scoreboard across small territories.
+
 ## Key Claims
 
 - Personal relationships can transmit violence through grief, grievance, loyalty, and revenge.
@@ -31,6 +34,7 @@ The Lehrer interview sharpens the contrast with instrumental violence and its po
 - Emotional and instrumental motives can coexist within the same incident.
 - Intervention should protect people without treating grief, speech, association, or predicted risk as proof of a future offense.
 - Longer sentences may weakly deter an acute emotional act, making timing and de-escalation central prevention questions.
+- Unresolved childhood trauma and status incentives can keep retaliation active across years rather than only during an immediate grief window.
 
 ## Evidence
 
@@ -46,14 +50,17 @@ The Lehrer interview sharpens the contrast with instrumental violence and its po
 
 - [[brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns]] distinguishes planned, goal-directed violence from spontaneous violence in which anger or retaliation is itself the immediate objective.
 
+### Developmental and status pathway
+
+- [[guns-part-6-sin-is-the-failure-to-bother-to-care]] describes childhood losses, untreated trauma, territorial feuds, and a status “scoreboard” that can sustain later retaliation.
+
 ## Counterevidence & Qualifications
 
-The sources assert that most homicide is expressive but do not provide the classification method or comparative dataset behind that proportion. Motive categories are interpretive, mixed motives are common, and preventive action based on them can create false positives, privacy harms, or coercion if not carefully bounded.
+The sources assert that much homicide is expressive but do not provide the classification method or comparative dataset behind that proportion. Motive categories are interpretive, mixed motives are common, and preventive action based on them can create false positives, privacy harms, or coercion if not carefully bounded. Trauma history may inform support but neither predicts violence nor excuses it, and a “scoreboard” metaphor should not flatten distinct people or conflicts into one motive.
 
 ## What Changed
 
-- Created a qualified retaliation-pathway synthesis linking emotional escalation to relationship-specific prevention.
-- Added the deterrence implication of the instrumental-expressive distinction.
+- Added developmental trauma and status competition as mechanisms that can extend retaliation beyond an immediate grief window.
 
 ## Related Concepts
 
@@ -63,3 +70,4 @@ The sources assert that most homicide is expressive but do not provide the class
 - [[EmotionalContagion]] - adjacent process through which affect can spread across social relationships.
 - [[TeamBasedServiceDelivery]] - multi-role coordination needed to combine safety, services, and trusted mediation.
 - [[GunRightsHistoricalPathDependence]] - historical weapon-access context affecting the lethality of impulsive conflict.
+- [[CommunityGunshotFirstAid]] - downstream response after prevention and interruption have failed.

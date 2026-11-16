@@ -7460,6 +7460,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/abdullahibnalzubayr/"
     },
+    "AbdullahPratt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_6_Sin_is_the_failure_to_bother_to_care [Guns_Part_6_Sin_is_the_failure_to_bother_to_care].md",
+          "key": "guns-part-6-sin-is-the-failure-to-bother-to-care",
+          "show": "Revisionist History",
+          "title": "Guns Part 6: “Sin is the failure to bother to care”",
+          "url": "/wiki/sources/guns-part-6-sin-is-the-failure-to-bother-to-care/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/abdullahpratt/"
+    },
     "AbhijitTipke": {
       "episode_count": 2,
       "show_count": 1,
@@ -61943,6 +61959,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/communitygroupbuying/"
     },
+    "CommunityGunshotFirstAid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_6_Sin_is_the_failure_to_bother_to_care [Guns_Part_6_Sin_is_the_failure_to_bother_to_care].md",
+          "key": "guns-part-6-sin-is-the-failure-to-bother-to-care",
+          "show": "Revisionist History",
+          "title": "Guns Part 6: “Sin is the failure to bother to care”",
+          "url": "/wiki/sources/guns-part-6-sin-is-the-failure-to-bother-to-care/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/communitygunshotfirstaid/"
+    },
     "CommunityLedSaaSGrowth": {
       "episode_count": 2,
       "show_count": 1,
@@ -103759,9 +103791,9 @@
       "url": "/wiki/concepts/expressivebionicvoicerestoration/"
     },
     "ExpressiveViolenceRetaliation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Wolfgang's_Law_-_Part_One [Wolfgang's_Law_-_Part_One].md",
@@ -103776,9 +103808,16 @@
           "show": "Revisionist History",
           "title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
           "url": "/wiki/sources/brian-lehrer-and-malcolm-gladwell-talk-policing-and-guns/"
+        },
+        {
+          "episode_file": "Guns_Part_6_Sin_is_the_failure_to_bother_to_care [Guns_Part_6_Sin_is_the_failure_to_bother_to_care].md",
+          "key": "guns-part-6-sin-is-the-failure-to-bother-to-care",
+          "show": "Revisionist History",
+          "title": "Guns Part 6: “Sin is the failure to bother to care”",
+          "url": "/wiki/sources/guns-part-6-sin-is-the-failure-to-bother-to-care/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/expressiveviolenceretaliation/"
     },
     "ExpressiveWritingProtocol": {
@@ -155823,6 +155862,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/indianrebellion1857/"
+    },
+    "IndifferenceAsMoralFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_6_Sin_is_the_failure_to_bother_to_care [Guns_Part_6_Sin_is_the_failure_to_bother_to_care].md",
+          "key": "guns-part-6-sin-is-the-failure-to-bother-to-care",
+          "show": "Revisionist History",
+          "title": "Guns Part 6: “Sin is the failure to bother to care”",
+          "url": "/wiki/sources/guns-part-6-sin-is-the-failure-to-bother-to-care/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/indifferenceasmoralfailure/"
     },
     "IndigenousAllianceInSpanishConquest": {
       "episode_count": 3,
@@ -218940,9 +218995,9 @@
       "url": "/wiki/concepts/multievidencedisasterreconstruction/"
     },
     "MultiInterventionGunViolencePrevention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -218950,6 +219005,13 @@
           "show": "Revisionist History",
           "title": "The Bear Was Poked With Maria Konnikova",
           "url": "/wiki/sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "Guns_Part_6_Sin_is_the_failure_to_bother_to_care [Guns_Part_6_Sin_is_the_failure_to_bother_to_care].md",
+          "key": "guns-part-6-sin-is-the-failure-to-bother-to-care",
+          "show": "Revisionist History",
+          "title": "Guns Part 6: “Sin is the failure to bother to care”",
+          "url": "/wiki/sources/guns-part-6-sin-is-the-failure-to-bother-to-care/"
         }
       ],
       "updated": "2026-11-16",

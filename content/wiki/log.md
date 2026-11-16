@@ -40918,3 +40918,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Guns Part 6: “Sin is the failure to bother to care”
+
+Added the [[RevisionistHistory]] finale centered on [[AbdullahPratt]], a Chicago emergency physician whose older brother and close friends were killed by gun violence and who returned to work in the community where he grew up. Created [[CommunityGunshotFirstAid]] and [[IndifferenceAsMoralFailure]], and extended [[ExpressiveViolenceRetaliation]] and [[MultiInterventionGunViolencePrevention]].
+
+Core synthesis: unresolved childhood trauma, grief, status competition, firearm access, and territorial retaliation can sustain routine violence that receives less attention than mass shootings. Pratt's ABC training turns care into a practical pre-arrival capacity, but it operates after a shooting and cannot replace prevention, professional emergency services, trauma systems, or institutional responsibility. No settled contradiction was adopted: the episode qualifies law-only accounts without showing that regulation is irrelevant.
+
+The annual murder total, mass-shooting share, trauma-center history, number trained, childhood-bereavement prevalence, firearm modifications, program outcomes, and causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, dataset, evaluation, or policy study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,079 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
