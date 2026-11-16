@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14425
+wiki_total_pages: 14429
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "CheshireCat"
     title: "Cheshire Cat / 柴郡猫"
     url: "/wiki/entities/cheshirecat/"
+  - key: "ChesleySullenberger"
+    title: "Chesley Sullenberger"
+    url: "/wiki/entities/chesleysullenberger/"
   - key: "ChesterWilliams"
     title: "Chester Williams"
     url: "/wiki/entities/chesterwilliams/"
@@ -1253,6 +1256,9 @@ wiki_pages:
   - key: "ChuckTaylor"
     title: "Chuck Taylor"
     url: "/wiki/entities/chucktaylor/"
+  - key: "ChuckYeager"
+    title: "Chuck Yeager"
+    url: "/wiki/entities/chuckyeager/"
   - key: "ChurchOfAmbrosia"
     title: "Church of Ambrosia"
     url: "/wiki/entities/churchofambrosia/"

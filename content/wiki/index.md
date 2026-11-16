@@ -5196,6 +5196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 70 - Twilight of the Aesir II](sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii.md) — Hardcore History on Norse lived belief, settlement, eastern cultural mixture, Christianization, state-building, and the uneven end of the Viking Age.
 
 - [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
+- [This Is Your Captain Speaking](sources/this-is-your-captain-speaking.md) — Revisionist History episode on pilot voice, professional speech convergence, passenger reassurance, stereotype, and crisis judgment.
 
 ## Entities
 - [Håkon the Good](entities/HakonTheGood.md) — Norwegian Christian ruler whose compromise with traditional sacrifice exposes the limits of early royal conversion.
@@ -19716,6 +19717,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ulf Ewaldsson](entities/UlfEwaldsson.md) — T-Mobile executive presenting live-event capacity, low latency, sensors, and telemetry through Formula One and SailGP cases.
 - [Emily Prazer](entities/EmilyPrazer.md) — Las Vegas Grand Prix commercial executive connecting connectivity with access, navigation, entertainment, and event operations.
 - [Las Vegas Grand Prix](entities/LasVegasGrandPrix.md) — Formula One street race used as a dense-crowd connectivity and connected-spectator case.
+- [Chuck Yeager](entities/ChuckYeager.md) — Test pilot whose calm, folksy image supplies the cultural origin story for the American pilot voice.
+- [Chesley Sullenberger](entities/ChesleySullenberger.md) — Airline captain whose Hudson River emergency distinguishes vocal reassurance from demonstrated crisis judgment.
+- [Jennifer Pardo](entities/JenniferPardo.md) — Speech psychologist explaining phonetic convergence while qualifying claims that pilots uniformly sound alike.
+- [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
 - [Agricultural Leverage and Weather Shock](concepts/AgriculturalLeverageAndWeatherShock.md) — Compound risk in which fixed expansion obligations persist while drought reduces the output and cash flow needed to service them.
@@ -31264,5 +31269,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Place-Based Violence Prevention](concepts/PlaceBasedViolencePrevention.md) — Environmental repair approach acting on neglected spaces without making broad low-level arrest the primary intervention.
 
 - [Connected Sports Experience](concepts/ConnectedSportsExperience.md) — Networked video, sensors, telemetry, navigation, and audience interfaces that make live competition more legible and personalized.
+- [Pilot Voice](concepts/PilotVoice.md) — Occupational speech style through which pilots project calm competence to passengers who cannot observe cockpit work directly.
+- [Communication Accommodation](concepts/CommunicationAccommodation.md) — Conscious or automatic speech adjustment toward an in-group or away from an out-group.
 
 ## Syntheses

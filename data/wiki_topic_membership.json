@@ -27152,6 +27152,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CommunicationAccommodation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CommunicationResilience": [
     {
       "key": "technology",
@@ -53575,6 +53582,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JenniferPardo": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "JensSpahn": [

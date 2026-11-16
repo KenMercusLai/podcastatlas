@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1667
+topic_total_pages: 1669
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -490,6 +490,9 @@ topic_concepts:
   - key: "CommercialSatelliteConstellations"
     title: "Commercial Satellite Constellations"
     url: "/wiki/concepts/commercialsatelliteconstellations/"
+  - key: "CommunicationAccommodation"
+    title: "Communication Accommodation"
+    url: "/wiki/concepts/communicationaccommodation/"
   - key: "CommunityFeeling"
     title: "Community Feeling"
     url: "/wiki/concepts/communityfeeling/"
@@ -3173,6 +3176,9 @@ topic_entities:
   - key: "JeanTatlock"
     title: "Jean Tatlock"
     url: "/wiki/entities/jeantatlock/"
+  - key: "JenniferPardo"
+    title: "Jennifer Pardo"
+    url: "/wiki/entities/jenniferpardo/"
   - key: "JohnGideonMillingen"
     title: "John Gideon Millingen / 约翰·基甸·米林根"
     url: "/wiki/entities/johngideonmillingen/"

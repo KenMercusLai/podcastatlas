@@ -40853,3 +40853,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | This Is Your Captain Speaking
+
+Added the [[RevisionistHistory]] episode examining why airline pilots seem to share a calm, low, slow, and folksy voice. Created bounded profiles for [[ChuckYeager]], [[ChesleySullenberger]], [[JenniferPardo]], and [[KarenStahl]], plus [[PilotVoice]] and [[CommunicationAccommodation]].
+
+Core synthesis: pilot voice is a perceived feature cluster produced by practical announcement demands, professional belonging, cultural inheritance, and passenger expectation rather than one demonstrated uniform accent. Yeager is strongest as an ideal of unflappable command, not a proven source of literal imitation; Pardo's accommodation framework makes automatic convergence plausible while predicting more acoustic variation than listeners notice. Vocal reassurance can help anxious passengers, but it becomes competence theater when sound substitutes for performance. Sullenberger's Hudson communication supplies the limiting case in which concise calm accompanies adaptable judgment under abnormal conditions. No settled contradiction was adopted. Hiring bias, pitch interpretation, post-September 11 change, automation, passenger effects, and the Yeager genealogy remain source-scoped because the supplied file is a structured summary rather than a transcript, representative acoustic study, hiring audit, or aviation-safety dataset. Broad [[MalcolmGladwell]], [[BenNaddaffHafrey]], and Revisionist History profiles and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,074 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
