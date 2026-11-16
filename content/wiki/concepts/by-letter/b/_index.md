@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11495
+wiki_total_pages: 11499
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "BenchmarkTrainingDataSeparation"
     title: "Benchmark–Training Data Separation / 评测集与训练数据隔离"
     url: "/wiki/concepts/benchmarktrainingdataseparation/"
+  - key: "BeneficiaryResistanceToFairnessReform"
+    title: "Beneficiary Resistance to Fairness Reform"
+    url: "/wiki/concepts/beneficiaryresistancetofairnessreform/"
   - key: "BenevolentCommandExecutionGap"
     title: "Benevolent Command Execution Gap / 仁厚指挥执行缺口"
     url: "/wiki/concepts/benevolentcommandexecutiongap/"

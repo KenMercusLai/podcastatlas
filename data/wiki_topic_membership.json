@@ -29939,6 +29939,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CumulativeSelectionAdvantage": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CunHan": [
     {
       "key": "history",
@@ -70935,6 +70942,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "OutliersBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Outlive": [
     {
       "key": "culture",
@@ -79600,6 +79614,13 @@
     }
   ],
   "RelativeAdvantageCareerMatching": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "RelativeAgeEffect": [
     {
       "key": "culture",
       "label": "Culture",
@@ -100003,6 +100024,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WhartonSchool": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "WhatIsOurProblem": [
     {
       "key": "culture",
@@ -112558,6 +112586,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "outliers-revisited-outliers-revisited": [
     {
       "key": "culture",
       "label": "Culture",

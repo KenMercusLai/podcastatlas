@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11495
+wiki_total_pages: 11499
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "MatureGenreDeconstruction"
     title: "Mature-Genre Deconstruction / 成熟类型的解构"
     url: "/wiki/concepts/maturegenredeconstruction/"
+  - key: "MaturityBasedCorrectiveAdjustment"
+    title: "Maturity-Based Corrective Adjustment"
+    url: "/wiki/concepts/maturitybasedcorrectiveadjustment/"
   - key: "MausoleumFrugalityRemonstrance"
     title: "Mausoleum Frugality Remonstrance / 陵墓节俭式进谏"
     url: "/wiki/concepts/mausoleumfrugalityremonstrance/"

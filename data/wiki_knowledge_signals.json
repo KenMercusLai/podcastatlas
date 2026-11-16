@@ -9075,6 +9075,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/adamipsmith/"
     },
+    "AdamKelly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/adamkelly/"
+    },
     "AdaptationAsMoralReframing": {
       "episode_count": 3,
       "show_count": 3,
@@ -33622,6 +33638,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/beneficialstatebank/"
+    },
+    "BeneficiaryResistanceToFairnessReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/beneficiaryresistancetofairnessreform/"
     },
     "BenefitSharingDecisionControl": {
       "episode_count": 1,
@@ -71917,6 +71949,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
+    },
+    "CumulativeSelectionAdvantage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/cumulativeselectionadvantage/"
     },
     "CunardLine": {
       "episode_count": 1,
@@ -202907,9 +202955,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MalcolmGladwell": {
-      "episode_count": 30,
+      "episode_count": 31,
       "show_count": 1,
-      "source_note_count": 30,
+      "source_note_count": 31,
       "sources": [
         {
           "episode_file": "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
@@ -203120,6 +203168,13 @@
           "show": "Revisionist History",
           "title": "Revisionist History LIVE with Nate Berkus",
           "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        },
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
         }
       ],
       "updated": "2026-11-16",
@@ -208027,6 +208082,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/matureperformercareerrelaunch/"
+    },
+    "MaturityBasedCorrectiveAdjustment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/maturitybasedcorrectiveadjustment/"
     },
     "MatyasRakosi": {
       "episode_count": 1,
@@ -213454,6 +213525,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/michaelpollan/"
+    },
+    "MichaelRomann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/michaelromann/"
     },
     "MichaelSeelig": {
       "episode_count": 1,
@@ -236086,6 +236173,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/outerroundinnersquareconduct/"
+    },
+    "OutliersBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/outliersbook/"
     },
     "Outlive": {
       "episode_count": 2,
@@ -265294,6 +265397,22 @@
       "updated": "2026-11-05",
       "url": "/wiki/concepts/relativeadvantagecareermatching/"
     },
+    "RelativeAgeEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/relativeageeffect/"
+    },
     "ReliabilityDrivenInfrastructureOwnership": {
       "episode_count": 1,
       "show_count": 1,
@@ -272074,6 +272193,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/rogerascham/"
+    },
+    "RogerBarnsley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/rogerbarnsley/"
     },
     "RogerBerkowitz": {
       "episode_count": 1,
@@ -297125,6 +297260,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/stephenchow/"
+    },
+    "StephenCopley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/stephencopley/"
     },
     "StephenDavis": {
       "episode_count": 1,
@@ -333417,6 +333568,50 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/wetlandmarginalspace/"
+    },
+    "WhartonSchool": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
+          "key": "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254",
+          "show": "What's Next｜科技早知道",
+          "title": "用 AI 让我们变笨了吗？｜S10E25",
+          "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332 [default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332].md",
+          "key": "older-workers-arent-retiring-should-they-be-forced-to",
+          "show": "Planet Money",
+          "title": "Older workers aren't retiring. Should they be forced to?",
+          "url": "/wiki/sources/older-workers-arent-retiring-should-they-be-forced-to/"
+        },
+        {
+          "episode_file": "tech_20260408_0408_MP_TECH_pod_128 [tech_20260408_0408_MP_TECH_pod_128].md",
+          "key": "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Are humans losing the ability to think for themselves?",
+          "url": "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260316_0316_MP_TECH_pod_128 [tech_20260316_0316_MP_TECH_pod_128].md",
+          "key": "tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How confident are crypto consumers?",
+          "url": "/wiki/sources/tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Outliers,_Revisited [Outliers,_Revisited].md",
+          "key": "outliers-revisited-outliers-revisited",
+          "show": "Revisionist History",
+          "title": "Outliers, Revisited",
+          "url": "/wiki/sources/outliers-revisited-outliers-revisited/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/whartonschool/"
     },
     "WhatIsOurProblem": {
       "episode_count": 1,

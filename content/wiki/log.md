@@ -40336,6 +40336,16 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | Outliers, Revisited
+
+Added the [[RevisionistHistory]] episode revisiting [[RogerBarnsley]]'s [[RelativeAgeEffect]], the way [[CumulativeSelectionAdvantage]] converts cutoff-based developmental differences into unequal coaching and gifted placement, and the persistence of relative-age skew despite decades of public knowledge.
+
+Created [[AdamKelly]], [[StephenCopley]], [[MichaelRomann]], and [[OutliersBook|Outliers]], and migrated [[WhartonSchool]] to synthesis-v1 from its complete four-source bounded input before appending the episode once. Resynthesized [[MalcolmGladwell]] from his complete thirty-source bounded input before adding the new source, emphasizing the distinction between correcting a public argument and reconsidering how readers used it.
+
+The episode's strongest new synthesis is that fairness reform faces two separate gates: a valid diagnosis of accumulated advantage and a credible remedy. [[MaturityBasedCorrectiveAdjustment]] may reveal late-maturing swimming talent, but it does not by itself validate academic score correction; [[BeneficiaryResistanceToFairnessReform]] combines personal self-interest with legitimate concerns about model assumptions, ownership, gaming, transparency, and appeal.
+
+No settled contradiction was adopted. The Wharton exercise is small and non-random, the proposed education algorithm is conceptual, and reported birth distributions, selection ratios, gifted-program histories, race-order changes, and causal pathways remain source-scoped. The automatic `wiki/overview.md` was kept closed to manual editing; downstream synthesis was refreshed through the deterministic workflow.
+
 ## [2026-11-16] ingest | 《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？
 
 Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode linking [[NanyangRebellion218LateHan|侯音之乱]] and [[DingjunMountainBattleLateHan|定军山之战]]. It creates [[HouYinLateHan|侯音]], [[DongliGunLateHan|东里衮]], [[ZongZiqingLateHan|宗子卿]], [[GuoHuaiLateHan|郭淮]], and the two event pages, while resynthesizing [[CaoRen|曹仁]], [[XiahouYuan|夏侯渊]], [[ZhangHeLateHan|张郃]], [[FaZheng|法正]], [[DuXiLateHan|杜袭]], [[HuangZhong|黄忠]], [[HanzhongCampaign218LateHan|218–219年汉中争夺]], and [[RoleTransitionCapabilityTrap|角色转换中的能力陷阱]] from their complete preserved evidence inventories before appending the new source once.
@@ -41322,6 +41332,10 @@ No settled contradiction was adopted. The episode strengthens the severe-harm an
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,107 sources across 810 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

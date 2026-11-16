@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11495
+wiki_total_pages: 11499
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3527,6 +3527,9 @@ wiki_pages:
   - key: "CumulativeRiverValleyDevelopmentRisk"
     title: "Cumulative River-Valley Development Risk"
     url: "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
+  - key: "CumulativeSelectionAdvantage"
+    title: "Cumulative Selection Advantage"
+    url: "/wiki/concepts/cumulativeselectionadvantage/"
   - key: "CuratorialExperienceDesign"
     title: "Curatorial Experience Design / 策展体验设计"
     url: "/wiki/concepts/curatorialexperiencedesign/"

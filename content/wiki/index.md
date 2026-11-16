@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Outliers, Revisited](sources/outliers-revisited-outliers-revisited.md) — Revisionist History connects relative-age bias, cumulative selection advantage, maturity-adjusted swimming, Wharton privilege, and beneficiary resistance to fairness reform.
 - [The Mennonite National Anthem](sources/the-mennonite-national-anthem-the-mennonite-national-anthem.md) — Revisionist History connects Lester Glick’s starvation, recovery, Mennonite faith, social-work vocation, and generosity to the Minnesota experiment’s scientific and moral legacy.
 - [From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon](sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen.md) — Lake Bell and Malcolm Gladwell separate a high-pitched, fry-inflected celebrity vocal persona from intelligence, natural variation, and mature vocal agency.
 - [The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part One](sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-one-the-cadillac-lyriq-malcolm-gladwell-meets-an-electr.md) — Sponsored Revisionist History experience test connecting exterior appeal, immediate acceleration, pedestrian sound, digital displays, and tactile cabin luxury while leaving comparative ownership evidence untested.
@@ -5233,6 +5234,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Roger Barnsley](entities/RogerBarnsley.md) — Psychologist associated with foundational hockey research on the relative age effect and its persistence in talent selection.
+- [Adam Kelly](entities/AdamKelly.md) — Researcher connecting relative-age bias in English basketball to wider talent-identification and assessment questions.
+- [Stephen Copley](entities/StephenCopley.md) — Researcher co-developing maturity-based corrective adjustment for adolescent swimming while treating educational transfer cautiously.
+- [Michael Romann](entities/MichaelRomann.md) — Researcher co-developing maturity-based corrective adjustment to reveal late-maturing swimming talent hidden by raw results.
+- [Outliers](entities/OutliersBook.md) — Malcolm Gladwell book whose relative-age systems critique was later used by some parents as a private school-entry strategy.
 - [Lester Glick](entities/LesterGlick.md) — Mennonite starvation-study volunteer and social-work educator who turned lasting deprivation into teaching, care, and food sharing.
 - [Abdul Dulloo](entities/AbdulDulloo.md) — Physiologist explaining uneven fat and lean-tissue recovery and the Minnesota study’s continuing evidentiary value.
 - [Cadillac](entities/Cadillac.md) — General Motors luxury brand using the LYRIQ to frame electrification as continuity in comfort, design, and composed travel.
@@ -17275,7 +17281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Josh Bersin](entities/JoshBersin.md) — HR industry analyst and consultant explaining AI meeting analysis, workplace digital twins, productivity gains, and the need for transparent employee monitoring boundaries.
 - [Galileo](entities/Galileo.md) — Workplace AI tool described by Josh Bersin as analyzing recorded meetings and answering open-ended questions about topics, participation, and skills.
 - [Dave Reibstein](entities/DaveReibstein.md) — Wharton marketing professor explaining the Consumer Cryptocurrency Confidence Index, crypto sentiment, and why many consumers treat crypto as risky investment exposure rather than everyday money.
-- [Wharton School](entities/WhartonSchool.md) — Business school behind Marketplace Tech discussions of crypto consumer confidence and cognitive surrender in AI decision-making.
+- [Wharton School](entities/WhartonSchool.md) — Business school represented through research on AI learning, judgment, crypto confidence, retirement, and a relative-age privilege exercise.
 - [Steve Shaw](entities/SteveShaw.md) — Wharton researcher explaining cognitive surrender, artificial cognition as "system three," and why users should think before prompting AI.
 - [Financial Times](entities/FinancialTimes.md) — Business-news organization whose Amazon outage reporting triggers the source's AI coding guardrails discussion.
 - [MoffettNathanson](entities/MoffettNathanson.md) — Research firm whose YouTube revenue report grounds the source's media-dominance discussion.
@@ -19834,6 +19840,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Relative Age Effect](concepts/RelativeAgeEffect.md) — Cutoff-based developmental advantage that can shape selection, investment, gifted placement, and later opportunity.
+- [Cumulative Selection Advantage](concepts/CumulativeSelectionAdvantage.md) — Process by which an initial difference changes access to development and becomes a real later capability gap.
+- [Maturity-Based Corrective Adjustment](concepts/MaturityBasedCorrectiveAdjustment.md) — Provisional procedure adjusting youth-sport performance for biological maturity to surface obscured potential.
+- [Beneficiary Resistance to Fairness Reform](concepts/BeneficiaryResistanceToFairnessReform.md) — Resistance to correcting acknowledged structural advantage when reform threatens rank or lacks procedural credibility.
 - [Post-Starvation Body-Composition Recovery](concepts/PostStarvationBodyCompositionRecovery.md) — Uneven restoration of fat, lean tissue, and function after severe dietary restriction.
 - [Hunger as Total Deprivation](concepts/HungerAsTotalDeprivation.md) — Hunger understood as bodily, psychological, relational, and spiritual loss requiring material and human care.
 - [Sexy Baby Voice](concepts/SexyBabyVoice.md) — Qualified vocal cluster joining high pitch, fry, uptalk, breathiness, compressed phrasing, and gendered listener interpretations of sexuality, youth, and authority.

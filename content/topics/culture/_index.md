@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3753
+topic_total_pages: 3758
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1105,6 +1105,9 @@ topic_concepts:
   - key: "CultureReviewTvReportFormat"
     title: "Culture-Review TV Report Format / 文化电视报式评论"
     url: "/wiki/concepts/culturereviewtvreportformat/"
+  - key: "CumulativeSelectionAdvantage"
+    title: "Cumulative Selection Advantage"
+    url: "/wiki/concepts/cumulativeselectionadvantage/"
   - key: "CustomMoviePopcornBuckets"
     title: "Custom Movie Popcorn Buckets / 电影定制爆米花桶"
     url: "/wiki/concepts/custommoviepopcornbuckets/"
@@ -3049,6 +3052,9 @@ topic_concepts:
   - key: "RelativeAdvantageCareerMatching"
     title: "Relative Advantage Career Matching / 相对优势职业匹配"
     url: "/wiki/concepts/relativeadvantagecareermatching/"
+  - key: "RelativeAgeEffect"
+    title: "Relative Age Effect"
+    url: "/wiki/concepts/relativeageeffect/"
   - key: "RemedialEducationTargeting"
     title: "Remedial Education Targeting"
     url: "/wiki/concepts/remedialeducationtargeting/"
@@ -6152,6 +6158,9 @@ topic_entities:
   - key: "OscarWilde"
     title: "Oscar Wilde / 王尔德"
     url: "/wiki/entities/oscarwilde/"
+  - key: "OutliersBook"
+    title: "Outliers"
+    url: "/wiki/entities/outliersbook/"
   - key: "PageMatch"
     title: "PageMatch"
     url: "/wiki/entities/pagematch/"
@@ -7154,6 +7163,9 @@ topic_entities:
   - key: "WeylandYutani"
     title: "Weyland-Yutani"
     url: "/wiki/entities/weylandyutani/"
+  - key: "WhartonSchool"
+    title: "Wharton School"
+    url: "/wiki/entities/whartonschool/"
   - key: "WhatIsOurProblem"
     title: "What Is Our Problem? / 我们究竟怎么了"
     url: "/wiki/entities/whatisourproblem/"
@@ -10800,6 +10812,9 @@ topic_sources:
   - key: "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb"
     title: "Out-numbered: AI's contentious maths milestone"
     url: "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+  - key: "outliers-revisited-outliers-revisited"
+    title: "Outliers, Revisited"
+    url: "/wiki/sources/outliers-revisited-outliers-revisited/"
   - key: "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132"
     title: "Outsider chance: ending Sudan's proxy war"
     url: "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"

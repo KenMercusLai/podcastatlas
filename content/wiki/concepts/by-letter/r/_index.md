@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11495
+wiki_total_pages: 11499
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "RelativeAdvantageCareerMatching"
     title: "Relative Advantage Career Matching / 相对优势职业匹配"
     url: "/wiki/concepts/relativeadvantagecareermatching/"
+  - key: "RelativeAgeEffect"
+    title: "Relative Age Effect"
+    url: "/wiki/concepts/relativeageeffect/"
   - key: "RelentlesslyResourcefulFounder"
     title: "Relentlessly Resourceful Founder"
     url: "/wiki/concepts/relentlesslyresourcefulfounder/"
