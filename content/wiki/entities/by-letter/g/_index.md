@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14399
+wiki_total_pages: 14405
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1784,6 +1784,9 @@ wiki_pages:
   - key: "GuoTaiLateHan"
     title: "郭泰 / Guo Tai (late Han)"
     url: "/wiki/entities/guotailatehan/"
+  - key: "GuoHuaiLateHan"
+    title: "郭淮 / Guo Huai (late Han)"
+    url: "/wiki/entities/guohuailatehan/"
   - key: "GuoQingXinGeneral"
     title: "郭清 / Guo Qing (Xin general)"
     url: "/wiki/entities/guoqingxingeneral/"

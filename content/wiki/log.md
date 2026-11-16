@@ -40276,6 +40276,14 @@ Ran deterministic and graph-aware lint without saving a report. Semantic checks 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | 《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？
+
+Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode linking [[NanyangRebellion218LateHan|侯音之乱]] and [[DingjunMountainBattleLateHan|定军山之战]]. It creates [[HouYinLateHan|侯音]], [[DongliGunLateHan|东里衮]], [[ZongZiqingLateHan|宗子卿]], [[GuoHuaiLateHan|郭淮]], and the two event pages, while resynthesizing [[CaoRen|曹仁]], [[XiahouYuan|夏侯渊]], [[ZhangHeLateHan|张郃]], [[FaZheng|法正]], [[DuXiLateHan|杜袭]], [[HuangZhong|黄忠]], [[HanzhongCampaign218LateHan|218–219年汉中争夺]], and [[RoleTransitionCapabilityTrap|角色转换中的能力陷阱]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: levy pressure gives Hou Yin a real grievance but not a viable completion plan; Zong Ziqing exploits that gap to free Dongli Gun, while Cao Ren's suppression ends, in the episode's account, with collective civilian punishment. At Dingjun Mountain, repeated pressure against Zhang He, fire, and force redistribution expose Xiahou Yuan during defensive repair; Fa Zheng identifies the attack window, Huang Zhong executes it, and Du Xi plus Guo Huai restore command around Zhang He. No settled contradiction is adopted. Cao Ren's reported Nanyang massacre remains in explicit tension with his earlier Huguan surrender-path advice, and personality-based claims about arrogance remain qualified by taxation, logistics, force allocation, terrain, and organizational recovery. Dialogue, offices, totals, massacre responsibility, battle mechanics, kinship, burial, and motive claims remain source-scoped because the supplied file is a structured summary rather than a transcript or primary-source collation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,065 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | 《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱
 
 Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing the current [[HanzhongCampaign218LateHan|218–219 Hanzhong campaign]] arc from [[XiahouYuan|夏侯渊]]'s death through [[CaoCao|曹操]]'s withdrawal. Created [[HuangZhong|黄忠]], [[RoleTransitionCapabilityTrap|角色转换中的能力陷阱]], and [[PopulationRelocationBufferStrategy|迁民式战略缓冲]], then resynthesized the campaign, Xiahou Yuan, [[ZhangJiCaoOfficialLateHan|张既]], and [[AmbiguityBasedDeterrentBluff|疑兵式心理威慑]] from their complete preserved evidence inventories before appending the new source once.
@@ -40739,6 +40747,10 @@ Added a [[TheRestIsHistory]] episode following the Allied Crimean landing throug
 Core synthesis: poor intelligence, transport, disease, divided command, and Russian mistakes shaped the invasion; French flank movement, Highland discipline, and Minié-rifle fire won at the Alma, but delayed exploitation allowed Sevastopol to fortify and turned a raid into a siege dependent on a vulnerable Balaclava corridor. Repeated cavalry restraint may have preserved weakened men and horses while also increasing frustration, reputational pressure, and appetite for decisive action. No settled contradiction is adopted. Force, gun, casualty, timing, weapon, command-motive, and counterfactual claims remain source-scoped because the supplied file is a structured episode summary rather than a transcript or specialist campaign history. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,064 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

@@ -6,6 +6,7 @@ sources:
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
   - zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk
   - zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p
+  - zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c
 last_updated: 2026-11-12
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ Hanji 1049 introduces Zhang He at the decisive Wuchao crisis. He warns that the 
 
 Hanji 1155 extends that western role after Cao Cao takes Hanzhong. Zhang He moves south into Ba and reportedly attempts to relocate residents toward Hanzhong. [[ZhangFei|张飞]] opposes him, conducts reconnaissance, and uses terrain and night attack after a prolonged standoff, leaving Zhang He to withdraw with survivors. The episode says this battle occurred later than its narrative placement beside 215 material, so the event is retained as a source-scoped Ba-frontier operation rather than folded into a single-year campaign chronology.
 
+Hanji 1163 then places Zhang He at Dingjun Mountain. Liu Bei concentrates pressure on his sector, forcing Xiahou Yuan to send support; after Xiahou Yuan is killed, [[DuXiLateHan|杜袭]] and [[GuoHuaiLateHan|郭淮]] rally the army around Zhang He. His inspection of the lines stabilizes morale, turning an experienced field commander into the emergency continuity point after strategic defeat.
+
 ## Key Characteristics
 
 - Yuan general who recognizes Wuchao as the decisive logistics point.
@@ -30,6 +33,7 @@ Hanji 1155 extends that western role after Cao Cao takes Hanzhong. Zhang He move
 - Surrenderer whose credibility is defended by Xun You and accepted by the Cao-side system.
 - Later mobile commander dispatched to relieve Qishan and then advancing from Hanzhong into the Ba region with a population-movement objective.
 - Suffers a reversal when Zhang Fei uses reconnaissance, terrain, and surprise against an exposed position.
+- Becomes the emergency commander after Xiahou Yuan's death and restores immediate organizational coherence.
 
 ## Evidence
 
@@ -39,15 +43,16 @@ Hanji 1155 extends that western role after Cao Cao takes Hanzhong. Zhang He move
 - Qishan relief role: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] says Xiahou Yuan dispatches Zhang He with five thousand troops and that Ma Chao withdraws rapidly.
 - Ba-frontier advance: [[zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p|Hanji 1155]] places Zhang He south of Hanzhong, attempting to move Ba-region residents before facing Zhang Fei.
 - Reversal and withdrawal: [[zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p|Hanji 1155]] credits Zhang Fei's reconnaissance, terrain use, and night attack with inflicting heavy losses and forcing Zhang He's retreat.
+- Dingjun pressure and succession: [[zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c|Hanji 1163]] says Liu Bei attacks Zhang He's sector and that Du Xi and Guo Huai elevate him after Xiahou Yuan's death.
 
 ## Qualifications
 
-The current evidence still omits most of Zhang He's Cao-Wei career. Hanji 1140 does not establish the exact route, timing, force total, battle contact, or whether Ma Chao's withdrawal resulted solely from Zhang He's approach. Hanji 1155's proposed 218 date, fifty-day standoff, migration program, routes, losses, and night-battle mechanics require direct comparison with the historical texts. The broader inference that successful incorporation converted a defector into trusted field capacity is supported by the role change, but not by a complete institutional record.
+The current evidence still omits most of Zhang He's Cao-Wei career. Hanji 1140 does not establish the exact route, timing, force total, battle contact, or whether Ma Chao's withdrawal resulted solely from Zhang He's approach. Hanji 1155's proposed date, standoff, migration program, routes, losses, and night-battle mechanics require direct comparison, as do Hanji 1163's Dingjun force allocation, appointment process, and morale recovery. The broader inference that successful incorporation converted a defector into trusted field capacity is supported by the role change, but not by a complete institutional record.
 
 ## What Changed
 
-- Added the Ba-frontier advance, population-movement objective, defeat by Zhang Fei, and withdrawal.
-- Preserved the episode's chronology correction as source-scoped rather than treating narrative adjacency as simultaneity.
+- Extended Zhang He's trusted-command profile into emergency succession after Dingjun Mountain.
+- Added command continuity and morale restoration without erasing the preceding tactical pressure on his sector.
 
 ## Relationships
 
@@ -56,6 +61,8 @@ The current evidence still omits most of Zhang He's Cao-Wei career. Hanji 1140 d
 - [[GuoTu|郭图]] - adviser whose self-protective slander drives Zhang He's defection.
 - [[XunYou|荀攸]] - strategist who argues Zhang He's surrender is credible.
 - [[XiahouYuan|夏侯渊]] - Cao-side commander who later dispatches Zhang He to Qishan.
+- [[GuoHuaiLateHan|郭淮]] - officer who helps place Zhang He in emergency command after Xiahou Yuan's death.
+- [[DingjunMountainBattleLateHan|定军山之战]] - defeat after which Zhang He becomes the continuity commander.
 - [[MaChao|马超]] - opponent whose recovery attempt ends as Zhang He's relief force approaches.
 - [[ZhangFei|张飞]] - opposing commander who defeats Zhang He's exposed Ba-region force.
 - [[HanzhongCampaign215|曹操西征汉中（215年）]] - strategic transfer that creates Zhang He's later southward operating base.

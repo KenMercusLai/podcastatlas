@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 14399
+wiki_total_pages: 14405
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "NewYorkCityBlackout1977"
     title: "1977 New York City Blackout"
     url: "/wiki/entities/newyorkcityblackout1977/"
+  - key: "NanyangRebellion218LateHan"
+    title: "218年南阳侯音之乱 / Hou Yin's Nanyang Rebellion (218 CE)"
+    url: "/wiki/entities/nanyangrebellion218latehan/"
   - key: "NineToFiveFilm"
     title: "9 to 5 (1980 Film)"
     url: "/wiki/entities/ninetofivefilm/"

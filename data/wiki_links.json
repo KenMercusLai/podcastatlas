@@ -28963,6 +28963,10 @@
     "title": "叮咚小区 / Dingdong Xiaoqu",
     "url": "/wiki/entities/dingdongxiaoqu/"
   },
+  "DingjunMountainBattleLateHan": {
+    "title": "定军山之战 / Battle of Dingjun Mountain",
+    "url": "/wiki/entities/dingjunmountainbattlelatehan/"
+  },
   "Dingtao": {
     "title": "陶 / 定陶 / Dingtao",
     "url": "/wiki/entities/dingtao/"
@@ -29862,6 +29866,10 @@
   "Donghu": {
     "title": "东胡 / Donghu",
     "url": "/wiki/entities/donghu/"
+  },
+  "DongliGunLateHan": {
+    "title": "东里衮 / Dongli Gun (late Han)",
+    "url": "/wiki/entities/dongligunlatehan/"
   },
   "DongmaojieTeahouse": {
     "title": "东茅街茶馆 / Dongmaojie Teahouse",
@@ -42315,6 +42323,10 @@
     "title": "郭闳 / Guo Hong (late Han)",
     "url": "/wiki/entities/guohonglatehan/"
   },
+  "GuoHuaiLateHan": {
+    "title": "郭淮 / Guo Huai (late Han)",
+    "url": "/wiki/entities/guohuailatehan/"
+  },
   "GuoJiEasternHan": {
     "title": "郭伋 / Guo Ji (Eastern Han)",
     "url": "/wiki/entities/guojieasternhan/"
@@ -46110,6 +46122,10 @@
   "HouWenLateHan": {
     "title": "侯汶 / Hou Wen (late Han)",
     "url": "/wiki/entities/houwenlatehan/"
+  },
+  "HouYinLateHan": {
+    "title": "侯音 / Hou Yin (late Han)",
+    "url": "/wiki/entities/houyinlatehan/"
   },
   "HouYinWesternHan": {
     "title": "侯胤 / Hou Yin (Western Han)",
@@ -67310,6 +67326,10 @@
   "NanyangCommandery": {
     "title": "南阳郡 / Nanyang Commandery",
     "url": "/wiki/entities/nanyangcommandery/"
+  },
+  "NanyangRebellion218LateHan": {
+    "title": "218年南阳侯音之乱 / Hou Yin's Nanyang Rebellion (218 CE)",
+    "url": "/wiki/entities/nanyangrebellion218latehan/"
   },
   "Nanyue": {
     "title": "南越 / Nanyue",
@@ -108199,6 +108219,10 @@
     "title": "宗资 / Zong Zi (late Han)",
     "url": "/wiki/entities/zongzilatehan/"
   },
+  "ZongZiqingLateHan": {
+    "title": "宗子卿 / Zong Ziqing (late Han)",
+    "url": "/wiki/entities/zongziqinglatehan/"
+  },
   "ZonghengjiaDiplomacy": {
     "title": "纵横家外交 / Zonghengjia Diplomacy",
     "url": "/wiki/concepts/zonghengjiadiplomacy/"
@@ -118258,6 +118282,10 @@
   "zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i": {
     "title": "《资治通鉴·汉纪》1162丨金祎之死：想赢，就别心急",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1162-jinyi-zhisi-xiang-ying-jiu-bie-xinji-lpjdh6wohap6bqbghnvltu2oey5i/"
+  },
+  "zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c": {
+    "title": "《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c/"
   },
   "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu": {
     "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",

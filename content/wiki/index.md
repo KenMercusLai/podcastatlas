@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？](sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c.md) — 芮淇讲透资治通鉴以侯音之乱和定军山之战串联征敛压力、无计划反抗、兵力调动、统帅暴露及败后指挥恢复。
 - [《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱](sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu.md) — 芮淇讲透资治通鉴以夏侯渊之死、刘备长期对峙、赵云疑兵、曹操撤出汉中及张既迁民方案，讨论角色转换、心理威慑与战略缓冲。
 - [The Variable Man with Gary Goldman and Angus Fletcher | Development Hell](sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle.md) — Gary Goldman and Angus Fletcher use an unproduced Philip K. Dick adaptation to test AI prediction, free will, audience reasoning, and trusted-director financing.
 - [Bubbles with Isaac Adamson | Development Hell](sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell.md) — Isaac Adamson uses an unproduced stop-motion screenplay to examine unreliable narration, loyalty, alleged abuse, cultural reevaluation, and film-development risk.
@@ -5188,10 +5189,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
-- [汉中争夺（218–219年） / Hanzhong Campaign (218–219 CE)](entities/HanzhongCampaign218LateHan.md) — 刘备从机会试探、早期受挫和益州动员转入长期对峙，最终迫使曹操撤回长安的多阶段争夺。
-- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — 曹方西线将领，其快速驰援与亲身犯险展示了条件敏感的执行优势及统帅角色中的关键节点风险。
+- [定军山之战 / Battle of Dingjun Mountain](entities/DingjunMountainBattleLateHan.md) — 汉中争夺的转折点，刘备一方以连续施压和火攻调动曹军，黄忠趁夏侯渊兵力分散且亲身修防时发动致命突击。
+- [218年南阳侯音之乱 / Hou Yin's Nanyang Rebellion (218 CE)](entities/NanyangRebellion218LateHan.md) — 征敛压力引发的地方扣押与仓促起事，最终在曹仁镇压和来源所称的屠城中扩大为平民灾难。
+- [侯音 / Hou Yin (late Han)](entities/HouYinLateHan.md) — 因南阳继续征敛而扣押太守、却缺少完整后续方案并在曹仁围攻中身亡的地方守将。
+- [东里衮 / Dongli Gun (late Han)](entities/DongliGunLateHan.md) — 南阳征敛冲突中被侯音扣押、后由宗子卿释放并逃往曹仁处的太守。
+- [宗子卿 / Zong Ziqing (late Han)](entities/ZongZiqingLateHan.md) — 以争取民心为名骗取侯音手书，释放东里衮并脱离叛军的谋士。
+- [郭淮 / Guo Huai (late Han)](entities/GuoHuaiLateHan.md) — 夏侯渊战死后协助拥立张郃、恢复军心并提出后退列阵半渡而击方案的曹方军官。
+- [汉中争夺（218–219年） / Hanzhong Campaign (218–219 CE)](entities/HanzhongCampaign218LateHan.md) — 从机会试探、早期受挫和益州动员，经定军山突破转入长期对峙并迫使曹操撤退的多阶段争夺。
+- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — 曹方西线将领，其条件敏感的快速驰援最终与定军山兵力分散、亲身修防和统帅关键节点风险形成张力。
 - [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 曹方西部中介与治理官员，从河东援助和马腾入朝安排延伸到汉中撤退后的迁民缓冲提议。
-- [黄忠 / Huang Zhong](entities/HuangZhong.md) — 刘备麾下汉中战役将领，当前证据聚焦其针对曹军粮队的快速出击及由此产生的接应风险。
+- [黄忠 / Huang Zhong](entities/HuangZhong.md) — 刘备麾下汉中战役将领，在定军山执行斩杀夏侯渊的突击，后又快速出击曹军粮队并引出接应风险。
 - [Isaac Adamson](entities/IsaacAdamson.md) — Screenwriter whose Bubbles project joins comic animal perspective to tragedy, moral blindness, revision, and development risk.
 - [Bubbles (Isaac Adamson screenplay)](entities/BubblesFilm.md) — Unproduced stop-motion screenplay using a chimpanzee's royal worldview to reinterpret Michael Jackson, loyalty, and denial.
 - [Michael Jackson](entities/MichaelJackson.md) — Musician represented narrowly as Bubbles's former companion and the morally disputed subject of Adamson's unproduced screenplay.

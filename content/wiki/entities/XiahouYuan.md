@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk
   - zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb
   - zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu
+  - zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -24,7 +25,7 @@ Hanji 1136 adds the failed relief of besieged Ji. [[WeiKangLateHan|韦康]] send
 
 Hanji 1140 provides a contrasting Qishan response. Xiahou Yuan reportedly does not wait for distant approval and sends [[ZhangHeLateHan|张郃]] with five thousand troops; Ma Chao withdraws before the relief force. Hanji 1105 then identifies Xiahou Yuan's death during Liu Bei's Hanzhong offensive as both a personal loss to Cao Cao and a strategic reversal.
 
-Hanji 1164 adds a modern management interpretation of that endpoint. It argues that Xiahou Yuan's long-practiced habit of solving danger through speed and personal front-line action became a [[RoleTransitionCapabilityTrap|role-transition capability trap]] once theater command made his survival, warning uptake, delegation, and system continuity part of the mission. This is a useful hypothesis but not a verified single-cause explanation of his death.
+Hanji 1163 supplies the missing mechanics at [[DingjunMountainBattleLateHan|Dingjun Mountain]]. Liu Bei pressures Zhang He's sector, Xiahou Yuan sends half his force to support it, and a fire reportedly draws him out with four hundred men to fight the fire and repair the abatis. Fa Zheng identifies the opening and Huang Zhong attacks, killing Xiahou Yuan. Hanji 1164 adds the modern management interpretation that his long-practiced habit of solving danger through speed and personal front-line action became a [[RoleTransitionCapabilityTrap|role-transition capability trap]] once theater command made his survival, warning uptake, delegation, and system continuity part of the mission. The mechanics make that hypothesis more concrete without proving a single-cause personality diagnosis.
 
 ## Key Characteristics
 
@@ -34,6 +35,7 @@ Hanji 1164 adds a modern management interpretation of that endpoint. It argues t
 - Associated with speed, boldness, and personal exposure in the episode's command interpretation.
 - Long-serving Cao family commander whose death marks a Hanzhong reversal.
 - Illustrates the risk that front-line execution habits may not fit a system-preserving senior role.
+- Dies after force redistribution leaves him personally exposed during a defensive repair task.
 
 ## Evidence
 
@@ -47,16 +49,16 @@ Contrasting relief operations:
 Hanzhong endpoint and interpretation:
 - [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] says Xiahou Yuan is killed during Liu Bei's offensive and presents the loss as strategically and personally significant to Cao Cao.
 - [[zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu|Hanji 1164]] interprets personal risk-taking as a capability that became dangerous after the role changed from mobile executor to senior commander.
+- [[zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c|Hanji 1163]] adds the pressure on Zhang He, divided force, fire, repair, Fa Zheng timing, and Huang Zhong attack sequence.
 
 ## Qualifications
 
-The sources leave large chronological gaps and do not provide Xiahou Yuan's full career, exact kinship genealogy, title history, command jurisdiction, or a reliable operational reconstruction of his death. The Ji and Qishan routes, timing, authorization chains, force composition, local alliances, and battle mechanics require primary-source comparison. The two relief outcomes differ in conditions and should not be reduced to a fixed label of speed or delay. Hanji 1164's management analogy does not prove that personality alone caused Xiahou Yuan's death or that personal action is always inappropriate for senior commanders.
+The sources leave large chronological gaps and do not provide Xiahou Yuan's full career, exact kinship genealogy, title history, command jurisdiction, or a reliable operational reconstruction of his death. The Ji and Qishan routes, Dingjun positions, timing, authorization chains, force composition, fire target, abatis repair, local alliances, and battle mechanics require primary-source comparison. The two relief outcomes differ in conditions and should not be reduced to a fixed label of speed or delay. Hanji 1163-1164's management analogy does not prove that personality alone caused Xiahou Yuan's death or that personal action is always inappropriate for senior commanders.
 
 ## What Changed
 
-- Added the role-transition interpretation of Xiahou Yuan's front-line risk habit.
-- Reframed his death as both a campaign reversal and a possible critical-node protection failure.
-- Preserved the qualification that differing relief outcomes reflect conditions, not a single stable command trait.
+- Grounded the Hanzhong endpoint in a concrete force-redistribution and defensive-repair sequence.
+- Strengthened the critical-node interpretation while retaining material, tactical, and source-quality qualifications.
 
 ## Relationships
 
@@ -65,5 +67,6 @@ The sources leave large chronological gaps and do not provide Xiahou Yuan's full
 - [[ZhangHeLateHan|张郃]] - subordinate commander dispatched in the Qishan relief response.
 - [[MaChao|马超]] - opposing commander in the failed Ji relief and successful Qishan response.
 - [[HanzhongCampaign218LateHan|218–219年汉中争夺]] - campaign in which Xiahou Yuan's death becomes a strategic turning point.
+- [[DingjunMountainBattleLateHan|定军山之战]] - battle in which his divided force and personal exposure become fatal.
 - [[RoleTransitionCapabilityTrap|角色转换中的能力陷阱]] - modern interpretive frame applied to his continued personal exposure.
 - [[ForceBackedSurrenderPersuasion|武力背书式劝降]] - concept whose Hanji 1054 case occurs inside Xiahou Yuan and Zhang Liao's siege pressure.

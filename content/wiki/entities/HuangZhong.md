@@ -5,22 +5,24 @@ knowledge_schema: synthesis-v1
 tags: [person, late-han, three-kingdoms, military, liu-bei]
 sources:
   - zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu
+  - zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c
 last_updated: 2026-11-16
 ---
 
 ## Overview
 
-黄忠 / Huang Zhong is represented in the current wiki by one episode's account of an attempted grain-convoy raid during the [[HanzhongCampaign218LateHan|218–219 Hanzhong campaign]].
+黄忠 / Huang Zhong is represented in the current wiki by two Hanzhong operations: the decisive attack at Dingjun Mountain and a later attempted grain-convoy raid.
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu|Hanji 1164]] says Huang Zhong learns that a Cao-side grain convoy will pass North Mountain and leaves to attack it before seeking further authorization, while [[ZhaoYun|赵云]] remains at camp. When Huang Zhong does not promptly return, Zhao Yun rides out with a small group and encounters a much larger Cao-side formation.
 
-The episode uses the action mainly to set up Zhao Yun's later open-camp bluff. It does not establish Huang Zhong's complete campaign role, the raid's result, or whether the decision violated a standing order.
+Hanji 1163 supplies the earlier and strategically larger role. After Liu Bei's pressure induces Xiahou Yuan to divide his force and a fire draws the commander into defensive repair, [[FaZheng|法正]] identifies the attack window and Huang Zhong leads the assault that kills Xiahou Yuan. Together the notes show rapid execution in two operations, while only the Dingjun action has a stated decisive result.
 
 ## Key Characteristics
 
 - Liu-side commander in the Hanzhong campaign.
+- Executes the decisive assault after Fa Zheng identifies Xiahou Yuan's exposure.
 - Acts quickly on intelligence about an enemy grain movement.
 - Leaves Zhao Yun responsible for the camp.
 - Creates or encounters an unplanned support problem when he does not promptly return.
@@ -30,17 +32,22 @@ The episode uses the action mainly to set up Zhao Yun's later open-camp bluff. I
 Grain-convoy operation:
 - [[zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu|Hanji 1164]] says Huang Zhong departs to attack a Cao-side grain convoy and Zhao Yun later rides out to meet him.
 
+Dingjun Mountain assault:
+- [[zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c|Hanji 1163]] says Liu Bei orders Huang Zhong to attack after Fa Zheng signals the opening, and the assault kills Xiahou Yuan.
+
 ## Qualifications
 
-The current profile rests on one structured popular-history summary. The date, location, command relationship, intelligence quality, authorization, troop strength, convoy outcome, Huang Zhong's route, and reason for delayed return require broader textual comparison. The page does not yet attempt a full biography or import later literary characterization.
+The current profile rests on two structured popular-history summaries. The dates, locations, command relationships, force strengths, Dingjun signal and route, identity of casualties, convoy intelligence, authorization, convoy outcome, and reason for delayed return require broader textual comparison. The page does not yet attempt a full biography or import later literary characterization.
 
 ## What Changed
 
-- Created a source-bounded profile for Huang Zhong's grain-convoy operation in the Hanzhong campaign.
+- Added Dingjun Mountain as Huang Zhong's decisive campaign role before the later convoy operation.
+- Distinguished a stated battlefield result from an operation whose outcome remains unclear.
 
 ## Relationships
 
 - [[LiuBei|刘备]] - ruler whose Hanzhong campaign includes Huang Zhong's current wiki evidence.
 - [[ZhaoYun|赵云]] - camp commander who rides out when Huang Zhong does not promptly return.
 - [[HanzhongCampaign218LateHan|218–219年汉中争夺]] - campaign setting for the reported operation.
+- [[DingjunMountainBattleLateHan|定军山之战]] - battle where Huang Zhong executes the fatal attack on Xiahou Yuan.
 - [[CaoCao|曹操]] - opposing leader whose forces and grain movement define the tactical setting.

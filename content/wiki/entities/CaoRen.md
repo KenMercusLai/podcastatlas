@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di
   - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
   - zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln
+  - zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -29,14 +30,16 @@ Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao
 
 Hanji 1113 supplies the outcome of that defensive assignment. Cao Ren eventually withdraws after prolonged isolation and heavy losses, but the episode credits the stand with tying down Zhou Yu's main force and buying Cao Cao time to reorganize. This preserves a distinction between losing the position and failing in the delaying mission.
 
+Hanji 1163 adds a later Nanyang suppression case. After [[HouYinLateHan|侯音]] detains [[DongliGunLateHan|东里衮]], Cao Ren leaves Fancheng, besieges the city, and kills Hou Yin during a failed breakout. The episode then attributes a massacre to Cao Ren as deterrence against nearby counties. That outcome creates a serious tension with his Huguan surrender-path advice: the bounded record shows context-sensitive incentive judgment in one siege and reported collective punishment in another, without enough evidence to resolve authority, circumstance, or motive.
+
 ## Key Characteristics
 - Trusted clan commander used to secure core military power.
 - Early contributor of an organized youth following to Cao Cao's force.
 - Combines loyalty value with tactical and surrender-incentive judgment.
 - Reads unstable enemy command as a cavalry opening.
 - Receives responsibility for the Jiangling corridor after Red Cliffs.
-- Serves as the fixed strongpoint in Cao Cao's immediate post-defeat damage-control line.
 - Converts a high-risk battlefield extraction into both personnel recovery and a visible morale signal.
+- Suppresses Hou Yin's Nanyang revolt but is also associated with a reported post-capture massacre.
 
 ## Evidence
 - Clan-command role: [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] pairs Cao Ren with Xiahou Dun in Cao Cao's tightened military core.
@@ -47,13 +50,14 @@ Hanji 1113 supplies the outcome of that defensive assignment. Cao Ren eventually
 - Immediate defensive assignment: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] has Cao Cao leave Cao Ren at Jiangling after retreating from Red Cliffs.
 - Withdrawal after delay: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] says Cao Ren withdraws after holding long enough to delay Zhou Yu and buy reorganization time.
 - Battlefield extraction and morale: [[zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln|Hanji 1112]] says Cao Ren rescues Niu Jin and other trapped soldiers, prompting Chen Jiao's astonishment and renewed defender confidence.
+- Nanyang suppression and civilian harm: [[zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c|Hanji 1163]] says Cao Ren kills Hou Yin after retaking the city and orders a massacre to deter resistance.
 
 ## Qualifications
-This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, Hanji 1073 compresses the Huguan debate and capitulation, and Hanji 1107-1113 emphasize selected parts of the Jiangling campaign. The reported size and composition of Cao Ren's first following, exact Huguan dialogue, surrender timing, Jiangling force counts, rescue route, casualties, duration, and delay effect require narrower verification. The successful extraction demonstrates ability in one crisis but does not make kinship irrelevant to Cao Ren's access or trust.
+This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, Hanji 1073 compresses the Huguan debate and capitulation, Hanji 1107-1113 emphasize selected parts of the Jiangling campaign, and Hanji 1163 compresses Nanyang suppression and collective punishment. The reported size and composition of Cao Ren's first following, exact Huguan dialogue, surrender timing, Jiangling force counts, rescue route, casualties, Nanyang authority, massacre, duration, and deterrent effect require narrower verification. The successful extraction demonstrates ability in one crisis but does not make kinship irrelevant to access or trust. The Huguan and Nanyang cases are a moral and behavioral tension, not a settled contradiction, because context and command responsibility remain unclear.
 
 ## What Changed
-- Added the Niu Jin extraction as direct evidence of battlefield courage and commitment signaling.
-- Qualified the episode's kinship-versus-ability question as a false binary.
+- Added Nanyang suppression and the reported civilian massacre to a profile previously weighted toward corrective advice and rescue.
+- Made the Huguan–Nanyang tension explicit without flattening it into a fixed character judgment.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler relying on Cao Ren as clan military capacity.
@@ -69,4 +73,5 @@ This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 
 - [[NiuJinLateHan|牛金]] - subordinate extracted from encirclement outside Jiangling.
 - [[ChenJiaoLateHan|陈矫]] - witness whose reaction records the garrison's morale response.
 - [[CommanderRiskMoraleSignaling|主将冒险式士气信号]] - leadership mechanism illustrated by the rescue.
+- [[NanyangRebellion218LateHan|218年南阳侯音之乱]] - suppression case that adds collective-punishment tension to Cao Ren's profile.
 - [[RiverCorridorStrategicBase|长江走廊战略根据地]] - geographic logic behind Jiangling's value.

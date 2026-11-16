@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14399
+wiki_total_pages: 14405
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "DongguoXianyangWesternHan"
     title: "东郭咸阳 / Dongguo Xianyang (Western Han)"
     url: "/wiki/entities/dongguoxianyangwesternhan/"
+  - key: "DongliGunLateHan"
+    title: "东里衮 / Dongli Gun (late Han)"
+    url: "/wiki/entities/dongligunlatehan/"
   - key: "DongALateHan"
     title: "东阿 / Dong'e (Late Han)"
     url: "/wiki/entities/dongalatehan/"
@@ -1532,6 +1535,9 @@ wiki_pages:
   - key: "DazaiOsamu"
     title: "太宰治 / Osamu Dazai"
     url: "/wiki/entities/dazaiosamu/"
+  - key: "DingjunMountainBattleLateHan"
+    title: "定军山之战 / Battle of Dingjun Mountain"
+    url: "/wiki/entities/dingjunmountainbattlelatehan/"
   - key: "DingtaoBattleLateHan"
     title: "定陶之战 (195 CE) / Dingtao Battle (Late Han)"
     url: "/wiki/entities/dingtaobattlelatehan/"
