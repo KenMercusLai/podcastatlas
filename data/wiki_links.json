@@ -42371,6 +42371,10 @@
     "title": "Group-Chat Agent Participation / 群聊 Agent 参与机制",
     "url": "/wiki/concepts/groupchatagentparticipation/"
   },
+  "GroupIdentity": {
+    "title": "Group Identity",
+    "url": "/wiki/concepts/groupidentity/"
+  },
   "GroupIdentityEmpathyGating": {
     "title": "Group-Identity Empathy Gating",
     "url": "/wiki/concepts/groupidentityempathygating/"
@@ -51594,6 +51598,10 @@
   "JayClayton": {
     "title": "Jay Clayton",
     "url": "/wiki/entities/jayclayton/"
+  },
+  "JayVanBavel": {
+    "title": "Jay Van Bavel",
+    "url": "/wiki/entities/jayvanbavel/"
   },
   "JealousyAndMateRetention": {
     "title": "Jealousy and Mate Retention",
@@ -92051,6 +92059,10 @@
     "title": "Supermarket Canteen / 超市食堂",
     "url": "/wiki/concepts/supermarketcanteen/"
   },
+  "SuperordinateIdentityCooperation": {
+    "title": "Superordinate Identity Cooperation",
+    "url": "/wiki/concepts/superordinateidentitycooperation/"
+  },
   "Superpowers": {
     "title": "Superpowers",
     "url": "/wiki/entities/superpowers/"
@@ -111126,6 +111138,10 @@
   "default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302": {
     "title": "A Conspiracy of Silence",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302/"
+  },
+  "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056": {
+    "title": "Group Think",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
   },
   "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693": {
     "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",

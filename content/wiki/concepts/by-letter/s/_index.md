@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11580
+wiki_total_pages: 11582
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2735,6 +2735,9 @@ wiki_pages:
   - key: "SupermarketCanteen"
     title: "Supermarket Canteen / 超市食堂"
     url: "/wiki/concepts/supermarketcanteen/"
+  - key: "SuperordinateIdentityCooperation"
+    title: "Superordinate Identity Cooperation"
+    url: "/wiki/concepts/superordinateidentitycooperation/"
   - key: "SupersonicRegulatorySpeedLimit"
     title: "Supersonic Regulatory Speed Limit"
     url: "/wiki/concepts/supersonicregulatoryspeedlimit/"

@@ -41958,3 +41958,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Group Think
+
+Added a [[HiddenBrain]] episode with social psychologist [[JayVanBavel|Jay Van Bavel]] on [[GroupIdentity]], perception, minimal-group favoritism, political hostility, social-media feedback, and cooperation. Created Van Bavel's focused profile and [[SuperordinateIdentityCooperation]], then resynthesized [[GroupPolarization]], [[GroupIdentityEmpathyGating]], [[AlgorithmicAngerEngagement]], [[NelsonMandela]], [[SportAsReconciliationRitual]], and [[SymbolicReconciliationStatecraft]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: group identity is context-sensitive and can influence preference, attention, sensory judgment, threat estimation, vicarious reward, and relationship sorting without requiring conscious dishonesty. Thin or arbitrary categories can produce favoritism, while moralized politics and platform feedback can reward out-group attack. The same flexibility makes the process nonfatalistic: broader membership becomes more credible when inclusive leadership, valued exemplars, representation, cooperative dependence, and shared success change who counts as “us.”
+
+No settled contradiction was adopted. The episode strengthens existing identity and polarization mechanisms while adding boundary expansion as a qualified countermechanism. Laboratory favoritism does not establish inevitable real-world discrimination, brain response is not a moral diagnosis, and sport, crisis, contact, representation, or symbolic unity do not automatically overcome unequal power, material conflict, institutional failure, or historical injury. Minimal-group, consumer, sensory, distance, body-camera, pandemic, social-media, policing, hate-crime, and intergroup-sport claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, uncertainty intervals, or replication histories; pandemic figures remain historical to the interview period.
+
+The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,152 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,8 +4,9 @@ type: concept
 tags: [social-neuroscience, empathy, identity, polarization]
 sources:
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
+  - default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-09
+last_updated: 2026-11-17
 ---
 
 # Group-Identity Empathy Gating
@@ -14,12 +15,15 @@ last_updated: 2026-10-09
 Group-identity empathy gating is the source's account of lower-level empathic or reward-related responses changing according to whether a target is labeled as belonging to an in-group or out-group.
 
 ## Current Synthesis
-The episode describes fMRI paradigms in which labeled hands receive pain and participants show stronger empathic response for in-group targets, with similar patterns reported across religion, atheism, sport, and arbitrary assignment. It also reports reward-system response when disliked people suffer. The current judgment is behavioral, not deterministic: fast neural differentiation shows that identity can shape response, but it does not prove fixed prejudice, moral endorsement, or inevitable action. Structural bias blocks and richer cross-group relationships are proposed as ways to interrupt the translation from category to conduct.
+The Eagleman episode describes fMRI paradigms in which labeled hands receive pain and participants show stronger empathic response for in-group targets, with similar patterns reported across religion, atheism, sport, and arbitrary assignment. It also reports reward-system response when disliked people suffer. The Van Bavel episode adds the positive mirror: fellow university members' gains can evoke reward-like response, while arbitrary teammates receive more favorable evaluation.
+
+The current judgment is behavioral, not deterministic. Fast differentiation shows that identity can shape empathy, liking, and vicarious reward, but it does not prove fixed prejudice, moral endorsement, or inevitable action. Structural bias blocks, richer cross-group relationships, valued exemplars, and broader cooperative identities are proposed as ways to interrupt the translation from category to conduct.
 
 ## Key Claims
 - Minimal or arbitrary labels can alter measured in-group and out-group response.
 - Identity can affect empathy before a person makes a reflective behavioral choice.
 - Disliked-target suffering may recruit reward-related response in some experimental contexts.
+- In-group success may acquire self-relevant reward value even without personal material gain.
 - Lower-level neural response does not determine conduct or excuse harm.
 - Dehumanizing labels and zero-sum models can strengthen the path from group distinction to cruelty.
 - Shared interests and structural bias controls can reduce reliance on thin category models.
@@ -29,15 +33,19 @@ The episode describes fMRI paradigms in which labeled hands receive pain and par
 - Reward response - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] reports experiments where disliked-target misfortune can activate reward systems.
 - Conduct boundary - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] explicitly separates low-level response from later action.
 - Intervention ideas - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses blind auditions and relationship “complexification” as structural and interpersonal responses.
+- In-group reward and arbitrary preference - [[default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056]] describes reward-like response to fellow NYU students' gains and favorable evaluation of randomly assigned teammates.
+- Boundary expansion - [[default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056]] uses valued cross-group members and cooperative teams to argue that the operative in-group can change.
 
 ## Counterevidence & Qualifications
-The structured source does not provide samples, effect sizes, imaging contrasts, preregistration, replication history, or evidence that one task predicts real-world behavior. Brain-region activation should not be read as a moral diagnosis, and historical dehumanization involves institutions, incentives, propaganda, and power in addition to individual response.
+The structured sources do not provide samples, effect sizes, imaging contrasts, preregistration, replication histories, or evidence that one task predicts real-world behavior. Brain-region activation should not be read as a moral diagnosis, and historical dehumanization involves institutions, incentives, propaganda, and power in addition to individual response. Reward-like response to an in-group member does not establish zero-sum hostility toward outsiders.
 
 ## What Changed
-- Established a qualified bridge among identity labels, empathy, reward, and behavior.
+- Added the positive mirror of in-group success, arbitrary teammate preference, and flexible boundary expansion.
 
 ## Related Concepts
 - [[GroupPolarization]] - social process through which identity-aligned positions and hostility can intensify.
 - [[DehumanizationByComparison]] - category-based loss of concrete personhood.
 - [[AffectivePolarization]] - emotional dislike across political groups even without complete informational isolation.
 - [[TribalTruth]] - identity-bound belief process that can make disagreement socially costly.
+- [[GroupIdentity]] - broader framework for category salience, favoritism, perception, and belonging.
+- [[SuperordinateIdentityCooperation]] - route for changing who receives in-group valuation.

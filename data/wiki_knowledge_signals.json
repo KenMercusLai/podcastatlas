@@ -15051,6 +15051,36 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/algeria/"
     },
+    "AlgorithmicAngerEngagement": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
+          "key": "164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq",
+          "show": "起朱楼宴宾客",
+          "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
+          "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
+        },
+        {
+          "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
+          "key": "sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708",
+          "show": "蜜獾吃书",
+          "title": "sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”",
+          "url": "/wiki/sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/algorithmicangerengagement/"
+    },
     "AlgorithmicAutonomyParadox": {
       "episode_count": 1,
       "show_count": 1,
@@ -132454,10 +132484,26 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/groupchatagentparticipation/"
     },
-    "GroupIdentityEmpathyGating": {
+    "GroupIdentity": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/groupidentity/"
+    },
+    "GroupIdentityEmpathyGating": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5564931565 [SCIM5564931565].md",
@@ -132465,15 +132511,22 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/groupidentityempathygating/"
     },
     "GroupPolarization": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
@@ -132509,9 +132562,16 @@
           "show": "无时差研究所",
           "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
           "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/grouppolarization/"
     },
     "GroverCleveland": {
@@ -167569,6 +167629,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/jayclayton/"
+    },
+    "JayVanBavel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/jayvanbavel/"
     },
     "JealousyAndMateRetention": {
       "episode_count": 3,
@@ -227134,9 +227210,9 @@
       "url": "/wiki/entities/nellgwyn/"
     },
     "NelsonMandela": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -227151,9 +227227,16 @@
           "show": "无时差研究所",
           "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
           "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/nelsonmandela/"
     },
     "NemesisDroneUnit": {
@@ -297832,9 +297915,9 @@
       "url": "/wiki/concepts/spontaneouspneumothoraxriskandrecurrence/"
     },
     "SportAsReconciliationRitual": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -297842,9 +297925,16 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/sportasreconciliationritual/"
     },
     "SportsBettingAsInvestment": {
@@ -305541,6 +305631,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/superman/"
     },
+    "SuperordinateIdentityCooperation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/superordinateidentitycooperation/"
+    },
     "SupersonicRegulatorySpeedLimit": {
       "episode_count": 2,
       "show_count": 2,
@@ -306882,9 +306988,9 @@
       "url": "/wiki/concepts/symboliccreativerestitution/"
     },
     "SymbolicReconciliationStatecraft": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -306892,9 +306998,16 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056 [default.mp3_ywr3ahjkcgo_3517acb90f957775a48ca5fa8c48a7f3_50996056].md",
+          "key": "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056",
+          "show": "Hidden Brain",
+          "title": "Group Think",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/symbolicreconciliationstatecraft/"
     },
     "SymbolicStatusDowngradeBackfire": {

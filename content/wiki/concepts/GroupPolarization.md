@@ -8,8 +8,9 @@ sources:
   - 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
   - ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242
+  - default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-22
+last_updated: 2026-11-17
 ---
 
 # Group Polarization / 群体极化
@@ -20,7 +21,9 @@ Group polarization is the intensification of positions or intergroup hostility w
 ## Current Synthesis
 The bounded evidence separates informational, social, algorithmic, and affective routes. Shared leaning can intensify when stronger in-group expressions reset the local center and moderation becomes costly to status or belonging. Algorithms can reinforce this process by repeatedly presenting inferred peers and identity categories, but the evidence does not support a universal sealed filter bubble: multi-platform use and incidental exposure can broaden contact.
 
-Exposure alone is not correction. Opposing views delivered through rage-rich feeds, angry comments, adversarial formats, mass reporting, and forced position-taking can broaden information while worsening [[AffectivePolarization]]. EP113's Xiao Zhan/AO3 case adds reciprocal escalation: identity defense can organize punitive action, while opponents can answer with pressure on the idol, fandom, and brands. The Eagleman interview adds an older and lower-level identity layer: religious, political, sporting, or even arbitrary labels can alter empathic response, while dehumanizing propaganda and zero-sum models can make harm easier to justify. Social media may amplify visibility and conflict without having invented polarization.
+Exposure alone is not correction. Opposing views delivered through rage-rich feeds, angry comments, adversarial formats, mass reporting, and forced position-taking can broaden information while worsening [[AffectivePolarization]]. EP113's Xiao Zhan/AO3 case adds reciprocal escalation: identity defense can organize punitive action, while opponents can answer with pressure on the idol, fandom, and brands. The Eagleman interview adds an older and lower-level identity layer: religious, political, sporting, or even arbitrary labels can alter empathic response, while dehumanizing propaganda and zero-sum models can make harm easier to justify.
+
+The Hidden Brain episode clarifies how polarization enters ordinary perception and relationships. Moralized partisan identity can make opponents appear dangerous, shorten mixed-group gatherings, narrow dating willingness, and split judgments about shared risks. Platform feedback can then reward out-group attack more strongly than neutral or in-group-positive language. Yet the same episode keeps the process reversible: broader membership, cooperative success, and inclusive leadership can redraw the boundary rather than merely moderate opinions inside it.
 
 ## Key Claims
 - Repeated in-group argument can move the perceived group center toward a more extreme position.
@@ -29,7 +32,7 @@ Exposure alone is not correction. Opposing views delivered through rage-rich fee
 - Cross-viewpoint exposure can increase hostility when the surrounding format rewards conflict.
 - Polarization predates social media, though platforms can amplify, sort, and make it more visible.
 - Minimal group labels can affect empathic response without determining later conduct.
-- Dehumanizing language, reporting, brand pressure, and forced position-taking can convert identity difference into reciprocal group punishment.
+- Moralized identity, out-group hostility, and engagement rewards can convert disagreement into relationship sorting and reciprocal group punishment.
 
 ## Evidence
 - Norm intensification - [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] links group polarization to identity, tribal truth, information cocoons, and stronger local expressions.
@@ -38,15 +41,18 @@ Exposure alone is not correction. Opposing views delivered through rage-rich fee
 - Historical and identity boundary - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] argues that polarization predates social media and describes empathy differences across religious, atheist, sport, and arbitrary groups.
 - Dehumanization route - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] connects propaganda labels, reduced person-modeling, and zero-sum thinking to intergroup harm.
 - Reciprocal mobilization - [[ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242]] uses the Xiao Zhan/AO3 controversy to connect [[FandomCollectiveAction]], [[WeaponizedReporting]], label-driven camp assignment, counter-pressure, and silence under threat.
+- Perception, relationships, and platform reward - [[default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056]] links moralized partisanship to selective threat judgment, mixed-group social avoidance, COVID-19 behavior, and higher sharing of out-group attacks.
+- Reversibility - [[default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056]] uses shared goals, admired in-group exemplars, representation, and inclusive leadership to show that group boundaries can widen.
 
 ## Counterevidence & Qualifications
-The sources do not show that all homogeneous groups polarize, that algorithmic feeds universally seal users into cocoons, that exposure to disagreement is always harmful, or that an fMRI contrast predicts individual behavior. EP113 does not provide fan demographics, complaint records, a platform audit, or independent reconstruction of the AO3 access change. Political conflict also depends on institutions, leaders, material stakes, history, and power. Social media can amplify and reveal division without being its sole cause.
+The sources do not show that all homogeneous groups polarize, that algorithmic feeds universally seal users into cocoons, that exposure to disagreement is always harmful, or that an fMRI contrast predicts individual behavior. EP113 does not provide fan demographics, complaint records, a platform audit, or independent reconstruction of the AO3 access change. The Hidden Brain episode summarizes rather than supplies the underlying Thanksgiving, dating, pandemic, social-media, contact, and policing studies. Political conflict also depends on institutions, leaders, material stakes, history, and power. Social media can amplify and reveal division without being its sole cause.
 
 ## What Changed
 - Migrated the page to synthesis-v1 while preserving the original evidence order.
 - Added polarization's pre-social-media history and separated platform amplification from origin.
 - Added identity-gated empathy, dehumanizing labels, and zero-sum models as qualified mechanisms.
 - Added reciprocal fandom escalation, punitive reporting, and silence pressure as source-scoped mechanisms.
+- Added relationship sorting, risk interpretation, out-group engagement rewards, and flexible boundary expansion.
 
 ## Related Concepts
 - [[InformationCocoon]] - media setting that can narrow repeated exposure without being universally sealed.
@@ -58,3 +64,5 @@ The sources do not show that all homogeneous groups polarize, that algorithmic f
 - [[ConstructiveDissent]] - corrective practice for widening evidence without demanding identity surrender.
 - [[FandomCollectiveAction]] - coordination layer that can translate polarized identity into data, consumption, defense, and pressure.
 - [[WeaponizedReporting]] - enforcement channel that can convert factional conflict into material exclusion.
+- [[GroupIdentity]] - context-sensitive membership process underlying both escalation and boundary change.
+- [[SuperordinateIdentityCooperation]] - widening mechanism that can redirect rather than merely suppress group attachment.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Group Think](sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056.md) — Hidden Brain and Jay Van Bavel connect group identity to perception, polarization, platform hostility, shared goals, and cooperative boundary expansion.
 - [Politics Is for Power: Moving Beyond Political Hobbyism](sources/default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082-default-mp3-ywr3ahjkcgo-79c16bc7be6838061833826dbbad2486-51080082.md) — Hidden Brain and Eytan Hirsch distinguish political hobbyism from local service, organization, turnout, persuasion, and institution-focused power building.
 - [Being Kind to Yourself](sources/default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469-default-mp3-ywr3ahjkcgo-e2a27d7d88294ddcadb978f863b0d5c9-49827469.md) — Hidden Brain and Kristin Neff connect self-kindness, mindfulness, common humanity, protective self-criticism, and shame-safe accountability with explicit evidence limits.
 - [Teaser: The Compromises of Al Levitt](sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt.md) — Revisionist History teaser on Al Levitt's interrupted screenwriting path, wartime film service, and dismissive recollection of Ronald Reagan at the First Motion Picture Unit.
@@ -5278,6 +5279,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 
 ## Entities
+- [Jay Van Bavel](entities/JayVanBavel.md) — Social psychologist connecting group identity to preference, perception, reward, polarization, and cooperative boundary expansion.
 - [Eytan Hirsch](entities/EytanHirsch.md) — Political scientist distinguishing political hobbyism from sustained local organization, service, persuasion, and power building.
 - [Kristin Neff](entities/KristinNeff.md) — Psychologist represented through her three-part self-compassion framework, accountable-care boundary, and practical response to the inner critic.
 - [Brendan Francis Newnam](entities/BrendanFrancisNewnam.md) — Pushkin executive defending Ecover and challenging the evidence and stereotypes behind an earlier detergent judgment.
@@ -19963,6 +19965,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Group Identity](concepts/GroupIdentity.md) — Context-sensitive incorporation of collective membership into belonging, valuation, perception, and action.
+- [Superordinate Identity Cooperation](concepts/SuperordinateIdentityCooperation.md) — Broader shared membership made credible through interdependence, inclusive leadership, and visible cooperative success.
 - [Political Hobbyism](concepts/PoliticalHobbyism.md) — Political attention used mainly for information, identity, emotion, status, or spectacle without an organized attempt to influence people or institutions.
 - [Community-Service Power Building](concepts/CommunityServicePowerBuilding.md) — Conversion of reliable practical help into trust, organized participation, turnout capacity, and institutional leverage.
 - [Self-Compassion](concepts/SelfCompassion.md) — Practice joining self-kindness, mindful pain recognition, and common humanity with conduct-specific accountability and change.
