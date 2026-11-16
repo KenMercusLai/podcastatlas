@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14485
+wiki_total_pages: 14487
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1619,6 +1619,9 @@ wiki_pages:
   - key: "StarshipTechnologies"
     title: "Starship Technologies"
     url: "/wiki/entities/starshiptechnologies/"
+  - key: "StartedFromTheBottomPodcast"
+    title: "Started From the Bottom"
+    url: "/wiki/entities/startedfromthebottompodcast/"
   - key: "StartupEmbassy"
     title: "Startup Embassy"
     url: "/wiki/entities/startupembassy/"

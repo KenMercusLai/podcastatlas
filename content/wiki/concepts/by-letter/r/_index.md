@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11478
+wiki_total_pages: 11481
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "RacializedRemittancePolitics"
     title: "Racialized Remittance Politics / 种族化汇款政治"
     url: "/wiki/concepts/racializedremittancepolitics/"
+  - key: "RacializedSecondChanceAsymmetry"
+    title: "Racialized Second-Chance Asymmetry"
+    url: "/wiki/concepts/racializedsecondchanceasymmetry/"
   - key: "RacingHeritageBrandMoat"
     title: "Racing Heritage Brand Moat"
     url: "/wiki/concepts/racingheritagebrandmoat/"

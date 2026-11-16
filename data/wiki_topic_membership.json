@@ -64075,6 +64075,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MentorshipInstitutionalNavigation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MenuCosts": [
     {
       "key": "economics",
@@ -86676,6 +86683,13 @@
     }
   ],
   "SociallyImposedIdentity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SociallyProducedConfidence": [
     {
       "key": "culture",
       "label": "Culture",
@@ -113520,6 +113534,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "started-from-the-bottom-with-justin-richmond-started-from-the-bottom-with-justin-richmond": [
     {
       "key": "culture",
       "label": "Culture",

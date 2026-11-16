@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Started From the Bottom with Justin Richmond](sources/started-from-the-bottom-with-justin-richmond-started-from-the-bottom-with-justin-richmond.md) — Revisionist History connects Richmond's nonlinear educational path to mentorship, institutional navigation, racialized second chances, confidence, and public career guidance.
 - [Introducing: So Many Steves, A New Audiobook from Steve Martin and Pushkin](sources/introducing-so-many-steves-a-new-audiobook-from-steve-martin-and-pushkin-introducing-so-many-steves-a-new-audiobook-f.md) — Steve Martin and Adam Gopnik connect stadium-scale creative constraint, film-career phases, screen acting mechanics, sustained output, and delayed-memory comedy.
 - [A Good Circle: Hope College’s Radical Experiment in Generosity](sources/a-good-circle-a-good-circle.md) — Revisionist History tests Hope Forward’s tuition-free covenant against student choice, institutional risk, voluntary alumni giving, and service-based reciprocity.
 - [Acting Out](sources/acting-out.md) — Revisionist History connects Ella Fitzgerald's concealed confinement to the sociometric origins of social network analysis and the institutional racism its maps failed to explain.
@@ -5221,6 +5222,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Higher Animals with Michael Specter](sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter.md) — Revisionist History conversation and audiobook excerpt on synthetic biology, mRNA vaccine design, biosecurity, the 1947 New York smallpox campaign, and public trust.
 
 ## Entities
+- [Justin Richmond](entities/JustinRichmond.md) — Journalist and podcast creator connecting educational recovery, audio work, mentorship, and public career guidance.
+- [Started From the Bottom](entities/StartedFromTheBottomPodcast.md) — Justin Richmond podcast about how successful people of color began and navigated unfamiliar career systems.
 - [Michael Specter](entities/MichaelSpecter.md) — Science writer and author connecting programmable biology, dual-use risk, public-health history, and earned trust.
 - [Israel Weinstein](entities/IsraelWeinstein.md) — New York City health commissioner represented through the rapid 1947 smallpox vaccination campaign.
 - [Ginkgo Bioworks](entities/GinkgoBioworks.md) — Synthetic-biology company illustrating biologically grown materials and cross-disciplinary biological manufacturing.
@@ -19801,6 +19804,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
 
 ## Concepts
+- [Mentorship as Institutional Navigation](concepts/MentorshipInstitutionalNavigation.md) — Guidance that translates hidden rules, language, risks, and next actions inside unfamiliar systems.
+- [Racialized Second-Chance Asymmetry](concepts/RacializedSecondChanceAsymmetry.md) — Unequal conversion of mistakes into temporary conduct for some people and fixed identity for others.
+- [Socially Produced Confidence](concepts/SociallyProducedConfidence.md) — Confidence sustained or eroded by recognition, guidance, opportunity, material pressure, and room to recover.
 - [Synthetic Biology as Information Science](concepts/SyntheticBiologyInformationScience.md) — View of biological sequences as portable design information whose physical execution still requires validation and governance.
 - [Biological Capability Democratization Risk](concepts/BiologicalCapabilityDemocratizationRisk.md) — Dual-use risk created as biological design and construction tools become cheaper, smaller, and more accessible.
 - [Public Health Mobilization Capacity](concepts/PublicHealthMobilizationCapacity.md) — Ability to turn a medical intervention into rapid population coverage through supply, access, communication, leadership, and cooperation.

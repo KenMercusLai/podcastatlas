@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3749
+topic_total_pages: 3752
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2329,6 +2329,9 @@ topic_concepts:
   - key: "MemorySelfMythologizing"
     title: "Memory Self-Mythologizing / 记忆的自我神话化"
     url: "/wiki/concepts/memoryselfmythologizing/"
+  - key: "MentorshipInstitutionalNavigation"
+    title: "Mentorship as Institutional Navigation"
+    url: "/wiki/concepts/mentorshipinstitutionalnavigation/"
   - key: "MeritocraticArrogance"
     title: "Meritocratic Arrogance / 绩优主义傲慢"
     url: "/wiki/concepts/meritocraticarrogance/"
@@ -3355,6 +3358,9 @@ topic_concepts:
   - key: "SociallyImposedIdentity"
     title: "Socially Imposed Identity / 集体强加身份"
     url: "/wiki/concepts/sociallyimposedidentity/"
+  - key: "SociallyProducedConfidence"
+    title: "Socially Produced Confidence"
+    url: "/wiki/concepts/sociallyproducedconfidence/"
   - key: "SoftwareAsCulturalWork"
     title: "Software As Cultural Work"
     url: "/wiki/concepts/softwareasculturalwork/"
@@ -10839,6 +10845,9 @@ topic_sources:
   - key: "stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b"
     title: "Stars in their AIs: tech is changing Hollywood"
     url: "/wiki/sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b/"
+  - key: "started-from-the-bottom-with-justin-richmond-started-from-the-bottom-with-justin-richmond"
+    title: "Started From the Bottom with Justin Richmond"
+    url: "/wiki/sources/started-from-the-bottom-with-justin-richmond-started-from-the-bottom-with-justin-richmond/"
   - key: "stefan-sagmeister-finally-something-good-yqqxftsvema"
     title: "Stefan Sagmeister: Finally, something good."
     url: "/wiki/sources/stefan-sagmeister-finally-something-good-yqqxftsvema/"

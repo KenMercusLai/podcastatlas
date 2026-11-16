@@ -41168,3 +41168,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Started From the Bottom with Justin Richmond
+
+Added the [[RevisionistHistory]] conversation in which [[JustinRichmond]] connects racism, interrupted schooling, community college, [[UCBerkeley]], journalism, financial pressure, and a failed Quincy Jones podcast proposal to the creation of [[StartedFromTheBottomPodcast]]. Created focused profiles for Richmond and the show, plus [[MentorshipInstitutionalNavigation]], [[RacializedSecondChanceAsymmetry]], and [[SociallyProducedConfidence]].
+
+Core synthesis: access is not the same as navigation. Mentors can make hidden conventions, risks, language, and next actions legible, while public interviews can distribute examples and vocabulary without replacing individualized advising. Confidence emerges here as repeatedly eroded and rebuilt by institutional expectations, representation, practical guidance, financial pressure, and whether mistakes leave a credible path back.
+
+No settled contradiction was adopted. Richmond's authenticity claim does not show that code-switching is always avoidable, broad claims about interracial family patterns and national racial experience remain asserted interpretations, and educational, professional, family, and racial claims remain autobiographical, family-reported, interpretive, or episode-scoped because the supplied file is a structured summary rather than a transcript, institutional record, or comparative study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,097 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
