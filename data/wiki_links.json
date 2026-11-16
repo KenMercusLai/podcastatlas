@@ -14151,6 +14151,10 @@
     "title": "Battle of the Rosebud",
     "url": "/wiki/entities/battleofrosebud/"
   },
+  "BattleOfSaipan": {
+    "title": "Battle of Saipan",
+    "url": "/wiki/concepts/battleofsaipan/"
+  },
   "BattleOfSalamis": {
     "title": "Battle of Salamis",
     "url": "/wiki/concepts/battleofsalamis/"
@@ -23374,6 +23378,10 @@
   "ColumbusSecondVoyageColonization": {
     "title": "Columbus Second-Voyage Colonization",
     "url": "/wiki/concepts/columbussecondvoyagecolonization/"
+  },
+  "CombatExperienceMemoryGap": {
+    "title": "Combat Experience–Memory Gap",
+    "url": "/wiki/concepts/combatexperiencememorygap/"
   },
   "CombinedArmsAntiCavalrySystem": {
     "title": "合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System",
@@ -72539,6 +72547,10 @@
     "title": "PTSD Homecoming Narrative / 创伤版回家叙事",
     "url": "/wiki/concepts/ptsdhomecomingnarrative/"
   },
+  "PacificIslandBypassStrategy": {
+    "title": "Pacific Island Bypass Strategy",
+    "url": "/wiki/concepts/pacificislandbypassstrategy/"
+  },
   "PacificPalisades": {
     "title": "Pacific Palisades",
     "url": "/wiki/entities/pacificpalisades/"
@@ -72546,6 +72558,10 @@
   "PacificTelephoneAndTelegraph": {
     "title": "Pacific Telephone and Telegraph",
     "url": "/wiki/entities/pacifictelephoneandtelegraph/"
+  },
+  "PacificWarAttritionSystem": {
+    "title": "Pacific War Attrition System",
+    "url": "/wiki/concepts/pacificwarattritionsystem/"
   },
   "PacingTheFrontier": {
     "title": "Pacing the Frontier",
@@ -92411,6 +92427,10 @@
     "title": "Surrender Guarantee Integrity",
     "url": "/wiki/concepts/surrenderguaranteeintegrity/"
   },
+  "SurrenderPreclusionWarEscalation": {
+    "title": "Surrender-Preclusion War Escalation",
+    "url": "/wiki/concepts/surrenderpreclusionwarescalation/"
+  },
   "SurrenderReceptionDomesticBurden": {
     "title": "归降接纳的内外成本冲突 / Surrender Reception Domestic Burden",
     "url": "/wiki/concepts/surrenderreceptiondomesticburden/"
@@ -111346,6 +111366,10 @@
   "data-risk-and-actuarial-science-in-insurance": {
     "title": "Data, Risk, and Actuarial Science in Insurance",
     "url": "/wiki/sources/data-risk-and-actuarial-science-in-insurance/"
+  },
+  "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v": {
+    "title": "Show 66 - Supernova in the East V",
+    "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
   },
   "dchha68-blitz-human-resources-dchha68-blitz-human-resources": {
     "title": "Show 68 - BLITZ Human Resources",

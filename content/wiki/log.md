@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Show 66 - Supernova in the East V
+
+Added the [[HardcoreHistory]] episode following the Pacific War from New Guinea and Guadalcanal through Tarawa, the Philippine Sea, and [[BattleOfSaipan|Saipan]]. Created focused synthesis-first pages for [[PacificWarAttritionSystem]], [[PacificIslandBypassStrategy]], [[CombatExperienceMemoryGap]], [[SurrenderPreclusionWarEscalation]], and Saipan, then resynthesized [[DanCarlin]], Hardcore History, and [[CampaignLogisticsAndTempo]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: once Japanese momentum stopped, industrial output became decisive through shipping, trained replacements, intelligence, air-sea control, bases, medicine, and operational learning rather than production totals alone. Bypass could make a fortified base strategically irrelevant while leaving its garrison to starvation and disease; military culture, atrocity, retaliation fear, and propaganda could remove surrender as a survivable exit; and public memory could turn frontline mutilation, killing, terror, and psychological dislocation into a cleaner “Good War” narrative. Saipan joined those systems by placing civilians inside cave warfare, culminating in a mass assault and civilian suicides while opening B-29 range over Japan.
+
+No settled contradiction was adopted. Admiration for Japanese endurance remains compatible with condemnation of command institutions that spent lives without plausible strategic recovery. The officer-intent claim around atrocity and retaliation fear, production and casualty totals, civilian motives, command judgments, battlefield dialogue, and veteran memories remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival campaign study, or systematic research review. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,170 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Lord of the Rankings
 
 Added the [[RevisionistHistory]] episode that traces the commercial origin of the [[USNewsAndWorldReport|U.S. News and World Report]] college ranking and uses [[ReedCollege]]'s public-data reconstruction to test its hidden weighted model. Created focused synthesis-first pages for Reed, statistician [[KellyMcConville]], and [[InstitutionalReputationFeedbackLoop]], then resynthesized U.S. News, [[DillardUniversity]], [[WalterKimbrough]], and [[CollegeRankingPrivilege]] from their complete preserved evidence inventories before appending the new source once.
@@ -42190,6 +42200,10 @@ Core synthesis: institutional progress can be meaningful without being complete;
 No settled contradiction was adopted. Georgia Tech's program figures and representation claims remain episode-reported, Isbell's experiences qualify any complete racial-progress narrative, the split computer-vision result does not authenticate the painting, and Gladwell's LSAT argument does not independently settle standardized-test validity.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,169 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

@@ -6,8 +6,9 @@ sources:
   - dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv
   - dchha73-mania-for-subjugation-iii-dchha73-mania-for-subjugation-iii
   - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
+  - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
 knowledge_schema: synthesis-v1
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 ---
 
 # Campaign Logistics and Tempo
@@ -26,15 +27,17 @@ Alexander's later speed helps secure cities, treasuries, and coastal positions b
 
 The Persian system shows the other side of scale. Roads, staged depots, regional resources, and supply organization make a huge royal host possible, but numbers also increase ceremonial train, consumption, and coordination demands. The source therefore treats logistics as a combat condition rather than background administration.
 
+The Pacific War adds a transoceanic and industrial scale. New Guinea shows terrain, rainfall, disease, and portage limiting how many troops either side can sustain. Guadalcanal shows air cover creating daytime and nighttime supply windows. Later Allied operations connect submarines, merchant shipping, bases, airfields, amphibious learning, and replacement capacity across thousands of miles, while bypass turns a fortified base into an isolated liability. Tempo here depends not only on moving fast but on building a route system that can continue replacing losses.
+
 ## Key Claims
 
 - Operational speed can pre-empt coalitions and secure captured treasuries, but it can also outrun supply, intelligence, or safe withdrawal.
 - Army pay and support costs can make rapid victory a fiscal requirement rather than merely a tactical preference.
-- Armies consume routes and cannot assume that stationary supply or backward movement remains available.
+- Armies consume routes, while oceanic campaigns depend on shipping windows, bases, interdiction, and the capacity to replace losses across distance.
 - Naval strength depends on crews, bases, and continuing expense, not ship counts alone.
 - Large imperial armies require roads, depots, administration, and political cooperation across regions.
 - Greater numbers increase supply and coordination burdens as well as battlefield strength.
-- Strategic decisions can rationally accept one vulnerability, such as naval weakness, to preserve resources for another mode of war.
+- Strategic decisions can rationally accept or isolate one vulnerability, such as a fortified base or naval weakness, to preserve resources for a more decisive route or mode of war.
 
 ## Evidence
 
@@ -43,16 +46,17 @@ The Persian system shows the other side of scale. Roads, staged depots, regional
 - Political and northern consolidation: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] links rapid marches, fleet support, Danube crossing, foraging, Illyrian supply pressure, withdrawal, intelligence, and return attack.
 - Fleet tradeoff: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] presents expense, inferior quality, rear risk, and later naval restoration around the disbandment decision.
 - Persian scale: [[dchha74-mania-for-subjugation-iv-dchha74-mania-for-subjugation-iv]] connects roads, depots, entourage, grain, water, and force-size uncertainty.
+- Transoceanic sustainment: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] connects New Guinea terrain, Guadalcanal supply windows, submarines, shipping, airfields, amphibious learning, bypass, and the Marianas invasion fleet.
 
 ## Counterevidence & Qualifications
 
-The episodes reject ancient totals but cannot establish exact army sizes, marching rates, supply stocks, annual costs, borrowing terms, or consumption. Strategic rationality does not prove that Alexander's rapid Illyrian advance, immediate Asian invasion, or disbanding most of the fleet was optimal; the Illyrian trap, subsequent Persian operations, and Macedonian naval rebuilding show that accepted risks were real. Fiscal and security pressure explain urgency without making conquest inevitable or morally neutral.
+The episodes cannot establish exact army sizes, marching rates, supply stocks, annual costs, borrowing terms, consumption, Pacific production totals, shipping losses, or casualty counts. Strategic rationality does not prove that Alexander's rapid Illyrian advance, immediate Asian invasion, or disbanding most of the fleet was optimal; the Illyrian trap, subsequent Persian operations, and Macedonian naval rebuilding show that accepted risks were real. Pacific material advantage likewise did not prevent Tarawa's reconnaissance failures, severe Allied losses, panic, or civilian harm. Fiscal and security pressure explain urgency without making conquest inevitable or morally neutral.
 
 ## What Changed
 
-- Extended tempo backward from the Asian expedition to post-assassination political and frontier consolidation.
-- Added the Illyrian trap as a case where speed creates vulnerability before enabling recovery.
-- Added fleet support, foraging, intelligence, crossings, and enemy separation to the operational model.
+- Extended the concept from land campaigns into transoceanic shipping, air cover, bases, interdiction, and replacement systems.
+- Added bypass as a way to preserve tempo by isolating rather than directly reducing every fortified position.
+- Added disease and operational learning as logistics variables rather than background conditions.
 
 ## Related Concepts
 
@@ -61,3 +65,5 @@ The episodes reject ancient totals but cannot establish exact army sizes, marchi
 - [[TerrainConstrainedCombinedArms]] - terrain and supply together determine which forces can reach and use a battlefield.
 - [[ConquestFinancingFeedbackLoop]] - fiscal cycle in which captured revenue funds the next operational phase.
 - [[CredibleForceDisplayDeterrence]] - psychological display can buy movement space without a full conventional engagement.
+- [[PacificWarAttritionSystem]] - industrial and institutional system that converts logistics into sustainable replacement capacity.
+- [[PacificIslandBypassStrategy]] - selective seizure and isolation method for preserving operational reach.

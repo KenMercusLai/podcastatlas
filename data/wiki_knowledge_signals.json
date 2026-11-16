@@ -32164,6 +32164,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/battleofrosebud/"
     },
+    "BattleOfSaipan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/battleofsaipan/"
+    },
     "BattleOfSalamis": {
       "episode_count": 2,
       "show_count": 1,
@@ -43908,9 +43924,9 @@
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
     },
     "CampaignLogisticsAndTempo": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
@@ -43932,9 +43948,16 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 72 - Mania for Subjugation II",
           "url": "/wiki/sources/dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii/"
+        },
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/campaignlogisticsandtempo/"
     },
     "CampaignLogisticsBattlefieldSelection": {
@@ -62370,6 +62393,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/columbussecondvoyagecolonization/"
     },
+    "CombatExperienceMemoryGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/combatexperiencememorygap/"
+    },
     "CombinedArmsAntiCavalrySystem": {
       "episode_count": 1,
       "show_count": 1,
@@ -74520,9 +74559,9 @@
       "url": "/wiki/entities/danariely/"
     },
     "DanCarlin": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -74558,6 +74597,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 68 - BLITZ Human Resources",
           "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        },
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
         }
       ],
       "updated": "2026-11-17",
@@ -139789,9 +139835,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -139848,6 +139894,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 68 - BLITZ Human Resources",
           "url": "/wiki/sources/dchha68-blitz-human-resources-dchha68-blitz-human-resources/"
+        },
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
         }
       ],
       "updated": "2026-11-17",
@@ -240030,6 +240083,38 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ptsdhomecomingnarrative/"
     },
+    "PacificIslandBypassStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/pacificislandbypassstrategy/"
+    },
+    "PacificWarAttritionSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/pacificwarattritionsystem/"
+    },
     "PacingTheFrontier": {
       "episode_count": 3,
       "show_count": 2,
@@ -307158,6 +307243,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/surrenderguaranteeintegrity/"
+    },
+    "SurrenderPreclusionWarEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
+          "key": "dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 66 - Supernova in the East V",
+          "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/surrenderpreclusionwarescalation/"
     },
     "SurrenderReceptionDomesticBurden": {
       "episode_count": 2,

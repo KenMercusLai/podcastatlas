@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11617
+wiki_total_pages: 11622
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2816,6 +2816,9 @@ wiki_pages:
   - key: "SurrenderGuaranteeIntegrity"
     title: "Surrender Guarantee Integrity"
     url: "/wiki/concepts/surrenderguaranteeintegrity/"
+  - key: "SurrenderPreclusionWarEscalation"
+    title: "Surrender-Preclusion War Escalation"
+    url: "/wiki/concepts/surrenderpreclusionwarescalation/"
   - key: "SurrenderTokenCredibility"
     title: "Surrender-Token Credibility / 降服凭证式可信度"
     url: "/wiki/concepts/surrendertokencredibility/"

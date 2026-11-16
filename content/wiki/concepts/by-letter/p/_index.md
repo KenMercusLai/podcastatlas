@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11617
+wiki_total_pages: 11622
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -14,6 +14,12 @@ wiki_pages:
   - key: "P2PStreaming"
     title: "P2P Streaming"
     url: "/wiki/concepts/p2pstreaming/"
+  - key: "PacificIslandBypassStrategy"
+    title: "Pacific Island Bypass Strategy"
+    url: "/wiki/concepts/pacificislandbypassstrategy/"
+  - key: "PacificWarAttritionSystem"
+    title: "Pacific War Attrition System"
+    url: "/wiki/concepts/pacificwarattritionsystem/"
   - key: "PacingTheFrontier"
     title: "Pacing the Frontier"
     url: "/wiki/concepts/pacingthefrontier/"

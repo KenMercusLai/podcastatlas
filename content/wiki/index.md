@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Show 66 - Supernova in the East V](sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v.md) — Hardcore History connects Pacific industrial attrition, oceanic logistics, island bypass, combat memory, surrender preclusion, and Saipan's military-civilian catastrophe.
 - [Return to the 404](sources/return-to-the-404-return-to-the-404.md) — Revisionist History connects Georgia Tech's shift from segregation toward wider computing access with voice-centered podcast scoring, art-authentication silence, and standardized-test skepticism.
 - [Waiting Games](sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587.md) — Hidden Brain and Kate Sweeny distinguish near-miss from task-completion relief and connect waiting distress to timing, control, outlook, contingency planning, and flow.
 - [Malcolm Gladwell and Adam Grant](sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant.md) — Revisionist History conversation on constrained moral judgment, innovation execution, harmonious passion, scientist-mode rethinking, and durable principles with revisable plans.
@@ -20014,6 +20015,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Pacific War Attrition System](concepts/PacificWarAttritionSystem.md) — Interaction of industrial output, shipping, trained replacements, intelligence, bases, and operational learning in sustained Pacific combat.
+- [Pacific Island Bypass Strategy](concepts/PacificIslandBypassStrategy.md) — Selective seizure of positions needed for reach while isolating fortified bases by severing their supply and influence.
+- [Combat Experience–Memory Gap](concepts/CombatExperienceMemoryGap.md) — Distance between frontline killing and suffering and the cleaner language and imagery of public war memory.
+- [Surrender-Preclusion War Escalation](concepts/SurrenderPreclusionWarEscalation.md) — Feedback system in which coercion, propaganda, atrocity, and retaliation fear remove survivable exits and prolong hopeless resistance.
+- [Battle of Saipan](concepts/BattleOfSaipan.md) — 1944 campaign linking cave warfare, command doctrine, mass assault, civilian suicide, B-29 range, and Japanese political crisis.
 - [Affordable Online Degree Access](concepts/AffordableOnlineDegreeAccess.md) — Lower-cost remote degree delivery evaluated across reach, academic continuity, support, completion, and outcomes.
 - [Podcast Scoring as Narrative Design](concepts/PodcastScoringAsNarrativeDesign.md) — Composition around voice, tone, tension, editorial perspective, and performance constraints without overpowering speech.
 - [Expert Silence Under Consequence](concepts/ExpertSilenceUnderConsequence.md) — Withdrawal or hedging of informed judgment when legal, financial, professional, or reputational exposure rises.

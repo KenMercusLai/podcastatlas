@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11617
+wiki_total_pages: 11622
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1889,6 +1889,9 @@ wiki_pages:
   - key: "ColumbusSecondVoyageColonization"
     title: "Columbus Second-Voyage Colonization"
     url: "/wiki/concepts/columbussecondvoyagecolonization/"
+  - key: "CombatExperienceMemoryGap"
+    title: "Combat Experience–Memory Gap"
+    url: "/wiki/concepts/combatexperiencememorygap/"
   - key: "ComedyAsInvoluntaryJudgment"
     title: "Comedy as Involuntary Judgment"
     url: "/wiki/concepts/comedyasinvoluntaryjudgment/"
