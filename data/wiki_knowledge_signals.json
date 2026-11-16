@@ -103656,9 +103656,9 @@
       "url": "/wiki/concepts/explanatoryoverreach/"
     },
     "ExploratoryTravelSerendipity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Revisionist_History_LIVE_with_Nate_Berkus [Revisionist_History_LIVE_with_Nate_Berkus].md",
@@ -103666,6 +103666,13 @@
           "show": "Revisionist History",
           "title": "Revisionist History LIVE with Nate Berkus",
           "url": "/wiki/sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus/"
+        },
+        {
+          "episode_file": "Five_Burning_Travel_Questions_with_Malcolm_Gladwell [Five_Burning_Travel_Questions_with_Malcolm_Gladwell].md",
+          "key": "five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Five Burning Travel Questions with Malcolm Gladwell",
+          "url": "/wiki/sources/five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell/"
         }
       ],
       "updated": "2026-11-16",
@@ -242008,6 +242015,29 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/petinsurancecoverageboundary/"
+    },
+    "PetTravel": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP122 拥有一辆房车是种什么样的体验？🤔 [lhpOSkCF-oTqHpPGHn1YJVPJGsrD].md",
+          "key": "ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd",
+          "show": "硬地骇客",
+          "title": "EP122 拥有一辆房车是种什么样的体验？🤔",
+          "url": "/wiki/sources/ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd/"
+        },
+        {
+          "episode_file": "Five_Burning_Travel_Questions_with_Malcolm_Gladwell [Five_Burning_Travel_Questions_with_Malcolm_Gladwell].md",
+          "key": "five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell",
+          "show": "Revisionist History",
+          "title": "Five Burning Travel Questions with Malcolm Gladwell",
+          "url": "/wiki/sources/five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/pettravel/"
     },
     "PeteHegseth": {
       "episode_count": 3,

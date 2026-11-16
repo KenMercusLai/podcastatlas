@@ -40932,3 +40932,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Five Burning Travel Questions with Malcolm Gladwell
+
+Added a comic [[RevisionistHistory]] travel detour in which [[MalcolmGladwell]] moves from Las Vegas and destination-name mistakes to an Alger Hiss road trip, weather-reporting avoidance, and the practical and social tradeoffs of traveling with dogs.
+
+Core synthesis: [[PetTravel]] now extends beyond RV selection to air and ordinary-car transport, including separation anxiety, airline communication, back-seat safety, bedding, toys, illness, treats, and the extra care work animals create. [[ExploratoryTravelSerendipity]] now includes unusual interests and dog parks as routes to memorable encounters, while distinguishing chosen openness from costly disorientation. No settled contradiction was adopted. The episode's Las Vegas, North Carolina, weather-reporting, airline, safety, behavioral, and product claims remain source-scoped because the supplied file is a structured summary rather than a transcript, veterinary guide, transport standard, historical record, or comparative travel study. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,080 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

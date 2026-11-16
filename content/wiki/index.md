@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Five Burning Travel Questions with Malcolm Gladwell](sources/five-burning-travel-questions-with-malcolm-gladwell-five-burning-travel-questions-with-malcolm-gladwell.md) — Revisionist History uses comic travel mishaps and dog journeys to connect destination verification, pet logistics, and chance encounters.
 - [Guns Part 6: “Sin is the failure to bother to care”](sources/guns-part-6-sin-is-the-failure-to-bother-to-care.md) — Revisionist History connects Abdullah Pratt's lived and clinical experience to retaliation, moral attention, and community gunshot first aid.
 - [Oil and Blood: The Osage Murders from Cautionary Tales](sources/oil-and-blood-the-osage-murders-from-cautionary-tales.md) — Revisionist History connects Osage oil headrights, racialized guardianship, Hale's inheritance plot, federal investigation, and wider systemic complicity.
 - [Healing 2.0: Disrupting Death](sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222.md) — Hidden Brain follows You Only Virtual's Versona from a mother-son bond into AI-mediated continuing contact, post-death learning, consent uncertainty, and severe personal tradeoffs.
