@@ -41000,3 +41000,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Guns Part 1: The Sudden Celebrity of Sir John Knight
+
+Added the [[RevisionistHistory]] episode tracing how [[SirJohnKnight]]'s disputed 1686 acquittal became a modern public-carry precedent in [[NewYorkStateRiflePistolAssociationVBruen|Bruen]]. Created focused profiles for Knight, [[JoyceMalcolm]], [[RogerMorrice]], and *Bruen*, plus [[HistoryAndTraditionConstitutionalTest]] and [[ContextualLegalHistory]].
+
+Core synthesis: the conventional digest account makes Knight's acquittal look like evidence against a broad English prohibition on peaceful carry, while Morrice's contemporary newsletters reportedly show compliance with Bristol's weapons rules and place anti-Catholic agitation and a weak political prosecution at the center. [[GunRightsHistoricalPathDependence]] now includes the way local regulation, archival survival, and modern doctrine can transform a contingent episode into a constitutional precedent.
+
+No settled contradiction was adopted. Malcolm's public-carry reading and the Harris-Gladwell contextual reconstruction remain competing interpretations, and the supplied file does not reproduce the newsletters, trial record, legal digests, *Bruen* briefs or opinions, or the complete scholarly debate. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,085 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

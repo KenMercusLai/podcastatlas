@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Guns Part 1: The Sudden Celebrity of Sir John Knight](sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight.md) — Revisionist History reopens Sir John Knight's 1686 acquittal through contemporary newsletters and questions its use as a clean public-carry precedent in Bruen.
 - [Guns Part 2: Getting out of Dodge](sources/guns-part-2-getting-out-of-dodge.md) — Revisionist History contrasts Gunsmoke's armed-individual safety myth with historical Dodge City policing, firearm restrictions, and collective public-carry risk.
 - [Guns Part 3: A Shooting Lesson](sources/guns-part-3-a-shooting-lesson.md) — Revisionist History tests assault-weapon categories against firearm mechanics, modularity, legal feature lists, and mass-shooting autopsy patterns.
 - [Guns Part 4: Moral Hazard](sources/guns-part-4-moral-hazard.md) — Revisionist History separates shooting exposure from medically mediated homicide and qualifies the claim that trauma success weakens prevention pressure.
@@ -5209,6 +5210,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Sir John Knight](entities/SirJohnKnight.md) — Bristol merchant whose disputed 1686 acquittal became a modern American gun-rights precedent.
+- [Joyce Malcolm](entities/JoyceMalcolm.md) — Constitutional historian associated with the public-carry interpretation of Knight's acquittal.
+- [Roger Morrice](entities/RogerMorrice.md) — Seventeenth-century newsletter writer whose reports provide fuller context for Knight's prosecution.
+- [New York State Rifle & Pistol Association v. Bruen](entities/NewYorkStateRiflePistolAssociationVBruen.md) — Supreme Court case examined through contested historical analogues and competing public-carry risk frames.
 - [Gunsmoke](entities/Gunsmoke.md) — Television Western whose recurring violence and disarmament tragedy support an armed-individual model of public safety.
 - [Dodge City](entities/DodgeCity.md) — Kansas frontier town whose policing and firearm restrictions contrast with its persistently violent fictional image.
 - [Samuel Alito](entities/SamuelAlito.md) — Supreme Court justice whose Bruen commuter hypothetical frames public carry through immediate individual self-defense.
@@ -19761,6 +19766,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [History-and-Tradition Constitutional Test](concepts/HistoryAndTraditionConstitutionalTest.md) — Constitutional method whose reliance on historical analogues creates source-selection and circularity risks.
+- [Contextual Legal History](concepts/ContextualLegalHistory.md) — Method of testing compressed legal reports against contemporary records, local rules, politics, and procedure.
 - [Fictional Frontier Self-Defense Myth](concepts/FictionalFrontierSelfDefenseMyth.md) — Narrative pattern in which institutional failure makes the armed individual appear to be the decisive source of public safety.
 - [Armed Public-Carry Collective Risk](concepts/ArmedPublicCarryCollectiveRisk.md) — Interaction risk created when multiple carriers act under fear, density, incomplete information, and police role ambiguity.
 - [Frontier Gun Regulation](concepts/FrontierGunRegulation.md) — Nineteenth-century carry, sensitive-place, sales, and access restrictions used as tools of public order.

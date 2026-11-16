@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14457
+wiki_total_pages: 14461
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "SirJohnFrench"
     title: "Sir John French"
     url: "/wiki/entities/sirjohnfrench/"
+  - key: "SirJohnKnight"
+    title: "Sir John Knight"
+    url: "/wiki/entities/sirjohnknight/"
   - key: "SirWilliamHamilton"
     title: "Sir William Hamilton"
     url: "/wiki/entities/sirwilliamhamilton/"

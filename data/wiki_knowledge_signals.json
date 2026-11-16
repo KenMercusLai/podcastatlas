@@ -65557,6 +65557,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/contextuallanguagelearning/"
     },
+    "ContextualLegalHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/contextuallegalhistory/"
+    },
     "ContextualMartialArtsComparison": {
       "episode_count": 1,
       "show_count": 1,
@@ -131639,9 +131655,9 @@
       "url": "/wiki/entities/guming/"
     },
     "GunRightsHistoricalPathDependence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns [Brian_Lehrer_and_Malcolm_Gladwell_Talk_Policing_and_Guns].md",
@@ -131656,9 +131672,16 @@
           "show": "Revisionist History",
           "title": "The Invention of an Epidemic",
           "url": "/wiki/sources/the-invention-of-an-epidemic-the-invention-of-an-epidemic/"
+        },
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/gunrightshistoricalpathdependence/"
     },
     "GunnarHellekson": {
@@ -144126,6 +144149,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/historiographicalfoundercriteria/"
+    },
+    "HistoryAndTraditionConstitutionalTest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/historyandtraditionconstitutionaltest/"
     },
     "HistoryAsLifeResource": {
       "episode_count": 3,
@@ -172433,6 +172472,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/joyclubnovel/"
+    },
+    "JoyceMalcolm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/joycemalcolm/"
     },
     "Joyoung": {
       "episode_count": 1,
@@ -225007,6 +225062,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/newyorkpost/"
     },
+    "NewYorkStateRiflePistolAssociationVBruen": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
+        },
+        {
+          "episode_file": "Guns_Part_2_Getting_out_of_Dodge [Guns_Part_2_Getting_out_of_Dodge].md",
+          "key": "guns-part-2-getting-out-of-dodge",
+          "show": "Revisionist History",
+          "title": "Guns Part 2: Getting out of Dodge",
+          "url": "/wiki/sources/guns-part-2-getting-out-of-dodge/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/newyorkstateriflepistolassociationvbruen/"
+    },
     "NewZealand": {
       "episode_count": 4,
       "show_count": 3,
@@ -270744,6 +270822,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/rogerlordoftheflies/"
     },
+    "RogerMorrice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/rogermorrice/"
+    },
     "RogerMortimer": {
       "episode_count": 1,
       "show_count": 1,
@@ -286843,6 +286937,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/sirjohnfrench/"
+    },
+    "SirJohnKnight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight [Guns_Part_1_The_Sudden_Celebrity_of_Sir_John_Knight].md",
+          "key": "guns-part-1-the-sudden-celebrity-of-sir-john-knight",
+          "show": "Revisionist History",
+          "title": "Guns Part 1: The Sudden Celebrity of Sir John Knight",
+          "url": "/wiki/sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sirjohnknight/"
     },
     "SirWilliamHamilton": {
       "episode_count": 3,

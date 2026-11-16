@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11454
+wiki_total_pages: 11456
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"
+  - key: "HistoryAndTraditionConstitutionalTest"
+    title: "History-and-Tradition Constitutional Test"
+    url: "/wiki/concepts/historyandtraditionconstitutionaltest/"
   - key: "HitchcockianMoralIrony"
     title: "Hitchcockian Moral Irony / 希区柯克式道德反讽"
     url: "/wiki/concepts/hitchcockianmoralirony/"
