@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11624
+wiki_total_pages: 11626
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "RedPenLogic"
     title: "Red Pen Logic"
     url: "/wiki/concepts/redpenlogic/"
+  - key: "RedemptiveCounterfeitBiography"
+    title: "Redemptive Counterfeit Biography"
+    url: "/wiki/concepts/redemptivecounterfeitbiography/"
   - key: "RedistrictingBackfireRisk"
     title: "Redistricting Backfire Risk"
     url: "/wiki/concepts/redistrictingbackfirerisk/"

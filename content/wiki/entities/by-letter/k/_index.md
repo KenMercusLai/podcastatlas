@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14627
+wiki_total_pages: 14631
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "KarimaSharifAli"
     title: "Karima Sharif-Ali"
     url: "/wiki/entities/karimasharifali/"
+  - key: "KarinaLongworth"
+    title: "Karina Longworth"
+    url: "/wiki/entities/karinalongworth/"
   - key: "KarissaBodnar"
     title: "Karissa Bodnar"
     url: "/wiki/entities/karissabodnar/"

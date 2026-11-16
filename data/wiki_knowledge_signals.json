@@ -58901,6 +58901,22 @@
       "updated": "2026-11-03",
       "url": "/wiki/concepts/clientdirectedtherapeuticnavigation/"
     },
+    "CliffordIrving": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Oh_Howard,_You_Idiot! [Oh_Howard,_You_Idiot!].md",
+          "key": "oh-howard-you-idiot-oh-howard-you-idiot",
+          "show": "Revisionist History",
+          "title": "Oh, Howard, You Idiot!",
+          "url": "/wiki/sources/oh-howard-you-idiot-oh-howard-you-idiot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/cliffordirving/"
+    },
     "ClimateAidRetrenchment": {
       "episode_count": 2,
       "show_count": 2,
@@ -82424,6 +82440,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
     },
+    "DickSusskind": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Oh_Howard,_You_Idiot! [Oh_Howard,_You_Idiot!].md",
+          "key": "oh-howard-you-idiot-oh-howard-you-idiot",
+          "show": "Revisionist History",
+          "title": "Oh, Howard, You Idiot!",
+          "url": "/wiki/sources/oh-howard-you-idiot-oh-howard-you-idiot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/dicksusskind/"
+    },
     "DictionaryDescriptionAndPrescription": {
       "episode_count": 1,
       "show_count": 1,
@@ -105467,6 +105499,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/expansionaryvsanxietymarketing/"
+    },
+    "ExpectationMatchedLiteraryForgery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Oh_Howard,_You_Idiot! [Oh_Howard,_You_Idiot!].md",
+          "key": "oh-howard-you-idiot-oh-howard-you-idiot",
+          "show": "Revisionist History",
+          "title": "Oh, Howard, You Idiot!",
+          "url": "/wiki/sources/oh-howard-you-idiot-oh-howard-you-idiot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/expectationmatchedliteraryforgery/"
     },
     "ExpectationMatchedScientificFraud": {
       "episode_count": 1,
@@ -150406,6 +150454,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/howardcarter/"
     },
+    "HowardHughes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Oh_Howard,_You_Idiot! [Oh_Howard,_You_Idiot!].md",
+          "key": "oh-howard-you-idiot-oh-howard-you-idiot",
+          "show": "Revisionist History",
+          "title": "Oh, Howard, You Idiot!",
+          "url": "/wiki/sources/oh-howard-you-idiot-oh-howard-you-idiot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/howardhughes/"
+    },
     "HowardHughesHoldings": {
       "episode_count": 1,
       "show_count": 1,
@@ -177690,6 +177754,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/karimasharifali/"
+    },
+    "KarinaLongworth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Oh_Howard,_You_Idiot! [Oh_Howard,_You_Idiot!].md",
+          "key": "oh-howard-you-idiot-oh-howard-you-idiot",
+          "show": "Revisionist History",
+          "title": "Oh, Howard, You Idiot!",
+          "url": "/wiki/sources/oh-howard-you-idiot-oh-howard-you-idiot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/karinalongworth/"
     },
     "KarissaBodnar": {
       "episode_count": 1,
@@ -267716,6 +267796,22 @@
       ],
       "updated": "2026-11-11",
       "url": "/wiki/entities/reddit/"
+    },
+    "RedemptiveCounterfeitBiography": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Oh_Howard,_You_Idiot! [Oh_Howard,_You_Idiot!].md",
+          "key": "oh-howard-you-idiot-oh-howard-you-idiot",
+          "show": "Revisionist History",
+          "title": "Oh, Howard, You Idiot!",
+          "url": "/wiki/sources/oh-howard-you-idiot-oh-howard-you-idiot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/redemptivecounterfeitbiography/"
     },
     "RedistrictingBackfireRisk": {
       "episode_count": 1,

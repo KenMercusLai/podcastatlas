@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Oh, Howard, You Idiot!](sources/oh-howard-you-idiot-oh-howard-you-idiot.md) — Revisionist History reframes Clifford Irving's fake Howard Hughes autobiography as both an expectation-matched institutional fraud and an unauthorized attempt to give Hughes intimacy, self-knowledge, and redemption.
 - [A Memorial for the Living](sources/a-memorial-for-the-living-a-memorial-for-the-living.md) — Revisionist History contrasts the engineered permanence of the 9/11 Memorial with Jacksonville's by-name homelessness list to test whether symbolic remembrance becomes material obligation toward living people.
 - [Show 66 - Supernova in the East V](sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v.md) — Hardcore History connects Pacific industrial attrition, oceanic logistics, island bypass, combat memory, surrender preclusion, and Saipan's military-civilian catastrophe.
 - [Return to the 404](sources/return-to-the-404-return-to-the-404.md) — Revisionist History connects Georgia Tech's shift from segregation toward wider computing access with voice-centered podcast scoring, art-authentication silence, and standardized-test skepticism.
@@ -5298,6 +5299,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
+- [Howard Hughes](entities/HowardHughes.md) — Industrialist, aviator, filmmaker, and reclusive celebrity whose managed legend and inaccessibility made him the target of a fake autobiography.
+- [Clifford Irving](entities/CliffordIrving.md) — Writer who combined research, forged evidence, performance, and invented intimacy in a fraudulent Howard Hughes autobiography.
+- [Dick Susskind](entities/DickSusskind.md) — Irving collaborator who helped research, perform, transcribe, and shape the counterfeit Hughes voice.
+- [Karina Longworth](entities/KarinaLongworth.md) — Film historian distinguishing Hughes's publicity legend from his controlling relationships, compulsions, and decline.
 - [National September 11 Memorial](entities/NationalSeptember11Memorial.md) — Ground Zero memorial whose spatial, relational, and engineering precision anchors the episode's comparison between commemoration and care.
 - [Michael Arad](entities/MichaelArad.md) — Architect whose “Reflecting Absence” proposal and meaningful-adjacency principle shaped the September 11 memorial.
 - [Amanda Sachs](entities/AmandaSachs.md) — Architect who translated institutional groups and personal relationships into the memorial's arrangement of victims' names.
@@ -20021,6 +20026,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Expectation-Matched Literary Forgery](concepts/ExpectationMatchedLiteraryForgery.md) — Counterfeit text made credible by matching an inaccessible subject's known voice, circumstances, and audience expectations across correlated evidence channels.
+- [Redemptive Counterfeit Biography](concepts/RedemptiveCounterfeitBiography.md) — Unauthorized invented life that grants a subject emotional repair while falsely claiming factual and biographical authority.
 - [Memorial Care Allocation](concepts/MemorialCareAllocation.md) — Ethical comparison between resources devoted to selected commemoration and material support available to vulnerable people still living.
 - [By-Name Homelessness Coordination](concepts/ByNameHomelessnessCoordination.md) — Person-level outreach, prioritization, and recurring case review bounded by data governance and affordable-housing capacity.
 - [Pacific War Attrition System](concepts/PacificWarAttritionSystem.md) — Interaction of industrial output, shipping, trained replacements, intelligence, bases, and operational learning in sustained Pacific combat.

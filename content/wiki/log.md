@@ -42218,3 +42218,17 @@ Core synthesis: preserving a name's relationships and circumstances can make a p
 No settled contradiction was adopted. The memorial-versus-housing comparison remains a moral argument rather than proof that budgets or institutions are interchangeable, and the episode's project costs, list trends, rent gap, and program effects remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,171 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] ingest | Oh, Howard, You Idiot!
+
+Added a [[RevisionistHistory]] episode on [[CliffordIrving]] and [[DickSusskind]]'s fraudulent [[HowardHughes]] autobiography. Created focused profiles for Hughes, Irving, Susskind, and [[KarinaLongworth]], plus [[ExpectationMatchedLiteraryForgery]] and [[RedemptiveCounterfeitBiography]].
+
+Core synthesis: the hoax succeeded by making research, documents, performance, logistics, and eccentric detail converge on the Hughes institutions already expected, while its invented romance, friendship, self-awareness, and spiritual ending supplied an emotionally redemptive life absent from the episode's account of Hughes's decline.
+
+No settled contradiction was adopted. Literary ingenuity and emotional insight do not legitimate forged attribution, financial fraud, or publication without consent; mental-health, injury, motive, expert-reaction, and manuscript-value claims remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,172 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
