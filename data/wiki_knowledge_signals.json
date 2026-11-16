@@ -79102,9 +79102,9 @@
       "url": "/wiki/concepts/deliberatevisualsnapshotencoding/"
     },
     "DeliberativeCivicLearning": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
@@ -79112,9 +79112,16 @@
           "show": "Planet Money",
           "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        },
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
         }
       ],
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/deliberativeciviclearning/"
     },
     "DeliveryBufferDiscipline": {
@@ -81417,9 +81424,9 @@
       "url": "/wiki/concepts/dialectrevivalidentity/"
     },
     "DialogicAILiteracy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
@@ -81427,9 +81434,16 @@
           "show": "Marketplace Tech",
           "title": "How attitudes toward AI differ across generations",
           "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/dialogicailiteracy/"
     },
     "DiamondNecklaceAffair": {
@@ -84246,6 +84260,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/diversifiedhappinessportfolio/"
+    },
+    "DividedGovernmentExecutiveConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/dividedgovernmentexecutiveconstraint/"
     },
     "DivineAndCivicLaw": {
       "episode_count": 1,
@@ -90692,6 +90722,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/economicupswingurbandramamemory/"
+    },
+    "EconomistEducationalFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/economisteducationalfoundation/"
     },
     "EconomyClassSyndromeTravelThrombosis": {
       "episode_count": 1,
@@ -223572,9 +223618,9 @@
       "url": "/wiki/entities/nato/"
     },
     "NATOAllianceCredibility": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
@@ -223610,9 +223656,16 @@
           "show": "忽左忽右",
           "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
           "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        },
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/natoalliancecredibility/"
     },
     "NBC": {
@@ -226196,6 +226249,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/neglectedfrictionproductinnovation/"
+    },
+    "NegotiatedSecurityGuaranteeCredibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/negotiatedsecurityguaranteecredibility/"
     },
     "NegotiationAsBargaining": {
       "episode_count": 3,
@@ -317950,6 +318019,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/topicalcorticosteroiduseboundary/"
+    },
+    "TopicalTalk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c358f446142bca53f256144b073b0ce0 [c358f446142bca53f256144b073b0ce0.mp3？aid=6afae373b2404cde2fe7d916&chid=d556eb54-6160-4.281].md",
+          "key": "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916",
+          "show": "Economist Podcasts",
+          "title": "Cede of doubt: a NATO offer to Ukraine",
+          "url": "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/topicaltalk/"
     },
     "TorontoRaccoons": {
       "episode_count": 1,

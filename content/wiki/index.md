@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Cede of doubt: a NATO offer to Ukraine](sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916.md) — The Intelligence connects an unaccepted NATO-for-territory proposal, uneven congressional checks on executive power, and classroom practice in AI scrutiny and evidence-based disagreement.
 - [Minimizing Pain, Maximizing Joy](sources/default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609-default-mp3-ywr3ahjkcgo-91192c979073e33ce00ed870a5bcb17b-52205609.md) — Hidden Brain and William Irvine connect Stoic control allocation, early setback reframing, manageable discomfort, imagined loss, and finitude to resilience and renewed appreciation.
 - [Mind Reading 2.0: How Others See You](sources/default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125-default-mp3-ywr3ahjkcgo-1dfa7e5aca191bd78c9a8028baf43cb1-50295125.md) — Hidden Brain and Erica Boothby connect the liking gap to private self-criticism, attention asymmetries, indirect signaling, curiosity, and expressed appreciation.
 - [The Benefits of Mixed Emotions](sources/default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474-default-mp3-ywr3ahjkcgo-e007dec59f9038e95683649a266d2a16-51811474.md) — Hidden Brain and Naomi Rothman connect emotional ambivalence to social penalties, advice-taking, creativity, cooperative problem-solving, and the promotion-performance paradox in leadership.
@@ -5261,6 +5262,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Topical Talk](entities/TopicalTalk.md) — Free current-affairs classroom programme teaching knowledge, AI scrutiny, communication, and respectful evidence-based disagreement.
+- [Economist Educational Foundation](entities/EconomistEducationalFoundation.md) — Independent education organization supplying Topical Talk resources and framing critical discussion as a response to misinformation and polarization.
 - [Kiku Sharda](entities/KikuSharda.md) — Indian actor connecting costume-led character embodiment, collaborative television comedy, and human performance under AI.
 - [Kapil Sharma](entities/KapilSharma.md) — Indian comedian and host represented as a central improvisational collaborator in ensemble television comedy.
 - [William Irvine](entities/WilliamIrvine.md) — Philosopher presenting Stoicism as practical training in control allocation, early reframing, manageable discomfort, and renewed appreciation.
@@ -19920,6 +19923,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Negotiated Security Guarantee Credibility](concepts/NegotiatedSecurityGuaranteeCredibility.md) — Four-gate test for whether a diplomatic security promise is deliverable, operationally specific, accepted, and durable.
+- [Divided Government Executive Constraint](concepts/DividedGovernmentExecutiveConstraint.md) — Uneven legislative checking of presidential power through funding, statutes, oversight, and bargaining while delegated executive discretion persists.
 - [Character Embodiment Through Costume](concepts/CharacterEmbodimentThroughCostume.md) — Acting method joining completed appearance and imagined biography to embodied character response.
 - [Stoic Control Allocation](concepts/StoicControlAllocation.md) — Three-part allocation of effort across chosen action, external fact, and mixed outcomes, with internal-goal and structural boundaries.
 - [Stoic Setback Reframing](concepts/StoicSetbackReframing.md) — Bounded early-response practices for limiting secondary anger and rumination without denying harm or needed care.

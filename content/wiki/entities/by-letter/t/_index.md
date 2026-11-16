@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14563
+wiki_total_pages: 14565
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "TopeAwotona"
     title: "Tope Awotona"
     url: "/wiki/entities/topeawotona/"
+  - key: "TopicalTalk"
+    title: "Topical Talk"
+    url: "/wiki/entities/topicaltalk/"
   - key: "ToriWelch"
     title: "Tori Welch"
     url: "/wiki/entities/toriwelch/"

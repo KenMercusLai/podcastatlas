@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3876
+topic_total_pages: 3878
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8756,6 +8756,9 @@ topic_entities:
   - key: "TopeAwotona"
     title: "Tope Awotona"
     url: "/wiki/entities/topeawotona/"
+  - key: "TopicalTalk"
+    title: "Topical Talk"
+    url: "/wiki/entities/topicaltalk/"
   - key: "TownPersonalAI"
     title: "Town Personal AI"
     url: "/wiki/entities/townpersonalai/"
@@ -10155,6 +10158,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
     title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
+  - key: "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916"
+    title: "Cede of doubt: a NATO offer to Ukraine"
+    url: "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
   - key: "tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128"
     title: "Centering humans in AI education might be key to innovation and research"
     url: "/wiki/sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3562
+topic_total_pages: 3565
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1336,6 +1336,9 @@ topic_concepts:
   - key: "DistributedTechnologyResponsibility"
     title: "Distributed Technology Responsibility / 分布式技术责任"
     url: "/wiki/concepts/distributedtechnologyresponsibility/"
+  - key: "DividedGovernmentExecutiveConstraint"
+    title: "Divided Government Executive Constraint"
+    url: "/wiki/concepts/dividedgovernmentexecutiveconstraint/"
   - key: "DivineAndCivicLaw"
     title: "Divine and Civic Law"
     url: "/wiki/concepts/divineandciviclaw/"
@@ -2947,6 +2950,9 @@ topic_concepts:
   - key: "NatureLawLegalJustice"
     title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
     url: "/wiki/concepts/naturelawlegaljustice/"
+  - key: "NegotiatedSecurityGuaranteeCredibility"
+    title: "Negotiated Security Guarantee Credibility"
+    url: "/wiki/concepts/negotiatedsecurityguaranteecredibility/"
   - key: "NestedCooperationGovernance"
     title: "Nested Cooperation Governance"
     url: "/wiki/concepts/nestedcooperationgovernance/"
@@ -9669,6 +9675,9 @@ topic_sources:
   - key: "cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba"
     title: "Cash test: can Europe support Ukraine alone?"
     url: "/wiki/sources/cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba/"
+  - key: "cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916"
+    title: "Cede of doubt: a NATO offer to Ukraine"
+    url: "/wiki/sources/cede-of-doubt-a-nato-offer-to-ukraine-6afae373b2404cde2fe7d916/"
   - key: "centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9"
     title: "Centre punch: Germany’s state-election shocker"
     url: "/wiki/sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9/"

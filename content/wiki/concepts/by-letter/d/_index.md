@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11556
+wiki_total_pages: 11558
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "DiversifiedHappinessPortfolio"
     title: "Diversified Happiness Portfolio"
     url: "/wiki/concepts/diversifiedhappinessportfolio/"
+  - key: "DividedGovernmentExecutiveConstraint"
+    title: "Divided Government Executive Constraint"
+    url: "/wiki/concepts/dividedgovernmentexecutiveconstraint/"
   - key: "DividendDiscountModel"
     title: "Dividend Discount Model"
     url: "/wiki/concepts/dividenddiscountmodel/"

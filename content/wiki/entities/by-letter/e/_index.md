@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14563
+wiki_total_pages: 14565
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "EcoFlow"
     title: "EcoFlow / 正浩"
     url: "/wiki/entities/ecoflow/"
+  - key: "EconomistEducationalFoundation"
+    title: "Economist Educational Foundation"
+    url: "/wiki/entities/economisteducationalfoundation/"
   - key: "EconomistPodcasts"
     title: "Economist Podcasts"
     url: "/wiki/entities/economistpodcasts/"
