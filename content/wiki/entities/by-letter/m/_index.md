@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14465
+wiki_total_pages: 14469
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "MattSchlicht"
     title: "Matt Schlicht"
     url: "/wiki/entities/mattschlicht/"
+  - key: "MattScogin"
+    title: "Matt Scogin"
+    url: "/wiki/entities/mattscogin/"
   - key: "MattSmith"
     title: "Matt Smith"
     url: "/wiki/entities/mattsmith/"
@@ -1628,6 +1631,9 @@ wiki_pages:
   - key: "MITBlueprintLabs"
     title: "MIT Blueprint Labs"
     url: "/wiki/entities/mitblueprintlabs/"
+  - key: "MitchAlbom"
+    title: "Mitch Albom"
+    url: "/wiki/entities/mitchalbom/"
   - key: "MitchMorando"
     title: "Mitch Morando"
     url: "/wiki/entities/mitchmorando/"

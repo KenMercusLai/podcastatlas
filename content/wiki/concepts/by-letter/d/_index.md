@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11459
+wiki_total_pages: 11461
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "DebtThresholdUncertainty"
     title: "Debt Threshold Uncertainty"
     url: "/wiki/concepts/debtthresholduncertainty/"
+  - key: "DebtConstrainedEducationAndCareerChoice"
+    title: "Debt-Constrained Education and Career Choice"
+    url: "/wiki/concepts/debtconstrainededucationandcareerchoice/"
   - key: "DebtFinancedSaaSRollupRisk"
     title: "Debt-Financed SaaS Rollup Risk"
     url: "/wiki/concepts/debtfinancedsaasrolluprisk/"

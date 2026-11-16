@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | A Good Circle: Hope College’s Radical Experiment in Generosity
+
+Added the [[RevisionistHistory]] episode on [[MattScogin]], [[HopeCollege]], and [[HopeForward]], creating focused profiles for Scogin, the college, the program, and [[MitchAlbom]], plus [[DebtConstrainedEducationAndCareerChoice]] and [[VoluntaryPayItForwardEducation]].
+
+Core synthesis: education finance affects not only access but also freedom to choose fields and work after graduation. Hope Forward removes tuition and legally enforceable repayment for participants, shifting uncertainty toward the college and donor community while relying on educational value, gratitude, belonging, and communal norms to motivate later support. Albom's Haitian orphanage broadens reciprocity from money to service and care, but nonmonetary circulation does not itself finance institutional operations.
+
+No settled contradiction was adopted. The small cohort, early academic comparison, roughly $55 million annual tuition figure, $1 billion transition estimate, church-shaped culture, Princeton analogy, and orphanage practices do not establish long-term financial sustainability or transferability to other institutions. Figures, dialogue, motives, and outcomes remain episode-scoped because the supplied file is a structured bilingual summary rather than a transcript, audited financing plan, longitudinal evaluation, or comparative higher-education study. Broad [[MalcolmGladwell]], Revisionist History, [[PrincetonUniversity]], and Waterloo pages and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening broad unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,089 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | Guns Part 3: A Shooting Lesson
 
 Added the [[RevisionistHistory]] episode in which [[GregWallace]] teaches [[MalcolmGladwell]] firearm mechanics and challenges feature-based assault-weapon bans, while [[JoshSugarman]] and the [[ViolencePolicyCenter]] defend the category's advocacy rationale. Created focused profiles for Wallace, Sugarman, and the organization, expanded [[BabakSarani]] from trauma timing to the episode-reported mass-shooting autopsy analysis, and resynthesized [[WeaponCategoryPolicyFraming]] and [[MultiInterventionGunViolencePrevention]] from their complete preserved evidence inventories before appending the new source once.
@@ -41052,6 +41062,10 @@ Core synthesis: sociometry made attraction, rejection, isolation, and possible t
 No settled contradiction was adopted. The possible identification of Fitzgerald as coded resident “GA,” her exact cottage, study participation, manner of departure, and some abuse details remain uncertain or attributed. Escape rates, resident and data totals, intervention effects, dialogue, and claims about researcher motive remain source-scoped because the supplied file is a structured summary rather than a transcript, institutional archive, sociometric dataset, investigative record, or controlled study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,088 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

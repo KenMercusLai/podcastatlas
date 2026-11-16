@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14465
+wiki_total_pages: 14469
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1016,6 +1016,12 @@ wiki_pages:
   - key: "HooverInstitution"
     title: "Hoover Institution"
     url: "/wiki/entities/hooverinstitution/"
+  - key: "HopeCollege"
+    title: "Hope College"
+    url: "/wiki/entities/hopecollege/"
+  - key: "HopeForward"
+    title: "Hope Forward"
+    url: "/wiki/entities/hopeforward/"
   - key: "HOPEVIProgram"
     title: "HOPE VI Program"
     url: "/wiki/entities/hopeviprogram/"

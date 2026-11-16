@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Good Circle: Hope College’s Radical Experiment in Generosity](sources/a-good-circle-a-good-circle.md) — Revisionist History tests Hope Forward’s tuition-free covenant against student choice, institutional risk, voluntary alumni giving, and service-based reciprocity.
 - [Acting Out](sources/acting-out.md) — Revisionist History connects Ella Fitzgerald's concealed confinement to the sociometric origins of social network analysis and the institutional racism its maps failed to explain.
 - [Taxonomy of the Modern Mystery Story](sources/taxonomy-of-the-modern-mystery-story.md) — Revisionist History classifies crime fiction by excellent, absent, incompetent, or corrupt authority and contrasts investigator-centered stories with consent-based policing and real evidentiary limits.
 - [Guns Part 1: The Sudden Celebrity of Sir John Knight](sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight.md) — Revisionist History reopens Sir John Knight's 1686 acquittal through contemporary newsletters and questions its use as a clean public-carry precedent in Bruen.
@@ -5213,6 +5214,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Matt Scogin](entities/MattScogin.md) — Hope College president who designed Hope Forward as a tuition-free covenant funded through later voluntary giving.
+- [Hope College](entities/HopeCollege.md) — Christian college carrying the transition and financing risk of the Hope Forward experiment.
+- [Hope Forward](entities/HopeForward.md) — Tuition-free program replacing prescribed repayment with a voluntary post-graduation giving covenant.
+- [Mitch Albom](entities/MitchAlbom.md) — Writer whose giving ethic and Haitian orphanage broaden pay-it-forward reciprocity from money to service and care.
 - [Ella Fitzgerald](entities/EllaFitzgerald.md) — American singer whose Apollo breakthrough followed an obscured period of confinement, segregation, forced labor, and reported abuse at Hudson.
 - [J. L. Moreno](entities/JacobLevyMoreno.md) — Psychiatrist and psychodrama pioneer whose Hudson collaboration helped establish sociometry while underrepresenting institutional coercion.
 - [Helen Hall Jennings](entities/HelenHallJennings.md) — Sociological researcher whose methodological rigor helped operationalize the Hudson relationship study.
@@ -19773,6 +19778,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Debt-Constrained Education and Career Choice](concepts/DebtConstrainedEducationAndCareerChoice.md) — How tuition and repayment pressure can narrow fields of study and post-graduation work.
+- [Voluntary Pay-It-Forward Education](concepts/VoluntaryPayItForwardEducation.md) — Tuition-free financing model that relies on freely chosen future giving or service rather than enforceable repayment.
 - [Sociometry](concepts/Sociometry.md) — Measurement and visualization of attraction, rejection, preference, and isolation within a group, bounded by what its relational variables omit.
 - [Measurement Without Institutional Context](concepts/MeasurementWithoutInstitutionalContext.md) — Scope error in treating a detailed relational or outcome model as sufficient explanation while omitting power, coercion, and material conditions.
 - [Crime-Fiction Authority Taxonomy](concepts/CrimeFictionAuthorityTaxonomy.md) — Four-role model distinguishing stories with excellent, absent, incompetent, or corrupt official authority while treating hybrids and causal media effects cautiously.

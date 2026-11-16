@@ -76727,6 +76727,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
     },
+    "DebtConstrainedEducationAndCareerChoice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Circle [A_Good_Circle].md",
+          "key": "a-good-circle-a-good-circle",
+          "show": "Revisionist History",
+          "title": "A Good Circle: Hope College’s Radical Experiment in Generosity",
+          "url": "/wiki/sources/a-good-circle-a-good-circle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/debtconstrainededucationandcareerchoice/"
+    },
     "DebtFinancedSaaSRollupRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -145813,6 +145829,38 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/honorswithoutofficesettlement/"
     },
+    "HopeCollege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Circle [A_Good_Circle].md",
+          "key": "a-good-circle-a-good-circle",
+          "show": "Revisionist History",
+          "title": "A Good Circle: Hope College’s Radical Experiment in Generosity",
+          "url": "/wiki/sources/a-good-circle-a-good-circle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/hopecollege/"
+    },
+    "HopeForward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Circle [A_Good_Circle].md",
+          "key": "a-good-circle-a-good-circle",
+          "show": "Revisionist History",
+          "title": "A Good Circle: Hope College’s Radical Experiment in Generosity",
+          "url": "/wiki/sources/a-good-circle-a-good-circle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/hopeforward/"
+    },
     "HopeIsTheThingWithFeathersBook": {
       "episode_count": 6,
       "show_count": 2,
@@ -206958,6 +207006,22 @@
       "updated": "2026-11-01",
       "url": "/wiki/entities/mattmills/"
     },
+    "MattScogin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Circle [A_Good_Circle].md",
+          "key": "a-good-circle-a-good-circle",
+          "show": "Revisionist History",
+          "title": "A Good Circle: Hope College’s Radical Experiment in Generosity",
+          "url": "/wiki/sources/a-good-circle-a-good-circle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mattscogin/"
+    },
     "MattWalsh": {
       "episode_count": 1,
       "show_count": 1,
@@ -215377,6 +215441,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/mistralai/"
+    },
+    "MitchAlbom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Circle [A_Good_Circle].md",
+          "key": "a-good-circle-a-good-circle",
+          "show": "Revisionist History",
+          "title": "A Good Circle: Hope College’s Radical Experiment in Generosity",
+          "url": "/wiki/sources/a-good-circle-a-good-circle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mitchalbom/"
     },
     "MitchZuckoff": {
       "episode_count": 1,
@@ -324617,6 +324697,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
+    },
+    "VoluntaryPayItForwardEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Circle [A_Good_Circle].md",
+          "key": "a-good-circle-a-good-circle",
+          "show": "Revisionist History",
+          "title": "A Good Circle: Hope College’s Radical Experiment in Generosity",
+          "url": "/wiki/sources/a-good-circle-a-good-circle/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/voluntarypayitforwardeducation/"
     },
     "VolunteerCareReciprocity": {
       "episode_count": 2,
