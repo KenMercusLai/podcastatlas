@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11536
+wiki_total_pages: 11539
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "PeripheralPlaceResentment"
     title: "Peripheral Place Resentment"
     url: "/wiki/concepts/peripheralplaceresentment/"
+  - key: "PermafrostCarbonFeedback"
+    title: "Permafrost Carbon Feedback"
+    url: "/wiki/concepts/permafrostcarbonfeedback/"
   - key: "PermanentCapitalCompounding"
     title: "Permanent Capital Compounding"
     url: "/wiki/concepts/permanentcapitalcompounding/"
@@ -2285,6 +2288,9 @@ wiki_pages:
   - key: "ProactiveObservability"
     title: "Proactive Observability"
     url: "/wiki/concepts/proactiveobservability/"
+  - key: "ProbabilisticForecastingDiscipline"
+    title: "Probabilistic Forecasting Discipline"
+    url: "/wiki/concepts/probabilisticforecastingdiscipline/"
   - key: "ProbabilisticSoftware"
     title: "Probabilistic Software"
     url: "/wiki/concepts/probabilisticsoftware/"

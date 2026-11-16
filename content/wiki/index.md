@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [You Don't Need a Crystal Ball](sources/default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597.md) — Hidden Brain connects warning reception, trusted messengers, permafrost risk, and Challenger to calibrated probabilistic forecasting.
 - [Healing Your Heart](sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559.md) — Hidden Brain and Lucy Hone distinguish involuntary grief reactions from response choices while qualifying stage scripts and supporting oscillation between loss and restoration.
 - [A Blockbuster-era law could define modern online privacy rules](sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128.md) — Marketplace Tech and Eric Goldman connect the VPPA's videotape-era categories to modern analytics, advertising, statutory damages, consent friction, and delegated AI-agent consent.
 - [How Rude!](sources/default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447-default-mp3-ywr3ahjkcgo-8882131d0ba7e008400b1e93ffbb365b-48943447.md) — Hidden Brain and Christine Porath connect incivility to cognitive impairment, trust loss, social transmission, feedback culture, and self-distancing recovery.
@@ -5252,6 +5253,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Philip Tetlock](entities/PhilipTetlock.md) — Psychologist presenting calibrated probability, base rates, updating, and longitudinal scoring as trainable forecasting practice.
+- [Andrew Natsios](entities/AndrewNatsios.md) — Former USAID administrator used as a case of evidence-backed, audience-aware warning about Darfur.
+- [Chris Hiemstra](entities/ChrisHiemstra.md) — Research scientist connecting Alaskan permafrost field observation to carbon feedback and warning difficulty.
+- [Cassandra (mythology)](entities/CassandraMythology.md) — Trojan prophet used to explain how clarity, authority, causal distance, and identity shape warning reception.
 - [Lucy Hone](entities/LucyHone.md) — Resilience researcher using personal bereavement to develop a non-prescriptive account of grief response agency.
 - [Robert Bork](entities/RobertBork.md) — Supreme Court nominee whose disclosed video-rental history prompted the 1988 Video Privacy Protection Act.
 - [Christine Porath](entities/ChristinePorath.md) — Behavioral scientist connecting incivility to attention, performance, trust, social transmission, and respectful workplace culture.
@@ -19892,6 +19897,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Warning Reception Framework](concepts/WarningReceptionFramework.md) — Framework separating warning accuracy from the social and institutional conditions that produce attention and action.
+- [Probabilistic Forecasting Discipline](concepts/ProbabilisticForecastingDiscipline.md) — Accountable forecasting through explicit probabilities, base rates, updating, calibration, and repeated scoring.
+- [Permafrost Carbon Feedback](concepts/PermafrostCarbonFeedback.md) — Warming feedback in which thaw enables decomposition and carbon release that can intensify further warming.
 - [Grief Response Agency](concepts/GriefResponseAgency.md) — Limited but meaningful choice over attention and action within largely involuntary grief reactions.
 - [Five-Stage Grief Model](concepts/FiveStageGriefModel.md) — Historically influential grief framework qualified as non-universal and non-prescriptive.
 - [Video Privacy Protection Act](concepts/VideoPrivacyProtectionAct.md) — 1988 video-record privacy statute now disputed as a remedy for website analytics and targeted-advertising disclosures.

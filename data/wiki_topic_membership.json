@@ -72751,6 +72751,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PermafrostCarbonFeedback": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PermanentCapitalCompounding": [
     {
       "key": "economics",
@@ -73197,6 +73204,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PhilipTetlock": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PhilipZimbardo": [
@@ -108275,6 +108289,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597": [
     {
       "key": "science",
       "label": "Science",

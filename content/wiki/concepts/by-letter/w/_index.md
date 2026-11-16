@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11536
+wiki_total_pages: 11539
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "WarmthCompetenceStereotype"
     title: "Warmth-Competence Stereotype / 热情-能力刻板印象"
     url: "/wiki/concepts/warmthcompetencestereotype/"
+  - key: "WarningReceptionFramework"
+    title: "Warning Reception Framework"
+    url: "/wiki/concepts/warningreceptionframework/"
   - key: "WarringStatesAllianceSwitching"
     title: "Warring States Alliance Switching / 战国同盟转向"
     url: "/wiki/concepts/warringstatesallianceswitching/"

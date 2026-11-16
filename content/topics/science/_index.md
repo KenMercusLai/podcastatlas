@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1683
+topic_total_pages: 1686
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1828,6 +1828,9 @@ topic_concepts:
   - key: "PerioperativeCircadianRecovery"
     title: "Perioperative Circadian Recovery"
     url: "/wiki/concepts/perioperativecircadianrecovery/"
+  - key: "PermafrostCarbonFeedback"
+    title: "Permafrost Carbon Feedback"
+    url: "/wiki/concepts/permafrostcarbonfeedback/"
   - key: "PersonalizedMolecularMedicine"
     title: "Personalized Molecular Medicine"
     url: "/wiki/concepts/personalizedmolecularmedicine/"
@@ -3488,6 +3491,9 @@ topic_entities:
   - key: "PhilipBall"
     title: "Philip Ball"
     url: "/wiki/entities/philipball/"
+  - key: "PhilipTetlock"
+    title: "Philip Tetlock"
+    url: "/wiki/entities/philiptetlock/"
   - key: "PhilipZimbardo"
     title: "Philip Zimbardo / 菲利普·津巴多"
     url: "/wiki/entities/philipzimbardo/"
@@ -4974,6 +4980,9 @@ topic_sources:
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"
+  - key: "default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597"
+    title: "You Don't Need a Crystal Ball"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597/"
   - key: "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410"
     title: "You've come a long way, Bibi: Israel's crucial election"
     url: "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"

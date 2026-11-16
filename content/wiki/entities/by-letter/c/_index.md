@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14544
+wiki_total_pages: 14548
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "CassSunstein"
     title: "Cass Sunstein"
     url: "/wiki/entities/casssunstein/"
+  - key: "CassandraMythology"
+    title: "Cassandra (mythology)"
+    url: "/wiki/entities/cassandramythology/"
   - key: "CassianAndor"
     title: "Cassian Andor"
     url: "/wiki/entities/cassianandor/"
@@ -1130,6 +1133,9 @@ wiki_pages:
   - key: "ChrisHarding"
     title: "Chris Harding"
     url: "/wiki/entities/chrisharding/"
+  - key: "ChrisHiemstra"
+    title: "Chris Hiemstra"
+    url: "/wiki/entities/chrishiemstra/"
   - key: "ChrisKane"
     title: "Chris Kane"
     url: "/wiki/entities/chriskane/"

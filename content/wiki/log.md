@@ -41614,3 +41614,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | You Don't Need a Crystal Ball
+
+Added a [[HiddenBrain]] episode separating forecast accuracy from warning effectiveness. Created [[WarningReceptionFramework]] from the contrast between [[CassandraMythology|Cassandra]] and [[AndrewNatsios]], and created [[ProbabilisticForecastingDiscipline]] from [[PhilipTetlock]]'s account of numerical probability, base rates, calibration, updating, and repeated scoring.
+
+Created source-bounded profiles for Tetlock, Natsios, [[ChrisHiemstra]], and Cassandra, plus [[PermafrostCarbonFeedback]] for the episode's slow planetary-warning case. Existing broad [[HiddenBrain]], [[NASA]], [[USAID]], and [[Darfur]] profiles remained closed because the focused pages capture the durable additions without reopening large or tangential evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+No settled contradiction was adopted. Insider status can improve warning access without proving truth; numerical precision can improve accountability while narrowing attention to scoreable questions; and the episode's permafrost quantities, Darfur totals, Challenger details, and tournament claims remain source-scoped pending primary evidence.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,127 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
