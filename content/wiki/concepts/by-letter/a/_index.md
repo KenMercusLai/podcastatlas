@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11432
+wiki_total_pages: 11436
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "AgingInPlaceSupportSystem"
     title: "Aging-In-Place Support System / 居家养老支持系统"
     url: "/wiki/concepts/aginginplacesupportsystem/"
+  - key: "AgriculturalLeverageAndWeatherShock"
+    title: "Agricultural Leverage and Weather Shock"
+    url: "/wiki/concepts/agriculturalleverageandweathershock/"
   - key: "AgriculturalPracticeAsTextualEntry"
     title: "Agricultural Practice As Textual Entry / 农业实践作为文本入场券"
     url: "/wiki/concepts/agriculturalpracticeastextualentry/"

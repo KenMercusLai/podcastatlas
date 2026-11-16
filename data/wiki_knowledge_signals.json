@@ -12399,6 +12399,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/agrarianlivelihoodbeforecurrencyreform/"
     },
+    "AgriculturalLeverageAndWeatherShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/agriculturalleverageandweathershock/"
+    },
     "AgriculturalPracticeAsTextualEntry": {
       "episode_count": 1,
       "show_count": 1,
@@ -20280,6 +20296,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/anneofdenmark/"
+    },
+    "AnneRohrbacher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/annerohrbacher/"
     },
     "AnnetteGordonReed": {
       "episode_count": 1,
@@ -106762,6 +106794,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/farmersmarketurbanism/"
     },
+    "FarmingAsUncertaintyPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/farmingasuncertaintypractice/"
+    },
     "FarmingWarStatecraft": {
       "episode_count": 7,
       "show_count": 1,
@@ -124123,6 +124171,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/georgerrmartin/"
+    },
+    "GeorgeRohrbacher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/georgerohrbacher/"
     },
     "GeorgeRomney": {
       "episode_count": 1,
@@ -192146,6 +192210,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/livelihoodfirstpacification/"
+    },
+    "LivelihoodSimulationGame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/livelihoodsimulationgame/"
     },
     "LiverCancerScreeningAndTreatment": {
       "episode_count": 1,
@@ -281643,6 +281723,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/sharedpaintechnologyboundary/"
     },
+    "SharedPlayAsSocialSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/sharedplayassocialsupport/"
+    },
     "SharedPoliticalLegitimacyVocabulary": {
       "episode_count": 1,
       "show_count": 1,
@@ -306526,6 +306622,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/thefarewellfilm/"
     },
+    "TheFarmingGame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/thefarminggame/"
+    },
     "TheFatherFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -328028,6 +328140,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/wedweilrefugeecamp/"
+    },
+    "WeekendFarmerCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Board_Game_Season [Board_Game_Season].md",
+          "key": "board-game-season-board-game-season",
+          "show": "Revisionist History",
+          "title": "Board Game Season",
+          "url": "/wiki/sources/board-game-season-board-game-season/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/weekendfarmercompany/"
     },
     "WeiAIFadian": {
       "episode_count": 2,

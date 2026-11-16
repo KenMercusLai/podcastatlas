@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11432
+wiki_total_pages: 11436
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "LivedFaithDiscernment"
     title: "Lived Faith Discernment / 信仰作为生活中的信任与辨认"
     url: "/wiki/concepts/livedfaithdiscernment/"
+  - key: "LivelihoodSimulationGame"
+    title: "Livelihood Simulation Game"
+    url: "/wiki/concepts/livelihoodsimulationgame/"
   - key: "LiverCancerScreeningAndTreatment"
     title: "Liver-Cancer Screening and Treatment Selection"
     url: "/wiki/concepts/livercancerscreeningandtreatment/"

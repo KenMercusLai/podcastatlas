@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Board Game Season](sources/board-game-season-board-game-season.md) — Revisionist History on how George and Anne Rohrbacher turned drought, debt, and the farm crisis into a livelihood simulation that saved their farm and supported rural conversation.
 - [The IT Revolution](sources/the-it-revolution-the-it-revolution.md) — Sponsored Revisionist History episode on private 5G, home care, clinical ambient documentation, employee-facing retail tools, staged deployment, and outcome-led CIO leadership.
 - [Revisionist History LIVE with Nate Berkus](sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus.md) — Malcolm Gladwell and Nate Berkus connect exploratory travel, craft sourcing, biographical design, and anti-trend longevity.
 - [Welcome to Development Hell](sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Malcolm Gladwell introduces Development Hell as a mini-series about unseen creative work, high-risk development, and the grief and value attached to unproduced films.
@@ -5193,6 +5194,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [George Rohrbacher](entities/GeorgeRohrbacher.md) — Farmer and game designer who converted the Breaks Ranch crisis into The Farming Game.
+- [Anne Rohrbacher](entities/AnneRohrbacher.md) — Farmer and operating partner who co-developed and commercialized The Farming Game.
+- [The Farming Game](entities/TheFarmingGame.md) — Board game modeling agricultural debt, credit, harvests, expenses, uncertainty, and bankruptcy.
+- [Weekend Farmer Company](entities/WeekendFarmerCompany.md) — Rohrbacher family company that manufactured and sold The Farming Game.
 - [Boston Children's Hospital](entities/BostonChildrensHospital.md) — Pediatric healthcare organization connecting patient access, home care, clinical connectivity, and ambient documentation.
 - [Tractor Supply Company](entities/TractorSupplyCompany.md) — Rural-lifestyle retailer joining employee product knowledge, customer service, AI experimentation, and staged deployment.
 - [Heather Nelson](entities/HeatherNelson.md) — Healthcare technology leader framing connectivity as clinical infrastructure and the CIO as a business and culture partner.
@@ -19701,6 +19706,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Agricultural Leverage and Weather Shock](concepts/AgriculturalLeverageAndWeatherShock.md) — Compound risk in which fixed expansion obligations persist while drought reduces the output and cash flow needed to service them.
+- [Livelihood Simulation Game](concepts/LivelihoodSimulationGame.md) — Rule-based model translating an occupation's assets, income, costs, uncertainty, and failure conditions into play.
+- [Shared Play as Social Support](concepts/SharedPlayAsSocialSupport.md) — Use of games to externalize adversity, create humor, and support repeated family or community contact.
+- [Farming as Uncertainty Practice](concepts/FarmingAsUncertaintyPractice.md) — Prepared, caring, and optimistic action under outcomes that remain partly uncontrollable.
 - [Clinical Ambient Documentation](concepts/ClinicalAmbientDocumentation.md) — AI-assisted encounter capture, summary, action extraction, and follow-up designed to reduce documentation friction while retaining verification and consent boundaries.
 - [Infrastructure Investment Outcome Framing](concepts/InfrastructureInvestmentOutcomeFraming.md) — Leadership practice that explains technical foundations through service failures, workflow dependencies, and measurable organizational outcomes.
 - [Exploratory Travel Serendipity](concepts/ExploratoryTravelSerendipity.md) — open-ended walking and local inquiry as a travel and creative discovery practice.

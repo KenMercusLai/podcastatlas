@@ -59540,6 +59540,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "LivelihoodSimulationGame": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Liverpool": [
     {
       "key": "culture",
@@ -92796,6 +92808,13 @@
     }
   ],
   "TheFarewellFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheFarmingGame": [
     {
       "key": "culture",
       "label": "Culture",

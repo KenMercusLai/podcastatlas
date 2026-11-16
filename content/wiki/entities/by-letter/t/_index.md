@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14414
+wiki_total_pages: 14418
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "TheFallOfGondolin"
     title: "The Fall of Gondolin"
     url: "/wiki/entities/thefallofgondolin/"
+  - key: "TheFarmingGame"
+    title: "The Farming Game"
+    url: "/wiki/entities/thefarminggame/"
   - key: "TheFlounder"
     title: "The Flounder / 《比目鱼》"
     url: "/wiki/entities/theflounder/"

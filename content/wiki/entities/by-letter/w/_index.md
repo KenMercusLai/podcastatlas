@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14414
+wiki_total_pages: 14418
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "Weebly"
     title: "Weebly"
     url: "/wiki/entities/weebly/"
+  - key: "WeekendFarmerCompany"
+    title: "Weekend Farmer Company"
+    url: "/wiki/entities/weekendfarmercompany/"
   - key: "WeiBaoWesternHan"
     title: "Wei Bao (Western Han) / 卫宝"
     url: "/wiki/entities/weibaowesternhan/"

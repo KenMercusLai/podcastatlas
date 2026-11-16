@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11432
+wiki_total_pages: 11436
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "FarmersMarketUrbanism"
     title: "Farmers Market Urbanism"
     url: "/wiki/concepts/farmersmarketurbanism/"
+  - key: "FarmingAsUncertaintyPractice"
+    title: "Farming as Uncertainty Practice"
+    url: "/wiki/concepts/farmingasuncertaintypractice/"
   - key: "FarmingWarStatecraft"
     title: "Farming-War Statecraft / 耕战逻辑"
     url: "/wiki/concepts/farmingwarstatecraft/"

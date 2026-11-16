@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2409
+topic_total_pages: 2410
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2077,6 +2077,9 @@ topic_concepts:
   - key: "LiteraryAgentMarketMaking"
     title: "Literary Agent Market Making"
     url: "/wiki/concepts/literaryagentmarketmaking/"
+  - key: "LivelihoodSimulationGame"
+    title: "Livelihood Simulation Game"
+    url: "/wiki/concepts/livelihoodsimulationgame/"
   - key: "LivestockCareEconomics"
     title: "Livestock Care Economics"
     url: "/wiki/concepts/livestockcareeconomics/"

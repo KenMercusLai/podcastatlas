@@ -40803,3 +40803,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Board Game Season
+
+Added a [[RevisionistHistory]] episode on [[GeorgeRohrbacher]], [[AnneRohrbacher]], [[TheFarmingGame]], and [[WeekendFarmerCompany]]. The source connects the 1970s expansion cycle, drought, leverage, and the early-1980s farm crisis to the design of a deliberately difficult agricultural simulation that helped preserve Breaks Ranch.
+
+Core synthesis: [[AgriculturalLeverageAndWeatherShock]] joins biological and balance-sheet exposure; [[LivelihoodSimulationGame]] explains how work becomes rules, consequences, and designed victory conditions; [[SharedPlayAsSocialSupport]] keeps the reported family and mental-health value qualified rather than treating a game as therapy; and [[FarmingAsUncertaintyPractice]] distinguishes preparation and care from control. No settled contradiction is adopted. The Paul Harvey broadcast, sales and classroom totals, policy causation, national farm-crisis statistics, mental-health effects, and personal outcomes remain unconfirmed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,070 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
