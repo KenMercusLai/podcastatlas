@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Unlocking Hidden Potential with Adam Grant
+
+Added the live [[RevisionistHistory]] conversation in which [[MalcolmGladwell]] interviews [[AdamGrant]] about [[HiddenPotential]], starting-ability bias, unseen practice, productive struggle, perfectionism, prestige, admissions, and values-based choice. Resynthesized Grant, the book, [[PotentialAsGrowthRate]], and [[PerfectionismAsAvoidance]] from their complete preserved evidence inventories before appending the new source once, and upgraded [[IvyLeagueMeritocracy]] to the synthesis-v1 contract.
+
+Core synthesis: visible starting ability is an incomplete estimate of future capability because opportunity, coaching, practice, feedback, environmental support, and obstacle-management skills remain partly hidden. Peak performance can look innate when practice history disappears, while easy early success can leave some learners unpracticed at mistakes. Perfectionism can also suppress growth by shifting effort toward mastered tasks, repeated restarts, minor errors, and rumination rather than difficult attempts. At the institutional level, legacy advantage conflicts with merit claims, individualized obstacles can reveal context that scores omit, and college choice should reflect values and desired life as well as prestige.
+
+No settled contradiction was adopted. Struggle is not inherently developmental, early success does not universally weaken resilience, and Grant's concern about affirmative-action stigma does not establish a general harmful effect or negate unequal access. Cultural comparisons, trend causes, personal recollections, admissions effects, applicant experiences, and reported dialogue remain source-scoped because the supplied file is a structured bilingual summary rather than a transcript, book, study set, or admissions dataset. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,077 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Healing 2.0: Disrupting Death
 
 Added the [[HiddenBrain]] episode following [[JustinHarrison]] and [[MelodyHarrison]] from terminal illness and cryonics planning into [[YouOnlyVirtual]] and its relationship-specific Versona. Created bounded profiles for Harrison, Melody, and the company, then resynthesized [[AIGriefBots]] and Hidden Brain from their complete preserved evidence inventories before appending the new source once.
@@ -40886,6 +40896,10 @@ Core synthesis: retained mineral rights preserved Osage value after dispossessio
 No settled contradiction with the existing wiki was adopted. The episode directly qualifies a narrow history in which Hale's conviction solved the murders. Exact victim totals, causes of unresolved deaths, dialogue, motives, family recollections, medical claims, and the full scope of official complicity remain source-scoped because the supplied file is a structured summary rather than a transcript, case archive, medical record, or comprehensive Osage history. The broad [[RevisionistHistory]], [[PoliticalResourceCurse]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic; the maximum-age gate triggered global compaction. Refreshed artifacts validate 5,076 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

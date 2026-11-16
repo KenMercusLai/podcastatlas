@@ -8917,9 +8917,9 @@
       "url": "/wiki/entities/adamgalinsky/"
     },
     "AdamGrant": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -8934,9 +8934,16 @@
           "show": "Revisionist History",
           "title": "Pals, Allies, and Companions: Malcolm Gladwell and Adam Grant Live",
           "url": "/wiki/sources/pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada/"
+        },
+        {
+          "episode_file": "Unlocking_Hidden_Potential_with_Adam_Grant [Unlocking_Hidden_Potential_with_Adam_Grant].md",
+          "key": "unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant",
+          "show": "Revisionist History",
+          "title": "Unlocking Hidden Potential with Adam Grant",
+          "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamHamilton": {
@@ -141755,9 +141762,9 @@
       "url": "/wiki/concepts/hiddenhearingloss/"
     },
     "HiddenPotential": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -141765,9 +141772,16 @@
           "show": "Huberman Lab",
           "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
           "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+        },
+        {
+          "episode_file": "Unlocking_Hidden_Potential_with_Adam_Grant [Unlocking_Hidden_Potential_with_Adam_Grant].md",
+          "key": "unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant",
+          "show": "Revisionist History",
+          "title": "Unlocking Hidden Potential with Adam Grant",
+          "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/hiddenpotential/"
     },
     "HierarchicalPluralismAlAndalus": {
@@ -162438,6 +162452,29 @@
       ],
       "updated": "2026-11-14",
       "url": "/wiki/entities/ivonescimab/"
+    },
+    "IvyLeagueMeritocracy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "160.优秀的绵羊：请把说“不”的权利还给我 [933088014].md",
+          "key": "160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014",
+          "show": "蜜獾吃书",
+          "title": "160.优秀的绵羊：请把说“不”的权利还给我",
+          "url": "/wiki/sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014/"
+        },
+        {
+          "episode_file": "Unlocking_Hidden_Potential_with_Adam_Grant [Unlocking_Hidden_Potential_with_Adam_Grant].md",
+          "key": "unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant",
+          "show": "Revisionist History",
+          "title": "Unlocking Hidden Potential with Adam Grant",
+          "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/ivyleaguemeritocracy/"
     },
     "JAndTExpress": {
       "episode_count": 1,
@@ -240177,9 +240214,9 @@
       "url": "/wiki/concepts/perfectvictimcredibilitystandard/"
     },
     "PerfectionismAsAvoidance": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "129.如何成为真正的不完美主义者，浑身是劲儿！ [799220151].md",
@@ -240201,9 +240238,16 @@
           "show": "Huberman Lab",
           "title": "How to Overcome Inner Resistance | Steven Pressfield",
           "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
+        },
+        {
+          "episode_file": "Unlocking_Hidden_Potential_with_Adam_Grant [Unlocking_Hidden_Potential_with_Adam_Grant].md",
+          "key": "unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant",
+          "show": "Revisionist History",
+          "title": "Unlocking Hidden Potential with Adam Grant",
+          "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/perfectionismasavoidance/"
     },
     "PerformanceAdvertisingLearningLoop": {
@@ -249482,9 +249526,9 @@
       "url": "/wiki/concepts/postwarteenageconsumermarket/"
     },
     "PotentialAsGrowthRate": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -249492,9 +249536,16 @@
           "show": "Huberman Lab",
           "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
           "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+        },
+        {
+          "episode_file": "Unlocking_Hidden_Potential_with_Adam_Grant [Unlocking_Hidden_Potential_with_Adam_Grant].md",
+          "key": "unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant",
+          "show": "Revisionist History",
+          "title": "Unlocking Hidden Potential with Adam Grant",
+          "url": "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/potentialasgrowthrate/"
     },
     "PovertyMemoryCorruptionExcuse": {

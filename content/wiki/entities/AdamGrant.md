@@ -5,26 +5,27 @@ tags: [person, organizational-psychology, author, motivation]
 sources:
   - how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142
   - pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada
-last_updated: 2026-11-15
+  - unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant
+last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
 
 # Adam Grant
 
 ## Overview
-Adam Grant is an organizational psychologist, Wharton professor, and author interviewed by [[AndrewHuberman]] about motivation, creativity, feedback, rethinking, character skills, and [[HiddenPotential]], and by [[MalcolmGladwell]] about relationships, compatibility, and [[VibeAdamGrantBook|Vibe]].
+Adam Grant is an organizational psychologist, Wharton professor, and author interviewed by [[AndrewHuberman]] about motivation, creativity, feedback, rethinking, and character skills, and by [[MalcolmGladwell]] about [[HiddenPotential]], educational judgment, relationships, compatibility, and [[VibeAdamGrantBook|Vibe]].
 
 ## Current Profile
 Grant's practical psychology repeatedly separates useful mechanisms from broad labels. Delay can be incubation or costly procrastination; rewards can raise output or crowd out autonomy; authenticity can express values or excuse impulsiveness; and a relationship called friendship can function through goals, play, support, or transaction. His organizing concern is how people and institutions create conditions in which learning and connection remain possible.
 
-His method combines research summaries, personal experiments, memorable prompts, and usable distinctions. He recommends asking for advice rather than generic feedback, scoring how well criticism is received, treating opinions as hypotheses, and calibrating standards by task importance. In the relationship discussion, he treats compatibility as an interaction dynamic, role expectations as negotiable, compassion as separable from emotional over-identification, and shared activity as support for connection.
+His method combines research summaries, personal experiments, memorable prompts, and usable distinctions. He recommends asking for advice rather than generic feedback, scoring how well criticism is received, treating opinions as hypotheses, and calibrating standards by task importance. In the *Hidden Potential* live discussion, his remedial-writing, public-speaking, and diving stories illustrate how early judgment and perfectionism can conceal growth; in the relationship discussion, he treats compatibility as an interaction dynamic, role expectations as negotiable, compassion as separable from emotional over-identification, and shared activity as support for connection.
 
 ## Key Characteristics
 - Reframes motivation and performance as interactions among person, task, incentives, and environment.
 - Treats curiosity, purpose, autonomy, meaningful contribution, and shared activity as distinct routes into action or connection.
 - Favors future-oriented advice and multiple independent evaluators over identity-level judgment.
 - Uses [[ScientistModeThinking]] to make revision, disagreement, and failed experiments compatible with confidence.
-- Defines potential through growth under challenge rather than initial ability.
+- Defines potential through growth under challenge rather than initial ability and separates status achievement from success grounded in character, meaning, and values.
 - Promotes imperfectionism as selective allocation of excellence, not indifference to quality.
 - Classifies relationships by shared purpose and treats those roles as fluid rather than hierarchical.
 
@@ -32,14 +33,16 @@ His method combines research summaries, personal experiments, memorable prompts,
 - Motivation and creativity - [[how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142]] presents Grant's accounts of bounded delay, incubation, curiosity gaps, purpose, incentives, flow, and attention fragmentation.
 - Feedback and rethinking - [[how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142]] describes advice seeking, the "second score," reflected-best-self stories, and scientist mode.
 - Development and character - [[how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142]] links scaffolding, job crafting, discomfort, sponge-like learning, and imperfectionism to hidden potential.
+- Starting ability and perfectionism - [[unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant]] uses Grant's writing, speaking, and diving experiences to connect hidden potential with unseen practice, productive struggle, and the costs of flawless standards.
+- Education and values - [[unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant]] critiques prestige-centered parenting and inherited advantage while keeping college choice dependent on individual obstacles, evidence, goals, and values.
 - Relationship roles and expectations - [[pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada]] presents allies, pals, companions, and associates as fluid purposes whose mismatch can create distrust.
 - Compatibility and connection - [[pals-allies-and-companions-malcolm-gladwell-and-adam-grant-live-pals-allies-and-companions-malcolm-gladwell-and-ada]] reports the limits of profile prediction and uses varied situations, games, tasks, and rituals as ways to reveal or build connection.
 
 ## Qualifications
-This profile is bounded to two long-form conversations and their structured summaries. Research examples are reported conversationally without full methods, and Grant's personal routines, diving experience, relationship categories, or gathering preferences should not be treated as universal causal evidence. The page describes his arguments in the sources rather than a complete academic biography or independent evaluation of his publications.
+This profile is bounded to three long-form conversations and their structured summaries. Research examples are reported conversationally without full methods, and Grant's personal routines, writing assessment, diving experience, relationship categories, admissions arguments, or gathering preferences should not be treated as universal causal evidence. The page describes his arguments in the sources rather than a complete academic biography or independent evaluation of his publications.
 
 ## What Changed
-- Added relationship-purpose, built-compatibility, compassionate-distance, and structured-connection themes from the *Vibe* conversation.
+- Added the live *Hidden Potential* account of early judgment, unseen practice, perfectionist undertraining, prestige pressure, and values-based choice.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer who connects Grant's psychology claims to attention, arousal, and practical routines.
@@ -52,3 +55,4 @@ This profile is bounded to two long-form conversations and their structured summ
 - [[VibeAdamGrantBook|Vibe]] - book organizing Grant's relationship-purpose and connection framework.
 - [[AlliesPalsCompanionsFramework]] - relationship vocabulary he presents.
 - [[CompatibilityAsInteractionDynamic]] - his claim that pair dynamics are built and sampled across situations.
+- [[IvyLeagueMeritocracy]] - adjacent institutional frame for his critique of inherited advantage and prestige-centered evaluation.

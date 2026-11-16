@@ -5199,6 +5199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
 - [This Is Your Captain Speaking](sources/this-is-your-captain-speaking.md) — Revisionist History episode on pilot voice, professional speech convergence, passenger reassurance, stereotype, and crisis judgment.
 - [The Bear Was Poked With Maria Konnikova](sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova.md) — Revisionist History listener audit connecting weapon-category framing, trauma-care inequality, visibility-driven urgency, and portfolio gun-violence prevention.
+- [Unlocking Hidden Potential with Adam Grant](sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant.md) — Revisionist History live conversation on developmental potential, hidden practice, perfectionist undertraining, prestige, admissions, and values-based choice.
 
 ## Entities
 - [Osage Nation](entities/OsageNation.md) — Indigenous nation whose retained mineral rights brought wealth, predation, community trauma, and continuing claims for accountability.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1669
+topic_total_pages: 1670
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4872,6 +4872,9 @@ topic_sources:
   - key: "scim4448895120-scim4448895120"
     title: "Understanding Your Brain's Logic & Function | Dr. David Berson"
     url: "/wiki/sources/scim4448895120-scim4448895120/"
+  - key: "unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant"
+    title: "Unlocking Hidden Potential with Adam Grant"
+    url: "/wiki/sources/unlocking-hidden-potential-with-adam-grant-unlocking-hidden-potential-with-adam-grant/"
   - key: "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904"
     title: "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe"
     url: "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
