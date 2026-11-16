@@ -64719,6 +64719,10 @@
     "title": "Messalina",
     "url": "/wiki/entities/messalina/"
   },
+  "MessengerBasedEvidenceDiscounting": {
+    "title": "Messenger-Based Evidence Discounting",
+    "url": "/wiki/concepts/messengerbasedevidencediscounting/"
+  },
   "Meta": {
     "title": "Meta",
     "url": "/wiki/entities/meta/"
@@ -73031,6 +73035,10 @@
     "title": "Paul Lay",
     "url": "/wiki/entities/paullay/"
   },
+  "PaulMadden": {
+    "title": "Paul Madden",
+    "url": "/wiki/entities/paulmadden/"
+  },
   "PaulMcCartney": {
     "title": "Paul McCartney",
     "url": "/wiki/entities/paulmccartney/"
@@ -78186,6 +78194,10 @@
   "PurchaserEndUserSplit": {
     "title": "Purchaser-End-User Split",
     "url": "/wiki/concepts/purchaserendusersplit/"
+  },
+  "PurduePharma": {
+    "title": "Purdue Pharma",
+    "url": "/wiki/entities/purduepharma/"
   },
   "PureFitness": {
     "title": "Pure Fitness / Pure",
@@ -87162,6 +87174,10 @@
   "SidneyPaget": {
     "title": "Sidney Paget",
     "url": "/wiki/entities/sidneypaget/"
+  },
+  "SidneyWolfe": {
+    "title": "Sidney Wolfe",
+    "url": "/wiki/entities/sidneywolfe/"
   },
   "SiegeEconomyStrategy": {
     "title": "Siege Economy Strategy",
@@ -96518,6 +96534,10 @@
   "Triplebyte": {
     "title": "Triplebyte",
     "url": "/wiki/entities/triplebyte/"
+  },
+  "TriplicatePrescriptionMonitoring": {
+    "title": "Triplicate Prescription Monitoring",
+    "url": "/wiki/concepts/triplicateprescriptionmonitoring/"
   },
   "TrippScribd": {
     "title": "Tripp (Scribd Co-Founder)",
@@ -113338,6 +113358,10 @@
   "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e": {
     "title": "In it to bin it: Nigel Farage v Count Binface",
     "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+  },
+  "in-triplicate": {
+    "title": "In Triplicate",
+    "url": "/wiki/sources/in-triplicate/"
   },
   "inbound-marketing-that-grew-a-fintech-saas-to-100m": {
     "title": "Inbound Marketing That Grew a Fintech SaaS to $100M",

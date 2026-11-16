@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [In Triplicate](sources/in-triplicate.md) — Revisionist History connects triplicate prescription monitoring, Purdue's launch strategy, opioid outcomes, ignored warnings, and messenger-based evidence discounting.
 - [Good Culture: How Jesse Merrill Made Cottage Cheese Cool](sources/vmp7035807570-vmp7035807570.md) — How I Built This case on reviving cottage cheese through product, packaging, retail velocity, creator preparation, and manufacturing scale.
 - [Star Struck](sources/star-struck.md) — Revisionist History connects Margaret Mitchell’s death, a deleted A Star Is Born collision, and “accident” language to the delayed recognition of drunk-driving responsibility.
 - [When Will Met Grace](sources/when-will-met-grace-when-will-met-grace.md) — Revisionist History uses Will & Grace to examine how broadcast compromise, mass reach, LGBTQ+ normalization, and streaming fragmentation interact.
@@ -5240,6 +5241,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Sidney Wolfe](entities/SidneyWolfe.md) — Physician and consumer advocate who sought national prescription monitoring before OxyContin's launch.
+- [Paul Madden](entities/PaulMadden.md) — California regulator credited with designing the serialized triplicate prescription system.
+- [Purdue Pharma](entities/PurduePharma.md) — OxyContin manufacturer whose research and launch geography exposed the deterrent effect of triplicate rules.
 - [Good Culture](entities/GoodCulture.md) — Cottage-cheese brand combining category revival, retail execution, creator readiness, and constrained dairy capacity.
 - [Jesse Merrill](entities/JesseMerrill.md) — Good Culture co-founder and CEO whose experiential-marketing background became a retail and supply operating system.
 - [Anders Eisner](entities/AndersEisner.md) — Good Culture co-founder and board chair who supplied initial capital and shared the early retailer-validation test.
@@ -19860,6 +19864,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Triplicate Prescription Monitoring](concepts/TriplicatePrescriptionMonitoring.md) — Serialized three-location controlled-prescription records that make oversight auditable and behaviorally salient.
+- [Messenger-Based Evidence Discounting](concepts/MessengerBasedEvidenceDiscounting.md) — Error of substituting judgment of an advocate's style for examination of the advocate's evidence.
 - [Category Revival](concepts/CategoryRevival.md) — Renewal of a familiar but declining category through product repair, clearer meaning, new use occasions, retail proof, and supply readiness.
 - [Prepared Virality](concepts/PreparedVirality.md) — Product, creator, distribution, brand, and operating groundwork that improves conversion of an unpredictable attention event.
 - [Accident Framing and Responsibility](concepts/AccidentFramingAndResponsibility.md) — Distinction between an unintended outcome and the foreseeable choices and institutional tolerance preceding it.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14524
+wiki_total_pages: 14527
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "PaulLay"
     title: "Paul Lay"
     url: "/wiki/entities/paullay/"
+  - key: "PaulMadden"
+    title: "Paul Madden"
+    url: "/wiki/entities/paulmadden/"
   - key: "PaulMcCartney"
     title: "Paul McCartney"
     url: "/wiki/entities/paulmccartney/"
@@ -1229,6 +1232,9 @@ wiki_pages:
   - key: "PunkyDuck"
     title: "Punky Duck"
     url: "/wiki/entities/punkyduck/"
+  - key: "PurduePharma"
+    title: "Purdue Pharma"
+    url: "/wiki/entities/purduepharma/"
   - key: "PureFitness"
     title: "Pure Fitness / Pure"
     url: "/wiki/entities/purefitness/"

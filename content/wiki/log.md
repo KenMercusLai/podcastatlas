@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | In Triplicate
+
+Added the [[RevisionistHistory]] episode tracing [[TriplicatePrescriptionMonitoring]] from [[PaulMadden]]'s California system through [[SidneyWolfe]]'s unsuccessful national campaign and [[PurduePharma]]'s OxyContin launch strategy. Created focused profiles for Madden, Wolfe, and Purdue plus [[MessengerBasedEvidenceDiscounting]], then resynthesized [[InstitutionalInnovationAdoptionResistance]] and [[PublicIntellectualErrorCorrection]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: serialized records can influence conduct before enforcement by making oversight visible at the prescribing decision. Purdue's reported focus groups and avoidance of triplicate states support the mechanism, while later state comparisons associate the rules with lower OxyContin use and slower overdose-death growth. The failure to nationalize the approach joined industry incentives, professional autonomy, pain-treatment concerns, administrative burden, and reputational dismissal of Wolfe; Gladwell's apology extends public correction from retracting a published claim to owning a warning he failed to investigate.
+
+No settled contradiction was adopted. State selection, enforcement, prescribing culture, pain access, drug substitution, and other policy differences qualify the natural-experiment claim; economic, birth, crime, mortality, prescription, physician-response, and counterfactual journalism claims remain source-scoped. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and [[WashingtonPost]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,115 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Good Culture: How Jesse Merrill Made Cottage Cheese Cool
 
 Added the [[HowIBuiltThis]] founder story of [[JesseMerrill]], [[AndersEisner]], and [[GoodCulture]]. Created the three focused profiles plus [[CategoryRevival]] and [[PreparedVirality]], resynthesized [[SalesVelocity]] into `synthesis-v1`, and updated [[CPGManufacturingScaleUp]] from its complete preserved evidence inventory before appending the new source once.
@@ -41426,6 +41436,10 @@ No settled contradiction was adopted. The new account of Mitchell's death does n
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,113 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

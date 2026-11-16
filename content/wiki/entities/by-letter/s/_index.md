@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14524
+wiki_total_pages: 14527
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "SidneyPaget"
     title: "Sidney Paget"
     url: "/wiki/entities/sidneypaget/"
+  - key: "SidneyWolfe"
+    title: "Sidney Wolfe"
+    url: "/wiki/entities/sidneywolfe/"
   - key: "SiegeOfKhartoum"
     title: "Siege of Khartoum"
     url: "/wiki/entities/siegeofkhartoum/"

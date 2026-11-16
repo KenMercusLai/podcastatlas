@@ -95744,6 +95744,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "TriplicatePrescriptionMonitoring": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TrippScribd": [
     {
       "key": "economics",
@@ -111309,6 +111316,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "in-triplicate": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1": [

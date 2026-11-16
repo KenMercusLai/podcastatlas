@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11509
+wiki_total_pages: 11511
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "MermaidFreediving"
     title: "Mermaid Freediving / 美人鱼潜水"
     url: "/wiki/concepts/mermaidfreediving/"
+  - key: "MessengerBasedEvidenceDiscounting"
+    title: "Messenger-Based Evidence Discounting"
+    url: "/wiki/concepts/messengerbasedevidencediscounting/"
   - key: "MetaAwarenessResponseSpace"
     title: "Meta-Awareness Response Space"
     url: "/wiki/concepts/metaawarenessresponsespace/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3553
+topic_total_pages: 3555
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4609,6 +4609,9 @@ topic_concepts:
   - key: "TripartiteBalanceStrategy"
     title: "Tripartite Balance Strategy / 三分天下式制衡"
     url: "/wiki/concepts/tripartitebalancestrategy/"
+  - key: "TriplicatePrescriptionMonitoring"
+    title: "Triplicate Prescription Monitoring"
+    url: "/wiki/concepts/triplicateprescriptionmonitoring/"
   - key: "TrumpAccounts"
     title: "Trump Accounts"
     url: "/wiki/concepts/trumpaccounts/"
@@ -9804,6 +9807,9 @@ topic_sources:
   - key: "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e"
     title: "In it to bin it: Nigel Farage v Count Binface"
     url: "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+  - key: "in-triplicate"
+    title: "In Triplicate"
+    url: "/wiki/sources/in-triplicate/"
   - key: "indy-johar-civilizational-optioneering-tyeyt7r-zfu"
     title: "Indy Johar: Civilizational Optioneering"
     url: "/wiki/sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu/"

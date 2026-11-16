@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11509
+wiki_total_pages: 11511
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "TripartiteBalanceStrategy"
     title: "Tripartite Balance Strategy / 三分天下式制衡"
     url: "/wiki/concepts/tripartitebalancestrategy/"
+  - key: "TriplicatePrescriptionMonitoring"
+    title: "Triplicate Prescription Monitoring"
+    url: "/wiki/concepts/triplicateprescriptionmonitoring/"
   - key: "TrojanWarCulturalAfterlife"
     title: "Trojan War Cultural Afterlife"
     url: "/wiki/concepts/trojanwarculturalafterlife/"
