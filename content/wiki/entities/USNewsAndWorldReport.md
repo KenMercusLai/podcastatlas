@@ -6,6 +6,7 @@ sources:
   - tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128
   - the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion
   - project-dillard-project-dillard
+  - lord-of-the-rankings-lord-of-the-rankings
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ On the producer side, colleges submit consequential data about class size, facul
 
 A distinct problem is construct validity. Even correctly reported measures can produce [[CollegeRankingPrivilege]] when wealth, spending, selectivity, completion, test scores, and peer reputation repeatedly reward institutional and student advantage. A simulation suggests that [[DillardUniversity]] could climb sharply by changing finances and student composition without demonstrating better teaching. The issue is therefore both data integrity and whether the selected measures represent educational contribution. [[project-dillard-project-dillard]]
 
+The ranking's commercial origin, opacity, and reputational loop add a third institutional problem. A [[ReedCollege]] class led by [[KellyMcConville]] reportedly reconstructed the ranking closely from public data, yet Reed's published 2019 position remained an exceptional mismatch. The same analysis identifies peer assessment as highly influential, while administrator interviews show that raters may know little about many schools. U.S. News's use of a trimmed mean can limit isolated strategic extremes but does not resolve shared dependence on prior status, familiarity, or publicity. [[lord-of-the-rankings-lord-of-the-rankings]]
+
 ## Key Characteristics
 
 - Makes college comparisons salient to applicants, institutions, and AI-assisted search.
@@ -32,6 +35,7 @@ A distinct problem is construct validity. Even correctly reported measures can p
 - Can revise an outcome after reanalysis, although correction does not by itself resolve responsibility for the original data.
 - Uses several measures associated with institutional wealth, student preparation, and uninterrupted completion.
 - Creates incentives that may conflict with access-oriented institutional missions.
+- Converts administrator reputation judgments into a powerful quantitative input despite uneven knowledge of rated schools.
 
 ## Evidence
 
@@ -40,15 +44,18 @@ A distinct problem is construct validity. Even correctly reported measures can p
 - Post-challenge revision: [[the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion]] says U.S. News reanalyzed Columbia's data and demoted it to 18th.
 - Construct validity: [[project-dillard-project-dillard]] reports a Dillard simulation in which finance, test scores, ratios, and faculty resources transform rank without a demonstrated teaching change.
 - Access incentives: [[project-dillard-project-dillard]] argues that rewarding selectivity and completion can favor colleges serving already advantaged students and penalize an institution for widening access.
+- External reconstruction: [[lord-of-the-rankings-lord-of-the-rankings]] reports close model fit for most institutions but a 90th-versus-around-36th mismatch for Reed in 2019.
+- Reputation mechanism: [[lord-of-the-rankings-lord-of-the-rankings]] reports strong modeled influence for peer assessment and administrator admissions of limited knowledge.
 
 ## Qualifications
 
-The sources do not provide U.S. News's complete current methodology, audit process, institutional contracts, response, or full history. The Columbia and Dillard accounts come from structured episode summaries, while the AI-search account shows ranker visibility rather than proving how any specific model sources or weights U.S. News data. Resources and completion can matter to students; the critique is that raw, correlated inputs do not by themselves establish causal teaching quality, fit, or value added.
+The sources do not provide U.S. News's complete current methodology, audit process, institutional contracts, response, or full history. The Columbia, Dillard, and Reed accounts come from structured episode summaries, while the AI-search account shows ranker visibility rather than proving how any specific model sources or weights U.S. News data. Reed's mismatch is evidence demanding explanation, not proof of retaliation or a hidden adjustment. Resources, completion, and informed professional reputation can matter to students; the critique is that opaque, correlated, or weakly informed inputs do not by themselves establish causal teaching quality, fit, or value added.
 
 ## What Changed
 
 - Added the distinction between accurate inputs and valid measures of educational contribution.
 - Added access-versus-selectivity conflict and repeated wealth signals to the ranking profile.
+- Added the reconstructed-model anomaly and peer-assessment feedback mechanism.
 
 ## Relationships
 
@@ -60,3 +67,6 @@ The sources do not provide U.S. News's complete current methodology, audit proce
 - [[InstitutionalRankingDataIntegrity]] - standard for traceable and correctable ranking inputs.
 - [[DillardUniversity]] - access-oriented institution used to test what the ranking rewards.
 - [[CollegeRankingPrivilege]] - mechanism through which wealth and student advantage can recur as apparent quality.
+- [[ReedCollege]] - institution whose published result was the reconstruction's exceptional mismatch.
+- [[KellyMcConville]] - professor who led the public-data reconstruction.
+- [[InstitutionalReputationFeedbackLoop]] - mechanism through which prior status and visibility can reproduce quantified reputation.

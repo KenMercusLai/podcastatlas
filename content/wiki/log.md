@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Lord of the Rankings
+
+Added the [[RevisionistHistory]] episode that traces the commercial origin of the [[USNewsAndWorldReport|U.S. News and World Report]] college ranking and uses [[ReedCollege]]'s public-data reconstruction to test its hidden weighted model. Created focused synthesis-first pages for Reed, statistician [[KellyMcConville]], and [[InstitutionalReputationFeedbackLoop]], then resynthesized U.S. News, [[DillardUniversity]], [[WalterKimbrough]], and [[CollegeRankingPrivilege]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: peer assessment can transform sparse administrator knowledge, inherited prestige, previous ranks, familiarity, and publicity into a powerful quantitative input that then reproduces institutional visibility and status. Reed's reported 2019 mismatch—90th in the published ranking versus around 36th in the reconstruction—demands explanation but does not prove retaliation, while higher HBCU bond spreads supply a separate material example of racialized reputation rather than direct causal evidence about rankings.
+
+No settled contradiction was adopted. Trimmed averaging can reduce isolated strategic extremes but cannot by itself remove shared ignorance or correlated bias; professional reputation can contain genuine distributed knowledge; and the ranking model, prediction intervals, survey data, bond regressions, administrator knowledge, motives, and dialogue remain source-scoped because the supplied file is a structured summary without underlying datasets, methods, instruments, or a full transcript. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving four pending ingests; refreshed artifacts validate 5,165 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | Project Dillard
 
 Added a [[RevisionistHistory]] episode in which [[MalcolmGladwell]] and [[WalterKimbrough]] use [[DillardUniversity]] to test what college rankings actually reward. Created focused synthesis-first pages for Dillard, Kimbrough, and [[CollegeRankingPrivilege]], then resynthesized [[USNewsAndWorldReport|U.S. News and World Report]], [[IvyLeagueMeritocracy]], and [[PotentialAsGrowthRate]] from their complete preserved evidence inventories before appending the new source once.
@@ -42124,6 +42134,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] ingest | You, But Better
 
 Added a Hidden Brain source on Katy Milkman's obstacle-matched behavior-change framework. Created canonical pages for Milkman, Dan Ariely, present bias, temptation bundling, the fresh start effect, and behavior change obstacle matching; extended goal-pursuit design, choice architecture, and Ulysses contracts with the new bounded evidence.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

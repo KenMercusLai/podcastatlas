@@ -61719,9 +61719,9 @@
       "url": "/wiki/concepts/collegelogolicensingmerchandise/"
     },
     "CollegeRankingPrivilege": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Project_Dillard [Project_Dillard].md",
@@ -61729,6 +61729,13 @@
           "show": "Revisionist History",
           "title": "Project Dillard",
           "url": "/wiki/sources/project-dillard-project-dillard/"
+        },
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
         }
       ],
       "updated": "2026-11-17",
@@ -83183,9 +83190,9 @@
       "url": "/wiki/concepts/dilemmaactions/"
     },
     "DillardUniversity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Project_Dillard [Project_Dillard].md",
@@ -83193,6 +83200,13 @@
           "show": "Revisionist History",
           "title": "Project Dillard",
           "url": "/wiki/sources/project-dillard-project-dillard/"
+        },
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
         }
       ],
       "updated": "2026-11-17",
@@ -160880,6 +160894,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/institutionalreformaspowerreallocation/"
     },
+    "InstitutionalReputationFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/institutionalreputationfeedbackloop/"
+    },
     "InstitutionalTitleTranslation": {
       "episode_count": 1,
       "show_count": 1,
@@ -177942,6 +177972,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/kellylambert/"
+    },
+    "KellyMcConville": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/kellymcconville/"
     },
     "KellyStarrett": {
       "episode_count": 1,
@@ -267293,6 +267339,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/redlandsdrugcase/"
     },
+    "ReedCollege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/reedcollege/"
+    },
     "ReedMontague": {
       "episode_count": 1,
       "show_count": 1,
@@ -324138,9 +324200,9 @@
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
     },
     "USNewsAndWorldReport": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260225_0225_MP_TECH_pod_128 [tech_20260225_0225_MP_TECH_pod_128].md",
@@ -324162,6 +324224,13 @@
           "show": "Revisionist History",
           "title": "Project Dillard",
           "url": "/wiki/sources/project-dillard-project-dillard/"
+        },
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
         }
       ],
       "updated": "2026-11-17",
@@ -331023,9 +331092,9 @@
       "url": "/wiki/entities/walterhess/"
     },
     "WalterKimbrough": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Project_Dillard [Project_Dillard].md",
@@ -331033,6 +331102,13 @@
           "show": "Revisionist History",
           "title": "Project Dillard",
           "url": "/wiki/sources/project-dillard-project-dillard/"
+        },
+        {
+          "episode_file": "Lord_of_the_Rankings [Lord_of_the_Rankings].md",
+          "key": "lord-of-the-rankings-lord-of-the-rankings",
+          "show": "Revisionist History",
+          "title": "Lord of the Rankings",
+          "url": "/wiki/sources/lord-of-the-rankings-lord-of-the-rankings/"
         }
       ],
       "updated": "2026-11-17",

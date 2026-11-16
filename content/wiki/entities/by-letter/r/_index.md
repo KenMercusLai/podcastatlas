@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14613
+wiki_total_pages: 14615
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "RedwoodMaterials"
     title: "Redwood Materials"
     url: "/wiki/entities/redwoodmaterials/"
+  - key: "ReedCollege"
+    title: "Reed College"
+    url: "/wiki/entities/reedcollege/"
   - key: "ReedMontague"
     title: "Reed Montague"
     url: "/wiki/entities/reedmontague/"

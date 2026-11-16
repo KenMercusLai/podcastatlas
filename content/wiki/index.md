@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Lord of the Rankings](sources/lord-of-the-rankings-lord-of-the-rankings.md) — Revisionist History uses Reed's ranking reconstruction, weakly informed peer assessment, and HBCU bond costs to expose circular and racialized institutional reputation.
 - [Project Dillard](sources/project-dillard-project-dillard.md) — Revisionist History uses Dillard University to show how wealth, selectivity, student advantage, and reputation can outrank access, support, and developmental contribution.
 - [Little Mermaid Part 1: The Golden Contract](sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract.md) — Revisionist History reads Disney's golden contract as a lesson about formal legality, exploitative consent, children's legal socialization, and violence replacing institutional justice.
 - [You 2.0: Cultivating Your Purpose](sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705.md) — Hidden Brain and Anthony Burrow distinguish purpose from meaning and finite goals, then connect direction to emotional stability, effort, identity exploration, cultivation pathways, and unequal opportunity.
@@ -5291,6 +5292,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You, But Better](sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835.md) — Hidden Brain and Katy Milkman connect obstacle diagnosis, temptation bundling, fresh starts, feedback, deadlines, defaults, and commitment devices to practical behavior change.
 
 ## Entities
+- [Reed College](entities/ReedCollege.md) — Institution whose public-data ranking reconstruction exposed an exceptional mismatch and the influence of peer assessment.
+- [Kelly McConville](entities/KellyMcConville.md) — Reed statistics professor leading the public-data reconstruction of the U.S. News ranking model.
 - [Dillard University](entities/DillardUniversity.md) — Historically Black liberal arts university used to contrast access and student development with ranking-driven prestige.
 - [Walter Kimbrough](entities/WalterKimbrough.md) — Dillard president arguing that college rankings perpetuate privilege and conflict with an access-oriented mission.
 - [Laura Beth Nielsen](entities/LauraBethNielsen.md) — Northwestern sociolegal scholar connecting children's media, legal consciousness, substantive justice, and institutional remedy.
@@ -20000,6 +20003,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Institutional Reputation Feedback Loop](concepts/InstitutionalReputationFeedbackLoop.md) — Mechanism through which prior status and visibility shape weakly informed ratings that then reproduce status, visibility, and resource access.
 - [College Ranking Privilege](concepts/CollegeRankingPrivilege.md) — Pattern in which wealth, student advantage, selectivity, completion, and reputation are repeatedly counted as educational quality.
 - [Children's Narrative Legal Socialization](concepts/ChildrensNarrativeLegalSocialization.md) — How stories supply early models of rules, authority, fairness, and remedies without mechanically determining children's beliefs.
 - [Formal Legality-Justice Gap](concepts/FormalLegalityJusticeGap.md) — Difference between an arrangement looking legally authoritative and deserving recognition or enforcement.
