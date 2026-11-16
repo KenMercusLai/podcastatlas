@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3881
+topic_total_pages: 3882
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1525,6 +1525,9 @@ topic_concepts:
   - key: "BusinessLedAITransformation"
     title: "Business-Led AI Transformation"
     url: "/wiki/concepts/businessledaitransformation/"
+  - key: "ByNameHomelessnessCoordination"
+    title: "By-Name Homelessness Coordination"
+    url: "/wiki/concepts/bynamehomelessnesscoordination/"
   - key: "CableLandingPointSecurity"
     title: "Cable Landing Point Security"
     url: "/wiki/concepts/cablelandingpointsecurity/"

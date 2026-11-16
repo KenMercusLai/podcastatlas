@@ -42208,3 +42208,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | A Memorial for the Living
+
+Added a [[RevisionistHistory]] episode contrasting the [[NationalSeptember11Memorial]] with [[ChangingHomelessness]]'s Jacksonville by-name list. Created focused pages for the memorial, [[MichaelArad]], [[AmandaSachs]], Changing Homelessness, [[DawnGilman]], [[MemorialCareAllocation]], and [[ByNameHomelessnessCoordination]], and resynthesized [[VisibilityDrivenPolicyUrgency]].
+
+Core synthesis: preserving a name's relationships and circumstances can make a person morally and operationally visible, but commemoration, person-level coordination, and material capacity remain distinct. Jacksonville's list can identify needs and organize casework without creating apartments at rents clients can afford.
+
+No settled contradiction was adopted. The memorial-versus-housing comparison remains a moral argument rather than proof that budgets or institutions are interchangeable, and the episode's project costs, list trends, rent gap, and program effects remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,171 sources across 811 overview paragraphs and nine topics.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 14622
+wiki_total_pages: 14627
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "NationalSemiconductor"
     title: "National Semiconductor"
     url: "/wiki/entities/nationalsemiconductor/"
+  - key: "NationalSeptember11Memorial"
+    title: "National September 11 Memorial"
+    url: "/wiki/entities/nationalseptember11memorial/"
   - key: "NationalStudentClearinghouseResearchCenter"
     title: "National Student Clearinghouse Research Center"
     url: "/wiki/entities/nationalstudentclearinghouseresearchcenter/"

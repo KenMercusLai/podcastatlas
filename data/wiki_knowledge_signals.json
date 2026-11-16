@@ -16439,6 +16439,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/amandamcmaster/"
     },
+    "AmandaSachs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/amandasachs/"
+    },
     "Amanirenas": {
       "episode_count": 1,
       "show_count": 1,
@@ -41744,6 +41760,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/byhealth/"
     },
+    "ByNameHomelessnessCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/bynamehomelessnesscoordination/"
+    },
     "ByronicCelebrityPolitics": {
       "episode_count": 4,
       "show_count": 1,
@@ -49585,6 +49617,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/changiairportgroup/"
+    },
+    "ChangingHomelessness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/changinghomelessness/"
     },
     "ChangmenFu": {
       "episode_count": 1,
@@ -77666,6 +77714,22 @@
       ],
       "updated": "2026-11-06",
       "url": "/wiki/entities/davidzhu/"
+    },
+    "DawnGilman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/dawngilman/"
     },
     "DaxiaWesternHan": {
       "episode_count": 2,
@@ -213240,6 +213304,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/memorialaudienceframing/"
     },
+    "MemorialCareAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/memorialcareallocation/"
+    },
     "MemoryBox": {
       "episode_count": 1,
       "show_count": 1,
@@ -216014,6 +216094,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/miaphysitechristianity/"
+    },
+    "MichaelArad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/michaelarad/"
     },
     "MichaelCollins": {
       "episode_count": 1,
@@ -226970,6 +227066,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/nationalsciencefoundation/"
+    },
+    "NationalSeptember11Memorial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/nationalseptember11memorial/"
     },
     "NationalServiceSocialIntegration": {
       "episode_count": 1,
@@ -330142,9 +330254,9 @@
       "url": "/wiki/entities/vishnupadmanabhan/"
     },
     "VisibilityDrivenPolicyUrgency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Bear_Was_Poked_With_Maria_Konnikova [The_Bear_Was_Poked_With_Maria_Konnikova].md",
@@ -330152,9 +330264,16 @@
           "show": "Revisionist History",
           "title": "The Bear Was Poked With Maria Konnikova",
           "url": "/wiki/sources/the-bear-was-poked-with-maria-konnikova-the-bear-was-poked-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "A_Memorial_for_the_Living [A_Memorial_for_the_Living].md",
+          "key": "a-memorial-for-the-living-a-memorial-for-the-living",
+          "show": "Revisionist History",
+          "title": "A Memorial for the Living",
+          "url": "/wiki/sources/a-memorial-for-the-living-a-memorial-for-the-living/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/visibilitydrivenpolicyurgency/"
     },
     "VisionAsDecisionFilter": {

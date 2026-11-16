@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14622
+wiki_total_pages: 14627
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "Davines"
     title: "Davines"
     url: "/wiki/entities/davines/"
+  - key: "DawnGilman"
+    title: "Dawn Gilman"
+    url: "/wiki/entities/dawngilman/"
   - key: "DawonKahng"
     title: "Dawon Kahng / 姜大元"
     url: "/wiki/entities/dawonkahng/"

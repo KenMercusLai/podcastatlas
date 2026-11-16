@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11622
+wiki_total_pages: 11624
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "MemorialAudienceFraming"
     title: "Memorial Audience Framing"
     url: "/wiki/concepts/memorialaudienceframing/"
+  - key: "MemorialCareAllocation"
+    title: "Memorial Care Allocation"
+    url: "/wiki/concepts/memorialcareallocation/"
   - key: "MemoryCapacityLockIn"
     title: "Memory Capacity Lock-In"
     url: "/wiki/concepts/memorycapacitylockin/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Memorial for the Living](sources/a-memorial-for-the-living-a-memorial-for-the-living.md) — Revisionist History contrasts the engineered permanence of the 9/11 Memorial with Jacksonville's by-name homelessness list to test whether symbolic remembrance becomes material obligation toward living people.
 - [Show 66 - Supernova in the East V](sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v.md) — Hardcore History connects Pacific industrial attrition, oceanic logistics, island bypass, combat memory, surrender preclusion, and Saipan's military-civilian catastrophe.
 - [Return to the 404](sources/return-to-the-404-return-to-the-404.md) — Revisionist History connects Georgia Tech's shift from segregation toward wider computing access with voice-centered podcast scoring, art-authentication silence, and standardized-test skepticism.
 - [Waiting Games](sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587.md) — Hidden Brain and Kate Sweeny distinguish near-miss from task-completion relief and connect waiting distress to timing, control, outlook, contingency planning, and flow.
@@ -5297,6 +5298,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
+- [National September 11 Memorial](entities/NationalSeptember11Memorial.md) — Ground Zero memorial whose spatial, relational, and engineering precision anchors the episode's comparison between commemoration and care.
+- [Michael Arad](entities/MichaelArad.md) — Architect whose “Reflecting Absence” proposal and meaningful-adjacency principle shaped the September 11 memorial.
+- [Amanda Sachs](entities/AmandaSachs.md) — Architect who translated institutional groups and personal relationships into the memorial's arrangement of victims' names.
+- [Changing Homelessness](entities/ChangingHomelessness.md) — Jacksonville organization using outreach, a by-name list, and weekly case review to coordinate housing work.
+- [Dawn Gilman](entities/DawnGilman.md) — Homelessness advocate connecting Jacksonville's affordable-housing constraint with annual remembrance of people who died without housing.
 - [Charles Isbell](entities/CharlesIsbell.md) — Georgia Tech dean and AI researcher connecting lower-cost online computing education, wider talent access, and Atlanta hip-hop culture.
 - [Georgia Tech](entities/GeorgiaTech.md) — Atlanta university presented through its movement from segregated academic access toward wider computing education.
 - [Luis Guerra](entities/LuisGuerra.md) — Revisionist History composer using voice, harmony, inversion, restraint, and live flexibility as narrative tools.
@@ -20015,6 +20021,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Memorial Care Allocation](concepts/MemorialCareAllocation.md) — Ethical comparison between resources devoted to selected commemoration and material support available to vulnerable people still living.
+- [By-Name Homelessness Coordination](concepts/ByNameHomelessnessCoordination.md) — Person-level outreach, prioritization, and recurring case review bounded by data governance and affordable-housing capacity.
 - [Pacific War Attrition System](concepts/PacificWarAttritionSystem.md) — Interaction of industrial output, shipping, trained replacements, intelligence, bases, and operational learning in sustained Pacific combat.
 - [Pacific Island Bypass Strategy](concepts/PacificIslandBypassStrategy.md) — Selective seizure of positions needed for reach while isolating fortified bases by severing their supply and influence.
 - [Combat Experience–Memory Gap](concepts/CombatExperienceMemoryGap.md) — Distance between frontline killing and suffering and the cleaner language and imagery of public war memory.
