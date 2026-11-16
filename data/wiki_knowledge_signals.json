@@ -13737,6 +13737,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/alanaragon/"
     },
+    "AlanBenson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hamlet_Was_Wrong [Hamlet_Was_Wrong].md",
+          "key": "hamlet-was-wrong-hamlet-was-wrong",
+          "show": "Revisionist History",
+          "title": "Hamlet Was Wrong",
+          "url": "/wiki/sources/hamlet-was-wrong-hamlet-was-wrong/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/alanbenson/"
+    },
     "AlanCastel": {
       "episode_count": 1,
       "show_count": 1,
@@ -13919,6 +13935,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/albertkesselring/"
+    },
+    "AlbertOHirschman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hamlet_Was_Wrong [Hamlet_Was_Wrong].md",
+          "key": "hamlet-was-wrong-hamlet-was-wrong",
+          "show": "Revisionist History",
+          "title": "Hamlet Was Wrong",
+          "url": "/wiki/sources/hamlet-was-wrong-hamlet-was-wrong/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/albertohirschman/"
     },
     "Alberta": {
       "episode_count": 3,
@@ -145873,6 +145905,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/hiramwesleyevans/"
     },
+    "HiringNihilism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hamlet_Was_Wrong [Hamlet_Was_Wrong].md",
+          "key": "hamlet-was-wrong-hamlet-was-wrong",
+          "show": "Revisionist History",
+          "title": "Hamlet Was Wrong",
+          "url": "/wiki/sources/hamlet-was-wrong-hamlet-was-wrong/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/hiringnihilism/"
+    },
     "HiroshiSugimoto": {
       "episode_count": 1,
       "show_count": 1,
@@ -183883,6 +183931,29 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/lawrencecole/"
+    },
+    "LawrenceJPeter": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2cb843129c0f5664fd28a8e60e9c1450_31637492 [default.mp3_ywr3ahjkcgo_2cb843129c0f5664fd28a8e60e9c1450_31637492].md",
+          "key": "the-laws-of-the-office-revisited",
+          "show": "Planet Money",
+          "title": "The laws of the office revisited",
+          "url": "/wiki/sources/the-laws-of-the-office-revisited/"
+        },
+        {
+          "episode_file": "Hamlet_Was_Wrong [Hamlet_Was_Wrong].md",
+          "key": "hamlet-was-wrong-hamlet-was-wrong",
+          "show": "Revisionist History",
+          "title": "Hamlet Was Wrong",
+          "url": "/wiki/sources/hamlet-was-wrong-hamlet-was-wrong/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/lawrencejpeter/"
     },
     "LawsonRetail": {
       "episode_count": 1,
@@ -247488,6 +247559,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/peterpomerantsev/"
+    },
+    "PeterPrinciple": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2cb843129c0f5664fd28a8e60e9c1450_31637492 [default.mp3_ywr3ahjkcgo_2cb843129c0f5664fd28a8e60e9c1450_31637492].md",
+          "key": "the-laws-of-the-office-revisited",
+          "show": "Planet Money",
+          "title": "The laws of the office revisited",
+          "url": "/wiki/sources/the-laws-of-the-office-revisited/"
+        },
+        {
+          "episode_file": "Hamlet_Was_Wrong [Hamlet_Was_Wrong].md",
+          "key": "hamlet-was-wrong-hamlet-was-wrong",
+          "show": "Revisionist History",
+          "title": "Hamlet Was Wrong",
+          "url": "/wiki/sources/hamlet-was-wrong-hamlet-was-wrong/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/peterprinciple/"
     },
     "PeterScott": {
       "episode_count": 1,

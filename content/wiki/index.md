@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hamlet Was Wrong](sources/hamlet-was-wrong-hamlet-was-wrong.md) — Revisionist History connects informal hiring, the Peter Principle, sales-promotion research, and Hirschman's action under uncertainty to a qualified skepticism about personnel prediction.
 - [Oh, Howard, You Idiot!](sources/oh-howard-you-idiot-oh-howard-you-idiot.md) — Revisionist History reframes Clifford Irving's fake Howard Hughes autobiography as both an expectation-matched institutional fraud and an unauthorized attempt to give Hughes intimacy, self-knowledge, and redemption.
 - [A Memorial for the Living](sources/a-memorial-for-the-living-a-memorial-for-the-living.md) — Revisionist History contrasts the engineered permanence of the 9/11 Memorial with Jacksonville's by-name homelessness list to test whether symbolic remembrance becomes material obligation toward living people.
 - [Show 66 - Supernova in the East V](sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v.md) — Hardcore History connects Pacific industrial attrition, oceanic logistics, island bypass, combat memory, surrender preclusion, and Saipan's military-civilian catastrophe.
@@ -5299,6 +5300,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
+- [Albert O. Hirschman](entities/AlbertOHirschman.md) — economist invoked as a source for action under irreducible uncertainty.
+- [Alan Benson](entities/AlanBenson.md) — economist whose sales-organization research tests promotion mismatch and incentive trade-offs.
 - [Howard Hughes](entities/HowardHughes.md) — Industrialist, aviator, filmmaker, and reclusive celebrity whose managed legend and inaccessibility made him the target of a fake autobiography.
 - [Clifford Irving](entities/CliffordIrving.md) — Writer who combined research, forged evidence, performance, and invented intimacy in a fraudulent Howard Hughes autobiography.
 - [Dick Susskind](entities/DickSusskind.md) — Irving collaborator who helped research, perform, transcribe, and shape the counterfeit Hughes voice.
@@ -20026,6 +20029,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Hiring Nihilism](concepts/HiringNihilism.md) — bounded skepticism about the predictive authority of résumés, interviews, and promotion rituals.
 - [Expectation-Matched Literary Forgery](concepts/ExpectationMatchedLiteraryForgery.md) — Counterfeit text made credible by matching an inaccessible subject's known voice, circumstances, and audience expectations across correlated evidence channels.
 - [Redemptive Counterfeit Biography](concepts/RedemptiveCounterfeitBiography.md) — Unauthorized invented life that grants a subject emotional repair while falsely claiming factual and biographical authority.
 - [Memorial Care Allocation](concepts/MemorialCareAllocation.md) — Ethical comparison between resources devoted to selected commemoration and material support available to vulnerable people still living.

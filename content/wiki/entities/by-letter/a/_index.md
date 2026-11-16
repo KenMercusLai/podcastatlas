@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14631
+wiki_total_pages: 14633
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "AlanAragon"
     title: "Alan Aragon"
     url: "/wiki/entities/alanaragon/"
+  - key: "AlanBenson"
+    title: "Alan Benson"
+    url: "/wiki/entities/alanbenson/"
   - key: "AlanBrooks"
     title: "Alan Brooks"
     url: "/wiki/entities/alanbrooks/"
@@ -692,6 +695,9 @@ wiki_pages:
   - key: "AlbertKesselring"
     title: "Albert Kesselring"
     url: "/wiki/entities/albertkesselring/"
+  - key: "AlbertOHirschman"
+    title: "Albert O. Hirschman"
+    url: "/wiki/entities/albertohirschman/"
   - key: "AlbertPope"
     title: "Albert Pope / 阿尔伯特·波普"
     url: "/wiki/entities/albertpope/"

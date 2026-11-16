@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11626
+wiki_total_pages: 11627
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "HippocampalAssociativeMemory"
     title: "Hippocampal Associative Memory"
     url: "/wiki/concepts/hippocampalassociativememory/"
+  - key: "HiringNihilism"
+    title: "Hiring Nihilism"
+    url: "/wiki/concepts/hiringnihilism/"
   - key: "HistoricalAmbiguityInMainstreamCinema"
     title: "Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性"
     url: "/wiki/concepts/historicalambiguityinmainstreamcinema/"

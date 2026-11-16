@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Hamlet Was Wrong
+
+Added the [[RevisionistHistory]] episode connecting [[MalcolmGladwell]]'s informal hiring stories to the [[PeterPrinciple]], [[AlanBenson]]'s sales-organization research, and [[AlbertOHirschman]]'s view of doubt as permission to act. Created focused synthesis-first pages for Benson, Hirschman, and [[HiringNihilism]], and resynthesized [[LawrenceJPeter]] and the Peter Principle from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: selection systems can acknowledge real differences in ability while remaining humble about their predictive power; current-role excellence may not transfer to management; and passing over stars can damage motivation when promotion is the dominant reward. Uncertainty can support action and revision without excusing careless selection or eliminating stakes-sensitive diligence.
+
+No settled contradiction was adopted. Gladwell's successful hires remain autobiographical and vulnerable to survivorship bias, while the sales sample, design, effect sizes, motivation response, and reported team-performance difference remain episode-scoped because the supplied file is a structured summary rather than the underlying study or transcript. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,173 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | Show 66 - Supernova in the East V
 
 Added the [[HardcoreHistory]] episode following the Pacific War from New Guinea and Guadalcanal through Tarawa, the Philippine Sea, and [[BattleOfSaipan|Saipan]]. Created focused synthesis-first pages for [[PacificWarAttritionSystem]], [[PacificIslandBypassStrategy]], [[CombatExperienceMemoryGap]], [[SurrenderPreclusionWarEscalation]], and Saipan, then resynthesized [[DanCarlin]], Hardcore History, and [[CampaignLogisticsAndTempo]] from their complete preserved evidence inventories before appending the new source once.
@@ -42228,6 +42238,10 @@ Core synthesis: the hoax succeeded by making research, documents, performance, l
 No settled contradiction was adopted. Literary ingenuity and emotional insight do not legitimate forged attribution, financial fraud, or publication without consent; mental-health, injury, motive, expert-reaction, and manuscript-value claims remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,172 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 
