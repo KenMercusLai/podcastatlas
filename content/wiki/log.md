@@ -41441,6 +41441,22 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-16] ingest | Way to Go, Ohio
+
+Added the [[RevisionistHistory]] episode connecting [[DavidMarine]]'s Akron iodine experiment and [[IodizedSaltPopulationPrevention]] to an impossible vaccine-in-salt thought experiment. Created focused profiles for Marine and [[SeemaSagayar]], created [[InterventionDeliveryFraming]], and resynthesized [[AkronOhio|Akron, Ohio]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: form, labeling, routine placement, friction, and opt-out design can change health behavior independently of an intervention's biological effect, but higher uptake is not equivalent to informed acceptance. Iodized salt illustrates how appropriate dosing and a cheap, stable, widely consumed vehicle can extend prevention; it does not validate covert vaccine delivery, and concealment or near-unavoidability can trade needle resistance for consent violations and institutional distrust.
+
+No settled contradiction was adopted. Earlier iodine toxicity and later prevention are dose- and delivery-dependent rather than inconsistent. The proposed three-arm experiment cannot isolate delivery form because it also changes framing, convenience, disclosure, and choice. Historical prevalence, IQ effects, doses, needle-fear estimates, and causal claims remain source-scoped because the supplied file is a structured episode summary rather than original studies, archival records, or a transcript. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] pages remained closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,116 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

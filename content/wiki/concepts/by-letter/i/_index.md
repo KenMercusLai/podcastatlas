@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11511
+wiki_total_pages: 11513
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "InterstateEconomicWarfare"
     title: "Interstate Economic Warfare / 跨国经济战"
     url: "/wiki/concepts/interstateeconomicwarfare/"
+  - key: "InterventionDeliveryFraming"
+    title: "Intervention Delivery Framing"
+    url: "/wiki/concepts/interventiondeliveryframing/"
   - key: "InterventionalUltrasoundSafety"
     title: "Interventional Ultrasound Safety / 介入超声安全边界"
     url: "/wiki/concepts/interventionalultrasoundsafety/"
@@ -1256,6 +1259,9 @@ wiki_pages:
   - key: "InwardLookingSelfCultivation"
     title: "Inward-Looking Self-Cultivation / 向内求式自我修行"
     url: "/wiki/concepts/inwardlookingselfcultivation/"
+  - key: "IodizedSaltPopulationPrevention"
+    title: "Iodized Salt Population Prevention"
+    url: "/wiki/concepts/iodizedsaltpopulationprevention/"
   - key: "IonianRevolt"
     title: "Ionian Revolt"
     url: "/wiki/concepts/ionianrevolt/"

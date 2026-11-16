@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Way to Go, Ohio](sources/way-to-go-ohio-way-to-go-ohio.md) — Revisionist History connects Akron's iodine experiment and iodized salt to a deliberately impossible vaccine-delivery thought experiment about form, friction, consent, and trust.
 - [In Triplicate](sources/in-triplicate.md) — Revisionist History connects triplicate prescription monitoring, Purdue's launch strategy, opioid outcomes, ignored warnings, and messenger-based evidence discounting.
 - [Good Culture: How Jesse Merrill Made Cottage Cheese Cool](sources/vmp7035807570-vmp7035807570.md) — How I Built This case on reviving cottage cheese through product, packaging, retail velocity, creator preparation, and manufacturing scale.
 - [Star Struck](sources/star-struck.md) — Revisionist History connects Margaret Mitchell’s death, a deleted A Star Is Born collision, and “accident” language to the delayed recognition of drunk-driving responsibility.
@@ -5241,6 +5242,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [David Marine](entities/DavidMarine.md) — Physician whose Akron school experiment is presented as the evidentiary bridge from iodine-deficiency research to goiter prevention.
+- [Seema Sagayar](entities/SeemaSagayar.md) — Expert interlocutor separating vaccine delivery form, needle fear, framing, convenience, behavior, and consent.
 - [Sidney Wolfe](entities/SidneyWolfe.md) — Physician and consumer advocate who sought national prescription monitoring before OxyContin's launch.
 - [Paul Madden](entities/PaulMadden.md) — California regulator credited with designing the serialized triplicate prescription system.
 - [Purdue Pharma](entities/PurduePharma.md) — OxyContin manufacturer whose research and launch geography exposed the deterrent effect of triplicate rules.
@@ -19864,6 +19867,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Iodized Salt Population Prevention](concepts/IodizedSaltPopulationPrevention.md) — Population prevention through an inexpensive, stable, widely consumed iodine delivery vehicle, bounded by dose and governance requirements.
+- [Intervention Delivery Framing](concepts/InterventionDeliveryFraming.md) — Framework separating biological effect from physical form, label, friction, disclosure, choice, consent, and trust.
 - [Triplicate Prescription Monitoring](concepts/TriplicatePrescriptionMonitoring.md) — Serialized three-location controlled-prescription records that make oversight auditable and behaviorally salient.
 - [Messenger-Based Evidence Discounting](concepts/MessengerBasedEvidenceDiscounting.md) — Error of substituting judgment of an advocate's style for examination of the advocate's evidence.
 - [Category Revival](concepts/CategoryRevival.md) — Renewal of a familiar but declining category through product repair, clearer meaning, new use occasions, retail proof, and supply readiness.

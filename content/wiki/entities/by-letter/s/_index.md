@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14527
+wiki_total_pages: 14529
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "Seedance"
     title: "Seedance"
     url: "/wiki/entities/seedance/"
+  - key: "SeemaSagayar"
+    title: "Seema Sagayar"
+    url: "/wiki/entities/seemasagayar/"
   - key: "SeemaSanghavi"
     title: "Seema Sanghavi"
     url: "/wiki/entities/seemasanghavi/"

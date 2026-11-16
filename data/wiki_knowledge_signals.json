@@ -13362,9 +13362,9 @@
       "url": "/wiki/entities/akhenaten/"
     },
     "AkronOhio": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
@@ -13372,9 +13372,16 @@
           "show": "Marketplace Tech",
           "title": "What if the AI boom never turns a profit?",
           "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Way_to_Go,_Ohio [Way_to_Go,_Ohio].md",
+          "key": "way-to-go-ohio-way-to-go-ohio",
+          "show": "Revisionist History",
+          "title": "Way to Go, Ohio",
+          "url": "/wiki/sources/way-to-go-ohio-way-to-go-ohio/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/akronohio/"
     },
     "AlAndalus": {
@@ -76432,6 +76439,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/davidmancuso/"
+    },
+    "DavidMarine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Way_to_Go,_Ohio [Way_to_Go,_Ohio].md",
+          "key": "way-to-go-ohio-way-to-go-ohio",
+          "show": "Revisionist History",
+          "title": "Way to Go, Ohio",
+          "url": "/wiki/sources/way-to-go-ohio-way-to-go-ohio/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/davidmarine/"
     },
     "DavidOSelznick": {
       "episode_count": 1,
@@ -161209,6 +161232,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/interstateeconomicwarfare/"
     },
+    "InterventionDeliveryFraming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Way_to_Go,_Ohio [Way_to_Go,_Ohio].md",
+          "key": "way-to-go-ohio-way-to-go-ohio",
+          "show": "Revisionist History",
+          "title": "Way to Go, Ohio",
+          "url": "/wiki/sources/way-to-go-ohio-way-to-go-ohio/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/interventiondeliveryframing/"
+    },
     "InterventionWithdrawalDependency": {
       "episode_count": 2,
       "show_count": 1,
@@ -162440,6 +162479,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/entities/io/"
+    },
+    "IodizedSaltPopulationPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Way_to_Go,_Ohio [Way_to_Go,_Ohio].md",
+          "key": "way-to-go-ohio-way-to-go-ohio",
+          "show": "Revisionist History",
+          "title": "Way to Go, Ohio",
+          "url": "/wiki/sources/way-to-go-ohio-way-to-go-ohio/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/iodizedsaltpopulationprevention/"
     },
     "IonianRevolt": {
       "episode_count": 1,
@@ -281087,6 +281142,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/seedoilevidenceboundary/"
+    },
+    "SeemaSagayar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Way_to_Go,_Ohio [Way_to_Go,_Ohio].md",
+          "key": "way-to-go-ohio-way-to-go-ohio",
+          "show": "Revisionist History",
+          "title": "Way to Go, Ohio",
+          "url": "/wiki/sources/way-to-go-ohio-way-to-go-ohio/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/seemasagayar/"
     },
     "SeemaSanghavi": {
       "episode_count": 1,
