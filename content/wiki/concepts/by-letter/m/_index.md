@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11539
+wiki_total_pages: 11543
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1754,6 +1754,9 @@ wiki_pages:
   - key: "MovementAchievementAbuseAccountability"
     title: "Movement Achievement and Abuse Accountability"
     url: "/wiki/concepts/movementachievementabuseaccountability/"
+  - key: "MovementParticipationThreshold"
+    title: "Movement Participation Threshold"
+    url: "/wiki/concepts/movementparticipationthreshold/"
   - key: "MovementPracticeAsAwareness"
     title: "Movement Practice as Awareness"
     url: "/wiki/concepts/movementpracticeasawareness/"

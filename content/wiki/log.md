@@ -41628,3 +41628,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | How to Change the World
+
+Added the [[HiddenBrain]] episode in which [[EricaChenoweth|Erica Chenoweth]] describes how [[MariaStephan|Maria Stephan]] challenged her to compare violent and nonviolent maximalist campaigns systematically. Created focused profiles for both researchers, [[Otpor]], [[OmarAlBashir|Omar al-Bashir]], and the [[SudaneseProfessionalsAssociation]], plus [[NonviolentResistanceStrategy]], [[PillarsOfSupport]], [[DilemmaActions]], and [[MovementParticipationThreshold]]. Resynthesized [[SlobodanMilosevic|Slobodan Milošević]] and [[NonviolentMovementCredibilityCrisis]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: nonviolent resistance can outperform armed struggle because it usually permits broader participation, builds ties into the institutions that sustain a ruler, supports tactical adaptation, and makes defection more likely. Serbia shows how humor and dilemma actions can make enforcement costly; Sudan shows how general noncooperation can continue under repression; Spain shows how protester violence can shrink the persuadable coalition and strengthen the state's public-order frame.
+
+No settled contradiction was adopted. Sudan's later turmoil qualifies a near-term success classification, and the reported 3.5 percent pattern is a descriptive rule of thumb rather than a guarantee. Campaign coding, success rates, participation estimates, Spanish support effects, casualty totals, and case-specific causal claims remain episode-scoped because the supplied file does not contain the underlying dataset, surveys, coding decisions, or later outcome audit. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening unrelated evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,128 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

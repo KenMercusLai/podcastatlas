@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11539
+wiki_total_pages: 11543
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "NonviolentMovementCredibilityCrisis"
     title: "Nonviolent Movement Credibility Crisis"
     url: "/wiki/concepts/nonviolentmovementcredibilitycrisis/"
+  - key: "NonviolentResistanceStrategy"
+    title: "Nonviolent Resistance Strategy"
+    url: "/wiki/concepts/nonviolentresistancestrategy/"
   - key: "NonviolentSymbolicPower"
     title: "Nonviolent Symbolic Power"
     url: "/wiki/concepts/nonviolentsymbolicpower/"

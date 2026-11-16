@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14548
+wiki_total_pages: 14553
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1967,6 +1967,9 @@ wiki_pages:
   - key: "SudaneseArmedForces"
     title: "Sudanese Armed Forces"
     url: "/wiki/entities/sudanesearmedforces/"
+  - key: "SudaneseProfessionalsAssociation"
+    title: "Sudanese Professionals Association"
+    url: "/wiki/entities/sudaneseprofessionalsassociation/"
   - key: "Suetonius"
     title: "Suetonius"
     url: "/wiki/entities/suetonius/"

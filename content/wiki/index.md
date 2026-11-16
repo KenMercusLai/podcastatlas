@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Change the World](sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134.md) — Hidden Brain and Erica Chenoweth connect comparative campaign success to participation, institutional defection, tactical innovation, discipline, and qualified threshold claims.
 - [You Don't Need a Crystal Ball](sources/default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597-default-mp3-ywr3ahjkcgo-ce411815c1cca7882f5b93d662620544-51879597.md) — Hidden Brain connects warning reception, trusted messengers, permafrost risk, and Challenger to calibrated probabilistic forecasting.
 - [Healing Your Heart](sources/default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559-default-mp3-ywr3ahjkcgo-bce4fb6889bf99510a06c920c7b2a338-49546559.md) — Hidden Brain and Lucy Hone distinguish involuntary grief reactions from response choices while qualifying stage scripts and supporting oscillation between loss and restoration.
 - [A Blockbuster-era law could define modern online privacy rules](sources/tech-20261116-1116-mp-tech-pod-128-tech-20261116-1116-mp-tech-pod-128.md) — Marketplace Tech and Eric Goldman connect the VPPA's videotape-era categories to modern analytics, advertising, statutory damages, consent friction, and delegated AI-agent consent.
@@ -5253,6 +5254,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Erica Chenoweth](entities/EricaChenoweth.md) — Political scientist whose comparative campaign research anchors the episode's strategic case for civil resistance.
+- [Maria Stephan](entities/MariaStephan.md) — Scholar who challenged anecdotal comparison and collaborated on the violent-versus-nonviolent campaign study.
+- [Otpor](entities/Otpor.md) — Serbian movement using electoral verification, humor, diverse participation, and dilemma actions against Milošević.
+- [Omar al-Bashir](entities/OmarAlBashir.md) — Sudanese ruler whose removal illustrates the difference between campaign success and durable democratic transition.
+- [Sudanese Professionals Association](entities/SudaneseProfessionalsAssociation.md) — Organizing network coordinating strikes, demonstrations, and mass noncooperation in Sudan.
 - [Philip Tetlock](entities/PhilipTetlock.md) — Psychologist presenting calibrated probability, base rates, updating, and longitudinal scoring as trainable forecasting practice.
 - [Andrew Natsios](entities/AndrewNatsios.md) — Former USAID administrator used as a case of evidence-backed, audience-aware warning about Darfur.
 - [Chris Hiemstra](entities/ChrisHiemstra.md) — Research scientist connecting Alaskan permafrost field observation to carbon feedback and warning difficulty.
@@ -19897,6 +19903,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Nonviolent Resistance Strategy](concepts/NonviolentResistanceStrategy.md) — Organized participation and noncooperation aimed at withdrawing the institutional support on which political power depends.
+- [Pillars of Support](concepts/PillarsOfSupport.md) — Institutions and constituencies whose repeated cooperation sustains rulers and political systems.
+- [Dilemma Actions](concepts/DilemmaActions.md) — Protest tactics designed so several plausible official responses impose political or reputational costs.
+- [Movement Participation Threshold](concepts/MovementParticipationThreshold.md) — Qualified interpretation of the reported association between active mobilization scale and campaign success.
 - [Warning Reception Framework](concepts/WarningReceptionFramework.md) — Framework separating warning accuracy from the social and institutional conditions that produce attention and action.
 - [Probabilistic Forecasting Discipline](concepts/ProbabilisticForecastingDiscipline.md) — Accountable forecasting through explicit probabilities, base rates, updating, calibration, and repeated scoring.
 - [Permafrost Carbon Feedback](concepts/PermafrostCarbonFeedback.md) — Warming feedback in which thaw enables decomposition and carbon release that can intensify further warming.

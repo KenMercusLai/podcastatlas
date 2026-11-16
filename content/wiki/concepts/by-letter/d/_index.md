@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11539
+wiki_total_pages: 11543
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "DignityBasedPersuasion"
     title: "Dignity-Based Persuasion / 尊严激将式说服"
     url: "/wiki/concepts/dignitybasedpersuasion/"
+  - key: "DilemmaActions"
+    title: "Dilemma Actions"
+    url: "/wiki/concepts/dilemmaactions/"
   - key: "DimensionalAllegory"
     title: "Dimensional Allegory"
     url: "/wiki/concepts/dimensionalallegory/"

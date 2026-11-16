@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 14548
+wiki_total_pages: 14553
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "Oman"
     title: "Oman"
     url: "/wiki/entities/oman/"
+  - key: "OmarAlBashir"
+    title: "Omar al-Bashir"
+    url: "/wiki/entities/omaralbashir/"
   - key: "OmarBradley"
     title: "Omar Bradley"
     url: "/wiki/entities/omarbradley/"
@@ -428,6 +431,9 @@ wiki_pages:
   - key: "OteloSaraivaDeCarvalho"
     title: "Otelo Saraiva de Carvalho"
     url: "/wiki/entities/otelosaraivadecarvalho/"
+  - key: "Otpor"
+    title: "Otpor"
+    url: "/wiki/entities/otpor/"
   - key: "OtterBox"
     title: "OtterBox"
     url: "/wiki/entities/otterbox/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11539
+wiki_total_pages: 11543
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "PilgrimageTravelInfrastructure"
     title: "Pilgrimage Travel Infrastructure / 朝圣旅行基础设施"
     url: "/wiki/concepts/pilgrimagetravelinfrastructure/"
+  - key: "PillarsOfSupport"
+    title: "Pillars of Support"
+    url: "/wiki/concepts/pillarsofsupport/"
   - key: "PilotVoice"
     title: "Pilot Voice"
     url: "/wiki/concepts/pilotvoice/"

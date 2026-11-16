@@ -82482,6 +82482,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/dignitybasedpersuasion/"
     },
+    "DilemmaActions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/dilemmaactions/"
+    },
     "DinaPowellMcCormick": {
       "episode_count": 1,
       "show_count": 1,
@@ -101484,6 +101500,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/ericzwick/"
+    },
+    "EricaChenoweth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/ericachenoweth/"
     },
     "ErichHonecker": {
       "episode_count": 1,
@@ -206014,6 +206046,22 @@
       "updated": "2026-11-07",
       "url": "/wiki/entities/mariasalazar/"
     },
+    "MariaStephan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/mariastephan/"
+    },
     "MariaTheresa": {
       "episode_count": 2,
       "show_count": 1,
@@ -220938,6 +220986,22 @@
       "updated": "2026-11-06",
       "url": "/wiki/concepts/movementachievementabuseaccountability/"
     },
+    "MovementParticipationThreshold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/movementparticipationthreshold/"
+    },
     "MovementPracticeAsAwareness": {
       "episode_count": 5,
       "show_count": 2,
@@ -230027,9 +230091,9 @@
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NonviolentMovementCredibilityCrisis": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4373367265 [GLT4373367265].md",
@@ -230037,10 +230101,33 @@
           "show": "The Rest Is History",
           "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
           "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/nonviolentmovementcredibilitycrisis/"
+    },
+    "NonviolentResistanceStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/nonviolentresistancestrategy/"
     },
     "NordStream": {
       "episode_count": 2,
@@ -233627,6 +233714,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/olympictruce/"
     },
+    "OmarAlBashir": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/omaralbashir/"
+    },
     "OmarBradley": {
       "episode_count": 1,
       "show_count": 1,
@@ -236473,6 +236576,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/otherashell/"
+    },
+    "Otpor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/otpor/"
     },
     "OttoII": {
       "episode_count": 1,
@@ -246793,6 +246912,22 @@
       ],
       "updated": "2026-11-06",
       "url": "/wiki/concepts/pilgrimagetravelinfrastructure/"
+    },
+    "PillarsOfSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/pillarsofsupport/"
     },
     "PilotVoice": {
       "episode_count": 1,
@@ -291433,9 +291568,9 @@
       "url": "/wiki/concepts/slightlyharderchoice/"
     },
     "SlobodanMilosevic": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5809911007 [GLT5809911007].md",
@@ -291443,9 +291578,16 @@
           "show": "The Rest Is History",
           "title": "2. Civil War",
           "url": "/wiki/sources/2-civil-war-glt5809911007/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/slobodanmilosevic/"
     },
     "SlowGatheringImprovisation": {
@@ -302161,6 +302303,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/sudan/"
+    },
+    "SudaneseProfessionalsAssociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134 [default.mp3_ywr3ahjkcgo_5212bd1a2369bdd5087bc9f33d3a033a_49704134].md",
+          "key": "default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134",
+          "show": "Hidden Brain",
+          "title": "How to Change the World",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134-default-mp3-ywr3ahjkcgo-5212bd1a2369bdd5087bc9f33d3a033a-49704134/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sudaneseprofessionalsassociation/"
     },
     "SuddenCardiacDeathRiskStratification": {
       "episode_count": 1,
