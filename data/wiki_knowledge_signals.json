@@ -33733,6 +33733,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/bennaddaffhafrey/"
     },
+    "BenRogers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747 [default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747].md",
+          "key": "default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747",
+          "show": "Hidden Brain",
+          "title": "Just Watch Me!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/benrogers/"
+    },
     "BenchmarkAdoptionDesign": {
       "episode_count": 1,
       "show_count": 1,
@@ -143079,9 +143095,9 @@
       "url": "/wiki/entities/hernandopizarro/"
     },
     "HeroJourneyNarrative": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -143103,9 +143119,16 @@
           "show": "无时差研究所",
           "title": "EP139-《花木兰》：好莱坞的一次东方想象",
           "url": "/wiki/sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747 [default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747].md",
+          "key": "default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747",
+          "show": "Hidden Brain",
+          "title": "Just Watch Me!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/herojourneynarrative/"
     },
     "HeroMemoryPoliticalCredibility": {
@@ -278873,6 +278896,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/samerhattar/"
     },
+    "SamirNurmohamed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747 [default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747].md",
+          "key": "default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747",
+          "show": "Hidden Brain",
+          "title": "Just Watch Me!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/samirnurmohamed/"
+    },
     "Samnites": {
       "episode_count": 3,
       "show_count": 1,
@@ -323293,6 +323332,22 @@
       ],
       "updated": "2026-10-21",
       "url": "/wiki/concepts/underageidolprofessionalizationrisk/"
+    },
+    "UnderdogEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747 [default.mp3_ywr3ahjkcgo_8b06f3c05b6f3262e8021bfeb73fd4c9_87734747].md",
+          "key": "default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747",
+          "show": "Hidden Brain",
+          "title": "Just Watch Me!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/underdogeffect/"
     },
     "UndergraduateArtFieldwork": {
       "episode_count": 1,

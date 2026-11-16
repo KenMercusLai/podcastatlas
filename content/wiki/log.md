@@ -41780,3 +41780,17 @@ Resynthesized [[MentalHealthCrisisPoliceResponse]] from its complete preserved s
 No settled contradiction was adopted. Individual accountability and structural redesign can coexist, while consensus around removing unsuitable duties from police does not resolve disputes about budgets, coercive authority, or legal responsibility. The Las Vegas, Berkeley, and Minneapolis results remain source-scoped because the supplied file is a structured summary rather than a transcript, dataset, policy evaluation, or causal study; Goff explicitly declines to attribute Minneapolis's reported force decline precisely to his team's work. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening large unrelated evidence inventories.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,138 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] ingest | Just Watch Me!
+
+Added a [[HiddenBrain]] episode with behavioral scientist [[SamirNurmohamed]] and social scientist [[BenRogers]] on the conditions under which low expectations become motivating resistance and the conditions under which hero-journey reframing supports meaning and agency. Created both focused researcher profiles and [[UnderdogEffect]], then resynthesized [[HeroJourneyNarrative]] from its complete preserved source inventory before appending the new source once.
+
+Core synthesis: doubt is not inherently motivating. A challenge response is more plausible when the evaluator lacks credibility, the recipient retains confidence and relevant competence, and effort can target improvable skills with adequate opportunity or group support. Even then, performance gains can coexist with insecurity, exclusion, and reduced feedback-seeking. Hero-journey prompts can help connect change, challenge, allies, transformation, and contribution, but the resulting story must fit lived experience, remain revisable, and leave room for ordinary life, structural barriers, low control, and suffering that does not transform.
+
+No settled contradiction was adopted. The underdog effect qualifies rather than displaces Pygmalion and Golem effects, while autobiographical hero framing extends rather than validates Campbell's contested universal claims. Athlete and listener stories are illustrative, and all reported studies remain episode-scoped because the supplied file is a structured summary without papers, methods, measures, effect sizes, or replication detail. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening a large unrelated evidence inventory.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,139 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

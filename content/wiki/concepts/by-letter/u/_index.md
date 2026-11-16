@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11562
+wiki_total_pages: 11563
 wiki_pages:
   - key: "UnknownRiskInformedConsent"
     title: "Informed Consent Under Unknown Risk"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "UnderageIdolProfessionalizationRisk"
     title: "Underage Idol Professionalization Risk / 未成年偶像职业化风险"
     url: "/wiki/concepts/underageidolprofessionalizationrisk/"
+  - key: "UnderdogEffect"
+    title: "Underdog Effect"
+    url: "/wiki/concepts/underdogeffect/"
   - key: "UndergraduateArtFieldwork"
     title: "Undergraduate Art Fieldwork / 本科艺术田野"
     url: "/wiki/concepts/undergraduateartfieldwork/"

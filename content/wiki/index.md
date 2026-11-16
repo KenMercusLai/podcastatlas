@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Just Watch Me!](sources/default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747-default-mp3-ywr3ahjkcgo-8b06f3c05b6f3262e8021bfeb73fd4c9-87734747.md) — Hidden Brain connects conditional underdog motivation with qualified hero-journey reframing, authentic narrative fit, and structural limits on agency.
 - [Changing Behavior, Not Beliefs](sources/default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123-default-mp3-ywr3ahjkcgo-f56cf603fee7139d9ccaabc72e668452-47437123.md) — Hidden Brain and Philip Atiba Goff connect racial disparity to behavior-focused measurement, avoidable police contact, alternative crisis response, and cumulative harm reduction.
 - [My Unsung Hero: Wendy McDowell's Story](sources/default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581-default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581.md) — Hidden Brain listener story connecting childhood abandonment, consent-aware protection by a stranger, and Wendy McDowell's later work supporting children.
 - [What Makes Relationships Thrive](sources/default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281-default-mp3-ywr3ahjkcgo-ea5bbec6d5f8dceb54214fa00e91a356-48702281.md) — Hidden Brain and Harry Reis separate actual from perceived understanding and connect both to belonging, listening, conflict, and openness without agreement.
@@ -5265,6 +5266,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behind the Laughter: The Real Kiku Sharda | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490.md) — Tomorrow Today interview on character embodiment, ensemble comedy, parody risk, grief, and AI-era performance.
 
 ## Entities
+- [Samir Nurmohamed](entities/SamirNurmohamed.md) — Behavioral scientist studying when perceived low expectations trigger threat or motivating resistance.
+- [Ben Rogers](entities/BenRogers.md) — Social scientist studying qualified hero-journey reframing, narrative meaning, and agency.
 - [Philip Atiba Goff](entities/PhilipAtibaGoff.md) — Psychologist connecting racial-equity reform to observable police behavior, situational redesign, shared interests, and measurable harm reduction.
 - [Center for Policing Equity](entities/CenterForPolicingEquity.md) — Research and reform organization using data, community input, and institutional redesign to reduce racial disparities and police force.
 - [Wendy McDowell](entities/WendyMcDowell.md) — School psychologist whose childhood rescue by an unidentified traveler became a model of safety, care, and later support for children.
@@ -19930,6 +19933,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Underdog Effect](concepts/UnderdogEffect.md) — Conditional effort response in which a person rejects low expectations and works to disprove them.
 - [Behavior-Focused Police Reform](concepts/BehaviorFocusedPoliceReform.md) — Reform framework targeting observable conduct, institutional routines, situational risk, and measurable outcomes rather than requiring proof of private prejudice.
 - [Police Contact Reduction](concepts/PoliceContactReduction.md) — Public-safety strategy that prevents unnecessary armed encounters through enforcement redesign, alternative responders, and upstream services.
 - [Consent-Aware Child Safeguarding](concepts/ConsentAwareChildSafeguarding.md) — Protective action that combines practical adult responsibility with explanation, permission-seeking, and repeated checks of a child's felt safety.
