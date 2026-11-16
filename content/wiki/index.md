@@ -5290,6 +5290,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: Did That Really Happen?](sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670.md) — Hidden Brain and Ayanna Thomas connect reconstructive memory, source confusion, eyewitness caution, aging stereotypes, retrieval practice, spacing, sleep, and mnemonic imagery.
 - [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
 - [You, But Better](sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835.md) — Hidden Brain and Katy Milkman connect obstacle diagnosis, temptation bundling, fresh starts, feedback, deadlines, defaults, and commitment devices to practical behavior change.
+- [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
 - [Reed College](entities/ReedCollege.md) — Institution whose public-data ranking reconstruction exposed an exceptional mismatch and the influence of peer assessment.

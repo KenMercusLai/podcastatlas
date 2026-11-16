@@ -42142,3 +42142,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Introducing Revisionist History Season Six
+
+Added a short [[RevisionistHistory|Revisionist History]] season-six trailer in which [[MalcolmGladwell]] promises a more mobile and confrontational installment spanning an Arizona pursuit, [[TheWaltDisneyCompany|Disney]], cycling with Lance Armstrong, communist history, underwater stories, and an unidentified retelling.
+
+No settled contradiction was adopted. The source establishes promotional tone and subject range rather than the teased stories' arguments, evidence, or conclusions, so those fragments remain source-scoped. Existing entity and concept pages were left unchanged because the trailer adds no durable profile or developed conceptual claim beyond the already-established host, show, producer, and announced subjects.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,166 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
