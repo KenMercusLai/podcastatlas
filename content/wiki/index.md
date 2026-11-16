@@ -5193,10 +5193,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pushkin Goes to the Olympics](sources/pushkin-goes-to-the-olympics-pushkin-goes-to-the-olympics.md) — Revisionist History compilation on women's distance-running exclusion, MRI/AI muscle mapping, and the historically disputed Owens–Long friendship story.
 - [Hitler’s Olympics, Part 2: Pangloss, Polonius, Prufrock](sources/hitler-s-olympics-part-2-pangloss-polonius-prufrock-hitler-s-olympics-part-2-pangloss-polonius-prufrock.md) — Revisionist History profile of Charles Sherrill, the IOC's 1933 eligibility guarantee, and elite procedural accommodation of Nazi persecution.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
+- [Show 70 - Twilight of the Aesir II](sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii.md) — Hardcore History on Norse lived belief, settlement, eastern cultural mixture, Christianization, state-building, and the uneven end of the Viking Age.
 
 - [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
 
 ## Entities
+- [Håkon the Good](entities/HakonTheGood.md) — Norwegian Christian ruler whose compromise with traditional sacrifice exposes the limits of early royal conversion.
 - [Justin Harrison](entities/JustinHarrison.md) — You Only Virtual founder whose effort to preserve a bond with his mother tests the promise and costs of AI grief technology.
 - [Melody Harrison](entities/MelodyHarrison.md) — Justin Harrison's mother and the source person for the evolving Versona described by Hidden Brain.
 - [You Only Virtual](entities/YouOnlyVirtual.md) — Company building relationship-specific conversational digital recreations called Versonas.

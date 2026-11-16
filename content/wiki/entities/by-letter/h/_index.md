@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14424
+wiki_total_pages: 14425
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "HYROXWorldGmbH"
     title: "HYROX World GmbH"
     url: "/wiki/entities/hyroxworldgmbh/"
+  - key: "HakonTheGood"
+    title: "Håkon the Good"
+    url: "/wiki/entities/hakonthegood/"
   - key: "Hebertists"
     title: "Hébertists"
     url: "/wiki/entities/hebertists/"

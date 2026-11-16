@@ -58995,9 +58995,9 @@
       "url": "/wiki/entities/coerciveacts/"
     },
     "CoerciveChristianization": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1992648453 [GLT1992648453].md",
@@ -59005,6 +59005,13 @@
           "show": "The Rest Is History",
           "title": "524. Charlemagne: Pagan Killer (Part 2)",
           "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-10-11",
@@ -73304,9 +73311,9 @@
       "url": "/wiki/entities/daniloillich/"
     },
     "DanishConquestOfEngland": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -73314,6 +73321,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-09-22",
@@ -133804,6 +133818,22 @@
       "updated": "2026-11-02",
       "url": "/wiki/entities/hakox/"
     },
+    "HakonTheGood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/hakonthegood/"
+    },
     "HaleyFox": {
       "episode_count": 1,
       "show_count": 1,
@@ -136694,9 +136724,9 @@
       "url": "/wiki/entities/happymondayclub/"
     },
     "HaraldBluetooth": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -136704,6 +136734,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-09-22",
@@ -136770,9 +136807,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -136815,6 +136852,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 71 - Mania for Subjugation",
           "url": "/wiki/sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-11-16",
@@ -230031,9 +230075,9 @@
       "url": "/wiki/entities/olafiiofnorway/"
     },
     "OlafTryggvason": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -230048,6 +230092,13 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-09-22",
@@ -275773,9 +275824,9 @@
       "url": "/wiki/concepts/scandalplausibilitylegitimacydamage/"
     },
     "ScandinavianChristianKingship": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -275783,6 +275834,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-09-22",
@@ -300873,9 +300931,9 @@
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
     "SweynForkbeard": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -300890,6 +300948,13 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-09-22",
@@ -321980,9 +322045,9 @@
       "url": "/wiki/concepts/vietnameserefugeeexodus/"
     },
     "VikingAgePeriodization": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1200485419 [GLT1200485419].md",
@@ -321990,15 +322055,22 @@
           "show": "The Rest Is History",
           "title": "358: Viking Sorcery",
           "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/vikingageperiodization/"
     },
     "VikingAgeWorldview": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1200485419 [GLT1200485419].md",
@@ -322013,15 +322085,22 @@
           "show": "The Rest Is History",
           "title": "103. The Norse Sagas",
           "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/vikingageworldview/"
     },
     "VikingEasternRoutes": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -322043,6 +322122,13 @@
           "show": "The Rest Is History",
           "title": "148. The Vikings Go East",
           "url": "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-10-02",
@@ -322863,9 +322949,9 @@
       "url": "/wiki/entities/vladimirraitz/"
     },
     "VladimirTheGreat": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2354182753 [GLT2354182753].md",
@@ -322880,6 +322966,13 @@
           "show": "The Rest Is History",
           "title": "69. England v Ukraine",
           "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        },
+        {
+          "episode_file": "dchha70_Twilight_of_the_Aesir_II [dchha70_Twilight_of_the_Aesir_II].md",
+          "key": "dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 70 - Twilight of the Aesir II",
+          "url": "/wiki/sources/dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii/"
         }
       ],
       "updated": "2026-10-03",

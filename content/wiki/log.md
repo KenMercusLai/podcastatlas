@@ -40841,3 +40841,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Show 70 - Twilight of the Aesir II
+
+Added a [[HardcoreHistory]] episode tracing the Viking world's transformation through lived Norse religion, settlement, eastern cultural mixture, stronger defenses, royal centralization, Christianization, and Christian Scandinavian conquest.
+
+Core synthesis: [[VikingAgeWorldview]] now distinguishes an everyday “invisible population,” non-doctrinal acknowledgement, and belief's social consequences from proof of supernatural premises. [[VikingAgePeriodization]] now separates event dates from settlement, defense, demography, state formation, and religious change. [[ScandinavianChristianKingship]] and [[CoerciveChristianization]] contrast [[HakonTheGood|Håkon the Good]]'s compromise with Harald's public conversion claim, Olaf's remembered terror, and Sweyn's Christian conquest. [[VikingEasternRoutes]] adds cultural adaptation, steppe instability, the 941 attack, and the Olga–Sviatoslav–Vladimir conversion sequence, while [[DanishConquestOfEngland]] gains the defensive, famine, naval, and political context for 1013-1016. No settled contradiction is adopted; the episode's religious endpoint remains one interpretation among overlapping transition mechanisms, and miracle stories, saga atrocities, ruler motives, force totals, and demographic estimates remain late, partisan, disputed, or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,073 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
