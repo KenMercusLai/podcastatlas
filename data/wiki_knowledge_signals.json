@@ -3799,9 +3799,9 @@
       "url": "/wiki/concepts/aiglassesproductfit/"
     },
     "AIGriefBots": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
@@ -3823,9 +3823,16 @@
           "show": "Marketplace Tech",
           "title": "Talking with AI ghosts of loved ones",
           "url": "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
+          "key": "default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222",
+          "show": "Hidden Brain",
+          "title": "Healing 2.0: Disrupting Death",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/aigriefbots/"
     },
     "AIGuidedLearningGuardrails": {
@@ -141536,9 +141543,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -141595,6 +141602,13 @@
           "show": "Hidden Brain",
           "title": "Wellness 2.0: Who Do You Want To Be?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
+          "key": "default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222",
+          "show": "Hidden Brain",
+          "title": "Healing 2.0: Disrupting Death",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222/"
         }
       ],
       "updated": "2026-11-16",
@@ -172768,6 +172782,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/junxumiwusun/"
+    },
+    "JustinHarrison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
+          "key": "default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222",
+          "show": "Hidden Brain",
+          "title": "Healing 2.0: Disrupting Death",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/justinharrison/"
     },
     "JustinKittredge": {
       "episode_count": 1,
@@ -208591,6 +208621,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/melodramaticpoliticalformation/"
+    },
+    "MelodyHarrison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
+          "key": "default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222",
+          "show": "Hidden Brain",
+          "title": "Healing 2.0: Disrupting Death",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/melodyharrison/"
     },
     "MemVerge": {
       "episode_count": 1,
@@ -344561,6 +344607,22 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/entities/youerjie/"
+    },
+    "YouOnlyVirtual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
+          "key": "default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222",
+          "show": "Hidden Brain",
+          "title": "Healing 2.0: Disrupting Death",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/youonlyvirtual/"
     },
     "YouSanjie": {
       "episode_count": 2,

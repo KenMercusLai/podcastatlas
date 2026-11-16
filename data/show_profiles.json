@@ -507,22 +507,28 @@
       "earliest_episode_date": "2020-08-03",
       "latest_episode_date": "2026-11-09",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641 [default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641].md",
-      "source_note_count": 10,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
           "source_note_count": 5
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
         }
       ],
       "entities": [],
       "start_here_episode_files": [
         "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+        "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
         "default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641 [default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641].md",
-        "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
-        "default.mp3_ywr3ahjkcgo_e107f1ec59fe4e6311a12befafe07923_88839568 [default.mp3_ywr3ahjkcgo_e107f1ec59fe4e6311a12befafe07923_88839568].md"
+        "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md"
       ]
     },
     "How I Built This with Guy Raz": {

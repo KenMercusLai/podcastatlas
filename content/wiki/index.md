@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Healing 2.0: Disrupting Death](sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222.md) — Hidden Brain follows You Only Virtual's Versona from a mother-son bond into AI-mediated continuing contact, post-death learning, consent uncertainty, and severe personal tradeoffs.
 - [Board Game Season](sources/board-game-season-board-game-season.md) — Revisionist History on how George and Anne Rohrbacher turned drought, debt, and the farm crisis into a livelihood simulation that saved their farm and supported rural conversation.
 - [The IT Revolution](sources/the-it-revolution-the-it-revolution.md) — Sponsored Revisionist History episode on private 5G, home care, clinical ambient documentation, employee-facing retail tools, staged deployment, and outcome-led CIO leadership.
 - [Revisionist History LIVE with Nate Berkus](sources/revisionist-history-live-with-nate-berkus-revisionist-history-live-with-nate-berkus.md) — Malcolm Gladwell and Nate Berkus connect exploratory travel, craft sourcing, biographical design, and anti-trend longevity.
@@ -5196,6 +5197,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A New Day at the Races](sources/a-new-day-at-the-races-a-new-day-at-the-races.md) — Sponsored Revisionist History episode on the Las Vegas Grand Prix, dense-crowd 5G, event operations, live telemetry, coaching, and personalized sports coverage.
 
 ## Entities
+- [Justin Harrison](entities/JustinHarrison.md) — You Only Virtual founder whose effort to preserve a bond with his mother tests the promise and costs of AI grief technology.
+- [Melody Harrison](entities/MelodyHarrison.md) — Justin Harrison's mother and the source person for the evolving Versona described by Hidden Brain.
+- [You Only Virtual](entities/YouOnlyVirtual.md) — Company building relationship-specific conversational digital recreations called Versonas.
 - [George Rohrbacher](entities/GeorgeRohrbacher.md) — Farmer and game designer who converted the Breaks Ranch crisis into The Farming Game.
 - [Anne Rohrbacher](entities/AnneRohrbacher.md) — Farmer and operating partner who co-developed and commercialized The Farming Game.
 - [The Farming Game](entities/TheFarmingGame.md) — Board game modeling agricultural debt, credit, harvests, expenses, uncertainty, and bankruptcy.

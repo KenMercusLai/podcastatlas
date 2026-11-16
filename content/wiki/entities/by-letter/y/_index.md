@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14421
+wiki_total_pages: 14424
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "YoshuaBengio"
     title: "Yoshua Bengio"
     url: "/wiki/entities/yoshuabengio/"
+  - key: "YouOnlyVirtual"
+    title: "You Only Virtual"
+    url: "/wiki/entities/youonlyvirtual/"
   - key: "YouGov"
     title: "YouGov"
     url: "/wiki/entities/yougov/"

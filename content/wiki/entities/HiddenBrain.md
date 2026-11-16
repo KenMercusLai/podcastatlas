@@ -11,6 +11,7 @@ sources:
   - default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697
   - default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981
   - default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184
+  - default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ knowledge_schema: synthesis-v1
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, and personally fitting goals.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, theory of mind, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -37,14 +38,16 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184|Wellness 2.0: Who Do You Want To Be?]] has [[KenSheldon]] move from goal execution to goal selection. [[SelfConcordantGoalSelection]] tests whether an aim fits values and deeper inclinations, [[IdentifiedMotivationPersistence]] separates endorsed importance from enjoyment, and [[CommitmentDeliberationRubicon]] explains why commitment supports implementation while making later revision harder. The episode's law, puzzle, athlete, hiking, and composite-career examples remain bounded by missing study detail and unequal access to major life change.
 
+[[default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222|Healing 2.0: Disrupting Death]] follows [[JustinHarrison]] from his bond with [[MelodyHarrison]] through terminal illness, cryonics planning, and the founding of [[YouOnlyVirtual]]. The Versona case makes [[AIGriefBots]] emotionally legible without treating a familiar voice or continuing interaction as literal survival: relationship-pattern fidelity can comfort the user while post-death learning, consent uncertainty, dependence, and costs to health and living relationships remain unresolved.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
 - Connects research ideas to relationships, politics, justice, mental health, history, and systems design.
 - Pairs reframing with qualifications about evidence, severity, and individual variation.
-- Moves from observed human experience to mechanisms, population evidence, and usable everyday practices.
+- Moves from observed human experience to mechanisms, population evidence, ethical questions, and usable everyday practices.
 - Preserves safety, accountability, and evidential limits when translating charitable interpretation or forgiveness into advice.
 - Uses wrongful-conviction cases and experiments to challenge intuitive confidence in confession evidence and to motivate transparent investigation reform.
-- Translates difficult-conversation, uncertainty, and crisis-engagement research into observable practices while preserving limits on control and the need for rest.
+- Uses sustained personal cases to expose tradeoffs among technological possibility, emotional meaning, consent, health, and living relationships.
 
 ## Evidence
 - Explanation and reasoning - [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361]] develops [[ExplanationDrivenSensemaking]], [[SelfExplanationKnowledgeCalibration]], and [[ExplanatoryOverreach]].
@@ -57,12 +60,13 @@ The current bounded evidence shows the program combining research explanation, c
 - Chance, explanation, and resilience - [[default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697-default-mp3-ywr3ahjkcgo-0a3c8347ab08972a4dce8dba455358cf-53039697]] develops [[ChanceSensitiveCausality]] and [[MagnitudeBias]] while extending [[QueueingTheorySlack]] and [[UncertaintyToleranceResilience]].
 - Climate distress and sustainable engagement - [[default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981-default-mp3-ywr3ahjkcgo-b88be0f610dc041ad6ff6e655ae4dc57-64189981]] develops [[ClimateDistressEngagement]], [[CollectiveEfficacySustainableAction]], and [[RestorativeWithdrawalAndReturn]].
 - Goal fit and motivation - [[default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184-default-mp3-ywr3ahjkcgo-db5f9d45fb650a533486e6eb38780ebf-49695184]] develops [[SelfConcordantGoalSelection]], [[IdentifiedMotivationPersistence]], and [[CommitmentDeliberationRubicon]] while extending [[MotivationCrowdingOut]].
+- AI-mediated grief - [[default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222]] uses [[YouOnlyVirtual]] to connect relationship-pattern modeling and continuing bonds with consent, authenticity, dependence, and present-relationship costs.
 
 ## Qualifications
-The profile is based on eight supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, composite characters, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering analysis, policy evaluation, underlying study review, or structural analysis. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, collective-efficacy, motivation, legal-career, athlete, and goal-fit claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, causal humility, rest, small action, and self-concordance do not erase credible danger, boundaries, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
+The profile is based on nine supplied episode summaries and does not establish the show's full editorial range. Listener stories, hospital scenes, historical cases, student examples, personal essays, composite characters, founder narratives, and wrongful-conviction narratives illustrate mechanisms but are not substitutes for clinical records, case files, transcripts, historical archives, engineering or product analysis, policy evaluation, underlying study review, or structural analysis. Depression, biomarker, brain-imaging, development, group comparison, forgiveness, dementia, conversation-effectiveness, interrogation, confession-reliability, historical-counterfactual, system-resilience, climate-distress, communication-effect, collective-efficacy, motivation, legal-career, athlete, goal-fit, AI-grief benefit, consent, adoption, and long-term-harm claims remain episode-scoped. Charitable interpretation, receptiveness, apology, forgiveness, causal humility, rest, small action, self-concordance, and continuing digital interaction do not erase credible danger, boundaries, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
 
 ## What Changed
-- Added the self-concordance branch connecting goal fit, external control, value-based persistence, and post-commitment revision.
+- Added the AI-mediated grief branch connecting relational authenticity and continuing bonds with consent, model drift, dependence, and living-relationship costs.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -91,3 +95,6 @@ The profile is based on eight supplied episode summaries and does not establish 
 - [[SelfConcordantGoalSelection]] - framework for testing whether a goal fits values and deeper inclinations.
 - [[IdentifiedMotivationPersistence]] - value-endorsed persistence after enjoyment declines.
 - [[CommitmentDeliberationRubicon]] - transition from choosing a goal to implementing and defending it.
+- [[JustinHarrison]] - founder whose relationship history structures the grief-technology case.
+- [[YouOnlyVirtual]] - company providing the episode's Versona design and long-term-use case.
+- [[AIGriefBots]] - technology and ethics category extended by the episode.

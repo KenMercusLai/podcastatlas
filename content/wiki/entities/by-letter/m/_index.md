@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14421
+wiki_total_pages: 14424
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "MelitaCyril"
     title: "Melita Cyril"
     url: "/wiki/entities/melitacyril/"
+  - key: "MelodyHarrison"
+    title: "Melody Harrison"
+    url: "/wiki/entities/melodyharrison/"
   - key: "MelodyJue"
     title: "Melody Jue"
     url: "/wiki/entities/melodyjue/"
