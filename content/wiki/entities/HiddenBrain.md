@@ -21,6 +21,7 @@ sources:
   - default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670
   - default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736
   - default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064
+  - default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -28,7 +29,7 @@ knowledge_schema: synthesis-v1
 # Hidden Brain
 
 ## Overview
-Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, child development, learning, reconstructive memory, theory of mind, relationship understanding, marriage expectations, regret, emotional-state self-prediction, moral conflict, whistleblowing, preference falsification, incivility, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
+Hidden Brain is a psychology and human-behavior podcast represented here through episodes on explanation, depression reframing, arts and health, child development, learning, reconstructive memory, theory of mind, relationship understanding, marriage expectations, regret, emotional-state self-prediction, purpose cultivation, moral conflict, whistleblowing, preference falsification, incivility, forgiveness, false-confession research, difficult conversations, chance-sensitive causality, sustainable crisis engagement, personally fitting goals, and AI-mediated grief.
 
 ## Current Profile
 The current bounded evidence shows the program combining research explanation, concrete scenes, listener experience, and explicit qualification. [[default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361-default-mp3-ywr3ahjkcgo-d08500083dda91b814b053f30bd7b557-87666361|The Story of Stories]] follows [[TaniaLombrozo]] from ordinary sense-making into political, legal, and conspiratorial failure modes, then uses [[JonathanRottenberg]]'s mood-system account to reframe depression without denying severe illness or treatment.
@@ -67,13 +68,15 @@ The current bounded evidence shows the program combining research explanation, c
 
 [[default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064|You 2.0: In the Heat of the Moment]] has [[GeorgeLoewenstein]] explain [[HotColdEmpathyGap|the hot–cold empathy gap]] and [[JulieWoodzicka]] test the mismatch between imagined and experienced harassment responses. [[StressRehearsalAndPreparedResponse]] turns the account toward realistic practice, prepared language, accessible safeguards, and decision delay while preserving consent, accountability, power, and evidence boundaries.
 
+[[default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705|You 2.0: Cultivating Your Purpose]] has [[AnthonyBurrow]] distinguish ongoing direction from retrospective meaning and completable goals. [[PurposeAsOngoingDirection]] connects that distinction to emotional stability and effort interpretation, while [[PurposeCultivationPathways]] and [[GripTape]] shift the practical branch toward interest, consequential experience, role models, supported action, and unequal access to possible futures.
+
 ## Key Characteristics
 - Uses concrete stories to make cognitive and psychological models legible.
 - Connects research ideas to relationships, politics, justice, moral conflict, organizations, mental health, history, and systems design.
 - Pairs reframing with qualifications about evidence, severity, and individual variation.
 - Preserves safety, accountability, and evidential limits when translating charitable interpretation or forgiveness into advice.
 - Uses wrongful-conviction cases and experiments to challenge intuitive confidence in confession evidence and to motivate transparent investigation reform.
-- Uses sustained personal cases to expose tradeoffs among technological possibility, emotional meaning, consent, health, and living relationships.
+- Uses sustained personal cases and developmental programs to connect emotional meaning, identity, technology, consent, health, relationships, and socially distributed opportunity.
 - Connects interpersonal and public behavior to feedback loops that can spread incivility, stabilize conformity, or produce rapid social and political change.
 
 ## Evidence
@@ -97,12 +100,15 @@ The current bounded evidence shows the program combining research explanation, c
 - Memory reconstruction and learning - [[default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670]] connects forgetting, schemas, source confusion, testimony caution, aging anxiety, retrieval practice, spacing, sleep, and mnemonic association.
 - Marriage history and expectation alignment - [[default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736]] connects institutional change, self-actualization expectations, resource constraints, partner-supported growth, and diversified support.
 - Emotional-state self-prediction - [[default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064]] connects prospective and retrospective empathy gaps with fear, arousal, freezing, rehearsal, safeguards, and decision delay.
+- Purpose, identity, and exploration - [[default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705]] connects ongoing direction, emotional stability, effort, cultivation pathways, and unequal access to possible selves.
 
 ## Qualifications
-The profile is based on eighteen supplied episode summaries and does not establish the show's full editorial range. Stories, cases, experiments, and public examples make mechanisms legible but do not substitute for transcripts, clinical or legal records, historical archives, underlying study review, workplace investigation, policy evaluation, or structural analysis. The psychological, developmental, relationship, organizational, political, health, memory, consent, hot–cold forecasting, harassment-response, stress-rehearsal, and intervention claims remain episode-scoped. Charitable interpretation, receptiveness, reflection, forgiveness, causal humility, play, rest, self-concordance, satisficing, rehearsal, and continuing digital interaction do not erase credible danger, boundaries, instruction needs, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
+The profile is based on nineteen supplied episode summaries and does not establish the show's full editorial range. Stories, cases, experiments, and public examples make mechanisms legible but do not substitute for transcripts, clinical or legal records, historical archives, underlying study review, workplace investigation, program evaluation, policy evaluation, or structural analysis. The psychological, developmental, relationship, organizational, political, health, memory, purpose, consent, hot–cold forecasting, harassment-response, stress-rehearsal, and intervention claims remain episode-scoped. Charitable interpretation, receptiveness, reflection, forgiveness, causal humility, play, rest, self-concordance, purpose, satisficing, rehearsal, and continuing digital interaction do not erase credible danger, boundaries, instruction needs, accountability, power differences, material constraint, structural responsibility, or preventable institutional failure.
 
 ## What Changed
-- Added the hot–cold empathy-gap branch connecting cross-state self-prediction, harassment response, rehearsal, safeguards, and decision delay.
+- Added the purpose branch distinguishing direction from meaning and completable goals.
+- Added cultivation through interests, consequential events, role models, and supported exploration.
+- Added causal and opportunity limits around purpose-associated outcomes.
 
 ## Relationships
 - [[TaniaLombrozo]] - psychologist guiding the explanation and reasoning branch.
@@ -169,3 +175,7 @@ The profile is based on eighteen supplied episode summaries and does not establi
 - [[JulieWoodzicka]] - psychologist guiding the imagined-versus-live harassment-response branch.
 - [[HotColdEmpathyGap]] - framework for prospective and retrospective failures of cross-state understanding.
 - [[StressRehearsalAndPreparedResponse]] - practice-and-environment response to performance under pressure.
+- [[AnthonyBurrow]] - psychologist guiding the purpose, identity, and development branch.
+- [[PurposeAsOngoingDirection]] - forward-looking orientation that organizes successive finite goals.
+- [[PurposeCultivationPathways]] - proactive, reactive, and social-learning routes into purpose.
+- [[GripTape]] - supported youth exploration model discussed by the show.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14606
+wiki_total_pages: 14608
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "GrillMeSkills"
     title: "GrillMe Skills"
     url: "/wiki/entities/grillmeskills/"
+  - key: "GripTape"
+    title: "GripTape"
+    url: "/wiki/entities/griptape/"
   - key: "Grok"
     title: "Grok"
     url: "/wiki/entities/grok/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11597
+wiki_total_pages: 11599
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3011,6 +3011,12 @@ wiki_pages:
   - key: "PuritanEnlightenmentPracticalEthic"
     title: "Puritan-Enlightenment Practical Ethic"
     url: "/wiki/concepts/puritanenlightenmentpracticalethic/"
+  - key: "PurposeAsOngoingDirection"
+    title: "Purpose as Ongoing Direction"
+    url: "/wiki/concepts/purposeasongoingdirection/"
+  - key: "PurposeCultivationPathways"
+    title: "Purpose Cultivation Pathways"
+    url: "/wiki/concepts/purposecultivationpathways/"
   - key: "PurposeDrivenBusiness"
     title: "Purpose Driven Business"
     url: "/wiki/concepts/purposedrivenbusiness/"

@@ -21178,6 +21178,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/anthonyburns/"
     },
+    "AnthonyBurrow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705 [default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705].md",
+          "key": "default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Cultivating Your Purpose",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/anthonyburrow/"
+    },
     "AnthonyEden": {
       "episode_count": 2,
       "show_count": 1,
@@ -132527,6 +132543,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/grigoryrasputin/"
     },
+    "GripTape": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705 [default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705].md",
+          "key": "default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Cultivating Your Purpose",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/griptape/"
+    },
     "Grokbot": {
       "episode_count": 3,
       "show_count": 2,
@@ -144386,9 +144418,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -144515,6 +144547,13 @@
           "show": "Hidden Brain",
           "title": "You 2.0: In the Heat of the Moment",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705 [default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705].md",
+          "key": "default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Cultivating Your Purpose",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705/"
         }
       ],
       "updated": "2026-11-17",
@@ -261388,6 +261427,38 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/purposeanchoredidentity/"
     },
+    "PurposeAsOngoingDirection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705 [default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705].md",
+          "key": "default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Cultivating Your Purpose",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/purposeasongoingdirection/"
+    },
+    "PurposeCultivationPathways": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705 [default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705].md",
+          "key": "default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Cultivating Your Purpose",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/purposecultivationpathways/"
+    },
     "PurposeIdentityLockIn": {
       "episode_count": 1,
       "show_count": 1,
@@ -261405,9 +261476,9 @@
       "url": "/wiki/concepts/purposeidentitylockin/"
     },
     "PurposeIntegratedMotivation": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6606381639 [SCIM6606381639].md",
@@ -261429,9 +261500,16 @@
           "show": "Tomorrow, Today",
           "title": "From Underdog to AI Advantage: Dean Graziosi on Purpose, Entrepreneurship, and Staying Human",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705 [default.mp3_ywr3ahjkcgo_77fe9affde0d4531c5ddc16147790d62_49017705].md",
+          "key": "default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705",
+          "show": "Hidden Brain",
+          "title": "You 2.0: Cultivating Your Purpose",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705/"
         }
       ],
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/purposeintegratedmotivation/"
     },
     "PursuitCenteredAchievement": {

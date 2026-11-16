@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [You 2.0: Cultivating Your Purpose](sources/default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705-default-mp3-ywr3ahjkcgo-77fe9affde0d4531c5ddc16147790d62-49017705.md) — Hidden Brain and Anthony Burrow distinguish purpose from meaning and finite goals, then connect direction to emotional stability, effort, identity exploration, cultivation pathways, and unequal opportunity.
 - [You 2.0: In the Heat of the Moment](sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064.md) — Hidden Brain and George Loewenstein connect cross-state self-prediction, fear and arousal, realistic rehearsal, prepared responses, accessible safeguards, and decision delay.
 - [A Serious Game](sources/a-serious-game-a-serious-game.md) — Revisionist History connects RAND war games, chance, Baltic and Korean scenarios, operational friction, and AI-enabled multi-actor escalation to preparation for surprise rather than prediction.
 - [The Dog Will See You Now](sources/the-dog-will-see-you-now-the-dog-will-see-you-now.md) — Revisionist History connects disease-associated odor, trained dogs, synthetic scent aids, layered confirmation, and frequency-first outbreak screening while preserving major validation and scaling limits.
@@ -5287,6 +5288,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
 
 ## Entities
+- [Anthony Burrow](entities/AnthonyBurrow.md) — Psychologist distinguishing ongoing purpose from meaning and goals while connecting direction to identity, effort, and developmental opportunity.
+- [GripTape](entities/GripTape.md) — Youth-development initiative using a ten-week self-directed challenge and adult champion to widen access to purpose exploration.
 - [George Loewenstein](entities/GeorgeLoewenstein.md) — Psychologist connecting visceral states to prospective and retrospective failures of self-prediction and to decision safeguards.
 - [Julie Woodzicka](entities/JulieWoodzicka.md) — Psychologist studying imagined versus experienced responses to sexual harassment and prepared language under pressure.
 - [Eli Finkel](entities/EliFinkel.md) — Social psychologist connecting modern marital expectations to investment, developed compatibility, partner-supported growth, and diversified support.
@@ -19989,6 +19992,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Purpose as Ongoing Direction](concepts/PurposeAsOngoingDirection.md) — Forward-looking orientation that organizes successive finite goals without being exhausted by any one achievement.
+- [Purpose Cultivation Pathways](concepts/PurposeCultivationPathways.md) — Proactive, reactive, and social-learning routes through which purpose develops via engagement and supported exploration.
 - [Hot–Cold Empathy Gap](concepts/HotColdEmpathyGap.md) — Difficulty predicting, remembering, or interpreting thought and conduct across different emotional or physiological states.
 - [Stress Rehearsal and Prepared Response](concepts/StressRehearsalAndPreparedResponse.md) — Realistic practice, small action sequences, prepared language, and environmental safeguards for action under pressure.
 - [Marriage Expectation-Investment Alignment](concepts/MarriageExpectationInvestmentAlignment.md) — Principle that marital demands should match available time, attention, psychological energy, material resources, and wider support.

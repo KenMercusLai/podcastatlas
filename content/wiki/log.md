@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | You 2.0: Cultivating Your Purpose
+
+Added the [[HiddenBrain]] episode with psychologist [[AnthonyBurrow]] on [[PurposeAsOngoingDirection]], [[PurposeCultivationPathways]], identity development, emotional stability, effort, and unequal access to possible futures. Created focused synthesis-first profiles for Burrow and [[GripTape]], then resynthesized [[PurposeIntegratedMotivation]] and Hidden Brain from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: purpose is a forward-looking direction rather than retrospective meaning or a finite achievement. It can organize successive goals, moderate emotional reactions, and place immediate effort within a longer horizon, while proactive interest, consequential events, role models, and supported exploration supply distinct routes into purpose. GripTape turns that developmental account into a ten-week self-directed challenge with a listening adult champion and an explicit access aim.
+
+No settled contradiction was adopted. Purpose does not remove stress, guarantee happiness, validate every chosen direction, or substitute for safety, opportunity, resources, and structural change. Health, longevity, cognition, income, wealth, impulsivity, social-network, likability, and intervention findings remain episode-scoped or associative because the supplied document does not provide complete methods or causal identification. The automatic `wiki/overview.md` was read for context and left unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,161 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | A Serious Game
 
 Added the [[RevisionistHistory]] episode in which [[MalcolmGladwell]] uses [[YunaWong]] and [[DavidShlapak]]'s [[RAND]] war games to distinguish preparation for surprise from prediction. Created focused profiles for Wong, Shlapak, [[ThomasSchelling]], and [[JohnGentile]], plus [[StrategicWarGaming]], [[OperationalFrictionInStrategicPlanning]], and [[AutomatedDeterrenceInteractionRisk]], then resynthesized RAND from its complete preserved evidence inventory before appending the new source once.
@@ -42074,6 +42084,10 @@ Core synthesis: calm intentions do not guarantee access to the same priorities u
 No settled contradiction was adopted. Failure to leave, confront, or resist does not establish consent, while state-dependent explanation does not erase accountability. The ice-water, sexual-arousal, harassment, training, addiction, and policy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, ethics materials, replication evidence, or policy evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,160 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide validator still reports 60 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11597
-- Entities: 14606
-- Sources: 5160
-- Total wiki content pages: 31364
+- Concepts: 11599
+- Entities: 14608
+- Sources: 5161
+- Total wiki content pages: 31369
 
 ## Links
-- Wiki link references: 703684
-- Unique wiki link targets: 31406
-- Missing targets: 54
+- Wiki link references: 703765
+- Unique wiki link targets: 31412
+- Missing targets: 55
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5160
-- Matched episodes: 5160
+- Source pages: 5161
+- Matched episodes: 5161
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -122,6 +122,8 @@ outputs: ["html"]
   - `content/wiki/log.md`
 - `[[SeaControlAsStateCapacity]]`
   - `content/wiki/concepts/MartialHeroHistoricalAgencyLimits.md`
+- `[[SocialLearningTheory]]`
+  - `content/wiki/concepts/PurposeCultivationPathways.md`
 - `[[Spanx]]`
   - `content/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31.md`
 - `[[SparkCapital]]`
