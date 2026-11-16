@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11595
+wiki_total_pages: 11597
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2519,6 +2519,9 @@ wiki_pages:
   - key: "StressEatingRewardLoop"
     title: "Stress Eating Reward Loop"
     url: "/wiki/concepts/stresseatingrewardloop/"
+  - key: "StressRehearsalAndPreparedResponse"
+    title: "Stress Rehearsal and Prepared Response"
+    url: "/wiki/concepts/stressrehearsalandpreparedresponse/"
   - key: "StressResponseRecovery"
     title: "Stress Response Recovery"
     url: "/wiki/concepts/stressresponserecovery/"

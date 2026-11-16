@@ -126601,6 +126601,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/georgejones/"
     },
+    "GeorgeLoewenstein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064 [default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064].md",
+          "key": "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064",
+          "show": "Hidden Brain",
+          "title": "You 2.0: In the Heat of the Moment",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/georgeloewenstein/"
+    },
     "GeorgeLucas": {
       "episode_count": 4,
       "show_count": 4,
@@ -144370,9 +144386,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -144492,6 +144508,13 @@
           "show": "Hidden Brain",
           "title": "You 2.0: When Did Marriage Become So Hard?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064 [default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064].md",
+          "key": "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064",
+          "show": "Hidden Brain",
+          "title": "You 2.0: In the Heat of the Moment",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
         }
       ],
       "updated": "2026-11-17",
@@ -148879,6 +148902,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/hostilemediaeffect/"
+    },
+    "HotColdEmpathyGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064 [default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064].md",
+          "key": "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064",
+          "show": "Hidden Brain",
+          "title": "You 2.0: In the Heat of the Moment",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/hotcoldempathygap/"
     },
     "HotelAssetLightFranchiseModel": {
       "episode_count": 2,
@@ -175816,6 +175855,22 @@
       ],
       "updated": "2026-11-07",
       "url": "/wiki/entities/julierochman/"
+    },
+    "JulieWoodzicka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064 [default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064].md",
+          "key": "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064",
+          "show": "Hidden Brain",
+          "title": "You 2.0: In the Heat of the Moment",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/juliewoodzicka/"
     },
     "JulietteBruce": {
       "episode_count": 1,
@@ -302942,6 +302997,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/stresseatingrewardloop/"
+    },
+    "StressRehearsalAndPreparedResponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064 [default.mp3_ywr3ahjkcgo_54c8775f12073c97727d3b23968ec38f_49780064].md",
+          "key": "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064",
+          "show": "Hidden Brain",
+          "title": "You 2.0: In the Heat of the Moment",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/stressrehearsalandpreparedresponse/"
     },
     "StressResponseRecovery": {
       "episode_count": 8,

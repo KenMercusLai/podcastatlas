@@ -48900,6 +48900,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HotColdEmpathyGap": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "HotelPMSInventoryControl": [
     {
       "key": "technology",
@@ -89804,6 +89811,13 @@
       "url": "/topics/science/"
     }
   ],
+  "StressRehearsalAndPreparedResponse": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "StressResponseRecovery": [
     {
       "key": "science",
@@ -108448,6 +108462,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222": [

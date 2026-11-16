@@ -42064,3 +42064,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | You 2.0: In the Heat of the Moment
+
+Added a [[HiddenBrain]] episode with psychologists [[GeorgeLoewenstein|George Loewenstein]] and [[JulieWoodzicka|Julie Woodzicka]] on the [[HotColdEmpathyGap]], prospective and retrospective cross-state prediction, fear and freezing in harassment contexts, and [[StressRehearsalAndPreparedResponse]]. Created focused profiles for both researchers and both concepts, then resynthesized [[HiddenBrain]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: calm intentions do not guarantee access to the same priorities under excitement, arousal, fear, shame, pain, hunger, anger, or craving, and experience alone may not preserve the motivational force of a past hot state. Realistic rehearsal, small action sequences, prepared language, accessible safeguards, and carefully designed delay can reduce dependence on cross-state imagination.
+
+No settled contradiction was adopted. Failure to leave, confront, or resist does not establish consent, while state-dependent explanation does not erase accountability. The ice-water, sexual-arousal, harassment, training, addiction, and policy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, ethics materials, replication evidence, or policy evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,160 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide validator still reports 60 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

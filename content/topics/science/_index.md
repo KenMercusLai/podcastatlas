@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1710
+topic_total_pages: 1713
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1198,6 +1198,9 @@ topic_concepts:
   - key: "HostileMediaEffect"
     title: "Hostile Media Effect / 敌意媒体效应"
     url: "/wiki/concepts/hostilemediaeffect/"
+  - key: "HotColdEmpathyGap"
+    title: "Hot–Cold Empathy Gap"
+    url: "/wiki/concepts/hotcoldempathygap/"
   - key: "HouseholdBalanceSheetRepair"
     title: "Household Balance-Sheet Repair"
     url: "/wiki/concepts/householdbalancesheetrepair/"
@@ -2455,6 +2458,9 @@ topic_concepts:
   - key: "StressBiologicalAging"
     title: "Stress Biological Aging"
     url: "/wiki/concepts/stressbiologicalaging/"
+  - key: "StressRehearsalAndPreparedResponse"
+    title: "Stress Rehearsal and Prepared Response"
+    url: "/wiki/concepts/stressrehearsalandpreparedresponse/"
   - key: "StressResponseRecovery"
     title: "Stress Response Recovery"
     url: "/wiki/concepts/stressresponserecovery/"
@@ -5049,6 +5055,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670"
     title: "You 2.0: Did That Really Happen?"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
+  - key: "default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064"
+    title: "You 2.0: In the Heat of the Moment"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064/"
   - key: "default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793"
     title: "You 2.0: Regrets, I Have a Few..."
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793/"

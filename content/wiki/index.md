@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [You 2.0: In the Heat of the Moment](sources/default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064-default-mp3-ywr3ahjkcgo-54c8775f12073c97727d3b23968ec38f-49780064.md) — Hidden Brain and George Loewenstein connect cross-state self-prediction, fear and arousal, realistic rehearsal, prepared responses, accessible safeguards, and decision delay.
 - [A Serious Game](sources/a-serious-game-a-serious-game.md) — Revisionist History connects RAND war games, chance, Baltic and Korean scenarios, operational friction, and AI-enabled multi-actor escalation to preparation for surprise rather than prediction.
 - [The Dog Will See You Now](sources/the-dog-will-see-you-now-the-dog-will-see-you-now.md) — Revisionist History connects disease-associated odor, trained dogs, synthetic scent aids, layered confirmation, and frequency-first outbreak screening while preserving major validation and scaling limits.
 - [You 2.0: Regrets, I Have a Few...](sources/default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793-default-mp3-ywr3ahjkcgo-e3af8fff4431a2e0de997f372a273cac-28609793.md) — Hidden Brain and Amy Somerville connect regret with learning versus rumination, counterfactual comparison, proportionate responsibility, and satisficing.
@@ -5286,6 +5287,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
 
 ## Entities
+- [George Loewenstein](entities/GeorgeLoewenstein.md) — Psychologist connecting visceral states to prospective and retrospective failures of self-prediction and to decision safeguards.
+- [Julie Woodzicka](entities/JulieWoodzicka.md) — Psychologist studying imagined versus experienced responses to sexual harassment and prepared language under pressure.
 - [Eli Finkel](entities/EliFinkel.md) — Social psychologist connecting modern marital expectations to investment, developed compatibility, partner-supported growth, and diversified support.
 - [Stephanie Coontz](entities/StephanieCoontz.md) — Historian tracing marriage across economic coordination, romantic choice, household production, and changing gender roles.
 - [Yuna Wong](entities/YunaWong.md) — War-gaming researcher using AI-enabled multi-actor crisis simulation to reveal unplanned interactions and escalation risks.
@@ -19986,6 +19989,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
 
 ## Concepts
+- [Hot–Cold Empathy Gap](concepts/HotColdEmpathyGap.md) — Difficulty predicting, remembering, or interpreting thought and conduct across different emotional or physiological states.
+- [Stress Rehearsal and Prepared Response](concepts/StressRehearsalAndPreparedResponse.md) — Realistic practice, small action sequences, prepared language, and environmental safeguards for action under pressure.
 - [Marriage Expectation-Investment Alignment](concepts/MarriageExpectationInvestmentAlignment.md) — Principle that marital demands should match available time, attention, psychological energy, material resources, and wider support.
 - [Michelangelo Effect](concepts/MichelangeloEffect.md) — Partner-supported movement from a current self toward a valued ideal self through responsive affirmation.
 - [Strategic War Gaming](concepts/StrategicWarGaming.md) — Interactive assumption-testing method that uses roles, chance, repetition, and operational detail to prepare for plausible surprise without claiming prediction.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11595
+wiki_total_pages: 11597
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "HotelStarRatingErosion"
     title: "Hotel Star-Rating Erosion"
     url: "/wiki/concepts/hotelstarratingerosion/"
+  - key: "HotColdEmpathyGap"
+    title: "Hot–Cold Empathy Gap"
+    url: "/wiki/concepts/hotcoldempathygap/"
   - key: "HouseholdAIAssistant"
     title: "Household AI Assistant"
     url: "/wiki/concepts/householdaiassistant/"
