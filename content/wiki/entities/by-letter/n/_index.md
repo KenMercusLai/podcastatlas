@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 14461
+wiki_total_pages: 14465
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "NewYorkStateRiflePistolAssociationVBruen"
     title: "New York State Rifle & Pistol Association v. Bruen"
     url: "/wiki/entities/newyorkstateriflepistolassociationvbruen/"
+  - key: "NewYorkStateTrainingSchoolForGirls"
+    title: "New York State Training School for Girls"
+    url: "/wiki/entities/newyorkstatetrainingschoolforgirls/"
   - key: "NewYorkStockExchange"
     title: "New York Stock Exchange / 纽约证券交易所"
     url: "/wiki/entities/newyorkstockexchange/"

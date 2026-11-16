@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Acting Out](sources/acting-out.md) — Revisionist History connects Ella Fitzgerald's concealed confinement to the sociometric origins of social network analysis and the institutional racism its maps failed to explain.
 - [Taxonomy of the Modern Mystery Story](sources/taxonomy-of-the-modern-mystery-story.md) — Revisionist History classifies crime fiction by excellent, absent, incompetent, or corrupt authority and contrasts investigator-centered stories with consent-based policing and real evidentiary limits.
 - [Guns Part 1: The Sudden Celebrity of Sir John Knight](sources/guns-part-1-the-sudden-celebrity-of-sir-john-knight.md) — Revisionist History reopens Sir John Knight's 1686 acquittal through contemporary newsletters and questions its use as a clean public-carry precedent in Bruen.
 - [Guns Part 2: Getting out of Dodge](sources/guns-part-2-getting-out-of-dodge.md) — Revisionist History contrasts Gunsmoke's armed-individual safety myth with historical Dodge City policing, firearm restrictions, and collective public-carry risk.
@@ -5212,6 +5213,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silicon Valley on the Couch](sources/silicon-valley-on-the-couch.md) — Revisionist History connects Shockley's Mountain View choice, maternal proximity, coercive management, and the Traitorous Eight to a contingent origin story for Silicon Valley.
 
 ## Entities
+- [Ella Fitzgerald](entities/EllaFitzgerald.md) — American singer whose Apollo breakthrough followed an obscured period of confinement, segregation, forced labor, and reported abuse at Hudson.
+- [J. L. Moreno](entities/JacobLevyMoreno.md) — Psychiatrist and psychodrama pioneer whose Hudson collaboration helped establish sociometry while underrepresenting institutional coercion.
+- [Helen Hall Jennings](entities/HelenHallJennings.md) — Sociological researcher whose methodological rigor helped operationalize the Hudson relationship study.
+- [New York State Training School for Girls](entities/NewYorkStateTrainingSchoolForGirls.md) — Hudson reformatory combining Progressive reform, prison-like custody, racial segregation, and a whole-community sociometric study.
 - [Sir John Knight](entities/SirJohnKnight.md) — Bristol merchant whose disputed 1686 acquittal became a modern American gun-rights precedent.
 - [Joyce Malcolm](entities/JoyceMalcolm.md) — Constitutional historian associated with the public-carry interpretation of Knight's acquittal.
 - [Roger Morrice](entities/RogerMorrice.md) — Seventeenth-century newsletter writer whose reports provide fuller context for Knight's prosecution.
@@ -19768,6 +19773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Karen Stahl](entities/KarenStahl.md) — Airline captain and fear-of-flying instructor illustrating passenger anxiety and gendered pilot-voice expectations.
 
 ## Concepts
+- [Sociometry](concepts/Sociometry.md) — Measurement and visualization of attraction, rejection, preference, and isolation within a group, bounded by what its relational variables omit.
+- [Measurement Without Institutional Context](concepts/MeasurementWithoutInstitutionalContext.md) — Scope error in treating a detailed relational or outcome model as sufficient explanation while omitting power, coercion, and material conditions.
 - [Crime-Fiction Authority Taxonomy](concepts/CrimeFictionAuthorityTaxonomy.md) — Four-role model distinguishing stories with excellent, absent, incompetent, or corrupt official authority while treating hybrids and causal media effects cautiously.
 - [History-and-Tradition Constitutional Test](concepts/HistoryAndTraditionConstitutionalTest.md) — Constitutional method whose reliance on historical analogues creates source-selection and circularity risks.
 - [Contextual Legal History](concepts/ContextualLegalHistory.md) — Method of testing compressed legal reports against contemporary records, local rules, politics, and procedure.

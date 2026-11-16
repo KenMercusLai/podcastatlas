@@ -41042,3 +41042,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Acting Out
+
+Added the [[RevisionistHistory]] episode connecting [[EllaFitzgerald|Ella Fitzgerald's]] concealed confinement at the [[NewYorkStateTrainingSchoolForGirls|New York State Training School for Girls]] to [[JacobLevyMoreno|J. L. Moreno]] and [[HelenHallJennings|Helen Hall Jennings's]] foundational relationship study. Created focused profiles for Fitzgerald, Moreno, Jennings, and the institution, plus [[Sociometry]] and [[MeasurementWithoutInstitutionalContext]], and extended [[BoundedSocialContagion]] from cross-community clustering to a mapped escape network inside a coercive institution.
+
+Core synthesis: sociometry made attraction, rejection, isolation, and possible transmission pathways visible, but relational completeness did not make the model institutionally or causally complete. The reported escape cluster and post-reorganization decline are consistent with network influence; segregation, forced labor, punishment, abuse, policy, and shared motive remain alternative or interacting explanations. Fitzgerald's Apollo victory is retained as an achievement while being recontextualized as a transition out of confinement and hardship.
+
+No settled contradiction was adopted. The possible identification of Fitzgerald as coded resident “GA,” her exact cottage, study participation, manner of departure, and some abuse details remain uncertain or attributed. Escape rates, resident and data totals, intervention effects, dialogue, and claims about researcher motive remain source-scoped because the supplied file is a structured summary rather than a transcript, institutional archive, sociometric dataset, investigative record, or controlled study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,088 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
