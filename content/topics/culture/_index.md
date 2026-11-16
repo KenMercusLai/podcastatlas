@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3780
+topic_total_pages: 3782
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -73,6 +73,9 @@ topic_concepts:
   - key: "AffectivePolarization"
     title: "Affective Polarization / 情感极化"
     url: "/wiki/concepts/affectivepolarization/"
+  - key: "AffordableOnlineDegreeAccess"
+    title: "Affordable Online Degree Access"
+    url: "/wiki/concepts/affordableonlinedegreeaccess/"
   - key: "AfghanWomenFirstPersonWriting"
     title: "Afghan Women First-Person Writing"
     url: "/wiki/concepts/afghanwomenfirstpersonwriting/"
@@ -2803,6 +2806,9 @@ topic_concepts:
   - key: "PodcastReleaseCadence"
     title: "Podcast Release Cadence"
     url: "/wiki/concepts/podcastreleasecadence/"
+  - key: "PodcastScoringAsNarrativeDesign"
+    title: "Podcast Scoring as Narrative Design"
+    url: "/wiki/concepts/podcastscoringasnarrativedesign/"
   - key: "PodcastToBookSystematization"
     title: "Podcast To Book Systematization"
     url: "/wiki/concepts/podcasttobooksystematization/"

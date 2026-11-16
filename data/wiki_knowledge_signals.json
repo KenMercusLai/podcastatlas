@@ -11176,6 +11176,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/affordablecareact/"
     },
+    "AffordableOnlineDegreeAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Return_to_the_404 [Return_to_the_404].md",
+          "key": "return-to-the-404-return-to-the-404",
+          "show": "Revisionist History",
+          "title": "Return to the 404",
+          "url": "/wiki/sources/return-to-the-404-return-to-the-404/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/affordableonlinedegreeaccess/"
+    },
     "Afghanistan": {
       "episode_count": 4,
       "show_count": 3,
@@ -50608,6 +50624,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/entities/charlesiv/"
+    },
+    "CharlesIsbell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Return_to_the_404 [Return_to_the_404].md",
+          "key": "return-to-the-404-return-to-the-404",
+          "show": "Revisionist History",
+          "title": "Return to the 404",
+          "url": "/wiki/sources/return-to-the-404-return-to-the-404/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/charlesisbell/"
     },
     "CharlesLightoller": {
       "episode_count": 2,
@@ -105800,6 +105832,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/expertrubricverification/"
     },
+    "ExpertSilenceUnderConsequence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Return_to_the_404 [Return_to_the_404].md",
+          "key": "return-to-the-404-return-to-the-404",
+          "show": "Revisionist History",
+          "title": "Return to the 404",
+          "url": "/wiki/sources/return-to-the-404-return-to-the-404/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/expertsilenceunderconsequence/"
+    },
     "ExpertUncertaintyCommunication": {
       "episode_count": 1,
       "show_count": 1,
@@ -127499,6 +127547,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/georgiabanjo/"
+    },
+    "GeorgiaTech": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Return_to_the_404 [Return_to_the_404].md",
+          "key": "return-to-the-404-return-to-the-404",
+          "show": "Revisionist History",
+          "title": "Return to the 404",
+          "url": "/wiki/sources/return-to-the-404-return-to-the-404/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/georgiatech/"
     },
     "GeorgianHealthResortFormation": {
       "episode_count": 1,
@@ -201751,6 +201815,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/luisdesantangel/"
     },
+    "LuisGuerra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Return_to_the_404 [Return_to_the_404].md",
+          "key": "return-to-the-404-return-to-the-404",
+          "show": "Revisionist History",
+          "title": "Return to the 404",
+          "url": "/wiki/sources/return-to-the-404-return-to-the-404/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/luisguerra/"
+    },
     "LuizInacioLulaDaSilva": {
       "episode_count": 3,
       "show_count": 1,
@@ -250655,6 +250735,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/podcastproductionworkflow/"
+    },
+    "PodcastScoringAsNarrativeDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Return_to_the_404 [Return_to_the_404].md",
+          "key": "return-to-the-404-return-to-the-404",
+          "show": "Revisionist History",
+          "title": "Return to the 404",
+          "url": "/wiki/sources/return-to-the-404-return-to-the-404/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/podcastscoringasnarrativedesign/"
     },
     "PoeticCausality": {
       "episode_count": 1,

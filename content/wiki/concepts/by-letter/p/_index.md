@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11614
+wiki_total_pages: 11617
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "PodcastReleaseCadence"
     title: "Podcast Release Cadence"
     url: "/wiki/concepts/podcastreleasecadence/"
+  - key: "PodcastScoringAsNarrativeDesign"
+    title: "Podcast Scoring as Narrative Design"
+    url: "/wiki/concepts/podcastscoringasnarrativedesign/"
   - key: "PodcastToBookSystematization"
     title: "Podcast To Book Systematization"
     url: "/wiki/concepts/podcasttobooksystematization/"

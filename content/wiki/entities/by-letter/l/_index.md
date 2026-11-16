@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14619
+wiki_total_pages: 14622
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "LuisDeSantangel"
     title: "Luis de Santángel"
     url: "/wiki/entities/luisdesantangel/"
+  - key: "LuisGuerra"
+    title: "Luis Guerra"
+    url: "/wiki/entities/luisguerra/"
   - key: "LuizInacioLulaDaSilva"
     title: "Luiz Inacio Lula da Silva"
     url: "/wiki/entities/luizinacioluladasilva/"

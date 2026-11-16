@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Return to the 404](sources/return-to-the-404-return-to-the-404.md) — Revisionist History connects Georgia Tech's shift from segregation toward wider computing access with voice-centered podcast scoring, art-authentication silence, and standardized-test skepticism.
 - [Waiting Games](sources/default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587-default-mp3-ywr3ahjkcgo-fb27a2f1edb36120fa77e5b7b54ac6de-51580587.md) — Hidden Brain and Kate Sweeny distinguish near-miss from task-completion relief and connect waiting distress to timing, control, outlook, contingency planning, and flow.
 - [Malcolm Gladwell and Adam Grant](sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant.md) — Revisionist History conversation on constrained moral judgment, innovation execution, harmonious passion, scientist-mode rethinking, and durable principles with revisable plans.
 - [Lord of the Rankings](sources/lord-of-the-rankings-lord-of-the-rankings.md) — Revisionist History uses Reed's ranking reconstruction, weakly informed peer assessment, and HBCU bond costs to expose circular and racialized institutional reputation.
@@ -5295,6 +5296,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Introducing Revisionist History Season Six](sources/introducing-revisionist-history-season-six.md) — Malcolm Gladwell previews a more mobile and confrontational season spanning Disney, cycling, communist history, underwater stories, and an unexplained retelling.
 
 ## Entities
+- [Charles Isbell](entities/CharlesIsbell.md) — Georgia Tech dean and AI researcher connecting lower-cost online computing education, wider talent access, and Atlanta hip-hop culture.
+- [Georgia Tech](entities/GeorgiaTech.md) — Atlanta university presented through its movement from segregated academic access toward wider computing education.
+- [Luis Guerra](entities/LuisGuerra.md) — Revisionist History composer using voice, harmony, inversion, restraint, and live flexibility as narrative tools.
 - [Kate Sweeny](entities/KateSweeny.md) — Psychologist studying waiting, uncertainty, relief, limited control, and time-sensitive coping.
 - [Haywood Hansell](entities/HaywoodHansell.md) — Precision-bombing advocate whose humane technological ambition encountered severe wartime execution limits.
 - [The Bomber Mafia](entities/TheBomberMafiaBook.md) — Malcolm Gladwell book about precision air power, operational failure, and catastrophic wartime alternatives.
@@ -20010,6 +20014,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
+- [Affordable Online Degree Access](concepts/AffordableOnlineDegreeAccess.md) — Lower-cost remote degree delivery evaluated across reach, academic continuity, support, completion, and outcomes.
+- [Podcast Scoring as Narrative Design](concepts/PodcastScoringAsNarrativeDesign.md) — Composition around voice, tone, tension, editorial perspective, and performance constraints without overpowering speech.
+- [Expert Silence Under Consequence](concepts/ExpertSilenceUnderConsequence.md) — Withdrawal or hedging of informed judgment when legal, financial, professional, or reputational exposure rises.
 - [Relief Response Types](concepts/ReliefResponseTypes.md) — Distinction between reflective, high-arousal near-miss relief and exhausted, closing relief after completing an ordeal.
 - [Waiting Under Uncertainty](concepts/WaitingUnderUncertainty.md) — Time-varying strain of awaiting a consequential outcome and a bounded toolkit of outlook, planning, possible benefits, and flow.
 - [Contextual Moral Judgment](concepts/ContextualMoralJudgment.md) — Evaluation that incorporates constraints, feasible alternatives, and execution difficulty without converting explanation into exoneration.

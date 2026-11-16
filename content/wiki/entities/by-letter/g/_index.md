@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14619
+wiki_total_pages: 14622
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "GeorgiaBanjo"
     title: "Georgia Banjo"
     url: "/wiki/entities/georgiabanjo/"
+  - key: "GeorgiaTech"
+    title: "Georgia Tech"
+    url: "/wiki/entities/georgiatech/"
   - key: "GeorgiaPacific"
     title: "Georgia-Pacific"
     url: "/wiki/entities/georgiapacific/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11614
+wiki_total_pages: 11617
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "AffordabilityDrivenSocialism"
     title: "Affordability-Driven Socialism"
     url: "/wiki/concepts/affordabilitydrivensocialism/"
+  - key: "AffordableOnlineDegreeAccess"
+    title: "Affordable Online Degree Access"
+    url: "/wiki/concepts/affordableonlinedegreeaccess/"
   - key: "AfghanWomenFirstPersonWriting"
     title: "Afghan Women First-Person Writing"
     url: "/wiki/concepts/afghanwomenfirstpersonwriting/"
