@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Teaser: The Compromises of Al Levitt](sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt.md) — Revisionist History teaser on Al Levitt's interrupted screenwriting path, wartime film service, and dismissive recollection of Ronald Reagan at the First Motion Picture Unit.
 - [Teaser: Pushkin’s Dirty Laundry](sources/teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry.md) — Revisionist History teaser on internal detergent backlash, disputed corporate environmental claims, ethical consumption, and lifestyle stereotypes.
 - [Work 2.0: Life, Interrupted](sources/default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712-default-mp3-ywr3ahjkcgo-01b4ea684c25d46bfca84c97e3c8f96f-52625712.md) — Hidden Brain and Cal Newport connect attention residue, role-specific deep work, negotiated availability, visible busyness, working-memory interruption research, and the risk that efficiency becomes more work.
 - [Work 2.0: Rebel with a Cause](sources/default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468-default-mp3-ywr3ahjkcgo-47a9088936dc7be4136c0faa5df35a70-49678468.md) — Hidden Brain distinguishes purposeful challenge from destructive rule-breaking while keeping expertise, respectful dissent, explicit safeguards, and a retracted study in view.
@@ -19952,6 +19953,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sam Legge](entities/SamLegge.md) — Minnesota starvation volunteer whose uncertain finger injury, altered self-control, continued commitment, and later testimony join severe harm to chosen service.
 - [Sarah Tracy](entities/SarahTracy.md) — Historian whose correspondence research recovers conscientious objectors as initiators and collaborators in the Minnesota study.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
+- [Al Levitt](entities/AlLevitt.md) — Aspiring Hollywood screenwriter and wartime film-unit member whose recollection contrasts youthful communist politics with work alongside Ronald Reagan.
+- [First Motion Picture Unit](entities/FirstMotionPictureUnit.md) — Army Air Forces wartime filmmaking unit producing training films and newsreels at the former Hal Roach Studios.
 
 ## Concepts
 - [Ethical Consumer Choice Evaluation](concepts/EthicalConsumerChoiceEvaluation.md) — Multi-criterion product comparison that separates performance, corporate conduct, environmental scope, evidence quality, and consumer stereotypes.

@@ -13540,6 +13540,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/alkhayzuran/"
     },
+    "AlLevitt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Teaser_The_Compromises_of_Al_Levitt [Teaser_The_Compromises_of_Al_Levitt].md",
+          "key": "teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt",
+          "show": "Revisionist History",
+          "title": "Teaser: The Compromises of Al Levitt",
+          "url": "/wiki/sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/allevitt/"
+    },
     "AlMansur": {
       "episode_count": 1,
       "show_count": 1,
@@ -113069,6 +113085,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/firstmarchonrome/"
+    },
+    "FirstMotionPictureUnit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Teaser_The_Compromises_of_Al_Levitt [Teaser_The_Compromises_of_Al_Levitt].md",
+          "key": "teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt",
+          "show": "Revisionist History",
+          "title": "Teaser: The Compromises of Al Levitt",
+          "url": "/wiki/sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/firstmotionpictureunit/"
     },
     "FirstPartySystem": {
       "episode_count": 2,
@@ -275916,9 +275948,9 @@
       "url": "/wiki/entities/ronaldhutton/"
     },
     "RonaldReagan": {
-      "episode_count": 7,
-      "show_count": 2,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 3,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -275968,9 +276000,16 @@
           "show": "The Rest Is History",
           "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
           "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        },
+        {
+          "episode_file": "Teaser_The_Compromises_of_Al_Levitt [Teaser_The_Compromises_of_Al_Levitt].md",
+          "key": "teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt",
+          "show": "Revisionist History",
+          "title": "Teaser: The Compromises of Al Levitt",
+          "url": "/wiki/sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/ronaldreagan/"
     },
     "RongJunchuan": {

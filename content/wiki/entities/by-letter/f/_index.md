@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14584
+wiki_total_pages: 14586
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "FirstKamchatkaExpedition"
     title: "First Kamchatka Expedition / 第一次勘察加探险"
     url: "/wiki/entities/firstkamchatkaexpedition/"
+  - key: "FirstMotionPictureUnit"
+    title: "First Motion Picture Unit"
+    url: "/wiki/entities/firstmotionpictureunit/"
   - key: "FirstRepublicBank"
     title: "First Republic Bank"
     url: "/wiki/entities/firstrepublicbank/"

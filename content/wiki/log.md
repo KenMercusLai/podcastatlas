@@ -41904,3 +41904,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Teaser: The Compromises of Al Levitt
+
+Added a short [[RevisionistHistory]] teaser on [[AlLevitt|Al Levitt]]'s New York and Young Communist League background, move to Hollywood, interrupted screenwriting ambition, and service at the [[FirstMotionPictureUnit|First Motion Picture Unit]]. Created focused synthesis-first profiles for Levitt and the unit, then resynthesized [[RonaldReagan|Ronald Reagan]] from his complete preserved source inventory before appending the new source once.
+
+Core synthesis: the First Motion Picture Unit brought politically divergent Hollywood personnel into the same wartime media institution. Reagan narrated military films there, while Levitt later remembered his cavalry-dress arrival as a source of ridicule. No settled contradiction was adopted: the anecdote supplies a deflating firsthand perspective, not an objective verdict about Reagan's service or the opinion of the entire post. The teaser does not explain the later compromises in its title, and its political, employment, draft-board, workplace-reputation, and production details remain source-scoped without personnel records, production credits, a transcript, or the full bonus episode.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,148 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

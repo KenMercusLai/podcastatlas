@@ -8815,6 +8815,10 @@
     "title": "Al-Khayzuran",
     "url": "/wiki/entities/alkhayzuran/"
   },
+  "AlLevitt": {
+    "title": "Al Levitt",
+    "url": "/wiki/entities/allevitt/"
+  },
   "AlMansur": {
     "title": "Al-Mansur",
     "url": "/wiki/entities/almansur/"
@@ -36922,6 +36926,10 @@
   "FirstMarchOnRome": {
     "title": "First March on Rome / 第一次进军罗马",
     "url": "/wiki/concepts/firstmarchonrome/"
+  },
+  "FirstMotionPictureUnit": {
+    "title": "First Motion Picture Unit",
+    "url": "/wiki/entities/firstmotionpictureunit/"
   },
   "FirstPartySystem": {
     "title": "First Party System",
@@ -116006,6 +116014,10 @@
   "teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry": {
     "title": "Teaser: Pushkin’s Dirty Laundry",
     "url": "/wiki/sources/teaser-pushkin-s-dirty-laundry-teaser-pushkin-s-dirty-laundry/"
+  },
+  "teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt": {
+    "title": "Teaser: The Compromises of Al Levitt",
+    "url": "/wiki/sources/teaser-the-compromises-of-al-levitt-teaser-the-compromises-of-al-levitt/"
   },
   "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
