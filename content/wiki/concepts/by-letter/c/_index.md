@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11485
+wiki_total_pages: 11488
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2339,6 +2339,9 @@ wiki_pages:
   - key: "ConsciousnessBehaviorDissociation"
     title: "Consciousness-Behavior Dissociation"
     url: "/wiki/concepts/consciousnessbehaviordissociation/"
+  - key: "ConsensusBasedCreativeCompletion"
+    title: "Consensus-Based Creative Completion"
+    url: "/wiki/concepts/consensusbasedcreativecompletion/"
   - key: "ConsensusTrainedArtBoundary"
     title: "Consensus-Trained Art Boundary"
     url: "/wiki/concepts/consensustrainedartboundary/"
@@ -3002,6 +3005,9 @@ wiki_pages:
   - key: "CreationAsConsumption"
     title: "Creation As Consumption"
     url: "/wiki/concepts/creationasconsumption/"
+  - key: "CreativeAbundanceAndTransformativeInfluence"
+    title: "Creative Abundance and Transformative Influence"
+    url: "/wiki/concepts/creativeabundanceandtransformativeinfluence/"
   - key: "CreativeActionBeforeReadiness"
     title: "Creative Action Before Readiness / 条件未齐时先行动"
     url: "/wiki/concepts/creativeactionbeforereadiness/"

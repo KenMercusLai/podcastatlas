@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3752
+topic_total_pages: 3753
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6818,6 +6818,9 @@ topic_entities:
   - key: "TheCoralIsland"
     title: "The Coral Island / 《珊瑚岛》"
     url: "/wiki/entities/thecoralisland/"
+  - key: "TheCreativeAct"
+    title: "The Creative Act"
+    url: "/wiki/entities/thecreativeact/"
   - key: "TheEarthTransformed"
     title: "The Earth Transformed"
     url: "/wiki/entities/theearthtransformed/"
