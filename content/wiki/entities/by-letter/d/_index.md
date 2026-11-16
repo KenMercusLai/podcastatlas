@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14538
+wiki_total_pages: 14540
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "DartmouthCollege"
     title: "Dartmouth College / 达特茅斯学院"
     url: "/wiki/entities/dartmouthcollege/"
+  - key: "DarwinRocher"
+    title: "Darwin Rocher"
+    url: "/wiki/entities/darwinrocher/"
   - key: "DarylFairweather"
     title: "Daryl Fairweather"
     url: "/wiki/entities/darylfairweather/"

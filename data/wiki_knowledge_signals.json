@@ -9139,6 +9139,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/adamkelly/"
     },
+    "AdamWaytz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/adamwaytz/"
+    },
     "AdaptationAsMoralReframing": {
       "episode_count": 3,
       "show_count": 3,
@@ -74860,6 +74876,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/dartmouthcollege/"
+    },
+    "DarwinRocher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/darwinrocher/"
     },
     "DataAgentBenchmarks": {
       "episode_count": 1,
@@ -143076,9 +143108,9 @@
       "url": "/wiki/concepts/hiddenassetoptionality/"
     },
     "HiddenBrain": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
@@ -143142,6 +143174,13 @@
           "show": "Hidden Brain",
           "title": "Healing 2.0: Disrupting Death",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222-default-mp3-ywr3ahjkcgo-63cb212c296d144dd0efeccbca3379e1-54263222/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
         }
       ],
       "updated": "2026-11-16",
@@ -198003,6 +198042,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
+    "LoyaltyJusticeMoralConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/loyaltyjusticemoralconflict/"
+    },
     "LuBodeWesternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -219516,6 +219571,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/morallearningthroughdisillusionment/"
     },
+    "MoralLicensing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/morallicensing/"
+    },
     "MoralMentorshipTalentCultivation": {
       "episode_count": 2,
       "show_count": 1,
@@ -219660,6 +219731,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/moralslanderreframing/"
+    },
+    "MoralStress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/moralstress/"
     },
     "MoratoriumDistributionalBurden": {
       "episode_count": 1,
@@ -334764,6 +334851,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/wherethecrawdadssingfilm/"
+    },
+    "WhistleblowingAsMissionLoyalty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
+          "key": "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639",
+          "show": "Hidden Brain",
+          "title": "When Doing Right Feels Wrong",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/whistleblowingasmissionloyalty/"
     },
     "WhiteAustraliaPolicy": {
       "episode_count": 1,

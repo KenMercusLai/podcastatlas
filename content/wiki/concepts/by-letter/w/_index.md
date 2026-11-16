@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11523
+wiki_total_pages: 11527
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "WhistleblowerLegalIntimidation"
     title: "Whistleblower Legal Intimidation"
     url: "/wiki/concepts/whistleblowerlegalintimidation/"
+  - key: "WhistleblowingAsMissionLoyalty"
+    title: "Whistleblowing as Mission Loyalty"
+    url: "/wiki/concepts/whistleblowingasmissionloyalty/"
   - key: "WhiteAustraliaPolicy"
     title: "White Australia Policy"
     url: "/wiki/concepts/whiteaustraliapolicy/"

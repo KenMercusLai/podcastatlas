@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3555
+topic_total_pages: 3556
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4861,6 +4861,9 @@ topic_concepts:
   - key: "WhistleblowerLegalIntimidation"
     title: "Whistleblower Legal Intimidation"
     url: "/wiki/concepts/whistleblowerlegalintimidation/"
+  - key: "WhistleblowingAsMissionLoyalty"
+    title: "Whistleblowing as Mission Loyalty"
+    url: "/wiki/concepts/whistleblowingasmissionloyalty/"
   - key: "WhiteAustraliaPolicy"
     title: "White Australia Policy"
     url: "/wiki/concepts/whiteaustraliapolicy/"

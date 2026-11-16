@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1678
+topic_total_pages: 1680
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2723,6 +2723,9 @@ topic_entities:
   - key: "AdamSubhas"
     title: "Adam Subhas"
     url: "/wiki/entities/adamsubhas/"
+  - key: "AdamWaytz"
+    title: "Adam Waytz"
+    url: "/wiki/entities/adamwaytz/"
   - key: "AdoraCheung"
     title: "Adora Cheung"
     url: "/wiki/entities/adoracheung/"
@@ -4956,6 +4959,9 @@ topic_sources:
   - key: "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403"
     title: "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond"
     url: "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
+  - key: "default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639"
+    title: "When Doing Right Feels Wrong"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"

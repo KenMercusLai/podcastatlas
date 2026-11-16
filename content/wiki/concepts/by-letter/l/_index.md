@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11523
+wiki_total_pages: 11527
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "LoyaltyCollateralDilemma"
     title: "Loyalty-Collateral Dilemma / 忠义牵连困境"
     url: "/wiki/concepts/loyaltycollateraldilemma/"
+  - key: "LoyaltyJusticeMoralConflict"
+    title: "Loyalty–Justice Moral Conflict"
+    url: "/wiki/concepts/loyaltyjusticemoralconflict/"
   - key: "LPDDR6"
     title: "LPDDR6"
     url: "/wiki/concepts/lpddr6/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11523
+wiki_total_pages: 11527
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1610,6 +1610,9 @@ wiki_pages:
   - key: "MoralLearningThroughDisillusionment"
     title: "Moral Learning Through Disillusionment / 祛魅中的道德学习"
     url: "/wiki/concepts/morallearningthroughdisillusionment/"
+  - key: "MoralLicensing"
+    title: "Moral Licensing"
+    url: "/wiki/concepts/morallicensing/"
   - key: "MoralMentorshipTalentCultivation"
     title: "Moral Mentorship as Talent Cultivation / 人师型人才成全"
     url: "/wiki/concepts/moralmentorshiptalentcultivation/"
@@ -1631,6 +1634,9 @@ wiki_pages:
   - key: "MoralSlanderReframing"
     title: "Moral Slander Reframing / 道德诬陷焦点转移"
     url: "/wiki/concepts/moralslanderreframing/"
+  - key: "MoralStress"
+    title: "Moral Stress"
+    url: "/wiki/concepts/moralstress/"
   - key: "MoralSuspensionInArtReading"
     title: "Moral Suspension In Art Reading"
     url: "/wiki/concepts/moralsuspensioninartreading/"

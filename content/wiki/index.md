@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [When Doing Right Feels Wrong](sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639.md) — Hidden Brain uses Darwin Rocher's police whistleblowing case to connect loyalty–justice conflict, moral stress, moral licensing, retaliation, and mission-directed loyalty.
 - [Relax and Win: How Bud Winter Built Speed City](sources/relax-and-win-from-legacy-of-speed-relax-and-win-from-legacy-of-speed.md) — Revisionist History connects Bud Winter's relaxation training, talent development, sprint mechanics, and Speed City's athletic prominence to later athlete activism.
 - [Revisionist History Season 7: The Experiment Experience](sources/revisionist-history-season-7-the-experiment-experience-revisionist-history-season-7-the-experiment-experience.md) — Season-seven trailer framing uncertainty, error, thought experiments, natural experiments, and magic-wand scenarios as prompts for inquiry rather than findings.
 - [Mushrooms for the Mind & Immune System | Paul Stamets](sources/scim1074623919-scim1074623919.md) — Huberman Lab distinguishes fungal ecology and research signals from commercial, clinical, psychedelic, and speculative overreach.
@@ -5247,6 +5248,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
 
 ## Entities
+- [Darwin Rocher](entities/DarwinRocher.md) — Detroit police officer who reported a planned violent robbery by trusted colleagues, cooperated with the FBI, and endured severe retaliation.
+- [Adam Waytz](entities/AdamWaytz.md) — Psychologist interpreting whistleblowing through competing moral values, contextual salience, moral stress, and mission-directed loyalty.
 - [Bud Winter](entities/BudWinter.md) — Speed City coach who combined relaxation, visualization, sprint mechanics, and systematic talent development.
 - [Ray Norton](entities/RayNorton.md) — First major Speed City sprint star whose Rome injury marks the limits of technical and psychological preparation.
 - [Speed City](entities/SpeedCity.md) — San José State sprint program linking integrated coaching, national prominence, and later political visibility.
@@ -5622,7 +5625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Puskas](entities/JohnPuskas.md) — Cardiac surgeon whose minimally invasive bypass work illustrates team capability and adoption barriers.
 - [Brandon Scott](entities/BrandonScott.md) — Baltimore mayor presented as the political sponsor of comprehensive violence reduction.
 - [Operation Ceasefire (Boston)](entities/OperationCeasefireBoston.md) — Boston program combining direct communication, support, community legitimacy, and predictable enforcement.
-- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, forgiveness, false confessions, difficult conversations, and chance-sensitive causality.
+- [Hidden Brain](entities/HiddenBrain.md) — Psychology podcast represented through explanation, mental health, arts, moral judgment, whistleblowing, forgiveness, false confessions, difficult conversations, and chance-sensitive causality.
 - [Tania Lombrozo](entities/TaniaLombrozo.md) — Psychologist connecting explanation to model building, learning, knowledge calibration, and overreach.
 - [Jonathan Rottenberg](entities/JonathanRottenberg.md) — Psychologist presenting a contextual mood-system frame alongside severe-illness and plural-care boundaries.
 - [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
@@ -19881,6 +19884,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
 
 ## Concepts
+- [Loyalty–Justice Moral Conflict](concepts/LoyaltyJusticeMoralConflict.md) — Conflict in which group loyalty favors silence while fairness, harm prevention, honesty, or public duty favors disclosure.
+- [Whistleblowing as Mission Loyalty](concepts/WhistleblowingAsMissionLoyalty.md) — Frame treating grounded reporting as fidelity to an institution's legitimate purpose rather than betrayal of colleagues or leaders.
+- [Moral Stress](concepts/MoralStress.md) — Strain from acting against an important moral intuition or choosing among values that each feel binding.
+- [Moral Licensing](concepts/MoralLicensing.md) — Use of a good identity, mission, or prior virtue to excuse misconduct or reduce scrutiny elsewhere.
 - [Relaxed Maximal Performance](concepts/RelaxedMaximalPerformance.md) — High task-specific force and speed without unnecessary muscular tension or generalized strain.
 - [Cultivational Coaching](concepts/CultivationalCoaching.md) — Systematic production of capability through diagnosis, instruction, rehearsal, feedback, and refinement.
 - [Medicinal Mushroom Immune Modulation](concepts/MedicinalMushroomImmuneModulation.md) — Evidence boundary for preparation-specific fungal immune claims.

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | When Doing Right Feels Wrong
+
+Added the [[HiddenBrain]] episode following [[DarwinRocher]] from close police bonds into reporting and covert FBI cooperation against three colleagues planning a robbery that could include murder. Created focused profiles for Rocher and [[AdamWaytz]], plus [[LoyaltyJusticeMoralConflict]], [[WhistleblowingAsMissionLoyalty]], [[MoralStress]], and [[MoralLicensing]].
+
+Core synthesis: loyalty and justice can both be morally binding, so a justified report may still feel like betrayal and produce lasting strain. Social context and recently activated values can shift judgment, while a virtuous organizational identity can license silence. Leaders can reduce the conflict by defining loyalty around lawful mission and responsible correction, but reframing is insufficient without credible channels and retaliation protection.
+
+No settled contradiction was adopted. The low-stakes reporting experiment cannot reproduce Rocher's danger, trauma, family exposure, or police culture, and the source does not establish that every disclosure is accurate or justified. Snowden judgments, experimental effects, cultural generalizations, dialogue, motives, legal details, symptoms, and retaliation remain episode-scoped because the supplied file is a structured summary rather than a transcript, study report, case file, court record, or clinical assessment. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,122 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | The Magic Wand Experiment
 
 Added the [[RevisionistHistory]] episode in which [[MalcolmGladwell]], [[JoyceBenenson]], [[AdamAlter]], [[NancySegal]], and [[StellaVolpe]] use deliberately impossible studies to expose unresolved questions about development, screen exposure, racialized treatment, technological generations, and environment-led public health. Created focused profiles for the four researchers and [[ImpossibleExperimentDesign]], then resynthesized [[DevelopmentalIndividuality]], [[ExperimentalTractabilityValidityTradeoff]], [[EnvironmentOverWillpower]], and [[ChildExperimentEthics]] from their complete preserved evidence inventories before appending the new source once.
@@ -41538,6 +41548,10 @@ No settled contradiction was adopted. Fighter-pilot study design, coaching total
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,121 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide ingest checker still reports 60 pre-existing broken wikilinks outside the changed pages; this ingest introduced none.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
