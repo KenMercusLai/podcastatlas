@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11603
+wiki_total_pages: 11607
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2075,6 +2075,9 @@ wiki_pages:
   - key: "PresbyopiaCorrectionFitting"
     title: "Presbyopia Correction and Fitting / 老花矫正与验配"
     url: "/wiki/concepts/presbyopiacorrectionfitting/"
+  - key: "PresentBias"
+    title: "Present Bias"
+    url: "/wiki/concepts/presentbias/"
   - key: "PresentMomentAgainstDeath"
     title: "Present Moment Against Death"
     url: "/wiki/concepts/presentmomentagainstdeath/"

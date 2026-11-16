@@ -4,6 +4,7 @@ type: concept
 tags: [decision-making, behavioral-design, defaults, friction, ethics]
 sources:
   - default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896
+  - default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Choice architecture is the design of a decision environment through the options 
 The mechanisms are plural. A default may prevail because it requires less work, appears recommended, or feels already possessed. Visible lists can favor early options, while sequential speech can favor recent ones. Ambient imagery or weather can make one attribute more accessible without becoming a conscious reason. Complexity can cause people to abandon detailed comparison and select a lower-effort strategy, while a narrower option set can sometimes encourage slower, more reflective evaluation.
 
 Ethical judgment cannot rest on whether the design influences behavior, because all designs do. More useful tests ask whether the architecture makes material consequences legible, reduces irrelevant burden, preserves meaningful alternatives and correction, and serves the chooser's interests. [[DarkPatterns]] fail these tests by using asymmetrical friction, concealment, or automatic continuation to turn inattention into advantage for the designer.
+
+Choice architecture can also be self-authored. [[default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835|You, But Better]] reports increased participation under automatic retirement enrollment and describes stocking healthier food, changing a browser's opening page, or automating transfers into savings. The ethical distinction remains whether the design advances the chooser's considered interests with usable exit, not whether it was installed by a person, employer, platform, or state.
 
 ## Key Claims
 
@@ -50,13 +53,18 @@ Ethical judgment cannot rest on whether the design influences behavior, because 
 
 - [[default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896]] contrasts unread terms and complex insurance marketplaces with simplified prescribing and flight displays, then uses dating interfaces to argue that choice volume can alter attention and preference formation.
 
+### Self-authored defaults and future interests
+
+- [[default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835]] reports automatic retirement enrollment and describes healthier food placement, browser defaults, and automated saving as ways to design one's own path of least resistance.
+
 ## Counterevidence & Qualifications
 
-The source is a structured episode summary rather than the underlying research record. It does not provide study methods, sample characteristics, uncertainty intervals, replication evidence, or competing interpretations for the reported behavioral and financial effects. A changed choice under a default does not show that the choice is uninformed, unwanted, or harmful, and disclosure of random assignment did not eliminate all end-of-life default effects in the reported example. Conversely, a large option set is not inherently freer if comparison is unusable, but narrowing choice can still become paternalistic or exclusionary. Stable values and constraints can coexist with preference construction. Emergency simplification, generic prescribing, voter registration, medical care, commerce, and dating require context-specific safeguards rather than one universal default.
+The sources are structured episode summaries rather than the underlying research record. They do not provide study methods, sample characteristics, uncertainty intervals, replication evidence, or competing interpretations for the reported behavioral and financial effects. A changed choice under a default does not show that the choice is uninformed, unwanted, or harmful, and disclosure of random assignment did not eliminate all end-of-life default effects in the reported example. Conversely, a large option set is not inherently freer if comparison is unusable, but narrowing choice can still become paternalistic or exclusionary. Stable values and constraints can coexist with preference construction. Self-authored defaults can become stale or overrestrictive, while employer or state defaults can serve institutional interests rather than the chooser's. Emergency simplification, generic prescribing, voter registration, medical care, commerce, dating, and retirement require context-specific safeguards rather than one universal default.
 
 ## What Changed
 
 - Established an umbrella account joining defaults, order, cues, complexity, effort, constructed preference, and ethical design.
+- Added self-authored defaults and future-self protection while preserving usable exit as an ethical boundary.
 
 ## Related Concepts
 
@@ -65,3 +73,6 @@ The source is a structured episode summary rather than the underlying research r
 - [[StatedRevealedPreferenceGap]] - distinction between endorsed wants and behavior under actual constraints.
 - [[GenericDrugSubstitutionDecision]] - clinical qualification on treating generic prescribing as a simple default problem.
 - [[DecisionFixation]] - adjacent failure to reopen an initial frame when evidence changes.
+- [[PresentBias]] - explains why current architecture may be designed to protect delayed interests.
+- [[UlyssesContract]] - stronger precommitment branch that can restrict later options.
+- [[BehaviorChangeObstacleMatching]] - diagnostic rule for using defaults only when friction is the operative barrier.

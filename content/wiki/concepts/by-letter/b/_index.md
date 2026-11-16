@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11603
+wiki_total_pages: 11607
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "BehaviorChangeBabySteps"
     title: "Behavior Change Baby Steps"
     url: "/wiki/concepts/behaviorchangebabysteps/"
+  - key: "BehaviorChangeObstacleMatching"
+    title: "Behavior Change Obstacle Matching"
+    url: "/wiki/concepts/behaviorchangeobstaclematching/"
   - key: "BehaviorBasedHumanReductionism"
     title: "Behavior-Based Human Reductionism / 行为化人性压缩"
     url: "/wiki/concepts/behaviorbasedhumanreductionism/"

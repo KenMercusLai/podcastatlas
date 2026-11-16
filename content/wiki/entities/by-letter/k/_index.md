@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14611
+wiki_total_pages: 14613
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "KatsushikaHokusai"
     title: "Katsushika Hokusai / 葛饰北斋"
     url: "/wiki/entities/katsushikahokusai/"
+  - key: "KatyMilkman"
+    title: "Katy Milkman"
+    url: "/wiki/entities/katymilkman/"
   - key: "KawasakiHeavyIndustries"
     title: "Kawasaki Heavy Industries / 川崎重工"
     url: "/wiki/entities/kawasakiheavyindustries/"

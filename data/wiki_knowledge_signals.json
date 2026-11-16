@@ -33293,6 +33293,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/behaviorchangebabysteps/"
     },
+    "BehaviorChangeObstacleMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/behaviorchangeobstaclematching/"
+    },
     "BehaviorFocusedPoliceReform": {
       "episode_count": 1,
       "show_count": 1,
@@ -55889,9 +55905,9 @@
       "url": "/wiki/concepts/chocolatedrinktosolidtransition/"
     },
     "ChoiceArchitecture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896 [default.mp3_ywr3ahjkcgo_434eaf8f105a4e37e33cf9afe4af65dd_52053896].md",
@@ -55899,6 +55915,13 @@
           "show": "Hidden Brain",
           "title": "Choose Carefully",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896-default-mp3-ywr3ahjkcgo-434eaf8f105a4e37e33cf9afe4af65dd-52053896/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
         }
       ],
       "updated": "2026-11-17",
@@ -74410,6 +74433,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/dallaspolicedepartment/"
+    },
+    "DanAriely": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/danariely/"
     },
     "DanCarlin": {
       "episode_count": 5,
@@ -119443,6 +119482,22 @@
       "updated": "2026-10-29",
       "url": "/wiki/concepts/freshsnackretail/"
     },
+    "FreshStartEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/freshstarteffect/"
+    },
     "FriedrichEbert": {
       "episode_count": 3,
       "show_count": 1,
@@ -129042,9 +129097,9 @@
       "url": "/wiki/concepts/goalmanagementtraining/"
     },
     "GoalPursuitBehaviorDesign": {
-      "episode_count": 7,
-      "show_count": 1,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -129094,9 +129149,16 @@
           "show": "Huberman Lab",
           "title": "How to Set & Achieve Massive Goals | Alex Honnold",
           "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/goalpursuitbehaviordesign/"
     },
     "GoalkeeperEmbodiedJudgment": {
@@ -177699,6 +177761,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/katjahoyer/"
+    },
+    "KatyMilkman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/katymilkman/"
     },
     "KayTye": {
       "episode_count": 2,
@@ -255906,6 +255984,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/presbyopiacorrectionfitting/"
     },
+    "PresentBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/presentbias/"
+    },
     "PresentSincerityCommitmentGap": {
       "episode_count": 2,
       "show_count": 1,
@@ -311917,6 +312011,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/temporaryfrontierretrenchment/"
     },
+    "TemptationBundling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/temptationbundling/"
+    },
     "Temu": {
       "episode_count": 4,
       "show_count": 3,
@@ -324741,9 +324851,9 @@
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
     },
     "UlyssesContract": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5564931565 [SCIM5564931565].md",
@@ -324751,9 +324861,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835 [default.mp3_ywr3ahjkcgo_2fc443663e259ff389aeeb81792c6086_50338835].md",
+          "key": "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835",
+          "show": "Hidden Brain",
+          "title": "You, But Better",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/ulyssescontract/"
     },
     "UlyssesSGrant": {

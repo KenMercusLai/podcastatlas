@@ -14431,6 +14431,10 @@
     "title": "Behavior Change Baby Steps",
     "url": "/wiki/concepts/behaviorchangebabysteps/"
   },
+  "BehaviorChangeObstacleMatching": {
+    "title": "Behavior Change Obstacle Matching",
+    "url": "/wiki/concepts/behaviorchangeobstaclematching/"
+  },
   "BehaviorFocusedPoliceReform": {
     "title": "Behavior-Focused Police Reform",
     "url": "/wiki/concepts/behaviorfocusedpolicereform/"
@@ -26883,6 +26887,10 @@
     "title": "Dan Ackerman",
     "url": "/wiki/entities/danackerman/"
   },
+  "DanAriely": {
+    "title": "Dan Ariely",
+    "url": "/wiki/entities/danariely/"
+  },
   "DanCarlin": {
     "title": "Dan Carlin",
     "url": "/wiki/entities/dancarlin/"
@@ -38758,6 +38766,10 @@
   "FreshSnackRetail": {
     "title": "Fresh Snack Retail / 新鲜零食",
     "url": "/wiki/concepts/freshsnackretail/"
+  },
+  "FreshStartEffect": {
+    "title": "Fresh Start Effect",
+    "url": "/wiki/concepts/freshstarteffect/"
   },
   "FriedrichEbert": {
     "title": "Friedrich Ebert",
@@ -54710,6 +54722,10 @@
   "KatsushikaHokusai": {
     "title": "Katsushika Hokusai / 葛饰北斋",
     "url": "/wiki/entities/katsushikahokusai/"
+  },
+  "KatyMilkman": {
+    "title": "Katy Milkman",
+    "url": "/wiki/entities/katymilkman/"
   },
   "KawabataYasunari": {
     "title": "川端康成 / Kawabata Yasunari",
@@ -77027,6 +77043,10 @@
     "title": "Presbyopia Correction and Fitting / 老花矫正与验配",
     "url": "/wiki/concepts/presbyopiacorrectionfitting/"
   },
+  "PresentBias": {
+    "title": "Present Bias",
+    "url": "/wiki/concepts/presentbias/"
+  },
   "PresentMomentAgainstDeath": {
     "title": "Present Moment Against Death",
     "url": "/wiki/concepts/presentmomentagainstdeath/"
@@ -94050,6 +94070,10 @@
   "TemporaryFrontierRetrenchment": {
     "title": "临时边防收缩 / Temporary Frontier Retrenchment",
     "url": "/wiki/concepts/temporaryfrontierretrenchment/"
+  },
+  "TemptationBundling": {
+    "title": "Temptation Bundling",
+    "url": "/wiki/concepts/temptationbundling/"
   },
   "Temu": {
     "title": "Temu",
@@ -111310,6 +111334,10 @@
   "default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302": {
     "title": "A Conspiracy of Silence",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302-default-mp3-ywr3ahjkcgo-2e8bbfb73b37c052c8149a42261bc57f-58412302/"
+  },
+  "default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835": {
+    "title": "You, But Better",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835/"
   },
   "default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056": {
     "title": "Group Think",

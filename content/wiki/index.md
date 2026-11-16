@@ -5288,6 +5288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When You Need It To Be True](sources/defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038-defaultmp3-ywr3ahjkcgo-3bb43a3a1bc3b7d73f72cf6318a8ff07-56990038.md) — Hidden Brain connects failed prophecy and romance fraud through cognitive dissonance, costly commitment, selective reassurance, shame, and the emotional price of accepting disconfirmation.
 - [You 2.0: Did That Really Happen?](sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670.md) — Hidden Brain and Ayanna Thomas connect reconstructive memory, source confusion, eyewitness caution, aging stereotypes, retrieval practice, spacing, sleep, and mnemonic imagery.
 - [You 2.0: When Did Marriage Become So Hard?](sources/default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736-default-mp3-ywr3ahjkcgo-fead65cb8ae84c6abc2e0c2098ca082b-49362736.md) — Hidden Brain connects marriage history, elevated partner expectations, resource alignment, compatibility growth, and diversified support.
+- [You, But Better](sources/default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835-default-mp3-ywr3ahjkcgo-2fc443663e259ff389aeeb81792c6086-50338835.md) — Hidden Brain and Katy Milkman connect obstacle diagnosis, temptation bundling, fresh starts, feedback, deadlines, defaults, and commitment devices to practical behavior change.
 
 ## Entities
 - [Dillard University](entities/DillardUniversity.md) — Historically Black liberal arts university used to contrast access and student development with ranking-driven prestige.
@@ -19995,6 +19996,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Al Levitt](entities/AlLevitt.md) — Aspiring Hollywood screenwriter and wartime film-unit member whose recollection contrasts youthful communist politics with work alongside Ronald Reagan.
 - [First Motion Picture Unit](entities/FirstMotionPictureUnit.md) — Army Air Forces wartime filmmaking unit producing training films and newsreels at the former Hal Roach Studios.
 - [Dorothy Martin](entities/DorothyMartin.md) — Central claimant in the Seekers failed-prophecy case whose revised explanations preserved belief after predicted spacecraft and flood events failed.
+- [Katy Milkman](entities/KatyMilkman.md) — Behavioral scientist matching enjoyment, feedback, timing, friction, and future-self obstacles with proportionate behavior-change tools.
+- [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 
 ## Concepts
 - [College Ranking Privilege](concepts/CollegeRankingPrivilege.md) — Pattern in which wealth, student advantage, selectivity, completion, and reputation are repeatedly counted as educational quality.
@@ -31711,5 +31714,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intervention Mechanism Learning](concepts/InterventionMechanismLearning.md) — Use of intervention results to revise causal explanations while preserving rival-mechanism limits.
 - [Expert Uncertainty Communication](concepts/ExpertUncertaintyCommunication.md) — Practice of binding expert claims to ranges, scope, alternatives, and revision conditions.
 - [Romance Scam Entrapment](concepts/RomanceScamEntrapment.md) — Progressive binding of emotional trust, future hope, isolation, and material investment to a fabricated relationship.
+- [Present Bias](concepts/PresentBias.md) — Disproportionate weighting of immediate rewards and costs relative to consequences borne by a future self.
+- [Temptation Bundling](concepts/TemptationBundling.md) — Reserving an immediate enjoyment for simultaneous use with a worthwhile but otherwise avoidable task.
+- [Fresh Start Effect](concepts/FreshStartEffect.md) — Temporal-landmark reset that can renew motivation after failure or disrupt an already-successful trajectory.
+- [Behavior Change Obstacle Matching](concepts/BehaviorChangeObstacleMatching.md) — Diagnostic practice of selecting a behavior-change tool for the specific barrier blocking action.
 
 ## Syntheses

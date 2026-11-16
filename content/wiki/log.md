@@ -42120,3 +42120,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | You, But Better
+
+Added a Hidden Brain source on Katy Milkman's obstacle-matched behavior-change framework. Created canonical pages for Milkman, Dan Ariely, present bias, temptation bundling, the fresh start effect, and behavior change obstacle matching; extended goal-pursuit design, choice architecture, and Ulysses contracts with the new bounded evidence.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

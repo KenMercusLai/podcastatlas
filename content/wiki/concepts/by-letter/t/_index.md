@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11603
+wiki_total_pages: 11607
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "TemporaryFamilyHealing"
     title: "Temporary Family Healing / 临时家庭式修复"
     url: "/wiki/concepts/temporaryfamilyhealing/"
+  - key: "TemptationBundling"
+    title: "Temptation Bundling"
+    url: "/wiki/concepts/temptationbundling/"
   - key: "TenCitiesThousandVehicles"
     title: "Ten Cities Thousand Vehicles"
     url: "/wiki/concepts/tencitiesthousandvehicles/"
