@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14497
+wiki_total_pages: 14499
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "AbdelFattahAlSisi"
     title: "Abdel Fattah al-Sisi"
     url: "/wiki/entities/abdelfattahalsisi/"
+  - key: "AbdulDulloo"
+    title: "Abdul Dulloo"
+    url: "/wiki/entities/abduldulloo/"
   - key: "AbdulElSayed"
     title: "Abdul El-Sayed"
     url: "/wiki/entities/abdulelsayed/"

@@ -7414,6 +7414,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/abdalrahmaniii/"
     },
+    "AbdulDulloo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mennonite_National_Anthem [The_Mennonite_National_Anthem].md",
+          "key": "the-mennonite-national-anthem-the-mennonite-national-anthem",
+          "show": "Revisionist History",
+          "title": "The Mennonite National Anthem",
+          "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/abduldulloo/"
+    },
     "AbdulElSayed": {
       "episode_count": 3,
       "show_count": 2,
@@ -151691,6 +151707,22 @@
       "updated": "2026-11-05",
       "url": "/wiki/entities/hungarianrevolution1956/"
     },
+    "HungerAsTotalDeprivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mennonite_National_Anthem [The_Mennonite_National_Anthem].md",
+          "key": "the-mennonite-national-anthem-the-mennonite-national-anthem",
+          "show": "Revisionist History",
+          "title": "The Mennonite National Anthem",
+          "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/hungerastotaldeprivation/"
+    },
     "HunyadiJanos": {
       "episode_count": 1,
       "show_count": 1,
@@ -182972,6 +183004,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/lesterbushjr/"
+    },
+    "LesterGlick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mennonite_National_Anthem [The_Mennonite_National_Anthem].md",
+          "key": "the-mennonite-national-anthem-the-mennonite-national-anthem",
+          "show": "Revisionist History",
+          "title": "The Mennonite National Anthem",
+          "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/lesterglick/"
     },
     "LesterMaddox": {
       "episode_count": 1,
@@ -215698,9 +215746,9 @@
       "url": "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
     },
     "MinnesotaStarvationExperiment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
@@ -215708,6 +215756,13 @@
           "show": "Revisionist History",
           "title": "Rodents and Red Wine with Maria Konnikova",
           "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "The_Mennonite_National_Anthem [The_Mennonite_National_Anthem].md",
+          "key": "the-mennonite-national-anthem-the-mennonite-national-anthem",
+          "show": "Revisionist History",
+          "title": "The Mennonite National Anthem",
+          "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
         }
       ],
       "updated": "2026-11-16",
@@ -250578,6 +250633,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/postsovietshocktherapy/"
+    },
+    "PostStarvationBodyCompositionRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Mennonite_National_Anthem [The_Mennonite_National_Anthem].md",
+          "key": "the-mennonite-national-anthem-the-mennonite-national-anthem",
+          "show": "Revisionist History",
+          "title": "The Mennonite National Anthem",
+          "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/poststarvationbodycompositionrecovery/"
     },
     "PostSuccessArrogance": {
       "episode_count": 6,

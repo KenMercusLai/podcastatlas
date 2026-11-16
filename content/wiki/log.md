@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | The Mennonite National Anthem
+
+Added the [[RevisionistHistory]] finale on [[LesterGlick]], whose diaries and family testimony connect the [[MinnesotaStarvationExperiment]] to tuberculosis, social isolation, persistent hunger, weight cycling, Mennonite service, social-work education, gardening, and food sharing. Created focused profiles for Glick and physiologist [[AbdulDulloo]], added [[PostStarvationBodyCompositionRecovery]] and [[HungerAsTotalDeprivation]], and resynthesized the experiment from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: restored body weight can conceal slower recovery of lean tissue and function, and hunger can damage mood, attention, community participation, identity, and spiritual orientation alongside the body. The Minnesota records remain unusually informative because comparable controlled deprivation is ethically and practically difficult. Glick's later service shows how a volunteer could turn suffering into care without proving that the harm was necessary, justified, or fully repaired.
+
+No settled contradiction was adopted. “Gold standard” refers to control, duration, and record quality rather than representative sampling or modern instrumentation. The reported weight-regain rate, body-composition mechanisms, tuberculosis history, diary details, family interpretations, motives, and institutional legacy remain episode-scoped because the supplied file is a structured summary rather than a transcript, study archive, clinical review, or independent biography. The broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,105 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | A Good Circle: Hope College’s Radical Experiment in Generosity
 
 Added the [[RevisionistHistory]] episode on [[MattScogin]], [[HopeCollege]], and [[HopeForward]], creating focused profiles for Scogin, the college, the program, and [[MitchAlbom]], plus [[DebtConstrainedEducationAndCareerChoice]] and [[VoluntaryPayItForwardEducation]].
@@ -41278,6 +41288,10 @@ Core synthesis: vocal style can influence perceived authority without establishi
 No settled contradiction was adopted. The episode complements [[PilotVoice]] by showing a differently gendered authority stereotype, but its vocal demonstrations, historical lineage, prevalence claim, and account of celebrity contagion remain cultural interpretation rather than acoustic-corpus, controlled-perception, audience, or causal evidence. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MarilynMonroe]], [[KimKardashian]], automatic `wiki/overview.md`, and adjacent multi-source pages were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,104 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 

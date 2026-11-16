@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14497
+wiki_total_pages: 14499
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "LesterBushJr"
     title: "Lester Bush Jr."
     url: "/wiki/entities/lesterbushjr/"
+  - key: "LesterGlick"
+    title: "Lester Glick"
+    url: "/wiki/entities/lesterglick/"
   - key: "LesterMaddox"
     title: "Lester Maddox"
     url: "/wiki/entities/lestermaddox/"

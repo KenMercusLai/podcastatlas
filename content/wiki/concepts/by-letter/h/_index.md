@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11492
+wiki_total_pages: 11494
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1211,6 +1211,9 @@ wiki_pages:
   - key: "HundredSchoolsSynthesis"
     title: "Hundred Schools Synthesis / 诸子九流综合观"
     url: "/wiki/concepts/hundredschoolssynthesis/"
+  - key: "HungerAsTotalDeprivation"
+    title: "Hunger as Total Deprivation"
+    url: "/wiki/concepts/hungerastotaldeprivation/"
   - key: "HurtHarmPainReframing"
     title: "Hurt-versus-Harm Pain Reframing"
     url: "/wiki/concepts/hurtharmpainreframing/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Mennonite National Anthem](sources/the-mennonite-national-anthem-the-mennonite-national-anthem.md) — Revisionist History connects Lester Glick’s starvation, recovery, Mennonite faith, social-work vocation, and generosity to the Minnesota experiment’s scientific and moral legacy.
 - [From Inside Voice: Lake Bell and the Sexy Baby Voice Phenomenon](sources/from-inside-voice-lake-bell-and-the-sexy-baby-voice-phenomenon-from-inside-voice-lake-bell-and-the-sexy-baby-voice-phen.md) — Lake Bell and Malcolm Gladwell separate a high-pitched, fry-inflected celebrity vocal persona from intelligence, natural variation, and mature vocal agency.
 - [The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part One](sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-one-the-cadillac-lyriq-malcolm-gladwell-meets-an-electr.md) — Sponsored Revisionist History experience test connecting exterior appeal, immediate acceleration, pedestrian sound, digital displays, and tactile cabin luxury while leaving comparative ownership evidence untested.
 - [The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two](sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec.md) — Sponsored Revisionist History road test connecting family utility, quietness, classic Cadillac character, and heritage-led electrification while leaving price, charging, and independent performance untested.
@@ -5229,6 +5230,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rodents and Red Wine with Maria Konnikova](sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova.md) — Revisionist History ombudsman conversation on nutrition evidence, starvation research, unknown-risk consent, representative study populations, and longitudinal health observation.
 
 ## Entities
+- [Lester Glick](entities/LesterGlick.md) — Mennonite starvation-study volunteer and social-work educator who turned lasting deprivation into teaching, care, and food sharing.
+- [Abdul Dulloo](entities/AbdulDulloo.md) — Physiologist explaining uneven fat and lean-tissue recovery and the Minnesota study’s continuing evidentiary value.
 - [Cadillac](entities/Cadillac.md) — General Motors luxury brand using the LYRIQ to frame electrification as continuity in comfort, design, and composed travel.
 - [Cadillac LYRIQ](entities/CadillacLyriq.md) — All-electric luxury SUV presented through family utility, quietness, heritage design, and a same-route classic Cadillac comparison.
 - [Melissa Grady](entities/MelissaGrady.md) — Cadillac marketing executive connecting LYRIQ features and interior cues to the brand's electric future.
@@ -19821,6 +19824,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paris Hilton](entities/ParisHilton.md) — Media personality presented as a formative modern case of intimate vocal cues becoming a recognizable celebrity identity.
 
 ## Concepts
+- [Post-Starvation Body-Composition Recovery](concepts/PostStarvationBodyCompositionRecovery.md) — Uneven restoration of fat, lean tissue, and function after severe dietary restriction.
+- [Hunger as Total Deprivation](concepts/HungerAsTotalDeprivation.md) — Hunger understood as bodily, psychological, relational, and spiritual loss requiring material and human care.
 - [Sexy Baby Voice](concepts/SexyBabyVoice.md) — Qualified vocal cluster joining high pitch, fry, uptalk, breathiness, compressed phrasing, and gendered listener interpretations of sexuality, youth, and authority.
 - [Broadcast Intimacy as Personal Brand](concepts/BroadcastIntimacyAsPersonalBrand.md) — Conversion of private-sounding vocal or sexual cues into a repeatable public persona that creates recognition and attention.
 - [Brand Heritage Electrification](concepts/BrandHeritageElectrification.md) — Strategy for changing automotive powertrain and technology while preserving recognizable experiential and design qualities of a legacy marque.
