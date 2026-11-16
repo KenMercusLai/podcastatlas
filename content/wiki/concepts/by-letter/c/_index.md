@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11559
+wiki_total_pages: 11560
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2363,6 +2363,9 @@ wiki_pages:
   - key: "ConsentViolationHorror"
     title: "Consent Violation as Horror / 同意权侵犯恐怖"
     url: "/wiki/concepts/consentviolationhorror/"
+  - key: "ConsentAwareChildSafeguarding"
+    title: "Consent-Aware Child Safeguarding"
+    url: "/wiki/concepts/consentawarechildsafeguarding/"
   - key: "ConsentBasedLoanDataSharing"
     title: "Consent-Based Loan Data Sharing"
     url: "/wiki/concepts/consentbasedloandatasharing/"

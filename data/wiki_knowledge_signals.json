@@ -64910,6 +64910,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/consentandbodyboundaryeducation/"
     },
+    "ConsentAwareChildSafeguarding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d7229e3b8adac8d1f3f32434e9a365e_5603581 [default.mp3_ywr3ahjkcgo_6d7229e3b8adac8d1f3f32434e9a365e_5603581].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581-default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581",
+          "show": "Hidden Brain",
+          "title": "My Unsung Hero: Wendy McDowell's Story",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581-default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/consentawarechildsafeguarding/"
+    },
     "ConsentBasedTheatricalDeception": {
       "episode_count": 2,
       "show_count": 2,
@@ -335446,6 +335462,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/wenceslasofbohemia/"
+    },
+    "WendyMcDowell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d7229e3b8adac8d1f3f32434e9a365e_5603581 [default.mp3_ywr3ahjkcgo_6d7229e3b8adac8d1f3f32434e9a365e_5603581].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581-default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581",
+          "show": "Hidden Brain",
+          "title": "My Unsung Hero: Wendy McDowell's Story",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581-default-mp3-ywr3ahjkcgo-6d7229e3b8adac8d1f3f32434e9a365e-5603581/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/wendymcdowell/"
     },
     "WendySuzuki": {
       "episode_count": 4,

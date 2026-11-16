@@ -41756,3 +41756,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | My Unsung Hero: Wendy McDowell's Story
+
+Added a short [[HiddenBrain]] listener story in which eight-year-old [[WendyMcDowell]] is abandoned at Chicago O'Hare Airport and an unidentified woman changes her travel plans, contacts Wendy's mother, buys a ticket, and accompanies the child home. Created McDowell's focused profile and [[ConsentAwareChildSafeguarding]].
+
+Core synthesis: decisive protection does not require overriding a frightened child's voice. Repeatedly checking whether the child feels safe, asking permission, explaining what will happen, contacting a caregiver, and following through on the practical journey can restore limited agency while adults retain responsibility for verification and protection. Wendy reports that the encounter shaped her understanding of care, her school-psychology career, and the lesson she passes to her son.
+
+No settled contradiction was adopted. The helper's identity, motives, later actions, exact dialogue, and travel details remain unknown or episode-scoped, and one retrospective childhood narrative cannot establish that the intervention alone caused Wendy's career, parenting, or worldview. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening a large unchanged evidence inventory.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,137 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
