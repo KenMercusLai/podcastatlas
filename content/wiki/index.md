@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two](sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec.md) — Sponsored Revisionist History road test connecting family utility, quietness, classic Cadillac character, and heritage-led electrification while leaving price, charging, and independent performance untested.
 - [From Broken Record: Rick Rubin in Conversation with Malcolm Gladwell](sources/from-broken-record-rick-rubin-in-conversation-with-malcolm-gladwell-from-broken-record-rick-rubin-in-conversation-with.md) — Rubin and Gladwell connect receptive attention, transformative influence, provisional judgment, emotional imperfection, and collaborator consensus to creativity as a way of living.
 - [A Treat for the Die-Hards](sources/a-treat-for-the-die-hards.md) — Revisionist History connects alternate endings, modest character change, legible expectation reversal, backward construction, and memorial performance to the craft of narrative closure.
 - [Started From the Bottom with Justin Richmond](sources/started-from-the-bottom-with-justin-richmond-started-from-the-bottom-with-justin-richmond.md) — Revisionist History connects Richmond's nonlinear educational path to mentorship, institutional navigation, racialized second chances, confidence, and public career guidance.
@@ -5226,6 +5227,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rodents and Red Wine with Maria Konnikova](sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova.md) — Revisionist History ombudsman conversation on nutrition evidence, starvation research, unknown-risk consent, representative study populations, and longitudinal health observation.
 
 ## Entities
+- [Cadillac](entities/Cadillac.md) — General Motors luxury brand using the LYRIQ to frame electrification as continuity in comfort, design, and composed travel.
+- [Cadillac LYRIQ](entities/CadillacLyriq.md) — All-electric luxury SUV presented through family utility, quietness, heritage design, and a same-route classic Cadillac comparison.
+- [Melissa Grady](entities/MelissaGrady.md) — Cadillac marketing executive connecting LYRIQ features and interior cues to the brand's electric future.
 - [The Creative Act](entities/TheCreativeAct.md) — Rick Rubin's book framing creativity as an attentive way of being across art, work, relationships, and everyday problems.
 - [Mike Birbiglia](entities/MikeBirbiglia.md) — Comedian and storyteller using alternate endings, audience response, and modest character change to calibrate narrative closure.
 - [Alan Jackson](entities/AlanJackson.md) — Country singer whose George Jones funeral performance gives a familiar song a new referent and completes an argument about endings.
@@ -19813,6 +19817,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brooklyn Debate League](entities/BrooklynDebateLeague.md) — Debate-education organization teaching audience empathy, framing analysis, argument flowing, and adversarial respect.
 
 ## Concepts
+- [Brand Heritage Electrification](concepts/BrandHeritageElectrification.md) — Strategy for changing automotive powertrain and technology while preserving recognizable experiential and design qualities of a legacy marque.
 - [Creative Abundance and Transformative Influence](concepts/CreativeAbundanceAndTransformativeInfluence.md) — Qualified abundance model in which imitation becomes reinterpretation while credit, power, consent, and material benefit remain ethical constraints.
 - [Provisional Creative Judgment](concepts/ProvisionalCreativeJudgment.md) — Time-bounded evaluation practice that preserves curiosity about unfamiliar work and undeveloped ability without requiring eventual approval.
 - [Consensus-Based Creative Completion](concepts/ConsensusBasedCreativeCompletion.md) — Collaborative rule that treats substantive disagreement as unfinished work and tests concrete alternatives until genuine support is reached.

@@ -38327,6 +38327,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/branddoing/"
     },
+    "BrandHeritageElectrification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Electric_Icon_-_Part_Two [The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Elec.md",
+          "key": "the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec",
+          "show": "Revisionist History",
+          "title": "The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two",
+          "url": "/wiki/sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/brandheritageelectrification/"
+    },
     "BrandIdentityFeedbackIsolation": {
       "episode_count": 1,
       "show_count": 1,
@@ -41889,6 +41905,38 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/cadbury/"
+    },
+    "Cadillac": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Electric_Icon_-_Part_Two [The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Elec.md",
+          "key": "the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec",
+          "show": "Revisionist History",
+          "title": "The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two",
+          "url": "/wiki/sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/cadillac/"
+    },
+    "CadillacLyriq": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Electric_Icon_-_Part_Two [The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Elec.md",
+          "key": "the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec",
+          "show": "Revisionist History",
+          "title": "The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two",
+          "url": "/wiki/sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/cadillaclyriq/"
     },
     "CaesarAssassination": {
       "episode_count": 4,
@@ -209913,6 +209961,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/melanopsincircadianphotoreception/"
+    },
+    "MelissaGrady": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Electric_Icon_-_Part_Two [The_Cadillac_LYRIQ_Malcolm_Gladwell_meets_an_Elec.md",
+          "key": "the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec",
+          "show": "Revisionist History",
+          "title": "The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two",
+          "url": "/wiki/sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/melissagrady/"
     },
     "MelissaIlardo": {
       "episode_count": 1,

@@ -16255,6 +16255,10 @@
     "title": "Brand Doing",
     "url": "/wiki/concepts/branddoing/"
   },
+  "BrandHeritageElectrification": {
+    "title": "Brand Heritage Electrification",
+    "url": "/wiki/concepts/brandheritageelectrification/"
+  },
   "BrandIdentityFeedbackIsolation": {
     "title": "Brand Identity Feedback Isolation",
     "url": "/wiki/concepts/brandidentityfeedbackisolation/"
@@ -17406,6 +17410,14 @@
   "CadenceDesignSystems": {
     "title": "Cadence Design Systems / 楷登",
     "url": "/wiki/entities/cadencedesignsystems/"
+  },
+  "Cadillac": {
+    "title": "Cadillac",
+    "url": "/wiki/entities/cadillac/"
+  },
+  "CadillacLyriq": {
+    "title": "Cadillac LYRIQ",
+    "url": "/wiki/entities/cadillaclyriq/"
   },
   "CaesarAssassination": {
     "title": "Assassination of Julius Caesar / 恺撒遇刺",
@@ -64066,6 +64078,10 @@
   "MelanopsinCircadianPhotoreception": {
     "title": "Melanopsin Circadian Photoreception",
     "url": "/wiki/concepts/melanopsincircadianphotoreception/"
+  },
+  "MelissaGrady": {
+    "title": "Melissa Grady",
+    "url": "/wiki/entities/melissagrady/"
   },
   "MelissaIlardo": {
     "title": "Melissa Ilardo",
@@ -116006,6 +116022,10 @@
   "the-business-of-heated-rivalry": {
     "title": "The Business of Heated Rivalry",
     "url": "/wiki/sources/the-business-of-heated-rivalry/"
+  },
+  "the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec": {
+    "title": "The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two",
+    "url": "/wiki/sources/the-cadillac-lyriq-malcolm-gladwell-meets-an-electric-icon-part-two-the-cadillac-lyriq-malcolm-gladwell-meets-an-elec/"
   },
   "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f": {
     "title": "The case of the missing totem: Aung San Suu Kyi",

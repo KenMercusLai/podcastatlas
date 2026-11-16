@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11489
+wiki_total_pages: 11490
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "BrandDoing"
     title: "Brand Doing"
     url: "/wiki/concepts/branddoing/"
+  - key: "BrandHeritageElectrification"
+    title: "Brand Heritage Electrification"
+    url: "/wiki/concepts/brandheritageelectrification/"
   - key: "BrandIdentityFeedbackIsolation"
     title: "Brand Identity Feedback Isolation"
     url: "/wiki/concepts/brandidentityfeedbackisolation/"

@@ -41240,3 +41240,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Cadillac LYRIQ: Malcolm Gladwell meets an Electric Icon - Part Two
+
+Added the Cadillac-sponsored [[RevisionistHistory]] road test in which [[MalcolmGladwell]] evaluates the all-electric [[CadillacLyriq|Cadillac LYRIQ]] through family cargo loading, a toddler nap, and a same-route comparison with a 1963 Coupe de Ville. Created focused profiles for [[Cadillac]], the [[CadillacLyriq|LYRIQ]], and [[MelissaGrady]], plus [[BrandHeritageElectrification]] as the episode's durable conceptual contribution.
+
+Core synthesis: a legacy vehicle brand can make electrification feel continuous when the new product preserves familiar comfort, composure, space, materials, design cues, and ritual while adding useful electric-era features. The source shows intended positioning more strongly than independent product performance: cargo utility, perceived quietness, and one enthusiast's heritage judgment do not settle price, range, charging, efficiency, reliability, safety, or sustained demand.
+
+No settled contradiction was adopted. The episode complements affordability-centered EV pages by examining intended product experience, but it does not show that heritage continuity overcomes buyer economics or infrastructure constraints. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[GeneralMotors]], automatic `wiki/overview.md`, and adjacent multi-source EV pages were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,102 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

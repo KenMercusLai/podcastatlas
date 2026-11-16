@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14492
+wiki_total_pages: 14495
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -47,6 +47,12 @@ wiki_pages:
   - key: "CadenceDesignSystems"
     title: "Cadence Design Systems / 楷登"
     url: "/wiki/entities/cadencedesignsystems/"
+  - key: "Cadillac"
+    title: "Cadillac"
+    url: "/wiki/entities/cadillac/"
+  - key: "CadillacLyriq"
+    title: "Cadillac LYRIQ"
+    url: "/wiki/entities/cadillaclyriq/"
   - key: "Caesarion"
     title: "Caesarion"
     url: "/wiki/entities/caesarion/"
