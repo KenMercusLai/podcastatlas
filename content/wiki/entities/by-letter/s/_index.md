@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14499
+wiki_total_pages: 14504
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "SamHarris"
     title: "Sam Harris"
     url: "/wiki/entities/samharris/"
+  - key: "SamLegge"
+    title: "Sam Legge"
+    url: "/wiki/entities/samlegge/"
   - key: "SamSachs"
     title: "Sam Sachs"
     url: "/wiki/entities/samsachs/"
@@ -311,6 +314,9 @@ wiki_pages:
   - key: "SarahPinsker"
     title: "Sarah Pinsker / 莎拉·平斯克"
     url: "/wiki/entities/sarahpinsker/"
+  - key: "SarahTracy"
+    title: "Sarah Tracy"
+    url: "/wiki/entities/sarahtracy/"
   - key: "SarahWu"
     title: "Sarah Wu"
     url: "/wiki/entities/sarahwu/"

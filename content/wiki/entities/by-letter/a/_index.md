@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14499
+wiki_total_pages: 14504
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "Anaya"
     title: "Anaya / 阿那亚"
     url: "/wiki/entities/anaya/"
+  - key: "AncelKeys"
+    title: "Ancel Keys"
+    url: "/wiki/entities/ancelkeys/"
   - key: "AnchoragePress"
     title: "Anchorage Press"
     url: "/wiki/entities/anchoragepress/"
@@ -1322,6 +1325,9 @@ wiki_pages:
   - key: "AndrewCarnegie"
     title: "Andrew Carnegie"
     url: "/wiki/entities/andrewcarnegie/"
+  - key: "AndrewCatchpole"
+    title: "Andrew Catchpole"
+    url: "/wiki/entities/andrewcatchpole/"
   - key: "AndrewCrosse"
     title: "Andrew Crosse / 安德鲁·克罗斯"
     url: "/wiki/entities/andrewcrosse/"

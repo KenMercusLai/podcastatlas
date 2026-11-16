@@ -41296,3 +41296,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | The Rise of the Guinea Pigs
+
+Added the [[RevisionistHistory]] episode comparing a controlled COVID-19 infection study with the [[MinnesotaStarvationExperiment]]. Created focused profiles for [[AncelKeys]], [[AndrewCatchpole]], [[SamLegge]], [[SarahTracy]], and [[ZoharLederman]], created [[ResearchParticipantAgency]], and resynthesized the Minnesota study and [[UnknownRiskInformedConsent]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: meaningful research participation can extend beyond signing consent to shaping the question, funding, recruitment, communication, and practical outputs. That stronger evidence of agency requires ethical analysis to hear volunteers' purposes and later testimony, but it does not transfer away researchers' duties of necessity, proportionality, monitoring, rescue, care, and accountability. Wartime stigma, unknown vulnerability, delirium, and self-injury keep severe-harm and voluntariness questions open.
+
+No settled contradiction was adopted. The episode's paternalism critique sharpens but does not overturn the wiki's existing informed-consent framework: 27,000 COVID-study applications show willingness rather than sufficient justification, archival evidence of volunteer co-production qualifies a Keys-centered origin story without equalizing protocol control, and retrospective pride may not represent every participant. Broad [[MalcolmGladwell]], [[RevisionistHistory]], automatic `wiki/overview.md`, and adjacent multi-source pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,106 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

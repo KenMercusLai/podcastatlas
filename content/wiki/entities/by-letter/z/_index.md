@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14499
+wiki_total_pages: 14504
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "ZoeChase"
     title: "Zoe Chase"
     url: "/wiki/entities/zoechase/"
+  - key: "ZoharLederman"
+    title: "Zohar Lederman"
+    url: "/wiki/entities/zoharlederman/"
   - key: "ZohranMamdani"
     title: "Zohran Mamdani"
     url: "/wiki/entities/zohranmamdani/"

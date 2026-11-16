@@ -17590,6 +17590,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/anaya/"
     },
+    "AncelKeys": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/ancelkeys/"
+    },
     "AnchoragePress": {
       "episode_count": 1,
       "show_count": 1,
@@ -18156,6 +18172,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/andrewcarnegie/"
+    },
+    "AndrewCatchpole": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/andrewcatchpole/"
     },
     "AndrewFeldman": {
       "episode_count": 2,
@@ -215746,9 +215778,9 @@
       "url": "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
     },
     "MinnesotaStarvationExperiment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
@@ -215763,6 +215795,13 @@
           "show": "Revisionist History",
           "title": "The Mennonite National Anthem",
           "url": "/wiki/sources/the-mennonite-national-anthem-the-mennonite-national-anthem/"
+        },
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
         }
       ],
       "updated": "2026-11-16",
@@ -266772,6 +266811,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/researchintegrityincentives/"
     },
+    "ResearchParticipantAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/researchparticipantagency/"
+    },
     "ResidentPhysicianStandardizedTraining": {
       "episode_count": 1,
       "show_count": 1,
@@ -276367,6 +276422,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/samharris/"
     },
+    "SamLegge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/samlegge/"
+    },
     "SamSachs": {
       "episode_count": 1,
       "show_count": 1,
@@ -277288,6 +277359,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/sarahlay/"
+    },
+    "SarahTracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/sarahtracy/"
     },
     "SarahsGlutenFreeGoods": {
       "episode_count": 1,
@@ -321494,9 +321581,9 @@
       "url": "/wiki/entities/universityofwashington/"
     },
     "UnknownRiskInformedConsent": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Rodents_and_Red_Wine_with_Maria_Konnikova [Rodents_and_Red_Wine_with_Maria_Konnikova].md",
@@ -321504,6 +321591,13 @@
           "show": "Revisionist History",
           "title": "Rodents and Red Wine with Maria Konnikova",
           "url": "/wiki/sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova/"
+        },
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
         }
       ],
       "updated": "2026-11-16",
@@ -358558,6 +358652,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/ziwudao/"
+    },
+    "ZoharLederman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Rise_of_the_Guinea_Pigs [The_Rise_of_the_Guinea_Pigs].md",
+          "key": "the-rise-of-the-guinea-pigs",
+          "show": "Revisionist History",
+          "title": "The Rise of the Guinea Pigs",
+          "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/zoharlederman/"
     },
     "ZohranMamdani": {
       "episode_count": 4,

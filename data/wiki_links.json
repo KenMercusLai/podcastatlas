@@ -10159,6 +10159,10 @@
     "title": "安碧 / Anbi",
     "url": "/wiki/entities/anbi/"
   },
+  "AncelKeys": {
+    "title": "Ancel Keys",
+    "url": "/wiki/entities/ancelkeys/"
+  },
   "Ancestrality": {
     "title": "Ancestrality",
     "url": "/wiki/concepts/ancestrality/"
@@ -10310,6 +10314,10 @@
   "AndrewCarnegie": {
     "title": "Andrew Carnegie",
     "url": "/wiki/entities/andrewcarnegie/"
+  },
+  "AndrewCatchpole": {
+    "title": "Andrew Catchpole",
+    "url": "/wiki/entities/andrewcatchpole/"
   },
   "AndrewCrosse": {
     "title": "Andrew Crosse / 安德鲁·克罗斯",
@@ -80923,6 +80931,10 @@
     "title": "Research Integrity Incentives",
     "url": "/wiki/concepts/researchintegrityincentives/"
   },
+  "ResearchParticipantAgency": {
+    "title": "Research Participant Agency",
+    "url": "/wiki/concepts/researchparticipantagency/"
+  },
   "ResearchReplicationIntegrity": {
     "title": "Research Replication Integrity",
     "url": "/wiki/concepts/researchreplicationintegrity/"
@@ -83803,6 +83815,10 @@
     "title": "Sam Harris",
     "url": "/wiki/entities/samharris/"
   },
+  "SamLegge": {
+    "title": "Sam Legge",
+    "url": "/wiki/entities/samlegge/"
+  },
   "SamSachs": {
     "title": "Sam Sachs",
     "url": "/wiki/entities/samsachs/"
@@ -84082,6 +84098,10 @@
   "SarahPinsker": {
     "title": "Sarah Pinsker / 莎拉·平斯克",
     "url": "/wiki/entities/sarahpinsker/"
+  },
+  "SarahTracy": {
+    "title": "Sarah Tracy",
+    "url": "/wiki/entities/sarahtracy/"
   },
   "SarahWu": {
     "title": "Sarah Wu",
@@ -108839,6 +108859,10 @@
     "title": "Zoe Chase",
     "url": "/wiki/entities/zoechase/"
   },
+  "ZoharLederman": {
+    "title": "Zohar Lederman",
+    "url": "/wiki/entities/zoharlederman/"
+  },
   "ZohranMamdani": {
     "title": "Zohran Mamdani",
     "url": "/wiki/entities/zohranmamdani/"
@@ -116226,6 +116250,10 @@
   "the-rfk-jr-problem-the-rfk-jr-problem": {
     "title": "The RFK Jr. Problem",
     "url": "/wiki/sources/the-rfk-jr-problem-the-rfk-jr-problem/"
+  },
+  "the-rise-of-the-guinea-pigs": {
+    "title": "The Rise of the Guinea Pigs",
+    "url": "/wiki/sources/the-rise-of-the-guinea-pigs/"
   },
   "the-science-art-of-comedy-creativity-tom-segura-scim7538555033": {
     "title": "The Science & Art of Comedy & Creativity | Tom Segura",

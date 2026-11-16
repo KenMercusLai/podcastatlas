@@ -5229,6 +5229,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Higher Animals with Michael Specter](sources/higher-animals-with-michael-specter-higher-animals-with-michael-specter.md) — Revisionist History conversation and audiobook excerpt on synthetic biology, mRNA vaccine design, biosecurity, the 1947 New York smallpox campaign, and public trust.
 - [Rodents and Red Wine with Maria Konnikova](sources/rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova.md) — Revisionist History ombudsman conversation on nutrition evidence, starvation research, unknown-risk consent, representative study populations, and longitudinal health observation.
 
+- [The Rise of the Guinea Pigs](sources/the-rise-of-the-guinea-pigs.md) — Revisionist History compares COVID challenge research with the Minnesota starvation study, recovering volunteer co-production while preserving unknown-risk and severe-harm limits.
+
 ## Entities
 - [Lester Glick](entities/LesterGlick.md) — Mennonite starvation-study volunteer and social-work educator who turned lasting deprivation into teaching, care, and food sharing.
 - [Abdul Dulloo](entities/AbdulDulloo.md) — Physiologist explaining uneven fat and lean-tissue recovery and the Minnesota study’s continuing evidentiary value.
@@ -19823,6 +19825,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lake Bell](entities/LakeBell.md) — Actor, filmmaker, and author using vocal performance to examine gender, authority, celebrity persona, and mature voice.
 - [Paris Hilton](entities/ParisHilton.md) — Media personality presented as a formative modern case of intimate vocal cues becoming a recognizable celebrity identity.
 
+- [Ancel Keys](entities/AncelKeys.md) — Physiologist who directed the Minnesota Starvation Experiment after conscientious objectors helped propose and support its humanitarian purpose.
+- [Andrew Catchpole](entities/AndrewCatchpole.md) — COVID challenge-study leader whose account of 27,000 applicants foregrounds volunteer altruism without settling residual risk.
+- [Sam Legge](entities/SamLegge.md) — Minnesota starvation volunteer whose self-injury, continued commitment, and later testimony join severe harm to chosen service.
+- [Sarah Tracy](entities/SarahTracy.md) — Historian whose correspondence research recovers conscientious objectors as initiators and collaborators in the Minnesota study.
+- [Zohar Lederman](entities/ZoharLederman.md) — Bioethicist arguing that participant willingness cannot authorize unlimited severe and unnecessary harm.
+
 ## Concepts
 - [Post-Starvation Body-Composition Recovery](concepts/PostStarvationBodyCompositionRecovery.md) — Uneven restoration of fat, lean tissue, and function after severe dietary restriction.
 - [Hunger as Total Deprivation](concepts/HungerAsTotalDeprivation.md) — Hunger understood as bodily, psychological, relational, and spiritual loss requiring material and human care.
@@ -31427,5 +31435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amateur Practice Value](concepts/AmateurPracticeValue.md) — Intrinsic and civic value of attentive participation without requiring professional-level achievement.
 - [Craft Shop Talk](concepts/CraftShopTalk.md) — Field-specific discourse through which practitioners share otherwise hidden techniques, distinctions, standards, and purposes.
 - [Argument Flowing](concepts/ArgumentFlowing.md) — Structured tracking of claims, evidence, and responses that turns listening into a trainable debate practice.
+
+- [Research Participant Agency](concepts/ResearchParticipantAgency.md) — Ethical framework giving participant purpose, collaboration, and testimony weight without treating consent as a waiver of institutional duties.
 
 ## Syntheses

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2815
+topic_total_pages: 2816
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2453,6 +2453,9 @@ topic_entities:
   - key: "SalemWitchTrials"
     title: "Salem Witch Trials / 塞勒姆猎巫"
     url: "/wiki/entities/salemwitchtrials/"
+  - key: "SamLegge"
+    title: "Sam Legge"
+    url: "/wiki/entities/samlegge/"
   - key: "Santorini"
     title: "Santorini"
     url: "/wiki/entities/santorini/"

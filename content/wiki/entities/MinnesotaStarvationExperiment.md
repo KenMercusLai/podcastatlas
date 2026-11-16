@@ -5,6 +5,7 @@ tags: [research-study, starvation, nutrition, world-war-ii, human-subjects]
 sources:
   - rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova
   - the-mennonite-national-anthem-the-mennonite-national-anthem
+  - the-rise-of-the-guinea-pigs
 last_updated: 2026-11-16
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,9 @@ The Minnesota Starvation Experiment is represented as a controlled World War II 
 
 The study has unusual humanitarian force because researchers expected millions of severely malnourished people to need rehabilitation and lacked reliable recovery knowledge. Its controlled food intake, six-month restriction period, recovery observation, and detailed records produced evidence that an uncontrolled famine could not supply in the same way. [[AbdulDulloo]] treats it as a gold standard for showing that fat can return faster than lean tissue, sometimes overshooting while muscle and function lag.
 
-That purpose does not settle its ethics. [[LesterGlick]]'s emaciation, tuberculosis, isolation, persistent hunger, and later weight cycling make possible lifelong consequences concrete. [[MariaKonnikova]] stresses unknown harm, possible patriotic pressure, and the difficulty of calling consent fully informed when researchers cannot enumerate the risks. [[MalcolmGladwell]] gives greater weight to participant altruism, later scientific benefit, and volunteers' subsequent service. The study therefore anchors [[UnknownRiskInformedConsent]] rather than serving as a simple example of either justified sacrifice or prohibited research.
+That purpose does not settle its ethics. [[LesterGlick]]'s emaciation, tuberculosis, isolation, persistent hunger, and later weight cycling make possible lifelong consequences concrete. [[SamLegge]]'s delirium, self-injury, request to continue, and later pride bring harm and chosen purpose into the same life. [[MariaKonnikova]] stresses unknown harm, possible patriotic pressure, and the difficulty of calling consent fully informed when researchers cannot enumerate the risks. [[ZoharLederman]] argues that some severe unnecessary harms remain prohibited despite expressed willingness, while [[MalcolmGladwell]] gives greater weight to participant altruism, later scientific benefit, and volunteer testimony.
+
+[[SarahTracy]]'s archival evidence also changes the study's institutional profile. Conscientious objectors reportedly proposed a peacetime relief experiment, brought church support and funding to [[AncelKeys]], helped recruit participants, published a laboratory newsletter, and produced practical guidance before Keys's major report. The study therefore anchors both [[UnknownRiskInformedConsent]] and [[ResearchParticipantAgency]] rather than serving as a simple example of either justified sacrifice or prohibited research.
 
 ## Key Characteristics
 
@@ -29,6 +32,7 @@ That purpose does not settle its ethics. [[LesterGlick]]'s emaciation, tuberculo
 - Combined potentially large public benefit with serious individual burden and uncertain long-term harm.
 - Produced evidence from a narrow population whose applicability to other groups requires separate judgment.
 - Recorded an uneven recovery in which restored weight could conceal slower restoration of lean tissue and function.
+- Included volunteers who helped originate, fund, recruit for, document, and publish the humanitarian project.
 
 ## Evidence
 
@@ -44,6 +48,11 @@ That purpose does not settle its ethics. [[LesterGlick]]'s emaciation, tuberculo
 ### Consent and uncertainty
 
 - [[rodents-and-red-wine-with-maria-konnikova-rodents-and-red-wine-with-maria-konnikova]] contrasts altruistic voluntary risk with unknown consequences and possible wartime social pressure.
+- [[the-rise-of-the-guinea-pigs]] adds social stigma, incomplete anticipation of psychological deterioration, severe self-injury, protective bioethical objection, and participant testimony.
+
+### Participant collaboration
+
+- [[the-rise-of-the-guinea-pigs]] reports archival evidence that conscientious objectors helped propose and fund the research, write recruitment material, publish the *Guinea Pig Gazette*, and produce *Men and Hunger*.
 
 ### Generalization boundary
 
@@ -51,13 +60,13 @@ That purpose does not settle its ethics. [[LesterGlick]]'s emaciation, tuberculo
 
 ## Qualifications
 
-This profile is bounded to two structured podcast summaries, not the study protocol, complete participant records, publications, later follow-up, or a historical ethics review. They do not establish diet quantities, effect sizes, individual variability, cohort-wide later morbidity, or current treatment recommendations. The later ethics discussion warns that fetal famine exposure differs from adult male experimental restriction, while Glick's biography cannot establish outcomes for every volunteer.
+This profile is bounded to three structured podcast summaries, not the study protocol, complete participant records, publications, correspondence archive, later follow-up, or a historical ethics review. They do not establish diet quantities, effect sizes, individual variability, cohort-wide later morbidity, or current treatment recommendations. The later ethics discussion warns that fetal famine exposure differs from adult male experimental restriction, while Glick's and Legge's biographies cannot establish outcomes for every volunteer. Surviving interviewees' retrospective pride may not represent participants with different memories or no opportunity to be interviewed.
 
 ## What Changed
 
-- Added the recovery-phase finding that fat may return faster than lean tissue and function.
-- Made uncertain long-term harm concrete through Glick's tuberculosis, persistent hunger, weight cycling, and social isolation.
-- Qualified future-benefit arguments by separating meaning made from suffering from proof that the harm was justified.
+- Recast the volunteers as contributors to the experiment's origin, funding, recruitment, documentation, and practical publication.
+- Added Legge's self-injury and later testimony to hold severe harm and chosen service in the same judgment.
+- Distinguished participant agency from a waiver of researcher duties or proof that every harm was justified.
 
 ## Relationships
 
@@ -70,3 +79,8 @@ This profile is bounded to two structured podcast summaries, not the study proto
 - [[AbdulDulloo]] - physiologist interpreting the study's recovery evidence and rarity.
 - [[PostStarvationBodyCompositionRecovery]] - uneven restoration pattern documented through the recovery records.
 - [[HungerAsTotalDeprivation]] - wider bodily, psychological, and social account developed through Glick's diaries.
+- [[ResearchParticipantAgency]] - explains why volunteer collaboration and testimony matter without making willingness sufficient.
+- [[AncelKeys]] - scientific director whose sole-originator narrative is qualified by volunteer initiative.
+- [[SamLegge]] - volunteer whose harm and retrospective interpretation sharpen the central ethical tension.
+- [[SarahTracy]] - historian recovering the volunteers' role in the experiment's conception and funding.
+- [[ZoharLederman]] - bioethicist articulating a protective limit on severe voluntary harm.

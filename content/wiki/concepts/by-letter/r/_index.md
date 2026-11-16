@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11494
+wiki_total_pages: 11495
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "ResearchIntegrityIncentives"
     title: "Research Integrity Incentives"
     url: "/wiki/concepts/researchintegrityincentives/"
+  - key: "ResearchParticipantAgency"
+    title: "Research Participant Agency"
+    url: "/wiki/concepts/researchparticipantagency/"
   - key: "ResearchReplicationIntegrity"
     title: "Research Replication Integrity"
     url: "/wiki/concepts/researchreplicationintegrity/"
