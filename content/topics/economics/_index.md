@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2408
+topic_total_pages: 2409
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3884,6 +3884,9 @@ topic_entities:
   - key: "BlakeScholl"
     title: "Blake Scholl"
     url: "/wiki/entities/blakescholl/"
+  - key: "BlinkFilm"
+    title: "Blink (unproduced film)"
+    url: "/wiki/entities/blinkfilm/"
   - key: "Bloomberg"
     title: "Bloomberg"
     url: "/wiki/entities/bloomberg/"

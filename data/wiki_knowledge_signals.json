@@ -35882,6 +35882,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/blindmountainfilm/"
     },
+    "BlinkFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/blinkfilm/"
+    },
     "Blitzkrieg": {
       "episode_count": 2,
       "show_count": 1,
@@ -129490,6 +129506,22 @@
       "updated": "2026-11-12",
       "url": "/wiki/concepts/griefcompanionsupport/"
     },
+    "GriefInterruptedCreativeDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/concepts/griefinterruptedcreativedevelopment/"
+    },
     "GriefPhysiologySupport": {
       "episode_count": 3,
       "show_count": 1,
@@ -138304,6 +138336,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/heathincomespolicy/"
+    },
+    "HeathLedger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/heathledger/"
     },
     "HeatherHasson": {
       "episode_count": 1,
@@ -180932,6 +180980,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/leonardodavinci/"
+    },
+    "LeonardoDiCaprio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/leonardodicaprio/"
     },
     "LeonidKravchuk": {
       "episode_count": 1,
@@ -237659,9 +237723,9 @@
       "url": "/wiki/entities/pauleastwick/"
     },
     "PaulEkman": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -237669,9 +237733,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-16",
       "url": "/wiki/entities/paulekman/"
     },
     "PaulKeating": {
@@ -287991,9 +288062,9 @@
       "url": "/wiki/concepts/socialembarrassmentfear/"
     },
     "SocialEmotionInferenceLimits": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -288008,9 +288079,16 @@
           "show": "Huberman Lab",
           "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
           "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
+        },
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-16",
       "url": "/wiki/concepts/socialemotioninferencelimits/"
     },
     "SocialEmotionalLearning": {
@@ -294204,6 +294282,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/stephenfry/"
+    },
+    "StephenGaghan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blink_with_Stephen_Gaghan_Development_Hell [Blink_with_Stephen_Gaghan_Development_Hell].md",
+          "key": "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell",
+          "show": "Revisionist History",
+          "title": "Blink with Stephen Gaghan | Development Hell",
+          "url": "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"
+        }
+      ],
+      "updated": "2026-11-16",
+      "url": "/wiki/entities/stephengaghan/"
     },
     "StephenKosslyn": {
       "episode_count": 1,

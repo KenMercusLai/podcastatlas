@@ -40755,3 +40755,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-16] ingest | Blink with Stephen Gaghan | Development Hell
+
+Added a [[RevisionistHistory]] episode in which [[StephenGaghan]] and [[MalcolmGladwell]] reconstruct [[BlinkFilm|Blink]], their unproduced screenplay about a young man whose supposed truth-reading ability draws him into his estranged financier father's attempt to escape worker pension and healthcare obligations.
+
+Core synthesis: the screenplay turns extraordinary social perception into both strategic leverage and interpersonal isolation, but [[SocialEmotionInferenceLimits]] keeps its near-perfect lie detection classified as fiction rather than supported inference from faces or feelings. The project's history adds [[GriefInterruptedCreativeDevelopment]]: bids, star attachment, a producer, budget, schedule, and reported green light did not preserve emotional executability after revision bound Teddy to [[HeathLedger]] and Ledger's death made continuation intolerable for Gaghan. No settled contradiction is adopted. Bankruptcy mechanics, screenplay quality, studio and actor intentions, formal attachment, production chronology, causal responsibility, and revival prospects remain source-scoped because the supplied file is a structured summary rather than a transcript, screenplay, contract file, legal analysis, or production archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,066 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14405
+wiki_total_pages: 14409
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "Blancpain"
     title: "Blancpain"
     url: "/wiki/entities/blancpain/"
+  - key: "BlinkFilm"
+    title: "Blink (unproduced film)"
+    url: "/wiki/entities/blinkfilm/"
   - key: "BlockInc"
     title: "Block Inc."
     url: "/wiki/entities/blockinc/"

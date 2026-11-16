@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？](sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c.md) — 芮淇讲透资治通鉴以侯音之乱和定军山之战串联征敛压力、无计划反抗、兵力调动、统帅暴露及败后指挥恢复。
 - [《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱](sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu.md) — 芮淇讲透资治通鉴以夏侯渊之死、刘备长期对峙、赵云疑兵、曹操撤出汉中及张既迁民方案，讨论角色转换、心理威慑与战略缓冲。
+- [Blink with Stephen Gaghan | Development Hell](sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell.md) — Stephen Gaghan and Malcolm Gladwell use an unproduced screenplay to examine truth-reading, paternal approval, corporate predation, star attachment, grief, and revival after development stops.
 - [The Variable Man with Gary Goldman and Angus Fletcher | Development Hell](sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle.md) — Gary Goldman and Angus Fletcher use an unproduced Philip K. Dick adaptation to test AI prediction, free will, audience reasoning, and trusted-director financing.
 - [Bubbles with Isaac Adamson | Development Hell](sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell.md) — Isaac Adamson uses an unproduced stop-motion screenplay to examine unreliable narration, loyalty, alleged abuse, cultural reevaluation, and film-development risk.
 - [The Birthday Party with Charles Randolph | Development Hell](sources/the-birthday-party-with-charles-randolph-development-hell-the-birthday-party-with-charles-randolph-development-hell.md) — Charles Randolph uses an unproduced kidnapping adaptation to examine invented internal conflict, moral reframing, cross-cultural authorship, and representational development risk.
@@ -5189,6 +5190,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Show 71 - Mania for Subjugation](sources/dchha71-mania-for-subjugation-dchha71-mania-for-subjugation.md) — Hardcore History on Philip II's state-building, Macedonian combined arms, Chaeronea, the League of Corinth, Alexander's formation, ancient legend, and the unresolved royal assassination.
 
 ## Entities
+- [Stephen Gaghan](entities/StephenGaghan.md) — Screenwriter whose Blink development joins indirect nonfiction adaptation, deep revision, changing casting imagination, and grief-shaped suspension.
+- [Blink (unproduced film)](entities/BlinkFilm.md) — Unproduced screenplay joining extraordinary social perception, paternal approval, worker obligations, star attachment, and creative loss.
+- [Leonardo DiCaprio](entities/LeonardoDiCaprio.md) — Actor whose early enthusiasm and attachment helped launch Blink and generate broad studio demand before the role changed.
+- [Heath Ledger](entities/HeathLedger.md) — Actor whom Gaghan came to imagine as Blink's lead and whose death became a major emotional break in development.
 - [定军山之战 / Battle of Dingjun Mountain](entities/DingjunMountainBattleLateHan.md) — 汉中争夺的转折点，刘备一方以连续施压和火攻调动曹军，黄忠趁夏侯渊兵力分散且亲身修防时发动致命突击。
 - [218年南阳侯音之乱 / Hou Yin's Nanyang Rebellion (218 CE)](entities/NanyangRebellion218LateHan.md) — 征敛压力引发的地方扣押与仓促起事，最终在曹仁镇压和来源所称的屠城中扩大为平民灾难。
 - [侯音 / Hou Yin (late Han)](entities/HouYinLateHan.md) — 因南阳继续征敛而扣押太守、却缺少完整后续方案并在曹仁围攻中身亡的地方守将。
@@ -19688,6 +19693,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epaminondas](entities/Epaminondas.md) — Theban commander associated with Leuctra's concentrated left, refused flank, and qualified influence on Philip II's military development.
 
 ## Concepts
+- [Grief-Interrupted Creative Development](concepts/GriefInterruptedCreativeDevelopment.md) — Suspension pattern where collaborator loss changes a work's emotional meaning so material readiness no longer ensures continuation.
 - [角色转换中的能力陷阱 / Role-Transition Capability Trap](concepts/RoleTransitionCapabilityTrap.md) — 原有强项在责任单位和风险结构改变后压制谨慎、倾听、授权或系统保护的角色适配风险。
 - [迁民式战略缓冲 / Population-Relocation Buffer Strategy](concepts/PopulationRelocationBufferStrategy.md) — 通过迁移居民、削弱争夺走廊的补给与地方支持来提高未来进军成本，同时带来同意和民生边界。
 - [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势部队以反常镇定或暴露姿态制造伏兵疑虑，使对手在不确定性下放弃或混乱撤退。
