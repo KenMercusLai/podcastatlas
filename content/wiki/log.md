@@ -41852,3 +41852,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Work 2.0: The One-Room Commute
+
+Added a [[HiddenBrain]] episode with [[NickBloom]] on the randomized [[Ctrip]] home-working experiment and the conditional design of remote and hybrid work. Resynthesized [[NickBloom]], [[WorkFromHomeEvidence]], and [[Ctrip]] from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: measurable routine work can produce more remotely while career visibility, informal learning, creative coordination, social connection, and worker preference move differently. Ctrip's home-based call-center volunteers reportedly produced 13% more, quit less often, and reduced office costs, yet many chose to return and remote workers were promoted less often after performance adjustment. Hybrid work is therefore an organizational design problem involving task fit, worker choice, schedule intensity, purposeful in-person time, fair evaluation, home space, and connectivity rather than a universal number of office days.
+
+No settled contradiction was adopted. The Ctrip result concerns volunteers doing measurable call-center work and should not be generalized to creative, collaborative, involuntary, or poorly equipped home work. Productivity, savings, attrition, promotion, survey percentages, and pandemic-era forecasts remain episode-scoped because the supplied document is a structured summary rather than the underlying studies or a verbatim transcript.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,144 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

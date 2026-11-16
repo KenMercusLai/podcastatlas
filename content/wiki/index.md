@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Work 2.0: The One-Room Commute](sources/default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044.md) — Hidden Brain and Nick Bloom use Ctrip's randomized experiment to connect remote productivity and retention gains with isolation, promotion penalties, unequal access, and conditional hybrid design.
 - [The Psychology of Self-Doubt](sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798.md) — Hidden Brain episode on the impostor phenomenon, identity-sensitive pressure, evidence-based recalibration, and the boundary between useful and harmful doubt.
 - [Bringing Up Baby](sources/default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272-default-mp3-ywr3ahjkcgo-63970084fa0b4353e8e3de25a37c3714-52798272.md) — Hidden Brain connects infant synchrony, contingent babbling, tantrum function, lullaby coregulation, gardener parenting, and exploratory learning.
 - [The Revisionist History Holiday Sampler](sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler.md) — Revisionist History pairs Hallie Rubenhold's victim-centered account of Elizabeth Stride and gendered disease control with an operationally promising but clinically unvalidated concert-tour use of COVID-detection dogs.

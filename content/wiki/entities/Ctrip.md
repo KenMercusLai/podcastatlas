@@ -9,7 +9,8 @@ sources:
   - liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp
   - tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412
   - vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv
-last_updated: 2026-10-15
+  - default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,8 +32,10 @@ The earnings layer is now explicit. [[tulasi-pingguo-cheng-jinnian-aimeijiang-de
 
 The newest source clarifies the product transition from booking channel to planning layer. [[vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv]] argues that direct rail booking has improved, so Ctrip's differentiated value increasingly lies in cross-provider itineraries, unusual flight combinations, attractions, local tours, rentals, transfers, insurance, visas, and possible AI-assisted planning. That strengthens the case for live inventory as a moat while raising the importance of transparent ranking, pricing, and merchant autonomy.
 
+The workplace-research branch now has clearer experimental detail. [[default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044]] describes Ctrip's nine-month randomized call-center experiment: home-based volunteers reportedly produced 13% more, quit less often, and reduced office costs, yet many later chose to return and were promoted less often after performance adjustment. Ctrip is therefore also an unusually concrete [[WorkFromHomeEvidence]] case in which operational efficiency, worker preference, isolation, and career visibility diverge.
+
 ## Key Characteristics
-- Chinese [[OnlineTravelAgency]] built from hotel booking, call centers, ticketing, offline fulfillment, and later mobile app habits.
+- Chinese [[OnlineTravelAgency]] built from hotel booking, call centers, ticketing, offline fulfillment, later mobile app habits, and experimental workplace design.
 - Platform whose hotel inventory, traffic, invoices, business-travel convenience, and supplier systems reinforce [[OTAPlatformConcentration]].
 - Company whose e-booking and PMS-adjacent tools can create both efficiency and [[HotelPlatformPricingPower]] concerns.
 - Demand channel that hotel groups try to offset through loyalty programs and direct booking.
@@ -52,13 +55,14 @@ The newest source clarifies the product transition from booking channel to plann
 - Penalty-driven earnings: [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] gives the second-quarter 2026 revenue growth, the loss caused by a penalty close to RMB 5.2 billion, about RMB 2.7 billion of net profit excluding it, a roughly 1% decline in transport ticketing, and more than 50% growth in international platform revenue with inbound travel and Asia-Pacific leading.
 - Margin outlook: [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] cites HSBC that weak summer travel demand plus antitrust rectification, international expansion, and AI investment may keep margins under pressure for two to three quarters.
 - Planning-layer shift: [[vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv]] says improved direct rail booking moves third-party value toward cross-company connections, unusual ticket combinations, local services, and integrated planning, and argues that closed travel-data interfaces favor established platforms.
+- Remote-work experiment: [[default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044-default-mp3-ywr3ahjkcgo-b9cf0c3dfc0e043244126a9eac2eb0f8-49651044]] reports random assignment, 13% higher call-center productivity, lower quits and office costs, substantial return-to-office choice, and a promotion penalty after performance adjustment.
 
 ## Qualifications
-The evidence mixes critical platform-governance sources with founder-side retrospective claims and business-commentary episodes. Ctrip's service and data assets can create real consumer value, but those same assets can strengthen pricing power, merchant dependence, and ranking opacity. Claims about internal experiments, live-streaming contribution, market position, international revenue, regulatory conduct, and AI product reliability remain source-reported rather than independently verified in the wiki.
+The evidence mixes critical platform-governance sources with founder-side retrospective claims, business-commentary episodes, and a podcast account of a randomized workplace study. Ctrip's service and data assets can create real consumer value, but those same assets can strengthen pricing power, merchant dependence, and ranking opacity. The remote-work result concerns volunteer call-center workers doing measurable tasks and does not establish the same effect for creative or large-team work. Claims about internal experiments, live-streaming contribution, market position, international revenue, regulatory conduct, and AI product reliability remain source-reported rather than independently verified in the wiki.
 
 ## What Changed
-- Added the shift from basic reservation access toward cross-provider planning and a broader local-service bundle.
-- Strengthened the judgment that live inventory and transaction data can become an AI advantage and a governance risk at the same time.
+- Added the randomized call-center experiment as a workplace-design branch distinct from Ctrip's travel-platform profile.
+- Separated measured remote-work output and retention gains from isolation, promotion, and employee-preference costs.
 
 ## Relationships
 - [[LiangJianzhang]], [[JiQi]], [[ShenNanpeng]], and [[FanMin]] - founding team.
@@ -66,4 +70,5 @@ The evidence mixes critical platform-governance sources with founder-side retros
 - [[HuazhuGroup]], [[HomeInns]], and [[HantingHotel]] - hotel-supply-side context through Ji Qi and direct booking.
 - [[OnlineTravelAgency]], [[HotelPMSInventoryControl]], [[HotelPlatformPricingPower]], [[HotelDirectBookingChannels]], [[TravelPlatformMerchantExclusivity]], [[TravelPriceParityEnforcement]], [[TravelBookingHiddenFees]], [[PlatformAntitrust]], and [[PlatformDataRegulation]] - main governance concepts.
 - [[CtripWendao]], [[AITravelPlanning]], and [[TrustAsBusinessAsset]] - travel-AI and trust-recovery direction.
+- [[NickBloom]] and [[WorkFromHomeEvidence]] - randomized remote-work research and hybrid-policy interpretation.
 - [[MakeMyTrip]], [[Skyscanner]], [[BookingHoldings]], and [[ExpediaGroup]] - global online-travel comparison and expansion context.
