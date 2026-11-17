@@ -145538,6 +145538,29 @@
       "updated": "2026-10-23",
       "url": "/wiki/entities/herfilm/"
     },
+    "Heraclitus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "Introducing_Revisionist_History_Season_Two [Introducing_Revisionist_History_Season_Two].md",
+          "key": "introducing-revisionist-history-season-two",
+          "show": "Revisionist History",
+          "title": "Introducing Revisionist History Season Two",
+          "url": "/wiki/sources/introducing-revisionist-history-season-two/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/heraclitus/"
+    },
     "Heraclius": {
       "episode_count": 1,
       "show_count": 1,
@@ -211095,9 +211118,9 @@
       "url": "/wiki/entities/markcarney/"
     },
     "MarkCohen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
@@ -211105,6 +211128,13 @@
           "show": "Revisionist History",
           "title": "A Good Walk Spoiled",
           "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
+        },
+        {
+          "episode_file": "Introducing_Revisionist_History_Season_Two [Introducing_Revisionist_History_Season_Two].md",
+          "key": "introducing-revisionist-history-season-two",
+          "show": "Revisionist History",
+          "title": "Introducing Revisionist History Season Two",
+          "url": "/wiki/sources/introducing-revisionist-history-season-two/"
         }
       ],
       "updated": "2026-11-17",
@@ -294596,6 +294626,43 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/shinglesvaccinedementiasignal/"
+    },
+    "ShipOfTheseus": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Introducing_Revisionist_History_Season_Two [Introducing_Revisionist_History_Season_Two].md",
+          "key": "introducing-revisionist-history-season-two",
+          "show": "Revisionist History",
+          "title": "Introducing Revisionist History Season Two",
+          "url": "/wiki/sources/introducing-revisionist-history-season-two/"
+        },
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
+        },
+        {
+          "episode_file": "Revenge_of_A_Good_Walk_Spoiled [Revenge_of_A_Good_Walk_Spoiled].md",
+          "key": "revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "Revenge of A Good Walk Spoiled",
+          "url": "/wiki/sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/shipoftheseus/"
     },
     "ShiraAviona": {
       "episode_count": 1,

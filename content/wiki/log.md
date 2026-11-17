@@ -42969,3 +42969,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Introducing Revisionist History Season Two
+
+Added the 2017 [[RevisionistHistory]] season-two trailer, which uses [[Heraclitus]]' river and [[MarkCohen]]'s Ship of Theseus explanation to ask whether identity persists through gradual change. Created [[ShipOfTheseus]] as a focused cross-domain concept and resynthesized Heraclitus and Mark Cohen from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: gradual replacement can preserve temporal continuity while eliminating original components, so material composition, function, legal form, ownership, and organized relations may yield different identity judgments. The puzzle is therefore diagnostic rather than decisive: it makes hidden continuity rules visible but does not choose one rule for philosophy, tax policy, or technical taxonomy.
+
+No settled contradiction was adopted. The trailer explicitly leaves its season-wide theory open to disagreement and cannot substitute for the full evidence in the later golf-course and french-fry episodes. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable addition without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,225 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, health, derived synthesis, whitespace, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

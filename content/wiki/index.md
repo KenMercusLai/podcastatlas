@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Introducing Revisionist History Season Two](sources/introducing-revisionist-history-season-two.md) — Season-two trailer using Heraclitus and the Ship of Theseus to frame identity through change while leaving the proposed common thread open to disagreement.
 - [A Good Walk Spoiled](sources/a-good-walk-spoiled-a-good-walk-spoiled.md) — Revisionist History connects private Los Angeles golf land, layered property-tax preferences, gradual ownership change, and scheduled public access.
 - [The Road to Damascus](sources/the-road-to-damascus-the-road-to-damascus.md) — Revisionist History examines how legitimate CIA accountability and press scrutiny exposed an atoning former terrorist whose intelligence had helped locate Carlos the Jackal.
 - [Miss Buchanan’s Period of Adjustment](sources/miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment.md) — Revisionist History separates Brown’s legal victory from the displacement of Black educators and the failure to integrate institutional authority.
@@ -5355,7 +5356,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [Brentwood Country Club](entities/BrentwoodCountryClub.md) — Private Los Angeles golf club used to make scarce-land exclusion, low observed use, and reciprocal public access concrete.
 - [Bob Hope](entities/BobHope.md) — Entertainer and golfer who served as the public face of California's 1960 golf-course valuation campaign.
-- [Mark Cohen](entities/MarkCohen.md) — Philosopher explaining competing identity theories behind the Ship of Theseus and gradual club ownership change.
+- [Mark Cohen](entities/MarkCohen.md) — Philosopher connecting Heraclitus’s river to the Ship of Theseus and applying competing persistence theories to gradual club ownership change.
 - [Tim Weiner](entities/TimWeiner.md) — investigative journalist whose CIA reporting anchors the episode’s unresolved publication and source-protection dispute.
 - [John Rizzo](entities/JohnRizzo.md) — senior CIA lawyer and memoirist whose account joins culpable-source recruitment, legal accountability, and broken faith.
 - [Carlos the Jackal](entities/CarlosTheJackal.md) — terrorist whose capture demonstrated the unnamed asset’s value and later became the most identifying published detail.
@@ -16640,7 +16641,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diogenes / 第欧根尼](entities/Diogenes.md) — Barrel and open-office refusal figure used to contrast Cynic freedom with managed corporate freedom.
 - [Michel de Montaigne / 蒙田](entities/MichelDeMontaigne.md) — Essay/probation pun figure whose short reports and endless trial period become office satire.
 - [Epicurus / 伊壁鸠鲁](entities/Epicurus.md) — Hellenistic philosopher of non-intervening gods and tranquility, later reused as a character in philosophical workplace satire.
-- [Heraclitus / 赫拉克利特](entities/Heraclitus.md) — Farewell-party figure whose repeated resignation and rehiring turn change into company routine.
+- [Heraclitus / 赫拉克利特](entities/Heraclitus.md) — Philosopher whose river-change motif frames identity through change and is later repurposed as a workplace-satire joke.
 - [Bernard-Henri Levy / 伯纳德-亨利·列维](entities/BernardHenriLevy.md) — Public intellectual figure folded into the BHL/DHL delivery joke and media-persona discussion.
 - [The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》](entities/TheWitchesSalem1692.md) — Stacy Schiff book read by episode 91 as a case study in Salem, witch-hunt escalation, evidentiary collapse, and public accusation.
 - [Stacy Schiff / 斯泰西·西夫](entities/StacySchiff.md) — Author of 《猎巫：塞勒姆1692》 as used by episode 91 to frame the Salem witch trials.
@@ -20205,6 +20206,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Ship of Theseus](concepts/ShipOfTheseus.md) — Persistence problem exposing competing identity criteria under gradual component replacement across philosophy, institutions, and technology.
 - [Golf-Course Property-Tax Preference](concepts/GolfCoursePropertyTaxPreference.md) — Interaction of current-use golf-course valuation, Proposition 13 assessment continuity, and ownership-change rules.
 - [Press–Intelligence Disclosure Dilemma](concepts/PressIntelligenceDisclosureDilemma.md) — conflict between reporting on secret-state misconduct and exposing a human source through distinctive operational detail.
 - [Transactive Memory](concepts/TransactiveMemory.md) — Shared cognitive system whose complementary expertise can aid decisions while creating dependence on a trusted partner.
