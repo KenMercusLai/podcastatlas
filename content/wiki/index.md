@@ -5307,6 +5307,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
 - [Dragon Psychology 101](sources/dragon-psychology-101-dragon-psychology-101.md) — Revisionist History connects museum accumulation, collection accounting, Warhol's archive, hoarding psychology, and object-mediated memory.
 - [《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？](sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh.md) — 芮淇讲透资治通鉴 connects Guan Yu's status-sensitive appointment dispute with Fei Shi's boundary-preserving de-escalation and the flood, surrender, siege, and delayed relief at Fancheng.
+- [《资治通鉴·汉纪》1165丨张既传：低调才是顶级生存智慧](sources/zizhi-tongjian-hanji-1165-zhangji-zhuan-didiao-caishi-dingji-shengcun-zhihui-lr7x5qltfi_ikktqabowt1garphl.md) — 芮淇讲透资治通鉴 connects Zhang Ji's mixed Liangzhou governance with Liu Bei's Hanzhong kingship settlement, Shangyong expansion, rank allocation, and fragmented-theater support risk.
 
 ## Entities
 - [Metropolitan Museum of Art](entities/MetropolitanMuseumOfArt.md) — New York museum used to examine financial strain, acquisition, inaccessible holdings, collection accounting, and resistance to disposal.
@@ -20054,6 +20055,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 - [费诗 / Fei Shi (late Han)](entities/FeiShiLateHan.md) — Liu Bei-side envoy who waits out Guan Yu's anger, restores the ruler-minister frame, and preserves consequences while securing acceptance of appointment.
 - [219年樊城之战 / Battle of Fancheng (219 CE)](entities/FanchengBattle219LateHan.md) — Flood-transformed campaign in which Yu Jin surrenders, Pang De refuses, and Cao Ren and Man Chong hold until relief.
+- [魏延 / Wei Yan](entities/WeiYan.md) — 刘备称汉中王后受命镇守汉中、以分级应敌承诺表达守备信心的将领。
+- [孟达 / Meng Da (late Han)](entities/MengDaLateHan.md) — 从秭归北上攻房陵、后与刘封共同推进上庸的刘备方将领。
+- [刘封 / Liu Feng (late Han)](entities/LiuFengLateHan.md) — 接管孟达部队并促成申耽在上庸归降的刘备方将领。
+- [申耽 / Shen Dan (late Han)](entities/ShenDanLateHan.md) — 面对刘封、孟达进军而归降并获留任的上庸太守。
+- [219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)](entities/LiuBeiHanzhongKingship219LateHan.md) — 将汉中胜利转化为称王、继承、任官、战区分工和继续扩张，同时暴露地理协同风险的政治军事布局。
 
 ## Concepts
 - [Object-Mediated Memory and Identity](concepts/ObjectMediatedMemoryAndIdentity.md) — Physical possessions as cues that retrieve autobiographical memory, sustain emotional continuity, and materialize parts of the self.
@@ -31811,5 +31817,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overwhelming Force Casualty Logic](concepts/OverwhelmingForceCasualtyLogic.md) — Claim that extreme force applied early can shorten war and reduce total deaths despite uncertain coercion and casualty forecasts.
 - [Action Bias Under Command Pressure](concepts/ActionBiasUnderCommandPressure.md) — Preference for visible execution under result pressure, especially when rapid adaptation changes irreversible human stakes.
 - [Constraint-Driven Doctrine Shift](concepts/ConstraintDrivenDoctrineShift.md) — Cascade in which operational limits alter execution until the mission's target, method, or moral character changes.
+- [生计型边疆安全 / Livelihood-Based Frontier Security](concepts/LivelihoodBasedFrontierSecurity.md) — 以盐铁、农桑和可持续生计增强地方稳定，同时保留其可能与镇压、迁徙和不平等并存的边界治理机制。
+- [分隔战区支援风险 / Fragmented-Theater Support Risk](concepts/FragmentedTheaterSupportRisk.md) — 领土与兵力被距离、地形和通道分隔后，威胁节奏快于通信、机动和增援能力所形成的系统性脆弱。
 
 ## Syntheses

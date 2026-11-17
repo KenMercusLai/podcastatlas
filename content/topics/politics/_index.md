@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3577
+topic_total_pages: 3578
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5500,6 +5500,9 @@ topic_concepts:
   - key: "FertilityBurdenReliefPolicy"
     title: "生育负担减免政策 / Fertility Burden Relief Policy"
     url: "/wiki/concepts/fertilityburdenreliefpolicy/"
+  - key: "LivelihoodBasedFrontierSecurity"
+    title: "生计型边疆安全 / Livelihood-Based Frontier Security"
+    url: "/wiki/concepts/livelihoodbasedfrontiersecurity/"
   - key: "ImperialBondservantGovernance"
     title: "皇室包衣治理 / Imperial Bondservant Governance"
     url: "/wiki/concepts/imperialbondservantgovernance/"

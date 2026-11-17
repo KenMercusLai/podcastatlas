@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14651
+wiki_total_pages: 14656
 wiki_pages:
+  - key: "LiuBeiHanzhongKingship219LateHan"
+    title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
+    url: "/wiki/entities/liubeihanzhongkingship219latehan/"
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
     url: "/wiki/entities/lexingtonandconcord/"
@@ -1598,6 +1601,9 @@ wiki_pages:
   - key: "LiuKuanLateHan"
     title: "刘宽 / Liu Kuan (late Han)"
     url: "/wiki/entities/liukuanlatehan/"
+  - key: "LiuFengLateHan"
+    title: "刘封 / Liu Feng (late Han)"
+    url: "/wiki/entities/liufenglatehan/"
   - key: "LiuShangEasternHan"
     title: "刘尚 / Liu Shang (Eastern Han)"
     url: "/wiki/entities/liushangeasternhan/"

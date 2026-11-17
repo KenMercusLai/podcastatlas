@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14651
+wiki_total_pages: 14656
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -3005,6 +3005,9 @@ wiki_pages:
   - key: "ShenWeiFootballReporter"
     title: "申炜 / Shen Wei (football reporter)"
     url: "/wiki/entities/shenweifootballreporter/"
+  - key: "ShenDanLateHan"
+    title: "申耽 / Shen Dan (late Han)"
+    url: "/wiki/entities/shendanlatehan/"
   - key: "STOExpress"
     title: "申通快递"
     url: "/wiki/entities/stoexpress/"

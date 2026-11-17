@@ -42368,3 +42368,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | 《资治通鉴·汉纪》1165丨张既传：低调才是顶级生存智慧
+
+Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode bridging Hanji 1164 and Hanji 1166. Created focused profiles for [[WeiYan|魏延]], [[MengDaLateHan|孟达]], [[LiuFengLateHan|刘封]], [[ShenDanLateHan|申耽]], and [[LiuBeiHanzhongKingship219LateHan|刘备称汉中王后的政治与军事布局]], plus [[LivelihoodBasedFrontierSecurity|生计型边疆安全]] and [[FragmentedTheaterSupportRisk|分隔战区支援风险]]. Resynthesized [[ZhangJiCaoOfficialLateHan|张既]] and [[PopulationRelocationBufferStrategy|迁民式战略缓冲]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Zhang Ji's western governance is a mixed security program joining suppression, strategic waiting, relocation, production, and local livelihood rather than a simple benevolent-administrator story. Liu Bei's Hanzhong victory becomes kingship, succession, senior appointments, Hanzhong command under Wei Yan, and continued Fangling–Shangyong expansion, but the enlarged polity's separated theaters cannot necessarily reinforce one another at the speed of Cao- and Sun-side pressure.
+
+No settled contradiction was adopted. The relocation total, six-month timing, voluntariness, long-run Five Barbarians link, Zhang Ji's jurisdiction and tenure, Liu Bei's legal and ceremonial details, exact ranks, dialogue, and appointment motives remain source-scoped. Broad Liu Bei, Guan Yu, Zhuge Liang, Cao Cao, and show profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,183 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

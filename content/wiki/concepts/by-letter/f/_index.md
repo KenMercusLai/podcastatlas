@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11644
+wiki_total_pages: 11646
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1784,6 +1784,9 @@ wiki_pages:
   - key: "FaceSavingSubmissionFailure"
     title: "保面子式归降失败 / Face-Saving Submission Failure"
     url: "/wiki/concepts/facesavingsubmissionfailure/"
+  - key: "FragmentedTheaterSupportRisk"
+    title: "分隔战区支援风险 / Fragmented-Theater Support Risk"
+    url: "/wiki/concepts/fragmentedtheatersupportrisk/"
   - key: "FenxiangMailu"
     title: "分香卖履 / Fenxiang Mailu"
     url: "/wiki/concepts/fenxiangmailu/"

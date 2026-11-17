@@ -38367,6 +38367,10 @@
     "title": "Fragmented Memory Narrative / 碎片化记忆叙事",
     "url": "/wiki/concepts/fragmentedmemorynarrative/"
   },
+  "FragmentedTheaterSupportRisk": {
+    "title": "分隔战区支援风险 / Fragmented-Theater Support Risk",
+    "url": "/wiki/concepts/fragmentedtheatersupportrisk/"
+  },
   "FragmentedVideoEventReconstruction": {
     "title": "Fragmented Video Event Reconstruction / 碎片影像事件重构",
     "url": "/wiki/concepts/fragmentedvideoeventreconstruction/"
@@ -59219,6 +59223,10 @@
     "title": "刘备 / Liu Bei",
     "url": "/wiki/entities/liubei/"
   },
+  "LiuBeiHanzhongKingship219LateHan": {
+    "title": "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)",
+    "url": "/wiki/entities/liubeihanzhongkingship219latehan/"
+  },
   "LiuBiWuKing": {
     "title": "刘濞 / Liu Bi (King of Wu)",
     "url": "/wiki/entities/liubiwuking/"
@@ -59374,6 +59382,10 @@
   "LiuFeiQiKing": {
     "title": "刘肥 / Liu Fei (Qi king)",
     "url": "/wiki/entities/liufeiqiking/"
+  },
+  "LiuFengLateHan": {
+    "title": "刘封 / Liu Feng (late Han)",
+    "url": "/wiki/entities/liufenglatehan/"
   },
   "LiuFuLateHan": {
     "title": "刘馥 / Liu Fu (late Han)",
@@ -60066,6 +60078,10 @@
   "LivedFaithDiscernment": {
     "title": "Lived Faith Discernment / 信仰作为生活中的信任与辨认",
     "url": "/wiki/concepts/livedfaithdiscernment/"
+  },
+  "LivelihoodBasedFrontierSecurity": {
+    "title": "生计型边疆安全 / Livelihood-Based Frontier Security",
+    "url": "/wiki/concepts/livelihoodbasedfrontiersecurity/"
   },
   "LivelihoodFirstPacification": {
     "title": "民生优先安抚治理 / Livelihood-First Pacification",
@@ -64978,6 +64994,10 @@
   "MengChangLaterShu": {
     "title": "孟昶 / Meng Chang (Later Shu)",
     "url": "/wiki/entities/mengchanglatershu/"
+  },
+  "MengDaLateHan": {
+    "title": "孟达 / Meng Da (late Han)",
+    "url": "/wiki/entities/mengdalatehan/"
   },
   "MengDoctorFeverClinic": {
     "title": "蒙医生 / Meng Doctor (这病说来话长)",
@@ -87263,6 +87283,10 @@
     "title": "申不害 / Shen Buhai",
     "url": "/wiki/entities/shenbuhai/"
   },
+  "ShenDanLateHan": {
+    "title": "申耽 / Shen Dan (late Han)",
+    "url": "/wiki/entities/shendanlatehan/"
+  },
   "ShenFurenWesternHan": {
     "title": "慎夫人 / Shen Furen (Western Han)",
     "url": "/wiki/entities/shenfurenwesternhan/"
@@ -101842,6 +101866,10 @@
   "WeiXunEasternHan": {
     "title": "隗恂 / Wei Xun (Eastern Han)",
     "url": "/wiki/entities/weixuneasternhan/"
+  },
+  "WeiYan": {
+    "title": "魏延 / Wei Yan",
+    "url": "/wiki/entities/weiyan/"
   },
   "WeiYuLateHan": {
     "title": "魏宇 / Wei Yu (late Han)",
@@ -120614,6 +120642,10 @@
   "zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu": {
     "title": "《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu/"
+  },
+  "zizhi-tongjian-hanji-1165-zhangji-zhuan-didiao-caishi-dingji-shengcun-zhihui-lr7x5qltfi_ikktqabowt1garphl": {
+    "title": "《资治通鉴·汉纪》1165丨张既传：低调才是顶级生存智慧",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1165-zhangji-zhuan-didiao-caishi-dingji-shengcun-zhihui-lr7x5qltfi_ikktqabowt1garphl/"
   },
   "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh": {
     "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",

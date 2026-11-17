@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11644
+wiki_total_pages: 11646
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "LifestyleDependencyStrategicAutonomy"
     title: "生活方式依赖与战略自主 / Lifestyle Dependency and Strategic Autonomy"
     url: "/wiki/concepts/lifestyledependencystrategicautonomy/"
+  - key: "LivelihoodBasedFrontierSecurity"
+    title: "生计型边疆安全 / Livelihood-Based Frontier Security"
+    url: "/wiki/concepts/livelihoodbasedfrontiersecurity/"
   - key: "LegitimacyAnxietyAdministrativeParalysis"
     title: "篡位焦虑式行政瘫痪 / Legitimacy-Anxiety Administrative Paralysis"
     url: "/wiki/concepts/legitimacyanxietyadministrativeparalysis/"
