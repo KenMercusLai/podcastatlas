@@ -21581,6 +21581,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "BritishNetMigrationReversal": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BritishPublicSchools": [
     {
       "key": "culture",
@@ -81726,6 +81738,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RobertPattinson": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RobertPeel": [

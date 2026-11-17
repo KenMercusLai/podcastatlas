@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Transchipment: Huang and the AI aftershocks](sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281.md) — Nvidia's succession and export-control crisis, Britain's migration reversal, and the next James Bond.
 - [When Indigenous communities become content](sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128.md) — Marketplace Tech and Sarah Edwards connect an illegal North Sentinel Island visit to exploitative influencer content, context-poor moderation, critical-engagement amplification, and deliberate non-engagement.
 - [517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起](sources/ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj.md) — 忽左忽右以宇文泰的联盟整合、八柱国府兵制、《周礼》官制与巴蜀扩张解释西魏北周崛起，并以李虎案例检验关陇集团延续与王朝记忆。
 - [Introducing Revisionist History](sources/introducing-revisionist-history.md) — Original series trailer framing Revisionist History as a cross-domain return to overlooked or misunderstood stories while leaving its previewed cases to later full investigations.
@@ -5367,6 +5368,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Robert Pattinson](entities/RobertPattinson.md) — British actor reported by the episode as selected to play the next James Bond.
 - [Sarah Edwards](entities/SarahEdwards.md) — Media-studies professor connecting influencer exploitation to morally indifferent engagement systems and context-limited moderation.
 - [North Sentinel Island](entities/NorthSentinelIsland.md) — Protected island case showing how attempted contact with a voluntarily isolated Indigenous community became influencer content.
 - [赵帅齐 / Zhao Shuaiqi](entities/ZhaoShuaiqi.md) — 以制度史、军事组织、历史地理与史料批判解释西魏北周的隋唐史学者。
@@ -20259,6 +20261,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [British Net Migration Reversal](concepts/BritishNetMigrationReversal.md) — Britain's rapid move from record inflows toward very low or potentially negative net migration.
 - [Exploitative Influencer Content](concepts/ExploitativeInfluencerContent.md) — Creator content that converts community vulnerability, remoteness, or protected status into attention while shifting risk toward those filmed or approached.
 - [Voluntarily Isolated Indigenous Peoples](concepts/VoluntarilyIsolatedIndigenousPeoples.md) — Non-contact autonomy framework joining health, safety, extraction, legal access limits, and emerging influencer intrusion.
 - [关陇集团 / Guanlong Group](concepts/GuanlongGroup.md) — 陈寅恪用于解释西魏关中联盟及其隋唐延续的模型，形成机制较延续时限更获支持。

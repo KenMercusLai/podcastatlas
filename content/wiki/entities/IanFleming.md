@@ -4,7 +4,8 @@ type: entity
 tags: [person, author, intelligence, james-bond, british-culture]
 sources:
   - 101-james-bond-glt6304120514
-last_updated: 2026-10-02
+  - 541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Ian Fleming was the British author who created [[JamesBond]]. The current source
 
 [[101-james-bond-glt6304120514]] places Fleming inside a privileged but psychologically competitive family. His father Valentine Fleming, a Tory MP, barrister, and banker, died in the First World War; his older brother Peter became a prominent adventurer and writer. Ian's failures at Sandhurst, the Foreign Office examination, banking, and stockbroking precede wartime work in naval intelligence and a postwar newspaper career.
 
-The episode dates the beginning of *Casino Royale* to February 1952 at Goldeneye in Jamaica. It presents Bond not as Fleming's transparent self-portrait but as wish fulfilment: decisive, dangerous, worldly, upper-class, sexually powerful, and able to remain inside the masculine adventure world associated with war.
+The sources date the beginning of Fleming's defining spy story to 1952 and say he borrowed the name James Bond from the author of *Field Guide to the Birds of the West Indies*, valuing it as brief, unromantic, Anglo-Saxon, and masculine. Bond is not treated as Fleming's transparent self-portrait but as wish fulfilment: decisive, dangerous, worldly, upper-class, sexually powerful, and able to remain inside the masculine adventure world associated with war.
 
 That fantasy is not morally neutral. The discussion treats Fleming as reactionary even by some contemporary standards and connects the novels' villains, sexual violence, sadomasochism, snobbery, and physical or foreign othering to his recurring anxieties and tastes. The interpretation explains a literary pattern without reducing every feature to biography or treating motive as exculpation.
 
@@ -38,16 +39,15 @@ That fantasy is not morally neutral. The discussion treats Fleming as reactionar
 - Literary inheritance: [[101-james-bond-glt6304120514]] identifies Richard Hannay, Bulldog Drummond, and earlier villain traditions as major inputs.
 - Reactionary imagination: [[101-james-bond-glt6304120514]] connects the novels' sadomasochism, misogyny, snobbery, othering, and villain design to Fleming's worldview.
 - Private-to-fictional conversion: [[101-james-bond-glt6304120514]] uses the Goldfinger name and other personal references to show Fleming turning dislikes and acquaintances into fictional material.
+- Naming: [[541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281]] says Fleming borrowed “James Bond” from a bird-guide author because the name matched the plain masculine effect he wanted.
 
 ## Qualifications
 
 This profile relies on one selective podcast discussion rather than a full biography or literary study. Psychological claims about inadequacy, nostalgia, marriage, sexuality, and motive are interpretations, and the source itself qualifies broad austerity-Britain or imperial-decline explanations. The Bond films often depart substantially from Fleming's tone and should not be treated as direct evidence of his views.
 
 ## What Changed
-
-- Established a source-bounded profile linking Fleming's biography to Bond as masculine wish fulfilment.
-- Kept reactionary content and sadomasochistic sexual imagination central to, but not exhaustive of, the literary account.
-- Distinguished the novels from later screen reinventions.
+- Added the source's account of how Fleming selected the name James Bond.
+- Connected the deliberately plain name to the masculine fantasy already present in the profile.
 
 ## Relationships
 

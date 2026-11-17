@@ -6,7 +6,8 @@ knowledge_schema: synthesis-v1
 sources:
   - tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128
   - allin-e297-ch-allin-e297-ch
-last_updated: 2026-11-14
+  - 541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281
+last_updated: 2026-11-17
 ---
 
 # Colette Kress
@@ -15,7 +16,7 @@ last_updated: 2026-11-14
 Colette Kress is [[Nvidia]]'s chief financial officer and, according to the source, its interim chief executive after [[JensenHuang|Jensen Huang]]'s reported resignation.
 
 ## Current Profile
-The sources place Kress at the center of a continuity bridge rather than presenting her as the confirmed permanent successor. Her finance leadership may support near-term stability while Nvidia's board searches for a long-term strategic leader. The All-In episode argues that the permanent role also requires deep technical judgment, fast product decisions, and aggressive ecosystem capital allocation, but it provides no board decision, transition plan, or evaluation of Kress against those criteria.
+The sources place Kress at the center of a continuity bridge rather than presenting her as the confirmed permanent successor. Her finance leadership may support near-term stability while Nvidia's board searches for a long-term strategic leader. The newest episode clarifies that the next earnings release still covers a Huang-led quarter, so investor attention is likely to fall on her answers about talent, AMD and hyperscaler competition, and scandal management rather than provide a clean performance test.
 
 ## Key Characteristics
 - Serves as Nvidia's chief financial officer.
@@ -32,12 +33,15 @@ The sources place Kress at the center of a continuity bridge rather than present
 - [[tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128]] speculates that Nvidia may prefer an experienced semiconductor strategist or another internal executive for the permanent role, leaving Kress's long-term position unresolved.
 - [[allin-e297-ch-allin-e297-ch]] describes the CFO as interim CEO while debating technical and capital-allocation requirements for a permanent “wartime” leader; it does not name Kress in the supplied body or assess her performance.
 
+### First public operating test
+- [[541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281]] says the forthcoming results still belong to Huang's quarter and frames Kress's answers on retention, competition, and crisis management as the more informative near-term evidence.
+
 ## Qualifications
 The supplied files are structured episode summaries rather than Nvidia filings, board announcements, or interviews with Kress. Her interim appointment, authority, duration, and candidacy therefore remain episode-attributed here. Neither source independently assesses her operating strategy or performance as interim CEO, and the newest summary identifies the interim leader only as Nvidia's CFO.
 
 ## What Changed
-- Added the newest episode's distinction between interim financial continuity and the technical, product, and capital-allocation demands asserted for the permanent role.
-- Preserved Kress's permanent candidacy and operating performance as unresolved.
+- Added the distinction between inherited quarterly results and Kress's own crisis-management signal.
+- Added talent retention and competitive response as the immediate questions around her interim leadership.
 
 ## Relationships
 - [[Nvidia]] - company where Kress serves as CFO and reportedly as interim CEO.

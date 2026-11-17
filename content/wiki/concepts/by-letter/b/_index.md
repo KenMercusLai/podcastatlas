@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11732
+wiki_total_pages: 11733
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
+  - key: "BritishNetMigrationReversal"
+    title: "British Net Migration Reversal"
+    url: "/wiki/concepts/britishnetmigrationreversal/"
   - key: "BritishPublicSchools"
     title: "British Public Schools"
     url: "/wiki/concepts/britishpublicschools/"

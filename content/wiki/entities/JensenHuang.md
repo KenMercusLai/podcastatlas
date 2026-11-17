@@ -19,7 +19,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520
   - 377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz
   - 77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8
-last_updated: 2026-11-15
+  - 541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281
+last_updated: 2026-11-17
 ---
 
 # Jensen Huang
@@ -28,7 +29,7 @@ last_updated: 2026-11-15
 Jensen Huang is the founder associated across the sources with [[Nvidia]]'s transition from GPU supplier to an integrated AI-infrastructure company. He appears as a public strategist on compute, agents, physical AI, open models, export policy, and work, and as an internal operating influence on research priorities, ecosystem building, and repeated self-disruption. The latest episode reports that Nvidia announced his immediate resignation as chief executive, president, and director on November 12, 2026; that status remains episode-attributed pending primary company documentation.
 
 ## Current Profile
-Huang's consistent operating strategy was to pursue technically difficult platform problems whose value compounds across hardware, software, developers, and infrastructure. The newest source broadens the succession judgment: his role reportedly also joined Taiwan supplier trust, China-facing diplomacy, investment, guarantees, and credit support across the AI ecosystem. That makes the episode-reported resignation a test of whether these relationships and decisions were institutionalized or personally concentrated. The source does not establish espionage, information transfer, an export violation, political targeting, or the market effects it forecasts.
+Huang's consistent operating strategy was to pursue technically difficult platform problems whose value compounds across hardware, software, developers, and infrastructure. Recent sources broaden the succession judgment: his role reportedly also joined Taiwan supplier trust, China-facing diplomacy, investment, guarantees, credit support, and Washington access across the AI ecosystem. The newest episode records a live dispute between supporters who regard him as irreplaceable and officials who argue that Nvidia requires an external cultural reset. That dispute does not establish wrongdoing, an export violation, or whether his return would improve governance.
 
 ## Key Characteristics
 - Frames Nvidia's opportunity at the system and ecosystem level rather than as isolated chip performance.
@@ -64,6 +65,7 @@ Huang's consistent operating strategy was to pursue technically difficult platfo
 - [[377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz]] reports Huang's immediate resignation from his executive and board roles and treats the event as a trigger exposing conflicts among technology accelerationists, China hawks, and populist AI critics.
 - [[377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz]] connects the reported resignation to [[ExecutiveConductGovernanceRisk]], founder dependence, and reduced credibility in [[AIExportControls|export-policy]] advocacy, while explicitly lacking primary investigation findings.
 - [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] adds Taiwan supplier coordination and the “AI central bank” metaphor for Huang's investment, guarantee, and confidence-building role, while treating downstream financing effects as forecasts.
+- [[541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281]] reports calls for Huang's reinstatement, an opposing outside-successor view, and a scheduled closed congressional session, while supplying no testimony or official finding.
 
 ## Qualifications
 - Huang's position benefits from Nvidia selling the infrastructure required by the futures he forecasts.
@@ -75,9 +77,9 @@ Huang's consistent operating strategy was to pursue technically difficult platfo
 - Claims about direct-report structure, employee counts, supplier dependence, political motives, investigations, successors, and asset prices remain episode-scoped and require primary evidence.
 
 ## What Changed
-- Expanded founder concentration from product and policy into supplier coordination and ecosystem credit.
-- Added China-facing diplomacy and Taiwan supply-chain trust as succession-sensitive relationships.
-- Preserved resignation, allegations, political theories, and proven national-security or compliance violations as separate evidentiary states.
+- Added the explicit reinstatement-versus-external-reset dispute around Huang's future role.
+- Added congressional testimony and political access as unresolved parts of the succession crisis.
+- Preserved advocacy, allegations, testimony, and proven compliance violations as separate evidentiary states.
 
 ## Relationships
 - [[Nvidia]] - company through which Huang executes the integrated AI-platform strategy.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2415
+topic_total_pages: 2416
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -529,6 +529,9 @@ topic_concepts:
   - key: "BritishDrinkMarketFormation"
     title: "British Drink Market Formation"
     url: "/wiki/concepts/britishdrinkmarketformation/"
+  - key: "BritishNetMigrationReversal"
+    title: "British Net Migration Reversal"
+    url: "/wiki/concepts/britishnetmigrationreversal/"
   - key: "BrokerClearingLiquidityRisk"
     title: "Broker Clearing Liquidity Risk"
     url: "/wiki/concepts/brokerclearingliquidityrisk/"

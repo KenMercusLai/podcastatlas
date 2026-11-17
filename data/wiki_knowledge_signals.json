@@ -3512,6 +3512,99 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/aieramajorchoice/"
     },
+    "AIExportControls": {
+      "episode_count": 12,
+      "show_count": 4,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+          "key": "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",
+          "url": "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+        },
+        {
+          "episode_file": "tech_20260804_0803_MP_TECH_pod_128 [tech_20260804_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "China's soft power play in the global AI arms race",
+          "url": "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "Roaring trades： oil majors’ secret success story [6a4636f160cad2674e6d9674].md",
+          "key": "roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674",
+          "show": "Economist Podcasts",
+          "title": "Roaring trades: oil majors' secret success story",
+          "url": "/wiki/sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674/"
+        },
+        {
+          "episode_file": "tech_20260710_TECH_pod_128 [tech_20260710_TECH_pod_128].md",
+          "key": "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+          "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/aiexportcontrols/"
+    },
     "AIExpressionBaseline": {
       "episode_count": 1,
       "show_count": 1,
@@ -16685,9 +16778,9 @@
       "url": "/wiki/entities/amazonleo/"
     },
     "AmazonMGMStudios": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
@@ -16695,9 +16788,16 @@
           "show": "Economist Podcasts",
           "title": "Stars in their AIs: tech is changing Hollywood",
           "url": "/wiki/sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/amazonmgmstudios/"
     },
     "AmazonPrime": {
@@ -41054,6 +41154,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/britishmuseum/"
     },
+    "BritishNetMigrationReversal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/britishnetmigrationreversal/"
+    },
     "BritishOccupationOfStatenIsland": {
       "episode_count": 1,
       "show_count": 1,
@@ -62571,9 +62687,9 @@
       "url": "/wiki/entities/colemanruiz/"
     },
     "ColetteKress": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
@@ -62588,9 +62704,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
           "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/colettekress/"
     },
     "ColinCampbellBritishArmy": {
@@ -124475,9 +124598,9 @@
       "url": "/wiki/entities/gpt55cyber/"
     },
     "GPUComputeAssetBackedFinancing": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -124506,9 +124629,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/gpucomputeassetbackedfinancing/"
     },
     "GPUSpotMarketTrustFriction": {
@@ -158030,9 +158160,9 @@
       "url": "/wiki/entities/ianbotham/"
     },
     "IanFleming": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6304120514 [GLT6304120514].md",
@@ -158040,9 +158170,16 @@
           "show": "The Rest Is History",
           "title": "101. James Bond",
           "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/ianfleming/"
     },
     "IanHamiltonGallipoli": {
@@ -169657,9 +169794,9 @@
       "url": "/wiki/entities/jamesangleton/"
     },
     "JamesBond": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6304120514 [GLT6304120514].md",
@@ -169667,9 +169804,16 @@
           "show": "The Rest Is History",
           "title": "101. James Bond",
           "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/jamesbond/"
     },
     "JamesBoswell": {
@@ -171871,9 +172015,9 @@
       "url": "/wiki/entities/jennyorangutan/"
     },
     "JensenHuang": {
-      "episode_count": 15,
-      "show_count": 10,
-      "source_note_count": 15,
+      "episode_count": 16,
+      "show_count": 11,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -171979,9 +172123,16 @@
           "show": "晚点聊 LateTalk",
           "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
           "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/jensenhuang/"
     },
     "JeremyThorpe": {
@@ -237003,9 +237154,9 @@
       "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
     "Nvidia": {
-      "episode_count": 35,
-      "show_count": 14,
-      "source_note_count": 35,
+      "episode_count": 36,
+      "show_count": 15,
+      "source_note_count": 36,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Loeb： The Lost Art of Short Selling, and Why Stock Picking is Back [41552605].md",
@@ -237251,9 +237402,16 @@
           "show": "晚点聊 LateTalk",
           "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
           "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/nvidia/"
     },
     "NvidiaDGXSpark": {
@@ -257778,6 +257936,29 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/postapartheidstructuralinequality/"
+    },
+    "PostBrexitImmigrationPolitics": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/postbrexitimmigrationpolitics/"
     },
     "PostBrexitStrategicIdentity": {
       "episode_count": 4,
@@ -279854,6 +280035,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/robertnapier/"
+    },
+    "RobertPattinson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "541118afcfad8094b17b81a7ebe4b18c [541118afcfad8094b17b81a7ebe4b18c.mp3？aid=6afc30ca27224dadceb682ee&chid=d556eb54-6160-4.281].md",
+          "key": "541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281",
+          "show": "Economist Podcasts",
+          "title": "Transchipment: Huang and the AI aftershocks",
+          "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/robertpattinson/"
     },
     "RobertPeel": {
       "episode_count": 2,

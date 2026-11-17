@@ -39,7 +39,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255
   - all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520
   - 77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8
-last_updated: 2026-11-15
+  - 541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281
+last_updated: 2026-11-17
 ---
 
 # Nvidia
@@ -48,7 +49,7 @@ last_updated: 2026-11-15
 Nvidia is a semiconductor and computing-platform company whose wiki profile has expanded from GPUs and CUDA into complete AI infrastructure. Across the sources it supplies accelerators, CPUs, networking, memory-linked systems, simulation, models, software, edge computers, and financing relationships that connect data centers to robotics, vehicles, healthcare, and physical AI.
 
 ## Current Profile
-Nvidia's strongest current position is a full-stack ecosystem: general-purpose accelerated hardware, [[CUDA]], rack-scale systems, developer adoption, cloud availability, and domain platforms reinforce one another. The latest bounded source adds a leadership shock: Huang's episode-reported resignation exposes how product judgment, Taiwan supplier coordination, ecosystem credit, and market confidence had become concentrated around the founder. Existing roadmaps and engineering depth may preserve operations, but succession now sits alongside customer financing, hyperscaler capex, custom accelerators, export controls, domestic substitution, power, packaging, and fabrication as a material test of the platform.
+Nvidia's strongest current position is a full-stack ecosystem: general-purpose accelerated hardware, [[CUDA]], rack-scale systems, developer adoption, cloud availability, and domain platforms reinforce one another. Recent bounded sources add a leadership and political shock: Huang's episode-reported resignation exposes how product judgment, Taiwan supplier coordination, ecosystem credit, market confidence, and export-policy access had become concentrated around the founder. Existing roadmaps and engineering depth may preserve operations, but succession now sits alongside talent retention, congressional scrutiny, customer financing, hyperscaler capex, custom accelerators, export controls, domestic substitution, power, packaging, and fabrication as a material test of the platform.
 
 ## Key Characteristics
 - Competes as an integrated compute, networking, software, simulation, and edge platform rather than only as a chip vendor.
@@ -92,6 +93,7 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 ### Succession and ecosystem coordination
 - [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] treats Huang's reported departure as a combined governance, supplier-coordination, customer-financing, and China-strategy shock rather than an ordinary executive change.
 - [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] says AMD and Broadcom may gain relative share or packaging capacity while qualifying that outcome with slower aggregate infrastructure growth and continued manufacturing constraints.
+- [[541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281]] adds competing return-versus-external-reset views, questions for interim CEO [[ColetteKress]], congressional scrutiny, and stricter controls on overseas cloud access to advanced chips.
 
 ### Source-scoped cultural and investing uses
 - [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] uses Nvidia as a satirical compute-scarcity symbol, not a factual operating account.
@@ -108,9 +110,9 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - The newest source is scenario analysis rather than a company filing, board record, investigation finding, supplier dataset, or audited forecast; resignation status, successor effects, order volumes, market share, and political motives remain episode-attributed.
 
 ## What Changed
-- Added founder succession as a platform-level execution, supplier, financing, and policy risk.
-- Added the qualification that competitor share gains can coexist with slower aggregate AI-infrastructure growth.
-- Added forced domestic substitution and installed-compute repricing as China-side consequences, while keeping manufacturing and software constraints central.
+- Added talent retention, congressional scrutiny, and political credibility to the founder-succession risk.
+- Added the contested choice between Huang's return and an external cultural reset.
+- Added overseas cloud access and Southeast Asian transshipment routes to the export-control exposure.
 
 ## Relationships
 - [[JensenHuang]] - founder and former chief executive in the latest episode-reported account, whose platform role created succession exposure.

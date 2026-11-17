@@ -43163,3 +43163,14 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-17] ingest | Transchipment: Huang and the AI aftershocks
+
+Added source on Nvidia's leadership and export-control aftershocks, Britain's potential net-migration reversal, and Robert Pattinson's reported James Bond casting. Updated the bounded syntheses for Nvidia, Jensen Huang, Colette Kress, AI export controls, GPU-backed financing, post-Brexit migration politics, James Bond, Ian Fleming, and Amazon MGM Studios; added Robert Pattinson and British Net Migration Reversal.
+
+No settled contradiction was adopted. The Huang leadership dispute, congressional scrutiny, cabinet accusations, export-control changes, migration forecast, Pattinson casting, and Amazon MGM control remain episode-attributed because the supplied file is a structured summary rather than primary corporate, government, statistical, or studio documentation. The automatic `wiki/overview.md` remained closed because the focused pages capture the durable additions without reopening the global artifact.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,239 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
