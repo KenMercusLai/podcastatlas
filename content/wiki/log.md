@@ -43119,3 +43119,17 @@ Downstream synthesis found no dirty controlled topic; the max-age gate triggered
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Introducing Revisionist History
+
+Added the original 2016 [[RevisionistHistory]] trailer in which [[MalcolmGladwell]] defines the show as a return to events, people, and ideas that were overlooked or remembered but misunderstood. The note records the cross-domain editorial premise, connects the [[WiltChamberlain]] and Elvis Costello fragments to their later full investigations, and keeps the unidentified car crash and other montage elements source-scoped.
+
+Core synthesis: recollection is not the same as understanding, so familiar stories can deserve renewed inquiry. The trailer establishes that editorial ambition and accepts that revision may create more questions than answers, but it does not itself provide the evidence needed to “correct the record” in any previewed case.
+
+No settled contradiction was adopted. “Correct the record” remains a program mission rather than proof that inherited accounts are false or replacement interpretations final. The supplied file is a structured trailer summary rather than a transcript or completed investigation, and its Queensland Government and *Charmed* advertisements are treated as distribution inserts. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[WiltChamberlain]], [[EvidenceBoundHistoricalRevision]], and automatic `wiki/overview.md` profiles remained closed because the focused source note and later full-episode pages already capture the durable evidence without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving zero pending ingests; refreshed artifacts validate 5,236 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

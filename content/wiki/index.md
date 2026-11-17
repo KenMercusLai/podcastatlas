@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Introducing Revisionist History](sources/introducing-revisionist-history.md) — Original series trailer framing Revisionist History as a cross-domain return to overlooked or misunderstood stories while leaving its previewed cases to later full investigations.
 - [Saigon, 1965](sources/saigon-1965-saigon-1965.md) — Revisionist History reconstructs RAND’s Viet Cong morale archive to show how biography, indicator choice, dissent, and institutional review can produce opposite strategic judgments from the same evidence.
 - [The Big Man Can’t Shoot](sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot.md) — Revisionist History uses underhand free throws and Granovetter’s threshold model to connect social stigma, effective-practice adoption, institutional convention, and the costs of approval independence.
 - [Carlos Doesn’t Remember](sources/carlos-doesn-t-remember-carlos-doesn-t-remember.md) — Revisionist History connects Carlos's interrupted education with early advocacy, high-achieving low-income college undermatching, fragile talent, and privilege as access to second chances.
