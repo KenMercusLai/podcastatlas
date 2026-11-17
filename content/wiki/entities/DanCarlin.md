@@ -10,6 +10,7 @@ sources:
   - dchha68-blitz-human-resources-dchha68-blitz-human-resources
   - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
   - dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv
+  - dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -32,19 +33,21 @@ Across both parts, Carlin treats history as useful perspective without denying i
 
 [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] extends the method from war narrative to Atlantic slavery. Carlin builds an end-to-end system from labor demand, commodity profit, disease, captive supply, finance, shipping, state power, sale, plantation discipline, abolition, and revolution. He separates explanation from excuse: African participation does not erase European demand and institutional scale, historical context does not absolve Columbus, and slavery's role in Haitian revolutionary violence does not make massacre morally acceptable.
 
-The Pacific War returns that systems method to military history. [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] begins with the uncertain psychology of national morale, then connects radio leadership, incarceration, symbolic raids, carrier warfare, intelligence, repair, inter-service conflict, Guadalcanal, atrocity, and surrender behavior. The narrative repeatedly resists one-cause victory: Midway emerges from information advantage, plan complexity, repeated sacrifice, deck operations, damage control, trained personnel, decisions, and chance.
+The Pacific War returns that systems method to military history. [[dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i]] begins with [[HirooOnoda|Hiroo Onoda]] and works backward through Tokugawa peace, reconstructed warrior ethics, Meiji institutional acceleration, emperor-centered authority, colonial expansion, military autonomy, and the China war. Carlin uses cultural intensity as an organizing idea without making it an immutable national essence: education, command, shame, family expectation, law, and political incentives explain how ordinary virtues can become unlimited obligations.
+
+[[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] begins with the uncertain psychology of national morale, then connects radio leadership, incarceration, symbolic raids, carrier warfare, intelligence, repair, inter-service conflict, Guadalcanal, atrocity, and surrender behavior. The narrative repeatedly resists one-cause victory: Midway emerges from information advantage, plan complexity, repeated sacrifice, deck operations, damage control, trained personnel, decisions, and chance.
 
 [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] continues through production totals, shipping, bases, trained replacements, jungle patrols, veteran memory, atrocity, and civilian suicide. Across both episodes, Carlin's moral distinction remains explanation without endorsement: Japanese endurance can command respect while military institutions that remove surrender, consume isolated troops, harm civilians, and reinforce atrocity remain strategically and morally cruel.
 
 ## Key Characteristics
 
-- Uses counterfactual choices to expose hidden assumptions about privilege, danger, technology, and political control.
 - Builds long-form historical audio through extensive reading and quotation gathering followed by comparatively free-form narration.
 - Defends historical knowledge while emphasizing uneven evidence, source loss, literary framing, and retrospective manipulation.
 - Separates recognition of an achievement from moral endorsement of the person responsible for it.
 - Treats outcomes from the First World War and Civil War through Soviet collapse and the Ukraine invasion as contingent rather than inevitable.
 - Joins battlefield mechanics to logistics, combat memory, civilian exposure, moral cost, and political psychology while retaining visible boundaries between event, inference, and speculation.
 - Uses systems analysis to distribute causal participation without flattening differences in power, demand, scale, or responsibility.
+- Explains extreme cultural conduct through institutions and incentives while warning against both dehumanizing labels and fixed national-character claims.
 
 ## Evidence
 
@@ -57,16 +60,17 @@ The Pacific War returns that systems method to military history. [[dchha65-super
 - Atlantic system and moral responsibility: [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] connects commercial institutions, coerced labor, revolutionary emancipation, retaliatory violence, and the persistence of racial hierarchy while marking factual and interpretive limits.
 - Pacific systems and lived experience: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] connects industrial replacement, supply interdiction, surrender behavior, frontline testimony, and civilian catastrophe while distinguishing firmer claims from interpretation.
 - Morale, contingency, and institutional conversion: [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] joins symbolic action and moral cost to carrier intelligence, repair, aircrew, command rivalry, and the uncertain transition from Midway to Guadalcanal.
+- Culture, modernization, and civil-military escalation: [[dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i]] joins Onoda's holdout to reconstructed Bushido, emperor-centered education, defensive modernization, imperial expansion, unauthorized military action, and the failed expectation of a short China war.
 
 ## Qualifications
 
-This profile comes from two conversational crossover episodes and five structured summaries rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, Atlantic slavery, Haitian Revolution, and Pacific War claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger; casualty totals, atrocity accounts, psychological effects, motives, and battle-sequence claims remain source-scoped.
+This profile comes from two conversational crossover episodes and six structured summaries rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, Atlantic slavery, Haitian Revolution, Japanese modernization, and Pacific War claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger; cultural generalizations, casualty totals, atrocity accounts, psychological effects, motives, and battle-sequence claims remain source-scoped.
 
 ## What Changed
 
-- Extended the Pacific War case backward into morale warfare, Coral Sea, Midway, command rivalry, and Guadalcanal's improvised opening.
-- Added decisions under incomplete information and institutional interaction as limits on single-cause turning-point narratives.
-- Added democratic rights and third-party civilian harm to the moral accounting of symbolic military action.
+- Extended the Pacific War case backward through Tokugawa governance, Meiji modernization, empire, and the 1937 China war.
+- Added Carlin's effort to explain extreme conduct through institutions and human pressures without excusing it or treating culture as fixed.
+- Added military insubordination and sacrifice lock-in as mechanisms connecting political legitimacy to strategic escalation.
 
 ## Relationships
 
@@ -80,3 +84,4 @@ This profile comes from two conversational crossover episodes and five structure
 - [[CombatExperienceMemoryGap]] - public-history problem sharpened through veteran testimony.
 - [[StrategicMoraleWarfare]] - case in which symbolic action has uncertain psychological and displaced material consequences.
 - [[CarrierWarfareOperationalSystem]] - case joining technology to information, personnel, repair, timing, and chance.
+- [[MilitaryInsubordinationFaitAccompli]] - case joining patriotic disobedience, leniency, battlefield success, and policy lock-in.

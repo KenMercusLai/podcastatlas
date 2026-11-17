@@ -32529,9 +32529,9 @@
       "url": "/wiki/entities/battleofsaratoga/"
     },
     "BattleOfShanghai1937": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2114682484 [GLT2114682484].md",
@@ -32539,6 +32539,13 @@
           "show": "The Rest Is History",
           "title": "235. China and World War II (Part 1)",
           "url": "/wiki/sources/235-china-and-world-war-ii-part-1-glt2114682484/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-10-01",
@@ -42020,9 +42027,9 @@
       "url": "/wiki/entities/bushezheshuo/"
     },
     "BushidoInventedTradition": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7378881498 [GLT7378881498].md",
@@ -42030,6 +42037,13 @@
           "show": "The Rest Is History",
           "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
           "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-09-14",
@@ -58507,9 +58521,9 @@
       "url": "/wiki/concepts/civilwarthreatrhetoric/"
     },
     "CivilianControlOfMilitary": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？ [lpmJOa1NxMsLyZnY7fkvb3aacitV].md",
@@ -58524,6 +58538,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》293｜为何中国军队自古与众不同？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-10-07",
@@ -75243,9 +75264,9 @@
       "url": "/wiki/entities/danariely/"
     },
     "DanCarlin": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -75295,6 +75316,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 65 - Supernova in the East IV",
           "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-11-17",
@@ -140939,9 +140967,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -141012,6 +141040,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 65 - Supernova in the East IV",
           "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-11-17",
@@ -146926,6 +146961,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/concepts/hiringnihilism/"
+    },
+    "HirooOnoda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/hirooonoda/"
     },
     "HiroshiSugimoto": {
       "episode_count": 1,
@@ -214682,9 +214733,9 @@
       "url": "/wiki/entities/meifuwesternhan/"
     },
     "MeijiCapitalismImperialEntanglement": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3851919583 [GLT3851919583].md",
@@ -214692,6 +214743,13 @@
           "show": "The Rest Is History",
           "title": "277: Japan: Samurai and Shoguns",
           "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-09-30",
@@ -219677,6 +219735,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/militaryfinancecorruption/"
+    },
+    "MilitaryInsubordinationFaitAccompli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/militaryinsubordinationfaitaccompli/"
     },
     "MilitaryJustificationTypology": {
       "episode_count": 1,
@@ -309808,9 +309882,9 @@
       "url": "/wiki/concepts/surrenderguaranteeintegrity/"
     },
     "SurrenderPreclusionWarEscalation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
@@ -309832,6 +309906,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 64 - Supernova in the East III",
           "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-11-17",
@@ -322086,9 +322167,9 @@
       "url": "/wiki/entities/tokugawaieyasu/"
     },
     "TokugawaShogunate": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
@@ -322103,6 +322184,13 @@
           "show": "The Rest Is History",
           "title": "277: Japan: Samurai and Shoguns",
           "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        },
+        {
+          "episode_file": "dchha62_Supernova_in_the_East_I [dchha62_Supernova_in_the_East_I].md",
+          "key": "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 62 - Supernova in the East I",
+          "url": "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
         }
       ],
       "updated": "2026-09-30",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Show 62 - Supernova in the East I](sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i.md) — Hardcore History connects Onoda's holdout, Tokugawa control, reconstructed Bushido, Meiji modernization, imperial expansion, military insubordination, and Shanghai's short-war failure.
 - [Show 63 - Supernova in the East II](sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii.md) — Hardcore History connects Nanjing's atrocity record, Japan's China-war resource trap, sanctions and failed diplomacy, Yamamoto's gamble, and Pearl Harbor's tactical success with strategic failure.
 - [Introducing Revisionist History Season Four](sources/introducing-revisionist-history-season-four.md) — Season-four trailer previewing tea, heavy metal, Jesuit reasoning, language, organized crime, the LSAT, chess, and an intentionally theme-resistant range.
 - [Tempest in a Teacup](sources/tempest-in-a-teacup-tempest-in-a-teacup.md) — Revisionist History connects colonial tea smuggling, the Boston Tea Party, coercive boycott politics, organized-crime families, and crooked-ladder mobility toward legitimacy.
@@ -5329,6 +5330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
+- [Hiroo Onoda](entities/HirooOnoda.md) — Japanese wartime holdout used to connect standing orders, surrender shame, family expectation, and institutional persistence.
 - [John Rabe](entities/JohnRabe.md) — German businessman and Nazi Party member who helped organize the Nanking International Safety Zone and document Japanese violence.
 - [Isoroku Yamamoto](entities/IsorokuYamamoto.md) — Japanese admiral who advocated the Pearl Harbor strike while doubting Japan could win a prolonged industrial war.
 - [Attack on Pearl Harbor](entities/PearlHarborAttack.md) — Surprise carrier raid whose severe immediate damage brought the United States fully into the Second World War.
@@ -20128,6 +20130,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Military Insubordination and the Fait Accompli](concepts/MilitaryInsubordinationFaitAccompli.md) — Feedback loop joining superior-loyalty claims, weak sanctions, unauthorized success, sacrifice lock-in, and retrospective ratification.
 - [Japanese China-War Resource Trap](concepts/JapaneseChinaWarResourceTrap.md) — Feedback loop joining unresolved occupation, sunk costs, import dependence, sanctions, and expansion toward Southeast Asian resources.
 - [Pearl Harbor Strategic Gamble](concepts/PearlHarborStrategicGamble.md) — Attempt to turn tactical shock into negotiation before American industrial superiority became decisive.
 - [Atrocity Uncertainty and Denial](concepts/AtrocityUncertaintyAndDenial.md) — Distinction between legitimate qualification of disputed details and denial of a convergent mass-violence record.

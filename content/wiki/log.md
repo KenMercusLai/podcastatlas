@@ -42632,3 +42632,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Show 62 - Supernova in the East I
+
+Added the opening [[HardcoreHistory]] installment on imperial Japan, beginning with [[HirooOnoda|Hiroo Onoda]] and tracing the Tokugawa settlement, reconstructed Bushido, Meiji institutional acceleration, emperor-centered education, colonial expansion, military autonomy, and the 1937 [[BattleOfShanghai1937|Battle of Shanghai]]. Created Onoda's focused profile and [[MilitaryInsubordinationFaitAccompli]], while resynthesizing [[DanCarlin]], [[HardcoreHistory]], the [[TokugawaShogunate]], [[BushidoInventedTradition]], [[MeijiCapitalismImperialEntanglement]], [[CivilianControlOfMilitary]], [[SurrenderPreclusionWarEscalation]], and the Shanghai battle from their complete bounded source inventories.
+
+Core synthesis: Western coercion and racial hierarchy made rapid modernization appear existential, but the institutions that protected Japan from colonization also increased its capacity to dominate others. Constitutional ambiguity, direct loyalty claims, leniency toward patriotic violence, operational success, public enthusiasm, and sacrifice lock-in let military actors create facts that civilian leaders found costly to reverse. At Shanghai, battlefield victory failed to produce Chinese political collapse and opened a prolonged continental war.
+
+No settled contradiction was adopted. The source reinforces Bushido as an evolving construction and Meiji modernization as an imperial entanglement rather than a clean defensive-to-aggressive switch. Cultural intensity is explanatory only when joined to education, command, family pressure, sanctions, and limited choices; Western double standards do not excuse Japanese empire or atrocity. Claims about Onoda's inner world, imperial belief, the emperor's responsibility, public motives, atrocity totals, and battle figures remain contested or source-scoped. The automatic `wiki/overview.md` remained closed in accordance with the downstream synthesis boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,202 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ sources:
   - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
   - dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv
   - dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii
+  - dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ Surrender-preclusion war escalation is the institutional process by which traini
 
 ## Current Synthesis
 
-[[dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii|Supernova in the East III]] shows the mechanism before the later island campaigns. Japanese soldiers' feigned death, last-moment grenades, near-suicidal attacks, and contempt for capitulation made Allied troops less willing to risk accepting surrender. Hong Kong, Singapore-area killings, and the Bataan Death March then show how dehumanization of wounded people and prisoners could convert capture into systematic danger. [[EdwardPKing|Edward King's]] capitulation provides the counterexample: accepting disgrace can be an effort to preserve lives when continued defense has lost military purpose.
+[[dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i|Supernova in the East I]] supplies the institutional prehistory. [[HirooOnoda|Hiroo Onoda]] is taught that capture brings shame, punishment, and ostracism; his mother gives him a dagger for use if captured; and military education connects emperor loyalty to endurance and death. His decades-long holdout shows how a standing order and a surrender-precluding information system can survive even after the original war and state policy have ended.
+
+[[dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii|Supernova in the East III]] shows the mechanism in early Pacific combat. Japanese soldiers' feigned death, last-moment grenades, near-suicidal attacks, and contempt for capitulation made Allied troops less willing to risk accepting surrender. Hong Kong, Singapore-area killings, and the Bataan Death March then show how dehumanization of wounded people and prisoners could convert capture into systematic danger. [[EdwardPKing|Edward King's]] capitulation provides the counterexample: accepting disgrace can be an effort to preserve lives when continued defense has lost military purpose.
 
 [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv|Supernova in the East IV]] shows the feedback loop becoming visible again at Tulagi and Guadalcanal. Small Japanese garrisons largely fought to death, while atrocity reports and a postwar claim about forcing soldiers to abuse prisoners suggest that participation in violence could create an expectation of enemy revenge, make surrender appear suicidal, and encourage opponents to take fewer prisoners. The evidentiary basis and universality of that deliberate policy remain qualified.
 
@@ -45,15 +48,16 @@ Saipan extends the mechanism from soldiers to civilians. Propaganda about rape, 
 - Battlefield adaptation: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] connects refusal to break or surrender with position-by-position elimination in jungle and island warfare.
 - Isolated garrisons: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] describes Japanese forces continuing through starvation, blockade, disease, and strategic isolation at Buna and elsewhere.
 - Civilian extension: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] links Saipan propaganda, cave coercion, family killing, poison, cliff suicides, and rejected surrender appeals.
+- Institutional formation and persistence: [[dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i]] connects emperor-centered education, family expectation, surrender shame, punishment, standing orders, and Onoda's rejection of postwar evidence.
 
 ## Counterevidence & Qualifications
 
-The episodes do not establish one uniform cause for every Japanese soldier's, Allied soldier's, guard's, prisoner's, or civilian's conduct. Immediate combat, fear of both armies, family pressure, coercion, disrupted communication, prior atrocity, ideology, logistics, and individual judgment could differ sharply. Some Japanese individuals aided prisoners, and the postwar affidavit about deliberately induced retaliation fear requires corroboration. Atrocity reports do not prove that every refusal of surrender or battlefield killing followed one policy. Allied explosives, fire, and sealing of occupied caves also constrained survival, so the concept must not place all civilian death inside Japanese propaganda alone.
+The episodes do not establish one uniform cause for every Japanese soldier's, Allied soldier's, guard's, prisoner's, or civilian's conduct. Immediate combat, fear of both armies, family pressure, coercion, disrupted communication, prior atrocity, ideology, logistics, and individual judgment could differ sharply. Onoda is an extreme and unusually prolonged case rather than a representative sample. Some Japanese individuals aided prisoners, and the postwar affidavit about deliberately induced retaliation fear requires corroboration. Atrocity reports do not prove that every refusal of surrender or battlefield killing followed one policy. Allied explosives, fire, and sealing of occupied caves also constrained survival, so the concept must not place all civilian death inside Japanese propaganda alone.
 
 ## What Changed
 
-- Extended the mechanism backward to early-war false surrender, prisoner abuse, Bataan, and a humane capitulation counterexample.
-- Extended the feedback system to the 1942 Allied encounter, where atrocity knowledge and near-total resistance could change attacker expectations before the later island campaigns.
+- Added the prewar formation of surrender shame through education, family expectation, punishment, and emperor-centered obligation.
+- Added Onoda as an extreme case of orders and information rejection preserving the mechanism long after strategic purpose disappeared.
 
 ## Related Concepts
 
@@ -64,3 +68,4 @@ The episodes do not establish one uniform cause for every Japanese soldier's, Al
 - [[BattleOfSaipan]] - campaign where military and civilian surrender preclusion converged.
 - [[GuadalcanalCampaign]] - early campaign in which Tulagi and atrocity reports shaped expectations of resistance and capture.
 - [[BataanDefenseAndCaptivity]] - early campaign joining humane surrender to systematic abuse in captivity.
+- [[HirooOnoda]] - individual case of prolonged obedience after national surrender.

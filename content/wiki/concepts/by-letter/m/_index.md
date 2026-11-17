@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11675
+wiki_total_pages: 11676
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1124,6 +1124,9 @@ wiki_pages:
   - key: "MilitaryDisasterMemory"
     title: "Military Disaster Memory"
     url: "/wiki/concepts/militarydisastermemory/"
+  - key: "MilitaryInsubordinationFaitAccompli"
+    title: "Military Insubordination and the Fait Accompli"
+    url: "/wiki/concepts/militaryinsubordinationfaitaccompli/"
   - key: "MilitaryKeynesianism"
     title: "Military Keynesianism / 军事凯恩斯主义"
     url: "/wiki/concepts/militarykeynesianism/"

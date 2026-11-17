@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14702
+wiki_total_pages: 14703
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "HiramWesleyEvans"
     title: "Hiram Wesley Evans"
     url: "/wiki/entities/hiramwesleyevans/"
+  - key: "HirooOnoda"
+    title: "Hiroo Onoda"
+    url: "/wiki/entities/hirooonoda/"
   - key: "HiroshiSugimoto"
     title: "Hiroshi Sugimoto / 杉本博司"
     url: "/wiki/entities/hiroshisugimoto/"

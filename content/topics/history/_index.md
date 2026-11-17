@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2834
+topic_total_pages: 2835
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7473,6 +7473,9 @@ topic_sources:
   - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
     title: "Reconstruction: The Unfinished Promise"
     url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
+  - key: "dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i"
+    title: "Show 62 - Supernova in the East I"
+    url: "/wiki/sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i/"
   - key: "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii"
     title: "Show 63 - Supernova in the East II"
     url: "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
