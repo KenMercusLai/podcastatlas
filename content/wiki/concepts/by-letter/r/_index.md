@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11693
+wiki_total_pages: 11695
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"
+  - key: "ResearchDataPreservation"
+    title: "Research Data Preservation"
+    url: "/wiki/concepts/researchdatapreservation/"
   - key: "ResearchEducationRobotPlatform"
     title: "Research Education Robot Platform"
     url: "/wiki/concepts/researcheducationrobotplatform/"

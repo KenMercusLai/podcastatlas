@@ -5340,6 +5340,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Divide and Conquer](sources/divide-and-conquer-divide-and-conquer.md) — Revisionist History connects Article IV grammar, West Virginia statehood, Texas's 1845 advance consent, and the map-dependent Senate consequences of dividing Texas into five states.
 - [Malcolm Gladwell Debates Adam Grant](sources/malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant.md) — Live Revisionist History debate on specificity and surprise, context-dependent performance, organizational fit, career novelty, automation, and institutional purpose.
+- [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
 - [Owen Thomas](entities/OwenThomas.md) — Penn football captain whose death and posthumous CTE diagnosis anchor the episode's precautionary argument.
@@ -20166,6 +20167,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mary Norris](entities/MaryNorris.md) — Editor whose “but–nor” analysis supports reading Article IV's consent clause across the disputed semicolon.
 - [Jim Dunnam](entities/JimDunnam.md) — Texas Democratic leader who organized the 2003 legislative quorum break over redistricting.
 - [Michael Li (Texas Political Demographer)](entities/MichaelLiTexasDemographer.md) — Expert who maps five hypothetical Texases and their time-sensitive partisan consequences.
+- [Ivan Frantz](entities/IvanFrantz.md) — University of Minnesota physician-researcher who designed the Minnesota Coronary Experiment and preserved its unexpected results.
+- [Robert Frantz](entities/RobertFrantz.md) — Cardiologist and son of Ivan Frantz who recovered the trial's magnetic tapes and supported their reanalysis.
+- [Christopher Ramsden](entities/ChristopherRamsden.md) — NIH investigator who recovered and reanalyzed the Minnesota and Sydney dietary fat-replacement trials.
+- [Steve Broste](entities/SteveBroste.md) — Ivan Frantz's graduate student who documented the Minnesota trial's unexpected results in his master's thesis.
+- [Minnesota Coronary Experiment](entities/MinnesotaCoronaryExperiment.md) — Large controlled feeding trial in which vegetable-oil replacement lowered cholesterol without demonstrating lower mortality.
+- [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
 - [Chronic Traumatic Encephalopathy Evidence Boundary](concepts/ChronicTraumaticEncephalopathyEvidenceBoundary.md) — Separates postmortem pathology and repeated-impact concern from representative prevalence and individual suicide causation.
@@ -31974,5 +31981,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Context-Dependent Performance](concepts/ContextDependentPerformance.md) — Principle that individual output partly reflects teammates, routines, coaching, culture, and role fit, with both transfer limits and rigidity risks.
 - [Specificity and Surprise](concepts/SpecificityAndSurprise.md) — Creative principle joining concrete, inspectable detail to a plausible departure from expectation.
 - [Mass Delusion](concepts/MassDelusion.md) — Source-scoped umbrella for collective false certainty and resistance to correction, without assuming one mechanism or treating dissent as diagnosis.
+- [Surrogate Endpoint–Outcome Mismatch](concepts/SurrogateEndpointOutcomeMismatch.md) — Divergence between a favorable biomarker change and the patient-relevant clinical outcome it is expected to improve.
+- [Research Data Preservation](concepts/ResearchDataPreservation.md) — Durable retention of data, metadata, methods, and records so later investigators can verify and reanalyze research.
 
 ## Syntheses

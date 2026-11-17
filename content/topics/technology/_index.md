@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3885
+topic_total_pages: 3886
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4393,6 +4393,9 @@ topic_concepts:
   - key: "RerankingModels"
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"
+  - key: "ResearchDataPreservation"
+    title: "Research Data Preservation"
+    url: "/wiki/concepts/researchdatapreservation/"
   - key: "ResearchEducationRobotPlatform"
     title: "Research Education Robot Platform"
     url: "/wiki/concepts/researcheducationrobotplatform/"

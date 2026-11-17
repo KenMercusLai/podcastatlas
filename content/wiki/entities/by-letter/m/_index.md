@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14728
+wiki_total_pages: 14734
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1661,6 +1661,9 @@ wiki_pages:
   - key: "Minnesota"
     title: "Minnesota"
     url: "/wiki/entities/minnesota/"
+  - key: "MinnesotaCoronaryExperiment"
+    title: "Minnesota Coronary Experiment"
+    url: "/wiki/entities/minnesotacoronaryexperiment/"
   - key: "MinnesotaStarvationExperiment"
     title: "Minnesota Starvation Experiment"
     url: "/wiki/entities/minnesotastarvationexperiment/"

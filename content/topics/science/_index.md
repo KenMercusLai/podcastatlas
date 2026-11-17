@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1734
+topic_total_pages: 1738
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2539,6 +2539,9 @@ topic_concepts:
   - key: "SurgicalOutcomeMetricDistortion"
     title: "Surgical Outcome Metric Distortion"
     url: "/wiki/concepts/surgicaloutcomemetricdistortion/"
+  - key: "SurrogateEndpointOutcomeMismatch"
+    title: "Surrogate Endpoint–Outcome Mismatch"
+    url: "/wiki/concepts/surrogateendpointoutcomemismatch/"
   - key: "SustainableConstructionCarbonTradeoff"
     title: "Sustainable Construction Carbon Tradeoff"
     url: "/wiki/concepts/sustainableconstructioncarbontradeoff/"
@@ -2996,6 +2999,9 @@ topic_entities:
   - key: "ChristiaanHuygens"
     title: "Christiaan Huygens / 惠更斯"
     url: "/wiki/entities/christiaanhuygens/"
+  - key: "ChristopherRamsden"
+    title: "Christopher Ramsden"
+    url: "/wiki/entities/christopherramsden/"
   - key: "CLARITY"
     title: "CLARITY"
     url: "/wiki/entities/clarity/"
@@ -3251,6 +3257,9 @@ topic_entities:
   - key: "IsaacNewton"
     title: "Isaac Newton / 牛顿"
     url: "/wiki/entities/isaacnewton/"
+  - key: "IvanFrantz"
+    title: "Ivan Frantz"
+    url: "/wiki/entities/ivanfrantz/"
   - key: "JaakPanksepp"
     title: "Jaak Panksepp"
     url: "/wiki/entities/jaakpanksepp/"
@@ -3644,6 +3653,9 @@ topic_entities:
   - key: "RobertBoyle"
     title: "Robert Boyle / 罗伯特·波义耳"
     url: "/wiki/entities/robertboyle/"
+  - key: "RobertFrantz"
+    title: "Robert Frantz"
+    url: "/wiki/entities/robertfrantz/"
   - key: "RobertJarvik"
     title: "Robert Jarvik / 罗伯特·贾维克"
     url: "/wiki/entities/robertjarvik/"

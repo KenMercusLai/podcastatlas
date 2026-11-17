@@ -6,7 +6,8 @@ sources:
   - essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
   - scim8552663956-scim8552663956
-last_updated: 2026-10-11
+  - the-basement-tapes-the-basement-tapes
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ The evidence hierarchy matters more than the food-politics label. Across the two
 
 Aragon reinforces that boundary by requiring critics to name the oil, dose, comparator, and health outcome. His examples treat canola oil as difficult to portray negatively in the available literature and describe seed oils as often comparing favorably with butter, lard, or beef tallow on blood lipids and cardiovascular markers. This is replacement evidence, not a claim that unlimited oil is beneficial; the episode also distinguishes butter from cream and favors unsaturated-fat sources in a Mediterranean-style ketogenic pattern.
 
+Recovered historical trials add direct counterevidence rather than another mechanism-only objection. In the reanalyzed [[MinnesotaCoronaryExperiment]] and [[SydneyDietHeartStudy]], linoleic-acid-rich replacement lowered cholesterol without demonstrating lower mortality; an older, longer-exposed Minnesota subgroup showed an adverse association between cholesterol reduction and death. These trials materially qualify a uniformly favorable replacement story, but their historical formulations, institutional populations, exposure and attrition limits, subgroup analysis, and incomplete representation of the wider literature prevent them from settling the category. The current judgment is therefore contested and comparator-specific: neither categorical seed-oil alarm nor categorical reassurance is supported by the bounded sources.
+
 ## Key Claims
 - Added oils can worsen health indirectly when they increase total calorie intake.
 - The source does not find compelling evidence that seed oils are independently harmful apart from their calorie contribution.
@@ -29,6 +32,7 @@ Aragon reinforces that boundary by requiring critics to name the oil, dose, comp
 - Human randomized controlled trials are given more weight than mechanism-only or online claims.
 - Saturated-fat limits remain part of the source's practical fat-quality advice.
 - Oil identity, dose, comparator, processing context, and measured outcome are necessary before a broad seed-oil claim can be evaluated.
+- Older recovered trials report cholesterol reduction without demonstrated mortality benefit, requiring clinical outcomes to qualify marker-centered replacement claims.
 
 ## Evidence
 - Calorie context: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] says seed oils have contributed negatively insofar as added oils increased total calorie intake.
@@ -39,13 +43,14 @@ Aragon reinforces that boundary by requiring critics to name the oil, dose, comp
 - LDL distinction: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] treats saturated-fat-driven LDL elevation as a stronger cardiovascular concern than mechanism-only seed-oil claims.
 - Claim-specificity test: [[scim8552663956-scim8552663956]] asks for the named seed oil, dose, comparator, health outcome, and compelling trial rather than accepting an ingredient-class accusation.
 - Fat-replacement examples: [[scim8552663956-scim8552663956]] describes canola oil and seed oils as neutral or favorable against olive oil or land-animal fats for selected LDL and cardiovascular-risk outcomes, while favoring nuts, avocado, and olive oil over butter-centered ketogenic patterns.
+- Historical mortality counterevidence: [[the-basement-tapes-the-basement-tapes]] reports that reanalyses of the [[MinnesotaCoronaryExperiment]] and [[SydneyDietHeartStudy]] found lower cholesterol without demonstrated lower coronary or all-cause mortality.
 
 ## Counterevidence & Qualifications
-The concept is source-scoped public nutrition synthesis, not a full lipid guideline. It does not settle questions about frying reuse, oxidation products, total dietary pattern, cardiovascular risk in specific populations, food manufacturing, allergies, cooking methods, omega-6 to omega-3 ratios, ApoB, or individual lipid responses. Canola-versus-olive-oil, butter-versus-cream, and Mediterranean-versus-animal-fat ketogenic comparisons are retained as source-scoped examples because the notes do not provide the full trial sets or effect sizes. The boundary is against overclaiming independent harm, not permission to ignore total calories or fat quality.
+The concept is source-scoped public nutrition synthesis, not a full lipid guideline. It does not settle questions about frying reuse, oxidation products, total dietary pattern, cardiovascular risk in specific populations, food manufacturing, allergies, cooking methods, omega-6 to omega-3 ratios, ApoB, or individual lipid responses. Canola-versus-olive-oil, butter-versus-cream, and Mediterranean-versus-animal-fat ketogenic comparisons are retained as source-scoped examples because the notes do not provide the full trial sets or effect sizes. The Minnesota and Sydney material likewise comes through a narrative summary rather than the original protocols, effect estimates, reanalysis papers, or later critiques; its older adherent subgroup is not equivalent to the full randomized sample. The boundary is now against overclaiming either independent harm or universal replacement benefit, not permission to ignore total calories or fat quality.
 
 ## What Changed
-- Added an explicit oil-dose-comparator-outcome test for broad seed-oil claims.
-- Added source-scoped canola, butter, cream, and ketogenic fat-pattern examples without turning them into a universal lipid prescription.
+- Added historical randomized-trial counterevidence in which cholesterol fell without demonstrated mortality benefit.
+- Changed the current judgment from a mainly reassuring boundary to a contested, comparator- and endpoint-specific synthesis.
 
 ## Related Concepts
 - [[EnergyBalanceAccounting]] - calorie-accounting frame that explains the added-oil concern.
@@ -55,3 +60,4 @@ The concept is source-scoped public nutrition synthesis, not a full lipid guidel
 - [[FoodAdditiveRegulation]] - neighboring food-risk concept focused on regulatory safety rather than seed-oil epidemiology.
 - [[MedicalRiskManagement]] - clinical boundary for individualized lipid, metabolic, and cardiovascular advice.
 - [[MechanismOutcomeEvidenceHierarchy]] - method explaining why controlled human outcomes outrank isolated biochemical pathways here.
+- [[SurrogateEndpointOutcomeMismatch]] - explains why cholesterol movement cannot substitute automatically for survival benefit.

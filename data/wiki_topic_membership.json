@@ -25535,6 +25535,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChristopherRamsden": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ChristyEscobel": [
     {
       "key": "economics",
@@ -53308,6 +53315,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "IvanFrantz": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "IvanMaisky": [
     {
       "key": "politics",
@@ -80579,6 +80593,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ResearchDataPreservation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ResearchEducationRobotPlatform": [
     {
       "key": "technology",
@@ -81529,6 +81550,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RobertFrantz": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RobertGraves": [
@@ -91108,6 +91136,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SurrogateEndpointOutcomeMismatch": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SurveillanceAsAService": [

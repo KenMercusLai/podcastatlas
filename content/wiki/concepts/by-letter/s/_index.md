@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11693
+wiki_total_pages: 11695
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2858,6 +2858,9 @@ wiki_pages:
   - key: "SurrogacyPolicyHypocrisy"
     title: "Surrogacy Policy Hypocrisy"
     url: "/wiki/concepts/surrogacypolicyhypocrisy/"
+  - key: "SurrogateEndpointOutcomeMismatch"
+    title: "Surrogate Endpoint–Outcome Mismatch"
+    url: "/wiki/concepts/surrogateendpointoutcomemismatch/"
   - key: "SurveillanceAsAService"
     title: "Surveillance as a Service"
     url: "/wiki/concepts/surveillanceasaservice/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14728
+wiki_total_pages: 14734
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "IvanBrown"
     title: "Ivan Brown"
     url: "/wiki/entities/ivanbrown/"
+  - key: "IvanFrantz"
+    title: "Ivan Frantz"
+    url: "/wiki/entities/ivanfrantz/"
   - key: "IvanMazepa"
     title: "Ivan Mazepa / 伊万·马泽帕"
     url: "/wiki/entities/ivanmazepa/"

@@ -41886,6 +41886,18 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-17] ingest | The Basement Tapes
+
+Added the 2017 [[RevisionistHistory]] episode connecting [[IvanFrantz]], [[RobertFrantz]], [[ChristopherRamsden]], [[SteveBroste]], the [[MinnesotaCoronaryExperiment]], and the [[SydneyDietHeartStudy]]. Created [[SurrogateEndpointOutcomeMismatch]] and [[ResearchDataPreservation]], and resynthesized [[SeedOilEvidenceBoundary]], [[MechanismOutcomeEvidenceHierarchy]], and [[ScientificSelfCorrection]] from their complete bounded source inventories.
+
+Core synthesis: replacing saturated fat with linoleic-acid-rich vegetable oil lowered serum cholesterol without demonstrating lower coronary or all-cause mortality, so target engagement cannot substitute automatically for patient-relevant benefit. Preserved tapes, theses, and records made delayed reanalysis possible, while Robert's cooperation frames scientific correction as loyalty to his father's principle rather than rejection of his legacy.
+
+No settled contradiction was adopted. The recovered trials materially contest a uniformly favorable fat-replacement story, but historical formulations, institutional populations, exposure, attrition, subgroup selection, incomplete primary materials, and the wider evidence base prevent a categorical conclusion about all seed oils or LDL lowering. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles remained closed because the source adds a focused case rather than changing their already extensive current profiles.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,214 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, log coverage, identities, synthesis-v1 structure, health, derived synthesis, whitespace, and publish validation passed.
+
 ## [2026-11-17] ingest | Bombs Away LeMay
 
 Added a [[RevisionistHistory]] episode tracing the operational and moral transition from [[HaywoodHansell]]'s failed precision-bombing campaign to [[CurtisLeMay]]'s low-altitude incendiary attacks on Tokyo and other Japanese cities. Created [[ActionBiasUnderCommandPressure]] and [[ConstraintDrivenDoctrineShift]], then resynthesized LeMay, Hansell, [[InnovationVisionExecutionGap]], [[NapalmWarfare]], and [[OverwhelmingForceCasualtyLogic]] from their complete preserved evidence inventories before appending the new source once.
@@ -42795,6 +42807,10 @@ Added the 2018 [[RevisionistHistory]] season-three trailer, which frames [[MassD
 No settled contradiction was adopted. The trailer is a promotional montage summarized in a secondary document, so its disputed data, poisoned children, mass hysteria, institutional failure, heroic responder, OSS journey, and comic exchanges remain previews rather than completed evidence. Broad [[MalcolmGladwell]] and Revisionist History entity profiles remained closed because the source adds no durable profile evidence beyond the existing trailer precedent.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving eight pending ingests; refreshed artifacts validate 5,213 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, canonical index coverage, log coverage, identities, synthesis-v1 structure, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

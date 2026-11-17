@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14728
+wiki_total_pages: 14734
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "SteveBernard"
     title: "Steve Bernard"
     url: "/wiki/entities/stevebernard/"
+  - key: "SteveBroste"
+    title: "Steve Broste"
+    url: "/wiki/entities/stevebroste/"
   - key: "SteveDahl"
     title: "Steve Dahl"
     url: "/wiki/entities/stevedahl/"
@@ -2171,6 +2174,9 @@ wiki_pages:
   - key: "SydneyBrounstone"
     title: "Sydney Brounstone"
     url: "/wiki/entities/sydneybrounstone/"
+  - key: "SydneyDietHeartStudy"
+    title: "Sydney Diet Heart Study"
+    url: "/wiki/entities/sydneydietheartstudy/"
   - key: "SydneyMcLaughlin"
     title: "Sydney McLaughlin"
     url: "/wiki/entities/sydneymclaughlin/"

@@ -57306,6 +57306,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/christophernolan/"
     },
+    "ChristopherRamsden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/christopherramsden/"
+    },
     "ChristyEscobel": {
       "episode_count": 1,
       "show_count": 1,
@@ -167553,6 +167569,22 @@
       "updated": "2026-10-21",
       "url": "/wiki/entities/ithacaholdings/"
     },
+    "IvanFrantz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ivanfrantz/"
+    },
     "IvanMaisky": {
       "episode_count": 1,
       "show_count": 1,
@@ -213994,9 +214026,9 @@
       "url": "/wiki/concepts/mechanismbasedbackpainassessment/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
-      "episode_count": 6,
-      "show_count": 2,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM5519161031 [SCIM5519161031].md",
@@ -214039,9 +214071,16 @@
           "show": "这病说来话长",
           "title": "VOL.150大物是也·大白牛：NMN、氨糖 、护肝片、辅酶…这些爆款保健品真的靠谱吗？",
           "url": "/wiki/sources/vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o/"
+        },
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
     },
     "Medallia": {
@@ -221307,6 +221346,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
+    },
+    "MinnesotaCoronaryExperiment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/minnesotacoronaryexperiment/"
     },
     "MinnesotaStarvationExperiment": {
       "episode_count": 4,
@@ -273753,6 +273808,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/rescuermindsetinintimacy/"
     },
+    "ResearchDataPreservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/researchdatapreservation/"
+    },
     "ResearchEducationRobotPlatform": {
       "episode_count": 1,
       "show_count": 1,
@@ -278182,6 +278253,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/robertfrancoisdamiens/"
+    },
+    "RobertFrantz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/robertfrantz/"
     },
     "RobertGallo": {
       "episode_count": 1,
@@ -286179,9 +286266,9 @@
       "url": "/wiki/concepts/scientificprecariat/"
     },
     "ScientificSelfCorrection": {
-      "episode_count": 6,
-      "show_count": 3,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717 [default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717].md",
@@ -286224,9 +286311,16 @@
           "show": "Huberman Lab",
           "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
           "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        },
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/scientificselfcorrection/"
     },
     "ScientistModeThinking": {
@@ -287866,9 +287960,9 @@
       "url": "/wiki/concepts/seegrowactionlearningloop/"
     },
     "SeedOilEvidenceBoundary": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -287890,9 +287984,16 @@
           "show": "Huberman Lab",
           "title": "How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon",
           "url": "/wiki/sources/scim8552663956-scim8552663956/"
+        },
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/seedoilevidenceboundary/"
     },
     "SeemaSagayar": {
@@ -305112,6 +305213,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/stevebernard/"
     },
+    "SteveBroste": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/stevebroste/"
+    },
     "SteveDahl": {
       "episode_count": 1,
       "show_count": 1,
@@ -310745,6 +310862,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/surrenderedlocalmessengerpacification/"
     },
+    "SurrogateEndpointOutcomeMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/surrogateendpointoutcomemismatch/"
+    },
     "SurveillanceProcurementOpacity": {
       "episode_count": 1,
       "show_count": 1,
@@ -311513,6 +311646,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/concepts/sycophanticaicompanionrisk/"
+    },
+    "SydneyDietHeartStudy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Basement_Tapes [The_Basement_Tapes].md",
+          "key": "the-basement-tapes-the-basement-tapes",
+          "show": "Revisionist History",
+          "title": "The Basement Tapes",
+          "url": "/wiki/sources/the-basement-tapes-the-basement-tapes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/sydneydietheartstudy/"
     },
     "SydneyMcLaughlin": {
       "episode_count": 2,

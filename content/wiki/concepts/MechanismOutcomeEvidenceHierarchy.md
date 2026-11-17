@@ -9,7 +9,8 @@ sources:
   - journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255
   - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
   - vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o
-last_updated: 2026-10-11
+  - the-basement-tapes-the-basement-tapes
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,13 +32,15 @@ The metformin Journal Club adds a sharper observational-design case. A mechanism
 
 VOL.150 adds a consumer-facing translation rule. “There is literature” is incomplete unless the literature's layer is named: a cell, tissue, or animal signal can support plausibility, while a biomarker, subjective improvement, subgroup result, or placebo-sensitive response can still fall short of a meaningful whole-person outcome. Its glucosamine, NMN, antioxidant, and milk-thistle examples also show why route, target tissue, population, comparator, and endpoint have to match the advertised claim.
 
+A large historical trial adds a case in which the intended biological intermediate moved while the clinical result did not. The [[MinnesotaCoronaryExperiment]] lowered serum cholesterol through dietary replacement without demonstrating lower mortality, and an older, longer-exposed subgroup later showed an adverse association. This strengthens the hierarchy's endpoint rule while adding a qualification: randomization improves the tested comparison, but exposure duration, attrition, subgroup selection, historical intervention composition, and recovered-data analysis still constrain what the result can establish.
+
 ## Key Claims
 - Biological mechanisms establish plausibility, not necessarily the direction or magnitude of a whole-person outcome.
 - Anecdotes and personal experience are evidence, but expectation, selection, and uncontrolled variables make them weak grounds for universal rules.
-- Human randomized controlled trials can strengthen causal inference when the comparator, controls, adherence, population, duration, and endpoints fit the question.
+- Human randomized controlled trials can strengthen causal inference when the comparator, controls, adherence, population, duration, endpoints, and analysis fit the question.
 - Observational findings can identify associations and generate hypotheses without automatically resolving confounding or reverse causation.
 - A meta-analysis inherits the strengths, weaknesses, comparability, and inclusion decisions of its underlying studies.
-- Conclusions should track measured outcomes and total evidence rather than headlines, cherry-picked mechanisms, or a single study.
+- Conclusions should track patient-relevant outcomes and total evidence rather than headlines, cherry-picked mechanisms, favorable surrogates, or a single study.
 - Longevity claims should distinguish pathway function, tissue biomarkers, animal survival, human healthspan, and human lifespan rather than treating them as interchangeable endpoints.
 
 ## Evidence
@@ -52,13 +55,14 @@ VOL.150 adds a consumer-facing translation rule. “There is literature” is in
 - Tissue and endpoint fit: [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]] argues that higher NAD in blood or liver does not establish a skeletal-muscle effect, and that biomarkers or biological-age scores do not substitute for meaningful healthspan or lifespan outcomes.
 - Observational contrast and censoring: [[journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255]] shows why treated diabetes versus non-diabetic control mortality cannot isolate metformin's causal effect, and why participant exclusions can create informative censoring.
 - Consumer claim translation: [[vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o|VOL.150]] uses laboratory antioxidant findings, topical delivery, individual response, subgroup symptom relief, and transaminase change to show why an evidentiary signal must match route, population, endpoint, and claimed benefit.
+- Surrogate and clinical divergence: [[the-basement-tapes-the-basement-tapes]] reports that the randomized [[MinnesotaCoronaryExperiment]] lowered cholesterol without demonstrating lower coronary or all-cause mortality.
 
 ## Counterevidence & Qualifications
-This is not a rigid universal ranking. Randomization may be infeasible, unethical, too short, underpowered, or poorly matched to long-latency outcomes; observational and mechanistic evidence can be decisive in some contexts. Matching, covariate adjustment, twins, and sensitivity analyses can strengthen an observational estimate without eliminating unmeasured confounding or comparator mismatch. A trial can answer only its specific question, a subgroup may be exploratory rather than confirmatory, and a meta-analysis can create false precision when studies differ materially. Mouse survival can strongly filter a hypothesis without establishing human benefit. Personal use can reveal tolerability or generate a hypothesis without estimating efficacy, population benefit, or lifespan effect. VOL.150 is a conversational summary and does not independently validate its trial descriptions, biomarker claims, or product examples. The sources supply examples rather than a complete research-methods taxonomy, risk-of-bias tool, or formal evidence-grading system.
+This is not a rigid universal ranking. Randomization may be infeasible, unethical, too short, underpowered, or poorly matched to long-latency outcomes; observational and mechanistic evidence can be decisive in some contexts. Matching, covariate adjustment, twins, and sensitivity analyses can strengthen an observational estimate without eliminating unmeasured confounding or comparator mismatch. A trial can answer only its specific question, a subgroup may be exploratory rather than confirmatory, and a meta-analysis can create false precision when studies differ materially. The Minnesota case also shows that randomization does not erase exposure, attrition, adherence, historical-comparator, recovered-data, or subgroup limits. Mouse survival can strongly filter a hypothesis without establishing human benefit. Personal use can reveal tolerability or generate a hypothesis without estimating efficacy, population benefit, or lifespan effect. The sources supply examples rather than a complete research-methods taxonomy, risk-of-bias tool, or formal evidence-grading system.
 
 ## What Changed
-- Added a consumer-facing test that “has literature” must be unpacked into evidence layer, route, population, endpoint, and advertised outcome.
-- Added supplement examples in which laboratory activity, subgroup symptom change, subjective response, or surrogate-marker movement does not establish broad clinical benefit.
+- Added a randomized diet-trial case where a favorable surrogate change did not produce demonstrated mortality benefit.
+- Added recovered-data, exposure, attrition, and subgroup limits to randomized-trial interpretation.
 
 ## Related Concepts
 - [[DietTrialEquipoise]] - fair-comparison principle for designing and interpreting competing diet trials.
@@ -70,3 +74,4 @@ This is not a rigid universal ranking. Randomization may be infeasible, unethica
 - [[NADTherapyEvidenceBoundary]] - longevity-supplement application separating pathway importance from efficacy.
 - [[InterventionsTestingProgram]] - animal-survival layer within the hierarchy.
 - [[MetforminLongevityEvidenceBoundary]] - application separating metabolic indication, observational mortality, and general geroprotection.
+- [[SurrogateEndpointOutcomeMismatch]] - focused rule separating target engagement from patient-relevant benefit.
