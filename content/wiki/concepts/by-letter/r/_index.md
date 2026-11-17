@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11668
+wiki_total_pages: 11669
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "ReproductiveBodyOmenPolitics"
     title: "Reproductive Body Omen Politics / 生殖身体祥瑞政治"
     url: "/wiki/concepts/reproductivebodyomenpolitics/"
+  - key: "ReproductiveTechnologyMoralClassification"
+    title: "Reproductive Technology Moral Classification"
+    url: "/wiki/concepts/reproductivetechnologymoralclassification/"
   - key: "ReproductiveCenteredSexEducation"
     title: "Reproductive-Centered Sex Education / 生殖中心性教育"
     url: "/wiki/concepts/reproductivecenteredsexeducation/"

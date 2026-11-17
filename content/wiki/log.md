@@ -42506,3 +42506,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Dr. Rock’s Taxonomy
+
+Added a [[RevisionistHistory]] episode on [[JohnRock]], the birth-control pill, Catholic contraception doctrine, conscience, casuistry, and [[ReproductiveTechnologyMoralClassification]]. Resynthesized [[ParticularizedMoralDiscernment]] from both bounded source notes and migrated the [[CatholicChurch]] profile from its complete four-source evidence inventory while preserving source order.
+
+Core synthesis: a reproductive technology can have several accurate descriptions because mechanism, immediate effect, long-term purpose, and lived context may point toward different moral categories. Rock argued that endogenous hormones and a pregnancy-like state made the pill closer to the Church-permitted rhythm method than to barrier contraception; the speculative mTOR example similarly separates temporary prevention of ovulation from a future fertility-preservation purpose. Casuistry can reveal morally relevant differences, but it can also rationalize a preferred conclusion unless evidence, consequences, power, and responsibility constrain the analogy.
+
+No direct contradiction was adopted. The pill-rhythm analogy concerns theological classification, not equal contraceptive effectiveness; current [[ContraceptionSexualHealthRiskLiteracy]] still treats presumed safe-period timing as unreliable routine contraception. The episode is sympathetic to Rock, the mTOR example remains speculative, co-development is not sole invention, and historical, doctrinal, physiological, and FDA claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, doctrinal text, or clinical review. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,193 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

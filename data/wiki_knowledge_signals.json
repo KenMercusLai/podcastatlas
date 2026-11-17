@@ -48478,6 +48478,43 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
+    "CatholicChurch": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "Under strAIn： breaking the British state [6a799563523b3dfcd83c7271].md",
+          "key": "under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271",
+          "show": "Economist Podcasts",
+          "title": "Under strAIn: breaking the British state",
+          "url": "/wiki/sources/under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271/"
+        },
+        {
+          "episode_file": "Dr_Rock_s_Taxonomy [Dr_Rock_s_Taxonomy].md",
+          "key": "dr-rock-s-taxonomy-dr-rock-s-taxonomy",
+          "show": "Revisionist History",
+          "title": "Dr. Rock’s Taxonomy",
+          "url": "/wiki/sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/catholicchurch/"
+    },
     "CatoTheElder": {
       "episode_count": 2,
       "show_count": 1,
@@ -175518,6 +175555,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/johnredmond/"
     },
+    "JohnRock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dr_Rock_s_Taxonomy [Dr_Rock_s_Taxonomy].md",
+          "key": "dr-rock-s-taxonomy-dr-rock-s-taxonomy",
+          "show": "Revisionist History",
+          "title": "Dr. Rock’s Taxonomy",
+          "url": "/wiki/sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johnrock/"
+    },
     "JohnSloss": {
       "episode_count": 1,
       "show_count": 1,
@@ -244083,9 +244136,9 @@
       "url": "/wiki/concepts/participatorysinging/"
     },
     "ParticularizedMoralDiscernment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
@@ -244093,6 +244146,13 @@
           "show": "Revisionist History",
           "title": "Descend into the Particular",
           "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        },
+        {
+          "episode_file": "Dr_Rock_s_Taxonomy [Dr_Rock_s_Taxonomy].md",
+          "key": "dr-rock-s-taxonomy-dr-rock-s-taxonomy",
+          "show": "Revisionist History",
+          "title": "Dr. Rock’s Taxonomy",
+          "url": "/wiki/sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy/"
         }
       ],
       "updated": "2026-11-17",
@@ -272097,6 +272157,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/reproductivestatedependentbrainplasticity/"
+    },
+    "ReproductiveTechnologyMoralClassification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Dr_Rock_s_Taxonomy [Dr_Rock_s_Taxonomy].md",
+          "key": "dr-rock-s-taxonomy-dr-rock-s-taxonomy",
+          "show": "Revisionist History",
+          "title": "Dr. Rock’s Taxonomy",
+          "url": "/wiki/sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/reproductivetechnologymoralclassification/"
     },
     "RepublicOfTheRif": {
       "episode_count": 1,

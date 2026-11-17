@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dr. Rock’s Taxonomy](sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy.md) — Revisionist History connects John Rock, the birth-control pill, Catholic doctrine, conscience, casuistry, and the moral classification of reproductive technology.
 - [Descend into the Particular](sources/descend-into-the-particular-descend-into-the-particular.md) — Revisionist History uses Ferguson and Angel Navarro's death to connect case-specific moral discernment, suicide-by-cop inference, police legitimacy, and compassion beyond liability.
 - [In a Metal Mood](sources/in-a-metal-mood-in-a-metal-mood.md) — Revisionist History uses Pat Boone, Little Richard, Elvis Presley, Georgia Gibbs, and Taco Bell to distinguish transformative borrowing from source-displacing imitation.
 - [Chutzpah vs. Chutzpah](sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah.md) — Revisionist History separates constructive audacity from self-serving shamelessness through Hollywood, organized crime, Israeli directness, and migrant-detention argument.
@@ -5320,6 +5321,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 
 ## Entities
+- [John Rock](entities/JohnRock.md) — Catholic fertility physician and pill co-developer who used conscience and casuistry to challenge the Church's contraception judgment.
 - [Angel Navarro](entities/AngelNavarro.md) — Man whose fatal encounter with New Mexico State Police anchors the episode's inquiry into inferred suicidal purpose, threat perception, and grief.
 - [Felipe Navarro](entities/FelipeNavarro.md) — Brother who revises his initial account after seeing footage while preserving family memory, uncertainty, and loss.
 - [Ron Martinelli](entities/RonMartinelli.md) — Forensic criminologist whose tactical reconstruction supports, but cannot prove, a suicide-by-cop interpretation.
@@ -20102,7 +20104,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Gallo](entities/RobertGallo.md) — Human-retrovirus and T-cell researcher presented as a bridge from tumor virology to the early AIDS response.
 
 ## Concepts
-- [Particularized Moral Discernment](concepts/ParticularizedMoralDiscernment.md) — Practice of suspending ideological attachment long enough to judge the complete facts, context, and suffering of a concrete case.
+- [Particularized Moral Discernment](concepts/ParticularizedMoralDiscernment.md) — Practice of suspending ideological attachment long enough to judge the complete facts, context, classification, and suffering of a concrete case.
+- [Reproductive Technology Moral Classification](concepts/ReproductiveTechnologyMoralClassification.md) — Case-based classification of reproductive interventions by purpose, mechanism, duration, physiological resemblance, and consequences.
 - [Suicide-by-Cop Inference](concepts/SuicideByCopInference.md) — Qualified reconstruction that threatening conduct was intended to provoke lethal police force, distinct from proof of motive or tactical justification.
 - [Consolation Beyond Liability](concepts/ConsolationBeyondLiability.md) — Recognition of differently situated suffering without assigning equal responsibility or replacing accountability.
 - [Transformative Cultural Appropriation](concepts/TransformativeCulturalAppropriation.md) — Qualified framework for borrowing that creates visible difference and redirects rather than replaces attention to a source.

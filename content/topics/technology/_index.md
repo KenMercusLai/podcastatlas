@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3884
+topic_total_pages: 3885
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4387,6 +4387,9 @@ topic_concepts:
   - key: "RepresentationLearning"
     title: "Representation Learning"
     url: "/wiki/concepts/representationlearning/"
+  - key: "ReproductiveTechnologyMoralClassification"
+    title: "Reproductive Technology Moral Classification"
+    url: "/wiki/concepts/reproductivetechnologymoralclassification/"
   - key: "RerankingModels"
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"
