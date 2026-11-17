@@ -12,14 +12,15 @@ sources:
   - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
   - zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln
   - zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
 # 曹仁 / Cao Ren
 
 ## Overview
-曹仁 / Cao Ren is a trusted Cao-clan commander whose profile spans kin-organized entry into Cao Cao's early force, post-Yanzhou personnel architecture, surrender-sensitive advice at Huguan, a counterstrike against Liu Bei, and command under severe pressure at Jiangling after Red Cliffs.
+曹仁 / Cao Ren is a trusted Cao-clan commander whose profile spans kin-organized entry into Cao Cao's early force, surrender-sensitive advice at Huguan, counterattack, severe defensive pressure at Jiangling, suppression at Nanyang, and the flood-damaged defense of Fancheng.
 
 ## Current Profile
 Hanji 1104 backfills the basis of that trust by presenting Cao Ren as joining Cao Cao with more than a thousand young followers, an organized contribution rather than a solitary appointment. Hanji 974 uses Cao Ren as evidence that [[CaoCao|曹操]] later keeps decisive force near clan figures such as Cao Ren and [[XiahouDun|夏侯惇]] after the [[YanzhouLateHan|兖州]] betrayal. Hanji 1047 makes that trust operational: Cao Ren judges that [[LiuBei|刘备]] cannot control newly assigned Yuan-side troops, defeats him with cavalry, and recovers counties around [[RunanCommanderyLateHan|汝南]].
@@ -32,14 +33,16 @@ Hanji 1113 supplies the outcome of that defensive assignment. Cao Ren eventually
 
 Hanji 1163 adds a later Nanyang suppression case. After [[HouYinLateHan|侯音]] detains [[DongliGunLateHan|东里衮]], Cao Ren leaves Fancheng, besieges the city, and kills Hou Yin during a failed breakout. The episode then attributes a massacre to Cao Ren as deterrence against nearby counties. That outcome creates a serious tension with his Huguan surrender-path advice: the bounded record shows context-sensitive incentive judgment in one siege and reported collective punishment in another, without enough evidence to resolve authority, circumstance, or motive.
 
+Hanji 1166 returns him to Fancheng under [[GuanYu|关羽]]'s northern pressure. After flooding destroys [[YuJin|于禁]]'s field army and damages the city, defenders consider withdrawal. [[ManChong|满宠]] argues that the water will recede and that abandonment could expose the region south of the Yellow River; Cao Ren and the garrison swear to hold until [[XuHuangCaoGeneral|徐晃]]'s relief. The case adds resilient delay under environmental shock, not an unqualified victory narrative.
+
 ## Key Characteristics
-- Trusted clan commander used to secure core military power.
-- Early contributor of an organized youth following to Cao Cao's force.
+- Trusted clan commander who enters Cao Cao's force with an organized youth following and later secures core military power.
 - Combines loyalty value with tactical and surrender-incentive judgment.
 - Reads unstable enemy command as a cavalry opening.
 - Receives responsibility for the Jiangling corridor after Red Cliffs.
 - Converts a high-risk battlefield extraction into both personnel recovery and a visible morale signal.
 - Suppresses Hou Yin's Nanyang revolt but is also associated with a reported post-capture massacre.
+- Recommits a flood-damaged Fancheng garrison to holding long enough for relief and wider strategic response.
 
 ## Evidence
 - Clan-command role: [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] pairs Cao Ren with Xiahou Dun in Cao Cao's tightened military core.
@@ -51,13 +54,14 @@ Hanji 1163 adds a later Nanyang suppression case. After [[HouYinLateHan|侯音]]
 - Withdrawal after delay: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] says Cao Ren withdraws after holding long enough to delay Zhou Yu and buy reorganization time.
 - Battlefield extraction and morale: [[zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln|Hanji 1112]] says Cao Ren rescues Niu Jin and other trapped soldiers, prompting Chen Jiao's astonishment and renewed defender confidence.
 - Nanyang suppression and civilian harm: [[zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c|Hanji 1163]] says Cao Ren kills Hou Yin after retaking the city and orders a massacre to deter resistance.
+- Fancheng hold: [[zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh|Hanji 1166]] says Cao Ren rejects collapse after Man Chong's advice, swears with the garrison to hold, and remains until Xu Huang's relief.
 
 ## Qualifications
-This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, Hanji 1073 compresses the Huguan debate and capitulation, Hanji 1107-1113 emphasize selected parts of the Jiangling campaign, and Hanji 1163 compresses Nanyang suppression and collective punishment. The reported size and composition of Cao Ren's first following, exact Huguan dialogue, surrender timing, Jiangling force counts, rescue route, casualties, Nanyang authority, massacre, duration, and deterrent effect require narrower verification. The successful extraction demonstrates ability in one crisis but does not make kinship irrelevant to access or trust. The Huguan and Nanyang cases are a moral and behavioral tension, not a settled contradiction, because context and command responsibility remain unclear.
+This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, Hanji 1073 compresses the Huguan debate, Hanji 1107-1113 select parts of Jiangling, Hanji 1163 compresses Nanyang suppression, and Hanji 1166 compresses Fancheng. Force counts, dialogue, surrender timing, rescue routes, civilian harm, flood effects, wall condition, abandonment debate, and relief causation require verification. The successful crisis cases do not make kinship irrelevant to access. Huguan, Nanyang, and Fancheng show context-sensitive conduct rather than a settled character rule.
 
 ## What Changed
-- Added Nanyang suppression and the reported civilian massacre to a profile previously weighted toward corrective advice and rescue.
-- Made the Huguan–Nanyang tension explicit without flattening it into a fixed character judgment.
+- Added the flood-damaged Fancheng hold and delayed-relief function.
+- Preserved the distinction among tactical rescue, coercive suppression, and resilient defense.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler relying on Cao Ren as clan military capacity.
@@ -75,3 +79,5 @@ This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 
 - [[CommanderRiskMoraleSignaling|主将冒险式士气信号]] - leadership mechanism illustrated by the rescue.
 - [[NanyangRebellion218LateHan|218年南阳侯音之乱]] - suppression case that adds collective-punishment tension to Cao Ren's profile.
 - [[RiverCorridorStrategicBase|长江走廊战略根据地]] - geographic logic behind Jiangling's value.
+- [[FanchengBattle219LateHan|219年樊城之战]] - later defense where flood, siege, and regional exposure make continued holding strategically valuable.
+- [[ManChong|满宠]] - adviser whose anti-withdrawal argument precedes Cao Ren's garrison oath.

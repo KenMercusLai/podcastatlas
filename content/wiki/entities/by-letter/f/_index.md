@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14649
+wiki_total_pages: 14651
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "FukuokaMotherDaughterKilling2006"
     title: "2006 Fukuoka Mother-Daughter Killing / 2006年福冈母亲杀女事件"
     url: "/wiki/entities/fukuokamotherdaughterkilling2006/"
+  - key: "FanchengBattle219LateHan"
+    title: "219年樊城之战 / Battle of Fancheng (219 CE)"
+    url: "/wiki/entities/fanchengbattle219latehan/"
   - key: "FortyThreeTalks"
     title: "43talks"
     url: "/wiki/entities/fortythreetalks/"
@@ -1436,6 +1439,9 @@ wiki_pages:
   - key: "FeiXiaotong"
     title: "费孝通 / Fei Xiaotong"
     url: "/wiki/entities/feixiaotong/"
+  - key: "FeiShiLateHan"
+    title: "费诗 / Fei Shi (late Han)"
+    url: "/wiki/entities/feishilatehan/"
   - key: "FeiDasheng"
     title: "费达生 / Fei Dasheng"
     url: "/wiki/entities/feidasheng/"

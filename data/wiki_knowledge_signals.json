@@ -45585,9 +45585,9 @@
       "url": "/wiki/entities/caopi/"
     },
     "CaoRen": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
@@ -45651,9 +45651,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/caoren/"
     },
     "CaoShaoLateHan": {
@@ -109158,6 +109165,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/fanatics/"
     },
+    "FanchengBattle219LateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/fanchengbattle219latehan/"
+    },
     "FandomCollectiveAction": {
       "episode_count": 1,
       "show_count": 1,
@@ -110791,6 +110814,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/feifeili/"
+    },
+    "FeiShiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/feishilatehan/"
     },
     "FeiXiaotong": {
       "episode_count": 1,
@@ -134046,9 +134085,9 @@
       "url": "/wiki/entities/guanyoulatehan/"
     },
     "GuanYu": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？ [lnDkrj_fNePye8IU-ifgyh-VZySF].md",
@@ -134091,9 +134130,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
@@ -151864,9 +151910,9 @@
       "url": "/wiki/entities/huangyunlatehan/"
     },
     "HuangZhong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lrW8bYuZA9fzASD0EWwszKOgj3Mu [lrW8bYuZA9fzASD0EWwszKOgj3Mu].md",
@@ -151881,9 +151927,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/huangzhong/"
     },
     "HuangZiyiManufacturingReporter": {
@@ -206878,6 +206931,36 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/mamlukegypt/"
     },
+    "ManChong": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
+          "key": "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/manchong/"
+    },
     "ManInTheIronMask": {
       "episode_count": 1,
       "show_count": 1,
@@ -242263,9 +242346,9 @@
       "url": "/wiki/entities/pangcanlatehan/"
     },
     "PangDe": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
@@ -242280,9 +242363,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/pangde/"
     },
     "PangDegongLateHan": {
@@ -271873,9 +271963,9 @@
       "url": "/wiki/concepts/resourceasymmetryattrition/"
     },
     "RespectBasedConflictDeescalation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！ [FqgUT61bpIhhdiT1D2I7tDO2RiDP].md",
@@ -271897,9 +271987,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
     "RespiratoryGasBalanceAndBreathworkSafety": {
@@ -354132,9 +354229,9 @@
       "url": "/wiki/entities/yuhuayingcase/"
     },
     "YuJin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
@@ -354156,9 +354253,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
+        },
+        {
+          "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
+          "key": "zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/yujin/"
     },
     "YuLianzhouJinYong": {

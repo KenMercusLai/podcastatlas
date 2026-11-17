@@ -42354,3 +42354,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | 《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？
+
+Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode connecting [[GuanYu|关羽]]'s status-sensitive appointment dispute with the flood-transformed [[FanchengBattle219LateHan|219年樊城之战]]. Created focused pages for [[FeiShiLateHan|费诗]] and the battle, then resynthesized Guan Yu, [[HuangZhong|黄忠]], [[CaoRen|曹仁]], [[YuJin|于禁]], [[PangDe|庞德]], [[ManChong|满宠]], and [[RespectBasedConflictDeescalation|尊重式冲突降温]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: effective de-escalation in a status-sensitive conflict can combine emotional space and credible recognition with an unchanged relationship frame and explicit consequences. Militarily, the Han River flood converts Guan Yu's offensive into Yu Jin's surrender and Pang De's capture, while Man Chong's regional-risk argument and Cao Ren's garrison recommitment preserve Fancheng until relief and wider coordination become possible.
+
+No settled contradiction was adopted. Guan Yu's insecurity, vanity, and anger mechanism remain presenter interpretations; dialogue, ranks, flood mechanics, force and captive totals, surrender circumstances, execution sequence, wall damage, defections, relocation deliberation, and delay effects remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,182 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

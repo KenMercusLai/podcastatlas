@@ -5306,6 +5306,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You 2.0: Our Pursuit of Happiness](sources/default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002-default-mp3-ywr3ahjkcgo-8462fe97eef50d4a98b4f9b755916f20-43682002.md) — Hidden Brain and Emily Balcetis connect narrow targets, materialized intentions, visual choice design, obstacle rehearsal, and wide-bracket review to goal pursuit.
 - [Goodbye, Farewell and Amen](sources/goodbye-farewell-and-amen-goodbye-farewell-and-amen.md) — Revisionist History follows napalm from Japan through Korea and Vietnam while examining overwhelming-force logic, doctrinal lock-in, civilian testimony, and forgetting by omission.
 - [Dragon Psychology 101](sources/dragon-psychology-101-dragon-psychology-101.md) — Revisionist History connects museum accumulation, collection accounting, Warhol's archive, hoarding psychology, and object-mediated memory.
+- [《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？](sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh.md) — 芮淇讲透资治通鉴 connects Guan Yu's status-sensitive appointment dispute with Fei Shi's boundary-preserving de-escalation and the flood, surrender, siege, and delayed relief at Fancheng.
 
 ## Entities
 - [Metropolitan Museum of Art](entities/MetropolitanMuseumOfArt.md) — New York museum used to examine financial strain, acquisition, inaccessible holdings, collection accounting, and resistance to disposal.
@@ -5524,7 +5525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汉中争夺（218–219年） / Hanzhong Campaign (218–219 CE)](entities/HanzhongCampaign218LateHan.md) — 从机会试探、早期受挫和益州动员，经定军山突破转入长期对峙并迫使曹操撤退的多阶段争夺。
 - [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — 曹方西线将领，其条件敏感的快速驰援最终与定军山兵力分散、亲身修防和统帅关键节点风险形成张力。
 - [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 曹方西部中介与治理官员，从河东援助和马腾入朝安排延伸到汉中撤退后的迁民缓冲提议。
-- [黄忠 / Huang Zhong](entities/HuangZhong.md) — 刘备麾下汉中战役将领，在定军山执行斩杀夏侯渊的突击，后又快速出击曹军粮队并引出接应风险。
+- [黄忠 / Huang Zhong](entities/HuangZhong.md) — 刘备麾下汉中战役将领，在定军山执行斩杀夏侯渊的突击，后又出击曹军粮队并成为关羽任命争议中的比较人物。
 - [Isaac Adamson](entities/IsaacAdamson.md) — Screenwriter whose Bubbles project joins comic animal perspective to tragedy, moral blindness, revision, and development risk.
 - [Bubbles (Isaac Adamson screenplay)](entities/BubblesFilm.md) — Unproduced stop-motion screenplay using a chimpanzee's royal worldview to reinterpret Michael Jackson, loyalty, and denial.
 - [Michael Jackson](entities/MichaelJackson.md) — Musician represented narrowly as Bubbles's former companion and the morally disputed subject of Adamson's unproduced screenplay.
@@ -11644,7 +11645,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — 兼具政治关系诊断与刑罚行为判断的汉末官员，反对把逃兵牵连扩大到父母兄弟。
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
 - [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
-- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose role spans an organized early following, Huguan surrender-incentive advice, the Runan counterstrike, and Jiangling defense.
+- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander spanning organized entry, Huguan surrender advice, Runan counterattack, Jiangling delay, Nanyang suppression, and the Fancheng hold.
 - [蒋济 / Jiang Ji (late Han)](entities/JiangJiLateHan.md) — Cao-side official whose intercepted-message deception made a fictitious relief army credible during the Hefei siege.
 - [牛金 / Niu Jin (late Han)](entities/NiuJinLateHan.md) — Cao-side officer surrounded outside Jiangling and extracted by Cao Ren.
 - [陈矫 / Chen Jiao (late Han)](entities/ChenJiaoLateHan.md) — Jiangling witness whose reaction records the morale effect of Cao Ren's battlefield rescue.
@@ -12110,7 +12111,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain, defeated by Sun Ce, and later spared by Shanyue disruption of Sun Quan's attack.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
-- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance memory is source-bounded, while Hanji 1041-1044 frame his Cao-camp period as captive service, White Horse repayment, gift sealing, and return toward Liu Bei.
+- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose source-bounded profile joins captive service and repayment, status-sensitive appointment conflict, the Fancheng high point, and final multi-front defeat.
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
@@ -12130,7 +12131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [士孙瑞 / Shi Sun Rui (late Han)](entities/ShiSunRuiLateHan.md) — Court official killed during Emperor Xian's flight after earlier surviving the Dong Zhuo assassination aftermath.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
 - [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as defensively capable, expanding, and shelter-providing, but limited by indecision, suspicion, ritual overreach, Guandu-era exposure, and hosted-rival risk.
-- [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
+- [于禁 / Yu Jin](entities/YuJin.md) — Cao-side general whose Wancheng discipline and Chang Xi enforcement now stand beside surrender after catastrophic flooding at Fancheng.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — 曹昂养母，在宛城丧子后与曹操决裂并拒绝复合；投毒指控与私人场景仍属节目范围。
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — 曹操之妻及四子之母，以危局留众、礼让丁夫人、节俭及不张扬曹丕立储之喜体现稳定曹氏家门的分寸判断。
 - [虞翻 / Yu Fan](entities/YuFan.md) — Kuaiji merit officer whose condition-reading speech warns Wang Lang and Sun Ce before persuading Hua Xin to surrender Yuzhang.
@@ -12146,7 +12147,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
 - [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
-- [庞德 / Pang De](entities/PangDe.md) — Ma Teng-Ma Chao-side officer who kills Guo Yuan at Pingyang and later remains in Hanzhong during Ma Chao's Qishan attempt.
+- [庞德 / Pang De](entities/PangDe.md) — Western officer who kills Guo Yuan, remains behind during Ma Chao's Qishan attempt, and later refuses surrender after the Fancheng flood.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
 - [韩遂 / Han Sui](entities/HanSui.md) — 从被胁入乱、兼并与反复结盟到渭南离间和西部败亡，显示地方权谋未必能转化为稳定的指挥与支持体系。
 - [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、与崔琰共同选官，后在告发与证据争议中被下狱免官的曹操谋臣。
@@ -12235,7 +12236,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [谭嗣同 / Tan Sitong](entities/TanSitong.md) — Qing reformer invoked through a prison-poem allusion pairing Zhang Jian and Du Gen as persecution-memory figures.
 - [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose moral courage and cultural prestige coexist with Beihai governing failure, escalating satire of Cao Cao, and a politically constructed death case.
 - [荀彧 / Xun Yu](entities/XunYu.md) — 以迎奉天子、荐才、保根基和战略排序塑造曹操秩序，最终又以汉室名分反对其近君主化上升的谋臣。
-- [满宠 / Man Chong](entities/ManChong.md) — Severe Cao Cao-side legal official whose Hanji 1006 Cao Hong-client case and Hanji 1020 Yang Biao report both tie enforcement to political trust.
+- [满宠 / Man Chong](entities/ManChong.md) — Cao-side official linking severe enforcement and evidentiary restraint to the anti-withdrawal judgment that helps stabilize Fancheng.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
 - [臧衍 / Zang Yan](entities/ZangYan.md) — Zang Tu's Xiongnu-exiled son whose warning to Zhang Sheng reframes Chen Xi's survival as Yan's buffer against Liu Bang.
@@ -20051,6 +20052,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dan Ariely](entities/DanAriely.md) — Behavioral economist represented through a deadline experiment showing that structured constraints can reduce procrastination.
 - [Louis Fieser](entities/LouisFieser.md) — Harvard chemist presented as a napalm co-inventor who later urged an international prohibition on the weapon.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
+- [费诗 / Fei Shi (late Han)](entities/FeiShiLateHan.md) — Liu Bei-side envoy who waits out Guan Yu's anger, restores the ruler-minister frame, and preserves consequences while securing acceptance of appointment.
+- [219年樊城之战 / Battle of Fancheng (219 CE)](entities/FanchengBattle219LateHan.md) — Flood-transformed campaign in which Yu Jin surrenders, Pang De refuses, and Cao Ren and Man Chong hold until relief.
 
 ## Concepts
 - [Object-Mediated Memory and Identity](concepts/ObjectMediatedMemoryAndIdentity.md) — Physical possessions as cues that retrieve autobiographical memory, sustain emotional continuity, and materialize parts of the self.
@@ -24633,7 +24636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [太子师傅公器化 / Crown-Prince Tutor Public Interest](concepts/CrownPrinceTutorPublicInterest.md) — 储君的师友、近侍与日常环境属于公共责任，应按国家继承需要而非亲族便利、私人偏好或强制性教育来安排。
 - [礼教预防与法令处置 / Ritual Prevention and Legal Response](concepts/RitualPreventionAndLegalResponse.md) — 区分礼教对意念与习惯的事前塑造和法令对已发生行为的奖惩，同时保留公正、可预期执法的必要性。
 - [政绩述职造假 / Administrative Performance Fraud](concepts/AdministrativePerformanceFraud.md) — Governance failure where reported achievements are exaggerated or fabricated because promotion and reward depend on centrally assessed performance claims.
-- [尊重式冲突降温 / Respect-Based Conflict De-escalation](concepts/RespectBasedConflictDeescalation.md) — Conflict tactic where credible recognition of a rival's competence or dignity reduces status-driven hostility.
+- [尊重式冲突降温 / Respect-Based Conflict De-escalation](concepts/RespectBasedConflictDeescalation.md) — Conflict tactic combining credible recognition and emotional space with relationship framing and maintained consequence boundaries.
 - [Promotion-Status Relationship Rupture / 升职后的关系破裂](concepts/PromotionStatusRelationshipRupture.md) — Pattern where promotion, rank, or wealth changes turn familiar peers into painful comparison targets and practical rivals.
 - [私人宾客网络风险 / Private Retainer Network Risk](concepts/PrivateRetainerNetworkRisk.md) — Court-risk pattern where crown-prince or royal-prince private guest recruitment can turn access networks into faction, violence, or incriminating association.
 - [私人书信政治武器化 / Private Letter Political Weaponization](concepts/PrivateLetterPoliticalWeaponization.md) — Court-politics pattern where a bounded private letter is repurposed as accusation, character evidence, or association proof.
