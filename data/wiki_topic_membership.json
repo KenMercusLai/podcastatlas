@@ -41650,6 +41650,18 @@
       "url": "/topics/history/"
     }
   ],
+  "FrederickLindemann": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FreeCashFlowIndexing": [
     {
       "key": "economics",
@@ -51647,6 +51659,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "InformalAdviserGatekeeping": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "InformalFemalePoliticalInfluence": [
@@ -74700,6 +74719,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PolicyEvidenceCompression": [
     {
       "key": "politics",
       "label": "Politics",
@@ -116388,6 +116414,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "the-queen-of-cuba-the-queen-of-cuba": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11701
+wiki_total_pages: 11704
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
+  - key: "PolicyEvidenceCompression"
+    title: "Policy Evidence Compression"
+    url: "/wiki/concepts/policyevidencecompression/"
   - key: "PolicyLeverageForSystemChange"
     title: "Policy Leverage For System Change"
     url: "/wiki/concepts/policyleverageforsystemchange/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3586
+topic_total_pages: 3589
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2326,6 +2326,9 @@ topic_concepts:
   - key: "InfanticideCustomCorrection"
     title: "Infanticide Custom Correction / 杀婴风俗纠偏"
     url: "/wiki/concepts/infanticidecustomcorrection/"
+  - key: "InformalAdviserGatekeeping"
+    title: "Informal Adviser Gatekeeping"
+    url: "/wiki/concepts/informaladvisergatekeeping/"
   - key: "InformalFemalePoliticalInfluence"
     title: "Informal Female Political Influence"
     url: "/wiki/concepts/informalfemalepoliticalinfluence/"
@@ -3358,6 +3361,9 @@ topic_concepts:
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
+  - key: "PolicyEvidenceCompression"
+    title: "Policy Evidence Compression"
+    url: "/wiki/concepts/policyevidencecompression/"
   - key: "PolicyLeverageForSystemChange"
     title: "Policy Leverage For System Change"
     url: "/wiki/concepts/policyleverageforsystemchange/"
@@ -6608,6 +6614,9 @@ topic_entities:
   - key: "FredWertheimer"
     title: "Fred Wertheimer"
     url: "/wiki/entities/fredwertheimer/"
+  - key: "FrederickLindemann"
+    title: "Frederick Lindemann"
+    url: "/wiki/entities/fredericklindemann/"
   - key: "FrenchRestoration"
     title: "French Restoration / 法国王政复辟"
     url: "/wiki/entities/frenchrestoration/"

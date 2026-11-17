@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14741
+wiki_total_pages: 14744
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "BeneficialStateBank"
     title: "Beneficial State Bank"
     url: "/wiki/entities/beneficialstatebank/"
+  - key: "BengalFamine1943"
+    title: "Bengal Famine of 1943"
+    url: "/wiki/entities/bengalfamine1943/"
   - key: "BenitoJuarez"
     title: "Benito Juarez"
     url: "/wiki/entities/benitojuarez/"

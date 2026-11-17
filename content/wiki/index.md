@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Prime Minister and the Prof](sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof.md) — Revisionist History links Churchill’s reliance on Frederick Lindemann to evidence filtering in strategic bombing and Bengal-famine relief policy.
 - [The King of Tears](sources/the-king-of-tears-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, emotional specificity, shared musical culture, and memorial performance to country music's power to provoke tears.
 - [纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路](sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai.md) — 罗永浩与陈晓卿从食物记忆、纪录片信任和工业化协作谈到技术更替、职业更新与退休焦虑。
 - [State v. Johnson: Power, Race, and a Death Sentence](sources/state-v-johnson-state-v-johnson.md) — Revisionist History reopens Nathaniel Johnson’s 1959 conviction and execution to show how racial power, unequal counsel, and closed review can make a factually unresolved case legally untrustworthy.
@@ -5348,6 +5349,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Frederick Lindemann](entities/FrederickLindemann.md) — Churchill’s scientific adviser and close friend whose concise memoranda made him a powerful wartime evidence gatekeeper.
+- [Madhusree Mukerjee](entities/MadhusreeMukerjee.md) — Historian whose archival shipping research anchors the episode’s Bengal-famine policy argument.
+- [Bengal Famine of 1943](entities/BengalFamine1943.md) — Mass-death catastrophe produced by interacting war, weather, market, colonial, and relief-allocation failures.
 - [陈晓卿 / Chen Xiaoqing](entities/ChenXiaoqing.md) — Chinese documentary director and food-media creator whose profile joins patient observation, industrial collaboration, taste as social inquiry, and repeated craft renewal.
 - [Nathaniel Johnson](entities/NathanielJohnson.md) — Black Army veteran whose disputed 1959 rape conviction and execution illustrate the gap between unresolved innocence and an unreliable legal process.
 - [Donald L. Hollowell](entities/DonaldHollowell.md) — Civil-rights attorney whose evidentiary craft and controlled courtroom authority challenged Georgia’s segregated legal system.
@@ -20187,6 +20191,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Transactive Memory](concepts/TransactiveMemory.md) — Shared cognitive system whose complementary expertise can aid decisions while creating dependence on a trusted partner.
+- [Informal Adviser Gatekeeping](concepts/InformalAdviserGatekeeping.md) — Power exercised by a trusted associate through access, evidence filtering, option framing, and complexity reduction.
+- [Policy Evidence Compression](concepts/PolicyEvidenceCompression.md) — Conversion of complex evidence into decision-ready advice, with risks when uncertainty, dissent, or consequences disappear.
 - [Adaptive Craft Self-Renewal](concepts/AdaptiveCraftSelfRenewal.md) — Career pattern in which deep practice converts externally shaped assignments and obsolete tools into portable judgment, redesigned roles, and continued agency.
 - [Documentary Trust Through Duration](concepts/DocumentaryTrustThroughDuration.md) — Method of reducing camera reactivity through sustained presence and relationship while preserving the limits of editing, consent, and power.
 - [Temporal Homeland / 时间故乡](concepts/TemporalHomeland.md) — Distinction between revisitable geography and an irrecoverable earlier social and sensory world carried by food and memory.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2836
+topic_total_pages: 2837
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7533,6 +7533,9 @@ topic_sources:
   - key: "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007"
     title: "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup"
     url: "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+  - key: "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof"
+    title: "The Prime Minister and the Prof"
+    url: "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
   - key: "the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler"
     title: "The Revisionist History Holiday Sampler"
     url: "/wiki/sources/the-revisionist-history-holiday-sampler-the-revisionist-history-holiday-sampler/"

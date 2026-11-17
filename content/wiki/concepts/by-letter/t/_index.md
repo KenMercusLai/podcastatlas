@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11701
+wiki_total_pages: 11704
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "TransactionalIntimacyPowerAsymmetry"
     title: "Transactional Intimacy Power Asymmetry / 交易型亲密关系的权力不对称"
     url: "/wiki/concepts/transactionalintimacypowerasymmetry/"
+  - key: "TransactiveMemory"
+    title: "Transactive Memory"
+    url: "/wiki/concepts/transactivememory/"
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"

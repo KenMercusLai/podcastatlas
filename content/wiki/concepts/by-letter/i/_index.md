@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11701
+wiki_total_pages: 11704
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "InfluenzaHomeCareAndMedicationTriage"
     title: "Influenza Home-Care and Medication Triage / 流感居家照护与用药分诊"
     url: "/wiki/concepts/influenzahomecareandmedicationtriage/"
+  - key: "InformalAdviserGatekeeping"
+    title: "Informal Adviser Gatekeeping"
+    url: "/wiki/concepts/informaladvisergatekeeping/"
   - key: "InformalFemalePoliticalInfluence"
     title: "Informal Female Political Influence"
     url: "/wiki/concepts/informalfemalepoliticalinfluence/"

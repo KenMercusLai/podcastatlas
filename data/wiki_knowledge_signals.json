@@ -34505,6 +34505,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/benevolentspeechpractice/"
     },
+    "BengalFamine1943": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/bengalfamine1943/"
+    },
     "BenignGynecologicalFindingTriage": {
       "episode_count": 1,
       "show_count": 1,
@@ -120472,6 +120488,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/frederickjacksonturner/"
     },
+    "FrederickLindemann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/fredericklindemann/"
+    },
     "FrederickTheWise": {
       "episode_count": 3,
       "show_count": 1,
@@ -161711,6 +161743,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/influenzahomecareandmedicationtriage/"
+    },
+    "InformalAdviserGatekeeping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/informaladvisergatekeeping/"
     },
     "InformalFemalePoliticalInfluence": {
       "episode_count": 1,
@@ -207455,6 +207503,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/madgeoberholtzer/"
+    },
+    "MadhusreeMukerjee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/madhusreemukerjee/"
     },
     "MadisonHemings": {
       "episode_count": 1,
@@ -254223,6 +254287,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/policydriventalentretentiongap/"
+    },
+    "PolicyEvidenceCompression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/policyevidencecompression/"
     },
     "PolicyLeverageForSystemChange": {
       "episode_count": 1,
@@ -325351,6 +325431,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/transactionalintimacypowerasymmetry/"
     },
+    "TransactiveMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/transactivememory/"
+    },
     "TransatlanticBurdenShifting": {
       "episode_count": 3,
       "show_count": 3,
@@ -344726,9 +344822,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 11,
-      "show_count": 2,
-      "source_note_count": 11,
+      "episode_count": 12,
+      "show_count": 3,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -344806,9 +344902,16 @@
           "show": "Economist Podcasts",
           "title": "Silver-year strongman: 25 years of Narendra Modi",
           "url": "/wiki/sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62/"
+        },
+        {
+          "episode_file": "The_Prime_Minister_and_the_Prof [The_Prime_Minister_and_the_Prof].md",
+          "key": "the-prime-minister-and-the-prof-the-prime-minister-and-the-prof",
+          "show": "Revisionist History",
+          "title": "The Prime Minister and the Prof",
+          "url": "/wiki/sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WinterRespiratoryInfectionRisk": {

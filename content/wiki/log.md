@@ -42893,3 +42893,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Prime Minister and the Prof
+
+Added the 2017 [[RevisionistHistory]] episode on [[WinstonChurchill]], [[FrederickLindemann]], strategic bombing, and the [[BengalFamine1943]]. Created focused profiles for Lindemann, [[MadhusreeMukerjee]], and the famine, plus [[TransactiveMemory]], [[InformalAdviserGatekeeping]], and [[PolicyEvidenceCompression]].
+
+Core synthesis: complementary expertise can expand a leader's capacity, but it becomes a governance dependency when personal loyalty protects one adviser from criticism and short recommendations remove contrary findings, uncertainty, or foreseeable harm. The episode applies that mechanism to Lindemann's morale-bombing recommendation and to rejection of grain and shipping relief for India.
+
+The Churchill profile was revised from its complete prior 11-source inventory and retains all source slugs in order before appending the new source once. Its heroic 1940 judgment remains intact, but the new evidence replaces a merely reputational mention of Bengal with a qualified account of relief requests, reported later shipping capacity, grain routing, and imperial priorities.
+
+No settled contradiction was adopted. The source focuses heavily on two personalities inside a wider colonial, military, administrative, environmental, and market system, and the supplied file is a structured summary rather than the transcript, original bombing study, Lindemann memoranda, shipping archive, famine inquiry, Cabinet record, or complete historiography. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles remained closed because the episode adds no distinct biographical or show-level finding requiring their large evidence inventories to be reopened. The automatic `wiki/overview.md` was left for the deterministic synthesis workflow rather than edited manually.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,220 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
