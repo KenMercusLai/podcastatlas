@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14691
+wiki_total_pages: 14693
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "FrancisHalzen"
     title: "Francis Halzen"
     url: "/wiki/entities/francishalzen/"
+  - key: "FrancisIanni"
+    title: "Francis Ianni"
+    url: "/wiki/entities/francisianni/"
   - key: "FrancisII"
     title: "Francis II"
     url: "/wiki/entities/francisii/"

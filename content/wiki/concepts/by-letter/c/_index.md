@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11671
+wiki_total_pages: 11672
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3311,6 +3311,9 @@ wiki_pages:
   - key: "CriticAudienceRatingAlignment"
     title: "Critic–Audience Rating Alignment"
     url: "/wiki/concepts/criticaudienceratingalignment/"
+  - key: "CrookedLadderSocialMobility"
+    title: "Crooked-Ladder Social Mobility"
+    url: "/wiki/concepts/crookedladdersocialmobility/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"

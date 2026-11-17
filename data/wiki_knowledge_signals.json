@@ -17241,9 +17241,9 @@
       "url": "/wiki/concepts/americanreligiouspersistence/"
     },
     "AmericanRevolution": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -17293,9 +17293,16 @@
           "show": "Revisionist History",
           "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
           "url": "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"
+        },
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/americanrevolution/"
     },
     "AmericanRevolutionGlobalWar": {
@@ -38380,9 +38387,9 @@
       "url": "/wiki/entities/bostonmassacre/"
     },
     "BostonTeaParty": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5189620267 [GLT5189620267].md",
@@ -38390,9 +38397,16 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/bostonteaparty/"
     },
     "BottledBeverageDemandPressure": {
@@ -40816,9 +40830,9 @@
       "url": "/wiki/concepts/britishrailwayrevolution/"
     },
     "BritishSmugglingTaxState": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2228422151 [GLT2228422151].md",
@@ -40826,9 +40840,16 @@
           "show": "The Rest Is History",
           "title": "150. Smuggling",
           "url": "/wiki/sources/150-smuggling-glt2228422151/"
+        },
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/britishsmugglingtaxstate/"
     },
     "BritishTwoPartyRealignment1922": {
@@ -67211,9 +67232,9 @@
       "url": "/wiki/concepts/contentseedingmarketing/"
     },
     "ContestedAmericanFoundingMyth": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -67221,9 +67242,16 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/contestedamericanfoundingmyth/"
     },
     "ContestedHeritagePilgrimage": {
@@ -71833,6 +71861,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/crokeparkbloodysunday1920/"
+    },
+    "CrookedLadderSocialMobility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/crookedladdersocialmobility/"
     },
     "CrossApplicationAgentValueCapture": {
       "episode_count": 1,
@@ -118954,6 +118998,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/francisii/"
+    },
+    "FrancisIanni": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/francisianni/"
     },
     "FrancisScottKey": {
       "episode_count": 1,
@@ -175793,6 +175853,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/entities/johntorous/"
+    },
+    "JohnTylerHistorian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Tempest_in_a_Teacup [Tempest_in_a_Teacup].md",
+          "key": "tempest-in-a-teacup-tempest-in-a-teacup",
+          "show": "Revisionist History",
+          "title": "Tempest in a Teacup",
+          "url": "/wiki/sources/tempest-in-a-teacup-tempest-in-a-teacup/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johntylerhistorian/"
     },
     "JohnWennberg": {
       "episode_count": 1,

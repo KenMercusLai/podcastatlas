@@ -42546,3 +42546,19 @@ Core synthesis: first-person access and attractive music can make a hateful or d
 No settled contradiction was adopted. Preserving discomfort can retain a work's critical friction while still imposing costs on targeted listeners; the political analogy to later populism remains suggestive; and biographical, historical, performance, reception, and interpretive claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, recording analysis, or independent biography. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MoralSuspensionInArtReading]], [[SegregationistPopulistTranslation]], and automatic `wiki/overview.md` profiles remained closed because the focused pages already capture the durable evidence without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,195 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] ingest | Tempest in a Teacup
+
+Added a [[RevisionistHistory]] episode using [[JohnTylerHistorian|John Tyler]]'s insurance-record research to connect colonial tea smuggling, non-importation, Tea Act price competition, and Sons of Liberty coercion. Resynthesized [[BostonTeaParty]], [[AmericanRevolution]], [[BritishSmugglingTaxState]], and [[ContestedAmericanFoundingMyth]] from their complete preserved evidence inventories before appending the new source once.
+
+Created [[FrancisIanni]] and [[CrookedLadderSocialMobility]] to capture the episode's second argument: organized crime can sometimes operate as an intergenerational route toward the conventional status its participants appear to reject. The Ianni, Lansky, and Gravano cases support a possible crime-to-legitimacy trajectory, while Gladwell's comparison with revolutionary smugglers remains deliberately provocative.
+
+Core synthesis: constitutional principle, monopoly fear, illicit-market income, consumer demand, and coercive mobilization can coexist in the Boston Tea Party without any one motive canceling the others. The crooked-ladder model explains how later generations may reject criminal inheritance after earlier illicit accumulation widens legitimate opportunity, but it neither excuses crime nor makes upward mobility universal.
+
+No settled contradiction was adopted. The new commercial evidence complicates rather than disproves the established constitutional account, and the drug-dealer, Mafia, and colonial-founder analogies do not establish equivalence of commodities, harms, organizations, or historical settings. Smuggling scale, participant motives, insurance interpretation, family identification, generation counts, and post-independence tax comparisons remain episode-scoped because the supplied file is a structured summary rather than an archive, transcript, monograph, or independent historiographic review. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,196 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

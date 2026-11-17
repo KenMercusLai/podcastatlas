@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tempest in a Teacup](sources/tempest-in-a-teacup-tempest-in-a-teacup.md) — Revisionist History connects colonial tea smuggling, the Boston Tea Party, coercive boycott politics, organized-crime families, and crooked-ladder mobility toward legitimacy.
 - [Dr. Rock’s Taxonomy](sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy.md) — Revisionist History connects John Rock, the birth-control pill, Catholic doctrine, conscience, casuistry, and the moral classification of reproductive technology.
 - [Descend into the Particular](sources/descend-into-the-particular-descend-into-the-particular.md) — Revisionist History uses Ferguson and Angel Navarro's death to connect case-specific moral discernment, suicide-by-cop inference, police legitimacy, and compassion beyond liability.
 - [In a Metal Mood](sources/in-a-metal-mood-in-a-metal-mood.md) — Revisionist History uses Pat Boone, Little Richard, Elvis Presley, Georgia Gibbs, and Taco Bell to distinguish transformative borrowing from source-displacing imitation.
@@ -5323,6 +5324,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Good Old Boys](sources/good-old-boys-good-old-boys.md) — Revisionist History connects Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, Northern hypocrisy, and the reception risks of morally uncomfortable satire.
 
 ## Entities
+- [John Tyler (historian)](entities/JohnTylerHistorian.md) — Historian using insurance and shipping records to reconstruct colonial Boston tea smuggling and its political consequences.
+- [Francis Ianni](entities/FrancisIanni.md) — Sociologist and anthropologist whose crime-family study traced intergenerational movement toward conventional legitimacy.
 - [John Rock](entities/JohnRock.md) — Catholic fertility physician and pill co-developer who used conscience and casuistry to challenge the Church's contraception judgment.
 - [Angel Navarro](entities/AngelNavarro.md) — Man whose fatal encounter with New Mexico State Police anchors the episode's inquiry into inferred suicidal purpose, threat perception, and grief.
 - [Felipe Navarro](entities/FelipeNavarro.md) — Brother who revises his initial account after seeing footage while preserving family memory, uncertainty, and loss.
@@ -20111,6 +20114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Keenan](entities/JamesKeenan.md) — Jesuit moral theologian connecting narrated cases with casuistry and moral responsibility for omitted love.
 
 ## Concepts
+- [Crooked-Ladder Social Mobility](concepts/CrookedLadderSocialMobility.md) — Intergenerational model in which illicit accumulation can become a temporary route toward education, professions, and conventional legitimacy.
 - [Particularized Moral Discernment](concepts/ParticularizedMoralDiscernment.md) — Practice of suspending ideological attachment long enough to judge the complete facts, context, classification, and suffering of a concrete case.
 - [Reproductive Technology Moral Classification](concepts/ReproductiveTechnologyMoralClassification.md) — Case-based classification of reproductive interventions by purpose, mechanism, duration, physiological resemblance, and consequences.
 - [Suicide-by-Cop Inference](concepts/SuicideByCopInference.md) — Qualified reconstruction that threatening conduct was intended to provoke lethal police force, distinct from proof of motive or tactical justification.
