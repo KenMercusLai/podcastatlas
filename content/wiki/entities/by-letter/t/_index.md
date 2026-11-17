@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14782
+wiki_total_pages: 14786
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "TheRestIsHistory"
     title: "The Rest Is History"
     url: "/wiki/entities/therestishistory/"
+  - key: "TheRollCall"
+    title: "The Roll Call"
+    url: "/wiki/entities/therollcall/"
   - key: "TheRollingStones"
     title: "The Rolling Stones"
     url: "/wiki/entities/therollingstones/"

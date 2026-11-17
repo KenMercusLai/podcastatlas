@@ -76240,6 +76240,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/danielcohnbendit/"
     },
+    "DanielEffron": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/danieleffron/"
+    },
     "DanielEk": {
       "episode_count": 2,
       "show_count": 2,
@@ -96065,6 +96081,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/elizabethstride/"
+    },
+    "ElizabethThompson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/elizabeththompson/"
     },
     "ElizabethTung": {
       "episode_count": 2,
@@ -178898,9 +178930,9 @@
       "url": "/wiki/entities/julesrimet/"
     },
     "JuliaGillard": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2222829202 [GLT2222829202].md",
@@ -178908,9 +178940,16 @@
           "show": "The Rest Is History",
           "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
           "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        },
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/juliagillard/"
     },
     "JulieGottman": {
@@ -225292,9 +225331,9 @@
       "url": "/wiki/concepts/morallearningthroughdisillusionment/"
     },
     "MoralLicensing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639 [default.mp3_ywr3ahjkcgo_8ba2ac9ba457581786d577922ac762fc_50949639].md",
@@ -225302,9 +225341,16 @@
           "show": "Hidden Brain",
           "title": "When Doing Right Feels Wrong",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639-default-mp3-ywr3ahjkcgo-8ba2ac9ba457581786d577922ac762fc-50949639/"
+        },
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/morallicensing/"
     },
     "MoralMentorshipTalentCultivation": {
@@ -282263,6 +282309,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/roydisney/"
     },
+    "RoyalAcademy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/royalacademy/"
+    },
     "RoyalAirForce": {
       "episode_count": 2,
       "show_count": 1,
@@ -313167,6 +313229,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/symboliccreativerestitution/"
     },
+    "SymbolicInclusionWithoutStructuralChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/symbolicinclusionwithoutstructuralchange/"
+    },
     "SymbolicReconciliationStatecraft": {
       "episode_count": 2,
       "show_count": 2,
@@ -319997,6 +320075,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/thereunionsfilm/"
     },
+    "TheRollCall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/therollcall/"
+    },
     "TheRollingStones": {
       "episode_count": 2,
       "show_count": 1,
@@ -324499,9 +324593,9 @@
       "url": "/wiki/concepts/tokentaxonai/"
     },
     "Tokenism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Hug_Heard_Round_the_World [The_Hug_Heard_Round_the_World].md",
@@ -324509,6 +324603,13 @@
           "show": "Revisionist History",
           "title": "The Hug Heard Round the World",
           "url": "/wiki/sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world/"
+        },
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
         }
       ],
       "updated": "2026-11-17",
@@ -325313,9 +325414,9 @@
       "url": "/wiki/entities/tonyacrcloud/"
     },
     "TonyAbbott": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2222829202 [GLT2222829202].md",
@@ -325323,9 +325424,16 @@
           "show": "The Rest Is History",
           "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
           "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        },
+        {
+          "episode_file": "The_Lady_Vanishes [The_Lady_Vanishes].md",
+          "key": "the-lady-vanishes-the-lady-vanishes",
+          "show": "Revisionist History",
+          "title": "The Lady Vanishes",
+          "url": "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/tonyabbott/"
     },
     "TonyBenn": {

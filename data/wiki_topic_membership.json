@@ -30753,6 +30753,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DanielEffron": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DanielEk": [
     {
       "key": "technology",
@@ -82467,6 +82474,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RoyalAcademy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RoyalAnimalSpectacle": [
     {
       "key": "politics",
@@ -116432,6 +116446,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "the-lady-vanishes-the-lady-vanishes": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "the-latest-tv-innovations-have-their-critics": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14782
+wiki_total_pages: 14786
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "RoySeiders"
     title: "Roy Seiders"
     url: "/wiki/entities/royseiders/"
+  - key: "RoyalAcademy"
+    title: "Royal Academy"
+    url: "/wiki/entities/royalacademy/"
   - key: "RoyalAirForce"
     title: "Royal Air Force"
     url: "/wiki/entities/royalairforce/"

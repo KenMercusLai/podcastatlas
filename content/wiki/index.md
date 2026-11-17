@@ -5361,8 +5361,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Divide and Conquer](sources/divide-and-conquer-divide-and-conquer.md) — Revisionist History connects Article IV grammar, West Virginia statehood, Texas's 1845 advance consent, and the map-dependent Senate consequences of dividing Texas into five states.
 - [Malcolm Gladwell Debates Adam Grant](sources/malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant.md) — Live Revisionist History debate on specificity and surprise, context-dependent performance, organizational fit, career novelty, automation, and institutional purpose.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
+- [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Elizabeth Thompson](entities/ElizabethThompson.md) — British painter whose national success with The Roll Call did not secure Royal Academy membership or a durable path for later women.
+- [Daniel Effron](entities/DanielEffron.md) — Psychologist supplying the episode's conditional account of moral licensing and prejudice after prior evidence of fairness.
+- [Royal Academy](entities/RoyalAcademy.md) — British art institution whose acclaim for Thompson's work coexisted with continued male control of membership.
+- [The Roll Call](entities/TheRollCall.md) — Thompson's 1874 Crimean War painting and the breakthrough work that became a national sensation.
 - [Mai Elliott](entities/MaiElliott.md) — Vietnamese RAND interviewer whose family displacement, field encounters, and delayed reassessment reveal both the force and revisability of interpretive commitments.
 - [Leon Goure](entities/LeonGoure.md) — RAND project leader whose refugee formation, morale analysis, and policy advocacy supported an approaching-collapse interpretation in Vietnam.
 - [Conrad Kellen](entities/ConradKellen.md) — RAND dissenter who read durable Viet Cong resolve in the interview archive and judged the American war unwinnable.
@@ -20243,6 +20248,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Symbolic Inclusion Without Structural Change](concepts/SymbolicInclusionWithoutStructuralChange.md) — Pattern in which a celebrated outsider or milestone demonstrates openness while repeated access, authority, treatment, and succession remain largely unchanged.
 - [Granovetter Threshold Model](concepts/GranovetterThresholdModel.md) — Actor-level model in which adoption depends on how much visible peer participation a person requires before joining.
 - [Talent Fragility Under Disadvantage](concepts/TalentFragilityUnderDisadvantage.md) — Principle that ability requires material, relational, and institutional protection to survive long enough to become recognized achievement.
 - [Early Opportunity Intervention](concepts/EarlyOpportunityIntervention.md) — Sustained childhood support that addresses academic, material, navigational, and continuity barriers before college recruitment.

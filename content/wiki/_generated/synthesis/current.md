@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-11-15
-as_of_overview_commit: edcdc6060cea8c8a6b802e58b7413e948642ea05
+as_of_overview_commit: e7cfb7209d61f9d6d4bb98e15584a73c2c2a33bc
 summary: "Reliable knowledge and durable action depend on context, evidence, institutional capacity, human judgment, and clear boundaries between claims, tools, and outcomes."
-episode_count: 5111
-source_count: 5111
+episode_count: 5235
+source_count: 5235
 paragraph_count: 811
 topic_count: 9
 ---
@@ -82,7 +82,7 @@ Public literacy should keep mechanisms, measurement, uncertainty, urgent escalat
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on effort, feedback, relationships, routines, role boundaries, protected access, and human judgment; distributed kindness complements durable institutions.
+Learning and social capacity depend on effort, feedback, relationships, routines, role boundaries, protected access, and human judgment.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3591
+topic_total_pages: 3592
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -10125,6 +10125,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176"
     title: "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
+  - key: "the-lady-vanishes-the-lady-vanishes"
+    title: "The Lady Vanishes"
+    url: "/wiki/sources/the-lady-vanishes-the-lady-vanishes/"
   - key: "the-leaked-tapes-that-show-how-the-rich-avoid-taxes"
     title: "The leaked tapes that show how the rich avoid taxes"
     url: "/wiki/sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes/"

@@ -43105,3 +43105,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Lady Vanishes
+
+Added the 2016 [[RevisionistHistory]] episode connecting [[ElizabethThompson|Elizabeth Thompson's]] celebrated military painting [[TheRollCall|The Roll Call]] with [[JuliaGillard|Julia Gillard's]] historic premiership. Created focused profiles for Thompson, [[DanielEffron]], the [[RoyalAcademy|Royal Academy]], and the painting, created [[SymbolicInclusionWithoutStructuralChange]], and resynthesized Gillard, [[TonyAbbott]], [[MoralLicensing]], and [[Tokenism]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: a breakthrough can be real without becoming a structural transition. Thompson's acclaim did not secure Academy membership or a peer pathway for women, while Gillard's election coexisted with gendered abuse and the burden of fearing that ordinary vulnerability would be generalized to all women. Moral licensing may let prior support for an outsider function as evidence of fairness, while tokenism explains the visibility and representative burden created by numerical isolation.
+
+No settled contradiction was adopted. Jackie Robinson's episode-reported cascading breakthrough preserves the alternative in which a first entry widens participation. Moral licensing is plausible but not exclusive; institutional incentives, misogyny, media culture, political conflict, and token isolation may also explain the cases. The supplied file is a structured episode summary rather than a transcript, Academy archive, original experiment, political record, or independent historical study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[BarackObama]], [[HillaryClinton]], and [[JackieRobinson]] profiles remained closed because the focused pages capture the durable additions without reopening large unchanged inventories.
+
+Downstream synthesis found no dirty controlled topic; the max-age gate triggered global compaction, resetting pending ingests to zero. Refreshed artifacts validate 5,235 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
