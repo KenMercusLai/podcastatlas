@@ -142,6 +142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Welcome to Development Hell](sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Malcolm Gladwell introduces Development Hell as a mini-series about unseen creative work, high-risk development, and the grief and value attached to unproduced films.
 - [《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？](sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c.md) — 芮淇讲透资治通鉴以侯音之乱和定军山之战串联征敛压力、无计划反抗、兵力调动、统帅暴露及败后指挥恢复。
 - [《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱](sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu.md) — 芮淇讲透资治通鉴以夏侯渊之死、刘备长期对峙、赵云疑兵、曹操撤出汉中及张既迁民方案，讨论角色转换、心理威慑与战略缓冲。
+- [《资治通鉴·汉纪》1167丨不懂审时度势，只会自取灭亡](sources/zizhi-tongjian-hanji-1167-budong-shenshi-duoshi-zhihui-ziqu-miewang-llr4vejetnx3dxjngwauadp-oznb.md) — 芮淇讲透资治通鉴以魏讽谋反、钟繇受责和杜袭阻止曹操因怒兴师，讨论时机、举荐责任及保全面子的劝谏。
 - [《资治通鉴·汉纪》1168丨做人太傲真的必招祸吗？](sources/zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad.md) — 芮淇讲透资治通鉴以关羽北进、曹孙协调、吕蒙称病和陆逊示弱，讨论联盟反转、长江战略、信息保密及对手性格弱点利用。
 - [Blink with Stephen Gaghan | Development Hell](sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell.md) — Stephen Gaghan and Malcolm Gladwell use an unproduced screenplay to examine truth-reading, paternal approval, corporate predation, star attachment, grief, and revival after development stops.
 - [The Variable Man with Gary Goldman and Angus Fletcher | Development Hell](sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle.md) — Gary Goldman and Angus Fletcher use an unproduced Philip K. Dick adaptation to test AI prediction, free will, audience reasoning, and trusted-director financing.
@@ -5373,6 +5374,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [魏讽 / Wei Feng (late Han)](entities/WeiFengLateHan.md) — 以才名获钟繇举荐，却因邺城谋反计划被陈祎提前告发而败亡的东汉末官员。
+- [陈祎 / Chen Yi (Changle commandant)](entities/ChenYiChangleWeiwei.md) — 被魏讽吸收进谋反计划、后向曹丕告发并使行动未发即败的长乐卫尉。
+- [许攸 / Xu You (Guanzhong camp commander)](entities/XuYouGuanzhongCommander.md) — 抗拒曹操命令并触发讨伐冲动、后在杜袭劝谏下通过封赏重归服从的关中营帅，与官渡许攸有别。
 - [Ali Ghodsi](entities/AliGhodsi.md) — Databricks co-founder and CEO focused on enterprise context, agentic management, deployment constraints, and practical AI-risk boundaries.
 - [Databricks Genie](entities/DatabricksGenie.md) — Organizational-context analytics product used to connect people, workflows, meetings, metrics, customer requests, and decisions.
 - [Takehiko Nakao / 中尾武彦](entities/TakehikoNakao.md) — Former Japanese finance official and ADB president connecting monetary normalization, development finance, and host-country-centered globalization.
@@ -12272,7 +12276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [袁涣 / Yuan Huan (late Han)](entities/YuanHuanLateHan.md) — Late-Han official whose refusal to slander Liu Bei extends into cross-regime gratitude, material restraint, and independence from court sentiment.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
 - [华阴 / Huayin (late Han)](entities/HuayinLateHan.md) — Corridor site where Emperor Xian reaches Duan Wei's supplies and where route control, rumor, and survival politics converge.
-- [杜袭 / Du Xi (late Han)](entities/DuXiLateHan.md) — Yingchuan refugee who warns that Liu Biao's hospitality should not become premature talent exposure or final allegiance.
+- [杜袭 / Du Xi (late Han)](entities/DuXiLateHan.md) — 从荆州避乱时的藏器待时建议，延伸到定军山败后指挥恢复及阻止曹操因辱兴师的颍川官员。
 - [赵俨 / Zhao Yan (late Han)](entities/ZhaoYanLateHan.md) — 从朗陵执法、阳安财政风险调解延伸到于禁乐进两军协调的颍川官员。
 - [阳安 / Yang'an (late Han)](entities/YangAnLateHan.md) — Loyal but exposed late-Han locality where Zhao Yan and Li Tong pause cotton-silk collection to preserve stability.
 - [繁钦 / Fan Qin (late Han)](entities/FanQinLateHan.md) — Talented Yingchuan refugee whose visible brilliance before Liu Biao becomes the cautionary side of concealed capability timing.
@@ -12315,7 +12319,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汝南郡 / Runan Commandery (late Han)](entities/RunanCommanderyLateHan.md) — Pre-Guandu local allegiance field where Yellow Turban remnants answer Yuan Shao and pressure Cao-aligned Li Tong.
 - [刘辟 / Liu Pi (Runan late Han)](entities/LiuPiRunanLateHan.md) — Runan Yellow Turban remnant whose Yuan Shao-aligned recruitment pressure tests Li Tong's Cao allegiance.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family resource contributor and battlefield rescuer whose later client network tests law over kinship.
-- [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao-side official whose profile joins Chang'an appointment persuasion, Xun Yu's talent chain, Guanzhong stabilization, and the Pingyang defeat of Guo Yuan.
+- [钟繇 / Zhong Yao](entities/ZhongYao.md) — 连接长安任命斡旋、关中稳定和平阳作战，又因误荐魏讽而承担政治责任的曹营官员。
 - [马腾 / Ma Teng](entities/MaTeng.md) — 从凉州起兵、关中博弈和河东援军合作走向208年入朝、兵权交子与家属迁邺的西部军事领袖。
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
 - [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
@@ -13190,7 +13194,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
 - [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include early purge-leakage warnings, Cao Song revenge, Xuzhou/Yanzhou, legitimacy-window seizure, adviser intake,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
-- [曹丕 / Cao Pi](entities/CaoPi.md) — 曹操继承人，以日常履职、低失误等待和顾问塑造赢得托付，但获立后的狂喜又限定其自制力叙事。
+- [曹丕 / Cao Pi](entities/CaoPi.md) — 曹操继承人，以日常履职与低失误赢得托付，并在魏讽案中依告发提前镇压邺城谋反。
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose vulnerable but recognized title lets Cao Cao seize a legitimacy window and later use the Xu court to manage Yuan Shao, Yuan Shu, and old-Han ministers.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
 - [公子虔 / Gongzi Qian](entities/GongziQian.md) — Qin figure whose faction accuses Shang Yang after Qin Xiao Gong's death, turning reform backlash into Shang Yang's flight.
@@ -21789,7 +21793,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Asset-Qualified Official Entry / 赀选式财产资格入仕](concepts/AssetQualifiedOfficialEntry.md) — 以家庭财产验证入仕资格并承担任官成本、同时保留身份品行与才能筛选的选官通道，区别于直接买官。
 - [肉刑执行减害 / Corporal Punishment Harm Reduction](concepts/CorporalPunishmentHarmReduction.md) — 在保留肉刑的前提下，同时降低刑量并规范刑具、施打部位与执行程序，以减少死亡和残疾风险。
 - [Accusation Response Restraint / 诬陷回应克制](concepts/AccusationResponseRestraint.md) — 不让每一项误解或恶意指控立即支配行动的克制策略，其适用性取决于证据、权力、制度与他人风险。
-- [举荐问责式选才 / Recommendation-Accountability Talent Selection](concepts/RecommendationAccountabilityTalentSelection.md) — 让高级官员发现并推荐人才，再以被荐者表现反向奖惩举荐人，并与能力考试、德行考察和职位配置结合的选才机制。
+- [举荐问责式选才 / Recommendation-Accountability Talent Selection](concepts/RecommendationAccountabilityTalentSelection.md) — 让举荐者对被荐者表现承担奖惩或政治信用后果，同时警惕结果偏差、保守筛选与可预测性边界的选才机制。
 - [官吏不与民争生计 / Official Noncompetition with Popular Livelihoods](concepts/OfficialLivelihoodNoncompetition.md) — 以公共俸禄和职位义务约束官吏利用权势参与生产经营、挤压普通家庭生计的角色伦理。
 - [教化先于刑法 / Moral Education Before Punishment](concepts/MoralEducationBeforePunishment.md) — 以君主和官吏示范、学校育才、礼乐风俗与地方落实在上游塑造行为，同时保留刑法的威慑和问责角色。
 - [策问式选才 / Imperial Policy-Questioning Talent Selection](concepts/ImperialPolicyQuestioningTalentSelection.md) — 推荐打开候选池、帝王策问检验治国论述，并把学术声望接入国家政策场域的选才机制。
@@ -25648,7 +25652,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [边疆征发反噬 / Frontier Conscription Backfire](concepts/FrontierConscriptionBackfire.md) — Pattern where distant frontier levies or auxiliary requisitions destabilize fragile recruiting bases or allied groups and produce new desertion, rebellion, or legitimacy crises.
 - [州牧集权与地方割据 / Provincial Shepherd Autonomy](concepts/ProvincialShepherdAutonomy.md) — Hanji 959 institutional pattern where stronger provincial governorship stabilizes local crisis while enabling practical autonomy.
 - [Strategic Pass Control / 兵家必争通道控制](concepts/StrategicPassControl.md) — Hanji 959 route-control pattern where strategic location, resources, and transport convert terrain into military and political leverage.
-- [Concealed Capability Timing / 藏器待时](concepts/ConcealedCapabilityTiming.md) — Late-Han survival rule for keeping ability hidden until timing, patron quality, and opportunity make action survivable.
+- [Concealed Capability Timing / 藏器待时](concepts/ConcealedCapabilityTiming.md) — 以能力积累、环境判断和联盟保密等待可行动时机，并由魏讽未发先败提供负面边界的生存策略。
 - [危局迁徙判断 / Crisis Migration Judgment](concepts/CrisisMigrationJudgment.md) — Hanji 960 pattern where Xun Yu reads Yingchuan's war exposure and moves kin before danger becomes consensus.
 - [盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry](concepts/ShieldCrossbowAntiCavalry.md) — Jieqiao battle tactic where shielded infantry and strong crossbows reverse cavalry momentum.
 - [Privateering Plausible Deniability](concepts/PrivateeringPlausibleDeniability.md) — Elizabethan pattern where a ruler encourages or benefits from raiding while preserving formal diplomatic denial.
@@ -26304,7 +26308,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
 - [不斩来使 / Envoy Killing Taboo](concepts/EnvoyKillingTaboo.md) — Diplomatic norm that makes killing an envoy a costly violation and potential war pretext.
 - [受任地方长官割据风险 / Appointed Governor Secession Risk](concepts/AppointedGovernorSecessionRisk.md) — Post-conquest governance risk where a centrally appointed local official uses terrain, resources, and delegated authority to attempt independent rule.
-- [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
+- [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — 羞辱取代战略目标而选择战争，并可通过利益、身份和低成本服从方案重新校正的决策失误。
 - [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — 以孟子、项羽和“天子无过”三类案例区分实际纠错、归因自保与制度化面子维护。
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom stories against period fit, evidence, and reputation effects, from "二百五" to Ye Gong Hao Long.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian durable-rule claim now kept explicitly comparative: Liu Bang can massacre at Yingchuan yet gains advantage by shifting to pacification at Wan.

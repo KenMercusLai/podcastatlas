@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14799
+wiki_total_pages: 14802
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2942,6 +2942,9 @@ wiki_pages:
   - key: "ChenJiaoLateHan"
     title: "陈矫 / Chen Jiao (late Han)"
     url: "/wiki/entities/chenjiaolatehan/"
+  - key: "ChenYiChangleWeiwei"
+    title: "陈祎 / Chen Yi (Changle commandant)"
+    url: "/wiki/entities/chenyichangleweiwei/"
   - key: "ChenLiWesternHan"
     title: "陈立 / Chen Li (Western Han)"
     url: "/wiki/entities/chenliwesternhan/"

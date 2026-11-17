@@ -43244,3 +43244,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | 《资治通鉴·汉纪》1167丨不懂审时度势，只会自取灭亡
+
+Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode pairing [[WeiFengLateHan|魏讽]]'s failed 219 CE Ye conspiracy with [[DuXiLateHan|杜袭]]'s intervention against [[CaoCao|曹操]]'s proposed punitive campaign. Created disambiguated pages for Wei Feng, informer [[ChenYiChangleWeiwei|陈祎]], and [[XuYouGuanzhongCommander|the Guanzhong commander 许攸]], keeping the latter separate from [[XuYouLateHan|the famous Guandu adviser]].
+
+Resynthesized [[CaoPi|曹丕]], [[ZhongYao|钟繇]], Du Xi, [[ConcealedCapabilityTiming|藏器待时]], [[RecommendationAccountabilityTalentSelection|举荐问责式选才]], and [[AngerDrivenWarDecision|因怒兴师]] from each page's complete preserved evidence inventory before appending the new source once. The focused pages now connect pre-action conspiracy suppression, recommender liability, coalition exposure, and status-preserving remonstrance. Broad Cao Cao and automatic `wiki/overview.md` profiles remained closed because the focused pages capture the durable additions without reopening a very large unchanged inventory or manually rewriting derived synthesis.
+
+No settled contradiction was adopted. The episode's thousands-scale execution claim, reconstructed dialogue and inner motives, Zhong Yao's precise legal responsibility, Cao Pi's purge boundary, Xu You's threat level, and the durability of his reported submission remain source-scoped because the supplied file is a structured summary rather than a transcript, primary-text edition, or cited historical study.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,245 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

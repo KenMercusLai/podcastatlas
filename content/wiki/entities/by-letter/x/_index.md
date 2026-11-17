@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 14799
+wiki_total_pages: 14802
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "XuZhenhua"
     title: "许振华 / Xu Zhenhua"
     url: "/wiki/entities/xuzhenhua/"
+  - key: "XuYouGuanzhongCommander"
+    title: "许攸 / Xu You (Guanzhong camp commander)"
+    url: "/wiki/entities/xuyouguanzhongcommander/"
   - key: "XuYouLateHan"
     title: "许攸 / Xu You (late Han)"
     url: "/wiki/entities/xuyoulatehan/"
