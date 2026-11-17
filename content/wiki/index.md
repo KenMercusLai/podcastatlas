@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Introducing Revisionist History Season Five](sources/introducing-revisionist-history-season-five.md) — Season-five trailer previewing parental joy, moral memory, action under uncertainty, museums, collecting, beauty, and the later episodes that develop those themes.
 - [Hedwig’s Lost Van Gogh](sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh.md) — Revisionist History connects Van Gogh authentication, Hedwig Ullmann’s forced exile, descendant memory, museum collection review, and the gap between legal title and moral restitution.
 - [The Powerball Revolution](sources/the-powerball-revolution-the-powerball-revolution.md) — Revisionist History connects Bolivian student-council lotteries, weak leadership prediction, NIH grant-score calibration, and threshold-then-lottery institutional design.
 - [The Bomber Mafia](sources/the-bomber-mafia-the-bomber-mafia.md) — Revisionist History introduces the precision-bombing doctrine, LeMay's evidence-led command, the B-29 promise, and the risk that technological mastery narrows moral judgment.

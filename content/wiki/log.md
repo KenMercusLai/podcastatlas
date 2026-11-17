@@ -42382,3 +42382,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Introducing Revisionist History Season Five
+
+Added a short [[RevisionistHistory]] season-five trailer in which [[MalcolmGladwell]] uses “yuchas” as playful framing for a season spanning parental joy, moral memory, action under uncertainty, museums, collecting, and beauty. Connected its preview fragments to the later full treatments in [[dragon-psychology-101-dragon-psychology-101|Dragon Psychology 101]], [[hamlet-was-wrong-hamlet-was-wrong|Hamlet Was Wrong]], [[oh-howard-you-idiot-oh-howard-you-idiot|Oh, Howard, You Idiot!]], and [[a-memorial-for-the-living-a-memorial-for-the-living|A Memorial for the Living]].
+
+No settled contradiction was adopted. The “yuchas” framing remains promotional wordplay, the action-versus-vacillation excerpt does not establish a general decision rule, and references to Hughes, van Gogh, Smaug, Warhol, museums, suffering, and beauty remain preview fragments whose evidentiary burden belongs to the full episodes. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because the trailer adds no durable biographical claim and downstream synthesis owns the global overview.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,184 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
