@@ -7136,6 +7136,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/awplanet/"
     },
+    "AWonderfulCountry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/awonderfulcountry/"
+    },
     "AXiuXiakeXing": {
       "episode_count": 1,
       "show_count": 1,
@@ -65140,9 +65156,9 @@
       "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
     },
     "CompromisedNarratorSatire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
@@ -65157,6 +65173,13 @@
           "show": "Revisionist History",
           "title": "Good Old Boys",
           "url": "/wiki/sources/good-old-boys-good-old-boys/"
+        },
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
         }
       ],
       "updated": "2026-11-17",
@@ -85598,6 +85621,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/discobacklash/"
+    },
+    "DiscomfortPreservingSatire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/discomfortpreservingsatire/"
     },
     "Discord": {
       "episode_count": 2,
@@ -143540,6 +143579,22 @@
       "updated": "2026-10-26",
       "url": "/wiki/entities/heatherhasson/"
     },
+    "HeatherLaMar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/heatherlamar/"
+    },
     "HeatherNelson": {
       "episode_count": 1,
       "show_count": 1,
@@ -199266,6 +199321,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/lizwalters/"
+    },
+    "Loadsamoney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/loadsamoney/"
     },
     "LocalAIFrameworkStack": {
       "episode_count": 1,
@@ -285676,6 +285747,22 @@
       "updated": "2026-11-09",
       "url": "/wiki/concepts/satelliteheatsignatureconflictmonitoring/"
     },
+    "SatireReceptionParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/satirereceptionparadox/"
+    },
     "SatisficingDecisionStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -305685,6 +305772,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/stephenchow/"
+    },
+    "StephenColbertSatiricalPersona": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Satire_Paradox [The_Satire_Paradox].md",
+          "key": "the-satire-paradox-the-satire-paradox",
+          "show": "Revisionist History",
+          "title": "The Satire Paradox",
+          "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/stephencolbertsatiricalpersona/"
     },
     "StephenCopley": {
       "episode_count": 1,

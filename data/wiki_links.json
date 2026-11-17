@@ -6999,6 +6999,10 @@
     "title": "AWPlanet",
     "url": "/wiki/entities/awplanet/"
   },
+  "AWonderfulCountry": {
+    "title": "A Wonderful Country",
+    "url": "/wiki/entities/awonderfulcountry/"
+  },
   "AXiuXiakeXing": {
     "title": "阿秀（侠客行） / A Xiu",
     "url": "/wiki/entities/axiuxiakexing/"
@@ -29891,6 +29895,10 @@
     "title": "Disco Backlash",
     "url": "/wiki/concepts/discobacklash/"
   },
+  "DiscomfortPreservingSatire": {
+    "title": "Discomfort-Preserving Satire",
+    "url": "/wiki/concepts/discomfortpreservingsatire/"
+  },
   "Discord": {
     "title": "Discord",
     "url": "/wiki/entities/discord/"
@@ -45110,6 +45118,10 @@
   "HeatherHasson": {
     "title": "Heather Hasson",
     "url": "/wiki/entities/heatherhasson/"
+  },
+  "HeatherLaMar": {
+    "title": "Heather LaMar",
+    "url": "/wiki/entities/heatherlamar/"
   },
   "HeatherNelson": {
     "title": "Heather Nelson",
@@ -60510,6 +60522,10 @@
   "Llama": {
     "title": "Llama",
     "url": "/wiki/entities/llama/"
+  },
+  "Loadsamoney": {
+    "title": "Loadsamoney",
+    "url": "/wiki/entities/loadsamoney/"
   },
   "LoanCapAccessRisk": {
     "title": "Loan Cap Access Risk",
@@ -85699,6 +85715,10 @@
     "title": "Satellite Heat-Signature Conflict Monitoring",
     "url": "/wiki/concepts/satelliteheatsignatureconflictmonitoring/"
   },
+  "SatireReceptionParadox": {
+    "title": "Satire Reception Paradox",
+    "url": "/wiki/concepts/satirereceptionparadox/"
+  },
   "SatiricalGroupPortrait": {
     "title": "Satirical Group Portrait",
     "url": "/wiki/concepts/satiricalgroupportrait/"
@@ -91614,6 +91634,10 @@
   "StephenCohen": {
     "title": "Stephen Cohen",
     "url": "/wiki/entities/stephencohen/"
+  },
+  "StephenColbertSatiricalPersona": {
+    "title": "Stephen Colbert's Satirical Persona",
+    "url": "/wiki/entities/stephencolbertsatiricalpersona/"
   },
   "StephenCopley": {
     "title": "Stephen Copley",
@@ -118538,6 +118562,10 @@
   "the-road-to-damascus-the-road-to-damascus": {
     "title": "The Road to Damascus",
     "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
+  },
+  "the-satire-paradox-the-satire-paradox": {
+    "title": "The Satire Paradox",
+    "url": "/wiki/sources/the-satire-paradox-the-satire-paradox/"
   },
   "the-science-art-of-comedy-creativity-tom-segura-scim7538555033": {
     "title": "The Science & Art of Comedy & Creativity | Tom Segura",

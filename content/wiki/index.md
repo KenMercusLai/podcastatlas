@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Satire Paradox](sources/the-satire-paradox-the-satire-paradox.md) — Revisionist History separates satire's reach from persuasion through divergent audience interpretation, comic release, target-softening, and discomfort-preserving alternatives.
 - [Introducing Revisionist History Season Two](sources/introducing-revisionist-history-season-two.md) — Season-two trailer using Heraclitus and the Ship of Theseus to frame identity through change while leaving the proposed common thread open to disagreement.
 - [A Good Walk Spoiled](sources/a-good-walk-spoiled-a-good-walk-spoiled.md) — Revisionist History connects private Los Angeles golf land, layered property-tax preferences, gradual ownership change, and scheduled public access.
 - [The Road to Damascus](sources/the-road-to-damascus-the-road-to-damascus.md) — Revisionist History examines how legitimate CIA accountability and press scrutiny exposed an atoning former terrorist whose intelligence had helped locate Carlos the Jackal.
@@ -5354,6 +5355,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Heather LaMar](entities/HeatherLaMar.md) — Communications scholar whose reported Colbert study separates shared laughter from shared political interpretation.
+- [Stephen Colbert's Satirical Persona](entities/StephenColbertSatiricalPersona.md) — Performed conservative television host whose ambiguity widened appeal while enabling opposed ideological readings.
+- [Loadsamoney](entities/Loadsamoney.md) — Thatcher-era construction-worker caricature used by both critics and supporters of the politics it was designed to mock.
+- [A Wonderful Country](entities/AWonderfulCountry.md) — Israeli political-satire program presented as letting laughter give way to clear political pain and consequence.
 - [Brentwood Country Club](entities/BrentwoodCountryClub.md) — Private Los Angeles golf club used to make scarce-land exclusion, low observed use, and reciprocal public access concrete.
 - [Bob Hope](entities/BobHope.md) — Entertainer and golfer who served as the public face of California's 1960 golf-course valuation campaign.
 - [Mark Cohen](entities/MarkCohen.md) — Philosopher connecting Heraclitus’s river to the Ship of Theseus and applying competing persistence theories to gradual club ownership change.
@@ -20206,6 +20211,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Satire Reception Paradox](concepts/SatireReceptionParadox.md) — Trade-off in which ambiguity broadens comic appeal while allowing audiences to preserve incompatible political interpretations.
+- [Discomfort-Preserving Satire](concepts/DiscomfortPreservingSatire.md) — Humor that draws audiences in while keeping its target, harm, and political consequences emotionally present.
 - [Ship of Theseus](concepts/ShipOfTheseus.md) — Persistence problem exposing competing identity criteria under gradual component replacement across philosophy, institutions, and technology.
 - [Golf-Course Property-Tax Preference](concepts/GolfCoursePropertyTaxPreference.md) — Interaction of current-use golf-course valuation, Proposition 13 assessment continuity, and ownership-change rules.
 - [Press–Intelligence Disclosure Dilemma](concepts/PressIntelligenceDisclosureDilemma.md) — conflict between reporting on secret-state misconduct and exposing a human source through distinctive operational detail.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14754
+wiki_total_pages: 14758
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "LMSYS"
     title: "LM-SYS"
     url: "/wiki/entities/lmsys/"
+  - key: "Loadsamoney"
+    title: "Loadsamoney"
+    url: "/wiki/entities/loadsamoney/"
   - key: "Loblaw"
     title: "Loblaw"
     url: "/wiki/entities/loblaw/"

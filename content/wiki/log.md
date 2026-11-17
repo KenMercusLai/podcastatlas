@@ -42983,3 +42983,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Satire Paradox
+
+Added the 2016 [[RevisionistHistory]] episode separating political satire's cultural reach from its persuasive and political effects. Created focused profiles for [[HeatherLaMar]], [[StephenColbertSatiricalPersona|Stephen Colbert's satirical persona]], [[Loadsamoney]], and [[AWonderfulCountry|A Wonderful Country]], plus [[SatireReceptionParadox]] and [[DiscomfortPreservingSatire]], then resynthesized [[CompromisedNarratorSatire]] from its complete preserved source inventory before appending the new source once.
+
+Core synthesis: ambiguous satire can attract opposed audiences without giving them a shared account of its target. Prior commitments shape perceived alignment, attention to joke mechanics can displace evaluation of the claim, and laughter can provide release, resignation, or affection for the target. The episode's preferred alternative uses humor as an entry rather than an exit: the accusation and human consequence remain legible after amusement fades.
+
+No settled contradiction was adopted. The source emphasizes persuasion and action while giving less attention to solidarity, dissent, agenda-setting, morale, and protection through ambiguity. Its case studies remain episode-scoped because the supplied file omits the underlying studies, transcripts, samples, effect sizes, longitudinal measures, and independent evidence of political change. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MotivatedBias]], [[ControlledHumorWithPain]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,226 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide ingest checker still reports 61 pre-existing broken links outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

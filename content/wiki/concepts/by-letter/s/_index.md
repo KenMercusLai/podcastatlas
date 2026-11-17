@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11707
+wiki_total_pages: 11709
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "SatelliteHeatSignatureConflictMonitoring"
     title: "Satellite Heat-Signature Conflict Monitoring"
     url: "/wiki/concepts/satelliteheatsignatureconflictmonitoring/"
+  - key: "SatireReceptionParadox"
+    title: "Satire Reception Paradox"
+    url: "/wiki/concepts/satirereceptionparadox/"
   - key: "SatiricalGroupPortrait"
     title: "Satirical Group Portrait"
     url: "/wiki/concepts/satiricalgroupportrait/"

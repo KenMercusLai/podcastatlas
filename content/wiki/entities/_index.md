@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14754
+wiki_total_pages: 14758
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "AVisitFromStNicholas"
     title: "A Visit from St. Nicholas"
     url: "/wiki/entities/avisitfromstnicholas/"
+  - key: "AWonderfulCountry"
+    title: "A Wonderful Country"
+    url: "/wiki/entities/awonderfulcountry/"
   - key: "AOHostels"
     title: "A&O Hostels"
     url: "/wiki/entities/aohostels/"
