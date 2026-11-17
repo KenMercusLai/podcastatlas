@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14682
+wiki_total_pages: 14685
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "RonHash"
     title: "Ron Hash"
     url: "/wiki/entities/ronhash/"
+  - key: "RonMartinelli"
+    title: "Ron Martinelli"
+    url: "/wiki/entities/ronmartinelli/"
   - key: "RonShaich"
     title: "Ron Shaich"
     url: "/wiki/entities/ronshaich/"

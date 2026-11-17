@@ -19759,6 +19759,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/entities/anfumarket/"
     },
+    "AngelNavarro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
+          "key": "descend-into-the-particular-descend-into-the-particular",
+          "show": "Revisionist History",
+          "title": "Descend into the Particular",
+          "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/angelnavarro/"
+    },
     "AngelOakSmokehouse": {
       "episode_count": 1,
       "show_count": 1,
@@ -66063,6 +66079,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/considertheoppositebiascorrection/"
     },
+    "ConsolationBeyondLiability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
+          "key": "descend-into-the-particular-descend-into-the-particular",
+          "show": "Revisionist History",
+          "title": "Descend into the Particular",
+          "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/consolationbeyondliability/"
+    },
     "ConsortHeirSecuritySpiral": {
       "episode_count": 1,
       "show_count": 1,
@@ -111293,6 +111325,22 @@
       ],
       "updated": "2026-11-10",
       "url": "/wiki/entities/felipechengdurongcheng/"
+    },
+    "FelipeNavarro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
+          "key": "descend-into-the-particular-descend-into-the-particular",
+          "show": "Revisionist History",
+          "title": "Descend into the Particular",
+          "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/felipenavarro/"
     },
     "FelixHoffman": {
       "episode_count": 1,
@@ -244034,6 +244082,22 @@
       "updated": "2026-10-14",
       "url": "/wiki/concepts/participatorysinging/"
     },
+    "ParticularizedMoralDiscernment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
+          "key": "descend-into-the-particular-descend-into-the-particular",
+          "show": "Revisionist History",
+          "title": "Descend into the Particular",
+          "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/particularizedmoraldiscernment/"
+    },
     "PartisanFramingAcrossExposure": {
       "episode_count": 1,
       "show_count": 1,
@@ -279053,6 +279117,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/romulusaugustulus/"
     },
+    "RonMartinelli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
+          "key": "descend-into-the-particular-descend-into-the-particular",
+          "show": "Revisionist History",
+          "title": "Descend into the Particular",
+          "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ronmartinelli/"
+    },
     "RonShaich": {
       "episode_count": 1,
       "show_count": 1,
@@ -307294,6 +307374,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/suiyueasternhan/"
+    },
+    "SuicideByCopInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
+          "key": "descend-into-the-particular-descend-into-the-particular",
+          "show": "Revisionist History",
+          "title": "Descend into the Particular",
+          "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/suicidebycopinference/"
     },
     "SuicideRiskRecognitionAndSupport": {
       "episode_count": 2,

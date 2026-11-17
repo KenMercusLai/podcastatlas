@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11665
+wiki_total_pages: 11668
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2441,6 +2441,9 @@ wiki_pages:
   - key: "ConsiderTheOppositeBiasCorrection"
     title: "Consider-The-Opposite Bias Correction / 反向设想偏见校正"
     url: "/wiki/concepts/considertheoppositebiascorrection/"
+  - key: "ConsolationBeyondLiability"
+    title: "Consolation Beyond Liability"
+    url: "/wiki/concepts/consolationbeyondliability/"
   - key: "ConsortHeirSecuritySpiral"
     title: "Consort Heir Security Spiral / 后宫子嗣安全螺旋"
     url: "/wiki/concepts/consortheirsecurityspiral/"

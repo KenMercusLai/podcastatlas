@@ -42492,3 +42492,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Descend into the Particular
+
+Added a [[RevisionistHistory]] episode using the Ferguson investigations and [[AngelNavarro]]'s death to develop [[ParticularizedMoralDiscernment]], [[SuicideByCopInference]], and [[ConsolationBeyondLiability]]. Created focused profiles for Navarro, [[FelipeNavarro]], and [[RonMartinelli]].
+
+Core synthesis: individual liability, institutional legitimacy, inferred motive, tactical threat perception, grief, and possible officer trauma answer different questions and can coexist without becoming equivalent. The Ferguson reports can both be accepted because one addresses evidence for prosecuting Darren Wilson while the other addresses a predatory municipal policing system. Navarro's behavior and private disclosures support serious consideration of a suicide-by-cop interpretation, but they do not directly prove his intention.
+
+No settled contradiction was adopted. The episode's “three victims” frame widens compassion without equalizing agency, loss, power, or responsibility. Martinelli's reconstruction, reaction-time demonstrations, prevalence estimate, private mental-health disclosures, exact shooting facts, and the episode's readings of the Justice Department reports remain source-scoped because the supplied file is a structured summary rather than a transcript, court record, investigative file, clinical record, primary research review, or full federal reports. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,192 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

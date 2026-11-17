@@ -10591,6 +10591,10 @@
     "title": "《暗眼小僧》 / Angan Kozo",
     "url": "/wiki/entities/angankozo/"
   },
+  "AngelNavarro": {
+    "title": "Angel Navarro",
+    "url": "/wiki/entities/angelnavarro/"
+  },
   "AngelOakSmokehouse": {
     "title": "Angel Oak Smokehouse",
     "url": "/wiki/entities/angeloaksmokehouse/"
@@ -24331,6 +24335,10 @@
     "title": "Consider-The-Opposite Bias Correction / 反向设想偏见校正",
     "url": "/wiki/concepts/considertheoppositebiascorrection/"
   },
+  "ConsolationBeyondLiability": {
+    "title": "Consolation Beyond Liability",
+    "url": "/wiki/concepts/consolationbeyondliability/"
+  },
   "ConsortHeirSecuritySpiral": {
     "title": "Consort Heir Security Spiral / 后宫子嗣安全螺旋",
     "url": "/wiki/concepts/consortheirsecurityspiral/"
@@ -36246,6 +36254,10 @@
   "FelipeChengduRongcheng": {
     "title": "菲利佩 / Felipe (Chengdu Rongcheng)",
     "url": "/wiki/entities/felipechengdurongcheng/"
+  },
+  "FelipeNavarro": {
+    "title": "Felipe Navarro",
+    "url": "/wiki/entities/felipenavarro/"
   },
   "FelixCollin": {
     "title": "Felix Collin",
@@ -73523,6 +73535,10 @@
     "title": "Participatory Singing",
     "url": "/wiki/concepts/participatorysinging/"
   },
+  "ParticularizedMoralDiscernment": {
+    "title": "Particularized Moral Discernment",
+    "url": "/wiki/concepts/particularizedmoraldiscernment/"
+  },
   "PartisanFramingAcrossExposure": {
     "title": "Partisan Framing Across Exposure",
     "url": "/wiki/concepts/partisanframingacrossexposure/"
@@ -83927,6 +83943,10 @@
     "title": "Ron Hash",
     "url": "/wiki/entities/ronhash/"
   },
+  "RonMartinelli": {
+    "title": "Ron Martinelli",
+    "url": "/wiki/entities/ronmartinelli/"
+  },
   "RonShaich": {
     "title": "Ron Shaich",
     "url": "/wiki/entities/ronshaich/"
@@ -92330,6 +92350,10 @@
   "SuiYuEasternHan": {
     "title": "隋昱 / Sui Yu (Eastern Han)",
     "url": "/wiki/entities/suiyueasternhan/"
+  },
+  "SuicideByCopInference": {
+    "title": "Suicide-by-Cop Inference",
+    "url": "/wiki/concepts/suicidebycopinference/"
   },
   "SuicideRiskRecognitionAndSupport": {
     "title": "Suicide-Risk Recognition and Support / 轻生风险识别与支持",
@@ -112182,6 +112206,10 @@
   "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652": {
     "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
     "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
+  },
+  "descend-into-the-particular-descend-into-the-particular": {
+    "title": "Descend into the Particular",
+    "url": "/wiki/sources/descend-into-the-particular-descend-into-the-particular/"
   },
   "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354": {
     "title": "Developing a Rational Approach to Supplementation for Health & Performance",

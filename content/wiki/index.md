@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Descend into the Particular](sources/descend-into-the-particular-descend-into-the-particular.md) — Revisionist History uses Ferguson and Angel Navarro's death to connect case-specific moral discernment, suicide-by-cop inference, police legitimacy, and compassion beyond liability.
 - [In a Metal Mood](sources/in-a-metal-mood-in-a-metal-mood.md) — Revisionist History uses Pat Boone, Little Richard, Elvis Presley, Georgia Gibbs, and Taco Bell to distinguish transformative borrowing from source-displacing imitation.
 - [Chutzpah vs. Chutzpah](sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah.md) — Revisionist History separates constructive audacity from self-serving shamelessness through Hollywood, organized crime, Israeli directness, and migrant-detention argument.
 - [Show 64 - Supernova in the East III](sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii.md) — Hardcore History connects Japan's opening Pacific strategy, Allied racialized underestimation, Force Z, Singapore's fall, MacArthur's command mythology, Bataan, and the death march.
@@ -5319,6 +5320,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 
 ## Entities
+- [Angel Navarro](entities/AngelNavarro.md) — Man whose fatal encounter with New Mexico State Police anchors the episode's inquiry into inferred suicidal purpose, threat perception, and grief.
+- [Felipe Navarro](entities/FelipeNavarro.md) — Brother who revises his initial account after seeing footage while preserving family memory, uncertainty, and loss.
+- [Ron Martinelli](entities/RonMartinelli.md) — Forensic criminologist whose tactical reconstruction supports, but cannot prove, a suicide-by-cop interpretation.
 - [Pat Boone](entities/PatBoone.md) — Crooner whose R&B covers and lounge-metal album anchor a contested case of displacement, discovery, and creative distance.
 - [Little Richard](entities/LittleRichard.md) — R&B and rock-and-roll performer whose changing assessment of Boone preserves both immediate harm and later audience discovery.
 - [Georgia Gibbs](entities/GeorgiaGibbs.md) — Singer used as the episode's close-copying comparison through her version of LaVern Baker's “Tweedle Dee.”
@@ -20098,6 +20102,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Gallo](entities/RobertGallo.md) — Human-retrovirus and T-cell researcher presented as a bridge from tumor virology to the early AIDS response.
 
 ## Concepts
+- [Particularized Moral Discernment](concepts/ParticularizedMoralDiscernment.md) — Practice of suspending ideological attachment long enough to judge the complete facts, context, and suffering of a concrete case.
+- [Suicide-by-Cop Inference](concepts/SuicideByCopInference.md) — Qualified reconstruction that threatening conduct was intended to provoke lethal police force, distinct from proof of motive or tactical justification.
+- [Consolation Beyond Liability](concepts/ConsolationBeyondLiability.md) — Recognition of differently situated suffering without assigning equal responsibility or replacing accountability.
 - [Transformative Cultural Appropriation](concepts/TransformativeCulturalAppropriation.md) — Qualified framework for borrowing that creates visible difference and redirects rather than replaces attention to a source.
 - [Imitative Cultural Displacement](concepts/ImitativeCulturalDisplacement.md) — Mechanism by which close copying plus unequal distribution lets a dominant adaptation substitute for an originator.
 - [Chutzpah Moral Distinction](concepts/ChutzpahMoralDistinction.md) — Ethical boundary between constructive convention-breaking and self-assertion that disregards other people's standing.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11665
+wiki_total_pages: 11668
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "ParticipatorySinging"
     title: "Participatory Singing"
     url: "/wiki/concepts/participatorysinging/"
+  - key: "ParticularizedMoralDiscernment"
+    title: "Particularized Moral Discernment"
+    url: "/wiki/concepts/particularizedmoraldiscernment/"
   - key: "PartisanFramingAcrossExposure"
     title: "Partisan Framing Across Exposure"
     url: "/wiki/concepts/partisanframingacrossexposure/"

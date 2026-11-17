@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14682
+wiki_total_pages: 14685
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "Felicette"
     title: "Felicette / 菲利切特"
     url: "/wiki/entities/felicette/"
+  - key: "FelipeNavarro"
+    title: "Felipe Navarro"
+    url: "/wiki/entities/felipenavarro/"
   - key: "FelixCollin"
     title: "Felix Collin"
     url: "/wiki/entities/felixcollin/"
