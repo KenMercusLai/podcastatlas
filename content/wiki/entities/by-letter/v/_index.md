@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14723
+wiki_total_pages: 14728
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "VarunSharma"
     title: "Varun Sharma"
     url: "/wiki/entities/varunsharma/"
+  - key: "VasanKesavan"
+    title: "Vasan Kesavan"
+    url: "/wiki/entities/vasankesavan/"
   - key: "VascoDaGama"
     title: "Vasco da Gama"
     url: "/wiki/entities/vascodagama/"

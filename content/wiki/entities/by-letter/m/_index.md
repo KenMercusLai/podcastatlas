@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14723
+wiki_total_pages: 14728
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "MaryJaneKelly"
     title: "Mary Jane Kelly"
     url: "/wiki/entities/maryjanekelly/"
+  - key: "MaryNorris"
+    title: "Mary Norris"
+    url: "/wiki/entities/marynorris/"
   - key: "MaryOfBurgundy"
     title: "Mary of Burgundy"
     url: "/wiki/entities/maryofburgundy/"
@@ -1364,6 +1367,9 @@ wiki_pages:
   - key: "MichaelLewisCurator"
     title: "Michael Lewis (Curator)"
     url: "/wiki/entities/michaellewiscurator/"
+  - key: "MichaelLiTexasDemographer"
+    title: "Michael Li (Texas Political Demographer)"
+    url: "/wiki/entities/michaellitexasdemographer/"
   - key: "MichaelLynton"
     title: "Michael Lynton"
     url: "/wiki/entities/michaellynton/"
@@ -1406,6 +1412,9 @@ wiki_pages:
   - key: "MichaelSpecter"
     title: "Michael Specter"
     url: "/wiki/entities/michaelspecter/"
+  - key: "MichaelStokesPaulsen"
+    title: "Michael Stokes Paulsen"
+    url: "/wiki/entities/michaelstokespaulsen/"
   - key: "MichaelThaddeus"
     title: "Michael Thaddeus"
     url: "/wiki/entities/michaelthaddeus/"

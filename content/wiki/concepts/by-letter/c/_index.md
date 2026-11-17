@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11688
+wiki_total_pages: 11690
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2477,6 +2477,9 @@ wiki_pages:
   - key: "ConstitutionalAfterlifeOfRevolution"
     title: "Constitutional Afterlife of Revolution"
     url: "/wiki/concepts/constitutionalafterlifeofrevolution/"
+  - key: "ConstitutionalGrammarAndPunctuation"
+    title: "Constitutional Grammar and Punctuation"
+    url: "/wiki/concepts/constitutionalgrammarandpunctuation/"
   - key: "ConstitutionalMemoryReuse"
     title: "Constitutional Memory Reuse"
     url: "/wiki/concepts/constitutionalmemoryreuse/"
@@ -2486,6 +2489,9 @@ wiki_pages:
   - key: "ConstitutionalRobustness"
     title: "Constitutional Robustness"
     url: "/wiki/concepts/constitutionalrobustness/"
+  - key: "ConstitutionalStateSubdivision"
+    title: "Constitutional State Subdivision"
+    url: "/wiki/concepts/constitutionalstatesubdivision/"
   - key: "ConstitutionalistMilitaryNorm"
     title: "Constitutionalist Military Norm"
     url: "/wiki/concepts/constitutionalistmilitarynorm/"

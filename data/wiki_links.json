@@ -24463,6 +24463,10 @@
     "title": "Constitutional Afterlife of Revolution",
     "url": "/wiki/concepts/constitutionalafterlifeofrevolution/"
   },
+  "ConstitutionalGrammarAndPunctuation": {
+    "title": "Constitutional Grammar and Punctuation",
+    "url": "/wiki/concepts/constitutionalgrammarandpunctuation/"
+  },
   "ConstitutionalMemoryReuse": {
     "title": "Constitutional Memory Reuse",
     "url": "/wiki/concepts/constitutionalmemoryreuse/"
@@ -24474,6 +24478,10 @@
   "ConstitutionalRobustness": {
     "title": "Constitutional Robustness",
     "url": "/wiki/concepts/constitutionalrobustness/"
+  },
+  "ConstitutionalStateSubdivision": {
+    "title": "Constitutional State Subdivision",
+    "url": "/wiki/concepts/constitutionalstatesubdivision/"
   },
   "ConstitutionalistMilitaryNorm": {
     "title": "Constitutionalist Military Norm",
@@ -52927,6 +52935,10 @@
     "title": "Jim Clark",
     "url": "/wiki/entities/jimclark/"
   },
+  "JimDunnam": {
+    "title": "Jim Dunnam",
+    "url": "/wiki/entities/jimdunnam/"
+  },
   "JimHarkness": {
     "title": "Jim Harkness",
     "url": "/wiki/entities/jimharkness/"
@@ -64023,6 +64035,10 @@
     "title": "Mary Jane Kelly",
     "url": "/wiki/entities/maryjanekelly/"
   },
+  "MaryNorris": {
+    "title": "Mary Norris",
+    "url": "/wiki/entities/marynorris/"
+  },
   "MaryOfBurgundy": {
     "title": "Mary of Burgundy",
     "url": "/wiki/entities/maryofburgundy/"
@@ -65971,6 +65987,10 @@
     "title": "Michael Lewis (Curator)",
     "url": "/wiki/entities/michaellewiscurator/"
   },
+  "MichaelLiTexasDemographer": {
+    "title": "Michael Li (Texas Political Demographer)",
+    "url": "/wiki/entities/michaellitexasdemographer/"
+  },
   "MichaelLynton": {
     "title": "Michael Lynton",
     "url": "/wiki/entities/michaellynton/"
@@ -66026,6 +66046,10 @@
   "MichaelSpecter": {
     "title": "Michael Specter",
     "url": "/wiki/entities/michaelspecter/"
+  },
+  "MichaelStokesPaulsen": {
+    "title": "Michael Stokes Paulsen",
+    "url": "/wiki/entities/michaelstokespaulsen/"
   },
   "MichaelThaddeus": {
     "title": "Michael Thaddeus",
@@ -99727,6 +99751,10 @@
     "title": "Varun Sharma",
     "url": "/wiki/entities/varunsharma/"
   },
+  "VasanKesavan": {
+    "title": "Vasan Kesavan",
+    "url": "/wiki/entities/vasankesavan/"
+  },
   "VascoDaGama": {
     "title": "Vasco da Gama",
     "url": "/wiki/entities/vascodagama/"
@@ -112494,6 +112522,10 @@
   "disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c": {
     "title": "Disorder of magnitude: France’s riots",
     "url": "/wiki/sources/disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c/"
+  },
+  "divide-and-conquer-divide-and-conquer": {
+    "title": "Divide and Conquer",
+    "url": "/wiki/sources/divide-and-conquer-divide-and-conquer/"
   },
   "do-prediction-market-bettors-make-anything-better": {
     "title": "Do prediction market bettors make anything better?",

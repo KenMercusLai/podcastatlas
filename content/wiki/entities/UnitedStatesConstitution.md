@@ -2,40 +2,72 @@
 title: "United States Constitution"
 type: entity
 tags: [document, law, constitution, politics]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]
-last_updated: 2026-08-14
+sources:
+  - tech-20260814-tech-pod-128-tech-20260814-tech-pod-128
+  - tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128
+  - sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978
+  - 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809
+  - under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271
+  - divide-and-conquer-divide-and-conquer
+last_updated: 2026-11-17
+knowledge_schema: synthesis-v1
 ---
 
 # United States Constitution
 
-[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a First Amendment political-deepfake branch. [[MariaCurie|Maria Curi]] says attempts to regulate AI-generated political content often face constitutional concerns, and the episode describes a [[California]] AI political-content law as having been struck down as unconstitutional. The source links the Constitution to [[PoliticalDeepfakeRegulation]] by showing that election-integrity rules still have to respect speech limits.
+## Overview
 
-[[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the Constitution as a constraint on reform as well as a source of repair mechanisms. [[LinYao|林垚]] emphasizes Article V's two-thirds congressional threshold and three-fourths state-ratification threshold, linking them to slavery-era compromise and to the present difficulty of changing Electoral College, Senate, federalism, or [[PresidentialSystem|presidential-system]] structures.
+The United States Constitution is the governing federal document whose allocation of power, rights protections, repair mechanisms, amendment rules, and statehood clauses structure the political and legal conflicts covered by the bounded sources.
 
-The United States Constitution appears in [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] as the institutional "ancestral code" that makes the [[PresidentialSystem|U.S. presidential system]] both powerful and constrained. The episode uses its impeachment clauses, [[SeparationOfPowers]], and later amendments to explain why removing a president is deliberately harder than removing a parliamentary cabinet.
+## Current Profile
 
-In the source, the Constitution is not treated as flawless text. It is treated as a patched operating system: old, awkward, partly ambiguous, and still valuable because it encodes earlier solutions to problems of monarchy, executive energy, legislative domination, and emergency succession.
+The sources present the Constitution as both constraint and resource. The First Amendment limits some political-deepfake, youth-platform-access, and mandatory-reporting rules; impeachment and the Twenty-Fifth Amendment provide distinct responses to presidential misconduct and incapacity; and Article V protects stability while making structural reform difficult.
 
-[[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds a First Amendment platform-access branch. [[AaronMackey]] argues that [[CaliforniaAB1709]] and similar state laws can violate constitutional rights when they broadly block minors from lawful online speech or require age-verification gates that also burden adults.
+Article IV, Section 3 supplies the state-creation layer examined in [[divide-and-conquer-divide-and-conquer|Divide and Conquer]]. [[MichaelStokesPaulsen]] and [[VasanKesavan]] argue that its consent condition applies to creating a state within another state as well as combining states, while [[MaryNorris]] finds grammatical support in the linked “but–nor” construction. Their reading treats state subdivision as conditionally permitted and applies claimed advance congressional consent to [[Texas]].
 
-[[under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]] adds a First Amendment religious-freedom branch through [[ClergyMandatoryReportingConflict]]. The episode reports that [[CatholicChurch|Catholic Church]] lawyers argue forced reporting from confession violates religious liberty, while child-safety advocates argue abuse prevention is a compelling state interest.
+## Key Characteristics
 
-## Source Position
-- The Constitution gives the House the impeachment power and the Senate the trial power.
-- Presidential impeachment trials involve the Chief Justice of the [[SupremeCourt]] and a two-thirds Senate conviction threshold.
-- [[HighCrimesAndMisdemeanors]] creates interpretive flexibility without making impeachment a general dissatisfaction vote.
-- The [[TwentyFifthAmendment]] adds a separate incapacity mechanism, showing how the system handles failure modes beyond guilt or misconduct.
-- The sequel stresses that Article V amendment design can protect stability while also producing [[USConstitutionalReformConstraint]].
-- The Marketplace Tech source adds that constitutional speech protections constrain state child-safety technology laws when those laws restrict lawful online communication by age.
-- The Intelligence source adds a religious-freedom conflict where mandatory child-abuse reporting may collide with confession privilege.
-- The August 14 Marketplace Tech source adds that AI political-content regulation can be limited by First Amendment political-speech protections.
+- Allocates federal legislative, executive, judicial, amendment, and state-admission authority.
+- Protects speech and religious exercise while requiring courts to balance those rights against regulatory purposes.
+- Supplies distinct repair mechanisms for presidential misconduct and incapacity.
+- Creates high amendment thresholds that protect stability while constraining structural reform.
+- Regulates the admission, combination, and subdivision of states through Article IV.
+- Contains old, awkward, or inconsistently punctuated language interpreted through text, structure, history, and practice.
 
-## Connections
-- [[UnitedStates]] - political system and country governed by the document.
-- [[PresidentialSystem]], [[SeparationOfPowers]], [[PresidentialImpeachment]], and [[TwentyFifthAmendment]] - constitutional design concepts from the episode.
-- [[AlexanderHamilton]] - founding-era figure used to defend a strong but accountable executive.
-- [[ConstitutionalRobustness]] and [[AmericanDemocraticResilience]] - source synthesis about institutional recovery capacity.
-- [[USConstitutionalReformConstraint]], [[NationalPopularVoteInterstateCompact]], and [[USConstitutionalCrisisRisk]] - sequel reform-limit branch.
-- [[CaliforniaAB1709]], [[AaronMackey]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - First Amendment branch added by Marketplace Tech.
-- [[CatholicChurch]], [[PeterEisley]], and [[ClergyMandatoryReportingConflict]] - First Amendment religious-liberty branch added by The Intelligence.
-- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[California]] - political-deepfake speech branch added by Marketplace Tech.
+## Evidence
+
+### Speech and religious-liberty constraints
+
+- [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] connects political-deepfake regulation to First Amendment limits.
+- [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] presents youth access to lawful online speech as a constitutional constraint on broad social-media bans and age gates.
+- [[under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]] presents conflict between religious liberty in confession and mandatory reporting of child abuse.
+
+### Repair and reform
+
+- [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] distinguishes House impeachment, Senate trial, and the Twenty-Fifth Amendment's incapacity mechanism.
+- [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] links Article V, federalism, the Senate, Electoral College, and presidentialism to constitutional-reform difficulty.
+
+### State creation
+
+- [[divide-and-conquer-divide-and-conquer]] presents the linked-clause reading of Article IV, defends West Virginia's formation under that reading, and applies advance congressional consent to Texas's possible subdivision.
+
+## Qualifications
+
+These episode accounts do not replace constitutional text, case law, briefing, historical records, or current legal advice. The sources present competing institutional tensions rather than one complete jurisprudence. The Texas argument is a scholarly interpretation, not a judicial holding or executed process, and the grammar supporting it does not independently resolve consent, revocation, procedure, or litigation.
+
+## What Changed
+
+- Migrated the page to the synthesis-first schema without removing or reordering its prior evidence inventory.
+- Added Article IV state creation and consent as a distinct constitutional function.
+- Added grammar and punctuation as material but non-exclusive interpretive evidence.
+- Consolidated speech, repair, reform, and statehood evidence into claim-centered groups.
+
+## Relationships
+
+- [[ConstitutionalStateSubdivision]] - Article IV doctrine concerning creation of states from existing states.
+- [[ConstitutionalGrammarAndPunctuation]] - textual evidence used to interpret linked clauses and conditions.
+- [[UnitedStatesCongress|Congress]] - institution exercising legislative, impeachment, amendment, and state-admission powers.
+- [[SupremeCourt]] - judicial interpreter of constitutional rights and structural disputes.
+- [[USConstitutionalReformConstraint]] - rigidity created by Article V and entrenched institutional design.
+- [[ConstitutionalRobustness]] - capacity for correction through inherited mechanisms.
+- [[SeparationOfPowers]] - allocation of authority underlying impeachment, legislation, and institutional checks.

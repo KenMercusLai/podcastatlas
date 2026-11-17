@@ -5337,6 +5337,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Puzzle Rush](sources/puzzle-rush-puzzle-rush.md) — Revisionist History uses the LSAT, format-sensitive law-school outcomes, and chess time controls to show how assessment speed helps define visible ability and rankings.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
+- [Divide and Conquer](sources/divide-and-conquer-divide-and-conquer.md) — Revisionist History connects Article IV grammar, West Virginia statehood, Texas's 1845 advance consent, and the map-dependent Senate consequences of dividing Texas into five states.
+
 ## Entities
 - [Owen Thomas](entities/OwenThomas.md) — Penn football captain whose death and posthumous CTE diagnosis anchor the episode's precautionary argument.
 - [Chris Nowinski](entities/ChrisNowinski.md) — researcher who requested preservation of Owen Thomas's brain tissue and explains the CTE evidence limits.
@@ -20157,6 +20159,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Henderson](entities/WilliamHenderson.md) — Law professor examining whether speeded admissions tests predict similar timed exams more strongly than broader legal performance.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
+- [Michael Stokes Paulsen](entities/MichaelStokesPaulsen.md) — Constitutional scholar arguing that Article IV permits consent-based state subdivision and that Texas retains advance congressional permission.
+- [Vasan Kesavan](entities/VasanKesavan.md) — Paulsen's co-author on the textual and historical state-subdivision analysis.
+- [Mary Norris](entities/MaryNorris.md) — Editor whose “but–nor” analysis supports reading Article IV's consent clause across the disputed semicolon.
+- [Jim Dunnam](entities/JimDunnam.md) — Texas Democratic leader who organized the 2003 legislative quorum break over redistricting.
+- [Michael Li (Texas Political Demographer)](entities/MichaelLiTexasDemographer.md) — Expert who maps five hypothetical Texases and their time-sensitive partisan consequences.
+
 ## Concepts
 - [Chronic Traumatic Encephalopathy Evidence Boundary](concepts/ChronicTraumaticEncephalopathyEvidenceBoundary.md) — Separates postmortem pathology and repeated-impact concern from representative prevalence and individual suicide causation.
 - [Precautionary Action Under Uncertainty](concepts/PrecautionaryActionUnderUncertainty.md) — Principle that credible severe risk can justify proportionate action before every causal question is settled.
@@ -31958,5 +31966,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scientific Dissent Under Rejection](concepts/ScientificDissentUnderRejection.md) — Evidence-led persistence on a disputed anomaly while remaining answerable to discriminating experiments and correction.
 - [Restorative–Transformative Athletic Intervention](concepts/RestorativeTransformativeAthleticIntervention.md) — Case-based taxonomy separating recovery toward prior function from materially new capacity and competitor risk pressure.
 - [Selective Doctrine Enforcement](concepts/SelectiveDoctrineEnforcement.md) — Unequal institutional sanctions revealed by comparing doctrine, membership, conduct, and enforcement across concrete cases.
+
+- [Constitutional State Subdivision](concepts/ConstitutionalStateSubdivision.md) — Article IV pathway for creating new states from an existing state with the required consent.
+- [Constitutional Grammar and Punctuation](concepts/ConstitutionalGrammarAndPunctuation.md) — Use of syntax, conjunctions, clauses, and punctuation as bounded constitutional evidence.
 
 ## Syntheses

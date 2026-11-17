@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11688
+wiki_total_pages: 11690
 wiki_pages:
   - key: "UnknownRiskInformedConsent"
     title: "Informed Consent Under Unknown Risk"

@@ -42759,3 +42759,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Divide and Conquer
+
+Added the 2018 [[RevisionistHistory]] episode connecting [[MichaelStokesPaulsen]] and [[VasanKesavan]]'s Article IV analysis, [[MaryNorris]]'s “but–nor” grammatical reading, [[WestVirginia|West Virginia]]'s statehood, and [[Texas]]'s 1845 admission terms. Created focused profiles for Paulsen, Kesavan, Norris, [[JimDunnam]], and [[MichaelLiTexasDemographer|Michael Li]], plus [[ConstitutionalStateSubdivision]] and [[ConstitutionalGrammarAndPunctuation]].
+
+Core synthesis: Article IV can be read to permit state subdivision when the relevant state and Congress consent, and Texas may hold advance congressional permission to create up to four additional states. That legal claim remains separate from revocation, procedure, litigation, administration, voter legitimacy, boundaries, and partisan result. A five-state map could increase the territory's Senate representation from two seats to ten, but demographic change and boundary choice make the party allocation contingent rather than an automatic Republican gain.
+
+No settled contradiction was adopted. The supplied file is a structured summary rather than the underlying law review article, constitutional drafting record, 1845 resolution, transcript, judicial authority, or demographic model. Broad [[MalcolmGladwell]], [[RevisionistHistory]], party, Senate, Congress, and automatic `wiki/overview.md` profiles remained closed; Texas and the U.S. Constitution were migrated to `synthesis-v1` from their complete bounded inputs because the new source materially changes their current profiles.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,211 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, canonical index coverage, log coverage, identities, synthesis-v1 structure, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
