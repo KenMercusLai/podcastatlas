@@ -105292,9 +105292,9 @@
       "url": "/wiki/entities/exmachinafilm/"
     },
     "ExamStandardizationValidityTradeoff": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6507641896 [GLT6507641896].md",
@@ -105309,6 +105309,13 @@
           "show": "Revisionist History",
           "title": "The Tortoise and the Hare",
           "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        },
+        {
+          "episode_file": "Puzzle_Rush [Puzzle_Rush].md",
+          "key": "puzzle-rush-puzzle-rush",
+          "show": "Revisionist History",
+          "title": "Puzzle Rush",
+          "url": "/wiki/sources/puzzle-rush-puzzle-rush/"
         }
       ],
       "updated": "2026-11-17",
@@ -146589,6 +146596,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/higheranimalsbook/"
     },
+    "HikaruNakamura": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Puzzle_Rush [Puzzle_Rush].md",
+          "key": "puzzle-rush-puzzle-rush",
+          "show": "Revisionist History",
+          "title": "Puzzle Rush",
+          "url": "/wiki/sources/puzzle-rush-puzzle-rush/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/hikarunakamura/"
+    },
     "HilareeNelson": {
       "episode_count": 1,
       "show_count": 1,
@@ -185099,9 +185122,9 @@
       "url": "/wiki/entities/lawofsuspects/"
     },
     "LawSchoolAdmissionTest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
@@ -185109,6 +185132,13 @@
           "show": "Revisionist History",
           "title": "The Tortoise and the Hare",
           "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        },
+        {
+          "episode_file": "Puzzle_Rush [Puzzle_Rush].md",
+          "key": "puzzle-rush-puzzle-rush",
+          "show": "Revisionist History",
+          "title": "Puzzle Rush",
+          "url": "/wiki/sources/puzzle-rush-puzzle-rush/"
         }
       ],
       "updated": "2026-11-17",
@@ -342176,6 +342206,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/williamhastings/"
+    },
+    "WilliamHenderson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Puzzle_Rush [Puzzle_Rush].md",
+          "key": "puzzle-rush-puzzle-rush",
+          "show": "Revisionist History",
+          "title": "Puzzle Rush",
+          "url": "/wiki/sources/puzzle-rush-puzzle-rush/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/williamhenderson/"
     },
     "WilliamHogarth": {
       "episode_count": 1,

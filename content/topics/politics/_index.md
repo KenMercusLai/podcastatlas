@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3582
+topic_total_pages: 3584
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8606,6 +8606,9 @@ topic_entities:
   - key: "WilliamGannawayBrownlow"
     title: "William Gannaway Brownlow"
     url: "/wiki/entities/williamgannawaybrownlow/"
+  - key: "WilliamHenderson"
+    title: "William Henderson"
+    url: "/wiki/entities/williamhenderson/"
   - key: "WilliamLanday"
     title: "William Landay"
     url: "/wiki/entities/williamlanday/"
@@ -9987,6 +9990,9 @@ topic_sources:
   - key: "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210"
     title: "Putin's options: an oligarch speaks out"
     url: "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+  - key: "puzzle-rush-puzzle-rush"
+    title: "Puzzle Rush"
+    url: "/wiki/sources/puzzle-rush-puzzle-rush/"
   - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
     title: "Reconstruction: The Unfinished Promise"
     url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"

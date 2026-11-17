@@ -5323,6 +5323,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Standard Case](sources/the-standard-case-the-standard-case.md) — Revisionist History uses Jesuit casuistry, baseball medicine, Pulse, and LGBT Catholic accompaniment to reason from standard cases rather than inherited labels alone.
 - [Good Old Boys](sources/good-old-boys-good-old-boys.md) — Revisionist History connects Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, Northern hypocrisy, and the reception risks of morally uncomfortable satire.
 - [The Tortoise and the Hare](sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare.md) — Revisionist History challenges timed LSAT and elite-law-school proxies through Jeffrey Sutton, legal-work pace, outcome-validated hiring, and a proposal to hide school names from employers.
+- [Puzzle Rush](sources/puzzle-rush-puzzle-rush.md) — Revisionist History uses the LSAT, format-sensitive law-school outcomes, and chess time controls to show how assessment speed helps define visible ability and rankings.
 
 ## Entities
 - [John Tyler (historian)](entities/JohnTylerHistorian.md) — Historian using insurance and shipping records to reconstruct colonial Boston tea smuggling and its political consequences.
@@ -20117,6 +20118,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonin Scalia](entities/AntoninScalia.md) — Supreme Court justice whose prestige-based clerkship rule and praise of Sutton expose the tension between risk reduction and direct evaluation.
 - [Evan Parker](entities/EvanParker.md) — Legal-talent analyst testing school prestige, interview ratings, and candidate histories against later professional outcomes.
 - [Law School Admission Test (LSAT)](entities/LawSchoolAdmissionTest.md) — Timed admissions assessment whose standardization, ranking value, and construct validity anchor the episode's selection critique.
+- [William Henderson](entities/WilliamHenderson.md) — Law professor examining whether speeded admissions tests predict similar timed exams more strongly than broader legal performance.
+- [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
 - [Crooked-Ladder Social Mobility](concepts/CrookedLadderSocialMobility.md) — Intergenerational model in which illicit accumulation can become a temporary route toward education, professions, and conventional legitimacy.

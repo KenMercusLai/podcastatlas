@@ -42576,3 +42576,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Puzzle Rush
+
+Added a [[RevisionistHistory]] episode using [[MalcolmGladwell]]'s timed [[LawSchoolAdmissionTest|LSAT]] experience, [[WilliamHenderson]]'s episode-reported comparison of law-school assessment formats, and [[HikaruNakamura]]'s chess time-control example. Created focused profiles for Henderson and Nakamura while resynthesizing the LSAT and [[ExamStandardizationValidityTradeoff]] from their complete bounded source inventories with source order preserved.
+
+Core synthesis: time limits do not merely compress a fixed ability measurement. They bundle reasoning with pacing, strategy, intuition, and rapid pattern recognition; a predictor can look strongest when the outcome repeats the same time constraint; and changing time controls can reorder competitors without changing the underlying domain. The episode nevertheless preserves speed as a legitimate capability and treats clocks as constitutive of some competitive formats.
+
+No settled contradiction was adopted. Take-home assessment changes rather than eliminates validity risks, chess does not determine the proper design of legal testing, and LSAT structure, correlations, score effects, chess rankings, and individual outcomes remain episode-scoped because the supplied file is a structured summary rather than technical documentation, Henderson's paper and data, tournament records, or independent replication. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic show-level profiles remained closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,198 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
