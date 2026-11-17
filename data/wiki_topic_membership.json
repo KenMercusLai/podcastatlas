@@ -19373,6 +19373,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BehavioralLieDetectionLimits": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BehavioralSignalProcessing": [
     {
       "key": "technology",
@@ -94984,6 +94991,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "TimLevine": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TimUrban": [
     {
       "key": "culture",
@@ -96528,6 +96542,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TruthDefaultTheory": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TruthSeekingDebateNorm": [
@@ -116049,6 +116070,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-queen-of-cuba-the-queen-of-cuba": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough": [

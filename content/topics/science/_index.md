@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1718
+topic_total_pages: 1722
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -232,6 +232,9 @@ topic_concepts:
   - key: "BehavioralInvestingBiases"
     title: "Behavioral Investing Biases"
     url: "/wiki/concepts/behavioralinvestingbiases/"
+  - key: "BehavioralLieDetectionLimits"
+    title: "Behavioral Lie-Detection Limits"
+    url: "/wiki/concepts/behavioralliedetectionlimits/"
   - key: "BehavioralSignalProcessing"
     title: "Behavioral Signal Processing"
     url: "/wiki/concepts/behavioralsignalprocessing/"
@@ -2617,6 +2620,9 @@ topic_concepts:
   - key: "TribalTruth"
     title: "Tribal Truth / 部落真相"
     url: "/wiki/concepts/tribaltruth/"
+  - key: "TruthDefaultTheory"
+    title: "Truth-Default Theory"
+    url: "/wiki/concepts/truthdefaulttheory/"
   - key: "TunnelingTax"
     title: "Tunneling Tax / 管窥税"
     url: "/wiki/concepts/tunnelingtax/"
@@ -3761,6 +3767,9 @@ topic_entities:
   - key: "TianjinUniversity"
     title: "Tianjin University / 天津大学"
     url: "/wiki/entities/tianjinuniversity/"
+  - key: "TimLevine"
+    title: "Tim Levine"
+    url: "/wiki/entities/timlevine/"
   - key: "ToddKashdan"
     title: "Todd Kashdan"
     url: "/wiki/entities/toddkashdan/"
@@ -4908,6 +4917,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798"
     title: "The Psychology of Self-Doubt"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798-default-mp3-ywr3ahjkcgo-ccb1b539aa8604c65d846131f60617e0-47196798/"
+  - key: "the-queen-of-cuba-the-queen-of-cuba"
+    title: "The Queen of Cuba"
+    url: "/wiki/sources/the-queen-of-cuba-the-queen-of-cuba/"
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"

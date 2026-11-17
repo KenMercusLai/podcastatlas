@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14662
+wiki_total_pages: 14668
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "Deerflow"
     title: "Deerflow"
     url: "/wiki/entities/deerflow/"
+  - key: "DefenseIntelligenceAgency"
+    title: "Defense Intelligence Agency"
+    url: "/wiki/entities/defenseintelligenceagency/"
   - key: "Dehomag"
     title: "Dehomag / 德霍梅格"
     url: "/wiki/entities/dehomag/"

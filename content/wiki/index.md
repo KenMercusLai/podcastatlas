@@ -5313,6 +5313,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？](sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh.md) — 芮淇讲透资治通鉴 connects Guan Yu's status-sensitive appointment dispute with Fei Shi's boundary-preserving de-escalation and the flood, surrender, siege, and delayed relief at Fancheng.
 - [《资治通鉴·汉纪》1165丨张既传：低调才是顶级生存智慧](sources/zizhi-tongjian-hanji-1165-zhangji-zhuan-didiao-caishi-dingji-shengcun-zhihui-lr7x5qltfi_ikktqabowt1garphl.md) — 芮淇讲透资治通鉴 connects Zhang Ji's mixed Liangzhou governance with Liu Bei's Hanzhong kingship settlement, Shangyong expansion, rank allocation, and fragmented-theater support risk.
 
+- [The Queen of Cuba](sources/the-queen-of-cuba-the-queen-of-cuba.md) — Revisionist History uses Ana Belén Montes's Cuban espionage and Tim Levine's experiments to distinguish noticed suspicion from a records-backed trigger strong enough to overcome truth-default.
+
 ## Entities
 - [Tomoyuki Yamashita](entities/TomoyukiYamashita.md) — Japanese commander whose mobility, infiltration, and tempo drove the Malaya-Singapore campaign.
 - [Arthur Percival](entities/ArthurPercival.md) — British commander whose surrender ended Singapore's compromised defense.
@@ -20071,6 +20073,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [申耽 / Shen Dan (late Han)](entities/ShenDanLateHan.md) — 面对刘封、孟达进军而归降并获留任的上庸太守。
 - [219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)](entities/LiuBeiHanzhongKingship219LateHan.md) — 将汉中胜利转化为称王、继承、任官、战区分工和继续扩张，同时暴露地理协同风险的政治军事布局。
 
+- [Ana Belén Montes](entities/AnaBelenMontes.md) — Decorated DIA Cuba analyst whose long-running espionage was missed amid professional trust, plausible explanations, and ambiguous behavior.
+- [Tim Levine](entities/TimLevine.md) — Psychologist connecting truth bias, deception experiments, and the threshold between doubt and disbelief.
+- [Scott Carmichael](entities/ScottCarmichael.md) — DIA counterintelligence officer whose initially inconclusive interview preceded a decisive records-based match.
+- [Reg Brown](entities/RegBrown.md) — DIA analyst who assembled and escalated the first circumstantial case against Montes after the 1996 shootdown.
+- [Defense Intelligence Agency](entities/DefenseIntelligenceAgency.md) — Institutional setting whose trust and records shaped both the missed warning signs and later identification of Montes.
+- [Brothers to the Rescue](entities/BrothersToTheRescue.md) — Cuban émigré aviation organization whose 1996 aircraft shootdown precipitated the episode's counterintelligence inquiry.
+
 ## Concepts
 - [Japanese Early Pacific War Strategy](concepts/JapaneseEarlyPacificWarStrategy.md) — Resource seizure and defensive-perimeter strategy whose operational success depended on an uncontrollable political bet about Allied resolve.
 - [Allied Racialized Military Underestimation](concepts/AlliedRacializedMilitaryUnderestimation.md) — Conversion of stereotypes about Japanese inferiority into flawed threat assessment and readiness.
@@ -31839,5 +31848,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Constraint-Driven Doctrine Shift](concepts/ConstraintDrivenDoctrineShift.md) — Cascade in which operational limits alter execution until the mission's target, method, or moral character changes.
 - [生计型边疆安全 / Livelihood-Based Frontier Security](concepts/LivelihoodBasedFrontierSecurity.md) — 以盐铁、农桑和可持续生计增强地方稳定，同时保留其可能与镇压、迁徙和不平等并存的边界治理机制。
 - [分隔战区支援风险 / Fragmented-Theater Support Risk](concepts/FragmentedTheaterSupportRisk.md) — 领土与兵力被距离、地形和通道分隔后，威胁节奏快于通信、机动和增援能力所形成的系统性脆弱。
+
+- [Truth-Default Theory](concepts/TruthDefaultTheory.md) — Account of why people generally presume honesty until accumulated doubt becomes a sufficiently strong trigger for disbelief.
+- [Behavioral Lie-Detection Limits](concepts/BehavioralLieDetectionLimits.md) — Constraint on inferring deception from demeanor without independent, discriminating corroboration.
 
 ## Syntheses

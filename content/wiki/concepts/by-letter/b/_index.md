@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11656
+wiki_total_pages: 11658
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "BehavioralInvestingBiases"
     title: "Behavioral Investing Biases"
     url: "/wiki/concepts/behavioralinvestingbiases/"
+  - key: "BehavioralLieDetectionLimits"
+    title: "Behavioral Lie-Detection Limits"
+    url: "/wiki/concepts/behavioralliedetectionlimits/"
   - key: "BehavioralSignalProcessing"
     title: "Behavioral Signal Processing"
     url: "/wiki/concepts/behavioralsignalprocessing/"

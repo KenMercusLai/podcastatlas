@@ -10159,6 +10159,10 @@
     "title": "An Qisheng / 安期生",
     "url": "/wiki/entities/anqisheng/"
   },
+  "AnaBelenMontes": {
+    "title": "Ana Belén Montes",
+    "url": "/wiki/entities/anabelenmontes/"
+  },
   "AnaLankas": {
     "title": "Ana Lankas",
     "url": "/wiki/entities/analankas/"
@@ -14507,6 +14511,10 @@
     "title": "Behavioral Investing Biases",
     "url": "/wiki/concepts/behavioralinvestingbiases/"
   },
+  "BehavioralLieDetectionLimits": {
+    "title": "Behavioral Lie-Detection Limits",
+    "url": "/wiki/concepts/behavioralliedetectionlimits/"
+  },
   "BehavioralSignalProcessing": {
     "title": "Behavioral Signal Processing",
     "url": "/wiki/concepts/behavioralsignalprocessing/"
@@ -16894,6 +16902,10 @@
   "BrothersGrimm": {
     "title": "格林兄弟 / Brothers Grimm",
     "url": "/wiki/entities/brothersgrimm/"
+  },
+  "BrothersToTheRescue": {
+    "title": "Brothers to the Rescue",
+    "url": "/wiki/entities/brotherstotherescue/"
   },
   "BrownVBoardOfEducation": {
     "title": "Brown v. Board of Education",
@@ -28322,6 +28334,10 @@
   "DefenseIndustrialBaseReindustrialization": {
     "title": "Defense Industrial Base Reindustrialization",
     "url": "/wiki/concepts/defenseindustrialbasereindustrialization/"
+  },
+  "DefenseIntelligenceAgency": {
+    "title": "Defense Intelligence Agency",
+    "url": "/wiki/entities/defenseintelligenceagency/"
   },
   "DefenseMonopsonyInnovation": {
     "title": "Defense Monopsony Innovation",
@@ -81219,6 +81235,10 @@
     "title": "Refurbished Device Supply Pressure",
     "url": "/wiki/concepts/refurbisheddevicesupplypressure/"
   },
+  "RegBrown": {
+    "title": "Reg Brown",
+    "url": "/wiki/entities/regbrown/"
+  },
   "RegalCinemas": {
     "title": "Regal Cinemas",
     "url": "/wiki/entities/regalcinemas/"
@@ -85618,6 +85638,10 @@
   "ScottBrennan": {
     "title": "Scott Brennan",
     "url": "/wiki/entities/scottbrennan/"
+  },
+  "ScottCarmichael": {
+    "title": "Scott Carmichael",
+    "url": "/wiki/entities/scottcarmichael/"
   },
   "ScottCooper": {
     "title": "Scott Cooper",
@@ -96307,6 +96331,10 @@
     "title": "Tim League",
     "url": "/wiki/entities/timleague/"
   },
+  "TimLevine": {
+    "title": "Tim Levine",
+    "url": "/wiki/entities/timlevine/"
+  },
   "TimMediaStorm": {
     "title": "影视飓风 Tim",
     "url": "/wiki/entities/timmediastorm/"
@@ -97774,6 +97802,10 @@
   "TruthAgainstAbsurdPower": {
     "title": "Truth Against Absurd Power",
     "url": "/wiki/concepts/truthagainstabsurdpower/"
+  },
+  "TruthDefaultTheory": {
+    "title": "Truth-Default Theory",
+    "url": "/wiki/concepts/truthdefaulttheory/"
   },
   "TruthSeekingDebateNorm": {
     "title": "求明理的辩论规范 / Truth-Seeking Debate Norm",
@@ -117806,6 +117838,10 @@
   "the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion": {
     "title": "The Pushkin Prize for Egregiously Deceptive Self-Promotion",
     "url": "/wiki/sources/the-pushkin-prize-for-egregiously-deceptive-self-promotion-the-pushkin-prize-for-egregiously-deceptive-self-promotion/"
+  },
+  "the-queen-of-cuba-the-queen-of-cuba": {
+    "title": "The Queen of Cuba",
+    "url": "/wiki/sources/the-queen-of-cuba-the-queen-of-cuba/"
   },
   "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough": {
     "title": "The real horror of 'Alien' and how it explains why we're not paid enough",

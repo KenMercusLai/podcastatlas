@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11656
+wiki_total_pages: 11658
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "TruthAgainstAbsurdPower"
     title: "Truth Against Absurd Power"
     url: "/wiki/concepts/truthagainstabsurdpower/"
+  - key: "TruthDefaultTheory"
+    title: "Truth-Default Theory"
+    url: "/wiki/concepts/truthdefaulttheory/"
   - key: "TruthfulSocialProof"
     title: "Truthful Social Proof"
     url: "/wiki/concepts/truthfulsocialproof/"

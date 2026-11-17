@@ -42436,3 +42436,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Queen of Cuba
+
+Added a [[RevisionistHistory]] episode using [[AnaBelenMontes]]'s long-running Cuban espionage to distinguish noticed suspicion from a trigger strong enough to overcome belief. Created focused profiles for Montes, [[TimLevine]], [[ScottCarmichael]], [[RegBrown]], the [[DefenseIntelligenceAgency]], and [[BrothersToTheRescue]], plus [[TruthDefaultTheory]] and [[BehavioralLieDetectionLimits]].
+
+Core synthesis: people can notice multiple anomalies while continuing to believe because each clue admits an innocent explanation and professional prestige raises the subjective cost of a serious accusation. Behavioral cues can generate questions without reliably identifying deception; decoded communications combined with travel and system-access records succeeded because they produced a specific, independently testable match.
+
+No settled contradiction was adopted. The episode's universal-psychology explanation may underweight information sharing, supervision, inquiry design, and warning-handling failures. Experimental accuracy rates, Milgram reinterpretation, shootdown circumstances, operational history, meeting totals, communications clues, motives, and institutional responsibility remain episode-scoped because the supplied file is a structured summary rather than a transcript, research paper, court record, or complete investigative archive. Broad [[MalcolmGladwell]], [[Cuba]], [[CIA]], [[StanleyMilgram]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,188 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
