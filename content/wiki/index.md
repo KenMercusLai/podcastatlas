@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Foot Soldier of Birmingham](sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham.md) — Revisionist History separates an iconic Birmingham photograph’s ambiguous encounter from the symbolic racial history Ronald McDowell built from it in the Foot Soldier monument.
 - [The Prime Minister and the Prof](sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof.md) — Revisionist History links Churchill’s reliance on Frederick Lindemann to evidence filtering in strategic bombing and Bengal-famine relief policy.
 - [The King of Tears](sources/the-king-of-tears-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, emotional specificity, shared musical culture, and memorial performance to country music's power to provoke tears.
 - [纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路](sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai.md) — 罗永浩与陈晓卿从食物记忆、纪录片信任和工业化协作谈到技术更替、职业更新与退休焦虑。
@@ -5349,6 +5350,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Foot Soldier Monument](entities/FootSoldierMonument.md) — Ronald McDowell’s Birmingham sculpture transforming an ambiguous 1963 photograph into a symbolic confrontation over racist power and public memory.
+- [Ronald McDowell](entities/RonaldMcDowell.md) — Self-taught artist who deliberately altered scale, posture, vision, and animal form in Foot Soldier to express Birmingham’s racial history.
+- [Richard Middleton](entities/RichardMiddleton.md) — Birmingham K-9 officer whose iconic photograph became a symbol of deliberate police attack despite evidence that he may have been restraining his dog.
+- [Walter Gadsden](entities/WalterGadsden.md) — Teenager in the iconic Birmingham dog photograph who identified himself as a bystander and rejected the later “foot soldier” identity.
 - [Frederick Lindemann](entities/FrederickLindemann.md) — Churchill’s scientific adviser and close friend whose concise memoranda made him a powerful wartime evidence gatekeeper.
 - [Madhusree Mukerjee](entities/MadhusreeMukerjee.md) — Historian whose archival shipping research anchors the episode’s Bengal-famine policy argument.
 - [Bengal Famine of 1943](entities/BengalFamine1943.md) — Mass-death catastrophe produced by interacting war, weather, market, colonial, and relief-allocation failures.

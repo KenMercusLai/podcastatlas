@@ -37871,6 +37871,10 @@
     "title": "Food-Service Beachhead Scaling",
     "url": "/wiki/concepts/foodservicebeachheadscaling/"
   },
+  "FootSoldierMonument": {
+    "title": "Foot Soldier Monument",
+    "url": "/wiki/entities/footsoldiermonument/"
+  },
   "FootballAnalyticsModernization": {
     "title": "Football Analytics Modernization",
     "url": "/wiki/concepts/footballanalyticsmodernization/"
@@ -83083,6 +83087,10 @@
     "title": "Richard Manks",
     "url": "/wiki/entities/richardmanks/"
   },
+  "RichardMiddleton": {
+    "title": "Richard Middleton",
+    "url": "/wiki/entities/richardmiddleton/"
+  },
   "RichardNevilleEarlOfWarwick": {
     "title": "Richard Neville, Earl of Warwick",
     "url": "/wiki/entities/richardnevilleearlofwarwick/"
@@ -84262,6 +84270,10 @@
   "RonaldHutton": {
     "title": "Ronald Hutton",
     "url": "/wiki/entities/ronaldhutton/"
+  },
+  "RonaldMcDowell": {
+    "title": "Ronald McDowell",
+    "url": "/wiki/entities/ronaldmcdowell/"
   },
   "RonaldReagan": {
     "title": "Ronald Reagan / 罗纳德·里根",
@@ -100910,6 +100922,10 @@
   "WalterBenjamin": {
     "title": "Walter Benjamin / 本雅明",
     "url": "/wiki/entities/walterbenjamin/"
+  },
+  "WalterGadsden": {
+    "title": "Walter Gadsden",
+    "url": "/wiki/entities/waltergadsden/"
   },
   "WalterHess": {
     "title": "Walter Hess",
@@ -118318,6 +118334,10 @@
   "the-fines-the-fines": {
     "title": "The Fines",
     "url": "/wiki/sources/the-fines-the-fines/"
+  },
+  "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham": {
+    "title": "The Foot Soldier of Birmingham",
+    "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
   },
   "the-formula-the-formula": {
     "title": "The Formula",

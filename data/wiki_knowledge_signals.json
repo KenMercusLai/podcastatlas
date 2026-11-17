@@ -116841,6 +116841,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/foodservicebeachheadscaling/"
     },
+    "FootSoldierMonument": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Foot_Soldier_of_Birmingham [The_Foot_Soldier_of_Birmingham].md",
+          "key": "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham",
+          "show": "Revisionist History",
+          "title": "The Foot Soldier of Birmingham",
+          "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/footsoldiermonument/"
+    },
     "FootballAsMassCulture": {
       "episode_count": 1,
       "show_count": 1,
@@ -251379,9 +251395,9 @@
       "url": "/wiki/concepts/photographicpresenceundergenerativeai/"
     },
     "PhotographicWitness": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1929673260 [GLT1929673260].md",
@@ -251396,9 +251412,16 @@
           "show": "The Rest Is History",
           "title": "72. The Vietnam War",
           "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
+        },
+        {
+          "episode_file": "The_Foot_Soldier_of_Birmingham [The_Foot_Soldier_of_Birmingham].md",
+          "key": "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham",
+          "show": "Revisionist History",
+          "title": "The Foot Soldier of Birmingham",
+          "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/photographicwitness/"
     },
     "PhotonAgentCommunication": {
@@ -276889,6 +276912,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/richardmanks/"
     },
+    "RichardMiddleton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Foot_Soldier_of_Birmingham [The_Foot_Soldier_of_Birmingham].md",
+          "key": "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham",
+          "show": "Revisionist History",
+          "title": "The Foot Soldier of Birmingham",
+          "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/richardmiddleton/"
+    },
     "RichardNevilleEarlOfWarwick": {
       "episode_count": 1,
       "show_count": 1,
@@ -280829,6 +280868,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/ronaldhutton/"
+    },
+    "RonaldMcDowell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Foot_Soldier_of_Birmingham [The_Foot_Soldier_of_Birmingham].md",
+          "key": "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham",
+          "show": "Revisionist History",
+          "title": "The Foot Soldier of Birmingham",
+          "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/ronaldmcdowell/"
     },
     "RonaldReagan": {
       "episode_count": 8,
@@ -305050,9 +305105,9 @@
       "url": "/wiki/concepts/staticstretchingdoseprotocol/"
     },
     "StatueCommemorationPolitics": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3870229260 [GLT3870229260].md",
@@ -305074,9 +305129,16 @@
           "show": "The Rest Is History",
           "title": "76. Statues: Trafalgar Square",
           "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
+        },
+        {
+          "episode_file": "The_Foot_Soldier_of_Birmingham [The_Foot_Soldier_of_Birmingham].md",
+          "key": "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham",
+          "show": "Revisionist History",
+          "title": "The Foot Soldier of Birmingham",
+          "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/statuecommemorationpolitics/"
     },
     "StatusBasedAdviceDismissal": {
@@ -335733,6 +335795,22 @@
       ],
       "updated": "2026-10-22",
       "url": "/wiki/entities/walterainewsagent/"
+    },
+    "WalterGadsden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Foot_Soldier_of_Birmingham [The_Foot_Soldier_of_Birmingham].md",
+          "key": "the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham",
+          "show": "Revisionist History",
+          "title": "The Foot Soldier of Birmingham",
+          "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/waltergadsden/"
     },
     "WalterHess": {
       "episode_count": 2,

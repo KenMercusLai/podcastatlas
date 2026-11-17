@@ -42909,3 +42909,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Foot Soldier of Birmingham
+
+Added the 2017 [[RevisionistHistory]] episode on Bill Hudson's iconic Birmingham photograph and [[RonaldMcDowell]]'s [[FootSoldierMonument]]. Created focused profiles for McDowell, [[WalterGadsden]], [[RichardMiddleton]], and the monument, and extended [[PhotographicWitness]] and [[StatueCommemorationPolitics]] from their complete bounded source inventories.
+
+Core synthesis: the photograph made Birmingham's racist order politically visible, but one frame does not establish that Gadsden was a marcher or that Middleton deliberately released Leo. McDowell then deliberately replaced that ambiguity with a symbolic confrontation by shrinking and recasting Gadsden, enlarging and visually blinding Middleton, and making the dog wolf-like. Structural historical truth and factual accuracy about named individuals remain related but distinct obligations.
+
+No settled contradiction was adopted. Gadsden's oral history was recorded decades later, the restraint interpretation relies partly on Middleton's colleague and widow, and the supplied file is a structured episode summary rather than a transcript, full photographic sequence, police record, commission archive, or visitor study. Correcting the depicted encounter does not weaken the wider record of segregation and coercive policing, while the monument's symbolic purpose does not settle the ethics of imposing identities and intentions on its subjects.
+
+Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MartinLutherKingJr]], [[HistoricalMemoryContest]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,221 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

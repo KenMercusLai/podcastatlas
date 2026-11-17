@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14744
+wiki_total_pages: 14748
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "RichardManks"
     title: "Richard Manks"
     url: "/wiki/entities/richardmanks/"
+  - key: "RichardMiddleton"
+    title: "Richard Middleton"
+    url: "/wiki/entities/richardmiddleton/"
   - key: "RichardNevilleEarlOfWarwick"
     title: "Richard Neville, Earl of Warwick"
     url: "/wiki/entities/richardnevilleearlofwarwick/"
@@ -998,6 +1001,9 @@ wiki_pages:
   - key: "RonaldHutton"
     title: "Ronald Hutton"
     url: "/wiki/entities/ronaldhutton/"
+  - key: "RonaldMcDowell"
+    title: "Ronald McDowell"
+    url: "/wiki/entities/ronaldmcdowell/"
   - key: "RonaldReagan"
     title: "Ronald Reagan / 罗纳德·里根"
     url: "/wiki/entities/ronaldreagan/"
