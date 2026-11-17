@@ -5,7 +5,8 @@ tags: [audio, documentary, storytelling, journalism]
 sources:
   - the-big-birthday-party-the-big-birthday-party
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
-last_updated: 2026-11-15
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,6 +39,7 @@ The method therefore depends on contingency plus editorial restraint. A found mo
 
 - [[the-big-birthday-party-the-big-birthday-party]] uses an institutional admission and [[CaseyBeathardBowles]]'s repeated lyric lapse to show discovery occurring within recorded conversation and performance.
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] supplies the original recorded context for Bowles's lapse and adds [[JackWhite]]'s unscripted substitution as a second in-process test.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] identifies the 2018 original release behind those recorded moments; the later encore preserves the same examples.
 
 ### Chance observational proof
 

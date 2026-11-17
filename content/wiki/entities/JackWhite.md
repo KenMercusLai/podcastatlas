@@ -4,7 +4,8 @@ type: entity
 tags: [person, musician, singer, producer]
 sources:
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
-last_updated: 2026-11-15
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,10 +34,12 @@ During rehearsal, White changes “cleverly” to “carefully.” [[MalcolmGlad
 ### Musical and emotional reading
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] records White's account of the minor harmony, concealed loneliness, spoken rhythm, and bridge-level exposure.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] supplies the original 2018 release of White's musical and emotional reading.
 
 ### Comparative parapraxis
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] documents his “carefully” substitution and uses it as a contemporary comparison to Elvis's errors.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] preserves the original recorded context for that substitution.
 
 ## Qualifications
 

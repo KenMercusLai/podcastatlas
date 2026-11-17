@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3797
+topic_total_pages: 3798
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10578,6 +10578,9 @@ topic_sources:
   - key: "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell"
     title: "Americana Music Live with Drew Holcomb and Malcolm Gladwell"
     url: "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"
+  - key: "analysis-parapraxis-elvis-analysis-parapraxis-elvis"
+    title: "Analysis, Parapraxis, Elvis"
+    url: "/wiki/sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis/"
   - key: "default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266"
     title: "Anatomy of a movie market"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266/"

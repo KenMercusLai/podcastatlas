@@ -42618,3 +42618,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Analysis, Parapraxis, Elvis
+
+Added the original 2018 [[RevisionistHistory]] episode behind the already cataloged 2025 encore. The source uses [[SigmundFreud|Freud]]'s [[Parapraxis]] to interpret [[ElvisPresley]]'s altered “Old Shep” lyric and his concentrated errors in the spoken bridge of [[AreYouLonesomeTonight]], then tests the wider idea through recorded substitutions and memory lapses by [[JackWhite]] and [[CaseyBeathardBowles]].
+
+The focused pages now distinguish the original release from the later encore without duplicating or strengthening the underlying judgment. Repetition, passage-level concentration, emotional timing, and participant reflection make the errors suggestive, while rhythm, fatigue, health, intoxication, ordinary retrieval failure, selection, and interpreter expectation keep the psychoanalytic reading inferential rather than diagnostic.
+
+No settled contradiction was adopted. The original and encore summaries preserve the same central examples and reported error counts; their release dates, durations, and media URLs differ. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because the focused pages capture the durable provenance addition without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,201 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

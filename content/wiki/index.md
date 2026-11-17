@@ -5326,6 +5326,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Good Old Boys](sources/good-old-boys-good-old-boys.md) — Revisionist History connects Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, Northern hypocrisy, and the reception risks of morally uncomfortable satire.
 - [The Tortoise and the Hare](sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare.md) — Revisionist History challenges timed LSAT and elite-law-school proxies through Jeffrey Sutton, legal-work pace, outcome-validated hiring, and a proposal to hide school names from employers.
 - [Puzzle Rush](sources/puzzle-rush-puzzle-rush.md) — Revisionist History uses the LSAT, format-sensitive law-school outcomes, and chess time controls to show how assessment speed helps define visible ability and rankings.
+- [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
 - [John Rabe](entities/JohnRabe.md) — German businessman and Nazi Party member who helped organize the Nanking International Safety Zone and document Japanese violence.

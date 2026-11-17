@@ -7,7 +7,8 @@ sources:
   - lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv
   - 603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
-last_updated: 2026-11-15
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -44,6 +45,7 @@ The performance branch applies Freud's [[Parapraxis]] to slips, substitutions, a
 - Oedipal genealogy: [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]] connects Freud's 1897 formulation, *The Interpretation of Dreams*, and the 1910 term to his claim that Oedipus moves audiences through shared impulses.
 - Historical qualification: [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]] argues that Sophocles' tragedy belongs to a specific Athenian literary, political, and religious world.
 - Meaningful error: [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] applies [[Parapraxis]] to repeated performance mistakes and tests the idea through [[ElvisPresley]], [[JackWhite]], and [[CaseyBeathardBowles]].
+- Original release: [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] supplies the 2018 source for the same qualified application of meaningful error.
 
 ## Qualifications
 

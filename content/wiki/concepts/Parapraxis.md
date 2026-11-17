@@ -4,7 +4,8 @@ type: concept
 tags: [psychoanalysis, memory, performance, mistakes, emotion]
 sources:
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
-last_updated: 2026-11-15
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,14 +37,17 @@ The most defensible synthesis is therefore qualified: performance errors can dis
 ### Concentrated and timed error pattern
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] reports 109 errors in ten Elvis bridge performances, with 29 clustered around love, changed behavior, rejection, and emptiness and the worst cases occurring after his separation.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] provides the original 2018 account of the same concentrated and timed error pattern.
 
 ### Comparative live slips
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] records [[JackWhite]]'s “carefully” substitution and [[CaseyBeathardBowles]]'s repeated failure to retrieve a lyric about her mother.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] supplies the original release context for both live comparison cases.
 
 ### Performance-form alternative
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] identifies the bridge's speech against waltz rhythm as an independent memory and delivery challenge.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] likewise preserves musical form as an alternative or contributing explanation.
 
 ## Counterevidence & Qualifications
 

@@ -6,6 +6,7 @@ sources:
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
   - blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell
   - in-a-metal-mood-in-a-metal-mood
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -39,10 +40,12 @@ A critical market comparison places that expressive effectiveness inside unequal
 ### Concentrated performance errors
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] reports 109 errors in the spoken bridges of ten live performances while the sung sections remained comparatively accurate.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] supplies the original 2018 release of the same reported bridge-error pattern.
 
 ### Biographical and emotional context
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] connects the altered “Old Shep” lyric and later bridge failures to childhood performance, bereavement, separation, betrayal, and loneliness while labeling the causal reading as interpretive.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] preserves that psychobiographical reading in the original episode while retaining competing performance explanations.
 
 ### Commercial film constraint and expressive contrast
 

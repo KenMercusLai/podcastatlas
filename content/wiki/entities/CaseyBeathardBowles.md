@@ -5,7 +5,8 @@ tags: [person, singer-songwriter, musician]
 sources:
   - the-big-birthday-party-the-big-birthday-party
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
-last_updated: 2026-11-15
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,6 +38,7 @@ Her role is bounded to these two accounts; the sources do not supply a broader m
 
 - [[the-big-birthday-party-the-big-birthday-party]] recounts Bowles's explanation and repeated loss of place during performance as a defining example of [[DiscoveryLedAudioStorytelling]].
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] supplies the song, forgotten passage, family contrast, and repeated live interruptions behind that retrospective account.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] supplies the original 2018 release of the same recorded performance context.
 
 ## Qualifications
 

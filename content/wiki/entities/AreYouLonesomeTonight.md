@@ -4,7 +4,8 @@ type: entity
 tags: [song, music, performance, elvis-presley]
 sources:
   - encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis
-last_updated: 2026-11-15
+  - analysis-parapraxis-elvis-analysis-parapraxis-elvis
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,14 +34,17 @@ That formal reversal matters to the episode's interpretation. The opening lets t
 ### Formal exposure
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] contrasts the questioning sung opening with the bridge's direct admission of deception and abandonment.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] supplies the original release of that formal contrast.
 
 ### Rhythmic and memory demand
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] records [[JackWhite]] and Bobby Braddock's view that speech against the underlying waltz is harder to retain than material that can be sung.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] preserves the original musical-difficulty account.
 
 ### Repeated error pattern
 
 - [[encore-analysis-parapraxis-elvis-encore-analysis-parapraxis-elvis]] reports 109 bridge errors across ten performances and comparatively accurate sung sections.
+- [[analysis-parapraxis-elvis-analysis-parapraxis-elvis]] provides the original 2018 source note for the same reported count.
 
 ## Qualifications
 
