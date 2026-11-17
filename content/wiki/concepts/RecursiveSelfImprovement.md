@@ -15,7 +15,8 @@ sources:
   - 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza
   - 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv
   - lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg
-last_updated: 2026-11-16
+  - audio-99-alighodsi-databricks-audio-99-alighodsi-databricks
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,7 +28,9 @@ Recursive self-improvement is a loop in which AI contributes to the data, code, 
 
 ## Current Synthesis
 
-The evidence supports RSI as an uneven, human-supervised continuum rather than a proven autonomous takeoff. Models already help generate code, optimize kernels, construct data and environments, diagnose failures, search literature, and shorten experiments. [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] sharpens this into a declining-human-participation definition: an older model can contribute to its successor without independently controlling hardware, compute centers, objectives, or every training stage. The strongest near-term loops occur where evaluation is cheap, automatic, objective enough, and difficult to game. Higher-order research still depends on problem choice, abstraction, [[ResearchTaste]], physical validation, interpretability, and governance because a first successful loop does not establish stable recursion.
+The evidence supports RSI as an uneven, human-supervised continuum rather than a proven autonomous takeoff. Models already help generate code, optimize kernels, construct data and environments, diagnose failures, search literature, and shorten experiments. [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] sharpens this into a declining-human-participation definition: an older model can contribute to its successor without independently controlling hardware, compute centers, objectives, or every training stage. The strongest near-term loops occur where evaluation is cheap, automatic, objective enough, and difficult to game.
+
+A stricter test applies to runaway general recursion: successive models would need to train progressively faster, consume fewer resources, improve broadly rather than only through narrow reinforcement, and repeat that flywheel across generations. Present systems can satisfy the wiki's partial-participation definition while failing this stronger takeoff test. Higher-order research still depends on problem choice, abstraction, [[ResearchTaste]], physical validation, interpretability, resources, and governance because a first successful loop does not establish stable recursion.
 
 ## Key Claims
 
@@ -37,6 +40,7 @@ The evidence supports RSI as an uneven, human-supervised continuum rather than a
 - A successful iteration is not indefinite recursion; drift, reward hacking, weak tests, and specification errors can compound.
 - Human taste, abstraction, and direction selection remain central where the correct goal or valuable result is not mechanically decidable.
 - Governance becomes harder as improvement capability diffuses across labs, chips, power, open systems, and competing national regimes.
+- Runaway general recursion requires stronger evidence than AI-assisted coding: faster successor training, falling resource use, broad improvement, and repeatability across generations.
 
 ## Evidence
 
@@ -59,6 +63,9 @@ The evidence supports RSI as an uneven, human-supervised continuum rather than a
 - [[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] argues that distributed improvement loops can weaken centralized release-gate effectiveness while also creating regulatory-capture risk.
 - [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] and [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] document a shift from fear of runaway improvement toward fatalistic acceleration, peer review, and government backstops.
 
+### Runaway-loop test
+- [[audio-99-alighodsi-databricks-audio-99-alighodsi-databricks]] argues that automating nearly all coding is insufficient by itself; a true takeoff flywheel would require faster training, lower resource consumption, generalized improvement, and repeatability across successive generations.
+
 ## Counterevidence & Qualifications
 
 - No supplied source demonstrates open-ended autonomous recursion across many model generations.
@@ -67,12 +74,13 @@ The evidence supports RSI as an uneven, human-supervised continuum rather than a
 - Physical science, chip production, and drug development retain slow and costly reality checks even if hypothesis generation accelerates.
 - Fatalistic claims that a race cannot be stopped are political judgments, not technical proofs.
 - Compounding may be interrupted by compute, energy, data, organizational, safety, or S-curve limits.
+- Ghodsi's four conditions are a useful boundary for runaway superintelligence, not the only valid definition of partial RSI; the sources use the term at different levels of autonomy and generality.
 
 ## What Changed
 
-- Adopted declining human participation as the clearest practical continuum definition.
-- Elevated low-cost automated evaluation from one helpful mechanism to the main explanation for uneven RSI progress.
-- Added physical-validation cost as a boundary on AI-generated experiments.
+- Distinguished partial human-supervised RSI from a stricter runaway general-recursion test.
+- Added faster successor training, falling resource use, broad improvement, and multi-generation repeatability as takeoff evidence requirements.
+- Preserved low-cost evaluation, research judgment, and physical validation as reasons progress remains uneven.
 
 ## Related Concepts
 

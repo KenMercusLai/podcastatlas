@@ -8503,6 +8503,10 @@
     "title": "Agentic Economy",
     "url": "/wiki/concepts/agenticeconomy/"
   },
+  "AgenticManagementAnalytics": {
+    "title": "Agentic Management Analytics",
+    "url": "/wiki/concepts/agenticmanagementanalytics/"
+  },
   "AgenticOperatingSystem": {
     "title": "Agentic Operating System",
     "url": "/wiki/concepts/agenticoperatingsystem/"
@@ -9446,6 +9450,10 @@
   "AliFangxuehou": {
     "title": "阿里（《放学后的小巷》）",
     "url": "/wiki/entities/alifangxuehou/"
+  },
+  "AliGhodsi": {
+    "title": "Ali Ghodsi",
+    "url": "/wiki/entities/alighodsi/"
   },
   "AliIbnAbiTalib": {
     "title": "Ali ibn Abi Talib",
@@ -27791,6 +27799,10 @@
     "title": "Databricks",
     "url": "/wiki/entities/databricks/"
   },
+  "DatabricksGenie": {
+    "title": "Databricks Genie",
+    "url": "/wiki/entities/databricksgenie/"
+  },
   "DatangRenewablePower": {
     "title": "Datang Renewable Power / 大唐新能源",
     "url": "/wiki/entities/datangrenewablepower/"
@@ -33854,6 +33866,10 @@
   "EnterpriseAICostCenterFraming": {
     "title": "Enterprise AI Cost-Center Framing / 企业AI成本中心框架",
     "url": "/wiki/concepts/enterpriseaicostcenterframing/"
+  },
+  "EnterpriseAIDeploymentBottlenecks": {
+    "title": "Enterprise AI Deployment Bottlenecks",
+    "url": "/wiki/concepts/enterpriseaideploymentbottlenecks/"
   },
   "EnterpriseAIFalsePositiveRisk": {
     "title": "Enterprise AI False Positive Risk",
@@ -111982,6 +111998,10 @@
   "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1": {
     "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
     "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+  },
+  "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks": {
+    "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+    "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
   },
   "avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163": {
     "title": "Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3593
+topic_total_pages: 3594
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1537,6 +1537,9 @@ topic_concepts:
   - key: "EnterpriseAgentGovernance"
     title: "Enterprise Agent Governance"
     url: "/wiki/concepts/enterpriseagentgovernance/"
+  - key: "EnterpriseAIDeploymentBottlenecks"
+    title: "Enterprise AI Deployment Bottlenecks"
+    url: "/wiki/concepts/enterpriseaideploymentbottlenecks/"
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate](sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks.md) — Ali Ghodsi connects Databricks' origins and Genie ontology to enterprise AI context, agentic management, deployment bottlenecks, recursive self-improvement limits, and slow economic diffusion.
 - [152 ✪ 韩国考察回顾：文化乘数赋能消费品牌](sources/ep152-ep152.md) — 疯投圈以圣水洞、K-Beauty、OLIVE YOUNG 与霸王茶姬解释文化乘数、线下空间媒体化、本地化和品牌长期性测试。
 - [189.日元、加息与日本企业的出海经验｜专访亚洲开发银行前行长中尾武彦](sources/lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw.md) — 起朱楼宴宾客专访中尾武彦，以日美利差、日元套利和货币正常化解释弱日元，并用援助、政策金融、商社网络与东道国共益框架比较中日企业出海。
 - [Transchipment: Huang and the AI aftershocks](sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281.md) — Nvidia's succession and export-control crisis, Britain's migration reversal, and the next James Bond.
@@ -5371,6 +5372,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Ali Ghodsi](entities/AliGhodsi.md) — Databricks co-founder and CEO focused on enterprise context, agentic management, deployment constraints, and practical AI-risk boundaries.
+- [Databricks Genie](entities/DatabricksGenie.md) — Organizational-context analytics product used to connect people, workflows, meetings, metrics, customer requests, and decisions.
 - [Takehiko Nakao / 中尾武彦](entities/TakehikoNakao.md) — Former Japanese finance official and ADB president connecting monetary normalization, development finance, and host-country-centered globalization.
 - [Asian Development Bank / 亚洲开发银行](entities/AsianDevelopmentBank.md) — Multilateral development-finance institution represented through infrastructure productivity, repayment capacity, and cross-border investment context.
 - [Robert Pattinson](entities/RobertPattinson.md) — British actor reported by the episode as selected to play the next James Bond.
@@ -20266,6 +20269,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Agentic Management Analytics](concepts/AgenticManagementAnalytics.md) — AI analysis over connected organizational data for feedback, structure, engineering, meetings, customers, culture, and decision latency.
+- [Enterprise AI Deployment Bottlenecks](concepts/EnterpriseAIDeploymentBottlenecks.md) — Context, security, economics, and strategic-control constraints that separate model capability from enterprise transformation.
 - [Cultural Multiplier Effect](concepts/CulturalMultiplierEffect.md) — Cultural attention that lowers recognition and trust costs for adjacent tourism, beauty, food, retail, and consumer demand without guaranteeing durability.
 - [Retail Space as Media](concepts/RetailSpaceAsMedia.md) — Store and pop-up strategy evaluated through distributed attention, content circulation, later conversion, and brand signal as well as direct sales.
 - [Japanese Monetary-Policy Normalization / 日本货币政策正常化](concepts/JapaneseMonetaryPolicyNormalization.md) — Distributional transition from exceptional monetary easing toward rates more consistent with sustained inflation, currency stability, and capital-allocation signals.

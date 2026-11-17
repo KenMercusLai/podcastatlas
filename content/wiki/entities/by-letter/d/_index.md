@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14797
+wiki_total_pages: 14799
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "Databricks"
     title: "Databricks"
     url: "/wiki/entities/databricks/"
+  - key: "DatabricksGenie"
+    title: "Databricks Genie"
+    url: "/wiki/entities/databricksgenie/"
   - key: "DatangRenewablePower"
     title: "Datang Renewable Power / 大唐新能源"
     url: "/wiki/entities/datangrenewablepower/"

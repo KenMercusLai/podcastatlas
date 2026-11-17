@@ -12482,6 +12482,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticdataengineeringharness/"
     },
+    "AgenticManagementAnalytics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/agenticmanagementanalytics/"
+    },
     "AgenticOperatingSystem": {
       "episode_count": 1,
       "show_count": 1,
@@ -15635,6 +15651,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/alicrum/"
+    },
+    "AliGhodsi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/alighodsi/"
     },
     "AliIbnAbiTalib": {
       "episode_count": 1,
@@ -78225,9 +78257,9 @@
       "url": "/wiki/concepts/datateamasbusinesspartner/"
     },
     "Databricks": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -78256,10 +78288,33 @@
           "show": "Data Science With Sam",
           "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
           "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        },
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-11-18",
       "url": "/wiki/entities/databricks/"
+    },
+    "DatabricksGenie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/databricksgenie/"
     },
     "DatingAppMarketplaceDynamics": {
       "episode_count": 4,
@@ -102412,6 +102467,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/enterpriseaicostcenterframing/"
     },
+    "EnterpriseAIDeploymentBottlenecks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/enterpriseaideploymentbottlenecks/"
+    },
     "EnterpriseAIPilotPurgatory": {
       "episode_count": 6,
       "show_count": 3,
@@ -102845,9 +102916,9 @@
       "url": "/wiki/concepts/enterpriseopenweightdeployment/"
     },
     "EnterpriseOperationalMemory": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
@@ -102876,9 +102947,16 @@
           "show": "乱翻书",
           "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
           "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        },
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/enterpriseoperationalmemory/"
     },
     "EnterpriseOwnedModels": {
@@ -272141,9 +272219,9 @@
       "url": "/wiki/entities/recursionpharma/"
     },
     "RecursiveSelfImprovement": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 8,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -272228,9 +272306,16 @@
           "show": "十字路口Crossing",
           "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
           "url": "/wiki/sources/lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg/"
+        },
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/recursiveselfimprovement/"
     },
     "RedCliffsBattle": {
@@ -273373,9 +273458,9 @@
       "url": "/wiki/concepts/regulatedcryptotruststrategy/"
     },
     "RegulatedEnterpriseAIDeployment": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "8228694742_944685 [8228694742_944685].md",
@@ -273390,9 +273475,16 @@
           "show": "晚点聊 LateTalk",
           "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
           "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
+        },
+        {
+          "episode_file": "AUDIO_99_AliGhodsi_Databricks [AUDIO_99_AliGhodsi_Databricks].md",
+          "key": "audio-99-alighodsi-databricks-audio-99-alighodsi-databricks",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
         }
       ],
-      "updated": "2026-11-06",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/regulatedenterpriseaideployment/"
     },
     "RegulatedPeptideAccess": {

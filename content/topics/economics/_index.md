@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2420
+topic_total_pages: 2421
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1159,6 +1159,9 @@ topic_concepts:
   - key: "EnterpriseAICostCenterFraming"
     title: "Enterprise AI Cost-Center Framing / 企业AI成本中心框架"
     url: "/wiki/concepts/enterpriseaicostcenterframing/"
+  - key: "EnterpriseAIDeploymentBottlenecks"
+    title: "Enterprise AI Deployment Bottlenecks"
+    url: "/wiki/concepts/enterpriseaideploymentbottlenecks/"
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"

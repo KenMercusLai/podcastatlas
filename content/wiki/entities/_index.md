@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14797
+wiki_total_pages: 14799
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "AliAnsari"
     title: "Ali Ansari"
     url: "/wiki/entities/aliansari/"
+  - key: "AliGhodsi"
+    title: "Ali Ghodsi"
+    url: "/wiki/entities/alighodsi/"
   - key: "AliIbnAbiTalib"
     title: "Ali ibn Abi Talib"
     url: "/wiki/entities/aliibnabitalib/"

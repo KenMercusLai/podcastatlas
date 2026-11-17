@@ -36831,6 +36831,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "EnterpriseAIDeploymentBottlenecks": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EnterpriseAIFalsePositiveRisk": [
     {
       "key": "technology",
