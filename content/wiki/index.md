@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Saigon, 1965](sources/saigon-1965-saigon-1965.md) — Revisionist History reconstructs RAND’s Viet Cong morale archive to show how biography, indicator choice, dissent, and institutional review can produce opposite strategic judgments from the same evidence.
 - [The Big Man Can’t Shoot](sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot.md) — Revisionist History uses underhand free throws and Granovetter’s threshold model to connect social stigma, effective-practice adoption, institutional convention, and the costs of approval independence.
 - [Carlos Doesn’t Remember](sources/carlos-doesn-t-remember-carlos-doesn-t-remember.md) — Revisionist History connects Carlos's interrupted education with early advocacy, high-achieving low-income college undermatching, fragile talent, and privilege as access to second chances.
 - [Food Fight](sources/food-fight-food-fight.md) — Revisionist History uses Vassar and Bowdoin dining to expose how aid, full-pay tuition, endowment use, amenities, and affluent-student recruitment can trap an access-oriented college.
@@ -5362,6 +5363,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Mai Elliott](entities/MaiElliott.md) — Vietnamese RAND interviewer whose family displacement, field encounters, and delayed reassessment reveal both the force and revisability of interpretive commitments.
+- [Leon Goure](entities/LeonGoure.md) — RAND project leader whose refugee formation, morale analysis, and policy advocacy supported an approaching-collapse interpretation in Vietnam.
+- [Conrad Kellen](entities/ConradKellen.md) — RAND dissenter who read durable Viet Cong resolve in the interview archive and judged the American war unwinnable.
+- [RAND Corporation](entities/RANDCorporation.md) — Research institution whose Vietnam interview archive enabled both policy influence and sharp internal analytical disagreement.
+- [Viet Cong Motivation and Morale Project](entities/VietCongMotivationAndMoraleProject.md) — Secret Pentagon-funded RAND interview project that exposed the gap between information abundance and analytical convergence.
 - [Wilt Chamberlain](entities/WiltChamberlain.md) — Record-setting scorer whose abandonment of successful underhand free throws illustrates effective practice defeated by social stigma.
 - [Rick Barry](entities/RickBarry.md) — Elite underhand free-throw shooter whose approval independence supports mastery while carrying visible interpersonal costs.
 - [Mark Granovetter](entities/MarkGranovetter.md) — Sociologist whose threshold model separates private belief from willingness to act before enough peers do.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14777
+wiki_total_pages: 14782
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "MahsaAlert"
     title: "Mahsa Alert"
     url: "/wiki/entities/mahsaalert/"
+  - key: "MaiElliott"
+    title: "Mai Elliott"
+    url: "/wiki/entities/maielliott/"
   - key: "MaidOfHolland"
     title: "Maid of Holland"
     url: "/wiki/entities/maidofholland/"

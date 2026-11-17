@@ -66345,6 +66345,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/conquistadorcivilwarperu/"
     },
+    "ConradKellen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Saigon,_1965 [Saigon,_1965].md",
+          "key": "saigon-1965-saigon-1965",
+          "show": "Revisionist History",
+          "title": "Saigon, 1965",
+          "url": "/wiki/sources/saigon-1965-saigon-1965/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/conradkellen/"
+    },
     "ConscienceFormationUnderDictatorship": {
       "episode_count": 1,
       "show_count": 1,
@@ -188257,6 +188273,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/leonfestinger/"
     },
+    "LeonGoure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Saigon,_1965 [Saigon,_1965].md",
+          "key": "saigon-1965-saigon-1965",
+          "show": "Revisionist History",
+          "title": "Saigon, 1965",
+          "url": "/wiki/sources/saigon-1965-saigon-1965/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/leongoure/"
+    },
     "LeonardChapman": {
       "episode_count": 1,
       "show_count": 1,
@@ -208357,6 +208389,22 @@
       ],
       "updated": "2026-10-21",
       "url": "/wiki/entities/maheshkeshwala/"
+    },
+    "MaiElliott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Saigon,_1965 [Saigon,_1965].md",
+          "key": "saigon-1965-saigon-1965",
+          "show": "Revisionist History",
+          "title": "Saigon, 1965",
+          "url": "/wiki/sources/saigon-1965-saigon-1965/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/maielliott/"
     },
     "MaidOfHolland": {
       "episode_count": 1,
@@ -268390,6 +268438,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/rand/"
     },
+    "RANDCorporation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Saigon,_1965 [Saigon,_1965].md",
+          "key": "saigon-1965-saigon-1965",
+          "show": "Revisionist History",
+          "title": "Saigon, 1965",
+          "url": "/wiki/sources/saigon-1965-saigon-1965/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/randcorporation/"
+    },
     "RDT1B": {
       "episode_count": 1,
       "show_count": 1,
@@ -307831,9 +307895,9 @@
       "url": "/wiki/concepts/strategicindulgenceoverextension/"
     },
     "StrategicIntelligenceInterpretation": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -307848,9 +307912,16 @@
           "show": "The Rest Is History",
           "title": "37. Spies, with Ben Macintyre",
           "url": "/wiki/sources/37-spies-with-ben-macintyre-glt4382644548/"
+        },
+        {
+          "episode_file": "Saigon,_1965 [Saigon,_1965].md",
+          "key": "saigon-1965-saigon-1965",
+          "show": "Revisionist History",
+          "title": "Saigon, 1965",
+          "url": "/wiki/sources/saigon-1965-saigon-1965/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/strategicintelligenceinterpretation/"
     },
     "StrategicLoyaltyFactionalBalance": {
@@ -334781,6 +334852,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
+    },
+    "VietCongMotivationAndMoraleProject": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Saigon,_1965 [Saigon,_1965].md",
+          "key": "saigon-1965-saigon-1965",
+          "show": "Revisionist History",
+          "title": "Saigon, 1965",
+          "url": "/wiki/sources/saigon-1965-saigon-1965/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/vietcongmotivationandmoraleproject/"
     },
     "Vietnam": {
       "episode_count": 5,

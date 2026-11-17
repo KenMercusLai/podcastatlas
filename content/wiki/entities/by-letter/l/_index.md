@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14777
+wiki_total_pages: 14782
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "LeonFestinger"
     title: "Leon Festinger / 利昂·费斯廷格"
     url: "/wiki/entities/leonfestinger/"
+  - key: "LeonGoure"
+    title: "Leon Goure"
+    url: "/wiki/entities/leongoure/"
   - key: "LeonardBaum"
     title: "Leonard Baum"
     url: "/wiki/entities/leonardbaum/"

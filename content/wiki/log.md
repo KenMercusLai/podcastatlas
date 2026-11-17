@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Saigon, 1965
+
+Added a [[RevisionistHistory]] episode reconstructing [[RANDCorporation]]'s [[VietCongMotivationAndMoraleProject]] through [[MaiElliott]], [[LeonGoure]], and [[ConradKellen]]. Created synthesis-first profiles for the project, RAND, and all three interpreters, then resynthesized [[StrategicIntelligenceInterpretation]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: approximately 62,000 pages of interviews did not determine one strategic conclusion. Goure treated falling expectations of victory as evidence that bombing was breaking morale; Kellen treated continued willingness to fight as evidence of durable resolve; and Elliott encountered disconfirming evidence before family vulnerability allowed her to accept its policy implications. Intelligence quality therefore depends on sampling, translation, indicator choice, rival explanations, dissent, and review as well as collection volume.
+
+No settled contradiction was adopted. Biography can direct attention without mechanically causing error; Kellen's eventual agreement with the war's outcome does not validate every inference; and Goure's policy alignment does not establish insincerity. Statistics, sampling, translations, private motives, internal review, policy influence, and counterfactual claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, RAND archive, interview corpus, or Pentagon record. Broad [[RevisionistHistory]], country, and [[LyndonBJohnson]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,234 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | 纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路
 
 Added a [[LuoyonghaosCrossroads|罗永浩的十字路口]] interview following [[ChenXiaoqing|陈晓卿]] from a Lingbi teachers' compound through photography, CCTV documentary work, food filmmaking, studio leadership, platform change, AI, and approaching retirement. Created synthesis-first pages for Chen, [[TemporalHomeland]], [[DocumentaryTrustThroughDuration]], and [[AdaptiveCraftSelfRenewal]], then resynthesized [[SensoryPreferencePlasticity]] from its complete preserved evidence inventory before appending the new source once.
@@ -43087,6 +43097,10 @@ Core synthesis: evidence that a practice works may not overcome ridicule, gender
 No settled contradiction was adopted. The supplied file is a structured episode summary rather than a transcript, game dataset, biomechanics study, Granovetter paper, NFL draft analysis, fourth-down study, or independent personality assessment. Statistics, motives, mechanics, and causal claims remain episode-scoped, and underhand success for Barry and one Chamberlain season does not prove that the technique is optimal for every player. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[RichardThaler]], [[InstitutionalInnovationAdoptionResistance]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,233 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

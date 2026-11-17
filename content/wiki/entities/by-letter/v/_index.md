@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14777
+wiki_total_pages: 14782
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "Vienna"
     title: "Vienna / 维也纳"
     url: "/wiki/entities/vienna/"
+  - key: "VietCongMotivationAndMoraleProject"
+    title: "Viet Cong Motivation and Morale Project"
+    url: "/wiki/entities/vietcongmotivationandmoraleproject/"
   - key: "Vietnam"
     title: "Vietnam"
     url: "/wiki/entities/vietnam/"
