@@ -20996,6 +20996,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BorderEnforcementSettlementBackfire": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BorderLegalSignal": [
     {
       "key": "politics",
@@ -111477,6 +111484,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "general-chapman-s-last-stand-general-chapman-s-last-stand": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384": [

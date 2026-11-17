@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11682
+wiki_total_pages: 11684
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "CircularLinearTimeTension"
     title: "Circular And Linear Time Tension / 环形时间与线性时间张力"
     url: "/wiki/concepts/circularlineartimetension/"
+  - key: "CircularMigration"
+    title: "Circular Migration"
+    url: "/wiki/concepts/circularmigration/"
   - key: "CircularProductTakeback"
     title: "Circular Product Takeback"
     url: "/wiki/concepts/circularproducttakeback/"

@@ -42703,3 +42703,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | General Chapman’s Last Stand
+
+Added a [[RevisionistHistory]] episode using [[LeonardChapman]] and the [[MexicanMigrationProject]] to explain how a more expensive and dangerous United States–Mexico crossing could suppress return travel and turn [[CircularMigration]] into longer-term family settlement.
+
+Created focused profiles for Chapman, [[DouglasMassey]], [[JorgeDurand]], and the research project, plus [[BorderEnforcementSettlementBackfire]]. The synthesis distinguishes gross entries from net migration, direct INS modernization from later enforcement programs, observed household trip histories from model-based counterfactuals, and Chapman’s institutional competence and racial-equality record from the consequences attributed to the enforcement trajectory he helped energize.
+
+No settled contradiction was adopted. The episode adds an exit-response mechanism to [[WallBorderSystems]] and [[RelationalBorder]], but the one-third population estimate, return probabilities, historical percentages, poll figures, Chapman’s Vietnam motive, and causal magnitude remain source-scoped. Economic, demographic, legal, labor-market, family, and political alternatives are not ruled out by the supplied structured summary. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[UnitedStates]], [[Mexico]], [[USBorderPatrol]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,207 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

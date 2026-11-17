@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [General Chapman’s Last Stand](sources/general-chapman-s-last-stand-general-chapman-s-last-stand.md) — Revisionist History argues that costlier border crossing suppressed return migration and helped turn a circular labor flow into permanent settlement.
 - [The Hug Heard Round the World](sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world.md) — Revisionist History uses Sammy Davis Jr.'s Nixon embrace, civil-rights record, and Rosabeth Kanter's research to examine token isolation, conditional belonging, and constrained accommodation.
 - [Malcolm Gladwell's 12 Rules for Life](sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life.md) — Revisionist History turns an early-goalie-pull model into a qualified rule for choosing recovery odds over respectable-looking defeat and treating approval independence as situational.
 - [The Imaginary Crimes of Margit Hamosh](sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh.md) — Revisionist History connects Hamosh's language-centered misconduct case, leaked findings, journalistic complicity, mass sociogenic illness, and displaced fear.
@@ -5334,6 +5335,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
+- [Leonard Chapman](entities/LeonardChapman.md) — Marine commandant and INS commissioner whose effective administration anchors the episode’s border-policy paradox.
+- [Douglas Massey](entities/DouglasMassey.md) — Sociologist and Mexican Migration Project co-founder associated with the enforcement-settlement hypothesis.
+- [Jorge Durand](entities/JorgeDurand.md) — Anthropologist and migration researcher who helped build the project’s household trip histories.
+- [Mexican Migration Project](entities/MexicanMigrationProject.md) — Longitudinal household research program measuring repeated Mexico–United States migration and return.
 - [Sammy Davis Jr.](entities/SammyDavisJr.md) — Entertainer whose Nixon embrace, civil-rights work, and conditional access expose the costs of isolated minority inclusion.
 - [Rosabeth Kanter](entities/RosabethKanter.md) — Organizational scholar connecting numerical isolation to visibility, stereotyping, and majority loyalty tests.
 - [Malcolm X](entities/MalcolmX.md) — Black political leader whose house-versus-field metaphor supplies the episode's initial indictment of accommodation and community betrayal.
@@ -20144,6 +20149,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Circular Migration](concepts/CircularMigration.md) — Repeated movement between home and work destinations rather than one-way permanent settlement.
+- [Border Enforcement–Settlement Backfire](concepts/BorderEnforcementSettlementBackfire.md) — Mechanism by which costlier crossing can suppress exits, lengthen stays, and increase family settlement.
 - [Tokenism](concepts/Tokenism.md) — Conditional inclusion in which numerical isolation produces scrutiny, category representation, stereotypes, and loyalty tests without equivalent power or freedom.
 - [Pull the Goalie Decision Rule](concepts/PullTheGoalieDecisionRule.md) — Practice of optimizing recovery probability rather than the appearance of respectable defeat while retaining ethical and model limits.
 - [Situational Disagreeableness](concepts/SituationalDisagreeableness.md) — Selective independence from approval when convention obstructs consequential judgment, bounded by accountability and low-cost kindness.

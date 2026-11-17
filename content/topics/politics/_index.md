@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3584
+topic_total_pages: 3586
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -562,6 +562,9 @@ topic_concepts:
   - key: "BoomlessCruise"
     title: "Boomless Cruise"
     url: "/wiki/concepts/boomlesscruise/"
+  - key: "BorderEnforcementSettlementBackfire"
+    title: "Border Enforcement–Settlement Backfire"
+    url: "/wiki/concepts/borderenforcementsettlementbackfire/"
   - key: "BorderLegalSignal"
     title: "Border Legal Signal"
     url: "/wiki/concepts/borderlegalsignal/"
@@ -9834,6 +9837,9 @@ topic_sources:
   - key: "gambling-with-michael-lewis-gambling-with-michael-lewis"
     title: "Gambling with Michael Lewis"
     url: "/wiki/sources/gambling-with-michael-lewis-gambling-with-michael-lewis/"
+  - key: "general-chapman-s-last-stand-general-chapman-s-last-stand"
+    title: "General Chapman’s Last Stand"
+    url: "/wiki/sources/general-chapman-s-last-stand-general-chapman-s-last-stand/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425"
     title: "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
