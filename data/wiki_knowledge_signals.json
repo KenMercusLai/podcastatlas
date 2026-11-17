@@ -86953,9 +86953,9 @@
       "url": "/wiki/entities/donaldbradman/"
     },
     "DonaldHollowell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
@@ -86963,6 +86963,13 @@
           "show": "Revisionist History",
           "title": "Mr. Hollowell Didn’t Like That",
           "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        },
+        {
+          "episode_file": "State_v_Johnson [State_v_Johnson].md",
+          "key": "state-v-johnson-state-v-johnson",
+          "show": "Revisionist History",
+          "title": "State v. Johnson: Power, Race, and a Death Sentence",
+          "url": "/wiki/sources/state-v-johnson-state-v-johnson/"
         }
       ],
       "updated": "2026-11-17",
@@ -103202,9 +103209,9 @@
       "url": "/wiki/concepts/epistemicinfrastructurepower/"
     },
     "EpistemicInjusticeExperienceSilencing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
@@ -103212,6 +103219,13 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
           "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        },
+        {
+          "episode_file": "State_v_Johnson [State_v_Johnson].md",
+          "key": "state-v-johnson-state-v-johnson",
+          "show": "Revisionist History",
+          "title": "State v. Johnson: Power, Race, and a Death Sentence",
+          "url": "/wiki/sources/state-v-johnson-state-v-johnson/"
         }
       ],
       "updated": "2026-09-10",
@@ -229319,6 +229333,22 @@
       "updated": "2026-10-22",
       "url": "/wiki/entities/nathanielherz/"
     },
+    "NathanielJohnson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "State_v_Johnson [State_v_Johnson].md",
+          "key": "state-v-johnson-state-v-johnson",
+          "show": "Revisionist History",
+          "title": "State v. Johnson: Power, Race, and a Death Sentence",
+          "url": "/wiki/sources/state-v-johnson-state-v-johnson/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/nathanieljohnson/"
+    },
     "NationalAnthemPoliticalPlasticity": {
       "episode_count": 6,
       "show_count": 1,
@@ -267929,9 +267959,9 @@
       "url": "/wiki/concepts/racializedfinancialguardianship/"
     },
     "RacializedInstitutionalSelfCoordination": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
@@ -267939,6 +267969,13 @@
           "show": "Revisionist History",
           "title": "Mr. Hollowell Didn’t Like That",
           "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        },
+        {
+          "episode_file": "State_v_Johnson [State_v_Johnson].md",
+          "key": "state-v-johnson-state-v-johnson",
+          "show": "Revisionist History",
+          "title": "State v. Johnson: Power, Race, and a Death Sentence",
+          "url": "/wiki/sources/state-v-johnson-state-v-johnson/"
         }
       ],
       "updated": "2026-11-17",
@@ -332557,9 +332594,9 @@
       "url": "/wiki/concepts/vernacularscripturereach/"
     },
     "VernonJordan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
@@ -332567,6 +332604,13 @@
           "show": "Revisionist History",
           "title": "Mr. Hollowell Didn’t Like That",
           "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        },
+        {
+          "episode_file": "State_v_Johnson [State_v_Johnson].md",
+          "key": "state-v-johnson-state-v-johnson",
+          "show": "Revisionist History",
+          "title": "State v. Johnson: Power, Race, and a Death Sentence",
+          "url": "/wiki/sources/state-v-johnson-state-v-johnson/"
         }
       ],
       "updated": "2026-11-17",

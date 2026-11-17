@@ -42847,3 +42847,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | State v. Johnson: Power, Race, and a Death Sentence
+
+Added the 2017 [[RevisionistHistory]] episode on [[NathanielJohnson]]'s 1959 prosecution and execution in Augusta, Georgia. Created a focused Johnson profile and extended [[VernonJordan]], [[DonaldHollowell]], [[RacializedInstitutionalSelfCoordination]], and [[EpistemicInjusticeExperienceSilencing]] from their complete bounded source inventories.
+
+Core synthesis: the accusation, injuries, identification, confession, and conviction created a powerful official narrative, but an isolated lawyerless interrogation, factual anomalies, gravely inadequate representation, racial sentencing disparity, and officials' refusal to hear a late challenge made the legal result untrustworthy. Johnson's alternative account of a consensual relationship and later fight could explain some anomalies but remains unverified; procedural doubt does not establish innocence or consent.
+
+The episode extends institutional self-coordination from accusation-building to review closure: police, appointed counsel, trial, habeas work, courts, and executive officials need not share one central plan when each stage inherits and reinforces the authority of the prior judgment. Execution then makes that distributed confidence irreversible. It also extends epistemic silencing from inadequate public language to non-uptake: a person may possess and state an account while lacking the safety, credibility, counsel, or forum required for it to affect institutional judgment.
+
+No settled contradiction was adopted. The supplied file is a structured episode summary rather than the trial transcript, police and medical files, appellate record, or an independent investigation. The reported later request for forgiveness remains hearsay, and the *To Kill a Mockingbird* discussion is interpretive comparison rather than evidence about Johnson's case. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,217 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [State v. Johnson: Power, Race, and a Death Sentence](sources/state-v-johnson-state-v-johnson.md) — Revisionist History reopens Nathaniel Johnson’s 1959 conviction and execution to show how racial power, unequal counsel, and closed review can make a factually unresolved case legally untrustworthy.
 - [Mr. Hollowell Didn’t Like That](sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that.md) — Revisionist History uses Donald Hollowell’s Georgia cases to connect evidentiary advocacy, community-facing courtroom authority, strategic composure, and systemic racism without a central conspiracy.
 - [McDonald’s Broke My Heart](sources/mcdonald-s-broke-my-heart-mcdonald-s-broke-my-heart.md) — Revisionist History reconstructs McDonald’s 1990 beef-tallow fry change as a public-health, replacement-formulation, sensory-value, and product-stewardship tradeoff.
 - [Burden of Proof](sources/burden-of-proof-burden-of-proof.md) — Revisionist History uses Owen Thomas's CTE diagnosis and a coal-dust analogy to distinguish causal uncertainty from institutional justification for continued football exposure.
@@ -5345,6 +5346,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Nathaniel Johnson](entities/NathanielJohnson.md) — Black Army veteran whose disputed 1959 rape conviction and execution illustrate the gap between unresolved innocence and an unreliable legal process.
 - [Donald L. Hollowell](entities/DonaldHollowell.md) — Civil-rights attorney whose evidentiary craft and controlled courtroom authority challenged Georgia’s segregated legal system.
 - [Vernon Jordan](entities/VernonJordan.md) — Hollowell’s junior colleague and retrospective interpreter of strategic survival, community support, and disciplined action.
 - [Willie Nash](entities/WillieNash.md) — Defendant whose prosecution illustrates coerced confession, mutually reinforcing weak evidence, and adversarial exposure of a racialized system.
