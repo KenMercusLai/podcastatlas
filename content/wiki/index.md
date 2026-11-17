@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Introducing Revisionist History Season Four](sources/introducing-revisionist-history-season-four.md) — Season-four trailer previewing tea, heavy metal, Jesuit reasoning, language, organized crime, the LSAT, chess, and an intentionally theme-resistant range.
 - [Tempest in a Teacup](sources/tempest-in-a-teacup-tempest-in-a-teacup.md) — Revisionist History connects colonial tea smuggling, the Boston Tea Party, coercive boycott politics, organized-crime families, and crooked-ladder mobility toward legitimacy.
 - [Dr. Rock’s Taxonomy](sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy.md) — Revisionist History connects John Rock, the birth-control pill, Catholic doctrine, conscience, casuistry, and the moral classification of reproductive technology.
 - [Descend into the Particular](sources/descend-into-the-particular-descend-into-the-particular.md) — Revisionist History uses Ferguson and Angel Navarro's death to connect case-specific moral discernment, suicide-by-cop inference, police legitimacy, and compassion beyond liability.

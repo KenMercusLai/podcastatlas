@@ -42590,3 +42590,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Introducing Revisionist History Season Four
+
+Added a short [[RevisionistHistory]] season-four trailer in which [[MalcolmGladwell]] moves among colonial tea tasting, heavy-metal music theory, Jesuit reasoning, law-school admissions, chess, pronunciation, and organized crime while explicitly declining to impose one theme on the season.
+
+Linked the trailer's fragments to the full episodes that carry their evidentiary burden: [[tempest-in-a-teacup-tempest-in-a-teacup|Tempest in a Teacup]], [[in-a-metal-mood-in-a-metal-mood|In a Metal Mood]], [[descend-into-the-particular-descend-into-the-particular|Descend into the Particular]], [[dr-rock-s-taxonomy-dr-rock-s-taxonomy|Dr. Rock's Taxonomy]], [[chutzpah-vs-chutzpah-chutzpah-vs-chutzpah|Chutzpah vs. Chutzpah]], and [[puzzle-rush-puzzle-rush|Puzzle Rush]].
+
+No settled contradiction was adopted. The preview documents promotional range rather than independent findings: its sensory, musical, legal-testing, linguistic, historical, religious, chess, and organized-crime fragments remain source-scoped until developed by the full episodes. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because the trailer adds no durable profile change and the focused source note captures its limited contribution.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,199 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
