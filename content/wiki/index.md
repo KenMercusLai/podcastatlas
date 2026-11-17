@@ -5320,6 +5320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Queen of Cuba](sources/the-queen-of-cuba-the-queen-of-cuba.md) — Revisionist History uses Ana Belén Montes's Cuban espionage and Tim Levine's experiments to distinguish noticed suspicion from a records-backed trigger strong enough to overcome truth-default.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 - [The Standard Case](sources/the-standard-case-the-standard-case.md) — Revisionist History uses Jesuit casuistry, baseball medicine, Pulse, and LGBT Catholic accompaniment to reason from standard cases rather than inherited labels alone.
+- [Good Old Boys](sources/good-old-boys-good-old-boys.md) — Revisionist History connects Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, Northern hypocrisy, and the reception risks of morally uncomfortable satire.
 
 ## Entities
 - [John Rock](entities/JohnRock.md) — Catholic fertility physician and pill co-developer who used conscience and casuistry to challenge the Church's contraception judgment.

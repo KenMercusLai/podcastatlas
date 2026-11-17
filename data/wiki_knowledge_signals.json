@@ -64724,9 +64724,9 @@
       "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
     },
     "CompromisedNarratorSatire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
@@ -64734,9 +64734,16 @@
           "show": "Revisionist History",
           "title": "Encore: Good Old Boys",
           "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        },
+        {
+          "episode_file": "Good_Old_Boys [Good_Old_Boys].md",
+          "key": "good-old-boys-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Good Old Boys",
+          "url": "/wiki/sources/good-old-boys-good-old-boys/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/compromisednarratorsatire/"
     },
     "ComputeCapitalLaborReallocation": {
@@ -187057,9 +187064,9 @@
       "url": "/wiki/entities/lesterglick/"
     },
     "LesterMaddox": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
@@ -187067,9 +187074,16 @@
           "show": "Revisionist History",
           "title": "Encore: Good Old Boys",
           "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        },
+        {
+          "episode_file": "Good_Old_Boys [Good_Old_Boys].md",
+          "key": "good-old-boys-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Good Old Boys",
+          "url": "/wiki/sources/good-old-boys-good-old-boys/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/lestermaddox/"
     },
     "LethalPlanLeakageRisk": {
@@ -267242,9 +267256,9 @@
       "url": "/wiki/entities/randyfrost/"
     },
     "RandyNewman": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_Good_Old_Boys [Encore_Good_Old_Boys].md",
@@ -267252,9 +267266,16 @@
           "show": "Revisionist History",
           "title": "Encore: Good Old Boys",
           "url": "/wiki/sources/encore-good-old-boys-encore-good-old-boys/"
+        },
+        {
+          "episode_file": "Good_Old_Boys [Good_Old_Boys].md",
+          "key": "good-old-boys-good-old-boys",
+          "show": "Revisionist History",
+          "title": "Good Old Boys",
+          "url": "/wiki/sources/good-old-boys-good-old-boys/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/randynewman/"
     },
     "RangeExtendedEV": {

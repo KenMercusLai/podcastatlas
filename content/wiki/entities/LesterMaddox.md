@@ -4,7 +4,8 @@ type: entity
 tags: [person, politician, segregationist, georgia]
 sources:
   - encore-good-old-boys-encore-good-old-boys
-last_updated: 2026-11-15
+  - good-old-boys-good-old-boys
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,23 +34,23 @@ His Cavett appearance shows how public exposure can produce more than one politi
 
 ### Segregationist defiance
 
-- [[encore-good-old-boys-encore-good-old-boys]] recounts the Pickrick confrontations, Maddox's threatened use of force, and his choice to close rather than integrate.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] recount the Pickrick confrontations, Maddox's threatened use of force, and his choice to close rather than integrate.
 
 ### Political conversion
 
-- [[encore-good-old-boys-encore-good-old-boys]] connects his defiance to white Southern support and his 1966 gubernatorial victory after legislative selection.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] connect his defiance to white Southern support and his 1966 gubernatorial victory after legislative selection.
 
 ### Media grievance and appropriation
 
-- [[encore-good-old-boys-encore-good-old-boys]] follows the Cavett confrontation, walk-off, subsequent ridicule, Newman's sympathetic response to the humiliation, and Maddox's grateful gift after hearing “Rednecks.”
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] follow the Cavett confrontation, walk-off, subsequent ridicule, Newman's sympathetic response to the humiliation, and Maddox's grateful gift after hearing “Rednecks.”
 
 ## Qualifications
 
-This profile rests on one structured episode summary rather than campaign records, the complete Cavett broadcast, archival reporting, or an independent biography. Feeling sympathy for Maddox's treatment does not mitigate his segregationist actions or establish that the interview was unfair. The episode's comparison to later populist politics is interpretive, and Maddox's positive response to the song does not settle Newman's intention or the work's meaning.
+This profile rests on structured summaries of the original episode and its later encore rather than campaign records, the complete Cavett broadcast, archival reporting, or an independent biography. Their agreement is not independent corroboration. Feeling sympathy for Maddox's treatment does not mitigate his segregationist actions or establish that the interview was unfair. The comparison to later populist politics is interpretive, and Maddox's positive response to the song does not settle Newman's intention or the work's meaning.
 
 ## What Changed
 
-- Established a bounded profile connecting segregationist defiance, media confrontation, regional grievance, and appropriation of criticism.
+The original-release summary corroborates the existing profile without materially changing its current judgment.
 
 ## Relationships
 

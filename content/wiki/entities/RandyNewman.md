@@ -4,7 +4,8 @@ type: entity
 tags: [person, songwriter, composer, satirist]
 sources:
   - encore-good-old-boys-encore-good-old-boys
-last_updated: 2026-11-15
+  - good-old-boys-good-old-boys
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,23 +34,23 @@ That ambiguity has practical limits. A softened cover of “Sail Away” can rem
 
 ### Compromised voice and musical friction
 
-- [[encore-good-old-boys-encore-good-old-boys]] reads “Marie,” “Sail Away,” and “Rednecks” as distinct uses of beautiful music and morally compromised first-person speech.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] read “Marie,” “Sail Away,” and “Rednecks” as distinct uses of beautiful music and morally compromised first-person speech.
 
 ### Double critique
 
-- [[encore-good-old-boys-encore-good-old-boys]] shows “Rednecks” moving from Johnny Cutler's racism and Southern resentment to Northern urban segregation and inequality.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] show “Rednecks” moving from Johnny Cutler's racism and Southern resentment to Northern urban segregation and inequality.
 
 ### Reception boundary
 
-- [[encore-good-old-boys-encore-good-old-boys]] contrasts Bobby Darin's softened cover with Newman's original and reports Newman's decision to stop performing “Rednecks” where he believed audiences treated it as an anthem.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] contrast Bobby Darin's softened cover with Newman's original and report Newman's decision to stop performing “Rednecks” where he believed audiences treated it as an anthem.
 
 ## Qualifications
 
-This profile rests on one structured summary of Gladwell's interpretation and interview material. It does not independently establish Newman's complete biography, intentions, performance history, audience response, or the definitive meaning of the songs. A listener's discomfort, appropriation, or praise does not alone prove artistic success or failure, and an artist cannot fully predict how first-person satire will travel.
+This profile rests on structured summaries of the original episode and its later encore, not independent accounts. Their agreement does not independently establish Newman's complete biography, intentions, performance history, audience response, or the definitive meaning of the songs. A listener's discomfort, appropriation, or praise does not alone prove artistic success or failure, and an artist cannot fully predict how first-person satire will travel.
 
 ## What Changed
 
-- Established a bounded profile joining compromised narration, musical beauty, double critique, and reception risk.
+The original-release summary corroborates the existing profile without materially changing its current judgment.
 
 ## Relationships
 

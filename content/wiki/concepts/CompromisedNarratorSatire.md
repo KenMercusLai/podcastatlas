@@ -4,7 +4,8 @@ type: concept
 tags: [satire, narrative, music, ethics, reception]
 sources:
   - encore-good-old-boys-encore-good-old-boys
-last_updated: 2026-11-15
+  - good-old-boys-good-old-boys
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,27 +34,27 @@ That same proximity creates the central risk. Listeners may identify with the na
 
 ### Humanization without innocence
 
-- [[encore-good-old-boys-encore-good-old-boys]] presents Johnny Cutler's tenderness in “Marie” alongside weakness, neglect, and implied menace, while Newman declines to declare the character good.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] present Johnny Cutler's tenderness in “Marie” alongside weakness, neglect, and implied menace, while Newman declines to declare the character good.
 
 ### Beauty and moral friction
 
-- [[encore-good-old-boys-encore-good-old-boys]] contrasts Newman's “Sail Away” with Bobby Darin's softened cover to show how language and musical mood preserve or remove the slave trader's vileness.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] contrast Newman's “Sail Away” with Bobby Darin's softened cover to show how language and musical mood preserve or remove the slave trader's vileness.
 
 ### Double target
 
-- [[encore-good-old-boys-encore-good-old-boys]] shows “Rednecks” exposing Johnny's racism while indicting Northern urban segregation and elite confidence in regional superiority.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] show “Rednecks” exposing Johnny's racism while indicting Northern urban segregation and elite confidence in regional superiority.
 
 ### Misidentification and performance response
 
-- [[encore-good-old-boys-encore-good-old-boys]] reports discomfort at a large white audience singing along, Southern requests treating the song as an anthem, and Newman's decision to stop performing it in that setting.
+- [[encore-good-old-boys-encore-good-old-boys]] and [[good-old-boys-good-old-boys]] report discomfort at a large white audience singing along, Southern requests treating the song as an anthem, and Newman's decision to stop performing it in that setting.
 
 ## Counterevidence & Qualifications
 
-The concept describes an interpretive mechanism, not a guarantee of artistic value or political effect. Discomfort does not prove that satire succeeds, and misreading is not always evidence of audience bad faith; framing may be genuinely inadequate. Refusing to sanitize historical hatred can preserve truth while also imposing costs on targeted listeners. One episode's account of a few songs and performances cannot establish a general rule for publication, radio, classrooms, or live presentation.
+The concept describes an interpretive mechanism, not a guarantee of artistic value or political effect. Discomfort does not prove that satire succeeds, and misreading is not always evidence of audience bad faith; framing may be genuinely inadequate. Refusing to sanitize historical hatred can preserve truth while also imposing costs on targeted listeners. The original episode and later encore are two presentations of the same case, not independent evidence sufficient to establish a general rule for publication, radio, classrooms, or live performance.
 
 ## What Changed
 
-- Established the concept around the tension among moral proximity, aesthetic attraction, double critique, and audience appropriation.
+The original-release summary corroborates the existing synthesis without materially changing its current judgment.
 
 ## Related Concepts
 

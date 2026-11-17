@@ -42536,3 +42536,13 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Good Old Boys
+
+Added the original-release [[RevisionistHistory]] episode on [[RandyNewman]]'s *Good Old Boys*, [[LesterMaddox]]'s segregationist defiance and televised grievance, Northern racial hypocrisy, and [[CompromisedNarratorSatire]]. Resynthesized the three focused canonical pages from their complete two-source evidence inventories while preserving source order.
+
+Core synthesis: first-person access and attractive music can make a hateful or deceptive voice legible without absolving it, but authorial intent cannot control whether audiences recognize the critique, repeat its language, or appropriate it as affirmation. The episode's original-release summary corroborates the later encore rather than changing that judgment.
+
+No settled contradiction was adopted. Preserving discomfort can retain a work's critical friction while still imposing costs on targeted listeners; the political analogy to later populism remains suggestive; and biographical, historical, performance, reception, and interpretive claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, recording analysis, or independent biography. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MoralSuspensionInArtReading]], [[SegregationistPopulistTranslation]], and automatic `wiki/overview.md` profiles remained closed because the focused pages already capture the durable evidence without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,195 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
