@@ -43063,3 +43063,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Carlos Doesn’t Remember
+
+Added the 2016 [[RevisionistHistory]] episode on [[CarlosStudent|Carlos]], [[EricEisner]], the [[YESProgram|YES program]], and [[CarolineHoxby]] and [[ChristopherAvery]]'s research on high-achieving low-income students. Created focused pages for all five and for [[TalentFragilityUnderDisadvantage]], [[EarlyOpportunityIntervention]], [[CollegeApplicationUndermatch]], and [[SecondChancePrivilege]].
+
+Core synthesis: ability is not self-preserving. Scholarships and late-stage outreach help only students whose confidence, schooling, family circumstances, and institutional connections remain intact long enough to use them. Carlos's path shows that material support, early recognition, navigation, and recovery capacity are part of educational access, while the reported national evidence shows that many academically qualified low-income students never apply to selective colleges.
+
+No settled contradiction was adopted. The source is a structured episode summary rather than the underlying Hoxby-Avery paper, transcript, foster record, school record, or longitudinal follow-up. Its figures and individual history remain episode-scoped, and Gladwell's interpretation of Carlos's memory gaps is not clinically established. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,232 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, the full ingest checker, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

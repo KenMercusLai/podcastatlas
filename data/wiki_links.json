@@ -18767,6 +18767,10 @@
     "title": "Carlos (Startup Embassy)",
     "url": "/wiki/entities/carlosstartupembassy/"
   },
+  "CarlosStudent": {
+    "title": "Carlos (student)",
+    "url": "/wiki/entities/carlosstudent/"
+  },
   "CarlosTheJackal": {
     "title": "Carlos the Jackal",
     "url": "/wiki/entities/carlosthejackal/"
@@ -18842,6 +18846,10 @@
   "CarolineBuck": {
     "title": "Caroline Buck",
     "url": "/wiki/entities/carolinebuck/"
+  },
+  "CarolineHoxby": {
+    "title": "Caroline Hoxby",
+    "url": "/wiki/entities/carolinehoxby/"
   },
   "CarolineSchlegelSchelling": {
     "title": "Caroline Schlegel Schelling",
@@ -21851,6 +21859,10 @@
     "title": "Christof Koch",
     "url": "/wiki/entities/christofkoch/"
   },
+  "ChristopherAvery": {
+    "title": "Christopher Avery",
+    "url": "/wiki/entities/christopheravery/"
+  },
   "ChristopherBillopp": {
     "title": "Christopher Billopp",
     "url": "/wiki/entities/christopherbillopp/"
@@ -23418,6 +23430,10 @@
   "CollegeAccessAmenityCompetition": {
     "title": "College Access–Amenity Competition",
     "url": "/wiki/concepts/collegeaccessamenitycompetition/"
+  },
+  "CollegeApplicationUndermatch": {
+    "title": "College Application Undermatch",
+    "url": "/wiki/concepts/collegeapplicationundermatch/"
   },
   "CollegeCareerPreparation": {
     "title": "College Career Preparation",
@@ -31795,6 +31811,10 @@
     "title": "Early Modern Witchcraft Prosecution",
     "url": "/wiki/concepts/earlymodernwitchcraftprosecution/"
   },
+  "EarlyOpportunityIntervention": {
+    "title": "Early Opportunity Intervention",
+    "url": "/wiki/concepts/earlyopportunityintervention/"
+  },
   "EarlyPortugueseAtlanticPlantationSlavery": {
     "title": "Early Portuguese Atlantic Plantation Slavery",
     "url": "/wiki/concepts/earlyportugueseatlanticplantationslavery/"
@@ -34162,6 +34182,10 @@
   "EricAlexen": {
     "title": "Eric Alexen",
     "url": "/wiki/entities/ericalexen/"
+  },
+  "EricEisner": {
+    "title": "Eric Eisner",
+    "url": "/wiki/entities/ericeisner/"
   },
   "EricFeishu": {
     "title": "Eric (Feishu source)",
@@ -86435,6 +86459,10 @@
     "title": "Second Automobile Works / 二汽",
     "url": "/wiki/entities/secondautomobileworks/"
   },
+  "SecondChancePrivilege": {
+    "title": "Second-Chance Privilege",
+    "url": "/wiki/concepts/secondchanceprivilege/"
+  },
   "SecondChanceRecognitionFailure": {
     "title": "Second-Chance Recognition Failure",
     "url": "/wiki/concepts/secondchancerecognitionfailure/"
@@ -94110,6 +94138,10 @@
   "TalentAttractionThroughRespect": {
     "title": "Talent Attraction Through Respect / 礼贤下士式人才吸附",
     "url": "/wiki/concepts/talentattractionthroughrespect/"
+  },
+  "TalentFragilityUnderDisadvantage": {
+    "title": "Talent Fragility Under Disadvantage",
+    "url": "/wiki/concepts/talentfragilityunderdisadvantage/"
   },
   "TalentGroupLivestreaming": {
     "title": "Talent Group Livestreaming / 才艺团播",
@@ -106115,6 +106147,10 @@
     "title": "Y Combinator",
     "url": "/wiki/entities/ycombinator/"
   },
+  "YESProgram": {
+    "title": "YES program",
+    "url": "/wiki/entities/yesprogram/"
+  },
   "YETI": {
     "title": "YETI",
     "url": "/wiki/entities/yeti/"
@@ -112078,6 +112114,10 @@
   "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822": {
     "title": "Caracas under pressure: democracy in Venezuela",
     "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+  },
+  "carlos-doesn-t-remember-carlos-doesn-t-remember": {
+    "title": "Carlos Doesn’t Remember",
+    "url": "/wiki/sources/carlos-doesn-t-remember-carlos-doesn-t-remember/"
   },
   "cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba": {
     "title": "Cash test: can Europe support Ukraine alone?",

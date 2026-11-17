@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11717
+wiki_total_pages: 11721
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "EarlyModernWitchcraftProsecution"
     title: "Early Modern Witchcraft Prosecution"
     url: "/wiki/concepts/earlymodernwitchcraftprosecution/"
+  - key: "EarlyOpportunityIntervention"
+    title: "Early Opportunity Intervention"
+    url: "/wiki/concepts/earlyopportunityintervention/"
   - key: "EarlyPortugueseAtlanticPlantationSlavery"
     title: "Early Portuguese Atlantic Plantation Slavery"
     url: "/wiki/concepts/earlyportugueseatlanticplantationslavery/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11717
+wiki_total_pages: 11721
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "TalentAttractionThroughRespect"
     title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
     url: "/wiki/concepts/talentattractionthroughrespect/"
+  - key: "TalentFragilityUnderDisadvantage"
+    title: "Talent Fragility Under Disadvantage"
+    url: "/wiki/concepts/talentfragilityunderdisadvantage/"
   - key: "TalentGroupLivestreaming"
     title: "Talent Group Livestreaming / 才艺团播"
     url: "/wiki/concepts/talentgrouplivestreaming/"

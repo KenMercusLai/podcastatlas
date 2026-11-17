@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11717
+wiki_total_pages: 11721
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "CollegeAccessAmenityCompetition"
     title: "College Access–Amenity Competition"
     url: "/wiki/concepts/collegeaccessamenitycompetition/"
+  - key: "CollegeApplicationUndermatch"
+    title: "College Application Undermatch"
+    url: "/wiki/concepts/collegeapplicationundermatch/"
   - key: "CollegeCareerPreparation"
     title: "College Career Preparation"
     url: "/wiki/concepts/collegecareerpreparation/"

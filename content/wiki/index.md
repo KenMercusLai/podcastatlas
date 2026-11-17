@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Carlos Doesn’t Remember](sources/carlos-doesn-t-remember-carlos-doesn-t-remember.md) — Revisionist History connects Carlos's interrupted education with early advocacy, high-achieving low-income college undermatching, fragile talent, and privilege as access to second chances.
 - [Food Fight](sources/food-fight-food-fight.md) — Revisionist History uses Vassar and Bowdoin dining to expose how aid, full-pay tuition, endowment use, amenities, and affluent-student recruitment can trap an access-oriented college.
 - [My Little Hundred Million](sources/my-little-hundred-million-my-little-hundred-million.md) — Revisionist History contrasts Hank Rowan's transformative public-college gift with mega-gifts to wealthy universities through weak-link, strong-link, and marginal-impact reasoning.
 - [Hallelujah](sources/hallelujah-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, delayed recognition, institutional survival, and chance.
@@ -5360,6 +5361,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Carlos (student)](entities/CarlosStudent.md) — Gifted Los Angeles student whose education survives poverty, family responsibility, foster care, and repeated disruption through exceptional persistence and advocacy.
+- [Eric Eisner](entities/EricEisner.md) — Former entertainment lawyer and YES founder who identifies gifted students early and combines placement with material and continuing support.
+- [YES program](entities/YESProgram.md) — Early educational intervention combining gifted-student identification, tutoring, private-school placement, and sustained advocacy.
+- [Caroline Hoxby](entities/CarolineHoxby.md) — Economist whose research helps quantify high-achieving low-income students overlooked by selective-college recruiting.
+- [Christopher Avery](entities/ChristopherAvery.md) — Economist and Hoxby collaborator associated with the episode's college-undermatching evidence.
 - [Vassar College](entities/VassarCollege.md) — Liberal-arts college used to show the financial fragility and competitive costs of expanding socioeconomic access.
 - [Bowdoin College](entities/BowdoinCollege.md) — Liberal-arts college whose celebrated dining supplies the episode's amenity-rich comparison.
 - [Catherine Hill](entities/CatherineHill.md) — Economist and Vassar president associated with expanded financial aid and socioeconomic diversity.
@@ -20227,6 +20233,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Talent Fragility Under Disadvantage](concepts/TalentFragilityUnderDisadvantage.md) — Principle that ability requires material, relational, and institutional protection to survive long enough to become recognized achievement.
+- [Early Opportunity Intervention](concepts/EarlyOpportunityIntervention.md) — Sustained childhood support that addresses academic, material, navigational, and continuity barriers before college recruitment.
+- [College Application Undermatch](concepts/CollegeApplicationUndermatch.md) — Pattern in which high-achieving students do not apply to selective institutions that may be academically and financially plausible.
+- [Second-Chance Privilege](concepts/SecondChancePrivilege.md) — Unequal capacity to recover from disruption without permanently losing educational and mobility pathways.
 - [College Access–Amenity Competition](concepts/CollegeAccessAmenityCompetition.md) — Feedback loop in which limiting amenities to fund aid can weaken recruitment of the full-paying students who sustain that aid.
 - [Full-Pay Student Cross-Subsidy](concepts/FullPayStudentCrossSubsidy.md) — Tuition model in which students paying near list price help finance operations and grants for students needing aid.
 - [University Endowment Public Benefit](concepts/UniversityEndowmentPublicBenefit.md) — Mission-linked evaluation of how tax-advantaged institutional wealth supports present access, future capacity, and wider public value.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14769
+wiki_total_pages: 14774
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "YerenXiansheng"
     title: "Yeren Xiansheng"
     url: "/wiki/entities/yerenxiansheng/"
+  - key: "YESProgram"
+    title: "YES program"
+    url: "/wiki/entities/yesprogram/"
   - key: "YETI"
     title: "YETI"
     url: "/wiki/entities/yeti/"

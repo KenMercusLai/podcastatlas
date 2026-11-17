@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14769
+wiki_total_pages: 14774
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "CarlosStartupEmbassy"
     title: "Carlos (Startup Embassy)"
     url: "/wiki/entities/carlosstartupembassy/"
+  - key: "CarlosStudent"
+    title: "Carlos (student)"
+    url: "/wiki/entities/carlosstudent/"
   - key: "CarlosPrats"
     title: "Carlos Prats"
     url: "/wiki/entities/carlosprats/"
@@ -347,6 +350,9 @@ wiki_pages:
   - key: "CarolineBuck"
     title: "Caroline Buck"
     url: "/wiki/entities/carolinebuck/"
+  - key: "CarolineHoxby"
+    title: "Caroline Hoxby"
+    url: "/wiki/entities/carolinehoxby/"
   - key: "CarolineSchlegelSchelling"
     title: "Caroline Schlegel Schelling"
     url: "/wiki/entities/carolineschlegelschelling/"
@@ -1247,6 +1253,9 @@ wiki_pages:
   - key: "ChristofKoch"
     title: "Christof Koch"
     url: "/wiki/entities/christofkoch/"
+  - key: "ChristopherAvery"
+    title: "Christopher Avery"
+    url: "/wiki/entities/christopheravery/"
   - key: "ChristopherBillopp"
     title: "Christopher Billopp"
     url: "/wiki/entities/christopherbillopp/"
