@@ -42815,3 +42815,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | McDonald’s Broke My Heart
+
+Added the 2017 [[RevisionistHistory]] episode reconstructing [[PhilSokoloff]]’s saturated-fat campaign, [[RayKroc]]’s original fry process, and [[McDonalds|McDonald’s]] 1990 move from beef tallow to repeatedly revised vegetable-oil formulations. Created focused profiles for Sokoloff and Kroc, migrated [[IngredientReformulationStrategy]] to `synthesis-v1` from its complete bounded input, and extended [[SeedOilEvidenceBoundary]] and McDonald’s.
+
+Core synthesis: reformulation should be judged by the intended benefit, replacement composition, sensory identity, labeling, operations, and measured outcomes rather than ingredient removal alone. The source says McDonald’s initial replacement contained substantial trans fat and later required further changes, while a small blind tasting strongly favored reconstructed all-tallow fries. That tasting supports a preference claim, not the health superiority of beef tallow; the episode’s oxidation and aldehyde mechanisms likewise do not substitute for comparative clinical outcomes.
+
+The episode materially qualifies but does not overturn the current seed-oil synthesis. It shows that “vegetable oil” is not one stable exposure across formulation, processing, heating, and time, while other bounded sources report neutral or favorable lipid and cardiovascular-risk markers for selected unsaturated-fat replacements and the recovered Minnesota and Sydney trials report cholesterol reduction without demonstrated mortality benefit. The disagreement remains formulation-, comparator-, endpoint-, and source-specific.
+
+No settled contradiction was adopted. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,215 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

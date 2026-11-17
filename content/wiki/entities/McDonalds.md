@@ -9,7 +9,8 @@ sources:
   - 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1
   - zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062
   - dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj
-last_updated: 2026-10-28
+  - mcdonald-s-broke-my-heart-mcdonald-s-broke-my-heart
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,11 +18,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-McDonald's appears as a global fast-food company whose cases span behavioral economics, U.S. traffic pressure, China control, African market-entry constraints, and a new push into more complex customized beverages.
+McDonald's appears as a global fast-food company whose cases span signature-product history, behavioral economics, U.S. traffic pressure, China control, African market-entry constraints, and a push into more complex customized beverages.
 
 ## Current Profile
 
-McDonald's can function as a familiar everyday brand and pricing example, but the sources show multiple limits on scale. U.S. demand can weaken under price and traffic pressure; China growth can require local control; and African expansion can be blocked by beef supply-chain requirements and brand meaning. The newest source adds a response to demand pressure: McDonald's is reportedly building dedicated beverage capacity and developing dirty sodas, refreshers, and energy drinks with suppliers beyond its traditional [[CocaCola|Coca-Cola]] portfolio. This broadens the menu while raising the execution burden already identified in earlier U.S. product launches.
+McDonald's can function as a familiar everyday brand and pricing example, but the sources show multiple limits on scale. U.S. demand can weaken under price and traffic pressure; China growth can require local control; and African expansion can be blocked by beef supply-chain requirements and brand meaning. The company is also reportedly building dedicated beverage capacity and developing dirty sodas, refreshers, and energy drinks with suppliers beyond its traditional [[CocaCola|Coca-Cola]] portfolio, broadening the menu while increasing execution burden.
+
+The 1990 fry change adds a historical product-governance limit. Under [[PhilSokoloff]]'s saturated-fat campaign, McDonald's replaced the beef-tallow process associated with [[RayKroc]]. The episode says the initial substitute contained substantial trans fat and that later oil changes followed, while its blinded tasting favored reconstructed all-tallow fries. This makes the case relevant to [[IngredientReformulationStrategy]] without establishing that the original recipe was healthier.
 
 ## Key Characteristics
 
@@ -30,6 +33,7 @@ McDonald's can function as a familiar everyday brand and pricing example, but th
 - China local-control template through the 2017 transaction involving [[CITICCapital]] and [[CarlyleGroup]].
 - Sub-Saharan African laggard relative to [[KFC]] where beef supply and brand meaning constrain expansion.
 - Large-scale beverage experiment requiring additional suppliers, work areas, and specialized staff.
+- Heritage-product case in which health-motivated fry reformulation changed sensory identity and required repeated replacement-oil changes.
 
 ## Evidence
 
@@ -38,15 +42,16 @@ McDonald's can function as a familiar everyday brand and pricing example, but th
 - **China control:** [[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] presents the 2017 CITIC/Carlyle transaction as an early [[ForeignRestaurantBrandLocalControl]] template.
 - **African constraint:** [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] links McDonald's narrow regional footprint to beef-patty standards and persistent burger-centered brand meaning.
 - **Beverage buildout:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] reports plans for beverage specialists and work areas across roughly 14,000 U.S. stores plus drinks developed beyond one supplier's portfolio.
+- **Signature fry and reformulation:** [[mcdonald-s-broke-my-heart-mcdonald-s-broke-my-heart]] connects [[RayKroc]]'s tallow-based fry process to product identity, reports the 1990 switch under [[PhilSokoloff]]'s pressure, and presents a blind tasting favoring the reconstructed original style.
 
 ## Qualifications
 
-Sales, traffic, share-price, store-count, and rollout figures are source-scoped. The African episode is a regional comparison, not a full global performance ranking. The China structure is one market arrangement. The beverage plan lacks unit economics, completion evidence, labor impact, throughput data, and proof of durable demand.
+Sales, traffic, share-price, store-count, and rollout figures are source-scoped. The African episode is a regional comparison, not a full global performance ranking. The China structure is one market arrangement. The beverage plan lacks unit economics, completion evidence, labor impact, throughput data, and proof of durable demand. The fry episode is an opinionated historical reconstruction: its small blind tasting addresses sensory preference, while its trans-fat, oxidation, aldehyde, and health claims are not a comparative clinical review.
 
 ## What Changed
 
-- Added dedicated U.S. beverage staffing and production-space plans.
-- Connected multi-supplier customized drinks to both demand recovery and menu-execution risk.
+- Added the 1990 fry reformulation as a founder-identity, replacement-composition, and sensory-value case.
+- Distinguished the tasting result from a nutritional verdict and kept the episode's broader health claims source-scoped.
 
 ## Relationships
 
@@ -58,3 +63,6 @@ Sales, traffic, share-price, store-count, and rollout figures are source-scoped.
 - [[RestaurantSupplyChainLocalization]] - sourcing and supplier-standard frame.
 - [[ForeignRestaurantBrandLocalControl]] - China ownership-control concept.
 - [[McDonaldsNetherlands]] - separate country-unit case in the AI advertising branch.
+- [[RayKroc]] - expansion figure whose fry process anchors the heritage-product account.
+- [[PhilSokoloff]] - campaigner whose pressure helped drive the 1990 oil switch.
+- [[IngredientReformulationStrategy]] - framework joining intended improvement to replacement and sensory effects.

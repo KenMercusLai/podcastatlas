@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [McDonald’s Broke My Heart](sources/mcdonald-s-broke-my-heart-mcdonald-s-broke-my-heart.md) — Revisionist History reconstructs McDonald’s 1990 beef-tallow fry change as a public-health, replacement-formulation, sensory-value, and product-stewardship tradeoff.
 - [Burden of Proof](sources/burden-of-proof-burden-of-proof.md) — Revisionist History uses Owen Thomas's CTE diagnosis and a coal-dust analogy to distinguish causal uncertainty from institutional justification for continued football exposure.
 - [A Polite Word for Liar](sources/a-polite-word-for-liar-a-polite-word-for-liar.md) — Revisionist History uses Larry Adler and John Weitz's conflicting Munich memories to separate factual error, deliberate deception, narrative style, and moral character.
 - [Free Brian Williams](sources/free-brian-williams-free-brian-williams.md) — Revisionist History uses Brian Williams's changing Iraq account and longitudinal September 11 research to separate vivid confidence, factual consistency, intent, and verification duty.
@@ -5343,6 +5344,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Phil Sokoloff](entities/PhilSokoloff.md) — Businessman and heart-health campaigner whose saturated-fat crusade helped drive McDonald’s 1990 frying-oil change.
+- [Ray Kroc](entities/RayKroc.md) — McDonald’s expansion figure whose fry-process discipline anchors the episode’s heritage-product argument.
 - [Owen Thomas](entities/OwenThomas.md) — Penn football captain whose death and posthumous CTE diagnosis anchor the episode's precautionary argument.
 - [Chris Nowinski](entities/ChrisNowinski.md) — researcher who requested preservation of Owen Thomas's brain tissue and explains the CTE evidence limits.
 - [Larry Adler](entities/LarryAdler.md) — Harmonica virtuoso and candid raconteur whose memory errors, principled sacrifices, and storytelling complicate a global judgment of dishonesty.
@@ -18008,7 +18011,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI device work and Ferrari's LoveFrom-supported EV design challenge.
 - [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose assets moved from rival bids to source-reported Skydance acquisition, debt, and production commitments.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
-- [McDonald's](entities/McDonalds.md) — Fast-food company used by episode 155 to explain Coca-Cola refill economics, marginal consumption, and targeted restaurant marketing.
+- [McDonald's](entities/McDonalds.md) — Global fast-food company spanning signature-fry history, behavioral economics, demand pressure, localization, supply constraints, and beverage expansion.
 - [McDonald's Netherlands](entities/McDonaldsNetherlands.md) — Brand unit that pulled an AI-generated Christmas ad after backlash, grounding the episode's AI advertising discussion.
 - [Scott Brennan](entities/ScottBrennan.md) — NYU technology-policy researcher connecting utility regulation, tangible community benefits, and developer credibility to AI data-center acceptance.
 - [NYU Center on Technology Policy](entities/NYUCenterOnTechnologyPolicy.md) — Institutional source for the Marketplace Tech discussion of public utility commissions as AI infrastructure gatekeepers.
@@ -27187,7 +27190,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
 - [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.
 - [Cocoa Supply Shock](concepts/CocoaSupplyShock.md) — Weather- and production-driven cocoa cost surge that can pass through into candy prices, package sizes, and reformulated ingredients.
-- [Ingredient Reformulation Strategy](concepts/IngredientReformulationStrategy.md) — CPG operating choice to change formulas for cost, shape, stability, segmentation, or consumer-preference reasons, with brand-trust risk.
+- [Ingredient Reformulation Strategy](concepts/IngredientReformulationStrategy.md) — Multi-objective formula change balancing intended benefit, replacement composition, labeling, sensory identity, operations, safety, and brand trust.
 - [Patent Pool](concepts/PatentPool.md) — Shared licensing structure that can unblock complementary patents but needs antitrust guardrails.
 - [Patent Thicket](concepts/PatentThicket.md) — Dense overlapping patent rights that make production difficult without licensing coordination.
 - [Complementary Patents](concepts/ComplementaryPatents.md) — Patents that work together as parts of a larger invention rather than substitutes.
@@ -31200,7 +31203,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Passive Investing Governance](concepts/PassiveInvestingGovernance.md) — Market-governance concern around price discovery, common ownership, and voting power as index managers become very large.
 - [Energy Balance Accounting](concepts/EnergyBalanceAccounting.md) — Nutrition measurement frame treating calories as the basic ledger while accounting for absorption, expenditure, NEAT, water shifts, and adherence.
 - [Protein Body-Composition Lever](concepts/ProteinBodyCompositionLever.md) — Protein hierarchy for satiety, lean mass, plant-based planning, and body recomposition across dieting, maintenance, and surplus.
-- [Seed-Oil Evidence Boundary](concepts/SeedOilEvidenceBoundary.md) — Nutrition evidence boundary judging seed oils through calorie context, fat replacement, and human trials rather than ingredient panic.
+- [Seed-Oil Evidence Boundary](concepts/SeedOilEvidenceBoundary.md) — Contested nutrition boundary judging oils through calories, replacement, formulation, processing, comparators, and human outcomes rather than ingredient-class certainty.
 - [Creatine Monohydrate Evidence](concepts/CreatineMonohydrateEvidence.md) — Supplement-evidence frame for creatine monohydrate, dosing, healthy-person safety, tolerance, and cost hierarchy.
 - [Agent Command Center](concepts/AgentCommandCenter.md) — Agent-first coding interface where sessions, instructions, diffs, and review loops replace file-tree-first navigation as the primary surface.
 - [Team Agent Memory](concepts/TeamAgentMemory.md) — Shared memory layer for teams whose humans and agents need access to decisions, meetings, repositories, and coworker-agent context.
