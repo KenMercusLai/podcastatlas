@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14765
+wiki_total_pages: 14769
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "BowStreetRunners"
     title: "Bow Street Runners"
     url: "/wiki/entities/bowstreetrunners/"
+  - key: "BowdoinCollege"
+    title: "Bowdoin College"
+    url: "/wiki/entities/bowdoincollege/"
   - key: "BowieKuhn"
     title: "Bowie Kuhn"
     url: "/wiki/entities/bowiekuhn/"

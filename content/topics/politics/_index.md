@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3590
+topic_total_pages: 3591
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4762,6 +4762,9 @@ topic_concepts:
   - key: "UnilateralAIPauseCommitments"
     title: "Unilateral AI Pause Commitments"
     url: "/wiki/concepts/unilateralaipausecommitments/"
+  - key: "UniversityEndowmentPublicBenefit"
+    title: "University Endowment Public Benefit"
+    url: "/wiki/concepts/universityendowmentpublicbenefit/"
   - key: "UnverifiedTerritorialPromiseTrap"
     title: "Unverified Territorial Promise Trap / 未验地先断交陷阱"
     url: "/wiki/concepts/unverifiedterritorialpromisetrap/"

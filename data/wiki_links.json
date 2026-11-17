@@ -16379,6 +16379,10 @@
     "title": "博望坡之战 / Bowang Slope Battle (Late Han)",
     "url": "/wiki/entities/bowangslopebattlelatehan/"
   },
+  "BowdoinCollege": {
+    "title": "Bowdoin College",
+    "url": "/wiki/entities/bowdoincollege/"
+  },
   "BowelSymptomTriage": {
     "title": "Bowel Symptom Triage",
     "url": "/wiki/concepts/bowelsymptomtriage/"
@@ -19134,6 +19138,10 @@
   "CatherineGildiner": {
     "title": "Catherine Gildiner",
     "url": "/wiki/entities/catherinegildiner/"
+  },
+  "CatherineHill": {
+    "title": "Catherine Hill",
+    "url": "/wiki/entities/catherinehill/"
   },
   "CatherineHoward": {
     "title": "Catherine Howard",
@@ -23406,6 +23414,10 @@
   "ColleenKirk": {
     "title": "Colleen Kirk",
     "url": "/wiki/entities/colleenkirk/"
+  },
+  "CollegeAccessAmenityCompetition": {
+    "title": "College Access–Amenity Competition",
+    "url": "/wiki/concepts/collegeaccessamenitycompetition/"
   },
   "CollegeCareerPreparation": {
     "title": "College Career Preparation",
@@ -39526,6 +39538,10 @@
   "FullFunnelCivicTechnology": {
     "title": "Full-Funnel Civic Technology",
     "url": "/wiki/concepts/fullfunnelcivictechnology/"
+  },
+  "FullPayStudentCrossSubsidy": {
+    "title": "Full-Pay Student Cross-Subsidy",
+    "url": "/wiki/concepts/fullpaystudentcrosssubsidy/"
   },
   "FullStackAIPlatform": {
     "title": "Full-Stack AI Platform",
@@ -83747,6 +83763,10 @@
     "title": "Robert Walpole",
     "url": "/wiki/entities/robertwalpole/"
   },
+  "RobertWalton": {
+    "title": "Robert Walton",
+    "url": "/wiki/entities/robertwalton/"
+  },
   "RobertWelchJr": {
     "title": "Robert Welch Jr.",
     "url": "/wiki/entities/robertwelchjr/"
@@ -99395,6 +99415,10 @@
     "title": "University College London",
     "url": "/wiki/entities/universitycollegelondon/"
   },
+  "UniversityEndowmentPublicBenefit": {
+    "title": "University Endowment Public Benefit",
+    "url": "/wiki/concepts/universityendowmentpublicbenefit/"
+  },
   "UniversityInstitutionalPluralism": {
     "title": "University Institutional Pluralism / 大学制度功能多元性",
     "url": "/wiki/concepts/universityinstitutionalpluralism/"
@@ -100026,6 +100050,10 @@
   "VassalHumiliationConspiracy": {
     "title": "诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy",
     "url": "/wiki/concepts/vassalhumiliationconspiracy/"
+  },
+  "VassarCollege": {
+    "title": "Vassar College",
+    "url": "/wiki/entities/vassarcollege/"
   },
   "VectorBorneInfectionEscalation": {
     "title": "Vector-Borne Infection Escalation",
@@ -114530,6 +114558,10 @@
   "foiled-plot-did-iran-plan-british-base-attack-6aba32b170b66274d96fb345": {
     "title": "Foiled plot: did Iran plan British base attack?",
     "url": "/wiki/sources/foiled-plot-did-iran-plan-british-base-attack-6aba32b170b66274d96fb345/"
+  },
+  "food-fight-food-fight": {
+    "title": "Food Fight",
+    "url": "/wiki/sources/food-fight-food-fight/"
   },
   "for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95": {
     "title": "For bucks' sake: the rise of self-made billionaires",

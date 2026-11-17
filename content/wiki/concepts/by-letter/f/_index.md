@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11714
+wiki_total_pages: 11717
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "FullFunnelCivicTechnology"
     title: "Full-Funnel Civic Technology"
     url: "/wiki/concepts/fullfunnelcivictechnology/"
+  - key: "FullPayStudentCrossSubsidy"
+    title: "Full-Pay Student Cross-Subsidy"
+    url: "/wiki/concepts/fullpaystudentcrosssubsidy/"
   - key: "FullStackAIPlatform"
     title: "Full-Stack AI Platform"
     url: "/wiki/concepts/fullstackaiplatform/"

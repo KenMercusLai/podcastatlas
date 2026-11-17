@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14765
+wiki_total_pages: 14769
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "CatherineGildiner"
     title: "Catherine Gildiner"
     url: "/wiki/entities/catherinegildiner/"
+  - key: "CatherineHill"
+    title: "Catherine Hill"
+    url: "/wiki/entities/catherinehill/"
   - key: "CatherineHoward"
     title: "Catherine Howard"
     url: "/wiki/entities/catherinehoward/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11714
+wiki_total_pages: 11717
 wiki_pages:
   - key: "UnknownRiskInformedConsent"
     title: "Informed Consent Under Unknown Risk"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "UniversalRightsNationalSovereigntyTension"
     title: "Universal Rights and National Sovereignty Tension"
     url: "/wiki/concepts/universalrightsnationalsovereigntytension/"
+  - key: "UniversityEndowmentPublicBenefit"
+    title: "University Endowment Public Benefit"
+    url: "/wiki/concepts/universityendowmentpublicbenefit/"
   - key: "UniversityInstitutionalPluralism"
     title: "University Institutional Pluralism / 大学制度功能多元性"
     url: "/wiki/concepts/universityinstitutionalpluralism/"

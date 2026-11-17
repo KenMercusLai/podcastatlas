@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Food Fight](sources/food-fight-food-fight.md) — Revisionist History uses Vassar and Bowdoin dining to expose how aid, full-pay tuition, endowment use, amenities, and affluent-student recruitment can trap an access-oriented college.
 - [My Little Hundred Million](sources/my-little-hundred-million-my-little-hundred-million.md) — Revisionist History contrasts Hank Rowan's transformative public-college gift with mega-gifts to wealthy universities through weak-link, strong-link, and marginal-impact reasoning.
 - [Hallelujah](sources/hallelujah-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, delayed recognition, institutional survival, and chance.
 - [Blame Game](sources/blame-game-blame-game.md) — Revisionist History re-examines Toyota sudden acceleration through brake tests, pedal-error research, event-recorder evidence, and the distinction between human error and negligence.
@@ -5359,6 +5360,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Vassar College](entities/VassarCollege.md) — Liberal-arts college used to show the financial fragility and competitive costs of expanding socioeconomic access.
+- [Bowdoin College](entities/BowdoinCollege.md) — Liberal-arts college whose celebrated dining supplies the episode's amenity-rich comparison.
+- [Catherine Hill](entities/CatherineHill.md) — Economist and Vassar president associated with expanded financial aid and socioeconomic diversity.
+- [Robert Walton](entities/RobertWalton.md) — Vassar finance officer connecting full-pay dependence, endowment use, and tax-exempt public benefit.
 - [Hank Rowan](entities/HankRowan.md) — Manufacturing entrepreneur whose $100 million engineering gift transformed a resource-constrained New Jersey public college.
 - [Rowan University](entities/RowanUniversity.md) — Regional public university used to show gift-driven expansion, applied engineering, and recipient-sensitive philanthropic impact.
 - [John Hennessy](entities/JohnHennessy.md) — Stanford president defending concentrated investment in elite graduate talent and continued institutional ambition.
@@ -20222,6 +20227,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [College Access–Amenity Competition](concepts/CollegeAccessAmenityCompetition.md) — Feedback loop in which limiting amenities to fund aid can weaken recruitment of the full-paying students who sustain that aid.
+- [Full-Pay Student Cross-Subsidy](concepts/FullPayStudentCrossSubsidy.md) — Tuition model in which students paying near list price help finance operations and grants for students needing aid.
+- [University Endowment Public Benefit](concepts/UniversityEndowmentPublicBenefit.md) — Mission-linked evaluation of how tax-advantaged institutional wealth supports present access, future capacity, and wider public value.
 - [Weak-Link and Strong-Link Systems](concepts/WeakLinkStrongLinkSystems.md) — Diagnostic framework for deciding whether outcomes improve more by raising a bottleneck or concentrating resources on a top performer.
 - [Pedal Misapplication Under Stress](concepts/PedalMisapplicationUnderStress.md) — Wrong-pedal action produced when panic, unfamiliar geometry, and motor variability separate intended from executed movement.
 - [Human Error Without Negligence](concepts/HumanErrorWithoutNegligence.md) — Distinguishes ordinary consequential mistakes from reckless or morally culpable conduct.

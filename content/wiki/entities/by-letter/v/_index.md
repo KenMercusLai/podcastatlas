@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14765
+wiki_total_pages: 14769
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "VasilyGolitsyn"
     title: "Vasily Golitsyn / 瓦西里·戈利岑"
     url: "/wiki/entities/vasilygolitsyn/"
+  - key: "VassarCollege"
+    title: "Vassar College"
+    url: "/wiki/entities/vassarcollege/"
   - key: "VelaFund"
     title: "Vela Fund"
     url: "/wiki/entities/velafund/"

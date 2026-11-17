@@ -43049,3 +43049,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Food Fight
+
+Added the 2016 [[RevisionistHistory]] episode contrasting [[VassarCollege|Vassar College's]] access-oriented financial model with [[BowdoinCollege|Bowdoin College's]] celebrated dining. Created focused profiles for both colleges, [[CatherineHill]], and [[RobertWalton]], plus [[CollegeAccessAmenityCompetition]], [[FullPayStudentCrossSubsidy]], and [[UniversityEndowmentPublicBenefit]].
+
+Core synthesis: expanding aid lowers collected tuition and can increase dependence on endowment draws and the remaining full-paying cohort. Limiting food, housing, and other visible amenities can release flexible resources for access while making it harder to recruit affluent students, creating a feedback loop in which the sacrifices that finance access can weaken its revenue base. Tax-advantaged endowment wealth should be judged against public mission, but headline asset size does not establish unrestricted spendability or a sustainable payout.
+
+No settled contradiction was adopted. The supplied file is a structured argumentative summary rather than a transcript, audited financial statement, admissions dataset, applicant survey, or comparative institutional study. Financial figures, Pell shares, rankings, preferences, and endowment returns remain episode-scoped; the Bowdoin comparison does not prove a dollar-for-dollar substitution between dining and aid. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,231 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
