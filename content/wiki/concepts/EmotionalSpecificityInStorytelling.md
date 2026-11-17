@@ -6,7 +6,8 @@ sources:
   - encore-the-king-of-tears-encore-the-king-of-tears
   - malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song
   - a-treat-for-the-die-hards
-last_updated: 2026-11-16
+  - the-king-of-tears-the-king-of-tears
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -41,15 +42,18 @@ The newer source reframes that memorial performance as an ending. [[AlanJackson]
 ### Detail intensifies melancholy
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] contrasts the comparative generality of “Wild Horses” with the located images in “From Boulder to Birmingham.”
+- [[the-king-of-tears-the-king-of-tears]] corroborates that contrast in the original episode release.
 
 ### Specific experience supports personal connection
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] reports that “Annelies” connected Anne Frank's experience to listeners' own families, persecution histories, and fears for children.
+- [[the-king-of-tears-the-king-of-tears]] likewise uses the cantata to connect precise artistic detail with concrete personal memory.
 
 ### Context can respecify a work
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] shows [[HeStoppedLovingHerToday]] becoming a farewell to [[GeorgeJones]] at his memorial.
 - [[a-treat-for-the-die-hards]] treats the same convergence of performer, singer, widow, song, death, and occasion as the ending that completes a broader craft argument.
+- [[the-king-of-tears-the-king-of-tears]] grounds that reinterpretation in the memorial's named people, place, relationship, and moment.
 
 ### Detail can locate romance and rejection
 
@@ -57,7 +61,7 @@ The newer source reframes that memorial performance as an ending. [[AlanJackson]
 
 ## Counterevidence & Qualifications
 
-The sources offer selected comparisons rather than controlled reception evidence. Generic language can support broad projection, detailed language can become sentimental or inaccessible, and listeners may respond to melody, timbre, harmony, memory, identity, genre expectation, or social setting independently of narrative detail. Remembered song origins, geographic interpretations, and funeral meanings may also be retrospective. The country-rock contrast and the ending interpretation should therefore be treated as generative craft hypotheses, not universal laws.
+The sources offer selected comparisons rather than controlled reception evidence, and the original and Encore releases substantially overlap rather than independently replicating the argument. Generic language can support broad projection, detailed language can become sentimental or inaccessible, and listeners may respond to melody, timbre, harmony, memory, identity, genre expectation, or social setting independently of narrative detail. Remembered song origins, geographic interpretations, and funeral meanings may also be retrospective. The country-rock contrast and the ending interpretation should therefore be treated as generative craft hypotheses, not universal laws.
 
 ## What Changed
 

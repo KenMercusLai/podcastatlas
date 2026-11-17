@@ -4,7 +4,8 @@ type: entity
 tags: [person, singer, country-music]
 sources:
   - a-treat-for-the-die-hards
-last_updated: 2026-11-16
+  - the-king-of-tears-the-king-of-tears
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,6 +32,7 @@ Within [[NarrativeEndingDesign]], Jackson's role is performative rather than exp
 ### Memorial recontextualization
 
 - [[a-treat-for-the-die-hards]] describes Jackson performing [[HeStoppedLovingHerToday]] for an audience including Nancy Jones, making the song specifically about the day George Jones died.
+- [[the-king-of-tears-the-king-of-tears]] supplies the original episode's account of Jackson closing the memorial while facing Nancy Jones.
 
 ### Narrative closure
 
@@ -38,7 +40,7 @@ Within [[NarrativeEndingDesign]], Jackson's role is performative rather than exp
 
 ## Qualifications
 
-The source is a structured episode summary rather than a funeral recording, transcript, independent performance analysis, or reception study. It supports Gladwell's interpretation of the moment but does not establish Jackson's private intent, Nancy Jones's response, or a universal audience reaction.
+The sources are structured episode summaries rather than a funeral recording, transcript, independent performance analysis, or reception study. They support Gladwell's interpretation of the moment but do not establish Jackson's private intent, Nancy Jones's response, or a universal audience reaction.
 
 ## What Changed
 

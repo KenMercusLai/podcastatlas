@@ -13873,9 +13873,9 @@
       "url": "/wiki/entities/alancowen/"
     },
     "AlanJackson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "A_Treat_for_the_Die-Hards [A_Treat_for_the_Die-Hards].md",
@@ -13883,9 +13883,16 @@
           "show": "Revisionist History",
           "title": "A Treat for the Die-Hards",
           "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        },
+        {
+          "episode_file": "The_King_of_Tears [The_King_of_Tears].md",
+          "key": "the-king-of-tears-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "The King of Tears",
+          "url": "/wiki/sources/the-king-of-tears-the-king-of-tears/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/alanjackson/"
     },
     "AlanNewman": {
@@ -37643,9 +37650,9 @@
       "url": "/wiki/entities/bobbigibb/"
     },
     "BobbyBraddock": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -37653,9 +37660,16 @@
           "show": "Revisionist History",
           "title": "Encore: The King of Tears",
           "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        },
+        {
+          "episode_file": "The_King_of_Tears [The_King_of_Tears].md",
+          "key": "the-king-of-tears-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "The King of Tears",
+          "url": "/wiki/sources/the-king-of-tears-the-king-of-tears/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/bobbybraddock/"
     },
     "BobbyScamardella": {
@@ -97618,9 +97632,9 @@
       "url": "/wiki/concepts/emotionalresponsibilityboundary/"
     },
     "EmotionalSpecificityInStorytelling": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -97642,9 +97656,16 @@
           "show": "Revisionist History",
           "title": "A Treat for the Die-Hards",
           "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        },
+        {
+          "episode_file": "The_King_of_Tears [The_King_of_Tears].md",
+          "key": "the-king-of-tears-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "The King of Tears",
+          "url": "/wiki/sources/the-king-of-tears-the-king-of-tears/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/emotionalspecificityinstorytelling/"
     },
     "EmotionalStabilityAsSocialNorm": {
@@ -128314,9 +128335,9 @@
       "url": "/wiki/entities/georgeiv/"
     },
     "GeorgeJones": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -128331,9 +128352,16 @@
           "show": "Revisionist History",
           "title": "A Treat for the Die-Hards",
           "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        },
+        {
+          "episode_file": "The_King_of_Tears [The_King_of_Tears].md",
+          "key": "the-king-of-tears-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "The King of Tears",
+          "url": "/wiki/sources/the-king-of-tears-the-king-of-tears/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/georgejones/"
     },
     "GeorgeLoewenstein": {
@@ -142587,9 +142615,9 @@
       "url": "/wiki/entities/hesongeasternhan/"
     },
     "HeStoppedLovingHerToday": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -142604,9 +142632,16 @@
           "show": "Revisionist History",
           "title": "A Treat for the Die-Hards",
           "url": "/wiki/sources/a-treat-for-the-die-hards/"
+        },
+        {
+          "episode_file": "The_King_of_Tears [The_King_of_Tears].md",
+          "key": "the-king-of-tears-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "The King of Tears",
+          "url": "/wiki/sources/the-king-of-tears-the-king-of-tears/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/hestoppedlovinghertoday/"
     },
     "HeTieshou": {
@@ -292043,9 +292078,9 @@
       "url": "/wiki/concepts/sharedcausefactionalerosion/"
     },
     "SharedCulturalLanguageStorytelling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Encore_The_King_of_Tears [Encore_The_King_of_Tears].md",
@@ -292053,9 +292088,16 @@
           "show": "Revisionist History",
           "title": "Encore: The King of Tears",
           "url": "/wiki/sources/encore-the-king-of-tears-encore-the-king-of-tears/"
+        },
+        {
+          "episode_file": "The_King_of_Tears [The_King_of_Tears].md",
+          "key": "the-king-of-tears-the-king-of-tears",
+          "show": "Revisionist History",
+          "title": "The King of Tears",
+          "url": "/wiki/sources/the-king-of-tears-the-king-of-tears/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/sharedculturallanguagestorytelling/"
     },
     "SharedLifeFictionEthics": {

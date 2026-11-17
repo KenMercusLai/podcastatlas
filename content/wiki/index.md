@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The King of Tears](sources/the-king-of-tears-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, emotional specificity, shared musical culture, and memorial performance to country music's power to provoke tears.
 - [纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路](sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai.md) — 罗永浩与陈晓卿从食物记忆、纪录片信任和工业化协作谈到技术更替、职业更新与退休焦虑。
 - [State v. Johnson: Power, Race, and a Death Sentence](sources/state-v-johnson-state-v-johnson.md) — Revisionist History reopens Nathaniel Johnson’s 1959 conviction and execution to show how racial power, unequal counsel, and closed review can make a factually unresolved case legally untrustworthy.
 - [Mr. Hollowell Didn’t Like That](sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that.md) — Revisionist History uses Donald Hollowell’s Georgia cases to connect evidentiary advocacy, community-facing courtroom authority, strategic composure, and systemic racism without a central conspiracy.

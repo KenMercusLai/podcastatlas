@@ -42877,3 +42877,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The King of Tears
+
+Added the original 2017 [[RevisionistHistory]] episode on [[BobbyBraddock]], [[GeorgeJones]], country music, and the claim that melancholy becomes especially moving when it collides with concrete detail. The canonical source note distinguishes this release from [[encore-the-king-of-tears-encore-the-king-of-tears|Encore: The King of Tears]] while recording their substantial overlap.
+
+Appended the new source slug to the complete evidence inventories for [[BobbyBraddock]], [[GeorgeJones]], [[HeStoppedLovingHerToday]], [[AlanJackson]], [[EmotionalSpecificityInStorytelling]], and [[SharedCulturalLanguageStorytelling]]. Their current judgments remain stable: musical form and concrete narrative detail interact with biography, memory, genre convention, and performance context; George Jones's memorial gave an existing song a specific new referent; and the proposed link between close cultural communities and detailed storytelling remains qualified rather than causal.
+
+No settled contradiction was adopted. The country-versus-rock comparison relies on selected canons and broad cultural categories, repetition is not equivalent to emotional shallowness, and the source supplies a structured episode summary rather than a transcript, lyric corpus, independent biography, musicological study, or reception study. Because the original and Encore releases substantially overlap, they corroborate the same episode argument but do not constitute independent replication.
+
+Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because the focused pages already capture the durable evidence without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,219 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

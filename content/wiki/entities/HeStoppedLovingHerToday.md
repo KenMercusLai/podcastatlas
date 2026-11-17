@@ -5,7 +5,8 @@ tags: [song, country-music, grief, songwriting]
 sources:
   - encore-the-king-of-tears-encore-the-king-of-tears
   - a-treat-for-the-die-hards
-last_updated: 2026-11-16
+  - the-king-of-tears-the-king-of-tears
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,15 +37,18 @@ The newer source makes the song the episode's final case in [[NarrativeEndingDes
 ### Convergent heartbreak
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] brings Braddock's relationship history, Jones's separation, and the protagonist's lifelong attachment into one interpretive frame.
+- [[the-king-of-tears-the-king-of-tears]] corroborates that convergence in the original release.
 
 ### Frailty without endorsement
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] preserves Braddock's judgment that the protagonist is a poor role model while explaining why weakness can remain artistically compelling.
+- [[the-king-of-tears-the-king-of-tears]] likewise separates the character's grandeur from endorsement of his obsession.
 
 ### Memorial recontextualization
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] describes Alan Jackson's closing performance at Jones's memorial as making the song a farewell to its singer.
 - [[a-treat-for-the-die-hards]] treats the funeral performance as the culminating case of an ending changing the meaning of what came before.
+- [[the-king-of-tears-the-king-of-tears]] grounds the new referent in Jones's death, Nancy Jones's presence, and the memorial setting.
 
 ### Title-level reversal
 
@@ -52,7 +56,7 @@ The newer source makes the song the episode's final case in [[NarrativeEndingDes
 
 ## Qualifications
 
-The source summaries do not provide the full lyrics, recording session, writers' archive, funeral transcript, or systematic reception evidence. Braddock could not confirm Sparky as the song's source, so autobiographical interpretation remains plausible rather than established. A memorial use can add meaning without fixing the only valid reading of the song, and the title-level reversal is an interpretive craft account rather than proof that surprise alone caused its emotional force.
+The source summaries do not provide the full lyrics, recording session, writers' archive, funeral transcript, or systematic reception evidence, and the original and Encore releases substantially overlap. Braddock could not confirm Sparky as the song's source, so autobiographical interpretation remains plausible rather than established. A memorial use can add meaning without fixing the only valid reading of the song, and the title-level reversal is an interpretive craft account rather than proof that surprise alone caused its emotional force.
 
 ## What Changed
 

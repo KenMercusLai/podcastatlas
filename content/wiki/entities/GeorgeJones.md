@@ -5,7 +5,8 @@ tags: [person, singer, country-music]
 sources:
   - encore-the-king-of-tears-encore-the-king-of-tears
   - a-treat-for-the-die-hards
-last_updated: 2026-11-16
+  - the-king-of-tears-the-king-of-tears
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -40,15 +41,17 @@ The newer source places that moment inside [[NarrativeEndingDesign]]. Jones beco
 ### Biography and performance
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] places Jones's addiction, illness, violence, and separation beside the recording of [[HeStoppedLovingHerToday]] without treating them as a complete causal explanation.
+- [[the-king-of-tears-the-king-of-tears]] corroborates this biographical context in the original release.
 
 ### Memorial reinterpretation
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] describes the 2013 memorial performance as shifting the song from an imagined death to a specific farewell.
 - [[a-treat-for-the-die-hards]] uses the same performance as a final demonstration that context can transform the meaning of everything preceding it.
+- [[the-king-of-tears-the-king-of-tears]] identifies Jones, Nancy Jones, the Grand Ole Opry House, and the day of death as the concrete details driving that reinterpretation.
 
 ## Qualifications
 
-The sources are structured retrospective summaries rather than a recording study, clinical history, independent biography, memorial transcript, or reception survey. Addiction and psychiatric illness contextualize Jones's life but do not by themselves explain his artistry, excuse violence, or prove what listeners hear in a performance. The narrative-ending interpretation is Gladwell's reading of the event rather than a universal account of its reception.
+The sources are structured retrospective summaries, and the original and Encore releases substantially overlap; they are not independent replication, a recording study, clinical history, independent biography, memorial transcript, or reception survey. Addiction and psychiatric illness contextualize Jones's life but do not by themselves explain his artistry, excuse violence, or prove what listeners hear in a performance. The narrative-ending interpretation is Gladwell's reading of the event rather than a universal account of its reception.
 
 ## What Changed
 

@@ -4,7 +4,8 @@ type: entity
 tags: [person, songwriter, country-music]
 sources:
   - encore-the-king-of-tears-encore-the-king-of-tears
-last_updated: 2026-11-15
+  - the-king-of-tears-the-king-of-tears
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,18 +34,21 @@ His biography is used cautiously as creative context. The death of an infant son
 ### Craft through emotional alignment
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] traces how Curly Putman's mournful approach resolved the mismatch between the original melody and the subject of “D-I-V-O-R-C-E.”
+- [[the-king-of-tears-the-king-of-tears]] corroborates that melody-and-subject alignment in the original 2017 release.
 
 ### Specific narrative tragedy
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] uses “Golden Ring,” “Unwed Fathers,” and [[HeStoppedLovingHerToday]] to show Braddock building sadness through concrete relationships and events.
+- [[the-king-of-tears-the-king-of-tears]] supplies the same linked examples and emphasizes accumulated emotional triggers.
 
 ### Experience as qualified source material
 
 - [[encore-the-king-of-tears-encore-the-king-of-tears]] connects Braddock's losses and relationship with Sparky to his emotional range while preserving his uncertainty about direct song origins.
+- [[the-king-of-tears-the-king-of-tears]] likewise preserves Braddock's uncertainty rather than turning biography into a settled origin claim.
 
 ## Qualifications
 
-The supplied episode summary is not an independent biography, songwriting archive, interview transcript, or musicological analysis. Personal crisis may supply material without being necessary or sufficient for artistic achievement. Braddock's uncertainty about Sparky prevents the episode's preferred interpretation from becoming a settled origin story.
+The supplied episode summaries are two releases of substantially overlapping material, not independent biographies, songwriting archives, interview transcripts, or musicological analyses. Personal crisis may supply material without being necessary or sufficient for artistic achievement. Braddock's uncertainty about Sparky prevents the episode's preferred interpretation from becoming a settled origin story.
 
 ## What Changed
 
