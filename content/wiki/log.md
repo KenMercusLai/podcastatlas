@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Show 63 - Supernova in the East II
+
+Added the missing [[HardcoreHistory]] installment connecting the fall of Shanghai and the [[NanjingMassacre]] to Japan's unresolved China war, import dependence, sanctions, failed diplomacy, [[IsorokuYamamoto|Yamamoto's]] operational gamble, and the [[PearlHarborAttack]]. Created synthesis-first pages for [[JohnRabe]], Yamamoto, Pearl Harbor, [[JapaneseChinaWarResourceTrap]], [[PearlHarborStrategicGamble]], and [[AtrocityUncertaintyAndDenial]], then resynthesized the Nanjing Massacre and [[JapaneseEarlyPacificWarStrategy]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: uncertainty over casualty totals, terminology, and particular stories does not erase the convergent record of mass killing, rape, torture, looting, and arson documented in part by the Nanking International Safety Zone. Japan's continuing China war made withdrawal increasingly costly while leaving the state dependent on foreign fuel and industrial inputs; further conquest promised autarky but widened the war. Pearl Harbor achieved extraordinary surprise and immediate damage, yet missed the carriers and produced the prolonged, mobilized American response its planners hoped to avoid.
+
+No settled contradiction was adopted. Allied and colonial wrongdoing complicates self-exonerating national narratives without negating Japanese responsibility. Sanctions narrowed Japan's options but do not erase agency or make war mechanically inevitable, while casualty totals, atrocity mechanisms, diplomatic motives, warning failures, declaration timing, and strategic counterfactuals remain attributed, disputed, estimated, interpretive, or source-scoped because the supplied file is a structured Chinese-language summary rather than a transcript, archive, or systematic military history. Broad country, [[DanCarlin]], and Hardcore History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,200 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Show 64 - Supernova in the East III
 
 Added the [[HardcoreHistory]] episode following Japan's opening Pacific offensives through Hong Kong, Malaya, Singapore, the Philippines, Bataan, and the death march. Created synthesis-first pages for [[TomoyukiYamashita]], [[ArthurPercival]], [[EdwardPKing]], [[JapaneseEarlyPacificWarStrategy]], [[AlliedRacializedMilitaryUnderestimation]], [[CapitalShipAirpowerVulnerability]], [[BataanDefenseAndCaptivity]], and [[CommandHeroNarrativeAccountability]], then resynthesized [[DouglasMacArthur]], [[ImperialPrestigeVindication]], and [[SurrenderPreclusionWarEscalation]] from their complete preserved evidence inventories before appending the new source once.
@@ -42600,6 +42610,10 @@ Linked the trailer's fragments to the full episodes that carry their evidentiary
 No settled contradiction was adopted. The preview documents promotional range rather than independent findings: its sensory, musical, legal-testing, linguistic, historical, religious, chess, and organized-crime fragments remain source-scoped until developed by the full episodes. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because the trailer adds no durable profile change and the focused source note captures its limited contribution.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,199 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

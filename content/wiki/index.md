@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Show 63 - Supernova in the East II](sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii.md) — Hardcore History connects Nanjing's atrocity record, Japan's China-war resource trap, sanctions and failed diplomacy, Yamamoto's gamble, and Pearl Harbor's tactical success with strategic failure.
 - [Introducing Revisionist History Season Four](sources/introducing-revisionist-history-season-four.md) — Season-four trailer previewing tea, heavy metal, Jesuit reasoning, language, organized crime, the LSAT, chess, and an intentionally theme-resistant range.
 - [Tempest in a Teacup](sources/tempest-in-a-teacup-tempest-in-a-teacup.md) — Revisionist History connects colonial tea smuggling, the Boston Tea Party, coercive boycott politics, organized-crime families, and crooked-ladder mobility toward legitimacy.
 - [Dr. Rock’s Taxonomy](sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy.md) — Revisionist History connects John Rock, the birth-control pill, Catholic doctrine, conscience, casuistry, and the moral classification of reproductive technology.
@@ -5327,6 +5328,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Puzzle Rush](sources/puzzle-rush-puzzle-rush.md) — Revisionist History uses the LSAT, format-sensitive law-school outcomes, and chess time controls to show how assessment speed helps define visible ability and rankings.
 
 ## Entities
+- [John Rabe](entities/JohnRabe.md) — German businessman and Nazi Party member who helped organize the Nanking International Safety Zone and document Japanese violence.
+- [Isoroku Yamamoto](entities/IsorokuYamamoto.md) — Japanese admiral who advocated the Pearl Harbor strike while doubting Japan could win a prolonged industrial war.
+- [Attack on Pearl Harbor](entities/PearlHarborAttack.md) — Surprise carrier raid whose severe immediate damage brought the United States fully into the Second World War.
 - [John Tyler (historian)](entities/JohnTylerHistorian.md) — Historian using insurance and shipping records to reconstruct colonial Boston tea smuggling and its political consequences.
 - [Francis Ianni](entities/FrancisIanni.md) — Sociologist and anthropologist whose crime-family study traced intergenerational movement toward conventional legitimacy.
 - [John Rock](entities/JohnRock.md) — Catholic fertility physician and pill co-developer who used conscience and casuistry to challenge the Church's contraception judgment.
@@ -20123,6 +20127,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Japanese China-War Resource Trap](concepts/JapaneseChinaWarResourceTrap.md) — Feedback loop joining unresolved occupation, sunk costs, import dependence, sanctions, and expansion toward Southeast Asian resources.
+- [Pearl Harbor Strategic Gamble](concepts/PearlHarborStrategicGamble.md) — Attempt to turn tactical shock into negotiation before American industrial superiority became decisive.
+- [Atrocity Uncertainty and Denial](concepts/AtrocityUncertaintyAndDenial.md) — Distinction between legitimate qualification of disputed details and denial of a convergent mass-violence record.
 - [Crooked-Ladder Social Mobility](concepts/CrookedLadderSocialMobility.md) — Intergenerational model in which illicit accumulation can become a temporary route toward education, professions, and conventional legitimacy.
 - [Particularized Moral Discernment](concepts/ParticularizedMoralDiscernment.md) — Practice of suspending ideological attachment long enough to judge the complete facts, context, classification, and suffering of a concrete case.
 - [Reproductive Technology Moral Classification](concepts/ReproductiveTechnologyMoralClassification.md) — Case-based classification of reproductive interventions by purpose, mechanism, duration, physiological resemblance, and consequences.

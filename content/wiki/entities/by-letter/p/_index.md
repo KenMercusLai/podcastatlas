@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14699
+wiki_total_pages: 14702
 wiki_pages:
+  - key: "PearlHarborAttack"
+    title: "Attack on Pearl Harbor"
+    url: "/wiki/entities/pearlharborattack/"
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
     url: "/wiki/entities/ppmydatewithavampire/"

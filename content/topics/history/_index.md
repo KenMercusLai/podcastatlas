@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2832
+topic_total_pages: 2834
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -103,6 +103,9 @@ topic_concepts:
   - key: "AtrocityNarrativeReframing"
     title: "Atrocity Narrative Reframing"
     url: "/wiki/concepts/atrocitynarrativereframing/"
+  - key: "AtrocityUncertaintyAndDenial"
+    title: "Atrocity Uncertainty and Denial"
+    url: "/wiki/concepts/atrocityuncertaintyanddenial/"
   - key: "AudienceVsMeetingDiplomacy"
     title: "Audience-Versus-Meeting Diplomacy / 朝会之别"
     url: "/wiki/concepts/audiencevsmeetingdiplomacy/"
@@ -7470,6 +7473,9 @@ topic_sources:
   - key: "reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise"
     title: "Reconstruction: The Unfinished Promise"
     url: "/wiki/sources/reconstruction-the-unfinished-promise-reconstruction-the-unfinished-promise/"
+  - key: "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii"
+    title: "Show 63 - Supernova in the East II"
+    url: "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
   - key: "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii"
     title: "Show 64 - Supernova in the East III"
     url: "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"

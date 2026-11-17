@@ -12479,6 +12479,10 @@
     "title": "Atrocity Retaliation Cycle",
     "url": "/wiki/concepts/atrocityretaliationcycle/"
   },
+  "AtrocityUncertaintyAndDenial": {
+    "title": "Atrocity Uncertainty and Denial",
+    "url": "/wiki/concepts/atrocityuncertaintyanddenial/"
+  },
   "AttachmentAffectRegulation": {
     "title": "Attachment as Affect Regulation",
     "url": "/wiki/concepts/attachmentaffectregulation/"
@@ -51035,6 +51039,10 @@
     "title": "Isonzo Front",
     "url": "/wiki/entities/isonzofront/"
   },
+  "IsorokuYamamoto": {
+    "title": "Isoroku Yamamoto",
+    "url": "/wiki/entities/isorokuyamamoto/"
+  },
   "Israel": {
     "title": "Israel",
     "url": "/wiki/entities/israel/"
@@ -51758,6 +51766,10 @@
   "JapaneseChildcareAndPreschoolSystem": {
     "title": "Japanese Childcare And Preschool System / 日本保育与幼教体系",
     "url": "/wiki/concepts/japanesechildcareandpreschoolsystem/"
+  },
+  "JapaneseChinaWarResourceTrap": {
+    "title": "Japanese China-War Resource Trap",
+    "url": "/wiki/concepts/japanesechinawarresourcetrap/"
   },
   "JapaneseCondoMaintenanceReserve": {
     "title": "Japanese Condo Maintenance Reserve / 日本公寓修缮基金",
@@ -53766,6 +53778,10 @@
   "JohnQHamm": {
     "title": "John Q. Hamm",
     "url": "/wiki/entities/johnqhamm/"
+  },
+  "JohnRabe": {
+    "title": "John Rabe",
+    "url": "/wiki/entities/johnrabe/"
   },
   "JohnRapp": {
     "title": "John Rapp",
@@ -74142,6 +74158,14 @@
   "PeakValleyAIInferencePricing": {
     "title": "Peak-Valley AI Inference Pricing",
     "url": "/wiki/concepts/peakvalleyaiinferencepricing/"
+  },
+  "PearlHarborAttack": {
+    "title": "Attack on Pearl Harbor",
+    "url": "/wiki/entities/pearlharborattack/"
+  },
+  "PearlHarborStrategicGamble": {
+    "title": "Pearl Harbor Strategic Gamble",
+    "url": "/wiki/concepts/pearlharborstrategicgamble/"
   },
   "PearlRiverDeltaManufacturingTransformation": {
     "title": "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁",
@@ -111886,6 +111910,10 @@
   "data-risk-and-actuarial-science-in-insurance": {
     "title": "Data, Risk, and Actuarial Science in Insurance",
     "url": "/wiki/sources/data-risk-and-actuarial-science-in-insurance/"
+  },
+  "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii": {
+    "title": "Show 63 - Supernova in the East II",
+    "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
   },
   "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii": {
     "title": "Show 64 - Supernova in the East III",

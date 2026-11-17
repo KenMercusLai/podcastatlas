@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11672
+wiki_total_pages: 11675
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "PeakValleyAIInferencePricing"
     title: "Peak-Valley AI Inference Pricing"
     url: "/wiki/concepts/peakvalleyaiinferencepricing/"
+  - key: "PearlHarborStrategicGamble"
+    title: "Pearl Harbor Strategic Gamble"
+    url: "/wiki/concepts/pearlharborstrategicgamble/"
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"

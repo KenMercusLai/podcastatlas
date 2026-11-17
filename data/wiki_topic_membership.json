@@ -17807,6 +17807,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AtrocityUncertaintyAndDenial": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "AttentionAsAsset": [
     {
       "key": "economics",
@@ -108685,6 +108692,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii": [

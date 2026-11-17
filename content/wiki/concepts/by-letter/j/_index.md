@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11672
+wiki_total_pages: 11675
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "JapaneseChildcareAndPreschoolSystem"
     title: "Japanese Childcare And Preschool System / 日本保育与幼教体系"
     url: "/wiki/concepts/japanesechildcareandpreschoolsystem/"
+  - key: "JapaneseChinaWarResourceTrap"
+    title: "Japanese China-War Resource Trap"
+    url: "/wiki/concepts/japanesechinawarresourcetrap/"
   - key: "JapaneseCondoMaintenanceReserve"
     title: "Japanese Condo Maintenance Reserve / 日本公寓修缮基金"
     url: "/wiki/concepts/japanesecondomaintenancereserve/"

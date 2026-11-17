@@ -26431,6 +26431,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/atrocitynarrativereframing/"
     },
+    "AtrocityUncertaintyAndDenial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/atrocityuncertaintyanddenial/"
+    },
     "AttachmentAffectRegulation": {
       "episode_count": 7,
       "show_count": 1,
@@ -166757,6 +166773,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/isonzofront/"
     },
+    "IsorokuYamamoto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/isorokuyamamoto/"
+    },
     "Israel": {
       "episode_count": 10,
       "show_count": 4,
@@ -169289,10 +169321,26 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
     },
-    "JapaneseEarlyPacificWarStrategy": {
+    "JapaneseChinaWarResourceTrap": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/japanesechinawarresourcetrap/"
+    },
+    "JapaneseEarlyPacificWarStrategy": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
@@ -169300,6 +169348,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 64 - Supernova in the East III",
           "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        },
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
         }
       ],
       "updated": "2026-11-17",
@@ -175747,6 +175802,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/johnqhamm/"
+    },
+    "JohnRabe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johnrabe/"
     },
     "JohnRedmond": {
       "episode_count": 2,
@@ -227473,9 +227544,9 @@
       "url": "/wiki/entities/nangonglinggulong/"
     },
     "NanjingMassacre": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5290070743 [GLT5290070743].md",
@@ -227483,9 +227554,16 @@
           "show": "The Rest Is History",
           "title": "236. China and World War II (Part 2)",
           "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        },
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/nanjingmassacre/"
     },
     "NanjingWildBoars": {
@@ -246034,6 +246112,38 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/peakstatecoffee/"
+    },
+    "PearlHarborAttack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/pearlharborattack/"
+    },
+    "PearlHarborStrategicGamble": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha63_Supernova_in_the_East_II [dchha63_Supernova_in_the_East_II].md",
+          "key": "dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 63 - Supernova in the East II",
+          "url": "/wiki/sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/pearlharborstrategicgamble/"
     },
     "PeasantsRevolt1381": {
       "episode_count": 2,
