@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14774
+wiki_total_pages: 14777
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "MarkGraham"
     title: "Mark Graham"
     url: "/wiki/entities/markgraham/"
+  - key: "MarkGranovetter"
+    title: "Mark Granovetter"
+    url: "/wiki/entities/markgranovetter/"
   - key: "MarkHyman"
     title: "Mark Hyman"
     url: "/wiki/entities/markhyman/"

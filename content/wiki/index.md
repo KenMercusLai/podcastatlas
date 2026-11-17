@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Big Man Can’t Shoot](sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot.md) — Revisionist History uses underhand free throws and Granovetter’s threshold model to connect social stigma, effective-practice adoption, institutional convention, and the costs of approval independence.
 - [Carlos Doesn’t Remember](sources/carlos-doesn-t-remember-carlos-doesn-t-remember.md) — Revisionist History connects Carlos's interrupted education with early advocacy, high-achieving low-income college undermatching, fragile talent, and privilege as access to second chances.
 - [Food Fight](sources/food-fight-food-fight.md) — Revisionist History uses Vassar and Bowdoin dining to expose how aid, full-pay tuition, endowment use, amenities, and affluent-student recruitment can trap an access-oriented college.
 - [My Little Hundred Million](sources/my-little-hundred-million-my-little-hundred-million.md) — Revisionist History contrasts Hank Rowan's transformative public-college gift with mega-gifts to wealthy universities through weak-link, strong-link, and marginal-impact reasoning.
@@ -5361,6 +5362,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Wilt Chamberlain](entities/WiltChamberlain.md) — Record-setting scorer whose abandonment of successful underhand free throws illustrates effective practice defeated by social stigma.
+- [Rick Barry](entities/RickBarry.md) — Elite underhand free-throw shooter whose approval independence supports mastery while carrying visible interpersonal costs.
+- [Mark Granovetter](entities/MarkGranovetter.md) — Sociologist whose threshold model separates private belief from willingness to act before enough peers do.
 - [Carlos (student)](entities/CarlosStudent.md) — Gifted Los Angeles student whose education survives poverty, family responsibility, foster care, and repeated disruption through exceptional persistence and advocacy.
 - [Eric Eisner](entities/EricEisner.md) — Former entertainment lawyer and YES founder who identifies gifted students early and combines placement with material and continuing support.
 - [YES program](entities/YESProgram.md) — Early educational intervention combining gifted-student identification, tutoring, private-school placement, and sustained advocacy.
@@ -20233,6 +20237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Granovetter Threshold Model](concepts/GranovetterThresholdModel.md) — Actor-level model in which adoption depends on how much visible peer participation a person requires before joining.
 - [Talent Fragility Under Disadvantage](concepts/TalentFragilityUnderDisadvantage.md) — Principle that ability requires material, relational, and institutional protection to survive long enough to become recognized achievement.
 - [Early Opportunity Intervention](concepts/EarlyOpportunityIntervention.md) — Sustained childhood support that addresses academic, material, navigational, and continuity barriers before college recruitment.
 - [College Application Undermatch](concepts/CollegeApplicationUndermatch.md) — Pattern in which high-achieving students do not apply to selective institutions that may be academically and financially plausible.

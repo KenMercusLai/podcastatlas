@@ -133570,6 +133570,22 @@
       "updated": "2026-11-06",
       "url": "/wiki/concepts/grandtourculture/"
     },
+    "GranovetterThresholdModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Man_Can't_Shoot [The_Big_Man_Can't_Shoot].md",
+          "key": "the-big-man-can-t-shoot-the-big-man-can-t-shoot",
+          "show": "Revisionist History",
+          "title": "The Big Man Can’t Shoot",
+          "url": "/wiki/sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/granovetterthresholdmodel/"
+    },
     "GrantAsbell": {
       "episode_count": 1,
       "show_count": 1,
@@ -211555,6 +211571,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/markdesposito/"
     },
+    "MarkGranovetter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Man_Can't_Shoot [The_Big_Man_Can't_Shoot].md",
+          "key": "the-big-man-can-t-shoot-the-big-man-can-t-shoot",
+          "show": "Revisionist History",
+          "title": "The Big Man Can’t Shoot",
+          "url": "/wiki/sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/markgranovetter/"
+    },
     "MarkHyman": {
       "episode_count": 1,
       "show_count": 1,
@@ -277861,6 +277893,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/richlandparish/"
     },
+    "RickBarry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Man_Can't_Shoot [The_Big_Man_Can't_Shoot].md",
+          "key": "the-big-man-can-t-shoot-the-big-man-can-t-shoot",
+          "show": "Revisionist History",
+          "title": "The Big Man Can’t Shoot",
+          "url": "/wiki/sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/rickbarry/"
+    },
     "RickKnudtson": {
       "episode_count": 1,
       "show_count": 1,
@@ -297681,9 +297729,9 @@
       "url": "/wiki/concepts/situationalcharactertests/"
     },
     "SituationalDisagreeableness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Malcolm_Gladwell's_12_Rules_for_Life [Malcolm_Gladwell's_12_Rules_for_Life].md",
@@ -297691,6 +297739,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell's 12 Rules for Life",
           "url": "/wiki/sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life/"
+        },
+        {
+          "episode_file": "The_Big_Man_Can't_Shoot [The_Big_Man_Can't_Shoot].md",
+          "key": "the-big-man-can-t-shoot-the-big-man-can-t-shoot",
+          "show": "Revisionist History",
+          "title": "The Big Man Can’t Shoot",
+          "url": "/wiki/sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot/"
         }
       ],
       "updated": "2026-11-17",
@@ -345575,6 +345630,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/willyloman/"
+    },
+    "WiltChamberlain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Big_Man_Can't_Shoot [The_Big_Man_Can't_Shoot].md",
+          "key": "the-big-man-can-t-shoot-the-big-man-can-t-shoot",
+          "show": "Revisionist History",
+          "title": "The Big Man Can’t Shoot",
+          "url": "/wiki/sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/wiltchamberlain/"
     },
     "WimHof": {
       "episode_count": 2,

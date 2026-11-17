@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14774
+wiki_total_pages: 14777
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "RichlandParish"
     title: "Richland Parish, Louisiana"
     url: "/wiki/entities/richlandparish/"
+  - key: "RickBarry"
+    title: "Rick Barry"
+    url: "/wiki/entities/rickbarry/"
   - key: "RickCaruso"
     title: "Rick Caruso"
     url: "/wiki/entities/rickcaruso/"

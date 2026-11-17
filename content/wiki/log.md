@@ -43077,3 +43077,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Big Man Can’t Shoot
+
+Added the 2016 [[RevisionistHistory]] episode using [[WiltChamberlain|Wilt Chamberlain’s]] successful but abandoned underhand free throws, [[RickBarry|Rick Barry’s]] performance-first counterexample, and [[MarkGranovetter|Mark Granovetter’s]] [[GranovetterThresholdModel|threshold model]] to separate private belief from socially contingent adoption. Created focused profiles for Chamberlain, Barry, and Granovetter, created the threshold-model concept, and resynthesized [[SituationalDisagreeableness]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: evidence that a practice works may not overcome ridicule, gendered stigma, learned convention, or career risk when an actor needs visible peer acceptance before acting. Low dependence on approval can preserve useful experimentation, but Barry’s reported interpersonal conflicts prevent treating it as a universal virtue; threshold differences are interpretive here rather than measured traits.
+
+No settled contradiction was adopted. The supplied file is a structured episode summary rather than a transcript, game dataset, biomechanics study, Granovetter paper, NFL draft analysis, fourth-down study, or independent personality assessment. Statistics, motives, mechanics, and causal claims remain episode-scoped, and underhand success for Barry and one Chamberlain season does not prove that the technique is optimal for every player. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[RichardThaler]], [[InstitutionalInnovationAdoptionResistance]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,233 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

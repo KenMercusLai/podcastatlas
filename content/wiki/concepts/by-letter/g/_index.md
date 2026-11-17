@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11721
+wiki_total_pages: 11722
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "GrandTourCulture"
     title: "Grand Tour Culture"
     url: "/wiki/concepts/grandtourculture/"
+  - key: "GranovetterThresholdModel"
+    title: "Granovetter Threshold Model"
+    url: "/wiki/concepts/granovetterthresholdmodel/"
   - key: "GraphNeuralNetworks"
     title: "Graph Neural Networks"
     url: "/wiki/concepts/graphneuralnetworks/"
