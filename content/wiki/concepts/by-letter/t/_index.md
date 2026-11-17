@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11698
+wiki_total_pages: 11701
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "TemperatureMinimumClockShifting"
     title: "Temperature Minimum Clock Shifting"
     url: "/wiki/concepts/temperatureminimumclockshifting/"
+  - key: "TemporalHomeland"
+    title: "Temporal Homeland / 时间故乡"
+    url: "/wiki/concepts/temporalhomeland/"
   - key: "TemporallyGatedNeuroplasticity"
     title: "Temporally Gated Neuroplasticity"
     url: "/wiki/concepts/temporallygatedneuroplasticity/"

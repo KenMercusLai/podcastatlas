@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路](sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai.md) — 罗永浩与陈晓卿从食物记忆、纪录片信任和工业化协作谈到技术更替、职业更新与退休焦虑。
 - [State v. Johnson: Power, Race, and a Death Sentence](sources/state-v-johnson-state-v-johnson.md) — Revisionist History reopens Nathaniel Johnson’s 1959 conviction and execution to show how racial power, unequal counsel, and closed review can make a factually unresolved case legally untrustworthy.
 - [Mr. Hollowell Didn’t Like That](sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that.md) — Revisionist History uses Donald Hollowell’s Georgia cases to connect evidentiary advocacy, community-facing courtroom authority, strategic composure, and systemic racism without a central conspiracy.
 - [McDonald’s Broke My Heart](sources/mcdonald-s-broke-my-heart-mcdonald-s-broke-my-heart.md) — Revisionist History reconstructs McDonald’s 1990 beef-tallow fry change as a public-health, replacement-formulation, sensory-value, and product-stewardship tradeoff.
@@ -5346,6 +5347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [陈晓卿 / Chen Xiaoqing](entities/ChenXiaoqing.md) — Chinese documentary director and food-media creator whose profile joins patient observation, industrial collaboration, taste as social inquiry, and repeated craft renewal.
 - [Nathaniel Johnson](entities/NathanielJohnson.md) — Black Army veteran whose disputed 1959 rape conviction and execution illustrate the gap between unresolved innocence and an unreliable legal process.
 - [Donald L. Hollowell](entities/DonaldHollowell.md) — Civil-rights attorney whose evidentiary craft and controlled courtroom authority challenged Georgia’s segregated legal system.
 - [Vernon Jordan](entities/VernonJordan.md) — Hollowell’s junior colleague and retrospective interpreter of strategic survival, community support, and disciplined action.
@@ -20184,6 +20186,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Adaptive Craft Self-Renewal](concepts/AdaptiveCraftSelfRenewal.md) — Career pattern in which deep practice converts externally shaped assignments and obsolete tools into portable judgment, redesigned roles, and continued agency.
+- [Documentary Trust Through Duration](concepts/DocumentaryTrustThroughDuration.md) — Method of reducing camera reactivity through sustained presence and relationship while preserving the limits of editing, consent, and power.
+- [Temporal Homeland / 时间故乡](concepts/TemporalHomeland.md) — Distinction between revisitable geography and an irrecoverable earlier social and sensory world carried by food and memory.
 - [Civil-Rights Courtroom Dual Audience](concepts/CivilRightsCourtroomDualAudience.md) — Distinguishes formal adjudication from the community-facing political meaning of visible legal challenge.
 - [Strategic Composure Under Injustice](concepts/StrategicComposureUnderInjustice.md) — Agent-chosen regulation of response to preserve preparation, protection, credibility, and timely action under unequal power.
 - [Racialized Institutional Self-Coordination](concepts/RacializedInstitutionalSelfCoordination.md) — Mechanism by which shared assumptions align official actors into mutually reinforcing injustice without a central plan.

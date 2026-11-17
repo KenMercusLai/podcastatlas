@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11698
+wiki_total_pages: 11701
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "DocumentaryEthicalRestraint"
     title: "Documentary Ethical Restraint / 纪录片伦理克制"
     url: "/wiki/concepts/documentaryethicalrestraint/"
+  - key: "DocumentaryTrustThroughDuration"
+    title: "Documentary Trust Through Duration"
+    url: "/wiki/concepts/documentarytrustthroughduration/"
   - key: "DogBloodCase"
     title: "Dog-Blood Case / 狗血案"
     url: "/wiki/concepts/dogbloodcase/"

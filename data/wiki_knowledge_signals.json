@@ -9383,6 +9383,22 @@
       "updated": "2026-11-10",
       "url": "/wiki/concepts/adaptationreceptionmemory/"
     },
+    "AdaptiveCraftSelfRenewal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmlhgbLbCKgAL5TjIPNUgQW1rSaI [lmlhgbLbCKgAL5TjIPNUgQW1rSaI].md",
+          "key": "jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai",
+          "show": "罗永浩的十字路口",
+          "title": "纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路",
+          "url": "/wiki/sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/adaptivecraftselfrenewal/"
+    },
     "AdaptiveHumanEnvironments": {
       "episode_count": 1,
       "show_count": 1,
@@ -53098,6 +53114,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/chenxianxinofficial/"
     },
+    "ChenXiaoqing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmlhgbLbCKgAL5TjIPNUgQW1rSaI [lmlhgbLbCKgAL5TjIPNUgQW1rSaI].md",
+          "key": "jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai",
+          "show": "罗永浩的十字路口",
+          "title": "纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路",
+          "url": "/wiki/sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/chenxiaoqing/"
+    },
     "ChenXuanzangConqueringDemons": {
       "episode_count": 2,
       "show_count": 1,
@@ -86349,6 +86381,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/documentaryethicalrestraint/"
+    },
+    "DocumentaryTrustThroughDuration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmlhgbLbCKgAL5TjIPNUgQW1rSaI [lmlhgbLbCKgAL5TjIPNUgQW1rSaI].md",
+          "key": "jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai",
+          "show": "罗永浩的十字路口",
+          "title": "纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路",
+          "url": "/wiki/sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/documentarytrustthroughduration/"
     },
     "DodgeCity": {
       "episode_count": 1,
@@ -289400,9 +289448,9 @@
       "url": "/wiki/concepts/sensorymotorthoughtsimulation/"
     },
     "SensoryPreferencePlasticity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2717533873 [SCIM2717533873].md",
@@ -289410,9 +289458,16 @@
           "show": "Huberman Lab",
           "title": "The Chemistry of Food & Taste | Dr. Harold McGee",
           "url": "/wiki/sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873/"
+        },
+        {
+          "episode_file": "lmlhgbLbCKgAL5TjIPNUgQW1rSaI [lmlhgbLbCKgAL5TjIPNUgQW1rSaI].md",
+          "key": "jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai",
+          "show": "罗永浩的十字路口",
+          "title": "纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路",
+          "url": "/wiki/sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/sensorypreferenceplasticity/"
     },
     "SensorySubstitution": {
@@ -316138,6 +316193,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/templeuniversity/"
+    },
+    "TemporalHomeland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmlhgbLbCKgAL5TjIPNUgQW1rSaI [lmlhgbLbCKgAL5TjIPNUgQW1rSaI].md",
+          "key": "jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai",
+          "show": "罗永浩的十字路口",
+          "title": "纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路",
+          "url": "/wiki/sources/jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/temporalhomeland/"
     },
     "TemporallyGatedNeuroplasticity": {
       "episode_count": 1,

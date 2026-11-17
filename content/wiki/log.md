@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | 纪录片导演陈晓卿×罗永浩！他一直被命运推着，却走出了自己的路
+
+Added a [[LuoyonghaosCrossroads|罗永浩的十字路口]] interview following [[ChenXiaoqing|陈晓卿]] from a Lingbi teachers' compound through photography, CCTV documentary work, food filmmaking, studio leadership, platform change, AI, and approaching retirement. Created synthesis-first pages for Chen, [[TemporalHomeland]], [[DocumentaryTrustThroughDuration]], and [[AdaptiveCraftSelfRenewal]], then resynthesized [[SensoryPreferencePlasticity]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: a hometown can be revisited in space without restoring its earlier people, shops, bodies, prices, techniques, or tastes; food can reactivate that lost world without proving objective sameness. Documentary observation becomes less reactive through time and trust but remains edited and ethically mediated. Childhood availability and repetition shape durable comfort while later exposure broadens judgment, and a career can gain agency by converting assigned work, obsolete tools, and changing roles into portable craft.
+
+No settled contradiction was adopted. Long access does not eliminate performance, consent, editorial construction, or harm; learned taste does not establish one authentic standard; and childhood dialogue, chronology, earnings, production economics, restaurant quality, market judgments, AI effects, and personal motives remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, or systematic industry history. Broad [[LuoYonghao]] and [[LuoyonghaosCrossroads]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,218 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Malcolm Gladwell Debates Adam Grant
 
 Added a live [[RevisionistHistory]] conversation in which [[MalcolmGladwell]] and [[AdamGrant]] debate creativity, performance, organizational fit, empathy, career experimentation, workplace dissent, automation, disclosure, and institutional purpose. Created focused synthesis-first pages for [[ContextDependentPerformance]] and [[SpecificityAndSurprise]], then resynthesized Adam Grant from his complete preserved evidence inventory before appending the new source once.
@@ -42859,6 +42869,10 @@ The episode extends institutional self-coordination from accusation-building to 
 No settled contradiction was adopted. The supplied file is a structured episode summary rather than the trial transcript, police and medical files, appellate record, or an independent investigation. The reported later request for forgiveness remains hearsay, and the *To Kill a Mockingbird* discussion is interpretive comparison rather than evidence about Johnson's case. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,217 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

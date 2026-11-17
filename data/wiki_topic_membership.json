@@ -13229,6 +13229,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdaptiveCraftSelfRenewal": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AdaptiveHumanEnvironments": [
     {
       "key": "technology",
@@ -112444,6 +112451,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "jilupian-daoyan-chenxiaoqing-luoyonghao-ta-yizhi-bei-mingyun-tuizhe-que-zouchule-ziji-de-lu-lmlhgblbckgal5tjipnugqw1rsai": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523": [

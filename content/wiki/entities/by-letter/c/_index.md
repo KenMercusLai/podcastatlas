@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14740
+wiki_total_pages: 14741
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2873,6 +2873,9 @@ wiki_pages:
   - key: "ChenMingxia"
     title: "陈明霞 / Chen Mingxia"
     url: "/wiki/entities/chenmingxia/"
+  - key: "ChenXiaoqing"
+    title: "陈晓卿 / Chen Xiaoqing"
+    url: "/wiki/entities/chenxiaoqing/"
   - key: "ChenZhenWarringStates"
     title: "陈枕 / Chen Zhen (Warring States strategist)"
     url: "/wiki/entities/chenzhenwarringstates/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3886
+topic_total_pages: 3887
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -31,6 +31,9 @@ topic_concepts:
   - key: "ActuarialWorkflowInversion"
     title: "Actuarial Workflow Inversion"
     url: "/wiki/concepts/actuarialworkflowinversion/"
+  - key: "AdaptiveCraftSelfRenewal"
+    title: "Adaptive Craft Self-Renewal"
+    url: "/wiki/concepts/adaptivecraftselfrenewal/"
   - key: "AdaptiveHumanEnvironments"
     title: "Adaptive Human Environments"
     url: "/wiki/concepts/adaptivehumanenvironments/"
