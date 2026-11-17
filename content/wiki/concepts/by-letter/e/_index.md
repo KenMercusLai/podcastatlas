@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11730
+wiki_total_pages: 11732
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "ExplanatoryOverreach"
     title: "Explanatory Overreach"
     url: "/wiki/concepts/explanatoryoverreach/"
+  - key: "ExploitativeInfluencerContent"
+    title: "Exploitative Influencer Content"
+    url: "/wiki/concepts/exploitativeinfluencercontent/"
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"

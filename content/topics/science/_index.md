@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1740
+topic_total_pages: 1741
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2686,6 +2686,9 @@ topic_concepts:
   - key: "VoiceHumanization"
     title: "Voice Humanization"
     url: "/wiki/concepts/voicehumanization/"
+  - key: "VoluntarilyIsolatedIndigenousPeoples"
+    title: "Voluntarily Isolated Indigenous Peoples"
+    url: "/wiki/concepts/voluntarilyisolatedindigenouspeoples/"
   - key: "VulnerabilityAsLoveSource"
     title: "Vulnerability As Love Source / 脆弱作为爱的源泉"
     url: "/wiki/concepts/vulnerabilityaslovesource/"

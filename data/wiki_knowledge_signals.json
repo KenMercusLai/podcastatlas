@@ -15233,9 +15233,9 @@
       "url": "/wiki/entities/algeria/"
     },
     "AlgorithmicAngerEngagement": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
@@ -15257,6 +15257,13 @@
           "show": "Hidden Brain",
           "title": "Group Think",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056-default-mp3-ywr3ahjkcgo-3517acb90f957775a48ca5fa8c48a7f3-50996056/"
+        },
+        {
+          "episode_file": "tech_20261117_1117_MP_TECH_pod_128 [tech_20261117_1117_MP_TECH_pod_128].md",
+          "key": "tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When Indigenous communities become content",
+          "url": "/wiki/sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128/"
         }
       ],
       "updated": "2026-11-17",
@@ -107743,6 +107750,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/explanatoryoverreach/"
+    },
+    "ExploitativeInfluencerContent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261117_1117_MP_TECH_pod_128 [tech_20261117_1117_MP_TECH_pod_128].md",
+          "key": "tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When Indigenous communities become content",
+          "url": "/wiki/sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/exploitativeinfluencercontent/"
     },
     "ExplorationInstructionTradeoff": {
       "episode_count": 1,
@@ -236142,6 +236165,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/northamericanblueenergypartners/"
     },
+    "NorthSentinelIsland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261117_1117_MP_TECH_pod_128 [tech_20261117_1117_MP_TECH_pod_128].md",
+          "key": "tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When Indigenous communities become content",
+          "url": "/wiki/sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/northsentinelisland/"
+    },
     "NortheastAntiJapaneseUnitedArmy": {
       "episode_count": 1,
       "show_count": 1,
@@ -286211,6 +286250,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/sarahchurchwell/"
+    },
+    "SarahEdwards": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261117_1117_MP_TECH_pod_128 [tech_20261117_1117_MP_TECH_pod_128].md",
+          "key": "tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When Indigenous communities become content",
+          "url": "/wiki/sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/sarahedwards/"
     },
     "SarahFriar": {
       "episode_count": 1,
@@ -336632,6 +336687,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/voltaire/"
+    },
+    "VoluntarilyIsolatedIndigenousPeoples": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261117_1117_MP_TECH_pod_128 [tech_20261117_1117_MP_TECH_pod_128].md",
+          "key": "tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When Indigenous communities become content",
+          "url": "/wiki/sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/voluntarilyisolatedindigenouspeoples/"
     },
     "VoluntaryAISafetyCommitments": {
       "episode_count": 7,

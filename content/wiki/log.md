@@ -43147,3 +43147,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | When Indigenous communities become content
+
+Added a [[MarketplaceTech]] episode with media-studies professor [[SarahEdwards]] on an American influencer's illegal visit to [[NorthSentinelIsland|North Sentinel Island]], the conversion of vulnerable communities into attention-generating content, moderation limits, advertiser pressure, and the risk that critical engagement amplifies what it condemns.
+
+Created focused pages for Sarah Edwards, North Sentinel Island, [[ExploitativeInfluencerContent]], and [[VoluntarilyIsolatedIndigenousPeoples]]. Resynthesized [[AlgorithmicAngerEngagement]] from its complete preserved evidence inventory before appending the new source once. Broad Marketplace Tech, Meta, X, Community Notes, MrBeast, PewDiePie, and automatic `wiki/overview.md` profiles remained closed because the short source does not materially change their overall profiles or because focused pages capture the durable additions without reopening large unchanged inventories.
+
+No settled contradiction was adopted. Critical comments, reaction videos, and community notes may inform audiences while adding distribution signals; the source does not establish which effect dominates. Confirmed influencer intrusions involving voluntarily isolated peoples remain rare, and the visit, applicable law, moderation changes, creator consequences, and platform effects remain episode-reported rather than independently verified from primary records.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,238 sources across 811 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

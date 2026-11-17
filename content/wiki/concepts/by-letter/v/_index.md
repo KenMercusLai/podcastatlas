@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11730
+wiki_total_pages: 11732
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "VolatilityDecay"
     title: "Volatility Decay / 波动率损耗"
     url: "/wiki/concepts/volatilitydecay/"
+  - key: "VoluntarilyIsolatedIndigenousPeoples"
+    title: "Voluntarily Isolated Indigenous Peoples"
+    url: "/wiki/concepts/voluntarilyisolatedindigenouspeoples/"
   - key: "VoluntaryAISafetyCommitments"
     title: "Voluntary AI Safety Commitments"
     url: "/wiki/concepts/voluntaryaisafetycommitments/"

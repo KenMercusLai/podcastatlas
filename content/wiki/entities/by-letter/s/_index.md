@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14792
+wiki_total_pages: 14794
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "SarahChurchwell"
     title: "Sarah Churchwell"
     url: "/wiki/entities/sarahchurchwell/"
+  - key: "SarahEdwards"
+    title: "Sarah Edwards"
+    url: "/wiki/entities/sarahedwards/"
   - key: "SarahFriar"
     title: "Sarah Friar"
     url: "/wiki/entities/sarahfriar/"
