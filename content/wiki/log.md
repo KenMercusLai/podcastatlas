@@ -42787,3 +42787,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Introducing Revisionist History Season Three
+
+Added the 2018 [[RevisionistHistory]] season-three trailer, which frames [[MassDelusion]] as a problem of collective false certainty and resistance to correction. Created a source-scoped Mass Delusion concept while preserving the distinction among motivated reasoning, panic, sociogenic illness, institutional incentives, and reasonable disagreement under uncertainty.
+
+No settled contradiction was adopted. The trailer is a promotional montage summarized in a secondary document, so its disputed data, poisoned children, mass hysteria, institutional failure, heroic responder, OSS journey, and comic exchanges remain previews rather than completed evidence. Broad [[MalcolmGladwell]] and Revisionist History entity profiles remained closed because the source adds no durable profile evidence beyond the existing trailer precedent.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving eight pending ingests; refreshed artifacts validate 5,213 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, canonical index coverage, log coverage, identities, synthesis-v1 structure, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

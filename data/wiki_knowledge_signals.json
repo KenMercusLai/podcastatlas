@@ -212347,6 +212347,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/massbroadcastculture/"
     },
+    "MassDelusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Introducing_Revisionist_History_Season_Three [Introducing_Revisionist_History_Season_Three].md",
+          "key": "introducing-revisionist-history-season-three",
+          "show": "Revisionist History",
+          "title": "Introducing Revisionist History Season Three",
+          "url": "/wiki/sources/introducing-revisionist-history-season-three/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/massdelusion/"
+    },
     "MassExtinctionPlanetaryWarning": {
       "episode_count": 1,
       "show_count": 1,

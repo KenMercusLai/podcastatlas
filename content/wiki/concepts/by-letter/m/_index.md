@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11692
+wiki_total_pages: 11693
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "MassBroadcastCulture"
     title: "Mass Broadcast Culture"
     url: "/wiki/concepts/massbroadcastculture/"
+  - key: "MassDelusion"
+    title: "Mass Delusion"
+    url: "/wiki/concepts/massdelusion/"
   - key: "MassExtinctionPlanetaryWarning"
     title: "Mass Extinction as Planetary Warning"
     url: "/wiki/concepts/massextinctionplanetarywarning/"

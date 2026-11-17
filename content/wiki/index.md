@@ -16,6 +16,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strong Verbs, Short Sentences](sources/strong-verbs-short-sentences-strong-verbs-short-sentences.md) — Revisionist History uses Bernadine Healy, Ramesh Sharma, and John Dingell to connect scientific-fraud panic, career-damaging accusation, congressional pressure, and misconduct appeal rights.
 - [Show 62 - Supernova in the East I](sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i.md) — Hardcore History connects Onoda's holdout, Tokugawa control, reconstructed Bushido, Meiji modernization, imperial expansion, military insubordination, and Shanghai's short-war failure.
 - [Show 63 - Supernova in the East II](sources/dchha63-supernova-in-the-east-ii-dchha63-supernova-in-the-east-ii.md) — Hardcore History connects Nanjing's atrocity record, Japan's China-war resource trap, sanctions and failed diplomacy, Yamamoto's gamble, and Pearl Harbor's tactical success with strategic failure.
+- [Introducing Revisionist History Season Three](sources/introducing-revisionist-history-season-three.md) — Season-three trailer framing mass delusion, resistance to correction, institutional failure, personal harm, and comic historical detours as a research agenda rather than a completed argument.
 - [Introducing Revisionist History Season Four](sources/introducing-revisionist-history-season-four.md) — Season-four trailer previewing tea, heavy metal, Jesuit reasoning, language, organized crime, the LSAT, chess, and an intentionally theme-resistant range.
 - [Tempest in a Teacup](sources/tempest-in-a-teacup-tempest-in-a-teacup.md) — Revisionist History connects colonial tea smuggling, the Boston Tea Party, coercive boycott politics, organized-crime families, and crooked-ladder mobility toward legitimacy.
 - [Dr. Rock’s Taxonomy](sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy.md) — Revisionist History connects John Rock, the birth-control pill, Catholic doctrine, conscience, casuistry, and the moral classification of reproductive technology.
@@ -31972,5 +31973,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Constitutional Grammar and Punctuation](concepts/ConstitutionalGrammarAndPunctuation.md) — Use of syntax, conjunctions, clauses, and punctuation as bounded constitutional evidence.
 - [Context-Dependent Performance](concepts/ContextDependentPerformance.md) — Principle that individual output partly reflects teammates, routines, coaching, culture, and role fit, with both transfer limits and rigidity risks.
 - [Specificity and Surprise](concepts/SpecificityAndSurprise.md) — Creative principle joining concrete, inspectable detail to a plausible departure from expectation.
+- [Mass Delusion](concepts/MassDelusion.md) — Source-scoped umbrella for collective false certainty and resistance to correction, without assuming one mechanism or treating dissent as diagnosis.
 
 ## Syntheses
