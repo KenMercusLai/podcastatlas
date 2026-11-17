@@ -5314,6 +5314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1165丨张既传：低调才是顶级生存智慧](sources/zizhi-tongjian-hanji-1165-zhangji-zhuan-didiao-caishi-dingji-shengcun-zhihui-lr7x5qltfi_ikktqabowt1garphl.md) — 芮淇讲透资治通鉴 connects Zhang Ji's mixed Liangzhou governance with Liu Bei's Hanzhong kingship settlement, Shangyong expansion, rank allocation, and fragmented-theater support risk.
 
 - [The Queen of Cuba](sources/the-queen-of-cuba-the-queen-of-cuba.md) — Revisionist History uses Ana Belén Montes's Cuban espionage and Tim Levine's experiments to distinguish noticed suspicion from a records-backed trigger strong enough to overcome truth-default.
+- [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 
 ## Entities
 - [Tomoyuki Yamashita](entities/TomoyukiYamashita.md) — Japanese commander whose mobility, infiltration, and tempo drove the Malaya-Singapore campaign.
@@ -20079,6 +20080,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reg Brown](entities/RegBrown.md) — DIA analyst who assembled and escalated the first circumstantial case against Montes after the 1996 shootdown.
 - [Defense Intelligence Agency](entities/DefenseIntelligenceAgency.md) — Institutional setting whose trust and records shaped both the missed warning signs and later identification of Montes.
 - [Brothers to the Rescue](entities/BrothersToTheRescue.md) — Cuban émigré aviation organization whose 1996 aircraft shootdown precipitated the episode's counterintelligence inquiry.
+- [Peyton Rous](entities/PeytonRous.md) — Tumor-virus researcher whose chicken-sarcoma transmission experiment anchors the episode's early cancer-virus history.
+- [Ludwig Gross](entities/LudwigGross.md) — Cancer researcher whose disputed mouse-leukemia virus work connected animal tumor virology to later reverse-transcriptase research.
+- [Howard Temin](entities/HowardTemin.md) — Virologist who inferred an RNA-to-DNA step from stable cellular transformation and independently discovered reverse transcriptase.
+- [David Baltimore](entities/DavidBaltimore.md) — Virologist whose independent reverse-transcriptase experiment illustrates how brief decisive tests depend on long conceptual preparation.
+- [Robert Gallo](entities/RobertGallo.md) — Human-retrovirus and T-cell researcher presented as a bridge from tumor virology to the early AIDS response.
 
 ## Concepts
 - [Japanese Early Pacific War Strategy](concepts/JapaneseEarlyPacificWarStrategy.md) — Resource seizure and defensive-perimeter strategy whose operational success depended on an uncontrollable political bet about Allied resolve.
@@ -31851,5 +31857,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Truth-Default Theory](concepts/TruthDefaultTheory.md) — Account of why people generally presume honesty until accumulated doubt becomes a sufficiently strong trigger for disbelief.
 - [Behavioral Lie-Detection Limits](concepts/BehavioralLieDetectionLimits.md) — Constraint on inferring deception from demeanor without independent, discriminating corroboration.
+- [Reverse Transcription](concepts/ReverseTranscription.md) — RNA-to-DNA copying mechanism that explained stable retroviral transformation and later became central to HIV research and treatment.
+- [Retrovirus Research Preparedness](concepts/RetrovirusResearchPreparedness.md) — Crisis-response option value created by prior mechanisms, models, cell culture, and trained investigators.
+- [Scientific Dissent Under Rejection](concepts/ScientificDissentUnderRejection.md) — Evidence-led persistence on a disputed anomaly while remaining answerable to discriminating experiments and correction.
 
 ## Syntheses

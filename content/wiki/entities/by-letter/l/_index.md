@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14668
+wiki_total_pages: 14673
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "LudwigErhard"
     title: "Ludwig Erhard"
     url: "/wiki/entities/ludwigerhard/"
+  - key: "LudwigGross"
+    title: "Ludwig Gross"
+    url: "/wiki/entities/ludwiggross/"
   - key: "LudwigIIOfBavaria"
     title: "Ludwig II of Bavaria"
     url: "/wiki/entities/ludwigiiofbavaria/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11658
+wiki_total_pages: 11661
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "ScientificDiscoveryAutomation"
     title: "Scientific Discovery Automation"
     url: "/wiki/concepts/scientificdiscoveryautomation/"
+  - key: "ScientificDissentUnderRejection"
+    title: "Scientific Dissent Under Rejection"
+    url: "/wiki/concepts/scientificdissentunderrejection/"
   - key: "ScientificExplorationImperialClaim"
     title: "Scientific Exploration and Imperial Claim"
     url: "/wiki/concepts/scientificexplorationimperialclaim/"

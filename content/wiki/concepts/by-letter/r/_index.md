@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11658
+wiki_total_pages: 11661
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "RetrosynthesisAI"
     title: "Retrosynthesis AI"
     url: "/wiki/concepts/retrosynthesisai/"
+  - key: "RetrovirusResearchPreparedness"
+    title: "Retrovirus Research Preparedness"
+    url: "/wiki/concepts/retrovirusresearchpreparedness/"
   - key: "ReturnOnEquityAnalysis"
     title: "Return On Equity Analysis"
     url: "/wiki/concepts/returnonequityanalysis/"
@@ -1067,6 +1070,9 @@ wiki_pages:
   - key: "ReverseNewCoBiotechModel"
     title: "Reverse NewCo Biotech Model"
     url: "/wiki/concepts/reversenewcobiotechmodel/"
+  - key: "ReverseTranscription"
+    title: "Reverse Transcription"
+    url: "/wiki/concepts/reversetranscription/"
   - key: "RevolutionaryAtrocityNarrativeContest"
     title: "Revolutionary Atrocity Narrative Contest"
     url: "/wiki/concepts/revolutionaryatrocitynarrativecontest/"

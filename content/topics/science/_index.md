@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1722
+topic_total_pages: 1723
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2188,6 +2188,9 @@ topic_concepts:
   - key: "ScientificAnxietyLiteraryMaterial"
     title: "Scientific Anxiety As Literary Material / 科学焦虑作为文学材料"
     url: "/wiki/concepts/scientificanxietyliterarymaterial/"
+  - key: "ScientificDissentUnderRejection"
+    title: "Scientific Dissent Under Rejection"
+    url: "/wiki/concepts/scientificdissentunderrejection/"
   - key: "ScientificIdealVsAIArmsRace"
     title: "Scientific Ideal vs AI Arms Race"
     url: "/wiki/concepts/scientificidealvsaiarmsrace/"

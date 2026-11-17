@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14668
+wiki_total_pages: 14673
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "PewResearchCenter"
     title: "Pew Research Center"
     url: "/wiki/entities/pewresearchcenter/"
+  - key: "PeytonRous"
+    title: "Peyton Rous"
+    url: "/wiki/entities/peytonrous/"
   - key: "Pfizer"
     title: "Pfizer / 辉瑞"
     url: "/wiki/entities/pfizer/"
