@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [189.日元、加息与日本企业的出海经验｜专访亚洲开发银行前行长中尾武彦](sources/lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw.md) — 起朱楼宴宾客专访中尾武彦，以日美利差、日元套利和货币正常化解释弱日元，并用援助、政策金融、商社网络与东道国共益框架比较中日企业出海。
 - [Transchipment: Huang and the AI aftershocks](sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281.md) — Nvidia's succession and export-control crisis, Britain's migration reversal, and the next James Bond.
 - [When Indigenous communities become content](sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128.md) — Marketplace Tech and Sarah Edwards connect an illegal North Sentinel Island visit to exploitative influencer content, context-poor moderation, critical-engagement amplification, and deliberate non-engagement.
 - [517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起](sources/ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj.md) — 忽左忽右以宇文泰的联盟整合、八柱国府兵制、《周礼》官制与巴蜀扩张解释西魏北周崛起，并以李虎案例检验关陇集团延续与王朝记忆。
@@ -5368,6 +5369,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Takehiko Nakao / 中尾武彦](entities/TakehikoNakao.md) — Former Japanese finance official and ADB president connecting monetary normalization, development finance, and host-country-centered globalization.
+- [Asian Development Bank / 亚洲开发银行](entities/AsianDevelopmentBank.md) — Multilateral development-finance institution represented through infrastructure productivity, repayment capacity, and cross-border investment context.
 - [Robert Pattinson](entities/RobertPattinson.md) — British actor reported by the episode as selected to play the next James Bond.
 - [Sarah Edwards](entities/SarahEdwards.md) — Media-studies professor connecting influencer exploitation to morally indifferent engagement systems and context-limited moderation.
 - [North Sentinel Island](entities/NorthSentinelIsland.md) — Protected island case showing how attempted contact with a voluntarily isolated Indigenous community became influencer content.
@@ -20261,6 +20264,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Japanese Monetary-Policy Normalization / 日本货币政策正常化](concepts/JapaneseMonetaryPolicyNormalization.md) — Distributional transition from exceptional monetary easing toward rates more consistent with sustained inflation, currency stability, and capital-allocation signals.
+- [Japan Outbound Institutional Infrastructure / 日本企业出海制度基础设施](concepts/JapanOutboundInstitutionalInfrastructure.md) — Development aid, policy finance, supplier networks, government relationships, and trading companies supporting overseas corporate operations.
 - [British Net Migration Reversal](concepts/BritishNetMigrationReversal.md) — Britain's rapid move from record inflows toward very low or potentially negative net migration.
 - [Exploitative Influencer Content](concepts/ExploitativeInfluencerContent.md) — Creator content that converts community vulnerability, remoteness, or protected status into attention while shifting risk toward those filmed or approached.
 - [Voluntarily Isolated Indigenous Peoples](concepts/VoluntarilyIsolatedIndigenousPeoples.md) — Non-contact autonomy framework joining health, safety, extraction, legal access limits, and emerging influencer intrusion.

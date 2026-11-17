@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2416
+topic_total_pages: 2420
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1975,6 +1975,9 @@ topic_concepts:
   - key: "ItalianCuisineUrbanFormation"
     title: "Italian Cuisine as an Urban Network"
     url: "/wiki/concepts/italiancuisineurbanformation/"
+  - key: "JapanOutboundInstitutionalInfrastructure"
+    title: "Japan Outbound Institutional Infrastructure / 日本企业出海制度基础设施"
+    url: "/wiki/concepts/japanoutboundinstitutionalinfrastructure/"
   - key: "JapaneseEquityRepricing"
     title: "Japanese Equity Repricing / 日本股市再定价"
     url: "/wiki/concepts/japaneseequityrepricing/"
@@ -1984,6 +1987,9 @@ topic_concepts:
   - key: "JapaneseInnovationRetreat"
     title: "Japanese Innovation Retreat / 日本创新退潮"
     url: "/wiki/concepts/japaneseinnovationretreat/"
+  - key: "JapaneseMonetaryPolicyNormalization"
+    title: "Japanese Monetary-Policy Normalization / 日本货币政策正常化"
+    url: "/wiki/concepts/japanesemonetarypolicynormalization/"
   - key: "JapaneseSogoShosha"
     title: "Japanese Sogo Shosha / 日本综合商社"
     url: "/wiki/concepts/japanesesogoshosha/"
@@ -5513,6 +5519,9 @@ topic_entities:
   - key: "T0Finance"
     title: "T0 Finance"
     url: "/wiki/entities/t0finance/"
+  - key: "TakehikoNakao"
+    title: "Takehiko Nakao / 中尾武彦"
+    url: "/wiki/entities/takehikonakao/"
   - key: "TalkSanlian"
     title: "Talk三联"
     url: "/wiki/entities/talksanlian/"
@@ -6363,6 +6372,9 @@ topic_sources:
   - key: "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp"
     title: "188.关于本轮下跌的三个想法和一些建议"
     url: "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
+  - key: "lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw"
+    title: "189.日元、加息与日本企业的出海经验｜专访亚洲开发银行前行长中尾武彦"
+    url: "/wiki/sources/lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3888
+topic_total_pages: 3890
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3205,6 +3205,9 @@ topic_concepts:
   - key: "JapanGeopoliticalSupplyChainDividend"
     title: "Japan Geopolitical Supply-Chain Dividend / 日本地缘供应链红利"
     url: "/wiki/concepts/japangeopoliticalsupplychaindividend/"
+  - key: "JapanOutboundInstitutionalInfrastructure"
+    title: "Japan Outbound Institutional Infrastructure / 日本企业出海制度基础设施"
+    url: "/wiki/concepts/japanoutboundinstitutionalinfrastructure/"
   - key: "JapaneseGalapagosization"
     title: "Japanese Galapagosization / 日本加拉帕戈斯化"
     url: "/wiki/concepts/japanesegalapagosization/"
@@ -5762,6 +5765,9 @@ topic_entities:
   - key: "AsahiGroup"
     title: "Asahi Group / 朝日集团"
     url: "/wiki/entities/asahigroup/"
+  - key: "AsianDevelopmentBank"
+    title: "Asian Development Bank / 亚洲开发银行"
+    url: "/wiki/entities/asiandevelopmentbank/"
   - key: "AskAIMosaic"
     title: "Ask AI (Mosaic predecessor)"
     url: "/wiki/entities/askaimosaic/"

@@ -43174,3 +43174,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | 189.日元、加息与日本企业的出海经验｜专访亚洲开发银行前行长中尾武彦
+
+Added a [[QizhulouYanBinke|起朱楼宴宾客]] interview with former [[AsianDevelopmentBank|Asian Development Bank]] president [[TakehikoNakao|中尾武彦]] on weak-yen mechanisms, the borrower-saver tradeoff in [[JapaneseMonetaryPolicyNormalization|Japanese monetary-policy normalization]], and the public, financial, commercial, and relational infrastructure behind Japanese corporate expansion.
+
+Created focused pages for Takehiko Nakao, the Asian Development Bank, Japanese monetary-policy normalization, and [[JapanOutboundInstitutionalInfrastructure|Japan's outbound institutional infrastructure]]. Resynthesized [[YenCarryTrade]], [[JapaneseSogoShosha]], [[JapaneseInnovationRetreat]], [[JapaneseInflationHouseholdPressure]], [[ChinaManufacturingOverseasExpansion]], [[HostCountryManufacturingBacklash]], [[LongTermLocalizationBargain]], and [[NewEconomyHouseholdTransmission]] from each page's complete preserved evidence inventory before appending the new source once. Broad show, host, country, and automatic `wiki/overview.md` profiles remained closed because the focused pages capture the material additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+No settled contradiction was adopted. The source strengthens the interest-differential account of yen weakness while retaining trade, income, reinvestment, service-payment, expectation, and hedging qualifications; faster normalization benefits savers and may reduce currency and asset-price distortion while raising borrower costs. Japanese relationship infrastructure may improve durability while slowing action, whereas Chinese speed and scale can strengthen capability while intensifying host-country displacement and legitimacy concerns. Numeric rate benchmarks, purchasing-power comparisons, development-finance history, and organizational explanations remain episode-attributed because the supplied file is a structured summary rather than primary data, official loan records, company filings, or a verbatim transcript.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,240 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

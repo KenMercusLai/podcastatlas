@@ -17396,6 +17396,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AsianDevelopmentBank": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AsilomarConferenceGovernance": [
     {
       "key": "politics",
@@ -53761,6 +53768,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "JapanOutboundInstitutionalInfrastructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "JapanRiceSupplyFragility": [
     {
       "key": "science",
@@ -53825,6 +53844,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JapaneseMonetaryPolicyNormalization": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "JapaneseSogoShosha": [
@@ -92060,6 +92086,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TakehikoNakao": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TakeichiNoLongerHuman": [
     {
       "key": "culture",
@@ -113182,6 +113215,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8": [

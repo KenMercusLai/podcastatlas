@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14795
+wiki_total_pages: 14797
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "TakedaPharmaceutical"
     title: "Takeda Pharmaceutical / 武田制药"
     url: "/wiki/entities/takedapharmaceutical/"
+  - key: "TakehikoNakao"
+    title: "Takehiko Nakao / 中尾武彦"
+    url: "/wiki/entities/takehikonakao/"
   - key: "TakiAI"
     title: "Taki AI"
     url: "/wiki/entities/takiai/"

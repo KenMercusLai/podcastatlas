@@ -7,56 +7,54 @@ sources:
   - 179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo
   - ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9
   - ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly
-last_updated: 2026-10-19
+  - lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw
+last_updated: 2026-11-18
 ---
 
 # Yen Carry Trade
 
 ## Definition
 
-The yen carry trade uses low-cost yen funding or short-yen exposure to hold a higher-yielding currency or higher-return asset, earning only while the interest or asset return exceeds funding cost and adverse currency movement.
+The yen carry trade uses low-cost yen funding or short-yen exposure to hold a higher-yielding currency or higher-return asset, earning only while interest and asset returns exceed funding cost and adverse currency movement.
 
 ## Current Synthesis
 
-EP38 defines the fragile funding structure: cheap yen, a stable or weakening yen, and rising target assets make the trade attractive, while Bank of Japan tightening, rapid yen appreciation, or target-asset decline can reverse it. Leverage turns a modest exchange-rate move into a collateral or solvency problem.
+The trade is a conditional funding structure, not free interest income. Cheap yen, a stable or weakening exchange rate, and rising target assets can make it attractive; [[BankOfJapan]] tightening, narrowing rate differentials, rapid yen appreciation, or target-asset losses can reverse the economics. Leverage then turns an exchange-rate move into a collateral, liquidation, or solvency problem.
 
-Episode 179 broadens yen pressure beyond a single speculative position. Energy imports, overseas corporate investment, Japanese purchases of U.S. assets, and funding behavior can all affect the currency and the policy problem. EP95 adds the retail AUD/JPY version and clarifies that positive carry does not cap currency loss.
+The sources now separate the mechanism from the whole yen market. Energy imports, overseas corporate investment, Japanese purchases of foreign assets, retained overseas income, digital-service payments, hedging, and expectations can all affect the currency. Episode 189 nevertheless strengthens the rate-differential channel: a large U.S.-Japan gap directly rewards borrowing or short exposure in yen, making [[JapaneseMonetaryPolicyNormalization|normalization]] relevant to funding conditions without making it a complete exchange-rate solution.
 
 ## Key Claims
 
-- The trade earns only when carry and target-asset return exceed funding and currency losses.
-- Yen appreciation raises the repayment cost for positions funded in yen.
-- Bank of Japan and Federal Reserve policy affect the rate differential but do not determine the entire exchange rate.
-- Leverage can turn a small currency move into forced closure.
-- Real capital flows can sustain yen pressure even without a fixed exchange-rate promise.
-- Retail AUD/JPY carry and global yen-funded asset positions share the same conditional funding logic.
+- Carry is earned only when yield and asset return exceed funding and exchange-rate loss.
+- Yen appreciation raises repayment cost and can force leveraged closure.
+- Japanese and U.S. rate policy materially affects the incentive but does not determine the full exchange rate.
+- Retail AUD/JPY positions and global yen-funded asset portfolios share the same conditional logic.
+- Current-account income may remain invested abroad rather than immediately generate yen demand.
+- Real trade, service, investment, hedging, and expectation flows must be separated from speculative carry.
 
 ## Evidence
 
-### Fragile funding structure
-- [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9|EP38]] links cheap yen funding, Japanese tightening, yen appreciation, and global risk-asset closure.
-
-### Structural currency pressure
-- [[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo|Episode 179]] adds energy imports, overseas investment, and Japanese purchases of U.S. assets to the funding-trade explanation.
-
-### Retail interest-differential trade
-- [[ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly|EP95]] uses AUD/JPY to show that higher Australian rates attracted Japanese retail traders but did not protect them from 2008 exchange-rate losses.
+- Fragile funding structure: [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9|EP38]] links cheap yen, Japanese tightening, yen appreciation, and cross-market position closure.
+- Structural currency pressure: [[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo|Episode 179]] adds energy imports, overseas investment, and Japanese purchases of U.S. assets.
+- Retail expression: [[ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly|EP95]] uses AUD/JPY to show that positive carry did not protect traders from 2008 exchange-rate loss.
+- Rate-gap and income-flow detail: [[lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw|Episode 189]] identifies the U.S.-Japan rate gap as the main incentive while noting that overseas income is often reinvested abroad and digital payments can offset tourism receipts.
 
 ## Counterevidence & Qualifications
 
-The sources do not estimate the total size of yen carry positions or isolate carry from trade flows, hedging, valuation, or policy expectations. A low-yield currency does not automatically weaken, a high-yield currency does not automatically rise, and unleveraged investors may withstand paths that liquidate leveraged accounts. The 2008 retail account is an explanatory case rather than a universal description of Japanese households.
+The sources do not measure the stock, leverage, maturity, counterparties, or hedging of yen-funded positions, nor do they isolate carry from trade, valuation, portfolio, or expectation effects. A low-yield currency does not automatically weaken, a high-yield currency does not automatically rise, and unleveraged investors can withstand paths that liquidate leveraged accounts. Purchasing-power comparisons and current-account balances cannot by themselves establish a tradeable fair value.
 
 ## What Changed
 
-- Added AUD/JPY as a retail currency-pair expression of the same funding logic.
-- Made clear that interest carry can be overwhelmed by exchange-rate loss.
-- Migrated the page to the synthesis-first schema without removing prior evidence.
+- Strengthened the U.S.-Japan rate differential as a direct incentive while retaining the multi-flow exchange-rate boundary.
+- Added retained overseas income and digital-service payments to the distinction between carry and the whole yen market.
+- Linked carry conditions explicitly to Japanese monetary-policy normalization.
 
 ## Related Concepts
 
 - [[CarryTradeUnwind]] - reversal when currency, funding, or asset movement defeats the trade.
+- [[JapaneseMonetaryPolicyNormalization]] - policy transition that can change yen funding cost and expectations.
 - [[ForeignExchangeMarginTrading]] - account structure used for the retail AUD/JPY example.
 - [[BankOfJapan]] - institution whose rate stance affects yen funding conditions.
-- [[FederalReserve]] - policy institution affecting the relative rate environment.
+- [[FederalReserve]] - institution affecting the relative rate environment.
 - [[CurrencyRisk]] - exchange-rate exposure that can dominate nominal yield advantage.
 - [[DerivativeAmplifiedVolatility]] - leveraged closure can magnify cross-market moves.

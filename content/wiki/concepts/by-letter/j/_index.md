@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11733
+wiki_total_pages: 11735
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "JapanMarketEntryTrust"
     title: "Japan Market Entry Trust / 日本市场进入信任"
     url: "/wiki/concepts/japanmarketentrytrust/"
+  - key: "JapanOutboundInstitutionalInfrastructure"
+    title: "Japan Outbound Institutional Infrastructure / 日本企业出海制度基础设施"
+    url: "/wiki/concepts/japanoutboundinstitutionalinfrastructure/"
   - key: "JapanRiceSupplyFragility"
     title: "Japan Rice Supply Fragility / 日本大米供应脆弱性"
     url: "/wiki/concepts/japanricesupplyfragility/"
@@ -110,6 +113,9 @@ wiki_pages:
   - key: "JapaneseMedicalTriageSystem"
     title: "Japanese Medical Triage System / 日本分诊制"
     url: "/wiki/concepts/japanesemedicaltriagesystem/"
+  - key: "JapaneseMonetaryPolicyNormalization"
+    title: "Japanese Monetary-Policy Normalization / 日本货币政策正常化"
+    url: "/wiki/concepts/japanesemonetarypolicynormalization/"
   - key: "JapaneseMortgageInsuranceBundle"
     title: "Japanese Mortgage Insurance Bundle / 日本房贷保险组合"
     url: "/wiki/concepts/japanesemortgageinsurancebundle/"
