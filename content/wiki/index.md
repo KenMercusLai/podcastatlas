@@ -5322,6 +5322,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 - [The Standard Case](sources/the-standard-case-the-standard-case.md) — Revisionist History uses Jesuit casuistry, baseball medicine, Pulse, and LGBT Catholic accompaniment to reason from standard cases rather than inherited labels alone.
 - [Good Old Boys](sources/good-old-boys-good-old-boys.md) — Revisionist History connects Randy Newman's compromised narrators, Lester Maddox's segregationist grievance, Northern hypocrisy, and the reception risks of morally uncomfortable satire.
+- [The Tortoise and the Hare](sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare.md) — Revisionist History challenges timed LSAT and elite-law-school proxies through Jeffrey Sutton, legal-work pace, outcome-validated hiring, and a proposal to hide school names from employers.
 
 ## Entities
 - [John Tyler (historian)](entities/JohnTylerHistorian.md) — Historian using insurance and shipping records to reconstruct colonial Boston tea smuggling and its political consequences.
@@ -20112,6 +20113,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Barry Bonds](entities/BarryBonds.md) — Baseball player used as the contrasting standard case for transformative enhancement and competitive risk pressure.
 - [James Martin (Jesuit)](entities/JamesMartinJesuit.md) — Priest applying consistent standards, whole-person attention, and accompaniment to the Church's relationship with LGBT Catholics.
 - [James Keenan](entities/JamesKeenan.md) — Jesuit moral theologian connecting narrated cases with casuistry and moral responsibility for omitted love.
+- [Jeffrey Sutton](entities/JeffreySutton.md) — Federal appellate judge and former Supreme Court clerk whose Ohio State path challenges categorical elite-school screening.
+- [Antonin Scalia](entities/AntoninScalia.md) — Supreme Court justice whose prestige-based clerkship rule and praise of Sutton expose the tension between risk reduction and direct evaluation.
+- [Evan Parker](entities/EvanParker.md) — Legal-talent analyst testing school prestige, interview ratings, and candidate histories against later professional outcomes.
+- [Law School Admission Test (LSAT)](entities/LawSchoolAdmissionTest.md) — Timed admissions assessment whose standardization, ranking value, and construct validity anchor the episode's selection critique.
 
 ## Concepts
 - [Crooked-Ladder Social Mobility](concepts/CrookedLadderSocialMobility.md) — Intergenerational model in which illicit accumulation can become a temporary route toward education, professions, and conventional legitimacy.

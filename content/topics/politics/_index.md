@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3578
+topic_total_pages: 3582
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6515,6 +6515,9 @@ topic_entities:
   - key: "EvaPeron"
     title: "Eva Perón"
     url: "/wiki/entities/evaperon/"
+  - key: "EvanParker"
+    title: "Evan Parker"
+    url: "/wiki/entities/evanparker/"
   - key: "EyreCrowe"
     title: "Eyre Crowe"
     url: "/wiki/entities/eyrecrowe/"
@@ -7031,6 +7034,9 @@ topic_entities:
   - key: "JeffreyArcher"
     title: "Jeffrey Archer"
     url: "/wiki/entities/jeffreyarcher/"
+  - key: "JeffreySutton"
+    title: "Jeffrey Sutton"
+    url: "/wiki/entities/jeffreysutton/"
   - key: "JenEasterly"
     title: "Jen Easterly"
     url: "/wiki/entities/jeneasterly/"
@@ -7304,6 +7310,9 @@ topic_entities:
   - key: "LawOfSuspects"
     title: "Law of Suspects"
     url: "/wiki/entities/lawofsuspects/"
+  - key: "LawSchoolAdmissionTest"
+    title: "Law School Admission Test (LSAT)"
+    url: "/wiki/entities/lawschooladmissiontest/"
   - key: "LazaroCardenas"
     title: "Lazaro Cardenas"
     url: "/wiki/entities/lazarocardenas/"
@@ -10122,6 +10131,9 @@ topic_sources:
   - key: "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what"
     title: "The Supreme Court struck down a bunch of Trump's tariffs. Now what?"
     url: "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
+  - key: "the-tortoise-and-the-hare-the-tortoise-and-the-hare"
+    title: "The Tortoise and the Hare"
+    url: "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
   - key: "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc"
     title: "The Weekend Intelligence: Shire folk"
     url: "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"

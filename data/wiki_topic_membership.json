@@ -37631,6 +37631,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EvanParker": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EventContractManipulationRisk": [
     {
       "key": "politics",
@@ -53912,6 +53919,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "JeffreySutton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JeffreyWang": [
     {
       "key": "economics",
@@ -57789,6 +57803,13 @@
     }
   ],
   "LawOfSuspects": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LawSchoolAdmissionTest": [
     {
       "key": "politics",
       "label": "Politics",
@@ -116351,6 +116372,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "the-tortoise-and-the-hare-the-tortoise-and-the-hare": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle": [

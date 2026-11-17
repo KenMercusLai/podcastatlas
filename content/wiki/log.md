@@ -42562,3 +42562,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Tortoise and the Hare
+
+Added a [[RevisionistHistory]] episode challenging the legal profession's reliance on timed [[LawSchoolAdmissionTest|LSAT]] performance and elite-school pedigree. Created focused profiles for [[JeffreySutton]], [[AntoninScalia]], [[EvanParker]], and the LSAT, while resynthesizing [[ExamStandardizationValidityTradeoff]], [[ObjectiveHiringAssessment]], and [[IvyLeagueMeritocracy]] from their complete bounded source inventories.
+
+Core synthesis: uniform timing can improve comparison while favoring rapid problem solving over the slower, sustained analysis required by some legal work. Sutton supplies a counterexample to categorical prestige filtering, and Parker's episode-reported outcome analysis challenges school names and conventional interviews as unvalidated performance proxies. The episode still preserves a place for speed, standardized evidence, institutional differences, and role-specific judgment rather than treating every credential as worthless.
+
+No settled contradiction was adopted. Scalia's praise of Sutton weakens his categorical school filter without proving that selectivity contains no information, while Gladwell's proposed school-name ban could conceal relevant training or shift signaling elsewhere. Timing, admissions-weight, capacity, score-distribution, interview-retention, and firm-performance claims remain episode-scoped because the supplied file is a structured summary rather than technical documentation, datasets, models, or independent replication. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,197 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

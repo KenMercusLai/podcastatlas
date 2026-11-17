@@ -22167,6 +22167,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/antonosika/"
     },
+    "AntoninScalia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/antoninscalia/"
+    },
     "AntoninePlague": {
       "episode_count": 1,
       "show_count": 1,
@@ -104631,6 +104647,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/evanhubinger/"
     },
+    "EvanParker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/evanparker/"
+    },
     "EventIntentMatching": {
       "episode_count": 1,
       "show_count": 1,
@@ -105260,9 +105292,9 @@
       "url": "/wiki/entities/exmachinafilm/"
     },
     "ExamStandardizationValidityTradeoff": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6507641896 [GLT6507641896].md",
@@ -105270,9 +105302,16 @@
           "show": "The Rest Is History",
           "title": "84. Exams",
           "url": "/wiki/sources/84-exams-glt6507641896/"
+        },
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/examstandardizationvaliditytradeoff/"
     },
     "ExaminationSystems": {
@@ -167154,9 +167193,9 @@
       "url": "/wiki/entities/ivonescimab/"
     },
     "IvyLeagueMeritocracy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "160.优秀的绵羊：请把说“不”的权利还给我 [933088014].md",
@@ -167178,6 +167217,13 @@
           "show": "Revisionist History",
           "title": "Project Dillard",
           "url": "/wiki/sources/project-dillard-project-dillard/"
+        },
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
         }
       ],
       "updated": "2026-11-17",
@@ -170288,6 +170334,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/jeffreylau/"
+    },
+    "JeffreySutton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/jeffreysutton/"
     },
     "JenEasterly": {
       "episode_count": 1,
@@ -185035,6 +185097,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/lawofsuspects/"
+    },
+    "LawSchoolAdmissionTest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/lawschooladmissiontest/"
     },
     "LawrenceCole": {
       "episode_count": 1,
@@ -235447,6 +235525,36 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/objectmediatedpoliticalultimatum/"
+    },
+    "ObjectiveHiringAssessment": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260224_0224_MP_TECH_pod_128 [tech_20260224_0224_MP_TECH_pod_128].md",
+          "key": "tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Here's how to prep for a job interview with AI",
+          "url": "/wiki/sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S4-Harj-v3 [TSR-S4-Harj-v3].md",
+          "key": "tsr-s4-harj-v3-tsr-s4-harj-v3",
+          "show": "The Social Radars",
+          "title": "Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment",
+          "url": "/wiki/sources/tsr-s4-harj-v3-tsr-s4-harj-v3/"
+        },
+        {
+          "episode_file": "The_Tortoise_and_the_Hare [The_Tortoise_and_the_Hare].md",
+          "key": "the-tortoise-and-the-hare-the-tortoise-and-the-hare",
+          "show": "Revisionist History",
+          "title": "The Tortoise and the Hare",
+          "url": "/wiki/sources/the-tortoise-and-the-hare-the-tortoise-and-the-hare/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/objectivehiringassessment/"
     },
     "ObliqueRemonstranceSelfProtection": {
       "episode_count": 2,

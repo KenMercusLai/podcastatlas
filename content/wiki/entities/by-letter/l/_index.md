@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14693
+wiki_total_pages: 14697
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "LawOfSuspects"
     title: "Law of Suspects"
     url: "/wiki/entities/lawofsuspects/"
+  - key: "LawSchoolAdmissionTest"
+    title: "Law School Admission Test (LSAT)"
+    url: "/wiki/entities/lawschooladmissiontest/"
   - key: "LawnTennisAssociation"
     title: "Lawn Tennis Association"
     url: "/wiki/entities/lawntennisassociation/"
