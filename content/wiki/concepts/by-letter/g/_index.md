@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11723
+wiki_total_pages: 11730
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -836,9 +836,15 @@ wiki_pages:
   - key: "GongAnFiction"
     title: "公案小说 / Gong'an Fiction"
     url: "/wiki/concepts/gonganfiction/"
+  - key: "GuanzhongOrientedPolicy"
+    title: "关中本位政策 / Guanzhong-Oriented Policy"
+    url: "/wiki/concepts/guanzhongorientedpolicy/"
   - key: "GuanzhongEliteRelocation"
     title: "关中豪强迁徙 / Guanzhong Elite Relocation"
     url: "/wiki/concepts/guanzhongeliterelocation/"
+  - key: "GuanlongGroup"
+    title: "关陇集团 / Guanlong Group"
+    url: "/wiki/concepts/guanlonggroup/"
   - key: "GushiBian"
     title: "古史辨 / Doubting Antiquity"
     url: "/wiki/concepts/gushibian/"

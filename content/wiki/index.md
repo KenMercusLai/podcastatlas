@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起](sources/ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj.md) — 忽左忽右以宇文泰的联盟整合、八柱国府兵制、《周礼》官制与巴蜀扩张解释西魏北周崛起，并以李虎案例检验关陇集团延续与王朝记忆。
 - [Introducing Revisionist History](sources/introducing-revisionist-history.md) — Original series trailer framing Revisionist History as a cross-domain return to overlooked or misunderstood stories while leaving its previewed cases to later full investigations.
 - [Saigon, 1965](sources/saigon-1965-saigon-1965.md) — Revisionist History reconstructs RAND’s Viet Cong morale archive to show how biography, indicator choice, dissent, and institutional review can produce opposite strategic judgments from the same evidence.
 - [The Big Man Can’t Shoot](sources/the-big-man-can-t-shoot-the-big-man-can-t-shoot.md) — Revisionist History uses underhand free throws and Granovetter’s threshold model to connect social stigma, effective-practice adoption, institutional convention, and the costs of approval independence.
@@ -5365,6 +5366,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [赵帅齐 / Zhao Shuaiqi](entities/ZhaoShuaiqi.md) — 以制度史、军事组织、历史地理与史料批判解释西魏北周的隋唐史学者。
+- [前岛佳孝 / Maejima Yoshitaka](entities/MaejimaYoshitaka.md) — 通过官制、人物与战略地理重审西魏北周政权史的日本学者。
+- [宇文泰 / Yuwen Tai](entities/YuwenTai.md) — 整合关中军政力量并奠定西魏北周制度与南进战略的实际统治者。
+- [西魏 / Western Wei](entities/WesternWei.md) — 以区域整合、军事官制重建和夺取汉中巴蜀改变弱势基础的关中政权。
+- [北周 / Northern Zhou](entities/NorthernZhou.md) — 继承西魏联盟、制度与南方资源并最终压倒北齐的政权。
+- [李虎 / Li Hu](entities/LiHu.md) — 八柱国成员与唐高祖祖父，其排名、战功和官衔展示王朝记忆与墓志修正。
 - [Elizabeth Thompson](entities/ElizabethThompson.md) — British painter whose national success with The Roll Call did not secure Royal Academy membership or a durable path for later women.
 - [Daniel Effron](entities/DanielEffron.md) — Psychologist supplying the episode's conditional account of moral licensing and prejudice after prior evidence of fairness.
 - [Royal Academy](entities/RoyalAcademy.md) — British art institution whose acclaim for Thompson's work coexisted with continued male control of membership.
@@ -20249,6 +20256,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [关陇集团 / Guanlong Group](concepts/GuanlongGroup.md) — 陈寅恪用于解释西魏关中联盟及其隋唐延续的模型，形成机制较延续时限更获支持。
+- [关中本位政策 / Guanzhong-Oriented Policy](concepts/GuanzhongOrientedPolicy.md) — 以籍贯、赐姓、军制与官制将异质力量重构为关中政治共同体的整合方案。
+- [八柱国—府兵体系 / Eight Pillars–Fubing System](concepts/EightPillarsFubingSystem.md) — 从八柱国、十二大将军到二十四军的层级化军政组织及其继承风险。
+- [《周礼》式制度重建 / Zhouli Institutional Reconstruction](concepts/ZhouliInstitutionalReconstruction.md) — 以复古合法性实施官制创新、吸纳文官并简化行政结构的西魏制度工程。
+- [巴蜀地缘逆转 / Ba-Shu Geostrategic Reversal](concepts/BashuGeostrategicReversal.md) — 夺取汉中巴蜀以同时改变资源基础与长江上游进军路线的结构性优势。
+- [王朝记忆的史料批判 / Source Criticism of Dynastic Memory](concepts/DynasticMemorySourceCriticism.md) — 用同时代官职、战功与墓志检验后世祖先叙事，同时避免现代去魅过度。
+- [中古贵族社会之争 / Medieval Aristocratic Society Debate](concepts/MedievalAristocraticSocietyDebate.md) — 围绕中古精英自主性与皇权授官依赖关系的京都—东京学派史学争论。
 - [Symbolic Inclusion Without Structural Change](concepts/SymbolicInclusionWithoutStructuralChange.md) — Pattern in which a celebrated outsider or milestone demonstrates openness while repeated access, authority, treatment, and succession remain largely unchanged.
 - [Granovetter Threshold Model](concepts/GranovetterThresholdModel.md) — Actor-level model in which adoption depends on how much visible peer participation a person requires before joining.
 - [Talent Fragility Under Disadvantage](concepts/TalentFragilityUnderDisadvantage.md) — Principle that ability requires material, relational, and institutional protection to survive long enough to become recognized achievement.

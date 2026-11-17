@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2837
+topic_total_pages: 2842
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1711,6 +1711,9 @@ topic_concepts:
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"
+  - key: "MedievalAristocraticSocietyDebate"
+    title: "中古贵族社会之争 / Medieval Aristocratic Society Debate"
+    url: "/wiki/concepts/medievalaristocraticsocietydebate/"
   - key: "TraditionalChineseApprenticeship"
     title: "中国传统学徒制 / Traditional Chinese Apprenticeship"
     url: "/wiki/concepts/traditionalchineseapprenticeship/"
@@ -1951,6 +1954,9 @@ topic_concepts:
   - key: "DynasticPopulationLoss"
     title: "王朝更替人口损耗 / Dynastic Population Loss"
     url: "/wiki/concepts/dynasticpopulationloss/"
+  - key: "DynasticMemorySourceCriticism"
+    title: "王朝记忆的史料批判 / Source Criticism of Dynastic Memory"
+    url: "/wiki/concepts/dynasticmemorysourcecriticism/"
   - key: "EmperorDreamClaimOpenness"
     title: "皇帝梦与帝位开放想象 / Emperor Dream Claim Openness"
     url: "/wiki/concepts/emperordreamclaimopenness/"
@@ -3197,6 +3203,9 @@ topic_entities:
   - key: "LiJiChuHan"
     title: "利几 / Li Ji (Chu-Han)"
     url: "/wiki/entities/lijichuhan/"
+  - key: "MaejimaYoshitaka"
+    title: "前岛佳孝 / Maejima Yoshitaka"
+    url: "/wiki/entities/maejimayoshitaka/"
   - key: "JuXin"
     title: "剧辛 / Ju Xin"
     url: "/wiki/entities/juxin/"
@@ -3863,6 +3872,9 @@ topic_entities:
   - key: "LiBiQinCavalry"
     title: "李璧 / Li Bi"
     url: "/wiki/entities/libiqincavalry/"
+  - key: "LiHu"
+    title: "李虎 / Li Hu"
+    url: "/wiki/entities/lihu/"
   - key: "LiTan"
     title: "李谈 / Li Tan"
     url: "/wiki/entities/litan/"
@@ -6636,6 +6648,9 @@ topic_sources:
   - key: "516-nelson-god-of-war-part-3-glt1686018300"
     title: "516. Nelson: God of War (Part 3)"
     url: "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+  - key: "ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj"
+    title: "517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起"
+    url: "/wiki/sources/ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj/"
   - key: "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998"
     title: "517. Nelson: The Hunt for Napoleon (Part 4)"
     url: "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"

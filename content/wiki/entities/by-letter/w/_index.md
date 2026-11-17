@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14786
+wiki_total_pages: 14792
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1949,6 +1949,9 @@ wiki_pages:
   - key: "WestGardenEightColonels"
     title: "西园八校尉 / West Garden Eight Colonels"
     url: "/wiki/entities/westgardeneightcolonels/"
+  - key: "WesternWei"
+    title: "西魏 / Western Wei"
+    url: "/wiki/entities/westernwei/"
   - key: "Wangchuan"
     title: "辋川 / Wangchuan"
     url: "/wiki/entities/wangchuan/"

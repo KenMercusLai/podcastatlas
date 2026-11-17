@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11723
+wiki_total_pages: 11730
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1547,6 +1547,9 @@ wiki_pages:
   - key: "DynasticPopulationLoss"
     title: "王朝更替人口损耗 / Dynastic Population Loss"
     url: "/wiki/concepts/dynasticpopulationloss/"
+  - key: "DynasticMemorySourceCriticism"
+    title: "王朝记忆的史料批判 / Source Criticism of Dynastic Memory"
+    url: "/wiki/concepts/dynasticmemorysourcecriticism/"
   - key: "DirectRemonstranceCriminalization"
     title: "直谏入罪 / Direct Remonstrance Criminalization"
     url: "/wiki/concepts/directremonstrancecriminalization/"

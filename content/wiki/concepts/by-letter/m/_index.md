@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11723
+wiki_total_pages: 11730
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -2054,6 +2054,9 @@ wiki_pages:
   - key: "MedievalGuildApprenticeshipRights"
     title: "中世纪行会学徒权利 / Medieval Guild Apprenticeship Rights"
     url: "/wiki/concepts/medievalguildapprenticeshiprights/"
+  - key: "MedievalAristocraticSocietyDebate"
+    title: "中古贵族社会之争 / Medieval Aristocratic Society Debate"
+    url: "/wiki/concepts/medievalaristocraticsocietydebate/"
   - key: "MainEffortFlankContainment"
     title: "主攻与侧翼牵制 / Main Effort and Flank Containment"
     url: "/wiki/concepts/maineffortflankcontainment/"

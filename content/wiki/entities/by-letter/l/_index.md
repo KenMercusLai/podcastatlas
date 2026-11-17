@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14786
+wiki_total_pages: 14792
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -2465,6 +2465,9 @@ wiki_pages:
   - key: "LiCaiWesternHan"
     title: "李蔡 / Li Cai (Western Han)"
     url: "/wiki/entities/licaiwesternhan/"
+  - key: "LiHu"
+    title: "李虎 / Li Hu"
+    url: "/wiki/entities/lihu/"
   - key: "LiDan"
     title: "李诞"
     url: "/wiki/entities/lidan/"

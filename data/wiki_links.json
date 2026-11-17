@@ -14007,6 +14007,10 @@
     "title": "Bashar al-Assad",
     "url": "/wiki/entities/basharalassad/"
   },
+  "BashuGeostrategicReversal": {
+    "title": "巴蜀地缘逆转 / Ba-Shu Geostrategic Reversal",
+    "url": "/wiki/concepts/bashugeostrategicreversal/"
+  },
   "BasicBrownBearFactory": {
     "title": "Basic Brown Bear Factory",
     "url": "/wiki/entities/basicbrownbearfactory/"
@@ -31571,6 +31575,10 @@
     "title": "Dynastic Memory Severance / 王朝记忆切割",
     "url": "/wiki/concepts/dynasticmemoryseverance/"
   },
+  "DynasticMemorySourceCriticism": {
+    "title": "王朝记忆的史料批判 / Source Criticism of Dynastic Memory",
+    "url": "/wiki/concepts/dynasticmemorysourcecriticism/"
+  },
   "DynasticPopulationLoss": {
     "title": "王朝更替人口损耗 / Dynastic Population Loss",
     "url": "/wiki/concepts/dynasticpopulationloss/"
@@ -32486,6 +32494,10 @@
   "EichmannInJerusalem": {
     "title": "《艾希曼在耶路撒冷》 / Eichmann in Jerusalem",
     "url": "/wiki/entities/eichmanninjerusalem/"
+  },
+  "EightPillarsFubingSystem": {
+    "title": "八柱国—府兵体系 / Eight Pillars–Fubing System",
+    "url": "/wiki/concepts/eightpillarsfubingsystem/"
   },
   "EightSleep": {
     "title": "Eight Sleep / 8Sleep",
@@ -43139,6 +43151,10 @@
     "title": "关陇古道 / Guanlong Ancient Road",
     "url": "/wiki/entities/guanlongancientroad/"
   },
+  "GuanlongGroup": {
+    "title": "关陇集团 / Guanlong Group",
+    "url": "/wiki/concepts/guanlonggroup/"
+  },
   "GuantanamoBay": {
     "title": "Guantanamo Bay",
     "url": "/wiki/entities/guantanamobay/"
@@ -43154,6 +43170,10 @@
   "GuanzhongEliteRelocation": {
     "title": "关中豪强迁徙 / Guanzhong Elite Relocation",
     "url": "/wiki/concepts/guanzhongeliterelocation/"
+  },
+  "GuanzhongOrientedPolicy": {
+    "title": "关中本位政策 / Guanzhong-Oriented Policy",
+    "url": "/wiki/concepts/guanzhongorientedpolicy/"
   },
   "GuanzhongRegion": {
     "title": "关中 / Guanzhong Region",
@@ -58247,6 +58267,10 @@
     "title": "李鸿伟",
     "url": "/wiki/entities/lihongwei/"
   },
+  "LiHu": {
+    "title": "李虎 / Li Hu",
+    "url": "/wiki/entities/lihu/"
+  },
   "LiJiChuHan": {
     "title": "利几 / Li Ji (Chu-Han)",
     "url": "/wiki/entities/lijichuhan/"
@@ -62791,6 +62815,10 @@
     "title": "Madison Hemings",
     "url": "/wiki/entities/madisonhemings/"
   },
+  "MaejimaYoshitaka": {
+    "title": "前岛佳孝 / Maejima Yoshitaka",
+    "url": "/wiki/entities/maejimayoshitaka/"
+  },
   "Maextro": {
     "title": "Maextro / 尊界",
     "url": "/wiki/entities/maextro/"
@@ -65074,6 +65102,10 @@
   "MedicinePoisonBoundary": {
     "title": "Medicine–Poison Boundary / 药物与毒物边界",
     "url": "/wiki/concepts/medicinepoisonboundary/"
+  },
+  "MedievalAristocraticSocietyDebate": {
+    "title": "中古贵族社会之争 / Medieval Aristocratic Society Debate",
+    "url": "/wiki/concepts/medievalaristocraticsocietydebate/"
   },
   "MedievalFemaleAsceticAuthority": {
     "title": "Medieval Female Ascetic Authority",
@@ -71050,6 +71082,10 @@
   "NorthernXiongnuLateHan": {
     "title": "北匈奴 / Northern Xiongnu (late Han)",
     "url": "/wiki/entities/northernxiongnulatehan/"
+  },
+  "NorthernZhou": {
+    "title": "北周 / Northern Zhou",
+    "url": "/wiki/entities/northernzhou/"
   },
   "Northvolt": {
     "title": "Northvolt",
@@ -103031,6 +103067,10 @@
     "title": "Western Sahara",
     "url": "/wiki/entities/westernsahara/"
   },
+  "WesternWei": {
+    "title": "西魏 / Western Wei",
+    "url": "/wiki/entities/westernwei/"
+  },
   "WesternZhouPolity": {
     "title": "西周国 / Western Zhou Polity",
     "url": "/wiki/entities/westernzhoupolity/"
@@ -108203,6 +108243,10 @@
     "title": "Yuvika Sharma",
     "url": "/wiki/entities/yuvikasharma/"
   },
+  "YuwenTai": {
+    "title": "宇文泰 / Yuwen Tai",
+    "url": "/wiki/entities/yuwentai/"
+  },
   "YuxiIntoHonglou": {
     "title": "玉溪一脉入红楼 / Yuxi Into Honglou",
     "url": "/wiki/concepts/yuxiintohonglou/"
@@ -109571,6 +109615,10 @@
     "title": "赵食其 / Zhao Shiqi (Western Han)",
     "url": "/wiki/entities/zhaoshiqiwesternhan/"
   },
+  "ZhaoShuaiqi": {
+    "title": "赵帅齐 / Zhao Shuaiqi",
+    "url": "/wiki/entities/zhaoshuaiqi/"
+  },
   "ZhaoState": {
     "title": "赵国 / Zhao State",
     "url": "/wiki/entities/zhaostate/"
@@ -110470,6 +110518,10 @@
   "Zhoukoudian": {
     "title": "周口店",
     "url": "/wiki/entities/zhoukoudian/"
+  },
+  "ZhouliInstitutionalReconstruction": {
+    "title": "《周礼》式制度重建 / Zhouli Institutional Reconstruction",
+    "url": "/wiki/concepts/zhouliinstitutionalreconstruction/"
   },
   "ZhouyiCantongqi": {
     "title": "Zhouyi Cantongqi / 《周易参同契》",
@@ -116158,6 +116210,10 @@
   "ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us": {
     "title": "023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图",
     "url": "/wiki/sources/ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us/"
+  },
+  "ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj": {
+    "title": "517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起",
+    "url": "/wiki/sources/ltxaost4pgqhjdirwas15vizersj-ltxaost4pgqhjdirwas15vizersj/"
   },
   "lu-b1gvxqtwzilstumunrbd6lc2y-lu-b1gvxqtwzilstumunrbd6lc2y": {
     "title": "005 串台|《进击的巨人》又双叕完结了？到底烂尾没？",

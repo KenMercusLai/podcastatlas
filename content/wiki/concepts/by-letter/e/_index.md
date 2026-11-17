@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11723
+wiki_total_pages: 11730
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "ExceptionDependentMilitaryCommand"
     title: "例外才能依赖式治军 / Exception-Dependent Military Command"
     url: "/wiki/concepts/exceptiondependentmilitarycommand/"
+  - key: "EightPillarsFubingSystem"
+    title: "八柱国—府兵体系 / Eight Pillars–Fubing System"
+    url: "/wiki/concepts/eightpillarsfubingsystem/"
   - key: "ExcavatedTextLexicalCorrection"
     title: "出土文献词义校正 / Excavated Text Lexical Correction"
     url: "/wiki/concepts/excavatedtextlexicalcorrection/"

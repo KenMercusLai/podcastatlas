@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 11723
+wiki_total_pages: 11730
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "ZouXikouMigration"
     title: "Zou Xikou Migration"
     url: "/wiki/concepts/zouxikoumigration/"
+  - key: "ZhouliInstitutionalReconstruction"
+    title: "《周礼》式制度重建 / Zhouli Institutional Reconstruction"
+    url: "/wiki/concepts/zhouliinstitutionalreconstruction/"
   - key: "ZhaitaiGaozhu"
     title: "债台高筑 / Zhaitai Gaozhu"
     url: "/wiki/concepts/zhaitaigaozhu/"

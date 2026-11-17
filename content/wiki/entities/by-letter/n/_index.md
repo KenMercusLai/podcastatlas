@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 14786
+wiki_total_pages: 14792
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "NorthernXiongnuLateHan"
     title: "北匈奴 / Northern Xiongnu (late Han)"
     url: "/wiki/entities/northernxiongnulatehan/"
+  - key: "NorthernZhou"
+    title: "北周 / Northern Zhou"
+    url: "/wiki/entities/northernzhou/"
   - key: "NorthernSong"
     title: "北宋 / Northern Song"
     url: "/wiki/entities/northernsong/"

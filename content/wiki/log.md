@@ -43133,3 +43133,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
+
+Added the [[HuzuoHuyou|忽左忽右]] episode with [[ZhaoShuaiqi|赵帅齐]] on [[MaejimaYoshitaka|前岛佳孝]]'s research into [[WesternWei|西魏]] and [[NorthernZhou|北周]]. Created focused profiles for the two historians, [[YuwenTai|宇文泰]], both regimes, and [[LiHu|李虎]], plus synthesis pages for the [[GuanlongGroup|关陇集团]], [[GuanzhongOrientedPolicy|关中本位政策]], [[EightPillarsFubingSystem|八柱国—府兵体系]], [[ZhouliInstitutionalReconstruction|《周礼》式制度重建]], [[BashuGeostrategicReversal|巴蜀地缘逆转]], [[DynasticMemorySourceCriticism|王朝记忆的史料批判]], and [[MedievalAristocraticSocietyDebate|中古贵族社会之争]].
+
+Core synthesis: Western Wei–Northern Zhou growth joined coalition identity, layered military command, classicizing administrative innovation, and opportunistic southern expansion. Repeated eastern campaigns did not produce durable supremacy, whereas the acquisition of Hanzhong and Ba-Shu after Southern Liang's collapse altered both resources and routes. The existence of a Western Wei Guanlong coalition is more secure than Chen Yinke's longer claim that the same group remained coherent until Wu Zetian.
+
+No settled contradiction was adopted. The duration of the Guanlong Group remains disputed; a fixed Liang–Eastern Wei encirclement lacks direct support in the episode; He Ba Sheng's diplomatic influence and Li Mi's abdication strategy remain conjectural; and Li Hu's Tang-era elevation is qualified by pre-Tang epitaph evidence for some titles. The supplied file is a structured episode summary rather than a transcript, monograph, dynastic-history edition, or archaeological publication. Broad [[HuzuoHuyou]], [[GuanzhongRegion]], [[BaShu]], [[XiaoYanLiangWudi]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving zero pending ingests; refreshed artifacts validate 5,237 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
