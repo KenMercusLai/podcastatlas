@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [152 ✪ 韩国考察回顾：文化乘数赋能消费品牌](sources/ep152-ep152.md) — 疯投圈以圣水洞、K-Beauty、OLIVE YOUNG 与霸王茶姬解释文化乘数、线下空间媒体化、本地化和品牌长期性测试。
 - [189.日元、加息与日本企业的出海经验｜专访亚洲开发银行前行长中尾武彦](sources/lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw.md) — 起朱楼宴宾客专访中尾武彦，以日美利差、日元套利和货币正常化解释弱日元，并用援助、政策金融、商社网络与东道国共益框架比较中日企业出海。
 - [Transchipment: Huang and the AI aftershocks](sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281.md) — Nvidia's succession and export-control crisis, Britain's migration reversal, and the next James Bond.
 - [When Indigenous communities become content](sources/tech-20261117-1117-mp-tech-pod-128-tech-20261117-1117-mp-tech-pod-128.md) — Marketplace Tech and Sarah Edwards connect an illegal North Sentinel Island visit to exploitative influencer content, context-poor moderation, critical-engagement amplification, and deliberate non-engagement.
@@ -16559,7 +16560,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Haidilao / 海底捞](entities/Haidilao.md) — Hot-pot chain used as a U.S. restaurant-experience case where service, social dining, and category explanation matter.
 - [HeyTea / 喜茶](entities/HeyTea.md) — New-style Chinese tea-drink brand discussed through U.S. lab-store experience design and category explanation.
 - [Moli Nai Bai / 茉莉奶白](entities/MoliNaiBai.md) — New Chinese tea-drink brand whose U.S. progress is tied to local franchisee knowledge, blogger selection, and approachable aesthetics.
-- [Chagee / 霸王茶姬](entities/Chagee.md) — Chinese tea-drink brand used to test how far modern or luxury-coded branding can travel in the United States.
+- [Chagee / 霸王茶姬](entities/Chagee.md) — Chinese tea-drink brand testing market-specific product, price, language, and visual localization in the United States and South Korea.
 - [Wallace / 华莱士](entities/WallaceFastFood.md) — Chinese value fast-food chain framed as a risky U.S. fried-chicken entrant if price is the main memory point.
 - [Jollibee](entities/Jollibee.md) — Fast-food contrast case where diaspora demand, flavor memory, and cultural identity support U.S. entry.
 - [Fei Da Chu / 费大厨](entities/FeiDaChu.md) — Chinese stir-fry brand used to discuss familiar-menu bridges such as beef and broccoli in U.S. localization.
@@ -18308,7 +18309,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寻味顺德](entities/XunweiShunde.md) — Food documentary treated as a content lever that amplified Shunde's national food-tourism demand.
 - [South Korea / 韩国](entities/SouthKorea.md) — Middle-power consumer-market case connecting entertainment, beauty, coffee, city districts, cultural exports, global marketing, and fan economy.
 - [Gentle Monster](entities/GentleMonster.md) — Korean eyewear brand whose art-installation stores turn retail into a destination and media surface.
-- [Seongsu-dong / 圣水洞](entities/SeongsuDong.md) — Seoul trend district where brands compete for youth-culture positioning and high-signal retail locations.
+- [Seongsu-dong / 圣水洞](entities/SeongsuDong.md) — Seoul trend district where short-lived pop-ups turn youth, entertainment, and creator attention into distributed brand media.
 - [ANUA](entities/ANUA.md) — Korean beauty brand used as a TikTok-era K-Beauty global-trust example.
 - [MEDICUBE](entities/MEDICUBE.md) — Korean beauty and beauty-device brand used to show medical-aesthetic trust inside K-Beauty.
 - [Gong Cha / 共茶](entities/GongCha.md) — Taiwan-origin milk-tea brand used to compare Korea's tea-drink opportunity and U.S. franchise/site advantages with mainland China's faster tea-drink cycle.
@@ -20265,6 +20266,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Cultural Multiplier Effect](concepts/CulturalMultiplierEffect.md) — Cultural attention that lowers recognition and trust costs for adjacent tourism, beauty, food, retail, and consumer demand without guaranteeing durability.
+- [Retail Space as Media](concepts/RetailSpaceAsMedia.md) — Store and pop-up strategy evaluated through distributed attention, content circulation, later conversion, and brand signal as well as direct sales.
 - [Japanese Monetary-Policy Normalization / 日本货币政策正常化](concepts/JapaneseMonetaryPolicyNormalization.md) — Distributional transition from exceptional monetary easing toward rates more consistent with sustained inflation, currency stability, and capital-allocation signals.
 - [Japan Outbound Institutional Infrastructure / 日本企业出海制度基础设施](concepts/JapanOutboundInstitutionalInfrastructure.md) — Development aid, policy finance, supplier networks, government relationships, and trading companies supporting overseas corporate operations.
 - [British Net Migration Reversal](concepts/BritishNetMigrationReversal.md) — Britain's rapid move from record inflows toward very low or potentially negative net migration.
@@ -30357,7 +30360,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conservation Intervention](concepts/ConservationIntervention.md) — Active species-protection work using habitat design, sound, decoys, disturbance control, monitoring, and feedback under ecological uncertainty.
 - [AI Resistant Experiential Consumption](concepts/AIResistantExperientialConsumption.md) — AI-era consumer thesis that embodied, social, place-based experiences remain harder to replace than digital information.
 - [Korean Culture Led Consumer Marketing](concepts/KoreanCultureLedConsumerMarketing.md) — Pattern where Korean entertainment, celebrities, beauty trust, stores, and districts convert culture into global consumer-brand demand.
-- [K-Beauty Global Trust](concepts/KBeautyGlobalTrust.md) — Beauty-category trust mechanism combining Korean aesthetics, skincare routines, medical-aesthetic associations, social video, and celebrity taste.
+- [K-Beauty Global Trust](concepts/KBeautyGlobalTrust.md) — Category permission combining Korean aesthetics, skincare routines, medical-aesthetic cues, creators, retail discovery, and global entertainment.
 - [Housing Experience Investment Split](concepts/HousingExperienceInvestmentSplit.md) — Real-estate discipline separating a home as lived consumption from property as an illiquid investment asset.
 - [Chinese Player Overseas Arbitrage](concepts/ChinesePlayerOverseasArbitrage.md) — Thesis that European lower-tier experience could raise Chinese players' market value before returning to China's inflated football market.
 - [American Sports Capital In European Football](concepts/AmericanSportsCapitalInEuropeanFootball.md) — Frame for U.S. influence in European football through ownership, rights agencies, transfer finance, stadiums, and competition design.

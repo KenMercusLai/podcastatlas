@@ -50006,6 +50006,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ceutaimperialborderland/"
     },
+    "Chagee": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起 [3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d].md",
+          "key": "e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d",
+          "show": "硅谷101",
+          "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+          "url": "/wiki/sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d/"
+        },
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/chagee/"
+    },
     "ChainExecutiveImport": {
       "episode_count": 1,
       "show_count": 1,
@@ -74018,6 +74041,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/culturalindustrycreativeattractiveness/"
+    },
+    "CulturalMultiplierEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/culturalmultipliereffect/"
     },
     "CulturalNationalismInstitutionBuilding": {
       "episode_count": 1,
@@ -179966,6 +180005,29 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/juvenilemaculardegenerationcarecenter/"
     },
+    "KBeautyGlobalTrust": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/kbeautyglobaltrust/"
+    },
     "KFC": {
       "episode_count": 3,
       "show_count": 2,
@@ -183570,6 +183632,36 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/konstantinastankovic/"
+    },
+    "KoreanCultureLedConsumerMarketing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/koreancultureledconsumermarketing/"
     },
     "KoreanGiveUpGenerationPressure": {
       "episode_count": 2,
@@ -239625,9 +239717,9 @@
       "url": "/wiki/entities/olipop/"
     },
     "OliveYoung": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
@@ -239642,9 +239734,16 @@
           "show": "声动早咖啡",
           "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
           "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        },
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-18",
       "url": "/wiki/entities/oliveyoung/"
     },
     "OliverCarroll": {
@@ -276373,6 +276472,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/retailserviceculture/"
     },
+    "RetailSpaceAsMedia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/retailspaceasmedia/"
+    },
     "RetainerInformationInfrastructure": {
       "episode_count": 2,
       "show_count": 1,
@@ -291236,6 +291351,29 @@
       ],
       "updated": "2026-10-14",
       "url": "/wiki/entities/sentimentalswordsmanruthlesssword/"
+    },
+    "SeongsuDong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "ep152 [ep152].md",
+          "key": "ep152-ep152",
+          "show": "疯投圈",
+          "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
+          "url": "/wiki/sources/ep152-ep152/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/seongsudong/"
     },
     "SeparatedCampMutualSupportRisk": {
       "episode_count": 1,

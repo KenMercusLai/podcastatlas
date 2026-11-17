@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11737
+wiki_total_pages: 11739
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "RetailSiteSelection"
     title: "Retail Site Selection"
     url: "/wiki/concepts/retailsiteselection/"
+  - key: "RetailSpaceAsMedia"
+    title: "Retail Space as Media"
+    url: "/wiki/concepts/retailspaceasmedia/"
   - key: "RetailerResponsiveManufacturing"
     title: "Retailer-Responsive Manufacturing"
     url: "/wiki/concepts/retailerresponsivemanufacturing/"

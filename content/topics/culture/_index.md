@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3813
+topic_total_pages: 3816
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1093,6 +1093,9 @@ topic_concepts:
   - key: "CulturalGapStatusSignaling"
     title: "Cultural Gap Status Signaling / 文化隔阂式地位信号"
     url: "/wiki/concepts/culturalgapstatussignaling/"
+  - key: "CulturalMultiplierEffect"
+    title: "Cultural Multiplier Effect"
+    url: "/wiki/concepts/culturalmultipliereffect/"
   - key: "CulturalNationalismInstitutionBuilding"
     title: "Cultural Nationalism Institution-Building"
     url: "/wiki/concepts/culturalnationalisminstitutionbuilding/"
@@ -3127,6 +3130,9 @@ topic_concepts:
   - key: "RetailServiceCulture"
     title: "Retail Service Culture"
     url: "/wiki/concepts/retailserviceculture/"
+  - key: "RetailSpaceAsMedia"
+    title: "Retail Space as Media"
+    url: "/wiki/concepts/retailspaceasmedia/"
   - key: "RevolutionaryContagion"
     title: "Revolutionary Contagion"
     url: "/wiki/concepts/revolutionarycontagion/"
@@ -10146,6 +10152,9 @@ topic_sources:
   - key: "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u"
     title: "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！"
     url: "/wiki/sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u/"
+  - key: "ep152-ep152"
+    title: "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌"
+    url: "/wiki/sources/ep152-ep152/"
   - key: "153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296"
     title: "153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）"
     url: "/wiki/sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296/"

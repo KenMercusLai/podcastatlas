@@ -43202,3 +43202,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+
+Added a [[FengTouQuan|疯投圈]] Korea field-trip review connecting entertainment and global platforms to tourism, beauty, food, retail, and consumer-brand demand through the [[CulturalMultiplierEffect]]. Created [[RetailSpaceAsMedia]] to distinguish Seongsu-dong pop-ups' distributed attention and later conversion from direct store sales.
+
+Resynthesized [[SeongsuDong|Seongsu-dong]], [[Chagee|霸王茶姬]], [[OliveYoung|OLIVE YOUNG]], [[KBeautyGlobalTrust]], and [[KoreanCultureLedConsumerMarketing]] from each page's complete preserved evidence inventory before appending the new source once. The focused pages capture the material additions without reopening the large show, country, or automatic `wiki/overview.md` inventories.
+
+No settled contradiction was adopted. Nationality-light localization may reduce interpretation cost without being universally superior to culture-forward export; Korean visibility and speed do not establish product quality, repeat demand, or brand longevity; and the Korea-Japan comparison remains a field-observation heuristic. Entertainment revenue, export multipliers, tourist totals and spending, rents, beauty-brand revenue, store counts, channel thresholds, prices, opening counts, and life-cycle claims remain episode-attributed because the supplied file is a structured summary rather than a transcript or primary dataset.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,242 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

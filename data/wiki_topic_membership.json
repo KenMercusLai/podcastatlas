@@ -30092,6 +30092,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CulturalMultiplierEffect": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CulturalNationalismInstitutionBuilding": [
     {
       "key": "culture",
@@ -80978,6 +80985,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RetailSpaceAsMedia": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RetainerReciprocityEthic": [
     {
       "key": "history",
@@ -110494,6 +110508,13 @@
     }
   ],
   "ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ep152-ep152": [
     {
       "key": "culture",
       "label": "Culture",
