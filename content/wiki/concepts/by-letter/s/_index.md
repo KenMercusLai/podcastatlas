@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11690
+wiki_total_pages: 11692
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1820,6 +1820,9 @@ wiki_pages:
   - key: "SpeciesAppropriateAnimalCare"
     title: "Species-Appropriate Animal Care"
     url: "/wiki/concepts/speciesappropriateanimalcare/"
+  - key: "SpecificityAndSurprise"
+    title: "Specificity and Surprise"
+    url: "/wiki/concepts/specificityandsurprise/"
   - key: "SpectralEvidence"
     title: "Spectral Evidence / 幽灵证据"
     url: "/wiki/concepts/spectralevidence/"

@@ -989,7 +989,7 @@
       "earliest_episode_date": "2016-06-03",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 190,
+      "source_note_count": 191,
       "topic_matched_source_note_count": 75,
       "topics": [
         {
@@ -1054,6 +1054,13 @@
           "episode_count": 5
         },
         {
+          "key": "AdamGrant",
+          "title": "Adam Grant",
+          "url": "/wiki/entities/adamgrant/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "AveryBrundage",
           "title": "Avery Brundage",
           "url": "/wiki/entities/averybrundage/",
@@ -1064,13 +1071,6 @@
           "key": "ElvisPresley",
           "title": "Elvis Presley",
           "url": "/wiki/entities/elvispresley/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
-          "key": "JesseOwens",
-          "title": "Jesse Owens",
-          "url": "/wiki/entities/jesseowens/",
           "kind": "person",
           "episode_count": 4
         }

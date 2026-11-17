@@ -9098,9 +9098,9 @@
       "url": "/wiki/entities/adamgopnik/"
     },
     "AdamGrant": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2670765142 [SCIM2670765142].md",
@@ -9129,6 +9129,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Gladwell and Adam Grant",
           "url": "/wiki/sources/malcolm-gladwell-and-adam-grant-malcolm-gladwell-and-adam-grant/"
+        },
+        {
+          "episode_file": "Malcolm_Gladwell_debates_Adam_Grant [Malcolm_Gladwell_debates_Adam_Grant].md",
+          "key": "malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell Debates Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant/"
         }
       ],
       "updated": "2026-11-17",
@@ -67581,6 +67588,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
+    },
+    "ContextDependentPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_debates_Adam_Grant [Malcolm_Gladwell_debates_Adam_Grant].md",
+          "key": "malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell Debates Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/contextdependentperformance/"
     },
     "ContextDependentSocialHormoneEffects": {
       "episode_count": 7,
@@ -301923,6 +301946,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/speciesappropriateanimalcare/"
+    },
+    "SpecificityAndSurprise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell_debates_Adam_Grant [Malcolm_Gladwell_debates_Adam_Grant].md",
+          "key": "malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell Debates Adam Grant",
+          "url": "/wiki/sources/malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/specificityandsurprise/"
     },
     "SpectacleMediatedSelfhood": {
       "episode_count": 1,

@@ -5338,6 +5338,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 - [Divide and Conquer](sources/divide-and-conquer-divide-and-conquer.md) — Revisionist History connects Article IV grammar, West Virginia statehood, Texas's 1845 advance consent, and the map-dependent Senate consequences of dividing Texas into five states.
+- [Malcolm Gladwell Debates Adam Grant](sources/malcolm-gladwell-debates-adam-grant-malcolm-gladwell-debates-adam-grant.md) — Live Revisionist History debate on specificity and surprise, context-dependent performance, organizational fit, career novelty, automation, and institutional purpose.
 
 ## Entities
 - [Owen Thomas](entities/OwenThomas.md) — Penn football captain whose death and posthumous CTE diagnosis anchor the episode's precautionary argument.
@@ -31969,5 +31970,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Constitutional State Subdivision](concepts/ConstitutionalStateSubdivision.md) — Article IV pathway for creating new states from an existing state with the required consent.
 - [Constitutional Grammar and Punctuation](concepts/ConstitutionalGrammarAndPunctuation.md) — Use of syntax, conjunctions, clauses, and punctuation as bounded constitutional evidence.
+- [Context-Dependent Performance](concepts/ContextDependentPerformance.md) — Principle that individual output partly reflects teammates, routines, coaching, culture, and role fit, with both transfer limits and rigidity risks.
+- [Specificity and Surprise](concepts/SpecificityAndSurprise.md) — Creative principle joining concrete, inspectable detail to a plausible departure from expectation.
 
 ## Syntheses
