@@ -142,6 +142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Welcome to Development Hell](sources/welcome-to-development-hell-welcome-to-development-hellmp3t1758562380dl1in-playlist0d4cc74d-fff7-4b89-8818-ae320eyjpc3mioijvbw55iiwiawf0ijoxnzk0nzm0mdi5lcj0zc1yzwciomzhbhnllcj0zc1hzhmioijub25lin0.md) — Malcolm Gladwell introduces Development Hell as a mini-series about unseen creative work, high-risk development, and the grief and value attached to unproduced films.
 - [《资治通鉴·汉纪》1163丨高估自己，是不是最大的愚蠢？](sources/zizhi-tongjian-hanji-1163-gaogu-ziji-shibushi-zui-da-de-yuchun-lokzo7kcz69kf_lhgskx8kie-9_c.md) — 芮淇讲透资治通鉴以侯音之乱和定军山之战串联征敛压力、无计划反抗、兵力调动、统帅暴露及败后指挥恢复。
 - [《资治通鉴·汉纪》1164丨警惕职场太能干的陷阱](sources/zizhi-tongjian-hanji-1164-jingti-zhichang-tai-nenggan-de-xianjing-lrw8byuza9fzasd0ewwszkoj3mu.md) — 芮淇讲透资治通鉴以夏侯渊之死、刘备长期对峙、赵云疑兵、曹操撤出汉中及张既迁民方案，讨论角色转换、心理威慑与战略缓冲。
+- [《资治通鉴·汉纪》1168丨做人太傲真的必招祸吗？](sources/zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad.md) — 芮淇讲透资治通鉴以关羽北进、曹孙协调、吕蒙称病和陆逊示弱，讨论联盟反转、长江战略、信息保密及对手性格弱点利用。
 - [Blink with Stephen Gaghan | Development Hell](sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell.md) — Stephen Gaghan and Malcolm Gladwell use an unproduced screenplay to examine truth-reading, paternal approval, corporate predation, star attachment, grief, and revival after development stops.
 - [The Variable Man with Gary Goldman and Angus Fletcher | Development Hell](sources/the-variable-man-with-gary-goldman-and-angus-fletcher-development-hell-the-variable-man-with-gary-goldman-and-angus-fle.md) — Gary Goldman and Angus Fletcher use an unproduced Philip K. Dick adaptation to test AI prediction, free will, audience reasoning, and trusted-director financing.
 - [Bubbles with Isaac Adamson | Development Hell](sources/bubbles-with-isaac-adamson-development-hell-bubbles-with-isaac-adamson-development-hell.md) — Isaac Adamson uses an unproduced stop-motion screenplay to examine unreliable narration, loyalty, alleged abuse, cultural reevaluation, and film-development risk.
@@ -11883,7 +11884,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — 从孙策死后的军事支持者，发展为江夏战役中砍断沔口缆绳、打开主力通道的突击将领。
 - [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through hedged coalition testing and adversarial questioning to a resourced anti-Cao commitment.
-- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — 由军容严整获孙权识拔，后在江夏斩陈就，并以降将整合和分兵救援展现判断力的吴将。
+- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — 由军容严整获孙权识拔，并以作战、学习、后勤判断、诱降及称病换将式信息控制扩展统帅能力的吴将。
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
@@ -11930,7 +11931,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
 - [秦松 / Qin Song (Late Han)](entities/QinSongLateHan.md) — Sun Ce adviser named among the decision participants in Hanji 994's Jiangdong bench.
 - [陈端 / Chen Duan (Late Han)](entities/ChenDuanLateHan.md) — Sun Ce adviser named with Qin Song in Hanji 994 as part of the expanding Jiangdong deliberation group.
-- [陆逊 / Lu Xun (Eastern Wu)](entities/LuXunDongWu.md) — Later Wu commander invoked in Hanji 994 to distinguish later grand-commander offices from Lu Fan's early disciplinary `都督`.
+- [陆逊 / Lu Xun (Eastern Wu)](entities/LuXunDongWu.md) — 东吴将领，其早期画像连接军事成长、对批评者的非报复性判断及针对关羽的低姿态信息战。
 - [周瑜 / Zhou Yu](entities/ZhouYuLateHan.md) — Sun Ce ally and Sun Quan commander who joins material support and succession stabilization to pre-Red-Cliffs campaign analysis and command.
 - [颜回 / Yan Hui](entities/YanHui.md) — Confucius disciple whose "无伐善，无施劳" line is used in Hanji 994 as anti-boasting and anti-jealousy self-cultivation.
 - [笮融 / Ze Rong](entities/ZeRong.md) — Late-Han Xuzhou figure who turns grain and Buddhist display into a following, then repeatedly kills hosts and benefactors.
@@ -12283,7 +12284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain, defeated by Sun Ce, and later spared by Shanyue disruption of Sun Quan's attack.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
-- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose source-bounded profile joins captive service and repayment, status-sensitive appointment conflict, the Fancheng high point, and final multi-front defeat.
+- [关羽 / Guan Yu](entities/GuanYu.md) — 刘备阵营将领，其证据边界画像连接被俘效力与报恩、名位敏感、樊城高点及被东吴利用的后方暴露。
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
@@ -20269,6 +20270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Adversary-Trait Exploitation / 对手性格弱点利用](concepts/AdversaryTraitExploitation.md) — 以可观察的身份敏感、轻视或过度自信增强虚假信号可信度，并诱导可验证的行动改变。
 - [Agentic Management Analytics](concepts/AgenticManagementAnalytics.md) — AI analysis over connected organizational data for feedback, structure, engineering, meetings, customers, culture, and decision latency.
 - [Enterprise AI Deployment Bottlenecks](concepts/EnterpriseAIDeploymentBottlenecks.md) — Context, security, economics, and strategic-control constraints that separate model capability from enterprise transformation.
 - [Cultural Multiplier Effect](concepts/CulturalMultiplierEffect.md) — Cultural attention that lowers recognition and trust costs for adjacent tourism, beauty, food, retail, and consumer demand without guaranteeing durability.
@@ -25857,7 +25859,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [弱势名分安抚 / Weak-Position Pacification](concepts/WeakPositionPacification.md) — Pattern where weak formal appointment becomes real order through reassurance, status grants, livelihood repair, and delayed defense.
 - [Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛](concepts/GrainLeverageAllianceBetrayal.md) — Hanji 999 pattern where Yuan Shu's promised grain lets Lü Bu seize Xiapi from Liu Bei, showing scarcity as an alliance-switching lever.
 - [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Public capability display that can create withdrawal or compliance, ranging from an agreed test to battlefield intimidation and exemplary violence.
-- [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
+- [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — 伙伴能力上升或展示未来伤害手段后，强者先制、弱者倒戈或外部对手推动的联盟反转。
 - [Reputation-Constrained Talent Protection / 名声约束下的人才保护](concepts/ReputationConstrainedTalentProtection.md) — Hanji 1009 Guo Jia/Cao Cao pattern where killing a dangerous but shelter-seeking hero would damage the camp's ability to attract capable people.
 - [Moral Disengagement Rationalization / 道德推脱式自我合理化](concepts/MoralDisengagementRationalization.md) — Hanji 1009 pattern where Lü Bu seeks public abuse of Liu Bei to justify betrayal and Yuan Huan refuses to participate.
 - [丧礼化收编 / Mourning-Framed Military Absorption](concepts/MourningFramedMilitaryAbsorption.md) — Hanji 1010 pattern where Liu Biao turns Zhang Ji's death from a victory celebration into mourning language that lets leaderless troops submit without public humiliation.

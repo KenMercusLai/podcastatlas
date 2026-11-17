@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11741
+wiki_total_pages: 11742
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "AdventureUncertaintyReframing"
     title: "Adventure-Uncertainty Reframing"
     url: "/wiki/concepts/adventureuncertaintyreframing/"
+  - key: "AdversaryTraitExploitation"
+    title: "Adversary-Trait Exploitation / 对手性格弱点利用"
+    url: "/wiki/concepts/adversarytraitexploitation/"
   - key: "AdversityCapacityExpansion"
     title: "Adversity Capacity Expansion / 逆境容量扩展"
     url: "/wiki/concepts/adversitycapacityexpansion/"

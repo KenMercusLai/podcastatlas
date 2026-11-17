@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1741
+topic_total_pages: 1742
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -52,6 +52,9 @@ topic_concepts:
   - key: "AdventureUncertaintyReframing"
     title: "Adventure-Uncertainty Reframing"
     url: "/wiki/concepts/adventureuncertaintyreframing/"
+  - key: "AdversaryTraitExploitation"
+    title: "Adversary-Trait Exploitation / 对手性格弱点利用"
+    url: "/wiki/concepts/adversarytraitexploitation/"
   - key: "AdviceSeekingForImprovement"
     title: "Advice Seeking for Improvement"
     url: "/wiki/concepts/adviceseekingforimprovement/"

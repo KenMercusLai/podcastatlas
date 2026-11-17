@@ -9,14 +9,15 @@ sources:
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
   - zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy
   - zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop
-last_updated: 2026-11-10
+  - zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
 # 吕蒙 / Lyu Meng
 
 ## Overview
-吕蒙 / Lyu Meng develops from a poor and initially undereducated soldier into a commander whose discipline, combat performance, field judgment, and directed study widen the responsibilities he can carry.
+吕蒙 / Lyu Meng develops from a poor and initially undereducated soldier into a commander whose discipline, combat performance, field judgment, directed study, and adversary-specific deception widen the responsibilities he can carry.
 
 ## Current Profile
 Hanji 1053 presents Lyu Meng as a Biesima from [[RunanCommanderyLateHan|汝南]] whose orderly, trained unit makes him visible during [[SunQuan|孙权]]'s inspection. Sun Quan praises him, adds troops, and increases his trust.
@@ -29,6 +30,8 @@ Hanji 1143 supplies a later operational test. Lyu Meng reads [[ZhuGuangLateHan|�
 
 Hanji 1152 adds a harder command-and-deception case at [[LinglingCommanderyLateHan|零陵郡]]. After receiving a recall order, Lyu Meng conceals it long enough to press one more operation. He uses [[HaoPuLateHan|郝普]]'s friend to present [[LiuBei|刘备]] and [[GuanYu|关羽]] as unable to provide relief, inducing surrender before Hao Pu can verify that both are much closer than claimed. The result expands Lyu Meng's profile from speed and logistics into [[FalseReliefDenialSurrender|虚假无援诱降]], while also preventing victory from settling the legitimacy of withholding [[SunQuan|孙权]]'s order.
 
+Hanji 1168 extends that information-control profile into the 219 Jingzhou operation. Lyu Meng argues that the Yangtze corridor is more defensible than a cavalry-exposed Xuzhou gain, publicly withdraws under an illness claim, withholds the existing plan even when Lu Xun independently recognizes the opening, and recommends the little-known officer as a successor Guan Yu will discount. This is strategic design across geography, alliance incentives, secrecy, succession, and [[AdversaryTraitExploitation|对手性格弱点利用]], not merely a single feigned illness.
+
 ## Key Characteristics
 - Becomes visible through unit discipline rather than lineage or rhetoric.
 - Serves as an early test of Sun Quan's ability to identify usable command talent.
@@ -36,7 +39,7 @@ Hanji 1152 adds a harder command-and-deception case at [[LinglingCommanderyLateH
 - Protects a sincere defector's command autonomy when trust can attract further submission.
 - Designs a rear-guard and relief division that turns constrained manpower into action.
 - Uses directed historical study to widen strategic judgment, later integrating supply, water, reinforcement, and retreat constraints into the rapid Wan City operation.
-- Manipulates an opponent's relief estimate through a trusted intermediary, while exposing the authority risk of locally successful disobedience.
+- Uses trusted intermediaries, apparent incapacity, command succession, and compartmentalization to reshape opponents' estimates, while exposing the authority risk of locally successful disobedience.
 
 ## Evidence
 - Unit discipline and promotion: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] says Sun Quan sees Lyu Meng's troops as orderly, adds soldiers, and increases trust.
@@ -46,14 +49,15 @@ Hanji 1152 adds a harder command-and-deception case at [[LinglingCommanderyLateH
 - Learning and reassessment: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] says Sun Quan directs Lyu Meng toward practical historical reading and Lu Su later revises his earlier view after a substantive exchange.
 - Wan City judgment: [[zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy|Hanji 1143]] attributes to Lyu Meng the pre-harvest threat diagnosis, rejection of slow siege works, four-sided rapid assault, and safe return before water conditions worsened.
 - Lingling deception and command conflict: [[zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop|Hanji 1152]] has Lyu Meng conceal a recall order, use false no-relief information to induce Hao Pu's surrender, and then move rapidly to join Lu Su.
+- Jingzhou strategy and deception chain: [[zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad|Hanji 1168]] attributes to Lyu Meng the Xuzhou–Jingzhou comparison, public illness, guarded secrecy, recognition of Lu Xun, and low-profile succession plan used to reduce Guan Yu's rear defense.
 
 ## Qualifications
-The evidence covers six selected windows, not Lyu Meng's full Eastern Wu career. Chen Jiu's killing and display, exact combat details, relief troop and horse figures, and Xi Su's incorporation remain source-scoped. Hanji 1118's childhood, reading program, dialogue, and speed of intellectual transformation come through a famous anecdotal tradition; study should not be isolated from accumulated campaign experience. Hanji 1143's place-name spelling, agricultural scale, timing, force and captive totals, one-day assault, and claim that later judgment proves study's effect require primary-text verification. Hanji 1152's order sequence, dialogue, force positions, deception mechanics, Sun Quan's response, and Hao Pu counterfactual remain episode-attributed. The Xi Su case should not be generalized into a universal rule that every surrenderer should retain armed autonomy, and operational success does not by itself validate disobedience.
+The evidence covers seven selected windows, not Lyu Meng's full Eastern Wu career. Chen Jiu's killing and display, exact combat details, relief troop and horse figures, and Xi Su's incorporation remain source-scoped. Hanji 1118's childhood, reading program, dialogue, and speed of intellectual transformation come through a famous anecdotal tradition; study should not be isolated from accumulated campaign experience. Hanji 1143's place-name spelling, agricultural scale, timing, force and captive totals, one-day assault, and claim that later judgment proves study's effect require primary-text verification. Hanji 1152's order sequence, dialogue, force positions, deception mechanics, Sun Quan's response, and Hao Pu counterfactual remain episode-attributed. Hanji 1168's strategic dialogue, illness, secrecy, motives, recommendation sequence, and alliance counterfactual also require wider comparison. The Xi Su case should not be generalized into a universal rule that every surrenderer should retain armed autonomy, and tactical success does not settle the long-run cost of breaking the anti-Cao coalition.
 
 ## What Changed
-- Added the Lingling operation as a case of false relief-denial surrender.
-- Separated tactical success from the unresolved legitimacy of concealing a ruler's recall order.
-- Extended Lyu Meng's speed-and-logistics profile into trusted-intermediary information control.
+- Added the 219 Jingzhou plan as a chain of geography, secrecy, apparent illness, and low-profile succession.
+- Extended information control from false relief denial to adversary-specific force-allocation manipulation.
+- Preserved the unresolved tradeoff between immediate Jingzhou gains and the weakened anti-Cao coalition.
 
 ## Relationships
 - [[SunQuan|孙权]] - ruler who recognizes Lyu Meng's discipline and later accepts his advice.
@@ -70,3 +74,6 @@ The evidence covers six selected windows, not Lyu Meng's full Eastern Wu career.
 - [[HaoPuLateHan|郝普]] - Lingling defender whose relief estimate Lyu Meng manipulates.
 - [[FalseReliefDenialSurrender|虚假无援诱降]] - information mechanism used to obtain surrender before relief arrives.
 - [[CommandDisobedienceUnderBattlefieldUncertainty]] - framework for assessing the concealed recall order without treating victory as automatic justification.
+- [[GuanYu|关羽]] - opposing commander whose rear-threat estimate Lyu Meng seeks to lower.
+- [[LuXunDongWu|陆逊]] - perceptive but little-known successor recommended to preserve the deception.
+- [[AdversaryTraitExploitation|对手性格弱点利用]] - mechanism joining Guan Yu's reported disposition to the plan's credible signals.

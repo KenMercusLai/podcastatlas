@@ -43230,3 +43230,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | 《资治通鉴·汉纪》1168丨做人太傲真的必招祸吗？
+
+Added a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode connecting [[GuanYu|关羽]]'s 219 northern high point to Cao–Sun coordination, [[LyuMeng|吕蒙]]'s Jingzhou-over-Xuzhou strategy and apparent illness, and [[LuXunDongWu|陆逊]]'s low-profile succession and deferential letter. Created [[AdversaryTraitExploitation|对手性格弱点利用]], then resynthesized Guan Yu, Lyu Meng, Lu Xun, and [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]] from each page's complete preserved evidence inventory before appending the new source once. Broad Cao Cao, Sun Quan, Sima Yi, Jiang Ji, Lu Su, Jingzhou, battlefield-information, and automatic `wiki/overview.md` profiles remained closed because focused pages capture the material additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Core synthesis: the deception works as a system. Guan Yu's real need for northern troops, Lyu Meng's visible withdrawal, Lu Xun's low public profile, guarded secrecy, and praise matching Guan Yu's reported status sensitivity reinforce one operational picture and lead to reduced rear defense. Pride is therefore an amplifying vulnerability, not a complete explanation for a result also shaped by Jingzhou interests, Cao-side inducement, geography, force allocation, and the choices of Sun Quan, Lyu Meng, and Lu Xun.
+
+No settled contradiction was adopted. Attacking Guan Yu may improve Wu's immediate river position while weakening the longer anti-Cao coalition; the supplied episode does not settle that counterfactual. Luhun events, relocation deliberation, land promises, strategic dialogue, the marriage insult, illness mechanics, secrecy, correspondence, motives, and troop movements remain episode-attributed because the file is a structured summary rather than a transcript, primary-text edition, or cited historical study.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,244 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
