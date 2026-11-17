@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11713
+wiki_total_pages: 11714
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "WeakSignalDetection"
     title: "Weak Signal Detection / 微弱信号探测"
     url: "/wiki/concepts/weaksignaldetection/"
+  - key: "WeakLinkStrongLinkSystems"
+    title: "Weak-Link and Strong-Link Systems"
+    url: "/wiki/concepts/weaklinkstronglinksystems/"
   - key: "WeakOverWeakPredation"
     title: "Weak-Over-Weak Predation / 弱者向更弱者转嫁压迫"
     url: "/wiki/concepts/weakoverweakpredation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14762
+wiki_total_pages: 14765
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "HangSengTechIndex"
     title: "Hang Seng Tech Index"
     url: "/wiki/entities/hangsengtechindex/"
+  - key: "HankRowan"
+    title: "Hank Rowan"
+    url: "/wiki/entities/hankrowan/"
   - key: "Hankou"
     title: "Hankou / 汉口"
     url: "/wiki/entities/hankou/"

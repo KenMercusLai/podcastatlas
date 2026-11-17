@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14762
+wiki_total_pages: 14765
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "RoverBicycle"
     title: "Rover Bicycle / 罗福自行车"
     url: "/wiki/entities/roverbicycle/"
+  - key: "RowanUniversity"
+    title: "Rowan University"
+    url: "/wiki/entities/rowanuniversity/"
   - key: "RoxyRoxborough"
     title: "Roxy Roxborough"
     url: "/wiki/entities/roxyroxborough/"

@@ -141050,6 +141050,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/hangzhounormaluniversityaffiliatedhospital/"
     },
+    "HankRowan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "My_Little_Hundred_Million [My_Little_Hundred_Million].md",
+          "key": "my-little-hundred-million-my-little-hundred-million",
+          "show": "Revisionist History",
+          "title": "My Little Hundred Million",
+          "url": "/wiki/sources/my-little-hundred-million-my-little-hundred-million/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/hankrowan/"
+    },
     "HannahArendt": {
       "episode_count": 4,
       "show_count": 3,
@@ -176137,6 +176153,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/johngroner/"
+    },
+    "JohnHennessy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "My_Little_Hundred_Million [My_Little_Hundred_Million].md",
+          "key": "my-little-hundred-million-my-little-hundred-million",
+          "show": "Revisionist History",
+          "title": "My Little Hundred Million",
+          "url": "/wiki/sources/my-little-hundred-million-my-little-hundred-million/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johnhennessy/"
     },
     "JohnHotten": {
       "episode_count": 1,
@@ -251180,9 +251212,9 @@
       "url": "/wiki/entities/philwenger/"
     },
     "PhilanthropicNeglectedness": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
@@ -251190,9 +251222,16 @@
           "show": "硅谷101",
           "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
           "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        },
+        {
+          "episode_file": "My_Little_Hundred_Million [My_Little_Hundred_Million].md",
+          "key": "my-little-hundred-million-my-little-hundred-million",
+          "show": "Revisionist History",
+          "title": "My Little Hundred Million",
+          "url": "/wiki/sources/my-little-hundred-million-my-little-hundred-million/"
         }
       ],
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/philanthropicneglectedness/"
     },
     "PhilipAtibaGoff": {
@@ -281841,6 +281880,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/concepts/routineagentautomation/"
+    },
+    "RowanUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "My_Little_Hundred_Million [My_Little_Hundred_Million].md",
+          "key": "my-little-hundred-million-my-little-hundred-million",
+          "show": "Revisionist History",
+          "title": "My Little Hundred Million",
+          "url": "/wiki/sources/my-little-hundred-million-my-little-hundred-million/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/rowanuniversity/"
     },
     "RoxyRoxborough": {
       "episode_count": 1,
@@ -340699,6 +340754,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/weakauthorityleadership/"
+    },
+    "WeakLinkStrongLinkSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "My_Little_Hundred_Million [My_Little_Hundred_Million].md",
+          "key": "my-little-hundred-million-my-little-hundred-million",
+          "show": "Revisionist History",
+          "title": "My Little Hundred Million",
+          "url": "/wiki/sources/my-little-hundred-million-my-little-hundred-million/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/weaklinkstronglinksystems/"
     },
     "WeakPositionPacification": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14762
+wiki_total_pages: 14765
 wiki_pages:
   - key: "PearlHarborAttack"
     title: "Attack on Pearl Harbor"

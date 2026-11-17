@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [My Little Hundred Million](sources/my-little-hundred-million-my-little-hundred-million.md) — Revisionist History contrasts Hank Rowan's transformative public-college gift with mega-gifts to wealthy universities through weak-link, strong-link, and marginal-impact reasoning.
 - [Hallelujah](sources/hallelujah-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, delayed recognition, institutional survival, and chance.
 - [Blame Game](sources/blame-game-blame-game.md) — Revisionist History re-examines Toyota sudden acceleration through brake tests, pedal-error research, event-recorder evidence, and the distinction between human error and negligence.
 - [Generous Orthodoxy](sources/generous-orthodoxy-generous-orthodoxy.md) — Revisionist History connects Chester Wenger's costly support for his gay son with Princeton's Wilson dispute to frame institutionally loyal but morally disobedient reform.
@@ -5358,6 +5359,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Hank Rowan](entities/HankRowan.md) — Manufacturing entrepreneur whose $100 million engineering gift transformed a resource-constrained New Jersey public college.
+- [Rowan University](entities/RowanUniversity.md) — Regional public university used to show gift-driven expansion, applied engineering, and recipient-sensitive philanthropic impact.
+- [John Hennessy](entities/JohnHennessy.md) — Stanford president defending concentrated investment in elite graduate talent and continued institutional ambition.
 - [Mark Saylor](entities/MarkSaylor.md) — California Highway Patrol officer whose fatal loaner-Lexus crash became the catalytic case in the Toyota sudden-acceleration scandal.
 - [Dick Schmidt](entities/DickSchmidt.md) — Human-movement researcher whose work explains how intended braking can diverge from executed pedal movement.
 - [Chester Wenger](entities/ChesterWenger.md) — Mennonite pastor whose decision to officiate at his gay son's wedding cost his credentials while deepening his appeal to the church's own faith and obligations.
@@ -20218,6 +20222,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Weak-Link and Strong-Link Systems](concepts/WeakLinkStrongLinkSystems.md) — Diagnostic framework for deciding whether outcomes improve more by raising a bottleneck or concentrating resources on a top performer.
 - [Pedal Misapplication Under Stress](concepts/PedalMisapplicationUnderStress.md) — Wrong-pedal action produced when panic, unfamiliar geometry, and motor variability separate intended from executed movement.
 - [Human Error Without Negligence](concepts/HumanErrorWithoutNegligence.md) — Distinguishes ordinary consequential mistakes from reckless or morally culpable conduct.
 - [Institutional Technology Blame](concepts/InstitutionalTechnologyBlame.md) — Preference for machine or software explanations when ordinary human fallibility is uncomfortable or institutionally costly to acknowledge.
