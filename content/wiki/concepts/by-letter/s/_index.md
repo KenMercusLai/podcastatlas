@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11669
+wiki_total_pages: 11671
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "SelectiveAuditoryAttention"
     title: "Selective Auditory Attention"
     url: "/wiki/concepts/selectiveauditoryattention/"
+  - key: "SelectiveDoctrineEnforcement"
+    title: "Selective Doctrine Enforcement"
+    url: "/wiki/concepts/selectivedoctrineenforcement/"
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"

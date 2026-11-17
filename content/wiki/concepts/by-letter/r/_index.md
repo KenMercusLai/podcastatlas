@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11669
+wiki_total_pages: 11671
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "RestorativeWithdrawalAndReturn"
     title: "Restorative Withdrawal and Return"
     url: "/wiki/concepts/restorativewithdrawalandreturn/"
+  - key: "RestorativeTransformativeAthleticIntervention"
+    title: "Restorative–Transformative Athletic Intervention"
+    url: "/wiki/concepts/restorativetransformativeathleticintervention/"
   - key: "RestoredRegimePromiseCredibility"
     title: "Restored Regime Promise Credibility / 复国政权承诺信用"
     url: "/wiki/concepts/restoredregimepromisecredibility/"

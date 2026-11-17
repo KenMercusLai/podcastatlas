@@ -19580,6 +19580,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/andygalpin/"
     },
+    "AndyPettitte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/andypettitte/"
+    },
     "AndyStalman": {
       "episode_count": 1,
       "show_count": 1,
@@ -31374,6 +31390,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/barmakids/"
+    },
+    "BarryBonds": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/barrybonds/"
     },
     "BarryGoldwater": {
       "episode_count": 1,
@@ -168543,6 +168575,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/jamesjoyce/"
     },
+    "JamesKeenan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/jameskeenan/"
+    },
     "JamesMadison": {
       "episode_count": 1,
       "show_count": 1,
@@ -168574,6 +168622,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/jamesmarriott/"
+    },
+    "JamesMartinJesuit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/jamesmartinjesuit/"
     },
     "JamesMcLaughlin": {
       "episode_count": 1,
@@ -244136,9 +244200,9 @@
       "url": "/wiki/concepts/participatorysinging/"
     },
     "ParticularizedMoralDiscernment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Descend_into_the_Particular [Descend_into_the_Particular].md",
@@ -244153,6 +244217,13 @@
           "show": "Revisionist History",
           "title": "Dr. Rock’s Taxonomy",
           "url": "/wiki/sources/dr-rock-s-taxonomy-dr-rock-s-taxonomy/"
+        },
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
         }
       ],
       "updated": "2026-11-17",
@@ -273141,6 +273212,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/restorativeculturalattention/"
     },
+    "RestorativeTransformativeAthleticIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/restorativetransformativeathleticintervention/"
+    },
     "RestorativeWithdrawalAndReturn": {
       "episode_count": 1,
       "show_count": 1,
@@ -286929,6 +287016,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/selectiveauditoryattention/"
+    },
+    "SelectiveDoctrineEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/selectivedoctrineenforcement/"
     },
     "SelectiveNeuralStimulationPrecision": {
       "episode_count": 3,
@@ -321941,6 +322044,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/tombwealthlegendrobberyincentive/"
+    },
+    "TommyJohn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Standard_Case [The_Standard_Case].md",
+          "key": "the-standard-case-the-standard-case",
+          "show": "Revisionist History",
+          "title": "The Standard Case",
+          "url": "/wiki/sources/the-standard-case-the-standard-case/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/tommyjohn/"
     },
     "TommyRobinson": {
       "episode_count": 3,

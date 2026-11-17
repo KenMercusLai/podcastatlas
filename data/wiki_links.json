@@ -10547,6 +10547,10 @@
     "title": "Andy Lapsa",
     "url": "/wiki/entities/andylapsa/"
   },
+  "AndyPettitte": {
+    "title": "Andy Pettitte",
+    "url": "/wiki/entities/andypettitte/"
+  },
   "AndyStalman": {
     "title": "Andy Stalman",
     "url": "/wiki/entities/andystalman/"
@@ -13918,6 +13922,10 @@
   "BarryBenepe": {
     "title": "Barry Benepe",
     "url": "/wiki/entities/barrybenepe/"
+  },
+  "BarryBonds": {
+    "title": "Barry Bonds",
+    "url": "/wiki/entities/barrybonds/"
   },
   "BarryGoldwater": {
     "title": "Barry Goldwater",
@@ -51531,6 +51539,10 @@
     "title": "James Joyce",
     "url": "/wiki/entities/jamesjoyce/"
   },
+  "JamesKeenan": {
+    "title": "James Keenan",
+    "url": "/wiki/entities/jameskeenan/"
+  },
   "JamesLawrence": {
     "title": "James Lawrence",
     "url": "/wiki/entities/jameslawrence/"
@@ -51546,6 +51558,10 @@
   "JamesMarriott": {
     "title": "James Marriott",
     "url": "/wiki/entities/jamesmarriott/"
+  },
+  "JamesMartinJesuit": {
+    "title": "James Martin (Jesuit)",
+    "url": "/wiki/entities/jamesmartinjesuit/"
   },
   "JamesMcLaughlin": {
     "title": "James McLaughlin",
@@ -82235,6 +82251,10 @@
     "title": "Restorative Cultural Attention",
     "url": "/wiki/concepts/restorativeculturalattention/"
   },
+  "RestorativeTransformativeAthleticIntervention": {
+    "title": "Restorative–Transformative Athletic Intervention",
+    "url": "/wiki/concepts/restorativetransformativeathleticintervention/"
+  },
   "RestorativeWithdrawalAndReturn": {
     "title": "Restorative Withdrawal and Return",
     "url": "/wiki/concepts/restorativewithdrawalandreturn/"
@@ -86294,6 +86314,10 @@
   "SelectiveAuditoryAttention": {
     "title": "Selective Auditory Attention",
     "url": "/wiki/concepts/selectiveauditoryattention/"
+  },
+  "SelectiveDoctrineEnforcement": {
+    "title": "Selective Doctrine Enforcement",
+    "url": "/wiki/concepts/selectivedoctrineenforcement/"
   },
   "SelectiveMotionSmoothing": {
     "title": "Selective Motion Smoothing",
@@ -96798,6 +96822,10 @@
   "Tommy": {
     "title": "Tommy",
     "url": "/wiki/entities/tommy/"
+  },
+  "TommyJohn": {
+    "title": "Tommy John",
+    "url": "/wiki/entities/tommyjohn/"
   },
   "TommyRobinson": {
     "title": "Tommy Robinson",
@@ -118078,6 +118106,10 @@
   "the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series": {
     "title": "The Sony Hack | The Mistakes Series",
     "url": "/wiki/sources/the-sony-hack-the-mistakes-series-the-sony-hack-the-mistakes-series/"
+  },
+  "the-standard-case-the-standard-case": {
+    "title": "The Standard Case",
+    "url": "/wiki/sources/the-standard-case-the-standard-case/"
   },
   "the-staten-island-problem-part-1-the-mayor-vs-the-borough-president-the-staten-island-problem-part-1-the-mayor-vs-t": {
     "title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",

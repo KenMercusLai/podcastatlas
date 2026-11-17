@@ -5319,6 +5319,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [The Queen of Cuba](sources/the-queen-of-cuba-the-queen-of-cuba.md) — Revisionist History uses Ana Belén Montes's Cuban espionage and Tim Levine's experiments to distinguish noticed suspicion from a records-backed trigger strong enough to overcome truth-default.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
+- [The Standard Case](sources/the-standard-case-the-standard-case.md) — Revisionist History uses Jesuit casuistry, baseball medicine, Pulse, and LGBT Catholic accompaniment to reason from standard cases rather than inherited labels alone.
 
 ## Entities
 - [John Rock](entities/JohnRock.md) — Catholic fertility physician and pill co-developer who used conscience and casuistry to challenge the Church's contraception judgment.
@@ -20102,6 +20103,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Howard Temin](entities/HowardTemin.md) — Virologist who inferred an RNA-to-DNA step from stable cellular transformation and independently discovered reverse transcriptase.
 - [David Baltimore](entities/DavidBaltimore.md) — Virologist whose independent reverse-transcriptase experiment illustrates how brief decisive tests depend on long conceptual preparation.
 - [Robert Gallo](entities/RobertGallo.md) — Human-retrovirus and T-cell researcher presented as a bridge from tumor virology to the early AIDS response.
+- [Andy Pettitte](entities/AndyPettitte.md) — Pitcher whose limited HGH use during elbow rehabilitation becomes a disputed middle case between restoration and transformation.
+- [Tommy John](entities/TommyJohn.md) — Pitcher whose ligament reconstruction anchors the episode's accepted standard case for restorative sports medicine.
+- [Barry Bonds](entities/BarryBonds.md) — Baseball player used as the contrasting standard case for transformative enhancement and competitive risk pressure.
+- [James Martin (Jesuit)](entities/JamesMartinJesuit.md) — Priest applying consistent standards, whole-person attention, and accompaniment to the Church's relationship with LGBT Catholics.
+- [James Keenan](entities/JamesKeenan.md) — Jesuit moral theologian connecting narrated cases with casuistry and moral responsibility for omitted love.
 
 ## Concepts
 - [Particularized Moral Discernment](concepts/ParticularizedMoralDiscernment.md) — Practice of suspending ideological attachment long enough to judge the complete facts, context, classification, and suffering of a concrete case.
@@ -31885,5 +31891,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reverse Transcription](concepts/ReverseTranscription.md) — RNA-to-DNA copying mechanism that explained stable retroviral transformation and later became central to HIV research and treatment.
 - [Retrovirus Research Preparedness](concepts/RetrovirusResearchPreparedness.md) — Crisis-response option value created by prior mechanisms, models, cell culture, and trained investigators.
 - [Scientific Dissent Under Rejection](concepts/ScientificDissentUnderRejection.md) — Evidence-led persistence on a disputed anomaly while remaining answerable to discriminating experiments and correction.
+- [Restorative–Transformative Athletic Intervention](concepts/RestorativeTransformativeAthleticIntervention.md) — Case-based taxonomy separating recovery toward prior function from materially new capacity and competitor risk pressure.
+- [Selective Doctrine Enforcement](concepts/SelectiveDoctrineEnforcement.md) — Unequal institutional sanctions revealed by comparing doctrine, membership, conduct, and enforcement across concrete cases.
 
 ## Syntheses

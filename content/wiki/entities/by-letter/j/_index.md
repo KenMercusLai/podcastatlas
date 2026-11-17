@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14686
+wiki_total_pages: 14691
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "JamesJoyce"
     title: "James Joyce"
     url: "/wiki/entities/jamesjoyce/"
+  - key: "JamesKeenan"
+    title: "James Keenan"
+    url: "/wiki/entities/jameskeenan/"
   - key: "JamesLawrence"
     title: "James Lawrence"
     url: "/wiki/entities/jameslawrence/"
@@ -278,6 +281,9 @@ wiki_pages:
   - key: "JamesMarriott"
     title: "James Marriott"
     url: "/wiki/entities/jamesmarriott/"
+  - key: "JamesMartinJesuit"
+    title: "James Martin (Jesuit)"
+    url: "/wiki/entities/jamesmartinjesuit/"
   - key: "JamesMcLaughlin"
     title: "James McLaughlin"
     url: "/wiki/entities/jamesmclaughlin/"
