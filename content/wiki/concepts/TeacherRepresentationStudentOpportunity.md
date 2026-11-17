@@ -4,7 +4,8 @@ type: concept
 tags: [education, race, teachers, opportunity, institutional-power]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -44,13 +45,14 @@ The proposed mechanism is broader than conscious prejudice. Teachers allocate at
 
 ## Counterevidence & Qualifications
 
-The supplied file summarizes studies without titles, methods, samples beyond selected descriptions, uncertainty estimates, or causal designs. Teacher race may correlate with school assignment, resources, peer composition, experience, or other conditions, and not every student-teacher pairing has the same effect. Representation should not become an assumption that only same-race teachers can teach a child well or that Black educators bear sole responsibility for correcting institutional bias.
+The supplied files are substantially overlapping versions of the same episode and are not independent corroboration. They summarize studies without titles, methods, samples beyond selected descriptions, uncertainty estimates, or causal designs. Teacher race may correlate with school assignment, resources, peer composition, experience, or other conditions, and not every student-teacher pairing has the same effect. Representation should not become an assumption that only same-race teachers can teach a child well or that Black educators bear sole responsibility for correcting institutional bias.
 
 ## What Changed
 
 - Established teacher discretion as a mechanism connecting representation to gifted access, discipline, and long-run outcomes.
 - Joined quantitative claims to family and educator testimony about knowledge, care, and trust.
 - Preserved the distinction between institutional patterns and deterministic same-race matching.
+- Added the original episode as overlapping provenance without increasing the apparent strength of the research evidence.
 
 ## Related Concepts
 

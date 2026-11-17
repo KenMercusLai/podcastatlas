@@ -5,7 +5,8 @@ tags: [race, law, institutions, inequality, discrimination]
 sources:
   - ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-10-12
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -54,13 +55,14 @@ School desegregation supplies an organizational implementation case. [[BrownVBoa
 
 ## Counterevidence & Qualifications
 
-The two episodes supply explanatory cases, not a general causal test. Electoral, policing, welfare, land, wealth, personnel, gifted-identification, discipline, and teacher-outcome claims require jurisdiction-specific dates, comparison groups, legal detail, and underlying data. Disparate outcomes can signal a mechanism that needs investigation but do not alone establish intent, causation, or the correct remedy; race can also interact with class, place, gender, age, and institutional history. The education case does not negate the necessity of ending state-enforced segregation and should not be generalized into deterministic claims about every teacher or district.
+The source set supplies explanatory cases, not a general causal test; the original and revisited Buchanan episode files substantially overlap and are not independent corroboration. Electoral, policing, welfare, land, wealth, personnel, gifted-identification, discipline, and teacher-outcome claims require jurisdiction-specific dates, comparison groups, legal detail, and underlying data. Disparate outcomes can signal a mechanism that needs investigation but do not alone establish intent, causation, or the correct remedy; race can also interact with class, place, gender, age, and institutional history. The education case does not negate the necessity of ending state-enforced segregation and should not be generalized into deterministic claims about every teacher or district.
 
 ## What Changed
 
 - Added school desegregation as a case where formal access expanded without equal redistribution of professional authority.
 - Added subjective personnel and student-selection judgments as mechanisms of structural discrimination.
 - Connected educator displacement to employment, representation, and students' access to opportunity.
+- Added the original Buchanan episode as overlapping provenance without increasing the apparent independence of the education evidence.
 
 ## Related Concepts
 

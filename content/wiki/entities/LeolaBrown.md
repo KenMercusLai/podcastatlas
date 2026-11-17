@@ -4,7 +4,8 @@ type: entity
 tags: [person, civil-rights, education]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -39,12 +40,13 @@ That testimony complicates the Court-centered psychological framing. It supports
 
 ## Qualifications
 
-The profile rests on one episode's selected account rather than a complete oral history or case record. It should not be used to infer that every Black family, school, or NAACP litigant framed desegregation identically.
+The profile rests on two substantially overlapping versions of one episode's selected account rather than a complete oral history or case record; they are not independent corroboration. It should not be used to infer that every Black family, school, or NAACP litigant framed desegregation identically.
 
 ## What Changed
 
 - Established Brown as a source for distinguishing equal freedom from deficit-based accounts of Black schooling.
 - Added family choice and teacher care to the case's institutional interpretation.
+- Added the original episode as overlapping provenance without changing the profile's evidentiary judgment.
 
 ## Relationships
 

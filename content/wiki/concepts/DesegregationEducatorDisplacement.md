@@ -4,7 +4,8 @@ type: concept
 tags: [education, civil-rights, school-desegregation, labor, institutional-power]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,13 +46,14 @@ Subjective evaluation made exclusion portable into the formally integrated syste
 
 ## Counterevidence & Qualifications
 
-The episode supplies a corrective history, not a complete national implementation study. Its teacher totals, timeline, legal outcomes, and present representation claim require verification against personnel datasets, court records, and local histories. Districts varied, and the pattern does not negate the necessity or gains of ending state-enforced school segregation; it shows that enrollment integration alone was insufficient to protect employment or redistribute authority.
+The supplied files are substantially overlapping versions of the same episode and are not independent corroboration. They supply a corrective history, not a complete national implementation study. Their teacher totals, timeline, legal outcomes, and present representation claim require verification against personnel datasets, court records, and local histories. Districts varied, and the pattern does not negate the necessity or gains of ending state-enforced school segregation; it shows that enrollment integration alone was insufficient to protect employment or redistribute authority.
 
 ## What Changed
 
 - Established a distinction between integrated enrollment and integrated professional authority.
 - Identified school closure, subjective evaluation, and accommodation of parental prejudice as displacement mechanisms.
 - Connected historical dismissal to a persistent teacher-representation deficit while keeping the national figures source-scoped.
+- Added the original episode as overlapping provenance without increasing the apparent independence of the evidence.
 
 ## Related Concepts
 

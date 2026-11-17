@@ -4,7 +4,8 @@ type: entity
 tags: [person, educator, civil-rights, school-desegregation]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -39,12 +40,13 @@ Decades later, [[LindaBrown]] read the letter at a fiftieth-anniversary event fo
 
 ## Qualifications
 
-The supplied source does not provide Buchanan's full biography, employment record, response, or the complete district personnel file. The interpretation of the letter and its historical context is episode-based pending the underlying document and administrative record.
+The supplied sources are substantially overlapping versions of the same episode and are not independent corroboration. They do not provide Buchanan's full biography, employment record, response, or the complete district personnel file. The interpretation of the letter and its historical context remains episode-based pending the underlying document and administrative record.
 
 ## What Changed
 
 - Established Buchanan as a documented person-level case of educator displacement during integration.
 - Connected euphemistic administrative language to explicit accommodation of racial prejudice.
+- Added the original episode as overlapping provenance without changing the profile's evidentiary judgment.
 
 ## Relationships
 

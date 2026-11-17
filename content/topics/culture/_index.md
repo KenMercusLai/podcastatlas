@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3800
+topic_total_pages: 3801
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10899,6 +10899,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640"
     title: "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+  - key: "miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment"
+    title: "Miss Buchanan’s Period of Adjustment"
+    url: "/wiki/sources/miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment/"
   - key: "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128"
     title: "Netflix struggles to retain viewers after a series' first season"
     url: "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"

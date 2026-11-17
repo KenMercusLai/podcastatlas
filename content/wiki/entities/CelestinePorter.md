@@ -4,7 +4,8 @@ type: entity
 tags: [person, educator, civil-rights, school-desegregation]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -39,12 +40,13 @@ Her recollection emphasizes knowledge and trust. Black teachers had nurtured and
 
 ## Qualifications
 
-The source supplies selected remarks rather than a full interview, biography, or comparative implementation study. Her proposal identifies an omitted institutional dimension but does not by itself establish the feasibility or effects of every teacher-integration model.
+The sources are substantially overlapping versions of the same episode and are not independent corroboration. They supply selected remarks rather than a full interview, biography, or comparative implementation study. Her proposal identifies an omitted institutional dimension but does not by itself establish the feasibility or effects of every teacher-integration model.
 
 ## What Changed
 
 - Established Porter as a source for shifting desegregation analysis from student movement to adult authority.
 - Added reciprocal teacher integration as an alternative implementation principle.
+- Added the original episode as overlapping provenance without changing the profile's evidentiary judgment.
 
 ## Relationships
 

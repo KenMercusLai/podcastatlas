@@ -4,7 +4,8 @@ type: entity
 tags: [court-case, civil-rights, education, school-desegregation]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -44,13 +45,14 @@ The Court emphasized psychological and educational harm from racial separation. 
 
 ## Qualifications
 
-This profile is bounded to a revisionist podcast summary rather than the opinions, briefs, implementation orders, district records, or a comprehensive legal history. The source deliberately corrects an underexamined cost and does not claim that ending legally enforced segregation was mistaken. Local implementation varied, and episode-reported employment and educational-outcome figures require review against the underlying studies and records.
+This profile is bounded to two substantially overlapping versions of a revisionist podcast episode rather than the opinions, briefs, implementation orders, district records, or a comprehensive legal history. They are not independent corroboration. The sources deliberately correct an underexamined cost and do not claim that ending legally enforced segregation was mistaken. Local implementation varied, and episode-reported employment and educational-outcome figures require review against the underlying studies and records.
 
 ## What Changed
 
 - Established a case profile separating the constitutional victory from the unequal distribution of its implementation costs.
 - Centered the Brown family's demand for choice without treating Monroe School as inherently inferior.
 - Added teacher authority and educator displacement to the assessment of desegregation.
+- Added the original episode as overlapping provenance without increasing the apparent independence of the evidence.
 
 ## Relationships
 

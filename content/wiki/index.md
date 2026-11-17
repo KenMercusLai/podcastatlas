@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Miss Buchanan’s Period of Adjustment](sources/miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment.md) — Revisionist History separates Brown’s legal victory from the displacement of Black educators and the failure to integrate institutional authority.
 - [The Foot Soldier of Birmingham](sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham.md) — Revisionist History separates an iconic Birmingham photograph’s ambiguous encounter from the symbolic racial history Ronald McDowell built from it in the Foot Soldier monument.
 - [The Prime Minister and the Prof](sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof.md) — Revisionist History links Churchill’s reliance on Frederick Lindemann to evidence filtering in strategic bombing and Bengal-famine relief policy.
 - [The King of Tears](sources/the-king-of-tears-the-king-of-tears.md) — Revisionist History connects Bobby Braddock, George Jones, emotional specificity, shared musical culture, and memorial performance to country music's power to provoke tears.

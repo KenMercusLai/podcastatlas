@@ -42925,3 +42925,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Miss Buchanan’s Period of Adjustment
+
+Added the 2017 [[RevisionistHistory]] episode on [[BrownVBoardOfEducation|Brown v. Board of Education]], teacher gatekeeping, and the displacement of Black educators during desegregation. Updated the focused profiles for [[LindaBrown]], [[LeolaBrown]], [[DarlaBuchanan]], and [[CelestinePorter]], together with [[TeacherRepresentationStudentOpportunity]], [[DesegregationEducatorDisplacement]], and [[FormalEqualityStructuralDiscrimination]].
+
+Core synthesis remains stable: ending legally enforced school segregation was necessary, but integrated enrollment did not automatically integrate professional authority. The episode connects teacher discretion to gifted identification, discipline, care, and long-run opportunity, then shows how school closures, subjective personnel criteria, and accommodation of white parental prejudice displaced Black educators.
+
+This file substantially overlaps the existing [[revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment|Revisited: Ms. Buchanan’s Period of Adjustment]] source note. Both source slugs are retained as provenance, but the pages explicitly avoid treating them as independent corroboration. No settled contradiction was adopted, and the automatic `wiki/overview.md` was left for the deterministic synthesis workflow rather than edited manually.
+
+Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles remained closed because the source adds no distinct host- or show-level finding requiring their large evidence inventories to be reopened.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,222 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, derived synthesis, and publish validation passed. The corpus-wide ingest checker still reports 61 pre-existing broken links outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,7 +4,8 @@ type: entity
 tags: [person, civil-rights, education]
 sources:
   - revisited-ms-buchanan-s-period-of-adjustment-revisited-ms-buchanan-s-period-of-adjustment
-last_updated: 2026-11-15
+  - miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -39,12 +40,13 @@ At a 2004 fiftieth-anniversary event, Linda Brown Thompson interrupted her own e
 
 ## Qualifications
 
-The supplied episode summary provides only selected moments from Brown's childhood and later public role. It is not a full biography, and remembered language, event context, travel details, and institutional decisions remain source-attributed pending the underlying transcript and archival records.
+The supplied episode summaries provide only selected moments from Brown's childhood and later public role, and their substantial overlap means they are not independent corroboration. They are not a full biography, and remembered language, event context, travel details, and institutional decisions remain source-attributed pending the underlying transcript and archival records.
 
 ## What Changed
 
 - Established Brown's dual role as the child associated with the case and a later witness to educator displacement.
 - Distinguished the family's access claim from a criticism of Monroe School's quality.
+- Added the original episode as overlapping provenance without changing the profile's evidentiary judgment.
 
 ## Relationships
 
