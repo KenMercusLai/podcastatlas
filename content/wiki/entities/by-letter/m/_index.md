@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14673
+wiki_total_pages: 14676
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1547,6 +1547,9 @@ wiki_pages:
   - key: "Miletus"
     title: "Miletus"
     url: "/wiki/entities/miletus/"
+  - key: "MiliAvital"
+    title: "Mili Avital"
+    url: "/wiki/entities/miliavital/"
   - key: "MilkBar"
     title: "Milk Bar"
     url: "/wiki/entities/milkbar/"

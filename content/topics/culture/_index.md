@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3788
+topic_total_pages: 3791
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2254,6 +2254,9 @@ topic_concepts:
   - key: "LowDataMediaAccess"
     title: "Low-Data Media Access"
     url: "/wiki/concepts/lowdatamediaaccess/"
+  - key: "LowPowerDistanceDirectness"
+    title: "Low-Power-Distance Directness"
+    url: "/wiki/concepts/lowpowerdistancedirectness/"
   - key: "LuxuryBrandAsSportsTeam"
     title: "Luxury Brand As Sports Team"
     url: "/wiki/concepts/luxurybrandassportsteam/"
@@ -4331,6 +4334,9 @@ topic_entities:
   - key: "AlJazeera"
     title: "Al Jazeera"
     url: "/wiki/entities/aljazeera/"
+  - key: "AlRuddy"
+    title: "Al Ruddy"
+    url: "/wiki/entities/alruddy/"
   - key: "AlbertCamus"
     title: "Albert Camus"
     url: "/wiki/entities/albertcamus/"
@@ -5594,6 +5600,9 @@ topic_entities:
   - key: "JosephCampbell"
     title: "Joseph Campbell / 约瑟夫·坎贝尔"
     url: "/wiki/entities/josephcampbell/"
+  - key: "JosephColombo"
+    title: "Joseph Colombo"
+    url: "/wiki/entities/josephcolombo/"
   - key: "JosephTurow"
     title: "Joseph Turow"
     url: "/wiki/entities/josephturow/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11661
+wiki_total_pages: 11663
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "LowPostureStatecraft"
     title: "Low-Posture Statecraft / 低姿态权宜"
     url: "/wiki/concepts/lowposturestatecraft/"
+  - key: "LowPowerDistanceDirectness"
+    title: "Low-Power-Distance Directness"
+    url: "/wiki/concepts/lowpowerdistancedirectness/"
   - key: "LowRankAdapterModelDiversity"
     title: "Low-Rank Adapter Model Diversity"
     url: "/wiki/concepts/lowrankadaptermodeldiversity/"

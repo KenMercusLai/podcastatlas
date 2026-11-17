@@ -42464,3 +42464,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Chutzpah vs. Chutzpah
+
+Added a [[RevisionistHistory]] episode distinguishing constructive audacity from self-serving shamelessness. Created focused profiles for [[AlRuddy]], [[JosephColombo]], and [[MiliAvital]], plus [[ChutzpahMoralDistinction]] and [[LowPowerDistanceDirectness]].
+
+Core synthesis: directness and convention-breaking are not morally equivalent to bullying or disregard. Ruddy's performed pitch and narrow *Godfather* concession retain responsiveness to other people, while the episode uses Colombo's coercive anti-stereotyping campaign and a consequence-blind migrant-detention argument as negative cases. Low deference can support reciprocal voice; surface politeness cannot by itself establish moral regard.
+
+No settled contradiction was adopted. The negative sense of chutzpah differs from [[PerformativeShamelessnessCountercontrol]], where apparent shamelessness is used defensively against an imposed shame script. National-cultural contrasts, the meaning of “nu,” the Abraham analogy, historical anecdotes, legal argument, and individual motives remain episode-scoped because the supplied file is a structured summary rather than a transcript, representative cultural study, production archive, or court record. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,190 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

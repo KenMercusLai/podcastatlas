@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Chutzpah vs. Chutzpah](sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah.md) — Revisionist History separates constructive audacity from self-serving shamelessness through Hollywood, organized crime, Israeli directness, and migrant-detention argument.
 - [Show 64 - Supernova in the East III](sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii.md) — Hardcore History connects Japan's opening Pacific strategy, Allied racialized underestimation, Force Z, Singapore's fall, MacArthur's command mythology, Bataan, and the death march.
 - [Show 65 - Supernova in the East IV](sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv.md) — Hardcore History connects morale warfare, civil-liberties cost, Coral Sea, Midway's carrier system, inter-service rivalry, and Guadalcanal's attritional opening.
 - [Introducing Revisionist History Season Five](sources/introducing-revisionist-history-season-five.md) — Season-five trailer previewing parental joy, moral memory, action under uncertainty, museums, collecting, beauty, and the later episodes that develop those themes.
@@ -5317,6 +5318,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 
 ## Entities
+- [Al Ruddy](entities/AlRuddy.md) — Producer whose unlikely pitches and narrow negotiation exemplify constructive audacity.
+- [Joseph Colombo](entities/JosephColombo.md) — Organized-crime figure whose anti-stereotyping campaign is complicated by alleged leadership and coercive methods.
+- [Mili Avital](entities/MiliAvital.md) — Israeli actor who distinguishes direct engagement from morally indifferent self-assertion.
 - [Tomoyuki Yamashita](entities/TomoyukiYamashita.md) — Japanese commander whose mobility, infiltration, and tempo drove the Malaya-Singapore campaign.
 - [Arthur Percival](entities/ArthurPercival.md) — British commander whose surrender ended Singapore's compromised defense.
 - [Edward P. King](entities/EdwardPKing.md) — Bataan commander who accepted responsibility for surrender after logistical and physical collapse.
@@ -20087,6 +20091,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Gallo](entities/RobertGallo.md) — Human-retrovirus and T-cell researcher presented as a bridge from tumor virology to the early AIDS response.
 
 ## Concepts
+- [Chutzpah Moral Distinction](concepts/ChutzpahMoralDistinction.md) — Ethical boundary between constructive convention-breaking and self-assertion that disregards other people's standing.
+- [Low-Power-Distance Directness](concepts/LowPowerDistanceDirectness.md) — Forceful, minimally deferential communication that can preserve reciprocal voice and involvement.
 - [Japanese Early Pacific War Strategy](concepts/JapaneseEarlyPacificWarStrategy.md) — Resource seizure and defensive-perimeter strategy whose operational success depended on an uncontrollable political bet about Allied resolve.
 - [Allied Racialized Military Underestimation](concepts/AlliedRacializedMilitaryUnderestimation.md) — Conversion of stereotypes about Japanese inferiority into flawed threat assessment and readiness.
 - [Capital-Ship Airpower Vulnerability](concepts/CapitalShipAirpowerVulnerability.md) — Exposure of unsupported battleships and battlecruisers to coordinated air attack despite armor and prestige.

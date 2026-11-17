@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11661
+wiki_total_pages: 11663
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "ChurchCulturalMemory"
     title: "Church Cultural Memory"
     url: "/wiki/concepts/churchculturalmemory/"
+  - key: "ChutzpahMoralDistinction"
+    title: "Chutzpah Moral Distinction"
+    url: "/wiki/concepts/chutzpahmoraldistinction/"
   - key: "CIAIntelligenceCovertActionTension"
     title: "CIA Intelligence-Covert Action Tension"
     url: "/wiki/concepts/ciaintelligencecovertactiontension/"

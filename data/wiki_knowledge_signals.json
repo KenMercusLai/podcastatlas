@@ -13698,6 +13698,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/alqaeda/"
     },
+    "AlRuddy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chutzpah_vs_Chutzpah [Chutzpah_vs_Chutzpah].md",
+          "key": "chutzpah-vs-chutzpah-chutzpah-vs-chutzpah",
+          "show": "Revisionist History",
+          "title": "Chutzpah vs. Chutzpah",
+          "url": "/wiki/sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/alruddy/"
+    },
     "Alabama": {
       "episode_count": 2,
       "show_count": 2,
@@ -57546,6 +57562,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/churchofchrist/"
+    },
+    "ChutzpahMoralDistinction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chutzpah_vs_Chutzpah [Chutzpah_vs_Chutzpah].md",
+          "key": "chutzpah-vs-chutzpah-chutzpah-vs-chutzpah",
+          "show": "Revisionist History",
+          "title": "Chutzpah vs. Chutzpah",
+          "url": "/wiki/sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/chutzpahmoraldistinction/"
     },
     "CicelyGemmell": {
       "episode_count": 1,
@@ -176181,6 +176213,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/josephchamberlain/"
     },
+    "JosephColombo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chutzpah_vs_Chutzpah [Chutzpah_vs_Chutzpah].md",
+          "key": "chutzpah-vs-chutzpah-chutzpah-vs-chutzpah",
+          "show": "Revisionist History",
+          "title": "Chutzpah vs. Chutzpah",
+          "url": "/wiki/sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/josephcolombo/"
+    },
     "JosephConrad": {
       "episode_count": 2,
       "show_count": 1,
@@ -201008,6 +201056,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/lowlatencyinferencechip/"
     },
+    "LowPowerDistanceDirectness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chutzpah_vs_Chutzpah [Chutzpah_vs_Chutzpah].md",
+          "key": "chutzpah-vs-chutzpah-chutzpah-vs-chutzpah",
+          "show": "Revisionist History",
+          "title": "Chutzpah vs. Chutzpah",
+          "url": "/wiki/sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/lowpowerdistancedirectness/"
+    },
     "LowRankAdapterModelDiversity": {
       "episode_count": 1,
       "show_count": 1,
@@ -218894,6 +218958,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/miletus/"
+    },
+    "MiliAvital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chutzpah_vs_Chutzpah [Chutzpah_vs_Chutzpah].md",
+          "key": "chutzpah-vs-chutzpah-chutzpah-vs-chutzpah",
+          "show": "Revisionist History",
+          "title": "Chutzpah vs. Chutzpah",
+          "url": "/wiki/sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/miliavital/"
     },
     "MilitantToDemocraticPolitics": {
       "episode_count": 1,
