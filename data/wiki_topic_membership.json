@@ -19776,6 +19776,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BernadineHealy": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BernardGui": [
     {
       "key": "culture",
@@ -79163,6 +79170,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RameshSharma": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RanaElKaliouby": [
     {
       "key": "technology",
@@ -83928,6 +83942,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ScientificFraudPanic": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ScientificIdealVsAIArmsRace": [
     {
       "key": "technology",
@@ -83951,6 +83977,13 @@
       "label": "Politics",
       "url": "/topics/politics/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ScientificMisconductDueProcess": [
     {
       "key": "science",
       "label": "Science",
@@ -114629,6 +114662,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "strong-verbs-short-sentences-strong-verbs-short-sentences": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i": [

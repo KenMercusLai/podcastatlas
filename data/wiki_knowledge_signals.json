@@ -34756,6 +34756,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/berlinwall/"
     },
+    "BernadineHealy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
+          "key": "strong-verbs-short-sentences-strong-verbs-short-sentences",
+          "show": "Revisionist History",
+          "title": "Strong Verbs, Short Sentences",
+          "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/bernadinehealy/"
+    },
     "BernardFreyberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -174985,6 +175001,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/johndickie/"
     },
+    "JohnDingell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
+          "key": "strong-verbs-short-sentences-strong-verbs-short-sentences",
+          "show": "Revisionist History",
+          "title": "Strong Verbs, Short Sentences",
+          "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johndingell/"
+    },
     "JohnDudleyDukeOfNorthumberland": {
       "episode_count": 2,
       "show_count": 1,
@@ -228856,9 +228888,9 @@
       "url": "/wiki/entities/nationalfascisti/"
     },
     "NationalInstitutesOfHealth": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -228894,6 +228926,13 @@
           "show": "Revisionist History",
           "title": "The Powerball Revolution",
           "url": "/wiki/sources/the-powerball-revolution-the-powerball-revolution/"
+        },
+        {
+          "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
+          "key": "strong-verbs-short-sentences-strong-verbs-short-sentences",
+          "show": "Revisionist History",
+          "title": "Strong Verbs, Short Sentences",
+          "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
         }
       ],
       "updated": "2026-11-17",
@@ -267587,6 +267626,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/ramanspectroscopydiagnosticdata/"
     },
+    "RameshSharma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
+          "key": "strong-verbs-short-sentences-strong-verbs-short-sentences",
+          "show": "Revisionist History",
+          "title": "Strong Verbs, Short Sentences",
+          "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/rameshsharma/"
+    },
     "RanaElKaliouby": {
       "episode_count": 1,
       "show_count": 1,
@@ -285408,6 +285463,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/scientificexplorationimperialclaim/"
     },
+    "ScientificFraudPanic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
+          "key": "strong-verbs-short-sentences-strong-verbs-short-sentences",
+          "show": "Revisionist History",
+          "title": "Strong Verbs, Short Sentences",
+          "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/scientificfraudpanic/"
+    },
     "ScientificInstitutionSelfGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -285423,6 +285494,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/scientificinstitutionselfgovernance/"
+    },
+    "ScientificMisconductDueProcess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
+          "key": "strong-verbs-short-sentences-strong-verbs-short-sentences",
+          "show": "Revisionist History",
+          "title": "Strong Verbs, Short Sentences",
+          "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/scientificmisconductdueprocess/"
     },
     "ScientificNaturalisticSupernaturalAmbiguity": {
       "episode_count": 3,

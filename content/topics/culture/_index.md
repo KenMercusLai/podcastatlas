@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3798
+topic_total_pages: 3799
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3247,6 +3247,9 @@ topic_concepts:
   - key: "ScientificAnxietyLiteraryMaterial"
     title: "Scientific Anxiety As Literary Material / 科学焦虑作为文学材料"
     url: "/wiki/concepts/scientificanxietyliterarymaterial/"
+  - key: "ScientificFraudPanic"
+    title: "Scientific Fraud Panic"
+    url: "/wiki/concepts/scientificfraudpanic/"
   - key: "ScreenActingMechanics"
     title: "Screen Acting Mechanics"
     url: "/wiki/concepts/screenactingmechanics/"

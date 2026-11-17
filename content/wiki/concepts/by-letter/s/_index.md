@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11676
+wiki_total_pages: 11678
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -344,12 +344,18 @@ wiki_pages:
   - key: "ScientificExplorationImperialClaim"
     title: "Scientific Exploration and Imperial Claim"
     url: "/wiki/concepts/scientificexplorationimperialclaim/"
+  - key: "ScientificFraudPanic"
+    title: "Scientific Fraud Panic"
+    url: "/wiki/concepts/scientificfraudpanic/"
   - key: "ScientificIdealVsAIArmsRace"
     title: "Scientific Ideal vs AI Arms Race"
     url: "/wiki/concepts/scientificidealvsaiarmsrace/"
   - key: "ScientificInstitutionSelfGovernance"
     title: "Scientific Institution Self-Governance / 科学机构自治"
     url: "/wiki/concepts/scientificinstitutionselfgovernance/"
+  - key: "ScientificMisconductDueProcess"
+    title: "Scientific Misconduct Due Process"
+    url: "/wiki/concepts/scientificmisconductdueprocess/"
   - key: "ScientificPrecariat"
     title: "Scientific Precariat"
     url: "/wiki/concepts/scientificprecariat/"

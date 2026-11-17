@@ -8,6 +8,7 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770
   - scim5646582763-scim5646582763
   - the-powerball-revolution-the-powerball-revolution
+  - strong-verbs-short-sentences-strong-verbs-short-sentences
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -18,14 +19,14 @@ knowledge_schema: synthesis-v1
 The National Institutes of Health is a federal biomedical research institution represented in the corpus as strategic U.S. capacity, a funder of basic and applied science, and a contested site of priority, incentive, access, and productivity reform.
 
 ## Current Profile
-NIH sits at the center of a capacity-versus-reform tension. [[RahmEmanuel|Rahm Emanuel]] treats federal research institutions as strategic assets that should not be casually cut; [[MartyMakary|Marty Makary]] urges more upstream chronic-disease work; and [[MichaelKratsios|Michael Kratsios]] questions scientific output per dollar. [[JayBhattacharya|Jay Bhattacharya]] adds an internal program for access, ambitious failure, younger investigators, replication, and data sharing. [[MichaelLauer]] adds a narrower measurement problem: expert review may screen applications while failing to support precise impact rankings among funded proposals.
+NIH sits at the center of a capacity-versus-reform tension. [[RahmEmanuel|Rahm Emanuel]] treats federal research institutions as strategic assets that should not be casually cut; [[MartyMakary|Marty Makary]] urges more upstream chronic-disease work; and [[MichaelKratsios|Michael Kratsios]] questions scientific output per dollar. [[JayBhattacharya|Jay Bhattacharya]] adds an internal program for access, ambitious failure, younger investigators, replication, and data sharing. [[MichaelLauer]] adds a narrower measurement problem: expert review may screen applications while failing to support precise impact rankings among funded proposals. [[strong-verbs-short-sentences-strong-verbs-short-sentences|Strong Verbs, Short Sentences]] adds a historical governance failure in which misconduct enforcement, political pressure, and leaks outran defensible findings until [[BernadineHealy]] established an appeal process.
 
 ## Key Characteristics
 - NIH is part of the U.S. strategic research-capacity system alongside NSF, DARPA, universities, life sciences, and national labs.
 - It is a health-research funding institution whose priorities are contested between treatment, genetics, root causes, public health, and scientific productivity.
 - The Kratsios source makes NIH a funding-output problem by contrasting budget growth with perceived stagnation and Eroom's law.
 - NIH reform is linked to COVID-era trust because Jay Bhattacharya and Marty Makary are used as reform figures in nearby All-In sources.
-- The institution is politically exposed: different sources frame cuts or reallocations as either capacity damage or necessary depoliticization and productivity reform.
+- The institution is politically exposed: different sources frame cuts, reallocations, and misconduct oversight as accountability or as risks to research capacity and fair procedure.
 - Bhattacharya's interview frames taxpayer access, indirect costs, patents, and drug translation as accountability questions around publicly supported research.
 - Its funding-design reforms span replication grants, negative-result publishing, cooperation incentives, and Lauer's distinction between minimum-quality screening and fine-grained ranking among fundable grants.
 
@@ -38,14 +39,15 @@ NIH sits at the center of a capacity-versus-reform tension. [[RahmEmanuel|Rahm E
 - Access and integrity: [[scim5646582763-scim5646582763]] reports immediate public access for NIH-funded papers and proposes replication grants, a publication venue for negative and replication results, and incentives for data sharing and cooperation.
 - Priority and structure: [[scim5646582763-scim5646582763]] emphasizes chronic disease, early-career scientists, ambitious work, and replicability while describing an administration proposal to reduce NIH's institutes and centers from 27 to eight.
 - Predictive calibration: [[the-powerball-revolution-the-powerball-revolution]] reports that Lauer found no strong relationship between funded applications' review scores and later citation impact, motivating discussion of a qualified-pool lottery.
+- Misconduct adjudication: [[strong-verbs-short-sentences-strong-verbs-short-sentences]] uses Sharma's typographical-error case, the 1991 Dingell hearing, and Healy's appeal reform to show how NIH integrity enforcement can fail under political and media pressure.
 
 ## Qualifications
-The wiki does not resolve whether NIH is underfunded, misallocated, or over-bureaucratized. Budget, Eroom's law, researcher-age, indirect-cost, access-policy, life-expectancy, and organizational details remain source-scoped interview claims. Lauer's reported analysis is also bounded by its funded sample and citation outcome: weak rank prediction does not establish that peer review has no screening value. Announced reforms are not yet outcome evidence, and the political consequences of grant disruption remain separately visible under [[FederalResearchFundingPoliticalRisk]].
+The wiki does not resolve whether NIH is underfunded, misallocated, or over-bureaucratized. Budget, Eroom's law, researcher-age, indirect-cost, access-policy, life-expectancy, and organizational details remain source-scoped interview claims. Lauer's reported analysis is also bounded by its funded sample and citation outcome: weak rank prediction does not establish that peer review has no screening value. The Healy-Sharma account comes from one retrospective narrative without the complete case files, hearing transcript, or Dingell-side argument. Announced reforms are not yet outcome evidence, and the political consequences of grant disruption remain separately visible under [[FederalResearchFundingPoliticalRisk]].
 
 ## What Changed
-- Added the reported review-score calibration result and its qualified-pool implication.
-- Distinguished screening value from unsupported precision among funded applications.
-- Kept citation impact, study design, and lottery benefits source-scoped.
+- Added misconduct adjudication and appeal rights to NIH's accountability profile.
+- Distinguished investigation of anomalies from defensible findings of fraudulent intent.
+- Kept the episode's historical causation and adversarial framing source-scoped.
 
 ## Relationships
 - [[ResearchInstitutionsAsStrategicCapacity]] - strategic U.S. capacity frame where NIH appears.
@@ -60,3 +62,6 @@ The wiki does not resolve whether NIH is underfunded, misallocated, or over-bure
 - [[MichaelLauer]] - NIH official whose reported analysis tests review-score predictiveness.
 - [[QualifiedPoolLottery]] - proposed allocation rule after minimum-quality screening.
 - [[PredictiveSelectionLimits]] - broader framework for weak correspondence between selection scores and later outcomes.
+- [[BernadineHealy]] - NIH director who established the misconduct appeal process described by the episode.
+- [[ScientificMisconductDueProcess]] - procedural safeguard for integrity investigations.
+- [[ScientificFraudPanic]] - historical escalation frame involving oversight pressure, leaks, and weak claims.

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Strong Verbs, Short Sentences
+
+Added the [[RevisionistHistory]] episode using [[BernadineHealy]], [[RameshSharma]], and [[JohnDingell]] to reconstruct the collapse of an early-1990s scientific-fraud panic. Created synthesis-first profiles for all three figures plus [[ScientificMisconductDueProcess]] and [[ScientificFraudPanic]], then resynthesized the [[NationalInstitutesOfHealth]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: a real error warrants investigation but does not by itself establish fraudulent intent. When political oversight, investigator incentives, press leaks, and public accusation reinforce one another, professional punishment can precede adjudication and survive later vindication. Notice, response, proportionality, leak control, and independent appeal interrupt that loop without weakening the obligation to investigate genuine misconduct.
+
+No settled contradiction was adopted. The episode is strongly favorable to Healy and says Dingell's side did not provide a developed response; Sharma's grant, investigative record, hearing transcript, appeal rulings, employment causation, and the other reversed cases remain episode-scoped because the supplied file is a structured summary rather than primary records. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,203 sources across nine topics.
+
 ## [2026-11-17] ingest | Show 63 - Supernova in the East II
 
 Added the missing [[HardcoreHistory]] installment connecting the fall of Shanghai and the [[NanjingMassacre]] to Japan's unresolved China war, import dependence, sanctions, failed diplomacy, [[IsorokuYamamoto|Yamamoto's]] operational gamble, and the [[PearlHarborAttack]]. Created synthesis-first pages for [[JohnRabe]], Yamamoto, Pearl Harbor, [[JapaneseChinaWarResourceTrap]], [[PearlHarborStrategicGamble]], and [[AtrocityUncertaintyAndDenial]], then resynthesized the Nanjing Massacre and [[JapaneseEarlyPacificWarStrategy]] from their complete preserved evidence inventories before appending the new source once.
@@ -42642,6 +42652,10 @@ Core synthesis: Western coercion and racial hierarchy made rapid modernization a
 No settled contradiction was adopted. The source reinforces Bushido as an evolving construction and Meiji modernization as an imperial entanglement rather than a clean defensive-to-aggressive switch. Cultural intensity is explanatory only when joined to education, command, family pressure, sanctions, and limited choices; Western double standards do not excuse Japanese empire or atrocity. Claims about Onoda's inner world, imperial belief, the emperor's responsibility, public motives, atrocity totals, and battle figures remain contested or source-scoped. The automatic `wiki/overview.md` remained closed in accordance with the downstream synthesis boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,202 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 
