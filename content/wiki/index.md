@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Mr. Hollowell Didn’t Like That](sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that.md) — Revisionist History uses Donald Hollowell’s Georgia cases to connect evidentiary advocacy, community-facing courtroom authority, strategic composure, and systemic racism without a central conspiracy.
 - [McDonald’s Broke My Heart](sources/mcdonald-s-broke-my-heart-mcdonald-s-broke-my-heart.md) — Revisionist History reconstructs McDonald’s 1990 beef-tallow fry change as a public-health, replacement-formulation, sensory-value, and product-stewardship tradeoff.
 - [Burden of Proof](sources/burden-of-proof-burden-of-proof.md) — Revisionist History uses Owen Thomas's CTE diagnosis and a coal-dust analogy to distinguish causal uncertainty from institutional justification for continued football exposure.
 - [A Polite Word for Liar](sources/a-polite-word-for-liar-a-polite-word-for-liar.md) — Revisionist History uses Larry Adler and John Weitz's conflicting Munich memories to separate factual error, deliberate deception, narrative style, and moral character.
@@ -5344,6 +5345,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Donald L. Hollowell](entities/DonaldHollowell.md) — Civil-rights attorney whose evidentiary craft and controlled courtroom authority challenged Georgia’s segregated legal system.
+- [Vernon Jordan](entities/VernonJordan.md) — Hollowell’s junior colleague and retrospective interpreter of strategic survival, community support, and disciplined action.
+- [Willie Nash](entities/WillieNash.md) — Defendant whose prosecution illustrates coerced confession, mutually reinforcing weak evidence, and adversarial exposure of a racialized system.
 - [Phil Sokoloff](entities/PhilSokoloff.md) — Businessman and heart-health campaigner whose saturated-fat crusade helped drive McDonald’s 1990 frying-oil change.
 - [Ray Kroc](entities/RayKroc.md) — McDonald’s expansion figure whose fry-process discipline anchors the episode’s heritage-product argument.
 - [Owen Thomas](entities/OwenThomas.md) — Penn football captain whose death and posthumous CTE diagnosis anchor the episode's precautionary argument.
@@ -20178,6 +20182,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Civil-Rights Courtroom Dual Audience](concepts/CivilRightsCourtroomDualAudience.md) — Distinguishes formal adjudication from the community-facing political meaning of visible legal challenge.
+- [Strategic Composure Under Injustice](concepts/StrategicComposureUnderInjustice.md) — Agent-chosen regulation of response to preserve preparation, protection, credibility, and timely action under unequal power.
+- [Racialized Institutional Self-Coordination](concepts/RacializedInstitutionalSelfCoordination.md) — Mechanism by which shared assumptions align official actors into mutually reinforcing injustice without a central plan.
 - [Chronic Traumatic Encephalopathy Evidence Boundary](concepts/ChronicTraumaticEncephalopathyEvidenceBoundary.md) — Separates postmortem pathology and repeated-impact concern from representative prevalence and individual suicide causation.
 - [Precautionary Action Under Uncertainty](concepts/PrecautionaryActionUnderUncertainty.md) — Principle that credible severe risk can justify proportionate action before every causal question is settled.
 - [Memory Error as Character Inference](concepts/MemoryErrorCharacterInference.md) — Boundary between correcting a false or changing recollection and inferring deliberate deception or stable moral character.

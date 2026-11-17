@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14736
+wiki_total_pages: 14739
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "Verizon"
     title: "Verizon"
     url: "/wiki/entities/verizon/"
+  - key: "VernonJordan"
+    title: "Vernon Jordan"
+    url: "/wiki/entities/vernonjordan/"
   - key: "VeroBiosciences"
     title: "Vero Biosciences"
     url: "/wiki/entities/verobiosciences/"

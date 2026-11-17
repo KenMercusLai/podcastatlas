@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14736
+wiki_total_pages: 14739
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1025,6 +1025,9 @@ wiki_pages:
   - key: "DonaldKeene"
     title: "Donald Keene / 唐纳德·基恩"
     url: "/wiki/entities/donaldkeene/"
+  - key: "DonaldHollowell"
+    title: "Donald L. Hollowell"
+    url: "/wiki/entities/donaldhollowell/"
   - key: "DonaldTrump"
     title: "Donald Trump"
     url: "/wiki/entities/donaldtrump/"

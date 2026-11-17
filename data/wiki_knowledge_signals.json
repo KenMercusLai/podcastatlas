@@ -58573,6 +58573,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/civilrightscoalitionmanagement/"
     },
+    "CivilRightsCourtroomDualAudience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
+          "key": "mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that",
+          "show": "Revisionist History",
+          "title": "Mr. Hollowell Didn’t Like That",
+          "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/civilrightscourtroomdualaudience/"
+    },
     "CivilServiceExamSecurityGamble": {
       "episode_count": 1,
       "show_count": 1,
@@ -86935,6 +86951,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/donaldbradman/"
+    },
+    "DonaldHollowell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
+          "key": "mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that",
+          "show": "Revisionist History",
+          "title": "Mr. Hollowell Didn’t Like That",
+          "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/donaldhollowell/"
     },
     "DonationsOfAlexandria": {
       "episode_count": 1,
@@ -267896,6 +267928,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/racializedfinancialguardianship/"
     },
+    "RacializedInstitutionalSelfCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
+          "key": "mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that",
+          "show": "Revisionist History",
+          "title": "Mr. Hollowell Didn’t Like That",
+          "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/racializedinstitutionalselfcoordination/"
+    },
     "RacializedSecondChanceAsymmetry": {
       "episode_count": 1,
       "show_count": 1,
@@ -306220,6 +306268,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/strategicbordercorridordependence/"
     },
+    "StrategicComposureUnderInjustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
+          "key": "mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that",
+          "show": "Revisionist History",
+          "title": "Mr. Hollowell Didn’t Like That",
+          "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/strategiccomposureunderinjustice/"
+    },
     "StrategicComputeCapacity": {
       "episode_count": 1,
       "show_count": 1,
@@ -332492,6 +332556,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/vernacularscripturereach/"
     },
+    "VernonJordan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
+          "key": "mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that",
+          "show": "Revisionist History",
+          "title": "Mr. Hollowell Didn’t Like That",
+          "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/vernonjordan/"
+    },
     "VeroBiosciences": {
       "episode_count": 1,
       "show_count": 1,
@@ -344133,6 +344213,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/williamwalworth/"
+    },
+    "WillieNash": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Mr_Hollowell_Didn_t_Like_That [Mr_Hollowell_Didn_t_Like_That].md",
+          "key": "mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that",
+          "show": "Revisionist History",
+          "title": "Mr. Hollowell Didn’t Like That",
+          "url": "/wiki/sources/mr-hollowell-didn-t-like-that-mr-hollowell-didn-t-like-that/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/willienash/"
     },
     "WillieWhitelaw": {
       "episode_count": 2,

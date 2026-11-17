@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11695
+wiki_total_pages: 11698
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1319,6 +1319,9 @@ wiki_pages:
   - key: "CivilRightsCoalitionManagement"
     title: "Civil-Rights Coalition Management"
     url: "/wiki/concepts/civilrightscoalitionmanagement/"
+  - key: "CivilRightsCourtroomDualAudience"
+    title: "Civil-Rights Courtroom Dual Audience"
+    url: "/wiki/concepts/civilrightscourtroomdualaudience/"
   - key: "CivilServiceExamSecurityGamble"
     title: "Civil-Service Exam Security Gamble / 考编安全豪赌"
     url: "/wiki/concepts/civilserviceexamsecuritygamble/"

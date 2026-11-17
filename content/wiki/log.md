@@ -42831,3 +42831,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Mr. Hollowell Didn’t Like That
+
+Added the 2017 [[RevisionistHistory]] episode on [[DonaldHollowell|Donald L. Hollowell]], [[VernonJordan|Vernon Jordan]], and [[WillieNash|Willie Nash]]. Created focused profiles for all three and added [[CivilRightsCourtroomDualAudience]], [[StrategicComposureUnderInjustice]], and [[RacializedInstitutionalSelfCoordination]].
+
+Core synthesis: Hollowell’s legal work addressed both formal decision-makers and Black communities watching a Black lawyer exercise authority inside a hostile system. Preparation, evidentiary challenge, and controlled public conduct could secure concrete relief, preserve movement capacity, or create political education even when officials withheld prosecution or reform. Those outcomes remain distinct: symbolic authority is meaningful but not equivalent to legal justice.
+
+The Nash case supports a structural account of mutually reinforcing racial injustice without requiring a centrally organized conspiracy. Police, witnesses, prosecution, press, and an all-white legal order could validate one another because shared presumptions already aligned their roles. This account preserves individual responsibility and the need to investigate explicit coordination while explaining why the absence of a conspiracy does not establish institutional neutrality.
+
+No settled contradiction was adopted. The supplied file is a structured episode summary rather than a transcript, trial record, police file, contemporaneous press archive, or complete biography. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MartinLutherKingJr]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,216 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
