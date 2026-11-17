@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14721
+wiki_total_pages: 14723
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "ChrisMcKleroy"
     title: "Chris McKleroy"
     url: "/wiki/entities/chrismckleroy/"
+  - key: "ChrisNowinski"
+    title: "Chris Nowinski"
+    url: "/wiki/entities/chrisnowinski/"
   - key: "ChrisOlah"
     title: "Chris Olah"
     url: "/wiki/entities/chrisolah/"

@@ -42745,3 +42745,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Burden of Proof
+
+Added the 2018 [[RevisionistHistory]] episode using [[OwenThomas|Owen Thomas's]] death, posthumous CTE diagnosis, [[ChrisNowinski|Chris Nowinski's]] research explanation, and Frederick Hoffman's coal-dust history to distinguish individual causal certainty from institutional responsibility under credible severe risk. Created focused profiles for Thomas and Nowinski, plus [[ChronicTraumaticEncephalopathyEvidenceBoundary]] and [[PrecautionaryActionUnderUncertainty]].
+
+Core synthesis: repeated head impacts and postmortem tau pathology create a serious reason for concern, but a selected donated-brain sample cannot establish population prevalence and one diagnosis cannot assign a single cause to a suicide. Those limits constrain claims without making continued exposure the neutral default. Institutions should compare severity, reversibility, intervention effectiveness, and the cost of delay, then justify monitoring, reduction, redesign, pause, or cessation proportionately.
+
+No settled contradiction was adopted. The source extends [[FootballPlayerSafetyTrustRisk]] from NFL business legitimacy to college duty and distinguishes partial reforms from the stronger question of whether play should continue. The 110-of-111 figure, symptom associations, Thomas and Kyle Ambrose narratives, Penn's response, and the coal-dust analogy remain episode-scoped because the supplied file is a structured summary rather than a transcript, neuropathology record, representative cohort, university archive, or independent causal review. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[NationalFootballLeague|NFL]], University of Pennsylvania, and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,210 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

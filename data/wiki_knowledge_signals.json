@@ -56819,6 +56819,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/chrismckleroy/"
     },
+    "ChrisNowinski": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Burden_of_Proof [Burden_of_Proof].md",
+          "key": "burden-of-proof-burden-of-proof",
+          "show": "Revisionist History",
+          "title": "Burden of Proof",
+          "url": "/wiki/sources/burden-of-proof-burden-of-proof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/chrisnowinski/"
+    },
     "ChrisOlah": {
       "episode_count": 1,
       "show_count": 1,
@@ -57455,6 +57471,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/chronicpharyngitismanagement/"
+    },
+    "ChronicTraumaticEncephalopathyEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Burden_of_Proof [Burden_of_Proof].md",
+          "key": "burden-of-proof-burden-of-proof",
+          "show": "Revisionist History",
+          "title": "Burden of Proof",
+          "url": "/wiki/sources/burden-of-proof-burden-of-proof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/chronictraumaticencephalopathyevidenceboundary/"
     },
     "ChronicleBiographicalHistoryForms": {
       "episode_count": 1,
@@ -116762,6 +116794,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/footballimperialnetworkdiffusion/"
+    },
+    "FootballPlayerSafetyTrustRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The NFL ｜ Acquired (1) [the-nfl-1].md",
+          "key": "the-nfl-1",
+          "show": "Acquired",
+          "title": "The NFL",
+          "url": "/wiki/sources/the-nfl-1/"
+        },
+        {
+          "episode_file": "Burden_of_Proof [Burden_of_Proof].md",
+          "key": "burden-of-proof-burden-of-proof",
+          "show": "Revisionist History",
+          "title": "Burden of Proof",
+          "url": "/wiki/sources/burden-of-proof-burden-of-proof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/footballplayersafetytrustrisk/"
     },
     "FootballSquadResilience": {
       "episode_count": 1,
@@ -242281,6 +242336,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/owainglyndwr/"
     },
+    "OwenThomas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Burden_of_Proof [Burden_of_Proof].md",
+          "key": "burden-of-proof-burden-of-proof",
+          "show": "Revisionist History",
+          "title": "Burden of Proof",
+          "url": "/wiki/sources/burden-of-proof-burden-of-proof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/owenthomas/"
+    },
     "OwenZidar": {
       "episode_count": 1,
       "show_count": 1,
@@ -258217,6 +258288,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/preachingasfailedconnection/"
+    },
+    "PrecautionaryActionUnderUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Burden_of_Proof [Burden_of_Proof].md",
+          "key": "burden-of-proof-burden-of-proof",
+          "show": "Revisionist History",
+          "title": "Burden of Proof",
+          "url": "/wiki/sources/burden-of-proof-burden-of-proof/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/precautionaryactionunderuncertainty/"
     },
     "PrecautionaryTechnologyRegulation": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11686
+wiki_total_pages: 11688
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "ChronicInsomniaRecognitionAndTreatment"
     title: "Chronic Insomnia Recognition and Treatment"
     url: "/wiki/concepts/chronicinsomniarecognitionandtreatment/"
+  - key: "ChronicTraumaticEncephalopathyEvidenceBoundary"
+    title: "Chronic Traumatic Encephalopathy Evidence Boundary"
+    url: "/wiki/concepts/chronictraumaticencephalopathyevidenceboundary/"
   - key: "ChronicleChronologyDrift"
     title: "Chronicle Chronology Drift / 编年错位"
     url: "/wiki/concepts/chroniclechronologydrift/"

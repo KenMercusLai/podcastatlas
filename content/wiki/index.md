@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Burden of Proof](sources/burden-of-proof-burden-of-proof.md) — Revisionist History uses Owen Thomas's CTE diagnosis and a coal-dust analogy to distinguish causal uncertainty from institutional justification for continued football exposure.
 - [A Polite Word for Liar](sources/a-polite-word-for-liar-a-polite-word-for-liar.md) — Revisionist History uses Larry Adler and John Weitz's conflicting Munich memories to separate factual error, deliberate deception, narrative style, and moral character.
 - [Free Brian Williams](sources/free-brian-williams-free-brian-williams.md) — Revisionist History uses Brian Williams's changing Iraq account and longitudinal September 11 research to separate vivid confidence, factual consistency, intent, and verification duty.
 - [General Chapman’s Last Stand](sources/general-chapman-s-last-stand-general-chapman-s-last-stand.md) — Revisionist History argues that costlier border crossing suppressed return migration and helped turn a circular labor flow into permanent settlement.
@@ -5337,6 +5338,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
+- [Owen Thomas](entities/OwenThomas.md) — Penn football captain whose death and posthumous CTE diagnosis anchor the episode's precautionary argument.
+- [Chris Nowinski](entities/ChrisNowinski.md) — researcher who requested preservation of Owen Thomas's brain tissue and explains the CTE evidence limits.
 - [Larry Adler](entities/LarryAdler.md) — Harmonica virtuoso and candid raconteur whose memory errors, principled sacrifices, and storytelling complicate a global judgment of dishonesty.
 - [John Weitz](entities/JohnWeitz.md) — German Jewish refugee and OSS operative whose secrecy and changing Munich accounts illustrate the interpretive limits of wartime memory.
 - [Brian Williams](entities/BrianWilliams.md) — Journalist whose false Iraq helicopter account becomes a case study in reconstructive memory, unresolved intent, and independent verification duty.
@@ -20155,6 +20158,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Chronic Traumatic Encephalopathy Evidence Boundary](concepts/ChronicTraumaticEncephalopathyEvidenceBoundary.md) — Separates postmortem pathology and repeated-impact concern from representative prevalence and individual suicide causation.
+- [Precautionary Action Under Uncertainty](concepts/PrecautionaryActionUnderUncertainty.md) — Principle that credible severe risk can justify proportionate action before every causal question is settled.
 - [Memory Error as Character Inference](concepts/MemoryErrorCharacterInference.md) — Boundary between correcting a false or changing recollection and inferring deliberate deception or stable moral character.
 - [Flashbulb Memory](concepts/FlashbulbMemory.md) — Vivid, highly confident recall of dramatic public events whose details and chronology can still change over time.
 - [Circular Migration](concepts/CircularMigration.md) — Repeated movement between home and work destinations rather than one-way permanent settlement.
