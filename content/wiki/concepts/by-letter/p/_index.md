@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11679
+wiki_total_pages: 11681
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3002,6 +3002,9 @@ wiki_pages:
   - key: "PuerAeternus"
     title: "Puer Aeternus / 永恒少年"
     url: "/wiki/concepts/pueraeternus/"
+  - key: "PullTheGoalieDecisionRule"
+    title: "Pull the Goalie Decision Rule"
+    url: "/wiki/concepts/pullthegoaliedecisionrule/"
   - key: "PunchedCardAdministration"
     title: "Punched Card Administration / 打孔卡行政"
     url: "/wiki/concepts/punchedcardadministration/"

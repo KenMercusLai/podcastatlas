@@ -7191,6 +7191,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/aaronbraun/"
     },
+    "AaronBrownFinance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell's_12_Rules_for_Life [Malcolm_Gladwell's_12_Rules_for_Life].md",
+          "key": "malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell's 12 Rules for Life",
+          "url": "/wiki/sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/aaronbrownfinance/"
+    },
     "AaronBurr": {
       "episode_count": 2,
       "show_count": 2,
@@ -59437,6 +59453,22 @@
       ],
       "updated": "2026-11-03",
       "url": "/wiki/concepts/clientdirectedtherapeuticnavigation/"
+    },
+    "CliffAsness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell's_12_Rules_for_Life [Malcolm_Gladwell's_12_Rules_for_Life].md",
+          "key": "malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell's 12 Rules for Life",
+          "url": "/wiki/sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/cliffasness/"
     },
     "CliffordIrving": {
       "episode_count": 1,
@@ -263975,6 +264007,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/pueryunnan/"
     },
+    "PullTheGoalieDecisionRule": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell's_12_Rules_for_Life [Malcolm_Gladwell's_12_Rules_for_Life].md",
+          "key": "malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell's 12 Rules for Life",
+          "url": "/wiki/sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/pullthegoaliedecisionrule/"
+    },
     "PulmonaryNoduleSurveillance": {
       "episode_count": 3,
       "show_count": 1,
@@ -295820,6 +295868,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/situationalcharactertests/"
+    },
+    "SituationalDisagreeableness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Malcolm_Gladwell's_12_Rules_for_Life [Malcolm_Gladwell's_12_Rules_for_Life].md",
+          "key": "malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life",
+          "show": "Revisionist History",
+          "title": "Malcolm Gladwell's 12 Rules for Life",
+          "url": "/wiki/sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/situationaldisagreeableness/"
     },
     "SituationalStrictLenientGovernance": {
       "episode_count": 4,

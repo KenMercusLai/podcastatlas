@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14708
+wiki_total_pages: 14710
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "AaronBraun"
     title: "Aaron Braun"
     url: "/wiki/entities/aaronbraun/"
+  - key: "AaronBrownFinance"
+    title: "Aaron Brown (finance)"
+    url: "/wiki/entities/aaronbrownfinance/"
   - key: "AaronBurns"
     title: "Aaron Burns"
     url: "/wiki/entities/aaronburns/"

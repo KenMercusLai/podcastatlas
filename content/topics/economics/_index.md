@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2413
+topic_total_pages: 2415
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3614,6 +3614,9 @@ topic_entities:
   - key: "AaronWhatsNext"
     title: "Aaron (What's Next guest)"
     url: "/wiki/entities/aaronwhatsnext/"
+  - key: "AaronBrownFinance"
+    title: "Aaron Brown (finance)"
+    url: "/wiki/entities/aaronbrownfinance/"
   - key: "AaronSojourner"
     title: "Aaron Sojourner"
     url: "/wiki/entities/aaronsojourner/"
@@ -4073,6 +4076,9 @@ topic_entities:
   - key: "ClaudiaGoldin"
     title: "Claudia Goldin"
     url: "/wiki/entities/claudiagoldin/"
+  - key: "CliffAsness"
+    title: "Cliff Asness"
+    url: "/wiki/entities/cliffasness/"
   - key: "CocaCola"
     title: "Coca-Cola"
     url: "/wiki/entities/cocacola/"

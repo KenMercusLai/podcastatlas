@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11679
+wiki_total_pages: 11681
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "SituatedMediaObservation"
     title: "Situated Media Observation / 在场的媒体观察"
     url: "/wiki/concepts/situatedmediaobservation/"
+  - key: "SituationalDisagreeableness"
+    title: "Situational Disagreeableness"
+    url: "/wiki/concepts/situationaldisagreeableness/"
   - key: "SixStateRestorationAntiQinStrategy"
     title: "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略"
     url: "/wiki/concepts/sixstaterestorationantiqinstrategy/"

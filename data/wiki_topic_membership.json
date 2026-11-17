@@ -12643,6 +12643,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AaronBrownFinance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AaronBurr": [
     {
       "key": "politics",
@@ -26312,6 +26319,13 @@
     }
   ],
   "ClientCenteredWealthManagement": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "CliffAsness": [
     {
       "key": "economics",
       "label": "Economics",

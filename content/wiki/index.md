@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Malcolm Gladwell's 12 Rules for Life](sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life.md) — Revisionist History turns an early-goalie-pull model into a qualified rule for choosing recovery odds over respectable-looking defeat and treating approval independence as situational.
 - [The Imaginary Crimes of Margit Hamosh](sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh.md) — Revisionist History connects Hamosh's language-centered misconduct case, leaked findings, journalistic complicity, mass sociogenic illness, and displaced fear.
 - [Strong Verbs, Short Sentences](sources/strong-verbs-short-sentences-strong-verbs-short-sentences.md) — Revisionist History uses Bernadine Healy, Ramesh Sharma, and John Dingell to connect scientific-fraud panic, career-damaging accusation, congressional pressure, and misconduct appeal rights.
 - [Show 62 - Supernova in the East I](sources/dchha62-supernova-in-the-east-i-dchha62-supernova-in-the-east-i.md) — Hardcore History connects Onoda's holdout, Tokugawa control, reconstructed Bushido, Meiji modernization, imperial expansion, military insubordination, and Shanghai's short-war failure.
@@ -5332,6 +5333,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
+- [Cliff Asness](entities/CliffAsness.md) — Quantitative investor whose early-goalie-pull analysis and low-stakes kindness illustrate context-sensitive independence from approval.
+- [Aaron Brown (finance)](entities/AaronBrownFinance.md) — Finance and poker figure joining quantitative convention-challenging to a warning about analytical detachment's relational cost.
 - [Margit Hamosh](entities/MargitHamosh.md) — Georgetown medical researcher whose misconduct prosecution over ambiguous grant wording illustrates premature accusation and lasting harm.
 - [Mikulas Popovic](entities/MikulasPopovic.md) — NIH virologist whose misconduct case over disputed notation illustrates the need to reconstruct language, editing, and intent.
 - [Bernadine Healy](entities/BernadineHealy.md) — First woman to direct NIH, represented as a women's-health reformer and defender of scientific-misconduct due process.
@@ -20137,6 +20140,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Pull the Goalie Decision Rule](concepts/PullTheGoalieDecisionRule.md) — Practice of optimizing recovery probability rather than the appearance of respectable defeat while retaining ethical and model limits.
+- [Situational Disagreeableness](concepts/SituationalDisagreeableness.md) — Selective independence from approval when convention obstructs consequential judgment, bounded by accountability and low-cost kindness.
 - [Displaced Fear Attribution](concepts/DisplacedFearAttribution.md) — Process by which genuine anxiety survives its originating crisis and attaches to a new target without adequate causal evidence.
 - [Scientific Misconduct Due Process](concepts/ScientificMisconductDueProcess.md) — Procedure separating error from intentional deception through notice, response, proportionality, leak control, and independent appeal.
 - [Scientific Fraud Panic](concepts/ScientificFraudPanic.md) — Escalation loop in which political incentives, investigations, leaks, and public hearings make accusation appear stronger than its evidence.

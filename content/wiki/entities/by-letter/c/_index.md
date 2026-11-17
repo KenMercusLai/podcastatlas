@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14708
+wiki_total_pages: 14710
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1472,6 +1472,9 @@ wiki_pages:
   - key: "Clico"
     title: "Clico"
     url: "/wiki/entities/clico/"
+  - key: "CliffAsness"
+    title: "Cliff Asness"
+    url: "/wiki/entities/cliffasness/"
   - key: "CliffordIrving"
     title: "Clifford Irving"
     url: "/wiki/entities/cliffordirving/"
