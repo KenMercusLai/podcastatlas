@@ -7,7 +7,8 @@ sources:
   - vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o
   - essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
-last_updated: 2026-09-27
+  - vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,14 +28,16 @@ The mechanism layer now matters alongside the label layer. Sugar control is not 
 
 The Lustig interview sharpens the food-structure and public-environment layers. Whole fruit remains distinct from juice because fiber, cell structure, chewing, and delivery pace matter; occasional dessert remains distinct from sugar appearing across breakfast, drinks, snacks, bread, sauce, and yogurt. Its simplest advice—reduce added sugar and sweetened drinks, favor intact fiber-rich foods, and walk after meals when appropriate—fits the existing hierarchy, while exact grams-per-serving and ingredient-count rules remain source-scoped rather than universal cutoffs.
 
+VOL.228 turns the same anti-absolutist judgment into a daily routine. Adequate carbohydrate and energy remain necessary, while portion, cooking softness, sugar-fat combinations, meal order, regular timing, sleep, stress, and post-meal movement shape [[PostprandialGlycemicStability|postprandial glycemic stability]]. Its added clinical boundary is that repeated post-meal somnolence, symptomatic low readings, abnormal screening glucose, or menstrual and persistent skin changes belong in [[GlucoseAbnormalityTriage|contextual triage]], not in self-diagnosis from one symptom, AI menu, or consumer device curve.
+
 ## Key Claims
 - Sugar control should reduce shame by recognizing sweet preference as a biological and environmental pattern, not only an individual willpower failure.
 - The highest-priority cuts are liquid sugar and unconscious sugar because they are easy to consume repeatedly without chewing or satiety cues.
-- Staple foods should be managed by structure, portion, refinement, meal pairing, and chewing rather than treated as equivalent to added sugar.
+- Staple foods should be managed by structure, portion, refinement, cooking softness, meal order, pairing, and chewing rather than removed or treated as equivalent to added sugar.
 - Label literacy and supportive defaults matter because marketing claims can hide meaningful exposure while school meals, prices, availability, and formulation shape whether practical choices are feasible.
 - Health-coded products still need ordinary nutrition checks because wellness framing does not override calories, carbohydrate load, dose, frequency, population fit, or craving biology.
-- Sweet foods can remain occasional pleasures when the person understands frequency, dose, and the sugar-fat structure of desserts.
-- The framework is public nutrition education and does not replace individualized guidance for diabetes, fatty liver, metabolic disease, or eating distress.
+- Sweet foods can remain occasional pleasures when the person understands frequency, dose, and the sugar-fat structure of desserts, while gradual reduction may be more sustainable than abrupt restriction.
+- The framework is public nutrition education and does not replace individualized triage or guidance for hypoglycemia, diabetes, fatty liver, reproductive symptoms, metabolic disease, or eating distress.
 
 ## Evidence
 - Shame reduction and mechanism: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] explains sweet preference through evolution, stress, sleep, exercise, emotion, and modern food design.
@@ -46,15 +49,17 @@ The Lustig interview sharpens the food-structure and public-environment layers. 
 - Conscious enjoyment: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] frames occasional cake or milk tea as compatible with long-term control when intake is deliberate and bounded.
 - Food structure and repetition: [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] separates whole fruit from juice, occasional dessert from repeated daily sugar exposure, and fiber-rich foods from refined or sweetened products.
 - Environmental feasibility: [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] argues that knowledge, access, affordability, labels, school meals, and product formulation shape whether personal advice is actionable.
+- Adequacy and sustainability: [[vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv]] rejects blanket carbohydrate elimination, feast-fast compensation, routine late-night eating, and one-size plans while favoring gradual sweet-drink reduction and repeatable meals.
+- Meal-level execution: [[vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv]] adds cooking softness, sauce and oil context, vegetables and protein before staples, and light post-meal movement.
+- Clinical boundary: [[vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv]] keeps repeated symptoms, low readings, insulin-resistance testing, reproductive changes, and individualized care outside generic diet advice.
 
 ## Counterevidence & Qualifications
-The sources are podcast summaries, not clinical guidelines. They do not give personalized targets for people with diabetes, fatty liver, gout, pregnancy, eating disorders, kidney disease, postoperative recovery, adolescent growth, elder frailty, cancer risk, hypoglycemia risk, medication use, or other metabolic and psychiatric conditions. Their strongest shared recommendation is behavioral triage: reduce the sugar and carbohydrate forms that are fast, repeated, invisible, over-marketed, highly reinforcing, or low-value, while keeping medical decisions, supplements, glucose-lowering tools, and disease management inside qualified care. The Lustig source's enzyme, inflammation, sweetener, policy-effect, and numeric-threshold claims lack complete methods and do not become universal rules here.
+The sources are podcast summaries, not clinical guidelines. They do not give personalized targets for people with diabetes, fatty liver, gout, pregnancy, eating disorders, kidney disease, postoperative recovery, adolescent growth, elder frailty, cancer risk, hypoglycemia risk, medication use, or other metabolic and psychiatric conditions. Their strongest shared recommendation is behavioral triage: reduce the sugar and carbohydrate forms that are fast, repeated, invisible, over-marketed, highly reinforcing, or low-value, while keeping medical decisions, supplements, glucose-lowering tools, fasting, and disease management inside qualified care. The Lustig source's mechanism, policy-effect, and threshold claims and VOL.228's food rankings, test choices, and numeric glucose cutoffs lack complete methods or patient context and do not become universal rules here.
 
 ## What Changed
-- Added whole-fruit, intact-fiber, occasional-dessert, post-meal-walking, and food-environment context from the Lustig interview.
-- Kept simple grams-per-serving and ingredient-count heuristics source-scoped rather than universal thresholds.
-- Added the Huberman Lab sugar-cravings mechanism layer linking practical sugar control to gut-brain signaling, dopamine wanting, glucose response, fructose, and sleep.
-- The current judgment now treats high-reinforcement sugar signals, not just hidden labels, as a practical control target.
+- Added a daily execution layer based on cooking texture, meal order, regular timing, gradual reduction, and post-meal movement.
+- Made adequate energy and carbohydrate explicit boundaries against extreme sugar-control practice.
+- Added symptom and measurement triage without turning episode-reported thresholds into universal diagnostic rules.
 
 ## Related Concepts
 - [[LiquidSugarRisk]] - priority target because sugar in drinks and juices is easy to consume quickly and repeatedly.
@@ -63,6 +68,8 @@ The sources are podcast summaries, not clinical guidelines. They do not give per
 - [[NutritionLabelSugarTraps]] - label-literacy practice needed to find hidden sugar and misleading claims.
 - [[SugarCravingNeuralControl]] - mechanism branch explaining sugar seeking through hormones, glucose, dopamine, and gut-to-brain signaling.
 - [[GlycemicResponseToolBoundary]] - practical boundary around food context, lemon/lime juice, cinnamon, glutamine, and stronger glucose-lowering tools.
+- [[PostprandialGlycemicStability]] - meal-level application through cooking, order, timing, and movement.
+- [[GlucoseAbnormalityTriage]] - clinical boundary for repeated symptoms, abnormal readings, and selected testing.
 - [[FunctionalFoodMarketingClaimSkepticism]] - broader claim-screening frame for health-coded products that can still carry sugar, carbohydrate, or dose problems.
 - [[MealReplacementNutritionBoundary]] - product-use boundary where sugar control intersects with protein, energy, carbohydrate, and replacement-meal claims.
 - [[SweetenerUncertainty]] - substitute-sugar boundary that keeps non-sugar sweeteners from becoming unlimited permission.

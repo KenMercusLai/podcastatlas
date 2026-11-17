@@ -43188,3 +43188,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | VOL.228认清“升糖刺客” 别再盲目“断碳水”！内分泌医生教你“无痛控糖法”
+
+Added a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode bringing endocrinology and dermatology perspectives to sustainable glucose control, insulin resistance, food form, cooking, meal order, sleep, stress, movement, and symptom escalation. Created [[PostprandialGlycemicStability]] and [[GlucoseAbnormalityTriage]], and resynthesized [[PracticalSugarControl]] and [[GlycationSkinAnxiety]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: glucose control is not carbohydrate elimination. Adequate energy and staple foods remain part of ordinary eating, while liquid sugar, sugar-fat combinations, over-softened starches, portions, sauces, meal sequence, regular timing, gradual sweet-drink reduction, and post-meal movement shape a more sustainable pattern. Repeated marked post-meal somnolence, abnormal screening glucose, symptomatic low readings, or persistent menstrual and skin changes deserve contextual assessment rather than diagnosis from one sensation, appearance, AI menu, or wearable value.
+
+No settled contradiction was adopted. The episode-reported glucose thresholds, “PMOS” nomenclature, food rankings, insulin-resistance mechanisms, and selected tests remain source-scoped because the supplied file is a structured summary rather than a transcript, guideline, laboratory record, or individualized assessment. Broad show, weight-management, PCOS, CGM, and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,241 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

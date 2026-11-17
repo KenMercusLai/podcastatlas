@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11735
+wiki_total_pages: 11737
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1814,6 +1814,9 @@ wiki_pages:
   - key: "PostpartumPelvicFloorRehabilitation"
     title: "Postpartum Pelvic-Floor Rehabilitation / 产后盆底康复"
     url: "/wiki/concepts/postpartumpelvicfloorrehabilitation/"
+  - key: "PostprandialGlycemicStability"
+    title: "Postprandial Glycemic Stability / 餐后血糖稳定"
+    url: "/wiki/concepts/postprandialglycemicstability/"
   - key: "PostwarCaribbeanBritishSettlement"
     title: "Postwar Caribbean British Settlement"
     url: "/wiki/concepts/postwarcaribbeanbritishsettlement/"

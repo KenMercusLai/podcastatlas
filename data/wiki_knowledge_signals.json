@@ -131165,6 +131165,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/gloriasteinem/"
     },
+    "GlucoseAbnormalityTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo6yY17ouB-bV9wpHT6qHY3MJFZV [lo6yY17ouB-bV9wpHT6qHY3MJFZV].md",
+          "key": "vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv",
+          "show": "这病说来话长",
+          "title": "VOL.228认清“升糖刺客” 别再盲目“断碳水”！内分泌医生教你“无痛控糖法”",
+          "url": "/wiki/sources/vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/glucoseabnormalitytriage/"
+    },
     "GluteHypertrophyProgramming": {
       "episode_count": 1,
       "show_count": 1,
@@ -131212,9 +131228,9 @@
       "url": "/wiki/concepts/glutemediuspelviccontrol/"
     },
     "GlycationSkinAnxiety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -131229,9 +131245,16 @@
           "show": "这病说来话长",
           "title": "VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密",
           "url": "/wiki/sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j/"
+        },
+        {
+          "episode_file": "lo6yY17ouB-bV9wpHT6qHY3MJFZV [lo6yY17ouB-bV9wpHT6qHY3MJFZV].md",
+          "key": "vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv",
+          "show": "这病说来话长",
+          "title": "VOL.228认清“升糖刺客” 别再盲目“断碳水”！内分泌医生教你“无痛控糖法”",
+          "url": "/wiki/sources/vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/glycationskinanxiety/"
     },
     "GlycemicResponseToolBoundary": {
@@ -259127,6 +259150,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/postpartumpelvicfloorrehabilitation/"
     },
+    "PostprandialGlycemicStability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo6yY17ouB-bV9wpHT6qHY3MJFZV [lo6yY17ouB-bV9wpHT6qHY3MJFZV].md",
+          "key": "vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv",
+          "show": "这病说来话长",
+          "title": "VOL.228认清“升糖刺客” 别再盲目“断碳水”！内分泌医生教你“无痛控糖法”",
+          "url": "/wiki/sources/vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/postprandialglycemicstability/"
+    },
     "PostwarAdministrativeRetrenchment": {
       "episode_count": 1,
       "show_count": 1,
@@ -259763,9 +259802,9 @@
       "url": "/wiki/concepts/practicalbalancedeating/"
     },
     "PracticalSugarControl": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -259794,9 +259833,16 @@
           "show": "Huberman Lab",
           "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
           "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        },
+        {
+          "episode_file": "lo6yY17ouB-bV9wpHT6qHY3MJFZV [lo6yY17ouB-bV9wpHT6qHY3MJFZV].md",
+          "key": "vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv",
+          "show": "这病说来话长",
+          "title": "VOL.228认清“升糖刺客” 别再盲目“断碳水”！内分泌医生教你“无痛控糖法”",
+          "url": "/wiki/sources/vol-228-renqing-shengtang-cike-bie-zai-mangmu-duan-tanshui-neifenmi-yisheng-jiao-ni-wutong-kongtangfa-lo6yy17oub-bv9wpht6qhy3mjfzv/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/practicalsugarcontrol/"
     },
     "PracticeBeforeFeeling": {
