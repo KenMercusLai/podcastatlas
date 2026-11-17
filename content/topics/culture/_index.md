@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3786
+topic_total_pages: 3787
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2929,6 +2929,9 @@ topic_concepts:
   - key: "ProblematicClassicContextualization"
     title: "Problematic Classic Contextualization"
     url: "/wiki/concepts/problematicclassiccontextualization/"
+  - key: "ProceduralLegitimacy"
+    title: "Procedural Legitimacy"
+    url: "/wiki/concepts/procedurallegitimacy/"
   - key: "ProducerOwnedIPUpside"
     title: "Producer-Owned IP Upside"
     url: "/wiki/concepts/producerownedipupside/"

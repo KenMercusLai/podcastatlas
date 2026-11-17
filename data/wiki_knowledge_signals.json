@@ -69128,9 +69128,9 @@
       "url": "/wiki/concepts/counterfeitsupplychainmodularization/"
     },
     "CounterinsurgencyLegitimacyTrap": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -69152,9 +69152,16 @@
           "show": "The Rest Is History",
           "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
           "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
+        },
+        {
+          "episode_file": "Revisionist_History_Presents_The_Limits_of_Power [Revisionist_History_Presents_The_Limits_of_Power].md",
+          "key": "revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power",
+          "show": "Revisionist History",
+          "title": "Revisionist History Presents: The Limits of Power",
+          "url": "/wiki/sources/revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/counterinsurgencylegitimacytrap/"
     },
     "CounterpointResearch": {
@@ -107999,6 +108006,29 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/fallenvanguardheirreward/"
+    },
+    "FallsCurfew": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "Revisionist_History_Presents_The_Limits_of_Power [Revisionist_History_Presents_The_Limits_of_Power].md",
+          "key": "revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power",
+          "show": "Revisionist History",
+          "title": "Revisionist History Presents: The Limits of Power",
+          "url": "/wiki/sources/revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/fallscurfew/"
     },
     "FalseBalanceControversyPersistence": {
       "episode_count": 1,
@@ -259257,6 +259287,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/problematicclassiccontextualization/"
     },
+    "ProceduralLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_Presents_The_Limits_of_Power [Revisionist_History_Presents_The_Limits_of_Power].md",
+          "key": "revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power",
+          "show": "Revisionist History",
+          "title": "Revisionist History Presents: The Limits of Power",
+          "url": "/wiki/sources/revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/procedurallegitimacy/"
+    },
     "ProceduralizedViolence": {
       "episode_count": 2,
       "show_count": 2,
@@ -278727,6 +278773,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/rosebertin/"
+    },
+    "RosemaryLawler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Revisionist_History_Presents_The_Limits_of_Power [Revisionist_History_Presents_The_Limits_of_Power].md",
+          "key": "revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power",
+          "show": "Revisionist History",
+          "title": "Revisionist History Presents: The Limits of Power",
+          "url": "/wiki/sources/revisionist-history-presents-the-limits-of-power-revisionist-history-presents-the-limits-of-power/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/rosemarylawler/"
     },
     "RosettaStone": {
       "episode_count": 2,

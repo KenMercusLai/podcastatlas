@@ -42408,3 +42408,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Revisionist History Presents: The Limits of Power
+
+Added a [[RevisionistHistory]] episode connecting the [[FallsCurfew]], classroom discipline, and contemporary policing through [[ProceduralLegitimacy]]: people subject to authority need meaningful voice, predictable rules, and fair treatment. Created [[RosemaryLawler]] as the central civilian witness and resynthesized [[FallsCurfew]] and [[CounterinsurgencyLegitimacyTrap]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: the Lower Falls operation recovered weapons but became a strategic legitimacy failure through rejected mediation, sectarian-looking enforcement, destructive searches, family confinement, civilian harm, and force against women carrying food. The source shows how authority can help produce the defiance it later cites as justification for greater coercion.
+
+No settled contradiction was adopted. The episode agrees with prior coverage that weapons were recovered and Catholic trust was damaged, while its classroom analogy does not make education and counterinsurgency equivalent. Exact casualty responsibility, the representativeness of individual testimony, and wider republican and loyalist motives remain source-scoped. Broad [[MalcolmGladwell]], [[TheTroubles]], [[BritishArmy]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,186 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

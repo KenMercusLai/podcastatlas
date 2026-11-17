@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11650
+wiki_total_pages: 11651
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2348,6 +2348,9 @@ wiki_pages:
   - key: "ProblematicClassicContextualization"
     title: "Problematic Classic Contextualization"
     url: "/wiki/concepts/problematicclassiccontextualization/"
+  - key: "ProceduralLegitimacy"
+    title: "Procedural Legitimacy"
+    url: "/wiki/concepts/procedurallegitimacy/"
   - key: "ProceduralizedViolence"
     title: "Proceduralized Violence / 程序化暴力"
     url: "/wiki/concepts/proceduralizedviolence/"
