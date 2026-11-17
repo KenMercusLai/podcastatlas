@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14760
+wiki_total_pages: 14762
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "MarkRowlands"
     title: "Mark Rowlands / 马克·罗兰兹"
     url: "/wiki/entities/markrowlands/"
+  - key: "MarkSaylor"
+    title: "Mark Saylor"
+    url: "/wiki/entities/marksaylor/"
   - key: "MarkSmith"
     title: "Mark Smith"
     url: "/wiki/entities/marksmith/"

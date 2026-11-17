@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2415
+topic_total_pages: 2414
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2851,9 +2851,6 @@ topic_concepts:
   - key: "RiskParity"
     title: "Risk Parity"
     url: "/wiki/concepts/riskparity/"
-  - key: "RiskPerception"
-    title: "Risk Perception"
-    url: "/wiki/concepts/riskperception/"
   - key: "RiskBudgetedAbsoluteReturn"
     title: "Risk-Budgeted Absolute Return / 风险预算绝对收益"
     url: "/wiki/concepts/riskbudgetedabsolutereturn/"

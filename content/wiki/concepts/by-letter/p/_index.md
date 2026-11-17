@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11710
+wiki_total_pages: 11713
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
+  - key: "PedalMisapplicationUnderStress"
+    title: "Pedal Misapplication Under Stress"
+    url: "/wiki/concepts/pedalmisapplicationunderstress/"
   - key: "Pedestrianism"
     title: "Pedestrianism"
     url: "/wiki/concepts/pedestrianism/"

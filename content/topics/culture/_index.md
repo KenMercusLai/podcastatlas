@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3801
+topic_total_pages: 3803
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1975,6 +1975,9 @@ topic_concepts:
   - key: "InstitutionalMechanismSatire"
     title: "Institutional Mechanism Satire"
     url: "/wiki/concepts/institutionalmechanismsatire/"
+  - key: "InstitutionalTechnologyBlame"
+    title: "Institutional Technology Blame"
+    url: "/wiki/concepts/institutionaltechnologyblame/"
   - key: "InstitutionalizedFantasyWorldbuilding"
     title: "Institutionalized Fantasy Worldbuilding / 制度化幻想世界构建"
     url: "/wiki/concepts/institutionalizedfantasyworldbuilding/"
@@ -10596,6 +10599,9 @@ topic_sources:
   - key: "big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c"
     title: "Big shot: does a cancer vaccine work?"
     url: "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+  - key: "blame-game-blame-game"
+    title: "Blame Game"
+    url: "/wiki/sources/blame-game-blame-game/"
   - key: "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell"
     title: "Blink with Stephen Gaghan | Development Hell"
     url: "/wiki/sources/blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell/"

@@ -52035,6 +52035,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "InstitutionalTechnologyBlame": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "InstitutionalTrustAIAdoption": [
     {
       "key": "technology",
@@ -81423,11 +81435,6 @@
   ],
   "RiskPerception": [
     {
-      "key": "economics",
-      "label": "Economics",
-      "url": "/topics/economics/"
-    },
-    {
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
@@ -108276,6 +108283,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "blame-game-blame-game": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell": [

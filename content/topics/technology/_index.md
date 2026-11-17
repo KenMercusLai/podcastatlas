@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3887
+topic_total_pages: 3888
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3115,6 +3115,9 @@ topic_concepts:
   - key: "InstitutionalKnowledgeTransfer"
     title: "Institutional Knowledge Transfer"
     url: "/wiki/concepts/institutionalknowledgetransfer/"
+  - key: "InstitutionalTechnologyBlame"
+    title: "Institutional Technology Blame"
+    url: "/wiki/concepts/institutionaltechnologyblame/"
   - key: "InstitutionalTrustAIAdoption"
     title: "Institutional Trust in AI Adoption"
     url: "/wiki/concepts/institutionaltrustaiadoption/"

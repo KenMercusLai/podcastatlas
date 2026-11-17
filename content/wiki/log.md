@@ -43011,3 +43011,13 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Blame Game
+
+Added the 2016 [[RevisionistHistory]] episode reassessing the [[Toyota]] sudden-acceleration scandal through [[MarkSaylor|Mark Saylor's]] fatal crash, controlled brake tests, official event-recorder findings, and [[DickSchmidt|Dick Schmidt's]] human-performance research. Created focused pages for Saylor and Schmidt, plus [[PedalMisapplicationUnderStress]], [[HumanErrorWithoutNegligence]], and [[InstitutionalTechnologyBlame]], then resynthesized Toyota and [[RiskPerception]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: functioning brakes overpowered the engines in the episode's tests, while cross-manufacturer patterns and recorders showing no brake application support pedal misapplication as an explanation for many events. A driver can sincerely intend to brake while pressing the accelerator, especially under panic or unfamiliar geometry; that causal human error does not by itself establish negligence. Vivid tragedy and mutually reinforcing media, political, legal, and consumer responses can privilege a technological explanation before causation is settled.
+
+No settled contradiction was adopted. The supplied file is a structured, argumentative summary rather than the NHTSA/NASA report, raw recorder data, crash record, software audit, litigation record, or Toyota response. Track tests on selected vehicles do not reconstruct every incident, and pedal error can coexist with trapped throttles, design defects, brake problems, or institutional misconduct. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,228 sources across 811 overview paragraphs and nine topics.

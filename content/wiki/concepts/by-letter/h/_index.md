@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11710
+wiki_total_pages: 11713
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "HumanDataContributorIncentiveAlignment"
     title: "Human Data Contributor Incentive Alignment / 人类数据贡献者激励对齐"
     url: "/wiki/concepts/humandatacontributorincentivealignment/"
+  - key: "HumanErrorWithoutNegligence"
+    title: "Human Error Without Negligence"
+    url: "/wiki/concepts/humanerrorwithoutnegligence/"
   - key: "HumanExperienceContentPremium"
     title: "Human Experience Content Premium / 真人体验内容溢价"
     url: "/wiki/concepts/humanexperiencecontentpremium/"

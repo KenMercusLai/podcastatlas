@@ -29263,6 +29263,10 @@
     "title": "Diaspora Official Geopolitical Exposure",
     "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
   },
+  "DickSchmidt": {
+    "title": "Dick Schmidt",
+    "url": "/wiki/entities/dickschmidt/"
+  },
   "DickSusskind": {
     "title": "Dick Susskind",
     "url": "/wiki/entities/dicksusskind/"
@@ -48079,6 +48083,10 @@
     "title": "Human-Driven Scientific AI",
     "url": "/wiki/concepts/humandrivenscientificai/"
   },
+  "HumanErrorWithoutNegligence": {
+    "title": "Human Error Without Negligence",
+    "url": "/wiki/concepts/humanerrorwithoutnegligence/"
+  },
   "HumanExperienceContentPremium": {
     "title": "Human Experience Content Premium / 真人体验内容溢价",
     "url": "/wiki/concepts/humanexperiencecontentpremium/"
@@ -50118,6 +50126,10 @@
   "InstitutionalSpeechPunishment": {
     "title": "Institutional Speech Punishment",
     "url": "/wiki/concepts/institutionalspeechpunishment/"
+  },
+  "InstitutionalTechnologyBlame": {
+    "title": "Institutional Technology Blame",
+    "url": "/wiki/concepts/institutionaltechnologyblame/"
   },
   "InstitutionalTitleTranslation": {
     "title": "Institutional-Title Translation / 制度称谓翻译",
@@ -63791,6 +63803,10 @@
     "title": "Mark Rowlands / 马克·罗兰兹",
     "url": "/wiki/entities/markrowlands/"
   },
+  "MarkSaylor": {
+    "title": "Mark Saylor",
+    "url": "/wiki/entities/marksaylor/"
+  },
   "MarkSmith": {
     "title": "Mark Smith",
     "url": "/wiki/entities/marksmith/"
@@ -74414,6 +74430,10 @@
   "Pebble": {
     "title": "Pebble",
     "url": "/wiki/entities/pebble/"
+  },
+  "PedalMisapplicationUnderStress": {
+    "title": "Pedal Misapplication Under Stress",
+    "url": "/wiki/concepts/pedalmisapplicationunderstress/"
   },
   "PedestrianProject": {
     "title": "Pedestrian Project",
@@ -111838,6 +111858,10 @@
   "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131": {
     "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
     "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
+  },
+  "blame-game-blame-game": {
+    "title": "Blame Game",
+    "url": "/wiki/sources/blame-game-blame-game/"
   },
   "blink-with-stephen-gaghan-development-hell-blink-with-stephen-gaghan-development-hell": {
     "title": "Blink with Stephen Gaghan | Development Hell",

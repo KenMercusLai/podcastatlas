@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Blame Game](sources/blame-game-blame-game.md) — Revisionist History re-examines Toyota sudden acceleration through brake tests, pedal-error research, event-recorder evidence, and the distinction between human error and negligence.
 - [Generous Orthodoxy](sources/generous-orthodoxy-generous-orthodoxy.md) — Revisionist History connects Chester Wenger's costly support for his gay son with Princeton's Wilson dispute to frame institutionally loyal but morally disobedient reform.
 - [The Satire Paradox](sources/the-satire-paradox-the-satire-paradox.md) — Revisionist History separates satire's reach from persuasion through divergent audience interpretation, comic release, target-softening, and discomfort-preserving alternatives.
 - [Introducing Revisionist History Season Two](sources/introducing-revisionist-history-season-two.md) — Season-two trailer using Heraclitus and the Ship of Theseus to frame identity through change while leaving the proposed common thread open to disagreement.
@@ -5356,6 +5357,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Mark Saylor](entities/MarkSaylor.md) — California Highway Patrol officer whose fatal loaner-Lexus crash became the catalytic case in the Toyota sudden-acceleration scandal.
+- [Dick Schmidt](entities/DickSchmidt.md) — Human-movement researcher whose work explains how intended braking can diverge from executed pedal movement.
 - [Chester Wenger](entities/ChesterWenger.md) — Mennonite pastor whose decision to officiate at his gay son's wedding cost his credentials while deepening his appeal to the church's own faith and obligations.
 - [Phil Wenger](entities/PhilWenger.md) — Chester Wenger's gay son, whose church exclusion, renewed Episcopal belonging, and marriage make doctrine's communal costs concrete.
 - [Heather LaMar](entities/HeatherLaMar.md) — Communications scholar whose reported Colbert study separates shared laughter from shared political interpretation.
@@ -20214,6 +20217,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Pedal Misapplication Under Stress](concepts/PedalMisapplicationUnderStress.md) — Wrong-pedal action produced when panic, unfamiliar geometry, and motor variability separate intended from executed movement.
+- [Human Error Without Negligence](concepts/HumanErrorWithoutNegligence.md) — Distinguishes ordinary consequential mistakes from reckless or morally culpable conduct.
+- [Institutional Technology Blame](concepts/InstitutionalTechnologyBlame.md) — Preference for machine or software explanations when ordinary human fallibility is uncomfortable or institutionally costly to acknowledge.
 - [Generous Orthodoxy](concepts/GenerousOrthodoxy.md) — Costly, purpose-directed dissent that combines belonging to an institution with disobedience to rules judged contrary to its deepest commitments.
 - [Satire Reception Paradox](concepts/SatireReceptionParadox.md) — Trade-off in which ambiguity broadens comic appeal while allowing audiences to preserve incompatible political interpretations.
 - [Discomfort-Preserving Satire](concepts/DiscomfortPreservingSatire.md) — Humor that draws audiences in while keeping its target, harm, and political consequences emotionally present.

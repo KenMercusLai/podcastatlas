@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14760
+wiki_total_pages: 14762
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "DianeAndKurtHorning"
     title: "Diane and Kurt Horning"
     url: "/wiki/entities/dianeandkurthorning/"
+  - key: "DickSchmidt"
+    title: "Dick Schmidt"
+    url: "/wiki/entities/dickschmidt/"
   - key: "DickSusskind"
     title: "Dick Susskind"
     url: "/wiki/entities/dicksusskind/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11710
+wiki_total_pages: 11713
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "InstitutionalSpeechPunishment"
     title: "Institutional Speech Punishment"
     url: "/wiki/concepts/institutionalspeechpunishment/"
+  - key: "InstitutionalTechnologyBlame"
+    title: "Institutional Technology Blame"
+    url: "/wiki/concepts/institutionaltechnologyblame/"
   - key: "InstitutionalTrustAIAdoption"
     title: "Institutional Trust in AI Adoption"
     url: "/wiki/concepts/institutionaltrustaiadoption/"

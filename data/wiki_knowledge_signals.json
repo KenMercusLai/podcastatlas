@@ -83572,6 +83572,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
     },
+    "DickSchmidt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/dickschmidt/"
+    },
     "DickSusskind": {
       "episode_count": 1,
       "show_count": 1,
@@ -155036,6 +155052,22 @@
       "updated": "2026-08-18",
       "url": "/wiki/concepts/humandrivenscientificai/"
     },
+    "HumanErrorWithoutNegligence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/humanerrorwithoutnegligence/"
+    },
     "HumanExperienceContentPremium": {
       "episode_count": 2,
       "show_count": 2,
@@ -163191,6 +163223,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/concepts/institutionalreputationfeedbackloop/"
+    },
+    "InstitutionalTechnologyBlame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/institutionaltechnologyblame/"
     },
     "InstitutionalTitleTranslation": {
       "episode_count": 1,
@@ -211307,6 +211355,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/markluanfanshu/"
     },
+    "MarkSaylor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/marksaylor/"
+    },
     "MarkStiltner": {
       "episode_count": 1,
       "show_count": 1,
@@ -247454,6 +247518,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/peasantsrevolt1381/"
     },
+    "PedalMisapplicationUnderStress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/pedalmisapplicationunderstress/"
+    },
     "Pedestrianism": {
       "episode_count": 1,
       "show_count": 1,
@@ -277966,6 +278046,29 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/riskknowledgeactiongap/"
+    },
+    "RiskPerception": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇 [lk5jkGNZVZerYmCixYlsdQdtn7F8].md",
+          "key": "vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8",
+          "show": "起朱楼宴宾客",
+          "title": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇",
+          "url": "/wiki/sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8/"
+        },
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/riskperception/"
     },
     "RiskRiskTradeoff": {
       "episode_count": 1,
@@ -325419,6 +325522,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/toydesignhumancreativityboundary/"
+    },
+    "Toyota": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548 [default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548].md",
+          "key": "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what",
+          "show": "Planet Money",
+          "title": "The Supreme Court struck down a bunch of Trump's tariffs. Now what?",
+          "url": "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
+        },
+        {
+          "episode_file": "vol.108.日本五大综合商社：重返舞台中央 [lhAmP3Hn14iiHcIcpa8po5dVh6gQ].md",
+          "key": "vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq",
+          "show": "起朱楼宴宾客",
+          "title": "vol.108.日本五大综合商社：重返舞台中央",
+          "url": "/wiki/sources/vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq/"
+        },
+        {
+          "episode_file": "Blame_Game [Blame_Game].md",
+          "key": "blame-game-blame-game",
+          "show": "Revisionist History",
+          "title": "Blame Game",
+          "url": "/wiki/sources/blame-game-blame-game/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/toyota/"
     },
     "ToyotaProductionSystemPersonalWaste": {
       "episode_count": 1,
