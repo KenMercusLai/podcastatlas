@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Hug Heard Round the World](sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world.md) — Revisionist History uses Sammy Davis Jr.'s Nixon embrace, civil-rights record, and Rosabeth Kanter's research to examine token isolation, conditional belonging, and constrained accommodation.
 - [Malcolm Gladwell's 12 Rules for Life](sources/malcolm-gladwell-s-12-rules-for-life-malcolm-gladwell-s-12-rules-for-life.md) — Revisionist History turns an early-goalie-pull model into a qualified rule for choosing recovery odds over respectable-looking defeat and treating approval independence as situational.
 - [The Imaginary Crimes of Margit Hamosh](sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh.md) — Revisionist History connects Hamosh's language-centered misconduct case, leaked findings, journalistic complicity, mass sociogenic illness, and displaced fear.
 - [Strong Verbs, Short Sentences](sources/strong-verbs-short-sentences-strong-verbs-short-sentences.md) — Revisionist History uses Bernadine Healy, Ramesh Sharma, and John Dingell to connect scientific-fraud panic, career-damaging accusation, congressional pressure, and misconduct appeal rights.
@@ -5333,6 +5334,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
+- [Sammy Davis Jr.](entities/SammyDavisJr.md) — Entertainer whose Nixon embrace, civil-rights work, and conditional access expose the costs of isolated minority inclusion.
+- [Rosabeth Kanter](entities/RosabethKanter.md) — Organizational scholar connecting numerical isolation to visibility, stereotyping, and majority loyalty tests.
+- [Malcolm X](entities/MalcolmX.md) — Black political leader whose house-versus-field metaphor supplies the episode's initial indictment of accommodation and community betrayal.
 - [Cliff Asness](entities/CliffAsness.md) — Quantitative investor whose early-goalie-pull analysis and low-stakes kindness illustrate context-sensitive independence from approval.
 - [Aaron Brown (finance)](entities/AaronBrownFinance.md) — Finance and poker figure joining quantitative convention-challenging to a warning about analytical detachment's relational cost.
 - [Margit Hamosh](entities/MargitHamosh.md) — Georgetown medical researcher whose misconduct prosecution over ambiguous grant wording illustrates premature accusation and lasting harm.
@@ -20140,6 +20144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Tokenism](concepts/Tokenism.md) — Conditional inclusion in which numerical isolation produces scrutiny, category representation, stereotypes, and loyalty tests without equivalent power or freedom.
 - [Pull the Goalie Decision Rule](concepts/PullTheGoalieDecisionRule.md) — Practice of optimizing recovery probability rather than the appearance of respectable defeat while retaining ethical and model limits.
 - [Situational Disagreeableness](concepts/SituationalDisagreeableness.md) — Selective independence from approval when convention obstructs consequential judgment, bounded by accountability and low-cost kindness.
 - [Displaced Fear Attribution](concepts/DisplacedFearAttribution.md) — Process by which genuine anxiety survives its originating crisis and attaches to a new target without adequate causal evidence.

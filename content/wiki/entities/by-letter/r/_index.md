@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14710
+wiki_total_pages: 14713
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "Ropet"
     title: "Ropet"
     url: "/wiki/entities/ropet/"
+  - key: "RosabethKanter"
+    title: "Rosabeth Kanter"
+    url: "/wiki/entities/rosabethkanter/"
   - key: "RoseBertin"
     title: "Rose Bertin"
     url: "/wiki/entities/rosebertin/"

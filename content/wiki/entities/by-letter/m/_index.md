@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14710
+wiki_total_pages: 14713
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "MalcolmTurnbull"
     title: "Malcolm Turnbull"
     url: "/wiki/entities/malcolmturnbull/"
+  - key: "MalcolmX"
+    title: "Malcolm X"
+    url: "/wiki/entities/malcolmx/"
   - key: "Malibu"
     title: "Malibu"
     url: "/wiki/entities/malibu/"

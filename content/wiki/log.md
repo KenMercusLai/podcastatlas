@@ -42689,3 +42689,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Hug Heard Round the World
+
+Added a [[RevisionistHistory]] episode that reconsiders [[SammyDavisJr|Sammy Davis Jr.]] embracing [[RichardNixon|Richard Nixon]] through Davis's racist exclusion, pursuit of white institutional access, civil-rights record, economic dependence, and public humiliation. Created focused synthesis-first profiles for Davis, [[RosabethKanter|Rosabeth Kanter]], and [[MalcolmX|Malcolm X]], plus [[Tokenism]].
+
+Core synthesis: numerical inclusion is not equivalent to secure belonging or shared power. Extreme visibility can make one person represent a category, invite stereotyped roles, and impose loyalty tests such as distancing from one's group or laughing along with degrading humor. Davis's support for Nixon and acceptance of a racist roast remain politically consequential, but his marches, donations, bail support, family responsibilities, and isolation make those acts poor evidence for a simple sellout judgment.
+
+No settled contradiction was adopted. Kanter's study concerned women in one male sales force, so applying it to race, celebrity, and politics is an episode-level analogy. The framework complicates judgment without proving that Davis lacked agency or could not have refused particular choices. Claims about motives, dialogue, financial dependence, audience response, and causal structure remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, biography, or original research study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and [[RichardNixon]] profiles and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,206 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

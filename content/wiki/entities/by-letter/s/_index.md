@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14710
+wiki_total_pages: 14713
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "SamirNurmohamed"
     title: "Samir Nurmohamed"
     url: "/wiki/entities/samirnurmohamed/"
+  - key: "SammyDavisJr"
+    title: "Sammy Davis Jr."
+    url: "/wiki/entities/sammydavisjr/"
   - key: "Samnites"
     title: "Samnites / 萨莫奈人"
     url: "/wiki/entities/samnites/"

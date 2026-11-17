@@ -207787,6 +207787,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/malcolmturnbull/"
     },
+    "MalcolmX": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Hug_Heard_Round_the_World [The_Hug_Heard_Round_the_World].md",
+          "key": "the-hug-heard-round-the-world-the-hug-heard-round-the-world",
+          "show": "Revisionist History",
+          "title": "The Hug Heard Round the World",
+          "url": "/wiki/sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/malcolmx/"
+    },
     "MaleDefaultMedicalKnowledge": {
       "episode_count": 1,
       "show_count": 1,
@@ -280130,6 +280146,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/rootcauseremonstrance/"
     },
+    "RosabethKanter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Hug_Heard_Round_the_World [The_Hug_Heard_Round_the_World].md",
+          "key": "the-hug-heard-round-the-world-the-hug-heard-round-the-world",
+          "show": "Revisionist History",
+          "title": "The Hug Heard Round the World",
+          "url": "/wiki/sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/rosabethkanter/"
+    },
     "RoseBertin": {
       "episode_count": 1,
       "show_count": 1,
@@ -283515,6 +283547,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/samirnurmohamed/"
+    },
+    "SammyDavisJr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Hug_Heard_Round_the_World [The_Hug_Heard_Round_the_World].md",
+          "key": "the-hug-heard-round-the-world-the-hug-heard-round-the-world",
+          "show": "Revisionist History",
+          "title": "The Hug Heard Round the World",
+          "url": "/wiki/sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/sammydavisjr/"
     },
     "Samnites": {
       "episode_count": 3,
@@ -322316,6 +322364,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/tokentaxonai/"
+    },
+    "Tokenism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Hug_Heard_Round_the_World [The_Hug_Heard_Round_the_World].md",
+          "key": "the-hug-heard-round-the-world-the-hug-heard-round-the-world",
+          "show": "Revisionist History",
+          "title": "The Hug Heard Round the World",
+          "url": "/wiki/sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/tokenism/"
     },
     "TokenizedMarketStructure": {
       "episode_count": 1,
