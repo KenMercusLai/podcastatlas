@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14758
+wiki_total_pages: 14760
 wiki_pages:
   - key: "PearlHarborAttack"
     title: "Attack on Pearl Harbor"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "PhilSokoloff"
     title: "Phil Sokoloff"
     url: "/wiki/entities/philsokoloff/"
+  - key: "PhilWenger"
+    title: "Phil Wenger"
+    url: "/wiki/entities/philwenger/"
   - key: "PhiladelphiaPhillies"
     title: "Philadelphia Phillies"
     url: "/wiki/entities/philadelphiaphillies/"

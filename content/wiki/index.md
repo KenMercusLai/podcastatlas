@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Generous Orthodoxy](sources/generous-orthodoxy-generous-orthodoxy.md) — Revisionist History connects Chester Wenger's costly support for his gay son with Princeton's Wilson dispute to frame institutionally loyal but morally disobedient reform.
 - [The Satire Paradox](sources/the-satire-paradox-the-satire-paradox.md) — Revisionist History separates satire's reach from persuasion through divergent audience interpretation, comic release, target-softening, and discomfort-preserving alternatives.
 - [Introducing Revisionist History Season Two](sources/introducing-revisionist-history-season-two.md) — Season-two trailer using Heraclitus and the Ship of Theseus to frame identity through change while leaving the proposed common thread open to disagreement.
 - [A Good Walk Spoiled](sources/a-good-walk-spoiled-a-good-walk-spoiled.md) — Revisionist History connects private Los Angeles golf land, layered property-tax preferences, gradual ownership change, and scheduled public access.
@@ -5355,6 +5356,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Chester Wenger](entities/ChesterWenger.md) — Mennonite pastor whose decision to officiate at his gay son's wedding cost his credentials while deepening his appeal to the church's own faith and obligations.
+- [Phil Wenger](entities/PhilWenger.md) — Chester Wenger's gay son, whose church exclusion, renewed Episcopal belonging, and marriage make doctrine's communal costs concrete.
 - [Heather LaMar](entities/HeatherLaMar.md) — Communications scholar whose reported Colbert study separates shared laughter from shared political interpretation.
 - [Stephen Colbert's Satirical Persona](entities/StephenColbertSatiricalPersona.md) — Performed conservative television host whose ambiguity widened appeal while enabling opposed ideological readings.
 - [Loadsamoney](entities/Loadsamoney.md) — Thatcher-era construction-worker caricature used by both critics and supporters of the politics it was designed to mock.
@@ -20211,6 +20214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Generous Orthodoxy](concepts/GenerousOrthodoxy.md) — Costly, purpose-directed dissent that combines belonging to an institution with disobedience to rules judged contrary to its deepest commitments.
 - [Satire Reception Paradox](concepts/SatireReceptionParadox.md) — Trade-off in which ambiguity broadens comic appeal while allowing audiences to preserve incompatible political interpretations.
 - [Discomfort-Preserving Satire](concepts/DiscomfortPreservingSatire.md) — Humor that draws audiences in while keeping its target, harm, and political consequences emotionally present.
 - [Ship of Theseus](concepts/ShipOfTheseus.md) — Persistence problem exposing competing identity criteria under gradual component replacement across philosophy, institutions, and technology.

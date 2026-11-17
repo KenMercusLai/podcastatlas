@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11709
+wiki_total_pages: 11710
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "GenericDrugTrustRebuilding"
     title: "Generic Drug Trust Rebuilding / 仿制药再信任"
     url: "/wiki/concepts/genericdrugtrustrebuilding/"
+  - key: "GenerousOrthodoxy"
+    title: "Generous Orthodoxy"
+    url: "/wiki/concepts/generousorthodoxy/"
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"

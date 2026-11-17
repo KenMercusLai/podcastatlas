@@ -42997,3 +42997,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Generous Orthodoxy
+
+Added the 2016 [[RevisionistHistory]] episode on [[ChesterWenger]], [[PhilWenger]], Mennonite LGBTQ exclusion, and the [[PrincetonUniversity|Princeton]] dispute over honoring [[WoodrowWilson]]. Created the two Wenger profiles and [[GenerousOrthodoxy]], then resynthesized Princeton and Wilson from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: institutional loyalty and moral disobedience can reinforce each other when reform appeals to a community's deepest commitments, acts rather than merely speaks, and accepts real cost. Chester Wenger supplies the strong case because he officiated at his son's wedding, lost credentials held since 1948, and continued addressing his church through scripture and reconciliation. Gladwell's proposed Princeton boycott is kept explicitly hypothetical rather than treated as evidence that sacrifice or conciliatory rhetoric guarantees reform.
+
+No settled contradiction was adopted. The Princeton analogy is weaker than Wenger's combined risk to family, faith, vocation, and communal identity; anger, confrontation, litigation, outsider pressure, and refusal may also be necessary. Wilson's racism and federal segregation role, church procedure, dialogue, audience reach, and persuasion effects remain source-scoped because the supplied document is a structured summary rather than a transcript or primary record. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,227 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

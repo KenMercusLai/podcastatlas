@@ -54206,6 +54206,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/chesternimitz/"
     },
+    "ChesterWenger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Generous_Orthodoxy [Generous_Orthodoxy].md",
+          "key": "generous-orthodoxy-generous-orthodoxy",
+          "show": "Revisionist History",
+          "title": "Generous Orthodoxy",
+          "url": "/wiki/sources/generous-orthodoxy-generous-orthodoxy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/chesterwenger/"
+    },
     "ChesterWilliams": {
       "episode_count": 1,
       "show_count": 1,
@@ -127318,6 +127334,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/genericdrugtrustrebuilding/"
+    },
+    "GenerousOrthodoxy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Generous_Orthodoxy [Generous_Orthodoxy].md",
+          "key": "generous-orthodoxy-generous-orthodoxy",
+          "show": "Revisionist History",
+          "title": "Generous Orthodoxy",
+          "url": "/wiki/sources/generous-orthodoxy-generous-orthodoxy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/generousorthodoxy/"
     },
     "GenesisMission": {
       "episode_count": 2,
@@ -250995,6 +251027,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/philsokoloff/"
     },
+    "PhilWenger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Generous_Orthodoxy [Generous_Orthodoxy].md",
+          "key": "generous-orthodoxy-generous-orthodoxy",
+          "show": "Revisionist History",
+          "title": "Generous Orthodoxy",
+          "url": "/wiki/sources/generous-orthodoxy-generous-orthodoxy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/philwenger/"
+    },
     "PhilanthropicNeglectedness": {
       "episode_count": 1,
       "show_count": 1,
@@ -260747,6 +260795,29 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/princessedelamballe/"
+    },
+    "PrincetonUniversity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_47c44117077592d965fbe530ab015a6e_24658828 [default.mp3_ywr3ahjkcgo_47c44117077592d965fbe530ab015a6e_24658828].md",
+          "key": "the-skyscrapers-that-nimbys-and-zoning-couldnt-stop",
+          "show": "Planet Money",
+          "title": "The skyscrapers that NIMBYs and zoning couldn't stop",
+          "url": "/wiki/sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop/"
+        },
+        {
+          "episode_file": "Generous_Orthodoxy [Generous_Orthodoxy].md",
+          "key": "generous-orthodoxy-generous-orthodoxy",
+          "show": "Revisionist History",
+          "title": "Generous Orthodoxy",
+          "url": "/wiki/sources/generous-orthodoxy-generous-orthodoxy/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/princetonuniversity/"
     },
     "PrincipateConstitutionalFiction": {
       "episode_count": 2,
@@ -345883,9 +345954,9 @@
       "url": "/wiki/entities/wongjing/"
     },
     "WoodrowWilson": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3632974949 [GLT3632974949].md",
@@ -345893,9 +345964,16 @@
           "show": "The Rest Is History",
           "title": "673. The First World War: The Submarine Strikes (Part 3)",
           "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
+        },
+        {
+          "episode_file": "Generous_Orthodoxy [Generous_Orthodoxy].md",
+          "key": "generous-orthodoxy-generous-orthodoxy",
+          "show": "Revisionist History",
+          "title": "Generous Orthodoxy",
+          "url": "/wiki/sources/generous-orthodoxy-generous-orthodoxy/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/woodrowwilson/"
     },
     "WorkFromHomeEvidence": {
