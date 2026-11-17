@@ -37594,6 +37594,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/bobhawke/"
     },
+    "BobHope": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/bobhope/"
+    },
     "BobIger": {
       "episode_count": 2,
       "show_count": 2,
@@ -40086,6 +40102,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/brendanglavin/"
+    },
+    "BrentwoodCountryClub": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/brentwoodcountryclub/"
     },
     "BretContreras": {
       "episode_count": 1,
@@ -131241,6 +131273,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/goldentrailworldseries/"
     },
+    "GolfCoursePropertyTaxPreference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/golfcoursepropertytaxpreference/"
+    },
     "GoneWithTheWind": {
       "episode_count": 2,
       "show_count": 2,
@@ -133016,9 +133064,9 @@
       "url": "/wiki/entities/graceannupholstery/"
     },
     "GradualOwnershipChange": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Revenge_of_A_Good_Walk_Spoiled [Revenge_of_A_Good_Walk_Spoiled].md",
@@ -133026,9 +133074,16 @@
           "show": "Revisionist History",
           "title": "Revenge of A Good Walk Spoiled",
           "url": "/wiki/sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled/"
+        },
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/gradualownershipchange/"
     },
     "GradualParentChildRelationship": {
@@ -211038,6 +211093,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/entities/markcarney/"
+    },
+    "MarkCohen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/markcohen/"
     },
     "MarkDEsposito": {
       "episode_count": 1,
@@ -308708,9 +308779,9 @@
       "url": "/wiki/concepts/subscriptionvsalgorithmpodcastdistribution/"
     },
     "SubsidizedPrivateLandReciprocity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Revenge_of_A_Good_Walk_Spoiled [Revenge_of_A_Good_Walk_Spoiled].md",
@@ -308718,9 +308789,16 @@
           "show": "Revisionist History",
           "title": "Revenge of A Good Walk Spoiled",
           "url": "/wiki/sources/revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled/"
+        },
+        {
+          "episode_file": "A_Good_Walk_Spoiled [A_Good_Walk_Spoiled].md",
+          "key": "a-good-walk-spoiled-a-good-walk-spoiled",
+          "show": "Revisionist History",
+          "title": "A Good Walk Spoiled",
+          "url": "/wiki/sources/a-good-walk-spoiled-a-good-walk-spoiled/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/subsidizedprivatelandreciprocity/"
     },
     "SubstanceSleepArchitectureBoundary": {

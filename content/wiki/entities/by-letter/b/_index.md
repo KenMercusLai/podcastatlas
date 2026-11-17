@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14751
+wiki_total_pages: 14754
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "BobHawke"
     title: "Bob Hawke"
     url: "/wiki/entities/bobhawke/"
+  - key: "BobHope"
+    title: "Bob Hope"
+    url: "/wiki/entities/bobhope/"
   - key: "BobIger"
     title: "Bob Iger"
     url: "/wiki/entities/bobiger/"
@@ -1256,6 +1259,9 @@ wiki_pages:
   - key: "BrentHocking"
     title: "Brent Hocking"
     url: "/wiki/entities/brenthocking/"
+  - key: "BrentwoodCountryClub"
+    title: "Brentwood Country Club"
+    url: "/wiki/entities/brentwoodcountryclub/"
   - key: "BretContreras"
     title: "Bret Contreras"
     url: "/wiki/entities/bretcontreras/"

@@ -42955,3 +42955,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | A Good Walk Spoiled
+
+Added the 2017 [[RevisionistHistory]] episode on private Los Angeles golf land, layered property-tax preferences, gradual ownership change, and scheduled public access. Created focused profiles for [[BrentwoodCountryClub]], [[BobHope]], and [[MarkCohen]], plus [[GolfCoursePropertyTaxPreference]], then resynthesized [[GradualOwnershipChange]] and [[SubsidizedPrivateLandReciprocity]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: a rule intended to preserve recreational open space can also create a durable private advantage when layered with frozen assessments and transaction-by-transaction ownership tests. The Ship of Theseus makes that continuity choice visible but does not decide the law; any continued preference should be evaluated through verified fiscal cost, preserved public value, exclusion, and feasible reciprocal benefits such as scheduled access.
+
+No settled contradiction was adopted. The original episode and [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|2026 follow-up]] belong to the same reporting lineage and are not independent corroboration. Valuations, tax payments, course capacity, usage, CEO-performance associations, membership turnover, and comparative-access details remain episode-scoped pending primary records. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,224 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

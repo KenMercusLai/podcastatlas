@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14751
+wiki_total_pages: 14754
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "MarkCarwardine"
     title: "Mark Carwardine / 马克·卡沃丁"
     url: "/wiki/entities/markcarwardine/"
+  - key: "MarkCohen"
+    title: "Mark Cohen"
+    url: "/wiki/entities/markcohen/"
   - key: "MarkCuban"
     title: "Mark Cuban"
     url: "/wiki/entities/markcuban/"

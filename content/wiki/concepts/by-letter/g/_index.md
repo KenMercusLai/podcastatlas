@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11705
+wiki_total_pages: 11706
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "GoldenAgeNarrative"
     title: "Golden-Age Narrative"
     url: "/wiki/concepts/goldenagenarrative/"
+  - key: "GolfCoursePropertyTaxPreference"
+    title: "Golf-Course Property-Tax Preference"
+    url: "/wiki/concepts/golfcoursepropertytaxpreference/"
   - key: "GoodCompanyGoodStock"
     title: "Good Company Vs Good Stock"
     url: "/wiki/concepts/goodcompanygoodstock/"
