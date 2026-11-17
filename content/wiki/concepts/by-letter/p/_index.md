@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11704
+wiki_total_pages: 11705
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2141,6 +2141,9 @@ wiki_pages:
   - key: "PressureLossAnalysis"
     title: "Pressure-Loss Analysis"
     url: "/wiki/concepts/pressurelossanalysis/"
+  - key: "PressIntelligenceDisclosureDilemma"
+    title: "Press–Intelligence Disclosure Dilemma"
+    url: "/wiki/concepts/pressintelligencedisclosuredilemma/"
   - key: "PrestigeSupplyChainCostExternalization"
     title: "Prestige Supply Chain Cost Externalization / 声望供应链成本外部化"
     url: "/wiki/concepts/prestigesupplychaincostexternalization/"

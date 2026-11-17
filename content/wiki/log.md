@@ -42941,3 +42941,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | The Road to Damascus
+
+Added the 2017 [[RevisionistHistory]] episode on an unnamed former terrorist who volunteered intelligence as atonement, helped the [[CIA]] locate [[CarlosTheJackal|Carlos the Jackal]], and was later killed after a [[NewYorkTimes|New York Times]] article disclosed that distinctive operational achievement. Created focused profiles for Carlos, [[TimWeiner]], and [[JohnRizzo]], plus [[PressIntelligenceDisclosureDilemma]], then resynthesized the CIA, [[SpySourceProtection]], and [[SecondChanceRecognitionFailure]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: democratic oversight and investigative reporting were warranted because the CIA used an asset implicated in attacks on Americans without prior law-enforcement consultation. Yet removing nationality, affiliation, and attack locations may not protect a source when one rare operational achievement identifies him by inference. Accountability for past violence and recognition of later atonement can coexist, and accepting a changed person's service creates protective obligations without conferring absolution.
+
+No settled contradiction was adopted. Rizzo's account implies publication led to the killing, while Weiner argues that CIA procedure and official dissemination created the danger. The classified record does not establish how the asset was identified or allocate exclusive responsibility among recruitment, oversight disclosure, editorial judgment, the asset's refusal of evacuation, and hostile investigation. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[NewYorkTimes]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,223 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

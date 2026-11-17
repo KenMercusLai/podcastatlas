@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3589
+topic_total_pages: 3590
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3646,6 +3646,9 @@ topic_concepts:
   - key: "PresidentialSystem"
     title: "Presidential System"
     url: "/wiki/concepts/presidentialsystem/"
+  - key: "PressIntelligenceDisclosureDilemma"
+    title: "Press–Intelligence Disclosure Dilemma"
+    url: "/wiki/concepts/pressintelligencedisclosuredilemma/"
   - key: "PrestigeConstrainedPoliticalProsecution"
     title: "Prestige-Constrained Political Prosecution / 名望约束下的政治追诉"
     url: "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"

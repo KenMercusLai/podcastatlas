@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14748
+wiki_total_pages: 14751
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "CarlosPrats"
     title: "Carlos Prats"
     url: "/wiki/entities/carlosprats/"
+  - key: "CarlosTheJackal"
+    title: "Carlos the Jackal"
+    url: "/wiki/entities/carlosthejackal/"
   - key: "CarlotaOfMexico"
     title: "Carlota of Mexico"
     url: "/wiki/entities/carlotaofmexico/"

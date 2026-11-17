@@ -42650,9 +42650,9 @@
       "url": "/wiki/entities/chipsact/"
     },
     "CIA": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -42674,9 +42674,16 @@
           "show": "忽左忽右",
           "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
           "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        },
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/cia/"
     },
     "CIAIntelligenceCovertActionTension": {
@@ -47602,6 +47609,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/carlosstartupembassy/"
+    },
+    "CarlosTheJackal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/carlosthejackal/"
     },
     "CarlotaOfMexico": {
       "episode_count": 1,
@@ -176534,6 +176557,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/johnredmond/"
     },
+    "JohnRizzo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johnrizzo/"
+    },
     "JohnRock": {
       "episode_count": 1,
       "show_count": 1,
@@ -259735,6 +259774,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/presidentialsymbolicleadership/"
     },
+    "PressIntelligenceDisclosureDilemma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/pressintelligencedisclosuredilemma/"
+    },
     "PressureLossAnalysis": {
       "episode_count": 1,
       "show_count": 1,
@@ -287659,9 +287714,9 @@
       "url": "/wiki/entities/sebastienlecornu/"
     },
     "SecondChanceRecognitionFailure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "I_Am_Superman_with_Patty_Jenkins_Development_Hell [I_Am_Superman_with_Patty_Jenkins_Development_Hell].md",
@@ -287669,9 +287724,16 @@
           "show": "Revisionist History",
           "title": "I Am Superman with Patty Jenkins | Development Hell",
           "url": "/wiki/sources/i-am-superman-with-patty-jenkins-development-hell-i-am-superman-with-patty-jenkins-development-hell/"
+        },
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/secondchancerecognitionfailure/"
     },
     "SecondDayMoneyEvolution": {
@@ -303715,9 +303777,9 @@
       "url": "/wiki/concepts/spynetworkentrapment/"
     },
     "SpySourceProtection": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -303739,9 +303801,16 @@
           "show": "忽左忽右",
           "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
           "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        },
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/spysourceprotection/"
     },
     "SrimanSwarup": {
@@ -322874,6 +322943,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/timwalz/"
+    },
+    "TimWeiner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Road_to_Damascus [The_Road_to_Damascus].md",
+          "key": "the-road-to-damascus-the-road-to-damascus",
+          "show": "Revisionist History",
+          "title": "The Road to Damascus",
+          "url": "/wiki/sources/the-road-to-damascus-the-road-to-damascus/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/timweiner/"
     },
     "TimeAffluence": {
       "episode_count": 1,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Road to Damascus](sources/the-road-to-damascus-the-road-to-damascus.md) — Revisionist History examines how legitimate CIA accountability and press scrutiny exposed an atoning former terrorist whose intelligence had helped locate Carlos the Jackal.
 - [Miss Buchanan’s Period of Adjustment](sources/miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment.md) — Revisionist History separates Brown’s legal victory from the displacement of Black educators and the failure to integrate institutional authority.
 - [The Foot Soldier of Birmingham](sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham.md) — Revisionist History separates an iconic Birmingham photograph’s ambiguous encounter from the symbolic racial history Ronald McDowell built from it in the Foot Soldier monument.
 - [The Prime Minister and the Prof](sources/the-prime-minister-and-the-prof-the-prime-minister-and-the-prof.md) — Revisionist History links Churchill’s reliance on Frederick Lindemann to evidence filtering in strategic bombing and Bengal-famine relief policy.
@@ -5351,6 +5352,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 
 ## Entities
+- [Tim Weiner](entities/TimWeiner.md) — investigative journalist whose CIA reporting anchors the episode’s unresolved publication and source-protection dispute.
+- [John Rizzo](entities/JohnRizzo.md) — senior CIA lawyer and memoirist whose account joins culpable-source recruitment, legal accountability, and broken faith.
+- [Carlos the Jackal](entities/CarlosTheJackal.md) — terrorist whose capture demonstrated the unnamed asset’s value and later became the most identifying published detail.
 - [Foot Soldier Monument](entities/FootSoldierMonument.md) — Ronald McDowell’s Birmingham sculpture transforming an ambiguous 1963 photograph into a symbolic confrontation over racist power and public memory.
 - [Ronald McDowell](entities/RonaldMcDowell.md) — Self-taught artist who deliberately altered scale, posture, vision, and animal form in Foot Soldier to express Birmingham’s racial history.
 - [Richard Middleton](entities/RichardMiddleton.md) — Birmingham K-9 officer whose iconic photograph became a symbol of deliberate police attack despite evidence that he may have been restraining his dog.
@@ -20197,6 +20201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Press–Intelligence Disclosure Dilemma](concepts/PressIntelligenceDisclosureDilemma.md) — conflict between reporting on secret-state misconduct and exposing a human source through distinctive operational detail.
 - [Transactive Memory](concepts/TransactiveMemory.md) — Shared cognitive system whose complementary expertise can aid decisions while creating dependence on a trusted partner.
 - [Informal Adviser Gatekeeping](concepts/InformalAdviserGatekeeping.md) — Power exercised by a trusted associate through access, evidence filtering, option framing, and complexity reduction.
 - [Policy Evidence Compression](concepts/PolicyEvidenceCompression.md) — Conversion of complex evidence into decision-ready advice, with risks when uncertainty, dissent, or consequences disappear.
