@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11651
+wiki_total_pages: 11656
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "JapaneseDrugPricingReform"
     title: "Japanese Drug Pricing Reform / 日本药品定价改革"
     url: "/wiki/concepts/japanesedrugpricingreform/"
+  - key: "JapaneseEarlyPacificWarStrategy"
+    title: "Japanese Early Pacific War Strategy"
+    url: "/wiki/concepts/japaneseearlypacificwarstrategy/"
   - key: "JapaneseEnterprisePriceWarAvoidance"
     title: "Japanese Enterprise Price-War Avoidance / 日本企业避免价格战"
     url: "/wiki/concepts/japaneseenterprisepricewaravoidance/"

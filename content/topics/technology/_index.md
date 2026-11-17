@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3883
+topic_total_pages: 3884
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1570,6 +1570,9 @@ topic_concepts:
   - key: "CapitalIntensiveAICycle"
     title: "Capital-Intensive AI Cycle"
     url: "/wiki/concepts/capitalintensiveaicycle/"
+  - key: "CapitalShipAirpowerVulnerability"
+    title: "Capital-Ship Airpower Vulnerability"
+    url: "/wiki/concepts/capitalshipairpowervulnerability/"
   - key: "CaptiveChipBusinessSpinout"
     title: "Captive Chip Business Spinout / 自研芯片业务独立融资"
     url: "/wiki/concepts/captivechipbusinessspinout/"

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Show 64 - Supernova in the East III
+
+Added the [[HardcoreHistory]] episode following Japan's opening Pacific offensives through Hong Kong, Malaya, Singapore, the Philippines, Bataan, and the death march. Created synthesis-first pages for [[TomoyukiYamashita]], [[ArthurPercival]], [[EdwardPKing]], [[JapaneseEarlyPacificWarStrategy]], [[AlliedRacializedMilitaryUnderestimation]], [[CapitalShipAirpowerVulnerability]], [[BataanDefenseAndCaptivity]], and [[CommandHeroNarrativeAccountability]], then resynthesized [[DouglasMacArthur]], [[ImperialPrestigeVindication]], and [[SurrenderPreclusionWarEscalation]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Japan's opening operations combined real coordination, mobility, air-sea power, and tactical skill with a political wager that conquest would reduce Allied resolve. Racialized underestimation and prestige-bound commitments amplified the shock; Force Z showed that capital-ship status could not substitute for air-sea integration; and Bataan showed tactical endurance becoming starvation, humane surrender, and brutal captivity when logistics and survivable exit failed.
+
+No settled contradiction was adopted. MacArthur's talent, courage, symbolism, image management, disputed responsibility, and frontline resentment remain in tension rather than resolving into a simple verdict. Individual Japanese aid does not negate systematic abuse, while casualty totals, atrocity accounts, command motives, strategic counterfactuals, and battle sequences remain source-scoped because the supplied file is a structured Chinese-language summary rather than a transcript, archive, or systematic military history. Broad country, [[DanCarlin]], and Hardcore History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,187 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Show 65 - Supernova in the East IV
 
 Added the [[HardcoreHistory]] episode following the 1942 Pacific turn from morale crisis and the Doolittle Raid through Coral Sea, [[BattleOfMidway|Midway]], and the opening of the [[GuadalcanalCampaign]]. Created synthesis-first pages for [[ChesterNimitz]], [[DouglasMacArthur]], [[StrategicMoraleWarfare]], [[CarrierWarfareOperationalSystem]], Midway, and Guadalcanal, then resynthesized [[DanCarlin]], Hardcore History, [[FranklinDRoosevelt]], [[PacificWarAttritionSystem]], and [[SurrenderPreclusionWarEscalation]] from their complete preserved evidence inventories before appending the new source once.
@@ -42418,6 +42428,10 @@ Core synthesis: the Lower Falls operation recovered weapons but became a strateg
 No settled contradiction was adopted. The episode agrees with prior coverage that weapons were recovered and Catholic trust was damaged, while its classroom analogy does not make education and counterinsurgency equivalent. Exact casualty responsibility, the representativeness of individual testimony, and wider republican and loyalist motives remain source-scoped. Broad [[MalcolmGladwell]], [[TheTroubles]], [[BritishArmy]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,186 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

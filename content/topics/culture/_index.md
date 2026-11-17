@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3787
+topic_total_pages: 3788
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -838,6 +838,9 @@ topic_concepts:
   - key: "ComicPovertyConstraintGap"
     title: "Comic Poverty-Constraint Gap / 喜剧贫困与约束落差"
     url: "/wiki/concepts/comicpovertyconstraintgap/"
+  - key: "CommandHeroNarrativeAccountability"
+    title: "Command Hero Narrative and Accountability"
+    url: "/wiki/concepts/commandheronarrativeaccountability/"
   - key: "CommercialFilmAudienceLogic"
     title: "Commercial Film Audience Logic / 商业片观众逻辑"
     url: "/wiki/concepts/commercialfilmaudiencelogic/"

@@ -16039,6 +16039,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/alliancecontingencyhedging/"
     },
+    "AlliedRacializedMilitaryUnderestimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/alliedracializedmilitaryunderestimation/"
+    },
     "AlliesPalsCompanionsFramework": {
       "episode_count": 1,
       "show_count": 1,
@@ -24438,6 +24454,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/arthurorton/"
     },
+    "ArthurPercival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/arthurpercival/"
+    },
     "ArthurSeyssInquart": {
       "episode_count": 1,
       "show_count": 1,
@@ -31441,6 +31473,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/bastillerevolutionarymythmaking/"
+    },
+    "BataanDefenseAndCaptivity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/bataandefenseandcaptivity/"
     },
     "Bath": {
       "episode_count": 1,
@@ -46406,6 +46454,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/capitalpunishmentretributionproblem/"
+    },
+    "CapitalShipAirpowerVulnerability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/capitalshipairpowervulnerability/"
     },
     "CapitalizedResearchProcess": {
       "episode_count": 1,
@@ -62950,6 +63014,22 @@
       ],
       "updated": "2026-11-10",
       "url": "/wiki/concepts/commanddisobedienceunderbattlefielduncertainty/"
+    },
+    "CommandHeroNarrativeAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/commandheronarrativeaccountability/"
     },
     "CommandLawOverPersonalTies": {
       "episode_count": 1,
@@ -88237,9 +88317,9 @@
       "url": "/wiki/entities/douglashaig/"
     },
     "DouglasMacArthur": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
@@ -88247,6 +88327,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 65 - Supernova in the East IV",
           "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        },
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
         }
       ],
       "updated": "2026-11-17",
@@ -92839,6 +92926,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/edwardleehoward/"
+    },
+    "EdwardPKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/edwardpking/"
     },
     "EdwardRiou": {
       "episode_count": 1,
@@ -158519,9 +158622,9 @@
       "url": "/wiki/concepts/imperialpresidency/"
     },
     "ImperialPrestigeVindication": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -158536,6 +158639,13 @@
           "show": "The Rest Is History",
           "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
           "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        },
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
         }
       ],
       "updated": "2026-09-17",
@@ -168710,6 +168820,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
+    },
+    "JapaneseEarlyPacificWarStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/japaneseearlypacificwarstrategy/"
     },
     "JapaneseHealthcareSystem": {
       "episode_count": 4,
@@ -308590,9 +308716,9 @@
       "url": "/wiki/concepts/surrenderguaranteeintegrity/"
     },
     "SurrenderPreclusionWarEscalation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
@@ -308607,6 +308733,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 65 - Supernova in the East IV",
           "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        },
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
         }
       ],
       "updated": "2026-11-17",
@@ -321336,6 +321469,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/tomorrowtoday/"
+    },
+    "TomoyukiYamashita": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha64_Supernova_in_the_East_III [dchha64_Supernova_in_the_East_III].md",
+          "key": "dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 64 - Supernova in the East III",
+          "url": "/wiki/sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/tomoyukiyamashita/"
     },
     "TongChenjie": {
       "episode_count": 1,

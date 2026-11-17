@@ -5,6 +5,7 @@ tags: [war, surrender, military-culture, propaganda, escalation]
 sources:
   - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
   - dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv
+  - dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ Surrender-preclusion war escalation is the institutional process by which traini
 
 ## Current Synthesis
 
-[[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv|Supernova in the East IV]] shows the mechanism becoming visible to inexperienced Allied forces at Tulagi and Guadalcanal. Small Japanese garrisons largely fought to death, while atrocity reports and a postwar claim about forcing soldiers to abuse prisoners suggest a feedback loop: participation in violence could create an expectation of enemy revenge, make surrender appear suicidal, and encourage opponents to take fewer prisoners. The evidentiary basis and universality of that deliberate policy remain qualified.
+[[dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii|Supernova in the East III]] shows the mechanism before the later island campaigns. Japanese soldiers' feigned death, last-moment grenades, near-suicidal attacks, and contempt for capitulation made Allied troops less willing to risk accepting surrender. Hong Kong, Singapore-area killings, and the Bataan Death March then show how dehumanization of wounded people and prisoners could convert capture into systematic danger. [[EdwardPKing|Edward King's]] capitulation provides the counterexample: accepting disgrace can be an effort to preserve lives when continued defense has lost military purpose.
+
+[[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv|Supernova in the East IV]] shows the feedback loop becoming visible again at Tulagi and Guadalcanal. Small Japanese garrisons largely fought to death, while atrocity reports and a postwar claim about forcing soldiers to abuse prisoners suggest that participation in violence could create an expectation of enemy revenge, make surrender appear suicidal, and encourage opponents to take fewer prisoners. The evidentiary basis and universality of that deliberate policy remain qualified.
 
 [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v|Supernova in the East V]] follows the escalation as both extraordinary courage and institutional compulsion. Brutal training, severe punishment, atrocity, expectations of enemy revenge, and orders to die could bind soldiers more tightly to doomed positions. Allied forces then came to expect that positions had to be physically eliminated rather than broken by rout or negotiated capitulation.
 
@@ -26,15 +29,17 @@ Saipan extends the mechanism from soldiers to civilians. Propaganda about rape, 
 ## Key Claims
 
 - Surrender behavior is shaped by institutional incentives and expected treatment, not courage or cowardice alone.
+- Contempt for surrender can govern treatment of enemy prisoners as well as one's own troops' willingness to capitulate.
 - Atrocity can create retaliation fear that makes later capitulation less credible and narrows attackers' as well as defenders' space for taking prisoners.
 - Punishment and honor systems can convert tactical endurance into organizational compulsion.
 - When defenders rarely surrender, attackers adapt toward overwhelming firepower and position-by-position killing.
 - Civilian propaganda and military coercion can extend the no-surrender system beyond formal combatants.
-- Removing a survivable exit can increase resistance after the strategic purpose of fighting has disappeared.
-- Admiration for endurance should not obscure the responsibility of institutions that spend lives without a plausible military return.
+- Removing a survivable exit can increase resistance after the strategic purpose of fighting has disappeared, while humane capitulation can require moral courage.
 
 ## Evidence
 
+- Prisoner abuse and surrender contempt: [[dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii]] connects false surrender and last-moment violence with Allied risk aversion, then connects Bataan captivity with deprivation, beating, execution, and forced marching.
+- Humane capitulation counterexample: [[dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii]] presents King's decision to surrender Bataan as responsibility for lives after meaningful resistance had become impossible.
 - Training and atrocity: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] reports bayonet training against helpless prisoners, severe punishment for disobedience, and a postwar claim that atrocity was encouraged partly to provoke retaliation fear.
 - Early encounter and retaliation loop: [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] connects Tulagi's near-total resistance, atrocity reports, Australian expectations, and the attributed postwar explanation of violence as a barrier to later surrender.
 - Battlefield adaptation: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] connects refusal to break or surrender with position-by-position elimination in jungle and island warfare.
@@ -43,10 +48,11 @@ Saipan extends the mechanism from soldiers to civilians. Propaganda about rape, 
 
 ## Counterevidence & Qualifications
 
-The episodes do not establish one uniform cause for every Japanese soldier's, Allied soldier's, or civilian's conduct. Immediate combat, fear of both armies, family pressure, coercion, disrupted communication, prior atrocity, ideology, and individual judgment could differ sharply. The postwar affidavit about deliberately induced retaliation fear requires corroboration, and atrocity reports do not prove that every refusal of surrender or battlefield killing followed one policy. Allied explosives, fire, and sealing of occupied caves also constrained survival, so the concept must not place all civilian death inside Japanese propaganda alone.
+The episodes do not establish one uniform cause for every Japanese soldier's, Allied soldier's, guard's, prisoner's, or civilian's conduct. Immediate combat, fear of both armies, family pressure, coercion, disrupted communication, prior atrocity, ideology, logistics, and individual judgment could differ sharply. Some Japanese individuals aided prisoners, and the postwar affidavit about deliberately induced retaliation fear requires corroboration. Atrocity reports do not prove that every refusal of surrender or battlefield killing followed one policy. Allied explosives, fire, and sealing of occupied caves also constrained survival, so the concept must not place all civilian death inside Japanese propaganda alone.
 
 ## What Changed
 
+- Extended the mechanism backward to early-war false surrender, prisoner abuse, Bataan, and a humane capitulation counterexample.
 - Extended the feedback system to the 1942 Allied encounter, where atrocity knowledge and near-total resistance could change attacker expectations before the later island campaigns.
 
 ## Related Concepts
@@ -57,3 +63,4 @@ The episodes do not establish one uniform cause for every Japanese soldier's, Al
 - [[PacificWarAttritionSystem]] - material system that made continued resistance increasingly hopeless at the strategic level.
 - [[BattleOfSaipan]] - campaign where military and civilian surrender preclusion converged.
 - [[GuadalcanalCampaign]] - early campaign in which Tulagi and atrocity reports shaped expectations of resistance and capture.
+- [[BataanDefenseAndCaptivity]] - early campaign joining humane surrender to systematic abuse in captivity.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11651
+wiki_total_pages: 11656
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "CapitalIntensiveAICycle"
     title: "Capital-Intensive AI Cycle"
     url: "/wiki/concepts/capitalintensiveaicycle/"
+  - key: "CapitalShipAirpowerVulnerability"
+    title: "Capital-Ship Airpower Vulnerability"
+    url: "/wiki/concepts/capitalshipairpowervulnerability/"
   - key: "CapitalizedResearchProcess"
     title: "Capitalized Research Process / 研究资本化"
     url: "/wiki/concepts/capitalizedresearchprocess/"
@@ -1916,6 +1919,9 @@ wiki_pages:
   - key: "CommandDisobedienceUnderBattlefieldUncertainty"
     title: "Command Disobedience Under Battlefield Uncertainty"
     url: "/wiki/concepts/commanddisobedienceunderbattlefielduncertainty/"
+  - key: "CommandHeroNarrativeAccountability"
+    title: "Command Hero Narrative and Accountability"
+    url: "/wiki/concepts/commandheronarrativeaccountability/"
   - key: "CommandLawOverPersonalTies"
     title: "Command Law Over Personal Ties / 军令高于私交"
     url: "/wiki/concepts/commandlawoverpersonalties/"

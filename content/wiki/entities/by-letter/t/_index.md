@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14659
+wiki_total_pages: 14662
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1211,6 +1211,9 @@ wiki_pages:
   - key: "TomorrowToday"
     title: "Tomorrow Today"
     url: "/wiki/entities/tomorrowtoday/"
+  - key: "TomoyukiYamashita"
+    title: "Tomoyuki Yamashita"
+    url: "/wiki/entities/tomoyukiyamashita/"
   - key: "TongBin"
     title: "Tong Bin / 童宾"
     url: "/wiki/entities/tongbin/"

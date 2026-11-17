@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11651
+wiki_total_pages: 11656
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2147,6 +2147,9 @@ wiki_pages:
   - key: "AlliedEconomicBlocAgainstChina"
     title: "Allied Economic Bloc Against China"
     url: "/wiki/concepts/alliedeconomicblocagainstchina/"
+  - key: "AlliedRacializedMilitaryUnderestimation"
+    title: "Allied Racialized Military Underestimation"
+    url: "/wiki/concepts/alliedracializedmilitaryunderestimation/"
   - key: "AlliesPalsCompanionsFramework"
     title: "Allies, Pals, and Companions Framework"
     url: "/wiki/concepts/alliespalscompanionsframework/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11651
+wiki_total_pages: 11656
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "BastilleRevolutionaryMythmaking"
     title: "Bastille Revolutionary Mythmaking"
     url: "/wiki/concepts/bastillerevolutionarymythmaking/"
+  - key: "BataanDefenseAndCaptivity"
+    title: "Bataan Defense and Captivity"
+    url: "/wiki/concepts/bataandefenseandcaptivity/"
   - key: "BatchEquityPool"
     title: "Batch Equity Pool"
     url: "/wiki/concepts/batchequitypool/"

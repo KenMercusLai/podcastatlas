@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Show 64 - Supernova in the East III](sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii.md) — Hardcore History connects Japan's opening Pacific strategy, Allied racialized underestimation, Force Z, Singapore's fall, MacArthur's command mythology, Bataan, and the death march.
 - [Show 65 - Supernova in the East IV](sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv.md) — Hardcore History connects morale warfare, civil-liberties cost, Coral Sea, Midway's carrier system, inter-service rivalry, and Guadalcanal's attritional opening.
 - [Introducing Revisionist History Season Five](sources/introducing-revisionist-history-season-five.md) — Season-five trailer previewing parental joy, moral memory, action under uncertainty, museums, collecting, beauty, and the later episodes that develop those themes.
 - [Hedwig’s Lost Van Gogh](sources/hedwig-s-lost-van-gogh-hedwig-s-lost-van-gogh.md) — Revisionist History connects Van Gogh authentication, Hedwig Ullmann’s forced exile, descendant memory, museum collection review, and the gap between legal title and moral restitution.
@@ -5313,6 +5314,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1165丨张既传：低调才是顶级生存智慧](sources/zizhi-tongjian-hanji-1165-zhangji-zhuan-didiao-caishi-dingji-shengcun-zhihui-lr7x5qltfi_ikktqabowt1garphl.md) — 芮淇讲透资治通鉴 connects Zhang Ji's mixed Liangzhou governance with Liu Bei's Hanzhong kingship settlement, Shangyong expansion, rank allocation, and fragmented-theater support risk.
 
 ## Entities
+- [Tomoyuki Yamashita](entities/TomoyukiYamashita.md) — Japanese commander whose mobility, infiltration, and tempo drove the Malaya-Singapore campaign.
+- [Arthur Percival](entities/ArthurPercival.md) — British commander whose surrender ended Singapore's compromised defense.
+- [Edward P. King](entities/EdwardPKing.md) — Bataan commander who accepted responsibility for surrender after logistical and physical collapse.
 - [Chester Nimitz](entities/ChesterNimitz.md) — U.S. Pacific commander using intelligence, scarce carriers, repair capacity, and negotiated theater authority in the 1942 turn.
 - [Douglas MacArthur](entities/DouglasMacArthur.md) — Southwest Pacific commander joining Philippines-oriented strategy, public influence, logistics, and inter-service bargaining.
 - [Metropolitan Museum of Art](entities/MetropolitanMuseumOfArt.md) — New York museum used to examine financial strain, acquisition, inaccessible holdings, collection accounting, and resistance to disposal.
@@ -20068,6 +20072,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)](entities/LiuBeiHanzhongKingship219LateHan.md) — 将汉中胜利转化为称王、继承、任官、战区分工和继续扩张，同时暴露地理协同风险的政治军事布局。
 
 ## Concepts
+- [Japanese Early Pacific War Strategy](concepts/JapaneseEarlyPacificWarStrategy.md) — Resource seizure and defensive-perimeter strategy whose operational success depended on an uncontrollable political bet about Allied resolve.
+- [Allied Racialized Military Underestimation](concepts/AlliedRacializedMilitaryUnderestimation.md) — Conversion of stereotypes about Japanese inferiority into flawed threat assessment and readiness.
+- [Capital-Ship Airpower Vulnerability](concepts/CapitalShipAirpowerVulnerability.md) — Exposure of unsupported battleships and battlecruisers to coordinated air attack despite armor and prestige.
+- [Bataan Defense and Captivity](concepts/BataanDefenseAndCaptivity.md) — Successful concentration and resistance becoming supply collapse, surrender, forced march, and prisoner abuse.
+- [Command Hero Narrative and Accountability](concepts/CommandHeroNarrativeAccountability.md) — Tension between a commander's strategically useful public mythology and candid operational responsibility.
 - [Strategic Morale Warfare](concepts/StrategicMoraleWarfare.md) — Attempts to influence national willingness through reassurance, raids, bombing, fear, and symbolic action whose effects and displaced costs remain uncertain.
 - [Carrier Warfare Operational System](concepts/CarrierWarfareOperationalSystem.md) — Interaction of carriers, aircrew, reconnaissance, intelligence, repair, damage control, deck cycles, and replacement capacity.
 - [Battle of Midway](concepts/BattleOfMidway.md) — 1942 carrier battle joining intelligence advantage, repair, sacrifice, operational friction, contingency, and long-run replacement imbalance.
