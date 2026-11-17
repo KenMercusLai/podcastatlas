@@ -9,6 +9,7 @@ sources:
   - dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii
   - dchha68-blitz-human-resources-dchha68-blitz-human-resources
   - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
+  - dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -31,7 +32,9 @@ Across both parts, Carlin treats history as useful perspective without denying i
 
 [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] extends the method from war narrative to Atlantic slavery. Carlin builds an end-to-end system from labor demand, commodity profit, disease, captive supply, finance, shipping, state power, sale, plantation discipline, abolition, and revolution. He separates explanation from excuse: African participation does not erase European demand and institutional scale, historical context does not absolve Columbus, and slavery's role in Haitian revolutionary violence does not make massacre morally acceptable.
 
-The Pacific War returns that systems method to military history. Carlin moves between production totals, shipping, codebreaking, bases, trained replacements, jungle patrols, veteran memory, atrocity, and civilian suicide. His central moral distinction is again between explanation and endorsement: Japanese endurance can command respect while a military culture that removes surrender, consumes isolated troops, and mobilizes civilians for death remains strategically and morally cruel. [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] is the bounded evidence for that extension.
+The Pacific War returns that systems method to military history. [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] begins with the uncertain psychology of national morale, then connects radio leadership, incarceration, symbolic raids, carrier warfare, intelligence, repair, inter-service conflict, Guadalcanal, atrocity, and surrender behavior. The narrative repeatedly resists one-cause victory: Midway emerges from information advantage, plan complexity, repeated sacrifice, deck operations, damage control, trained personnel, decisions, and chance.
+
+[[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] continues through production totals, shipping, bases, trained replacements, jungle patrols, veteran memory, atrocity, and civilian suicide. Across both episodes, Carlin's moral distinction remains explanation without endorsement: Japanese endurance can command respect while military institutions that remove surrender, consume isolated troops, harm civilians, and reinforce atrocity remain strategically and morally cruel.
 
 ## Key Characteristics
 
@@ -53,16 +56,17 @@ The Pacific War returns that systems method to military history. Carlin moves be
 - Moral and evidentiary tension: [[dchha72-mania-for-subjugation-ii-dchha72-mania-for-subjugation-ii]] contrasts Arrian and Diodorus while separating tactical success, political context, uncertain agency, and the consequences of terror.
 - Atlantic system and moral responsibility: [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] connects commercial institutions, coerced labor, revolutionary emancipation, retaliatory violence, and the persistence of racial hierarchy while marking factual and interpretive limits.
 - Pacific systems and lived experience: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] connects industrial replacement, supply interdiction, surrender behavior, frontline testimony, and civilian catastrophe while distinguishing firmer claims from interpretation.
+- Morale, contingency, and institutional conversion: [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] joins symbolic action and moral cost to carrier intelligence, repair, aircrew, command rivalry, and the uncertain transition from Midway to Guadalcanal.
 
 ## Qualifications
 
-This profile comes from two conversational crossover episodes and four structured summaries rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, Atlantic slavery, Haitian Revolution, and Pacific War claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger.
+This profile comes from two conversational crossover episodes and five structured summaries rather than a systematic account of Carlin's career or body of work. The siege, First World War, Lenin, nuclear, Confederate, Cold War, Soviet technology, Ukraine, Alexander, Atlantic slavery, Haitian Revolution, and Pacific War claims are arguments made in the episodes, not independently verified conclusions. Marking a reconstruction as speculative preserves its status but does not make it evidentially stronger; casualty totals, atrocity accounts, psychological effects, motives, and battle-sequence claims remain source-scoped.
 
 ## What Changed
 
-- Added a Pacific War case joining industrial systems to frontline and civilian experience.
-- Added the gap between combat and sanitized memory as a recurring problem of public history.
-- Added surrender-precluding institutions as an explanation of endurance that does not romanticize command cruelty.
+- Extended the Pacific War case backward into morale warfare, Coral Sea, Midway, command rivalry, and Guadalcanal's improvised opening.
+- Added decisions under incomplete information and institutional interaction as limits on single-cause turning-point narratives.
+- Added democratic rights and third-party civilian harm to the moral accounting of symbolic military action.
 
 ## Relationships
 
@@ -74,3 +78,5 @@ This profile comes from two conversational crossover episodes and four structure
 - [[Arrian]] - favorable ancient source whose tactical usefulness and political mediation Carlin keeps in tension.
 - [[PacificWarAttritionSystem]] - systems account connecting production and technology to sustainable combat power.
 - [[CombatExperienceMemoryGap]] - public-history problem sharpened through veteran testimony.
+- [[StrategicMoraleWarfare]] - case in which symbolic action has uncertain psychological and displaced material consequences.
+- [[CarrierWarfareOperationalSystem]] - case joining technology to information, personnel, repair, timing, and chance.

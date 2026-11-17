@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11646
+wiki_total_pages: 11650
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "CarrierPigeonCommunication"
     title: "Carrier Pigeon Communication"
     url: "/wiki/concepts/carrierpigeoncommunication/"
+  - key: "CarrierWarfareOperationalSystem"
+    title: "Carrier Warfare Operational System"
+    url: "/wiki/concepts/carrierwarfareoperationalsystem/"
   - key: "CarrierBagNarrative"
     title: "Carrier-Bag Narrative / 载物袋叙事"
     url: "/wiki/concepts/carrierbagnarrative/"

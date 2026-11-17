@@ -32125,6 +32125,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/battleofmetaurus/"
     },
+    "BattleOfMidway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/battleofmidway/"
+    },
     "BattleOfMons1914": {
       "episode_count": 1,
       "show_count": 1,
@@ -47453,6 +47469,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/carrierpigeoncommunication/"
     },
+    "CarrierWarfareOperationalSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/carrierwarfareoperationalsystem/"
+    },
     "CarryTradeUnwind": {
       "episode_count": 2,
       "show_count": 1,
@@ -53615,6 +53647,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/chestpainemergencyescalation/"
+    },
+    "ChesterNimitz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/chesternimitz/"
     },
     "ChesterWilliams": {
       "episode_count": 1,
@@ -74830,9 +74878,9 @@
       "url": "/wiki/entities/danariely/"
     },
     "DanCarlin": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -74875,6 +74923,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 66 - Supernova in the East V",
           "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        },
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
         }
       ],
       "updated": "2026-11-17",
@@ -88173,6 +88228,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/douglashaig/"
+    },
+    "DouglasMacArthur": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/douglasmacarthur/"
     },
     "Doushenshen": {
       "episode_count": 2,
@@ -118963,6 +119034,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/frankfurtparliament/"
     },
+    "FranklinDRoosevelt": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/franklindroosevelt/"
+    },
     "FrantzFanon": {
       "episode_count": 1,
       "show_count": 1,
@@ -133939,6 +134033,22 @@
       "updated": "2026-11-09",
       "url": "/wiki/entities/guyu/"
     },
+    "GuadalcanalCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/guadalcanalcampaign/"
+    },
     "GuaiNiGuofenMeili": {
       "episode_count": 1,
       "show_count": 1,
@@ -140271,9 +140381,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -140337,6 +140447,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 66 - Supernova in the East V",
           "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        },
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
         }
       ],
       "updated": "2026-11-17",
@@ -241073,9 +241190,9 @@
       "url": "/wiki/concepts/pacificislandbypassstrategy/"
     },
     "PacificWarAttritionSystem": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
@@ -241083,6 +241200,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 66 - Supernova in the East V",
           "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        },
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
         }
       ],
       "updated": "2026-11-17",
@@ -304250,6 +304374,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/strategicloyaltyfactionalbalance/"
     },
+    "StrategicMoraleWarfare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/strategicmoralewarfare/"
+    },
     "StrategicPartnersMedicalApparel": {
       "episode_count": 1,
       "show_count": 1,
@@ -308388,9 +308528,9 @@
       "url": "/wiki/concepts/surrenderguaranteeintegrity/"
     },
     "SurrenderPreclusionWarEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "dchha66_Supernova_in_the_East_V [dchha66_Supernova_in_the_East_V].md",
@@ -308398,6 +308538,13 @@
           "show": "Dan Carlin's Hardcore History",
           "title": "Show 66 - Supernova in the East V",
           "url": "/wiki/sources/dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v/"
+        },
+        {
+          "episode_file": "dchha65_Supernova_in_the_East_IV [dchha65_Supernova_in_the_East_IV].md",
+          "key": "dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv",
+          "show": "Dan Carlin's Hardcore History",
+          "title": "Show 65 - Supernova in the East IV",
+          "url": "/wiki/sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv/"
         }
       ],
       "updated": "2026-11-17",

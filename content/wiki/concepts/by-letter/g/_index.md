@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11646
+wiki_total_pages: 11650
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "GSMStandardization"
     title: "GSM Standardization"
     url: "/wiki/concepts/gsmstandardization/"
+  - key: "GuadalcanalCampaign"
+    title: "Guadalcanal Campaign"
+    url: "/wiki/concepts/guadalcanalcampaign/"
   - key: "GuangxiCuisineLegibility"
     title: "Guangxi Cuisine Legibility / 广西菜可识别化"
     url: "/wiki/concepts/guangxicuisinelegibility/"

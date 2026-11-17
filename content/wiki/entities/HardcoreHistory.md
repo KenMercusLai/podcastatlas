@@ -12,6 +12,7 @@ sources:
   - dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii
   - dchha68-blitz-human-resources-dchha68-blitz-human-resources
   - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
+  - dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -34,7 +35,9 @@ Across both crossover parts, Hardcore History is associated with comparison rath
 
 [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] broadens the direct sample again. The episode treats Atlantic slavery as an interconnected economic and coercive system, follows the captive experience from inland seizure through plantation control, and makes Saint-Domingue a test of how universal rights, slave revolt, emancipation, colonial restoration, independence, and retaliatory atrocity can occupy one narrative without collapsing their moral differences.
 
-The Second World War Pacific case adds the interaction of industrial replacement, oceanic logistics, intelligence, disease, combat testimony, and surrender-precluding institutions. From New Guinea and Guadalcanal through Tarawa, the Philippine Sea, and [[BattleOfSaipan|Saipan]], Japanese endurance remains tactically formidable while the command culture that turns courage into starvation, mass assault, civilian suicide, and strategically futile death remains an object of condemnation. [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] is the bounded evidence for that extension.
+The Second World War Pacific case begins in [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] with national morale as an uncertain target. Roosevelt's reassurance, West Coast fear, incarceration, the Doolittle Raid, Coral Sea, and [[BattleOfMidway|Midway]] connect symbolic action and moral displacement to carrier intelligence, reconnaissance, repair, aircrew, deck cycles, and contingency. Inter-service rivalry and the rushed [[GuadalcanalCampaign]] then show that material potential still had to pass through command settlement, shipping, unloading, tactical learning, and severe failure.
+
+[[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] continues the interaction of industrial replacement, oceanic logistics, intelligence, disease, combat testimony, and surrender-precluding institutions. From New Guinea and Guadalcanal through Tarawa, the Philippine Sea, and [[BattleOfSaipan|Saipan]], Japanese endurance remains tactically formidable while the command culture that turns courage into starvation, mass assault, civilian suicide, and strategically futile death remains an object of condemnation.
 
 ## Key Characteristics
 
@@ -58,17 +61,18 @@ The Second World War Pacific case adds the interaction of industrial replacement
 - Medieval transformation: [[dchha70-twilight-of-the-aesir-ii-dchha70-twilight-of-the-aesir-ii]] joins religion, settlement, defense, migration, state formation, and source criticism across the Viking world.
 - Atlantic slavery and emancipation: [[dchha68-blitz-human-resources-dchha68-blitz-human-resources]] joins commercial scale, captive experience, plantation coercion, abolitionist mobilization, Haitian revolution, and post-abolition racial hierarchy.
 - Pacific attrition and memory: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] joins production, shipping, replacement systems, island operations, surrender behavior, veteran testimony, and civilian catastrophe.
+- Pacific turning point and contingency: [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] joins morale, civil liberties, carrier operations, intelligence, repair, inter-service bargaining, amphibious inexperience, atrocity, and surrender escalation.
 
 ## Qualifications
 
-Two crossover episodes and seven structured episode summaries cannot establish the format, range, or editorial method of the entire Hardcore History catalogue. Carlin's account of his own workflow is high-level, while the historical answers are conversational and often counterfactual. Careful uncertainty labels do not independently validate episode numbers, demographic totals, production or casualty figures, causal claims, analogies, atrocity accounts, civilian motives, or psychological possibilities.
+Two crossover episodes and eight structured episode summaries cannot establish the format, range, or editorial method of the entire Hardcore History catalogue. Carlin's account of his own workflow is high-level, while the historical answers are conversational and often counterfactual. Careful uncertainty labels do not independently validate episode numbers, demographic totals, production or casualty figures, causal claims, analogies, atrocity accounts, civilian motives, morale effects, battle sequences, or psychological possibilities.
 
 ## What Changed
 
-- Extended the direct episode sample into the Pacific War from New Guinea and Guadalcanal through Saipan.
-- Added industrial replacement, oceanic logistics, and operational learning as a system explanation for battlefield outcomes.
-- Added combat-memory sanitization and surrender-precluding institutions as links between strategy and human experience.
-- Added civilians inside island warfare as a limit on accounts centered only on armies and fleets.
+- Extended the Pacific sample backward through morale warfare, Coral Sea, Midway, and Guadalcanal's opening.
+- Added the carrier as an operational system of intelligence, aircrew, repair, deck cycles, and damage control rather than a decisive object alone.
+- Added inter-service bargaining and immature amphibious practice as barriers between aggregate resources and battlefield effect.
+- Added civil-liberties failure and displaced civilian retaliation to the cost of symbolic wartime action.
 
 ## Relationships
 
@@ -82,3 +86,5 @@ Two crossover episodes and seven structured episode summaries cannot establish t
 - [[VikingAgePeriodization]] - case joining memorable dates to uneven religious, political, and social change.
 - [[PacificWarAttritionSystem]] - case joining production and technology to transport, trained replacements, intelligence, and operational learning.
 - [[CombatExperienceMemoryGap]] - case joining veteran testimony to the selective public memory of war.
+- [[StrategicMoraleWarfare]] - case joining public psychology to raids, broadcasting, fear, rights, and displaced harm.
+- [[CarrierWarfareOperationalSystem]] - case joining platform power to information, trained personnel, repair, timing, and contingency.

@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Show 65 - Supernova in the East IV
+
+Added the [[HardcoreHistory]] episode following the 1942 Pacific turn from morale crisis and the Doolittle Raid through Coral Sea, [[BattleOfMidway|Midway]], and the opening of the [[GuadalcanalCampaign]]. Created synthesis-first pages for [[ChesterNimitz]], [[DouglasMacArthur]], [[StrategicMoraleWarfare]], [[CarrierWarfareOperationalSystem]], Midway, and Guadalcanal, then resynthesized [[DanCarlin]], Hardcore History, [[FranklinDRoosevelt]], [[PacificWarAttritionSystem]], and [[SurrenderPreclusionWarEscalation]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: morale is strategically important but hard to measure, so reassurance, intimidation, and symbolic raids can produce anger, civil-liberties damage, operational risk, and harm displaced onto third parties. Carrier warfare operates as a system of intelligence, reconnaissance, trained aircrew, repair, deck cycles, damage control, and replacement capacity. Midway changed the balance without ending Japan's threat, while rushed Guadalcanal operations converted that shift into a prolonged contest over airfields, shipping, unloading, command, and replacements.
+
+No settled contradiction was adopted. Coral Sea's Japanese ship-loss advantage and Allied strategic success use different criteria, while the two Supernova episodes form a chronological extension rather than competing accounts. Chinese retaliation deaths, casualty totals, atrocity reports, morale effects, command motives, and exact Midway causal sequences remain attributed, estimated, disputed, interpretive, or source-scoped because the supplied file is a structured Chinese-language summary rather than a transcript, archive, or systematic military history. The automatic `wiki/overview.md` was read for context and left unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,185 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Hedwig’s Lost Van Gogh
 
 Added a [[RevisionistHistory]] episode using [[VaseWithCarnations|Vase with Carnations]] to connect [[HedwigUllmann]]'s forced exile, [[ClaudeUllin]]'s provenance research, and [[SophieUllman]]'s account of intergenerational healing. Created synthesis-first profiles for the family, painting, and [[DetroitInstituteOfArts]], plus [[HolocaustEraArtRestitution]], [[LegalTitleAndMoralOwnership]], and [[MuseumCollectionStewardship]], then resynthesized [[ArtworkValueProvenanceAndAttention]] from its complete preserved evidence inventory before appending the new source once.
@@ -42390,6 +42400,10 @@ Added a short [[RevisionistHistory]] season-five trailer in which [[MalcolmGladw
 No settled contradiction was adopted. The “yuchas” framing remains promotional wordplay, the action-versus-vacillation excerpt does not establish a general decision rule, and references to Hughes, van Gogh, Smaug, Warhol, museums, suffering, and beauty remain preview fragments whose evidentiary burden belongs to the full episodes. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because the trailer adds no durable biographical claim and downstream synthesis owns the global overview.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,184 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

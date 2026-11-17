@@ -4,6 +4,7 @@ type: concept
 tags: [second-world-war, pacific-war, attrition, logistics, industrial-capacity]
 sources:
   - dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v
+  - dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ The Pacific War attrition system is the interaction among industrial output, tra
 
 ## Current Synthesis
 
-[[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v|Supernova in the East V]] presents late 1942 as the transition from Japanese expansion to a prolonged replacement contest. Tactical courage remained consequential, but it could not compensate for losses in carriers, transports, merchant shipping, aircraft, trained pilots, and supplied garrisons when the United States could build and move forces at a much greater rate.
+[[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv|Supernova in the East IV]] supplies the transition into the attritional contest. Coral Sea checked Japan's movement toward Port Moresby despite an ambiguous ship-loss balance; Midway destroyed four fleet carriers and experienced aircrew without immediately ending Japanese offensive capability; and the improvised Guadalcanal landing turned that altered naval balance into a struggle over an airfield, unloading, sea access, and reinforcement.
+
+[[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v|Supernova in the East V]] follows the transition from Japanese expansion into a prolonged replacement contest. Tactical courage remained consequential, but it could not compensate for losses in carriers, transports, merchant shipping, aircraft, trained pilots, and supplied garrisons when the United States could build and move forces at a much greater rate.
 
 The system was cumulative rather than reducible to one production statistic. Codebreaking enabled the interception that killed Isoroku Yamamoto; submarines and carrier strikes removed shipping; air superiority governed daylight movement; expanding bases shortened operational reach; lessons from Tarawa improved later amphibious assaults; and bypassed garrisons consumed themselves through hunger and disease. Material superiority became battlefield power only through logistics, intelligence, learning, and replacement institutions.
 
@@ -33,17 +36,18 @@ The system was cumulative rather than reducible to one production statistic. Cod
 ## Evidence
 
 - Production and replacement imbalance: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] contrasts 1942 American and Japanese aircraft output and follows widening losses in carriers, aircraft, trained personnel, merchant shipping, and transports.
+- Attritional threshold: [[dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv]] connects Coral Sea, four Japanese carrier losses at Midway, experienced-aircrew loss, Yorktown's repair, and the rushed Guadalcanal offensive to the shift from expansion into replacement competition.
 - Interdiction and isolation: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] connects submarines, the Truk strike, bypass operations, and distant garrison starvation to Japan's shrinking ability to sustain its perimeter.
 - Institutional conversion: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] links codebreaking, radar, fighter direction, layered fleet defense, proximity-fuzed shells, bases, and amphibious learning to operational effect.
 - Personnel boundary: [[dchha66-supernova-in-the-east-v-dchha66-supernova-in-the-east-v]] treats the Philippine Sea as evidence that rebuilt fleet numbers could not replace experienced aircrews or survivable aircraft.
 
 ## Counterevidence & Qualifications
 
-Material advantage does not make campaigns automatic, cheap, or morally clean. New Guinea, Guadalcanal, Tarawa, New Georgia, and Saipan still imposed severe Allied losses, tactical failures, panic, and civilian harm. The source provides selected production and casualty figures rather than a complete comparative dataset, and it cannot independently establish the causal weight of each industrial, technological, intelligence, medical, or command factor.
+Material advantage does not make campaigns automatic, cheap, or morally clean. New Guinea, Guadalcanal, Tarawa, New Georgia, and Saipan still imposed severe Allied losses, tactical failures, panic, and civilian harm. The two sources provide selected production and casualty figures rather than a complete comparative dataset, and they cannot independently establish the causal weight of each industrial, technological, intelligence, medical, command, or chance factor. Midway changed the balance without granting immediate supremacy.
 
 ## What Changed
 
-- Established the concept as a system connecting industrial scale to transport, trained replacements, intelligence, learning, and battlefield sustainability.
+- Extended the system backward to Coral Sea, Midway, and the Guadalcanal opening, showing how repair, aircrew loss, and contested sustainment created the attritional threshold.
 
 ## Related Concepts
 
@@ -52,3 +56,4 @@ Material advantage does not make campaigns automatic, cheap, or morally clean. N
 - [[ResourceAsymmetryAttrition]] - adjacent pattern in which replenishment limits decide a prolonged contest.
 - [[MilitaryMoraleAsCombatCapacity]] - human conversion layer that remains necessary but cannot substitute for material sustainment.
 - [[SurrenderPreclusionWarEscalation]] - mechanism that keeps isolated forces fighting after the attritional balance has become strategically hopeless.
+- [[CarrierWarfareOperationalSystem]] - carrier-era subsystem joining intelligence, aircrew, repair, deck operations, and damage control.

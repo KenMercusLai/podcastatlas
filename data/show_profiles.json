@@ -274,28 +274,28 @@
       "earliest_episode_date": "2018-07-14",
       "latest_episode_date": "2026-07-31",
       "latest_episode_file": "dchha74_Mania_for_Subjugation_IV [dchha74_Mania_for_Subjugation_IV].md",
-      "source_note_count": 8,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 9,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 8
+          "source_note_count": 9
         }
       ],
       "entities": [
         {
-          "key": "AlexanderTheGreat",
-          "title": "Alexander the Great / 亚历山大大帝",
-          "url": "/wiki/entities/alexanderthegreat/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
           "key": "DanCarlin",
           "title": "Dan Carlin",
           "url": "/wiki/entities/dancarlin/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "AlexanderTheGreat",
+          "title": "Alexander the Great / 亚历山大大帝",
+          "url": "/wiki/entities/alexanderthegreat/",
           "kind": "person",
           "episode_count": 4
         },
