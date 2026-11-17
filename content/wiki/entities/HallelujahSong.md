@@ -4,7 +4,8 @@ type: entity
 tags: [song, music, songwriting, adaptation]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,18 +34,21 @@ The song's later prominence therefore illustrates both [[IterativeCreativeReinte
 ### Prolonged composition and continued revision
 
 - [[encore-hallelujah-encore-hallelujah]] reports years of writing, many verse variants, limited initial reception, and later live changes by Cohen.
+- [[hallelujah-hallelujah]] supplies the original-release account of the same prolonged composition and continued revision.
 
 ### Cross-creator recombination
 
 - [[encore-hallelujah-encore-hallelujah]] describes Cale selecting from Cohen's supplied pages and Buckley adapting Cale's recording rather than beginning directly from the 1984 version.
+- [[hallelujah-hallelujah]] traces the same Cohen–Cale–Buckley sequence through selection, arrangement, and performance.
 
 ### Contingent survival and recognition
 
 - [[encore-hallelujah-encore-hallelujah]] traces release, discovery, recording, death, covers, and soundtrack use as a fragile sequence rather than an inevitable rise.
+- [[hallelujah-hallelujah]] emphasizes the contingent chain from independent release and live revision through an obscure tribute recording and posthumous attention.
 
 ## Qualifications
 
-The source is a structured podcast summary rather than the manuscript pages, complete recording history, label archive, chart record, or reception study. Counts of verses and years, the relative contribution of each creator, claims about the version that “unlocked” the song, and the causal role of Buckley's death remain episode-scoped. Later popularity does not prove that one version is objectively final or superior.
+The sources are structured podcast summaries rather than the manuscript pages, complete recording history, label archive, chart record, or reception study. The original release and encore are one editorial lineage, so repeated details are not independent corroboration. Counts of verses and years, the relative contribution of each creator, claims about the version that “unlocked” the song, and the causal role of Buckley's death remain episode-scoped. Later popularity does not prove that one version is objectively final or superior.
 
 ## What Changed
 

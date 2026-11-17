@@ -4,7 +4,8 @@ type: entity
 tags: [person, economist, creativity, innovation]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,18 +33,21 @@ The framework is most useful as a process heuristic. The episode does not establ
 ### Two-path framework
 
 - [[encore-hallelujah-encore-hallelujah]] attributes the conceptual-versus-experimental distinction to Galenson.
+- [[hallelujah-hallelujah]] gives the original-release presentation of the same distinction.
 
 ### Cross-domain application
 
 - [[encore-hallelujah-encore-hallelujah]] moves from Picasso and Cézanne to songwriting and recording histories.
+- [[hallelujah-hallelujah]] likewise extends the framework from painting into music.
 
 ### Heuristic limits
 
 - [[encore-hallelujah-encore-hallelujah]] supplies illustrative cases but no systematic test showing stable creator types or exhaustive categories.
+- [[hallelujah-hallelujah]] supplies the same selected examples rather than an independent or systematic test.
 
 ## Qualifications
 
-The source is a structured summary of a podcast episode, not Galenson's original scholarship or a critical literature review. Definitions, examples, career-age claims, and the extension from visual art to music remain bounded to the episode's presentation.
+The sources are structured summaries of the original and encore versions of one podcast episode, not Galenson's original scholarship or a critical literature review. Their agreement is overlapping provenance, and definitions, examples, career-age claims, and the extension from visual art to music remain bounded to the episode's presentation.
 
 ## What Changed
 

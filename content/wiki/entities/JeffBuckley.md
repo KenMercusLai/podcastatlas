@@ -4,7 +4,8 @@ type: entity
 tags: [person, musician, singer, guitarist]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,18 +33,21 @@ Initial commercial response was limited. The episode connects wider attention to
 ### Adaptation lineage
 
 - [[encore-hallelujah-encore-hallelujah]] explicitly places Buckley's version after and in response to Cale's recording.
+- [[hallelujah-hallelujah]] provides the original-release account of that adaptation lineage.
 
 ### Performance transformation
 
 - [[encore-hallelujah-encore-hallelujah]] contrasts Cale's piano with Buckley's guitar and voice.
+- [[hallelujah-hallelujah]] likewise identifies guitar and vocal performance as Buckley's transformation of Cale's version.
 
 ### Delayed reception
 
 - [[encore-hallelujah-encore-hallelujah]] describes the initial chart weakness of *Grace* and increased attention after Buckley's death.
+- [[hallelujah-hallelujah]] also places wider recognition after the recording's initially limited attention and Buckley's death.
 
 ## Qualifications
 
-The supplied source is not an independent biography, session archive, chart history, or reception study. The circumstances of discovery, exact performance lineage, initial sales, later cover network, and causal role of Buckley's death remain episode-scoped. Posthumous attention should not reduce the recording's craft to tragedy.
+The supplied sources are not an independent biography, session archive, chart history, or reception study. The 2016 release and 2025 encore share one reporting lineage and do not independently confirm each other. The circumstances of discovery, exact performance lineage, initial sales, later cover network, and causal role of Buckley's death remain episode-scoped. Posthumous attention should not reduce the recording's craft to tragedy.
 
 ## What Changed
 

@@ -4,7 +4,8 @@ type: entity
 tags: [person, musician, arranger, producer]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,18 +33,21 @@ Cale's role complicates single-author accounts of creative completion. He did no
 ### Editorial selection
 
 - [[encore-hallelujah-encore-hallelujah]] reports that Cohen sent Cale extensive lyric pages from which Cale chose and combined verses.
+- [[hallelujah-hallelujah]] gives the original-release account of the same selection and recombination.
 
 ### Musical reinterpretation
 
 - [[encore-hallelujah-encore-hallelujah]] identifies Cale's piano-led 1991 recording as a substantial change in pace, balance, and presentation.
+- [[hallelujah-hallelujah]] also attributes changes in arrangement, wording, and thematic balance to Cale's tribute-album version.
 
 ### Transmission role
 
 - [[encore-hallelujah-encore-hallelujah]] states that Buckley encountered and built from Cale's recording.
+- [[hallelujah-hallelujah]] traces Buckley's version through the same intermediary recording.
 
 ## Qualifications
 
-The supplied summary does not include the lyric packet, session records, or a comparative score and recording analysis. The claim that Cale “cracked the code” is an episode interpretation, while authorship, arrangement, reception, and influence involve contributions that cannot be reduced to one decisive intervention.
+The supplied summaries do not include the lyric packet, session records, or a comparative score and recording analysis. The 2016 release and 2025 encore are overlapping versions of one episode rather than independent evidence. The claim that Cale “cracked the code” is an episode interpretation, while authorship, arrangement, reception, and influence involve contributions that cannot be reduced to one decisive intervention.
 
 ## What Changed
 

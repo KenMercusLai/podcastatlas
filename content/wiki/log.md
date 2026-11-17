@@ -43021,3 +43021,17 @@ Core synthesis: functioning brakes overpowered the engines in the episode's test
 No settled contradiction was adopted. The supplied file is a structured, argumentative summary rather than the NHTSA/NASA report, raw recorder data, crash record, software audit, litigation record, or Toyota response. Track tests on selected vehicles do not reconstruct every incident, and pedal error can coexist with trapped throttles, design defects, brake problems, or institutional misconduct. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,228 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] ingest | Hallelujah
+
+Added the original 2016 [[RevisionistHistory]] release on [[ElvisCostello]]'s transformation of “The Deportees Club,” [[DavidGalenson]]'s conceptual-versus-experimental innovation heuristic, and the [[LeonardCohen]]–[[JohnCale]]–[[JeffBuckley]] reinterpretation chain behind [[HallelujahSong|“Hallelujah.”]] Resynthesized the six focused entities and two concepts from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: experimental work can use failure and dissatisfaction to discover its destination, while cross-creator selection, arrangement, and performance can materially reshape a work without erasing original authorship. Such work is unusually fragile because another iteration may depend on access, institutional survival, listeners, and coincidence. Revision can reveal possibilities obscured by an earlier version, but persistence and time do not guarantee quality or recognition.
+
+No settled contradiction was adopted. This source and [[encore-hallelujah-encore-hallelujah|the 2025 encore]] share substantially the same episode and reporting lineage, so their agreement is overlapping provenance rather than independent corroboration. Galenson's distinction remains a project-level heuristic, and dates, verse counts, motives, reception, and causal claims remain episode-scoped. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because the focused pages capture the durable knowledge without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,229 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

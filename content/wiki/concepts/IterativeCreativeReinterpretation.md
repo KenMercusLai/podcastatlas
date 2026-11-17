@@ -4,7 +4,8 @@ type: concept
 tags: [creativity, music, adaptation, collaboration, iteration]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,18 +35,21 @@ Reinterpretation is therefore both creative and infrastructural. A later version
 ### Cross-creator adaptation chain
 
 - [[encore-hallelujah-encore-hallelujah]] traces Cohen's revisions into Cale's recombination and Buckley's adaptation.
+- [[hallelujah-hallelujah]] provides the original-release account of the same cross-creator chain.
 
 ### Same-creator transformation
 
 - [[encore-hallelujah-encore-hallelujah]] describes Costello changing multiple musical and lyrical layers between “Deportees Club” and “Deportee.”
+- [[hallelujah-hallelujah]] likewise describes Costello's changes to melody, lyrics, title, arrangement, and performance.
 
 ### Transmission infrastructure
 
 - [[encore-hallelujah-encore-hallelujah]] links independent release, live performance, a tribute album, personal discovery, reissue, covers, soundtracks, and posthumous attention to whether later versions became possible and visible.
+- [[hallelujah-hallelujah]] emphasizes the same contingent chain through which versions survived and reached later interpreters.
 
 ## Counterevidence & Qualifications
 
-The episode reconstructs famous successful outcomes and is vulnerable to survivorship bias. It does not show how often reinterpretation improves a work, how credit should be allocated, or which transmission event was necessary. Later popularity may reflect marketing, tragedy, fashion, licensing, or retrospective canon formation as well as artistic transformation. “Latent” value is an interpretive judgment, not an observable property waiting to be uncovered.
+The episode reconstructs famous successful outcomes and is vulnerable to survivorship bias. Its original release and encore are overlapping editorial provenance rather than independent cases. It does not show how often reinterpretation improves a work, how credit should be allocated, or which transmission event was necessary. Later popularity may reflect marketing, tragedy, fashion, licensing, or retrospective canon formation as well as artistic transformation. “Latent” value is an interpretive judgment, not an observable property waiting to be uncovered.
 
 ## What Changed
 

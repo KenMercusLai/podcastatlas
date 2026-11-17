@@ -4,7 +4,8 @@ type: concept
 tags: [creativity, innovation, iteration, artistic-process]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,18 +35,21 @@ The most defensible use is project-level and descriptive. A creator may work dif
 ### Discovery through repeated versions
 
 - [[encore-hallelujah-encore-hallelujah]] uses Cézanne's revisited subjects, Cohen's many lyric variants, and Costello's substantial rerecording to show the destination changing through work.
+- [[hallelujah-hallelujah]] provides the original-release account of the same discovery-through-versions cases.
 
 ### Rapid conception-led contrast
 
 - [[encore-hallelujah-encore-hallelujah]] contrasts those cases with Picasso and Paul Simon works presented as arriving quickly and comparatively complete.
+- [[hallelujah-hallelujah]] supplies the same rapid, conception-led comparison.
 
 ### Recognition asymmetry
 
 - [[encore-hallelujah-encore-hallelujah]] connects rejected, abandoned, or poorly received versions to the risk that institutions mistake a stage for a final verdict.
+- [[hallelujah-hallelujah]] likewise frames experimental creativity as fragile when another attempt depends on survival and recognition.
 
 ## Counterevidence & Qualifications
 
-The source offers selected artistic histories rather than a representative sample or direct evaluation of Galenson's scholarship. Creator categories may hide mixed methods, retrospective storytelling, selection on famous successes, and projects that remain unsuccessful despite extensive iteration. Time spent, number of drafts, age at achievement, and later popularity do not by themselves establish an experimental method or artistic quality.
+The sources offer selected artistic histories rather than a representative sample or direct evaluation of Galenson's scholarship. The original release and encore are overlapping editorial provenance, not independent support. Creator categories may hide mixed methods, retrospective storytelling, selection on famous successes, and projects that remain unsuccessful despite extensive iteration. Time spent, number of drafts, age at achievement, and later popularity do not by themselves establish an experimental method or artistic quality.
 
 ## What Changed
 

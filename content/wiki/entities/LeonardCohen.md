@@ -5,7 +5,8 @@ tags: [person, musician, poet, canada, songwriter]
 sources:
   - ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -40,14 +41,16 @@ Together, the sources present Cohen through both perception and process: a voice
 ### Prolonged experimental composition
 
 - [[encore-hallelujah-encore-hallelujah]] reports years of work, many lyric variants, limited initial reception, and continued live revision of “Hallelujah.”
+- [[hallelujah-hallelujah]] provides the original-release account of that prolonged composition and post-release revision.
 
 ### Material shared into an adaptation chain
 
 - [[encore-hallelujah-encore-hallelujah]] describes Cohen sending Cale extensive lyric pages from which a new version was selected and arranged.
+- [[hallelujah-hallelujah]] traces the same sharing, selection, and arrangement chain.
 
 ## Qualifications
 
-The travel source uses one lyric and one speaker's preference rather than providing a literary or national-cultural study. The music source is a structured episode summary rather than Cohen's manuscripts, recording archive, biography, or reception history. Verse counts, years of labor, label decisions, motives, and the relative contribution of each later interpreter remain source-scoped. Persistence and later fame do not show that every prolonged creative process succeeds.
+The travel source uses one lyric and one speaker's preference rather than providing a literary or national-cultural study. The two music sources are structured summaries of the original and encore versions of one episode rather than independent evidence, Cohen's manuscripts, a recording archive, biography, or reception history. Verse counts, years of labor, label decisions, motives, and the relative contribution of each later interpreter remain source-scoped. Persistence and later fame do not show that every prolonged creative process succeeds.
 
 ## What Changed
 

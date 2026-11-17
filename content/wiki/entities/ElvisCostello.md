@@ -4,7 +4,8 @@ type: entity
 tags: [person, musician, songwriter, producer]
 sources:
   - encore-hallelujah-encore-hallelujah
-last_updated: 2026-11-15
+  - hallelujah-hallelujah
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,18 +33,21 @@ This profile does not treat revision as automatically redemptive. The case is us
 ### Revision across musical layers
 
 - [[encore-hallelujah-encore-hallelujah]] reports that the later “Deportee” changed arrangement, melody, lyrics, title, and performance style.
+- [[hallelujah-hallelujah]] provides the original-release account of the same multi-layer revision.
 
 ### Production conflict and constraint
 
 - [[encore-hallelujah-encore-hallelujah]] places the first recording inside a short, strained album process and a standoff over artistic and production control.
+- [[hallelujah-hallelujah]] likewise connects the first recording to commercial pressure, conflict, personal strain, and a three-to-four-week album schedule.
 
 ### Return rather than abandonment
 
 - [[encore-hallelujah-encore-hallelujah]] describes Costello continuing to rewrite and reuse material after the album's failure.
+- [[hallelujah-hallelujah]] describes the same return to old material in the episode's original release.
 
 ## Qualifications
 
-The supplied episode file is a structured summary, not Costello's archive, the complete recordings, or an independent biography. It supports a focused account of one song's revision, while the broader characterization of his process, the producers' motives, the album timeline, and the reasons the later version succeeds remain episode-scoped.
+The supplied episode files are structured summaries, not Costello's archive, the complete recordings, or an independent biography. The 2016 release and 2025 encore share one reporting lineage, so their agreement is not independent corroboration. They support a focused account of one song's revision, while the broader characterization of his process, the producers' motives, the album timeline, and the reasons the later version succeeds remain episode-scoped.
 
 ## What Changed
 

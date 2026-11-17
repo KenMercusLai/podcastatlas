@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hallelujah](sources/hallelujah-hallelujah.md) — Revisionist History connects Costello's rewritten song and the Cohen–Cale–Buckley adaptation chain to experimental creativity, delayed recognition, institutional survival, and chance.
 - [Blame Game](sources/blame-game-blame-game.md) — Revisionist History re-examines Toyota sudden acceleration through brake tests, pedal-error research, event-recorder evidence, and the distinction between human error and negligence.
 - [Generous Orthodoxy](sources/generous-orthodoxy-generous-orthodoxy.md) — Revisionist History connects Chester Wenger's costly support for his gay son with Princeton's Wilson dispute to frame institutionally loyal but morally disobedient reform.
 - [The Satire Paradox](sources/the-satire-paradox-the-satire-paradox.md) — Revisionist History separates satire's reach from persuasion through divergent audience interpretation, comic release, target-softening, and discomfort-preserving alternatives.
