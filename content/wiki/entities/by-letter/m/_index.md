@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14706
+wiki_total_pages: 14708
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "MargaretThatcher"
     title: "Margaret Thatcher / 玛格丽特·撒切尔"
     url: "/wiki/entities/margaretthatcher/"
+  - key: "MargitHamosh"
+    title: "Margit Hamosh"
+    url: "/wiki/entities/margithamosh/"
   - key: "MariaStGeorges"
     title: "Maria / 玛利亚（圣乔治学校）"
     url: "/wiki/entities/mariastgeorges/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "MikhailGorbachev"
     title: "Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫"
     url: "/wiki/entities/mikhailgorbachev/"
+  - key: "MikulasPopovic"
+    title: "Mikulas Popovic"
+    url: "/wiki/entities/mikulaspopovic/"
   - key: "MilanKundera"
     title: "Milan Kundera / 米兰·昆德拉"
     url: "/wiki/entities/milankundera/"

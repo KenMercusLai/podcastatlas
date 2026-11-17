@@ -4,6 +4,7 @@ type: concept
 tags: [science, research-integrity, due-process, institutional-design]
 sources:
   - strong-verbs-short-sentences-strong-verbs-short-sentences
+  - the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Scientific misconduct due process is a procedural framework for distinguishing e
 
 ## Current Synthesis
 
-The episode's central case shows why anomaly detection cannot substitute for intent analysis. [[RameshSharma]]'s one incorrect protein name was real, but its isolation within the reported 78 pages, his keyboard-shortcut explanation, and the investigators' own date error all weakened the inference of fraud. Treating the entry as intentional before resolving those facts imposed career costs that later vindication could not fully reverse.
+The bounded cases show why anomaly detection cannot substitute for intent analysis. [[RameshSharma]]'s one incorrect protein name was real, but its isolation within the reported 78 pages, his keyboard-shortcut explanation, and the investigators' own date error all weakened the inference of fraud. [[MargitHamosh]]'s remaining accusation turned on whether “presently” meant “currently” or “shortly,” even though she had designed the rabbit work, secured equipment and funding, and begun preliminary data collection. Treating either ambiguity as intentional deception before resolving context imposed career costs that later vindication could not fully reverse.
 
 [[BernadineHealy]]'s appeal reform changed the institutional sequence. Accused researchers could answer before conclusions hardened through leaks and could bring findings before an adjudicative panel. The framework therefore supports vigorous investigation while refusing to equate suspicion, bureaucratic confidence, or political pressure with a proven finding.
 
@@ -27,6 +28,7 @@ The episode's central case shows why anomaly detection cannot substitute for int
 - Notice and a meaningful opportunity to respond should occur before official conclusions are amplified through the press.
 - Independent appeal is especially important when investigators operate under political or institutional pressure.
 - Proportionality matters because reputational and employment sanctions can become irreversible even after formal vindication.
+- Linguistic ambiguity, editing differences, and second-language usage require contextual inquiry before they can support an inference of deception.
 
 ## Evidence
 
@@ -42,15 +44,23 @@ The episode's central case shows why anomaly detection cannot substitute for int
 
 - [[strong-verbs-short-sentences-strong-verbs-short-sentences]] says Healy instituted an appeal right and that panels reversed or collapsed the Sharma, Baltimore, Hamosh, and Popovic findings described by the episode.
 
+### Notice before publicity
+
+- [[the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh]] reports that preliminary findings against Hamosh were leaked and published before she could review the report or submit a rebuttal.
+
+### Language and intent
+
+- [[the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh]] uses the disputed meanings of “presently” and “ND” to show why wording and editorial ambiguity cannot by themselves establish knowing falsification.
+
 ## Counterevidence & Qualifications
 
-Due process does not imply that scientific fraud is rare, harmless, or beyond external oversight. A typographical explanation can be false, repeated anomalies can establish a pattern, and confidentiality can protect institutions as well as accused people. The current evidence comes from one critical narrative source without the underlying case files, rulings, or a systematic measure of false-positive and false-negative misconduct findings.
+Due process does not imply that scientific fraud is rare, harmless, or beyond external oversight. A typographical or linguistic explanation can be false, repeated anomalies can establish a pattern, and confidentiality can protect institutions as well as accused people. The current evidence comes from two companion narrative sources without the underlying case files, rulings, grant records, or a systematic measure of false-positive and false-negative misconduct findings.
 
 ## What Changed
 
-- Established a procedural synthesis separating detectable error from demonstrated intent.
-- Identified appeal, pre-publication response, proportionality, and leak control as linked safeguards.
-- Preserved strong investigation and external accountability as compatible requirements.
+- Added linguistic and editorial ambiguity as a distinct intent-analysis problem.
+- Strengthened the case for response rights before preliminary findings are leaked or published.
+- Extended irreversible harm from employment loss to public stigma and research opportunity cost.
 
 ## Related Concepts
 
@@ -59,3 +69,4 @@ Due process does not imply that scientific fraud is rare, harmless, or beyond ex
 - [[ScientificSelfCorrection]] - epistemic correction process distinct from personnel accusation and sanction.
 - [[ResearchIntegrityIncentives]] - incentive design aimed at reliable science before misconduct adjudication becomes necessary.
 - [[AssociationEvidenceBoundary]] - parallel rule against treating suggestive proximity as proof of culpable conduct.
+- [[DisplacedFearAttribution]] - wider fear can intensify suspicion without supplying evidence of individual intent.

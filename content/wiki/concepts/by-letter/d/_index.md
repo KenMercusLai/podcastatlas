@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11678
+wiki_total_pages: 11679
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "DispersedInformationProblem"
     title: "Dispersed Information Problem"
     url: "/wiki/concepts/dispersedinformationproblem/"
+  - key: "DisplacedFearAttribution"
+    title: "Displaced Fear Attribution"
+    url: "/wiki/concepts/displacedfearattribution/"
   - key: "DisplayErgonomics"
     title: "Display Ergonomics"
     url: "/wiki/concepts/displayergonomics/"

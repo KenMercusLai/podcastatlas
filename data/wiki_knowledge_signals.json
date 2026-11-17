@@ -85489,6 +85489,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/dispersedbusinesselitepower/"
     },
+    "DisplacedFearAttribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Imaginary_Crimes_of_Margit_Hamosh [The_Imaginary_Crimes_of_Margit_Hamosh].md",
+          "key": "the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh",
+          "show": "Revisionist History",
+          "title": "The Imaginary Crimes of Margit Hamosh",
+          "url": "/wiki/sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/displacedfearattribution/"
+    },
     "DisposableSoftware": {
       "episode_count": 2,
       "show_count": 2,
@@ -209607,6 +209623,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/marginaldecadebackcasting/"
     },
+    "MargitHamosh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Imaginary_Crimes_of_Margit_Hamosh [The_Imaginary_Crimes_of_Margit_Hamosh].md",
+          "key": "the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh",
+          "show": "Revisionist History",
+          "title": "The Imaginary Crimes of Margit Hamosh",
+          "url": "/wiki/sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/margithamosh/"
+    },
     "MariaCarolina": {
       "episode_count": 2,
       "show_count": 1,
@@ -219565,6 +219597,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/mikiwatanabe/"
+    },
+    "MikulasPopovic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_Imaginary_Crimes_of_Margit_Hamosh [The_Imaginary_Crimes_of_Margit_Hamosh].md",
+          "key": "the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh",
+          "show": "Revisionist History",
+          "title": "The Imaginary Crimes of Margit Hamosh",
+          "url": "/wiki/sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/mikulaspopovic/"
     },
     "MilesWilliams": {
       "episode_count": 1,
@@ -285464,9 +285512,9 @@
       "url": "/wiki/concepts/scientificexplorationimperialclaim/"
     },
     "ScientificFraudPanic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
@@ -285474,6 +285522,13 @@
           "show": "Revisionist History",
           "title": "Strong Verbs, Short Sentences",
           "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        },
+        {
+          "episode_file": "The_Imaginary_Crimes_of_Margit_Hamosh [The_Imaginary_Crimes_of_Margit_Hamosh].md",
+          "key": "the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh",
+          "show": "Revisionist History",
+          "title": "The Imaginary Crimes of Margit Hamosh",
+          "url": "/wiki/sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh/"
         }
       ],
       "updated": "2026-11-17",
@@ -285496,9 +285551,9 @@
       "url": "/wiki/concepts/scientificinstitutionselfgovernance/"
     },
     "ScientificMisconductDueProcess": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Strong_Verbs,_Short_Sentences [Strong_Verbs,_Short_Sentences].md",
@@ -285506,6 +285561,13 @@
           "show": "Revisionist History",
           "title": "Strong Verbs, Short Sentences",
           "url": "/wiki/sources/strong-verbs-short-sentences-strong-verbs-short-sentences/"
+        },
+        {
+          "episode_file": "The_Imaginary_Crimes_of_Margit_Hamosh [The_Imaginary_Crimes_of_Margit_Hamosh].md",
+          "key": "the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh",
+          "show": "Revisionist History",
+          "title": "The Imaginary Crimes of Margit Hamosh",
+          "url": "/wiki/sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh/"
         }
       ],
       "updated": "2026-11-17",

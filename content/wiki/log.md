@@ -41917,6 +41917,16 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-17] ingest | The Imaginary Crimes of Margit Hamosh
+
+Added a [[RevisionistHistory]] episode comparing Belgium's 1999 Coca-Cola scare with the early-1990s misconduct prosecution of [[MargitHamosh]]. Created focused profiles for Hamosh and [[MikulasPopovic]] plus [[DisplacedFearAttribution]], while resynthesizing [[ScientificFraudPanic]] and [[ScientificMisconductDueProcess]] from their complete bounded source inventories.
+
+Core synthesis: genuine fear, symptoms, or documentary error do not establish a correctly identified cause or fraudulent intent. The episode argues that dioxin anxiety migrated toward Coke and AIDS-era distrust migrated toward individual scientists, while investigators and journalists converted preliminary claims into public verdicts before rebuttal. Hamosh's remaining accusation over “presently,” like [[MikulasPopovic]]'s “ND” dispute, makes linguistic and editorial context part of intent analysis rather than proof of deception.
+
+No settled contradiction was adopted. The analogy does not equate mass sociogenic illness with misconduct investigation, aggressive oversight remains compatible with due process, and the causal role of prior collective fear remains Gladwell's interpretation. Toxicology evidence, grant records, case files, rulings, press coverage, accuser and investigator responses, and epidemiological data remain episode-scoped because the supplied file is a structured summary rather than those primary materials. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,204 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | Cede of doubt: a NATO offer to Ukraine
 
 Added a [[TheIntelligence]] episode connecting an unaccepted NATO-for-territory proposal, the uneven constraints of American divided government, and a South London classroom lesson in AI scrutiny and evidence-based disagreement. Created [[NegotiatedSecurityGuaranteeCredibility]] to separate treaty labels from allied authorization, operational specificity, adversary acceptance, and political durability, and created [[DividedGovernmentExecutiveConstraint]] to distinguish congressional oversight and fiscal leverage from continuing delegated presidential authority.
@@ -42652,6 +42662,10 @@ Core synthesis: Western coercion and racial hierarchy made rapid modernization a
 No settled contradiction was adopted. The source reinforces Bushido as an evolving construction and Meiji modernization as an imperial entanglement rather than a clean defensive-to-aggressive switch. Cultural intensity is explanatory only when joined to education, command, family pressure, sanctions, and limited choices; Western double standards do not excuse Japanese empire or atrocity. Claims about Onoda's inner world, imperial belief, the emperor's responsibility, public motives, atrocity totals, and battle figures remain contested or source-scoped. The automatic `wiki/overview.md` remained closed in accordance with the downstream synthesis boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,202 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 

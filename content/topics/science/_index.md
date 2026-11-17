@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1729
+topic_total_pages: 1731
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -670,6 +670,9 @@ topic_concepts:
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"
+  - key: "DisplacedFearAttribution"
+    title: "Displaced Fear Attribution"
+    url: "/wiki/concepts/displacedfearattribution/"
   - key: "DissociationCircuitInference"
     title: "Dissociation Circuit Inference"
     url: "/wiki/concepts/dissociationcircuitinference/"
@@ -4923,6 +4926,9 @@ topic_sources:
   - key: "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128"
     title: "The high cost of vacuuming carbon from the sky"
     url: "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
+  - key: "the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh"
+    title: "The Imaginary Crimes of Margit Hamosh"
+    url: "/wiki/sources/the-imaginary-crimes-of-margit-hamosh-the-imaginary-crimes-of-margit-hamosh/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
     title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"
