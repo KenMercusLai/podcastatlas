@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1733
+topic_total_pages: 1734
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4215,6 +4215,9 @@ topic_sources:
   - key: "98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507"
     title: "98.自卑与超越：向前看，前方有希望"
     url: "/wiki/sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507/"
+  - key: "a-polite-word-for-liar-a-polite-word-for-liar"
+    title: "A Polite Word for Liar"
+    url: "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
   - key: "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551"
     title: "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood"
     url: "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"

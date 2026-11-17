@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2835
+topic_total_pages: 2836
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2309,6 +2309,9 @@ topic_entities:
   - key: "JohnKipling"
     title: "John Kipling"
     url: "/wiki/entities/johnkipling/"
+  - key: "JohnWeitz"
+    title: "John Weitz"
+    url: "/wiki/entities/johnweitz/"
   - key: "KharosthiNiyaDocuments"
     title: "Kharosthi Niya Documents / 尼雅佉卢文文书"
     url: "/wiki/entities/kharosthiniyadocuments/"

@@ -5,7 +5,8 @@ tags: [history, oral-history, memory, method]
 sources:
   - 100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b
   - cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5
-last_updated: 2026-10-19
+  - a-polite-word-for-liar-a-polite-word-for-liar
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,9 +18,11 @@ The sources treat oral history as disciplined listening and claim-level testing,
 
 Interview design determines what testimony can recover. Broad prompts such as “how do you evaluate reform and opening?” invite retrospective slogans; questions about wake time, pickling, selling places, routes, and ordinary tasks recover actions that interviewees actually experienced and that formal archives rarely record. Repeated interviews and document comparison then test rather than erase those memories.
 
+*A Polite Word for Liar* adds a warning about interpreting the errors themselves. Adler's desire-shaped stories may illuminate self-presentation, but his principled conduct prevents a simple character diagnosis; Weitz's silence and later hybrid Munich account may reflect trauma, secrecy, correction, friendship, or accommodation. Oral history can study these narrative changes while keeping [[MemoryErrorCharacterInference]] separate from what the event record establishes.
+
 ## Key Claims
 - Listening matters before interrogation because older interviewees may carry contexts not present in the researcher's initial question.
-- Memory error is not only noise; it can show how people want to see themselves, family, religion, or local history.
+- Memory error is not only noise; it can show how people want to see themselves, family, religion, or local history, but it does not reliably identify one motive or stable character trait.
 - Oral testimony should be analyzed rather than accepted as direct fact restoration.
 - Concrete routine questions often produce more usable evidence than requests for macrohistorical evaluation.
 - Repeated interviews and cross-checking with archives, genealogy, and field sites make oral history stronger.
@@ -32,13 +35,16 @@ Interview design determines what testimony can recover. Broad prompts such as �
 - Present-past connection: [[100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b]] shows Chinese-language public talks generating new descendant contact and family memories.
 - Everyday questioning: [[cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5]] contrasts abstract reform-era evaluation with questions about waking, food preparation, selling, and daily movement.
 - Repetition and verification: [[cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5]] emphasizes memory's ongoing reconstruction and the use of repeat interviews and documents.
+- Conflicting and hybrid versions: [[a-polite-word-for-liar-a-polite-word-for-liar]] preserves Adler's and Weitz's incompatible Munich accounts and Weitz's later partial convergence without claiming forensic resolution.
 
 ## Counterevidence & Qualifications
-Neither source makes oral history superior to written archives. Both argue for triangulation because memory and institutional records are partial. Interviewees also need sufficient recall, expression, and tolerance for the process; urgency around older generations should not override consent or encourage leading questions.
+None of the sources makes oral history superior to written archives. They argue for triangulation because memory and institutional records are partial. Interviewees also need sufficient recall, expression, and tolerance for the process; urgency around older generations should not override consent or encourage leading questions. A story's dramatic quality, a witness's silence, or principled conduct elsewhere cannot establish which disputed version is true. Memory may express self-image without functioning as a dependable character test.
 
 ## What Changed
 - Added concrete everyday questioning and repeated interviewing as safeguards against retrospective abstraction.
 - Clarified that urgency around disappearing generational memory does not make testimony self-validating.
+- Qualified self-image interpretation by separating narrative meaning from motive and character diagnosis.
+- Added preservation of incompatible and later hybrid witness accounts.
 
 ## Related Concepts
 - [[PersonalArchiveAsHistory]] - family traces and memory as historical evidence.
@@ -47,3 +53,5 @@ Neither source makes oral history superior to written archives. Both argue for t
 - [[InterviewAsEmbodiedReporting]] - adjacent interview method where presence and listening matter.
 - [[OrdinaryPeopleHistoricalVisibility]] - oral memory helps connect archives to living social worlds.
 - [[ArchiveFieldTriangulation]] - joins testimony to documents, images, maps, and places without collapsing their differences.
+- [[AutobiographicalMemoryHistoricalEvidence]] - adjacent framework for calibrating confidence in attribution, chronology, and detail.
+- [[MemoryErrorCharacterInference]] - limit on treating an inaccurate or changing memory as a transparent moral diagnosis.

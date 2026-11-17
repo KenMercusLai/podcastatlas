@@ -53887,6 +53887,10 @@
     "title": "John Watson / 华生",
     "url": "/wiki/entities/johnwatson/"
   },
+  "JohnWeitz": {
+    "title": "John Weitz",
+    "url": "/wiki/entities/johnweitz/"
+  },
   "JohnWennberg": {
     "title": "John Wennberg",
     "url": "/wiki/entities/johnwennberg/"
@@ -56846,6 +56850,10 @@
   "LarkluxPaint": {
     "title": "Larklux Paint",
     "url": "/wiki/entities/larkluxpaint/"
+  },
+  "LarryAdler": {
+    "title": "Larry Adler",
+    "url": "/wiki/entities/larryadler/"
   },
   "LarryBaker": {
     "title": "Larry Baker",
@@ -65182,6 +65190,10 @@
   "MemoryEncodingLevers": {
     "title": "Memory Encoding Levers",
     "url": "/wiki/concepts/memoryencodinglevers/"
+  },
+  "MemoryErrorCharacterInference": {
+    "title": "Memory Error as Character Inference",
+    "url": "/wiki/concepts/memoryerrorcharacterinference/"
   },
   "MemoryGroupPersonalContinuity": {
     "title": "Memory-Group Personal Continuity / “记忆组”式人格延续",
@@ -110674,6 +110686,10 @@
   "a-new-day-at-the-races-a-new-day-at-the-races": {
     "title": "A New Day at the Races",
     "url": "/wiki/sources/a-new-day-at-the-races-a-new-day-at-the-races/"
+  },
+  "a-polite-word-for-liar-a-polite-word-for-liar": {
+    "title": "A Polite Word for Liar",
+    "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
   },
   "a-pro-worker-experiment-in-private-equity": {
     "title": "A pro-worker experiment in private equity",

@@ -28120,9 +28120,9 @@
       "url": "/wiki/concepts/autorlproductionloop/"
     },
     "AutobiographicalMemoryHistoricalEvidence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5781731754 [GLT5781731754].md",
@@ -28137,6 +28137,13 @@
           "show": "Revisionist History",
           "title": "Free Brian Williams",
           "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
+        },
+        {
+          "episode_file": "A_Polite_Word_for_Liar [A_Polite_Word_for_Liar].md",
+          "key": "a-polite-word-for-liar-a-polite-word-for-liar",
+          "show": "Revisionist History",
+          "title": "A Polite Word for Liar",
+          "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
         }
       ],
       "updated": "2026-11-17",
@@ -176302,6 +176309,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/johntylerhistorian/"
     },
+    "JohnWeitz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Polite_Word_for_Liar [A_Polite_Word_for_Liar].md",
+          "key": "a-polite-word-for-liar-a-polite-word-for-liar",
+          "show": "Revisionist History",
+          "title": "A Polite Word for Liar",
+          "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/johnweitz/"
+    },
     "JohnWennberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -184711,6 +184734,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/laozi/"
+    },
+    "LarryAdler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Polite_Word_for_Liar [A_Polite_Word_for_Liar].md",
+          "key": "a-polite-word-for-liar-a-polite-word-for-liar",
+          "show": "Revisionist History",
+          "title": "A Polite Word for Liar",
+          "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/larryadler/"
     },
     "LarryDavid": {
       "episode_count": 1,
@@ -215594,6 +215633,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/memoryencodinglevers/"
     },
+    "MemoryErrorCharacterInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A_Polite_Word_for_Liar [A_Polite_Word_for_Liar].md",
+          "key": "a-polite-word-for-liar-a-polite-word-for-liar",
+          "show": "Revisionist History",
+          "title": "A Polite Word for Liar",
+          "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/memoryerrorcharacterinference/"
+    },
     "MemoryGroupPersonalContinuity": {
       "episode_count": 1,
       "show_count": 1,
@@ -240171,9 +240226,9 @@
       "url": "/wiki/concepts/oralcontraceptiveinformedconsent/"
     },
     "OralHistoryMemoryAnalysis": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -240188,9 +240243,16 @@
           "show": "面基",
           "title": "从东北到东亚，历史是一个过程，人也是",
           "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        },
+        {
+          "episode_file": "A_Polite_Word_for_Liar [A_Polite_Word_for_Liar].md",
+          "key": "a-polite-word-for-liar-a-polite-word-for-liar",
+          "show": "Revisionist History",
+          "title": "A Polite Word for Liar",
+          "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/oralhistorymemoryanalysis/"
     },
     "OralMicrobiomePreventiveCare": {
@@ -269728,9 +269790,9 @@
       "url": "/wiki/concepts/reconstructionrollback/"
     },
     "ReconstructiveMemory": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -269773,6 +269835,13 @@
           "show": "Revisionist History",
           "title": "Free Brian Williams",
           "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
+        },
+        {
+          "episode_file": "A_Polite_Word_for_Liar [A_Polite_Word_for_Liar].md",
+          "key": "a-polite-word-for-liar-a-polite-word-for-liar",
+          "show": "Revisionist History",
+          "title": "A Polite Word for Liar",
+          "url": "/wiki/sources/a-polite-word-for-liar-a-polite-word-for-liar/"
         }
       ],
       "updated": "2026-11-17",

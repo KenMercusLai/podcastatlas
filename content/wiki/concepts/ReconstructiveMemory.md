@@ -9,6 +9,7 @@ sources:
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
   - default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670
   - free-brian-williams-free-brian-williams
+  - a-polite-word-for-liar-a-polite-word-for-liar
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -33,6 +34,8 @@ The Thomas episode connects this modern account to Ebbinghaus's forgetting curve
 
 *Free Brian Williams* adds a longitudinal and professional-accountability case. The episode's September 11 research summary separates durable confidence from declining consistency, while the Deedee Gordon example shows a time-slice error in which a later conversation about flying is moved into September 11. Applying the same model to [[BrianWilliams]] makes sincere reconstruction plausible but cannot establish his intention; a memory explanation and a journalist's verification failure can both remain true.
 
+*A Polite Word for Liar* adds desire, narrative improvement, and friendship to the reconstruction model. [[LarryAdler]] describes a wished-for glider position becoming remembered fact and openly demonstrates how a borrowed punchline can improve an anecdote. His conflicting Munich memory with [[JohnWeitz]], and Weitz's later account combining elements of both earlier versions, show that revision can serve excitement, loyalty, restraint, correction, or several motives at once. The discrepancy therefore supports [[MemoryErrorCharacterInference]]: false content should be corrected, but the error alone does not reliably reveal stable moral character.
+
 ## Key Claims
 - Memory is a representation of the past, not an exact copy of the past.
 - Repeated exposure does not ensure accurate recall unless attention actively selects and encodes relevant details.
@@ -40,7 +43,7 @@ The Thomas episode connects this modern account to Ebbinghaus's forgetting curve
 - Source memory can fail, and retrieval can reopen context or narrative to updating while confidence rises even when repeated imagination or an incomplete trace obscures whether content came from action, perception, suggestion, or imagination.
 - Imagining the future draws on the same constructive machinery as remembering the past.
 - Expectations make perception efficient but can also hide changes and combine with emotion or inferred continuity to produce a more complete remembered event than the encoded sequence.
-- Vivid confidence can remain high while details and chronology drift, so early records and independent corroboration matter.
+- Vivid confidence can remain high while details, chronology, and narrative ownership drift, so early records and independent corroboration matter while motive remains a separate question.
 
 ## Evidence
 - Reconstruction frame - [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002]] defines memory as a mental representation and says it is reconstructive rather than always accurate.
@@ -56,14 +59,17 @@ The Thomas episode connects this modern account to Ebbinghaus's forgetting curve
 - Schema and source confusion - [[default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670]] connects Bartlett-style schema reconstruction with photographs, stories, leading questions, and repeatedly imagined actions.
 - Confidence and consistency - [[free-brian-williams-free-brian-williams]] reports longitudinal September 11 recollections that changed substantially while confidence remained high.
 - Chronology and source confusion - [[free-brian-williams-free-brian-williams]] uses a misplaced flying conversation and repeated interviews about an Iraq helicopter attack to illustrate time-slice and ownership errors.
+- Desire and narrative improvement - [[a-polite-word-for-liar-a-polite-word-for-liar]] uses Adler's glider error and admitted anecdotal borrowing to show how a preferred story can displace a less satisfying original.
+- Friendship and merged versions - [[a-polite-word-for-liar-a-polite-word-for-liar]] contrasts the Munich accounts and preserves Weitz's later version combining arrests with no resistance and distressed older women.
 
 ## Counterevidence & Qualifications
-The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. A magician's practitioner account illustrates these constraints but does not isolate their causal contributions. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. Weapon-focus, post-9/11 drift, imagination-inflation, eyewitness, and false-memory examples remain source summaries rather than a technical forensic-memory review; the reported September 11 consistency decline requires the underlying study, and general fallibility cannot determine Williams's intent or which account is accurate in another disputed event.
+The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. A magician's practitioner account illustrates these constraints but does not isolate their causal contributions. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. Weapon-focus, post-9/11 drift, imagination-inflation, eyewitness, and false-memory examples remain source summaries rather than a technical forensic-memory review; the reported September 11 consistency decline requires the underlying study, and general fallibility cannot determine Williams's intent, the correct Munich account, or the character meaning of a particular error. Adler's courageous conduct complicates a vanity explanation but does not establish accuracy or exclude self-dramatization in other settings.
 
 ## What Changed
 - Added longitudinal evidence separating durable confidence from declining consistency.
 - Added time-slice error as a specific chronology failure within reconstructive recall.
-- Clarified that a plausible memory mechanism does not settle intent or erase professional verification duties.
+- Added desire-driven story improvement and later merging of incompatible versions.
+- Clarified that a plausible memory mechanism does not settle intent, character, historical accuracy, or professional verification duties.
 
 ## Related Concepts
 - [[SelfTestingMemoryPractice]] - retrieval and correction method that improves later reconstruction.
@@ -78,3 +84,4 @@ The sources do not claim memory is arbitrary or useless. Some memories are stabl
 - [[ImaginationInflationAndSourceConfusion]] - mechanism by which imagined content can be mistaken for performed or perceived experience.
 - [[FlashbulbMemory]] - vivid-confidence case where emotional salience can outlast stable detail.
 - [[AutobiographicalMemoryHistoricalEvidence]] - method for using remembered experience with claim-specific corroboration.
+- [[MemoryErrorCharacterInference]] - boundary between correcting a false recollection and diagnosing the rememberer's moral character.

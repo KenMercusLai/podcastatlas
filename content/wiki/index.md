@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Polite Word for Liar](sources/a-polite-word-for-liar-a-polite-word-for-liar.md) — Revisionist History uses Larry Adler and John Weitz's conflicting Munich memories to separate factual error, deliberate deception, narrative style, and moral character.
 - [Free Brian Williams](sources/free-brian-williams-free-brian-williams.md) — Revisionist History uses Brian Williams's changing Iraq account and longitudinal September 11 research to separate vivid confidence, factual consistency, intent, and verification duty.
 - [General Chapman’s Last Stand](sources/general-chapman-s-last-stand-general-chapman-s-last-stand.md) — Revisionist History argues that costlier border crossing suppressed return migration and helped turn a circular labor flow into permanent settlement.
 - [The Hug Heard Round the World](sources/the-hug-heard-round-the-world-the-hug-heard-round-the-world.md) — Revisionist History uses Sammy Davis Jr.'s Nixon embrace, civil-rights record, and Rosabeth Kanter's research to examine token isolation, conditional belonging, and constrained accommodation.
@@ -5336,6 +5337,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Analysis, Parapraxis, Elvis](sources/analysis-parapraxis-elvis-analysis-parapraxis-elvis.md) — Revisionist History uses Elvis's concentrated performance errors, live musical experiments, and qualified psychoanalytic interpretation to ask when mistakes disclose emotional pressure.
 
 ## Entities
+- [Larry Adler](entities/LarryAdler.md) — Harmonica virtuoso and candid raconteur whose memory errors, principled sacrifices, and storytelling complicate a global judgment of dishonesty.
+- [John Weitz](entities/JohnWeitz.md) — German Jewish refugee and OSS operative whose secrecy and changing Munich accounts illustrate the interpretive limits of wartime memory.
 - [Brian Williams](entities/BrianWilliams.md) — Journalist whose false Iraq helicopter account becomes a case study in reconstructive memory, unresolved intent, and independent verification duty.
 - [Bill Hirst](entities/BillHirst.md) — Psychologist whose flashbulb-memory research informs the episode's confidence-versus-consistency analysis.
 - [Leonard Chapman](entities/LeonardChapman.md) — Marine commandant and INS commissioner whose effective administration anchors the episode’s border-policy paradox.
@@ -20152,6 +20155,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hikaru Nakamura](entities/HikaruNakamura.md) — Chess grandmaster whose fast-format strength illustrates how time controls change the capabilities rewarded and the rankings produced.
 
 ## Concepts
+- [Memory Error as Character Inference](concepts/MemoryErrorCharacterInference.md) — Boundary between correcting a false or changing recollection and inferring deliberate deception or stable moral character.
 - [Flashbulb Memory](concepts/FlashbulbMemory.md) — Vivid, highly confident recall of dramatic public events whose details and chronology can still change over time.
 - [Circular Migration](concepts/CircularMigration.md) — Repeated movement between home and work destinations rather than one-way permanent settlement.
 - [Border Enforcement–Settlement Backfire](concepts/BorderEnforcementSettlementBackfire.md) — Mechanism by which costlier crossing can suppress exits, lengthen stays, and increase family settlement.

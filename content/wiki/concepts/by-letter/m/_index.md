@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11685
+wiki_total_pages: 11686
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "MemoryEncodingLevers"
     title: "Memory Encoding Levers"
     url: "/wiki/concepts/memoryencodinglevers/"
+  - key: "MemoryErrorCharacterInference"
+    title: "Memory Error as Character Inference"
+    url: "/wiki/concepts/memoryerrorcharacterinference/"
   - key: "MemoryReconsolidationPsychiatry"
     title: "Memory Reconsolidation Psychiatry"
     url: "/wiki/concepts/memoryreconsolidationpsychiatry/"

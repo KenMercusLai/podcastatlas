@@ -42731,3 +42731,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | A Polite Word for Liar
+
+Added the 2018 [[RevisionistHistory]] episode using [[LarryAdler]] and [[JohnWeitz]]'s incompatible and later partially converging Munich accounts to extend [[ReconstructiveMemory]], [[AutobiographicalMemoryHistoricalEvidence]], and [[OralHistoryMemoryAnalysis]]. Created focused profiles for Adler and Weitz plus [[MemoryErrorCharacterInference]], which separates correction of a false recollection from unsupported conclusions about deliberate deception or stable moral character.
+
+Core synthesis: desire, repetition, narrative improvement, secrecy, trauma, and friendship can shape autobiographical recall, but no single memory-management style transparently reveals truth or character. Adler's admitted embellishment and glider error remain genuine inaccuracies; his anti-McCarthy sacrifice complicates a global vanity diagnosis without proving every story true. Weitz's later hybrid account may reflect correction, accommodation, loyalty, or further reconstruction.
+
+No settled contradiction was adopted. The Munich versions conflict on resistance, deaths, arrests, occupants, and timing, and the episode cannot adjudicate the operation from the supplied structured summary. The new source qualifies the existing oral-history claim that memory error can disclose desired self-image: it sometimes can, but motive and character require additional evidence. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[NaziGermany]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,209 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
