@@ -8,6 +8,7 @@ sources:
   - how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
   - default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670
+  - free-brian-williams-free-brian-williams
 last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The current judgment is careful rather than dismissive. Sincerity and accuracy a
 
 The Thomas episode makes post-event contamination more granular. Partner retellings, family stories, photographs, question wording, witness discussion, news coverage, online research, and repeated imagination can all supply content that is later experienced as memory. These mechanisms can produce incompatible sincere accounts, but they cannot determine which account is correct in a specific dispute, and one person's nonmemory does not establish nonoccurrence.
 
+*Free Brian Williams* adds repeated professional retelling and interviews with other participants as possible contamination routes. Its flashbulb-memory material shows that confidence can remain high after details change, while the time-slice example shows contamination of sequence rather than invention of every component. The Williams application remains a hypothesis: known exposure to other accounts does not prove that source confusion caused his false statement.
+
 ## Key Claims
 - Sincerity and accuracy are different questions.
 - Labels, stereotypes, and distraction can make later recall feel like evidence for a story introduced from outside.
@@ -31,7 +34,7 @@ The Thomas episode makes post-event contamination more granular. Partner retelli
 - Eyewitness identification can contaminate later memory, especially when confidence rises after a lineup or confirmation.
 - Memory caution should protect truth-seeking and vulnerable people rather than erase real harm.
 - Extraordinary or high-stakes claims need corroboration beyond confident testimony.
-- Interview wording, social retelling, photographs, and repeated imagination can contaminate source monitoring even without deliberate deception.
+- Interview wording, social retelling, repeated professional rehearsal, photographs, and repeated imagination can contaminate source monitoring even without deliberate deception.
 
 ## Evidence
 - Stereotype-shaped recall - [[123-renxing-shiyan-dangxin-ni-ziji-779479569]] describes experiments where trait words or occupational labels shape later evaluation and memory.
@@ -42,14 +45,15 @@ The Thomas episode makes post-event contamination more granular. Partner retelli
 - Stress and attentional narrowing - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses weapon focus and traumatic-memory drift to separate emotional force from complete encoding.
 - Suggestion and repeated recall - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] describes recall-driven updating and the “lost in the mall” paradigm while warning about attempts to recover repressed memories through suggestive framing.
 - Post-event information and imagination - [[default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670]] connects leading accident questions, manipulated photographs, family stories, witness discussion, and repeatedly imagined actions to later source confusion.
+- Retelling and time-slice errors - [[free-brian-williams-free-brian-williams]] uses repeated interviews, changing Iraq accounts, and a misplaced September 11 flying conversation to illustrate possible ownership and sequence contamination.
 
 ## Counterevidence & Qualifications
-The concept does not mean all testimony is false or that memory evidence has no value. It means memory reports need context, corroboration, non-leading interview design, preservation of early accounts, and caution about later suggestion. One person's inability to recall does not prove an event did not occur, while another person's confidence does not prove it did. The “lost in the mall,” weapon-focus, post-9/11, imagination-inflation, and eyewitness examples are summarized through public episodes rather than assessed here as a full forensic-psychology literature.
+The concept does not mean all testimony is false or that memory evidence has no value. It means memory reports need context, corroboration, non-leading interview design, preservation of early accounts, and caution about later suggestion. One person's inability to recall does not prove an event did not occur, while another person's confidence does not prove it did. The “lost in the mall,” weapon-focus, post-9/11, imagination-inflation, eyewitness, and Williams examples are summarized through public episodes rather than assessed here as a full forensic-psychology literature; a possible contamination route does not establish case-specific causation or intent.
 
 ## What Changed
-- Added photographs, family retelling, question wording, witness discussion, and repeated imagination as contamination routes.
-- Clarified the two-sided boundary: confidence does not prove occurrence, and nonmemory does not prove nonoccurrence.
-- Preserved specific-dispute agnosticism despite general evidence of memory fallibility.
+- Added repeated professional retelling and participant interviews as possible source-confusion routes.
+- Added time-slice error as contamination of sequence rather than necessarily of the whole event.
+- Preserved the distinction between a plausible mechanism and proof of case-specific cause or intent.
 
 ## Related Concepts
 - [[ReconstructiveMemory]] - broader model explaining why later context can reshape recall.
@@ -59,3 +63,4 @@ The concept does not mean all testimony is false or that memory evidence has no 
 - [[PrimingAndStereotypeMemory]] - social-psychology route where labels alter recall.
 - [[GilbertSpinozaHypothesis]] - false-information residue mechanism from the social-psychology source.
 - [[ImaginationInflationAndSourceConfusion]] - source-monitoring mechanism by which imagined content can later feel performed or perceived.
+- [[FlashbulbMemory]] - vivid recollection whose confidence can persist despite changing detail.

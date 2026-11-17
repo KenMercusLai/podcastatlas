@@ -28120,9 +28120,9 @@
       "url": "/wiki/concepts/autorlproductionloop/"
     },
     "AutobiographicalMemoryHistoricalEvidence": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5781731754 [GLT5781731754].md",
@@ -28130,9 +28130,16 @@
           "show": "The Rest Is History",
           "title": "670. Tom Holland Meets Paul McCartney",
           "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        },
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/autobiographicalmemoryhistoricalevidence/"
     },
     "Autohome": {
@@ -35600,6 +35607,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/billgurley/"
     },
+    "BillHirst": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/billhirst/"
+    },
     "BillKerr": {
       "episode_count": 1,
       "show_count": 1,
@@ -40307,6 +40330,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/brianrudolph/"
+    },
+    "BrianWilliams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/brianwilliams/"
     },
     "BriberyInstitutionalInfluenceBoundary": {
       "episode_count": 1,
@@ -105322,9 +105361,9 @@
       "url": "/wiki/concepts/evidencedrivenhumanrightscampaign/"
     },
     "EvidenceOverTestimony": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "24.捍卫雅各布：相信你是我唯一的执念 [576218441].md",
@@ -105360,9 +105399,16 @@
           "show": "蜜獾吃书",
           "title": "91.猎巫：塞勒姆1692，从癔症开始",
           "url": "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+        },
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
         }
       ],
-      "updated": "2026-08-05",
+      "updated": "2026-11-17",
       "url": "/wiki/concepts/evidenceovertestimony/"
     },
     "EvidencePopulationRepresentativeness": {
@@ -115469,6 +115515,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/flanders/"
+    },
+    "FlashbulbMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/flashbulbmemory/"
     },
     "FlashmanOnTheMarch": {
       "episode_count": 1,
@@ -215429,9 +215491,9 @@
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "123.人性实验：当心你自己！ [779479569].md",
@@ -215467,6 +215529,13 @@
           "show": "Hidden Brain",
           "title": "You 2.0: Did That Really Happen?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
+        },
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
         }
       ],
       "updated": "2026-11-17",
@@ -269659,9 +269728,9 @@
       "url": "/wiki/concepts/reconstructionrollback/"
     },
     "ReconstructiveMemory": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -269697,6 +269766,13 @@
           "show": "Hidden Brain",
           "title": "You 2.0: Did That Really Happen?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670-default-mp3-ywr3ahjkcgo-3a4a67ef76be15fef86950f56c608774-46517670/"
+        },
+        {
+          "episode_file": "Free_Brian_Williams [Free_Brian_Williams].md",
+          "key": "free-brian-williams-free-brian-williams",
+          "show": "Revisionist History",
+          "title": "Free Brian Williams",
+          "url": "/wiki/sources/free-brian-williams-free-brian-williams/"
         }
       ],
       "updated": "2026-11-17",

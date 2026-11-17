@@ -4,7 +4,8 @@ type: concept
 tags: [memory, history, evidence, testimony, oral-history]
 sources:
   - 670-tom-holland-meets-paul-mccartney-glt5781731754
-last_updated: 2026-10-04
+  - free-brian-williams-free-brian-williams
+last_updated: 2026-11-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The interview depends on [[PaulMcCartney]]'s recollections for details that stru
 
 The electric milk-float story supplies the internal control. McCartney remembers George Harrison receiving a shock, while a later retelling transferred the accident to McCartney. The discrepancy does not make oral testimony useless; it shows why historians separate confidence in the broad episode from confidence in ownership and detail, compare versions, and distinguish memory of experience from a recording of the past.
 
+*Free Brian Williams* adds chronology, public consequence, and intention. Deedee Gordon's vivid September 11 recollection appears to move a later flying conversation into the day of the attacks, while [[BrianWilliams]]'s Iraq account grows from an attack on an aircraft ahead to a claim about his own helicopter. These cases strengthen the need to preserve early reports and compare versions, but only the factual discrepancy is directly checkable; whether a change arose from reconstruction or deliberate deception remains a separate question.
+
 ## Key Claims
 
 - Personal recollection can preserve sensory, emotional, and social detail absent from formal records.
@@ -27,21 +30,25 @@ The electric milk-float story supplies the internal control. McCartney remembers
 - A changed detail need not invalidate every element of the remembered event.
 - Later identity and narrative coherence can reshape how earlier experience is organized.
 - Historical use of memory requires comparison, corroboration, and claim-specific confidence.
+- A false autobiographical detail can be corrected without treating the entire witness account as worthless or assuming intent from inaccuracy alone.
 
 ## Evidence
 
 - Lived texture: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] supplies remembered family work, bombsites, record circulation, peer teaching, and songwriting practice.
 - Attribution shift: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] contrasts McCartney's milk-float account with a later version in which the person shocked changes.
 - Explicit reflection: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] has McCartney and the host connect the discrepancy to the difficulty of accurate history.
+- Chronology drift: [[free-brian-williams-free-brian-williams]] compares Gordon's vivid September 11 recollection with records placing the relevant flight a week later.
+- Consequential account drift: [[free-brian-williams-free-brian-williams]] traces Williams's changing helicopter story against his early report and crew accounts.
 
 ## Counterevidence & Qualifications
 
-The supplied document summarizes rather than transcribes the interview, and the alternative milk-float version is itself reported through the conversation. The example demonstrates possible memory instability but does not measure its frequency or establish which version is correct. Reconstructive memory should not be confused with deliberate deception, nor should archival records be treated as automatically complete or neutral.
+Both supplied documents summarize rather than transcribe their episodes, and the alternative milk-float version is itself reported through the conversation. The examples demonstrate possible memory instability but do not measure its frequency, establish every disputed detail, or reveal a speaker's private intent. Reconstructive memory should not be confused with deliberate deception, nor should archival records be treated as automatically complete or neutral. Public consequence raises the need for verification but does not make intent easier to infer from error alone.
 
 ## What Changed
 
-- Created a claim-specific framework for using vivid firsthand recollection without equating it with a recording.
-- Added an internal example in which an anecdote's broad structure persists while attribution changes.
+- Added time-slice error and public account escalation to the existing attribution-shift example.
+- Separated correction of a false claim from judgment about the speaker's intent.
+- Added preservation of early reports as a practical historical control.
 
 ## Related Concepts
 
@@ -51,3 +58,5 @@ The supplied document summarizes rather than transcribes the interview, and the 
 - [[SongwritingEmotionalProcessing]] - retrospective interpretation whose causal confidence must remain bounded.
 - [[EvidenceBoundHistoricalRevision]] - adjacent principle for changing historical judgments in proportion to evidence.
 - [[PopularCultureHistoricalMemory]] - broader process by which cultural narratives shape public recollection.
+- [[FlashbulbMemory]] - vivid-confidence pattern that can obscure changing detail and chronology.
+- [[EvidenceOverTestimony]] - corroboration rule for consequential autobiographical claims.

@@ -42717,3 +42717,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Free Brian Williams
+
+Added the 2018 [[RevisionistHistory]] episode that reexamines [[BrianWilliams|Brian Williams's]] false Iraq helicopter account through [[BillHirst|Bill Hirst's]] longitudinal September 11 research, [[FlashbulbMemory]], [[ReconstructiveMemory]], [[MemoryContaminationRisk]], [[AutobiographicalMemoryHistoricalEvidence]], and [[EvidenceOverTestimony]]. Created focused profiles for Williams and Hirst and a synthesis-first flashbulb-memory page.
+
+Core synthesis: vividness, confidence, and sincerity can persist while attribution, detail, or chronology changes. Early reports and independent records can establish that an autobiographical claim is false without automatically establishing why it changed or whether the speaker intended to deceive. A plausible reconstructive-memory explanation therefore coexists with Williams's independent journalistic duty to verify a consequential, repeatedly told story.
+
+No settled contradiction was adopted. Williams's later story conflicts with his 2003 report, the flight sequence, and crew accounts, but the episode cannot recover his private mental state. The reported sample, consistency decline, expert views, witness accounts, and chronology remain episode-scoped because the supplied file is a structured summary rather than the underlying papers, transcript, military records, or a complete independent investigation. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,208 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

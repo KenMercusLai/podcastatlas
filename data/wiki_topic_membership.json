@@ -40279,6 +40279,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FlashbulbMemory": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FlashmanOnTheMarch": [
     {
       "key": "culture",
@@ -111435,6 +111442,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "free-brian-williams-free-brian-williams": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "from-the-big-dig-mitt-ted": [

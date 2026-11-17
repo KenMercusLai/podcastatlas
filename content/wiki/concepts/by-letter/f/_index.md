@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11684
+wiki_total_pages: 11685
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "FixedCampSiegeEngineering"
     title: "Fixed-Camp Siege Engineering / 营垒攻防工程"
     url: "/wiki/concepts/fixedcampsiegeengineering/"
+  - key: "FlashbulbMemory"
+    title: "Flashbulb Memory"
+    url: "/wiki/concepts/flashbulbmemory/"
   - key: "FlatRateAIInferencePricing"
     title: "Flat-Rate AI Inference Pricing"
     url: "/wiki/concepts/flatrateaiinferencepricing/"
