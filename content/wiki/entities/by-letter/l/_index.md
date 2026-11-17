@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14676
+wiki_total_pages: 14682
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "LaurieSantos"
     title: "Laurie Santos"
     url: "/wiki/entities/lauriesantos/"
+  - key: "LaVernBaker"
+    title: "LaVern Baker"
+    url: "/wiki/entities/lavernbaker/"
   - key: "Lavod"
     title: "Lavod"
     url: "/wiki/entities/lavod/"
@@ -743,6 +746,9 @@ wiki_pages:
   - key: "Lithuania"
     title: "Lithuania"
     url: "/wiki/entities/lithuania/"
+  - key: "LittleRichard"
+    title: "Little Richard"
+    url: "/wiki/entities/littlerichard/"
   - key: "LittleWaterDistillery"
     title: "Little Water Distillery"
     url: "/wiki/entities/littlewaterdistillery/"

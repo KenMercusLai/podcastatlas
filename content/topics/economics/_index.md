@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2412
+topic_total_pages: 2413
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1768,6 +1768,9 @@ topic_concepts:
   - key: "IEPATariffAuthorityLimit"
     title: "IEPA Tariff Authority Limit"
     url: "/wiki/concepts/iepatariffauthoritylimit/"
+  - key: "ImitativeCulturalDisplacement"
+    title: "Imitative Cultural Displacement"
+    url: "/wiki/concepts/imitativeculturaldisplacement/"
   - key: "ImmigrantIndustryClustering"
     title: "Immigrant Industry Clustering"
     url: "/wiki/concepts/immigrantindustryclustering/"

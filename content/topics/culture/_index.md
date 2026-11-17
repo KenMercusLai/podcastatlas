@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3791
+topic_total_pages: 3796
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1906,6 +1906,9 @@ topic_concepts:
   - key: "IMAXAuthenticityAesthetic"
     title: "IMAX Authenticity Aesthetic / IMAX真实美学"
     url: "/wiki/concepts/imaxauthenticityaesthetic/"
+  - key: "ImitativeCulturalDisplacement"
+    title: "Imitative Cultural Displacement"
+    url: "/wiki/concepts/imitativeculturaldisplacement/"
   - key: "ImperialAdventureFiction"
     title: "Imperial Adventure Fiction"
     url: "/wiki/concepts/imperialadventurefiction/"
@@ -3742,6 +3745,9 @@ topic_concepts:
   - key: "TransformationAsExit"
     title: "Transformation As Exit"
     url: "/wiki/concepts/transformationasexit/"
+  - key: "TransformativeCulturalAppropriation"
+    title: "Transformative Cultural Appropriation"
+    url: "/wiki/concepts/transformativeculturalappropriation/"
   - key: "TranslationPublishingWorkflow"
     title: "Translation Publishing Workflow"
     url: "/wiki/concepts/translationpublishingworkflow/"
@@ -5228,6 +5234,9 @@ topic_entities:
   - key: "GeorgesBeauchard"
     title: "Georges Beauchard"
     url: "/wiki/entities/georgesbeauchard/"
+  - key: "GeorgiaGibbs"
+    title: "Georgia Gibbs"
+    url: "/wiki/entities/georgiagibbs/"
   - key: "Geppetto"
     title: "Geppetto / 杰佩托"
     url: "/wiki/entities/geppetto/"
@@ -6260,6 +6269,9 @@ topic_entities:
   - key: "PascalineDupas"
     title: "Pascaline Dupas"
     url: "/wiki/entities/pascalinedupas/"
+  - key: "PatBoone"
+    title: "Pat Boone"
+    url: "/wiki/entities/patboone/"
   - key: "PatriciaResnick"
     title: "Patricia Resnick"
     url: "/wiki/entities/patriciaresnick/"
@@ -10836,6 +10848,9 @@ topic_sources:
   - key: "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015"
     title: "I, robot? AI and consciousness"
     url: "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+  - key: "in-a-metal-mood-in-a-metal-mood"
+    title: "In a Metal Mood"
+    url: "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
   - key: "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74"
     title: "In arms’ way: Gaza-deal sticking points"
     url: "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"

@@ -95378,9 +95378,9 @@
       "url": "/wiki/entities/elviscostello/"
     },
     "ElvisPresley": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Encore_Analysis,_Parapraxis,_Elvis [Encore_Analysis,_Parapraxis,_Elvis].md",
@@ -95395,9 +95395,16 @@
           "show": "Revisionist History",
           "title": "Blue Seattle with Cameron Crowe | Development Hell",
           "url": "/wiki/sources/blue-seattle-with-cameron-crowe-development-hell-blue-seattle-with-cameron-crowe-development-hell/"
+        },
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "url": "/wiki/entities/elvispresley/"
     },
     "EmancipationProclamation": {
@@ -128346,6 +128353,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/georgiabanjo/"
     },
+    "GeorgiaGibbs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/georgiagibbs/"
+    },
     "GeorgiaTech": {
       "episode_count": 1,
       "show_count": 1,
@@ -129453,6 +129476,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/gleiwitzincident/"
+    },
+    "GlenBell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/glenbell/"
     },
     "GlenJeffery": {
       "episode_count": 1,
@@ -157296,6 +157335,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/imbangala/"
     },
+    "ImitativeCulturalDisplacement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/imitativeculturaldisplacement/"
+    },
     "ImitativeSelfFormation": {
       "episode_count": 1,
       "show_count": 1,
@@ -182761,6 +182816,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/lanavidad/"
     },
+    "LaVernBaker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/lavernbaker/"
+    },
     "LaborEvidencePreservation": {
       "episode_count": 1,
       "show_count": 1,
@@ -192185,6 +192256,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/lithiumbipolartreatment/"
+    },
+    "LittleRichard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/littlerichard/"
     },
     "LiuAn": {
       "episode_count": 15,
@@ -240046,6 +240133,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/otherashell/"
     },
+    "OtisBlackwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/otisblackwell/"
+    },
     "Otpor": {
       "episode_count": 1,
       "show_count": 1,
@@ -244362,6 +244465,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/passiveradiativecoolingcoatings/"
+    },
+    "PatBoone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/patboone/"
     },
     "PatFarah": {
       "episode_count": 1,
@@ -310876,6 +310995,43 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/tacitus/"
     },
+    "TacoBell": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518 [default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518].md",
+          "key": "big-lettuce-meets-small-intestine",
+          "show": "Planet Money",
+          "title": "Big Lettuce meets Small Intestine",
+          "url": "/wiki/sources/big-lettuce-meets-small-intestine/"
+        },
+        {
+          "episode_file": "Sun Bum： Tom Rinks. The Secrets of a Master Brand Builder (2023) [77ab41eb-99a8-4dd2-ae39-d066818afc21].md",
+          "key": "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
+          "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/entities/tacobell/"
+    },
     "TacticalCredibilityCost": {
       "episode_count": 5,
       "show_count": 1,
@@ -323333,6 +323489,22 @@
       ],
       "updated": "2026-10-29",
       "url": "/wiki/concepts/transformativecompassion/"
+    },
+    "TransformativeCulturalAppropriation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "In_a_Metal_Mood [In_a_Metal_Mood].md",
+          "key": "in-a-metal-mood-in-a-metal-mood",
+          "show": "Revisionist History",
+          "title": "In a Metal Mood",
+          "url": "/wiki/sources/in-a-metal-mood-in-a-metal-mood/"
+        }
+      ],
+      "updated": "2026-11-17",
+      "url": "/wiki/concepts/transformativeculturalappropriation/"
     },
     "TransgenderMultidisciplinaryCare": {
       "episode_count": 1,

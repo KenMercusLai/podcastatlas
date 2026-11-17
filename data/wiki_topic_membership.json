@@ -43712,6 +43712,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GeorgiaGibbs": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GeorgianHealthResortFormation": [
     {
       "key": "science",
@@ -50656,6 +50663,18 @@
     }
   ],
   "ImagineK12": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ImitativeCulturalDisplacement": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -72297,6 +72316,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "PatBoone": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PatGelsinger": [
@@ -95938,6 +95964,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TransformativeCulturalAppropriation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TransformerArchitecture": [
     {
       "key": "technology",
@@ -112059,6 +112092,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "in-a-metal-mood-in-a-metal-mood": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74": [

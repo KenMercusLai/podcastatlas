@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11663
+wiki_total_pages: 11665
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "TransformativeCompassion"
     title: "Transformative Compassion"
     url: "/wiki/concepts/transformativecompassion/"
+  - key: "TransformativeCulturalAppropriation"
+    title: "Transformative Cultural Appropriation"
+    url: "/wiki/concepts/transformativeculturalappropriation/"
   - key: "TransformerArchitecture"
     title: "Transformer Architecture"
     url: "/wiki/concepts/transformerarchitecture/"

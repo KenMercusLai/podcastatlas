@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14676
+wiki_total_pages: 14682
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "GeorgiaBanjo"
     title: "Georgia Banjo"
     url: "/wiki/entities/georgiabanjo/"
+  - key: "GeorgiaGibbs"
+    title: "Georgia Gibbs"
+    url: "/wiki/entities/georgiagibbs/"
   - key: "GeorgiaTech"
     title: "Georgia Tech"
     url: "/wiki/entities/georgiatech/"
@@ -659,6 +662,9 @@ wiki_pages:
   - key: "GleiwitzIncident"
     title: "Gleiwitz Incident"
     url: "/wiki/entities/gleiwitzincident/"
+  - key: "GlenBell"
+    title: "Glen Bell"
+    url: "/wiki/entities/glenbell/"
   - key: "GlenJeffery"
     title: "Glen Jeffery"
     url: "/wiki/entities/glenjeffery/"

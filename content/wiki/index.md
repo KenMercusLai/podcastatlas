@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [In a Metal Mood](sources/in-a-metal-mood-in-a-metal-mood.md) — Revisionist History uses Pat Boone, Little Richard, Elvis Presley, Georgia Gibbs, and Taco Bell to distinguish transformative borrowing from source-displacing imitation.
 - [Chutzpah vs. Chutzpah](sources/chutzpah-vs-chutzpah-chutzpah-vs-chutzpah.md) — Revisionist History separates constructive audacity from self-serving shamelessness through Hollywood, organized crime, Israeli directness, and migrant-detention argument.
 - [Show 64 - Supernova in the East III](sources/dchha64-supernova-in-the-east-iii-dchha64-supernova-in-the-east-iii.md) — Hardcore History connects Japan's opening Pacific strategy, Allied racialized underestimation, Force Z, Singapore's fall, MacArthur's command mythology, Bataan, and the death march.
 - [Show 65 - Supernova in the East IV](sources/dchha65-supernova-in-the-east-iv-dchha65-supernova-in-the-east-iv.md) — Hardcore History connects morale warfare, civil-liberties cost, Coral Sea, Midway's carrier system, inter-service rivalry, and Guadalcanal's attritional opening.
@@ -5318,6 +5319,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Obscure Virus Club](sources/the-obscure-virus-club-the-obscure-virus-club.md) — Revisionist History connects tumor-virus dissent, reverse transcriptase, human retrovirus and T-cell research, and the scientific head start against HIV/AIDS.
 
 ## Entities
+- [Pat Boone](entities/PatBoone.md) — Crooner whose R&B covers and lounge-metal album anchor a contested case of displacement, discovery, and creative distance.
+- [Little Richard](entities/LittleRichard.md) — R&B and rock-and-roll performer whose changing assessment of Boone preserves both immediate harm and later audience discovery.
+- [Georgia Gibbs](entities/GeorgiaGibbs.md) — Singer used as the episode's close-copying comparison through her version of LaVern Baker's “Tweedle Dee.”
+- [LaVern Baker](entities/LaVernBaker.md) — R&B source performer whose arrangement anchors the episode's clearest imitation-and-displacement comparison.
+- [Otis Blackwell](entities/OtisBlackwell.md) — Songwriter and demo singer used to examine how effective adaptation can obscure a source.
+- [Glen Bell](entities/GlenBell.md) — Taco Bell founder whose Mexican-inspired fast-food business anchors the episode's culinary analogy.
 - [Al Ruddy](entities/AlRuddy.md) — Producer whose unlikely pitches and narrow negotiation exemplify constructive audacity.
 - [Joseph Colombo](entities/JosephColombo.md) — Organized-crime figure whose anti-stereotyping campaign is complicated by alleged leadership and coercive methods.
 - [Mili Avital](entities/MiliAvital.md) — Israeli actor who distinguishes direct engagement from morally indifferent self-assertion.
@@ -20091,6 +20098,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Gallo](entities/RobertGallo.md) — Human-retrovirus and T-cell researcher presented as a bridge from tumor virology to the early AIDS response.
 
 ## Concepts
+- [Transformative Cultural Appropriation](concepts/TransformativeCulturalAppropriation.md) — Qualified framework for borrowing that creates visible difference and redirects rather than replaces attention to a source.
+- [Imitative Cultural Displacement](concepts/ImitativeCulturalDisplacement.md) — Mechanism by which close copying plus unequal distribution lets a dominant adaptation substitute for an originator.
 - [Chutzpah Moral Distinction](concepts/ChutzpahMoralDistinction.md) — Ethical boundary between constructive convention-breaking and self-assertion that disregards other people's standing.
 - [Low-Power-Distance Directness](concepts/LowPowerDistanceDirectness.md) — Forceful, minimally deferential communication that can preserve reciprocal voice and involvement.
 - [Japanese Early Pacific War Strategy](concepts/JapaneseEarlyPacificWarStrategy.md) — Resource seizure and defensive-perimeter strategy whose operational success depended on an uncontrollable political bet about Allied resolve.

@@ -42478,3 +42478,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | In a Metal Mood
+
+Added a [[RevisionistHistory]] episode using [[PatBoone]], [[LittleRichard]], [[LaVernBaker]], [[GeorgiaGibbs]], [[OtisBlackwell]], [[ElvisPresley]], [[GlenBell]], and [[TacoBell]] to distinguish [[TransformativeCulturalAppropriation]] from [[ImitativeCulturalDisplacement]]. Resynthesized Taco Bell and Elvis Presley from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: borrowing is less source-displacing when it creates visible stylistic or technical distance and gives audiences a reason to seek the originator. Boone's “Tutti Frutti” remains an ambivalent case because Little Richard reportedly described both immediate exclusion from white radio and retail and later discovery through the cover; Taco Bell's test-kitchen inventions supply a cross-domain analogy for transformation beyond copying.
+
+No settled contradiction was adopted. Little Richard's later gratitude does not cancel earlier harm, and novelty does not by itself resolve credit, consent, ownership, unequal market access, racial power, or financial reward. The culinary analogy cannot reproduce the institutions of the 1950s music industry, while chart history, arrangement similarity, audience redirection, artist motives, and product-development claims remain episode-scoped. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,191 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
