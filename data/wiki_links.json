@@ -56683,6 +56683,10 @@
     "title": "Labor Evidence Preservation / 劳动争议证据保全",
     "url": "/wiki/concepts/laborevidencepreservation/"
   },
+  "LaborExchangeBand": {
+    "title": "交工樂隊 / Labor Exchange Band",
+    "url": "/wiki/entities/laborexchangeband/"
+  },
   "LaborIllusion": {
     "title": "Labor Illusion",
     "url": "/wiki/concepts/laborillusion/"
@@ -60758,6 +60762,10 @@
   "LocalCivicInstitutionCapture": {
     "title": "Local Civic Institution Capture",
     "url": "/wiki/concepts/localcivicinstitutioncapture/"
+  },
+  "LocalCulturalEducationAndCommunityResilience": {
+    "title": "Local Cultural Education and Community Resilience / 地方文化教育與社群韌性",
+    "url": "/wiki/concepts/localculturaleducationandcommunityresilience/"
   },
   "LocalDeityGovernance": {
     "title": "Local Deity Governance",
@@ -65343,6 +65351,14 @@
     "title": "Mein Kampf",
     "url": "/wiki/entities/meinkampf/"
   },
+  "Meinong": {
+    "title": "美濃 / Meinong",
+    "url": "/wiki/entities/meinong/"
+  },
+  "MeinongPeoplesAssociation": {
+    "title": "美濃愛鄉協進會 / Meinong People's Association",
+    "url": "/wiki/entities/meinongpeoplesassociation/"
+  },
   "Meipai": {
     "title": "Meipai / 美拍",
     "url": "/wiki/entities/meipai/"
@@ -68327,6 +68343,10 @@
     "title": "Movement Achievement and Abuse Accountability",
     "url": "/wiki/concepts/movementachievementabuseaccountability/"
   },
+  "MovementMethodInstitutionalization": {
+    "title": "Movement-Method Institutionalization / 運動方法制度化",
+    "url": "/wiki/concepts/movementmethodinstitutionalization/"
+  },
   "MovementParticipationThreshold": {
     "title": "Movement Participation Threshold",
     "url": "/wiki/concepts/movementparticipationthreshold/"
@@ -71010,6 +71030,10 @@
   "NonpartisanCandidatePartySystemConstraint": {
     "title": "Nonpartisan Candidate Party-System Constraint",
     "url": "/wiki/concepts/nonpartisancandidatepartysystemconstraint/"
+  },
+  "NonpartisanLocalMovementAutonomy": {
+    "title": "Nonpartisan Local-Movement Autonomy / 非黨派地方運動自主",
+    "url": "/wiki/concepts/nonpartisanlocalmovementautonomy/"
   },
   "NonprofitInformantAccountability": {
     "title": "Nonprofit Informant Accountability",
@@ -76138,6 +76162,10 @@
   "PlaceBasedBrandPerception": {
     "title": "Place Based Brand Perception",
     "url": "/wiki/concepts/placebasedbrandperception/"
+  },
+  "PlaceBasedCandidateEvaluation": {
+    "title": "Place-Based Candidate Evaluation / 地方本位候選人評價",
+    "url": "/wiki/concepts/placebasedcandidateevaluation/"
   },
   "PlaceBasedDemocraticRecognition": {
     "title": "Place-Based Democratic Recognition",
@@ -81522,6 +81550,10 @@
   "ReciprocalEtiquettePrivateSpace": {
     "title": "礼仪互惠与私人空间 / Reciprocal Etiquette and Private Space",
     "url": "/wiki/concepts/reciprocaletiquetteprivatespace/"
+  },
+  "ReciprocalLaborCommunityFormation": {
+    "title": "Reciprocal-Labor Community Formation / 互助勞動型社群形成",
+    "url": "/wiki/concepts/reciprocallaborcommunityformation/"
   },
   "ReciprocalTariffFormula": {
     "title": "Reciprocal Tariff Formula",
@@ -110283,6 +110315,10 @@
     "title": "钟繇 / Zhong Yao",
     "url": "/wiki/entities/zhongyao/"
   },
+  "ZhongYongfeng": {
+    "title": "鍾永豐 / Zhong Yongfeng",
+    "url": "/wiki/entities/zhongyongfeng/"
+  },
   "ZhongZhaopeng": {
     "title": "钟照鹏 / Zhong Zhaopeng",
     "url": "/wiki/entities/zhongzhaopeng/"
@@ -117834,6 +117870,10 @@
   "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec": {
     "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",
     "url": "/wiki/sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec/"
+  },
+  "taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a": {
+    "title": "台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？",
+    "url": "/wiki/sources/taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a/"
   },
   "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7": {
     "title": "Taken littorally: Spain’s sudden crisis in Ceuta",

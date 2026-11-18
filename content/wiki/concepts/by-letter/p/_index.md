@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11743
+wiki_total_pages: 11748
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "PlaceBasedAntiPovertyPolicy"
     title: "Place-Based Anti-Poverty Policy"
     url: "/wiki/concepts/placebasedantipovertypolicy/"
+  - key: "PlaceBasedCandidateEvaluation"
+    title: "Place-Based Candidate Evaluation / 地方本位候選人評價"
+    url: "/wiki/concepts/placebasedcandidateevaluation/"
   - key: "PlaceBasedDemocraticRecognition"
     title: "Place-Based Democratic Recognition"
     url: "/wiki/concepts/placebaseddemocraticrecognition/"

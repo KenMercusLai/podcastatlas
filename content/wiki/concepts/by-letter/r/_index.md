@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11743
+wiki_total_pages: 11748
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "ReciprocalTariffFormula"
     title: "Reciprocal Tariff Formula"
     url: "/wiki/concepts/reciprocaltariffformula/"
+  - key: "ReciprocalLaborCommunityFormation"
+    title: "Reciprocal-Labor Community Formation / 互助勞動型社群形成"
+    url: "/wiki/concepts/reciprocallaborcommunityformation/"
   - key: "RecklessCourageDecisionRisk"
     title: "Reckless Courage Decision Risk / 有勇无谋决策风险"
     url: "/wiki/concepts/recklesscouragedecisionrisk/"

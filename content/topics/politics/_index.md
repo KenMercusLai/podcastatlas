@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3594
+topic_total_pages: 3596
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3307,6 +3307,9 @@ topic_concepts:
   - key: "PiracyPrivateeringBoundary"
     title: "Piracy-Privateering Boundary"
     url: "/wiki/concepts/piracyprivateeringboundary/"
+  - key: "PlaceBasedCandidateEvaluation"
+    title: "Place-Based Candidate Evaluation / 地方本位候選人評價"
+    url: "/wiki/concepts/placebasedcandidateevaluation/"
   - key: "PlaceBasedDemocraticRecognition"
     title: "Place-Based Democratic Recognition"
     url: "/wiki/concepts/placebaseddemocraticrecognition/"
@@ -10755,6 +10758,9 @@ topic_sources:
   - key: "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu"
     title: "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波"
     url: "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+  - key: "taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a"
+    title: "台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？"
+    url: "/wiki/sources/taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a/"
   - key: "shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969"
     title: "商业小样44 | 世界杯扩军与FIFA的权力斗争"
     url: "/wiki/sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969/"

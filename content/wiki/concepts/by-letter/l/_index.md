@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11743
+wiki_total_pages: 11748
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "LocalCivicInstitutionCapture"
     title: "Local Civic Institution Capture"
     url: "/wiki/concepts/localcivicinstitutioncapture/"
+  - key: "LocalCulturalEducationAndCommunityResilience"
+    title: "Local Cultural Education and Community Resilience / 地方文化教育與社群韌性"
+    url: "/wiki/concepts/localculturaleducationandcommunityresilience/"
   - key: "LocalDeityGovernance"
     title: "Local Deity Governance"
     url: "/wiki/concepts/localdeitygovernance/"

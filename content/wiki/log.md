@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-18] ingest | 台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？
+
+Added a [[DuanwenNewsPodcast|端聞 / 端傳媒新聞播客]] episode using [[Meinong|美濃]]'s variable candidate and party-vote patterns to connect local elections with tobacco cultivation, family labor, reciprocal work exchange, Hakka culture, the anti-dam movement, music, and youth cultural education. Created synthesis-first profiles for Meinong, [[ZhongYongfeng|鍾永豐]], [[MeinongPeoplesAssociation|美濃愛鄉協進會]], and [[LaborExchangeBand|交工樂隊]], plus focused concepts for [[PlaceBasedCandidateEvaluation]], [[NonpartisanLocalMovementAutonomy]], [[MovementMethodInstitutionalization]], [[ReciprocalLaborCommunityFormation]], and [[LocalCulturalEducationAndCommunityResilience]].
+
+Core synthesis: 美濃's non-fixed blue-green voting is presented not as political indifference but as a local political culture in which dense labor and kinship relations, anti-dam organizing, cross-party engagement without electoral exchange, and candidate accountability to place can outweigh a party label in particular contests. The movement's longer legacy is a method of discussion, organization, cultural expression, and development oversight intended to outlive individual leaders.
+
+No settled contradiction was adopted. Candidate and party-vote figures, tobacco area and production share, movement chronology, household-division claims, and causal links among labor, identity, protest, and voting remain episode-attributed because the supplied file is a structured summary rather than election data, agricultural statistics, movement archives, or a cited social-science study. The proposed link from mother-tongue and Hakka eight-tone education to resistance against online influence remains explicitly hypothetical and interview-limited. The broad show profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening a large unchanged inventory or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,250 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide scan still reports 62 pre-existing broken links outside this ingest's changed pages.
+
 ## [2026-11-18] ingest | 157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象
 
 Added a [[ZhangXiaojunCommercialInterviews|张小珺Jùn｜商业访谈录]] interview with [[CaiWei|蔡伟]] on [[AntLingGuang|蚂蚁灵光]] and the evolution from fast research and interactive generated applications toward [[PersonalLifeAgent|personal agents]]. Created synthesis-first profiles for Cai Wei, LingGuang, and [[PersonalAgentMaturityTriad|个人智能体成熟三要素]], then resynthesized Personal Life Agent, [[LongHorizonAgentReliability|长期智能体可靠性]], and [[AntGroup|蚂蚁集团]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43304,6 +43314,10 @@ Core synthesis: Nvidia faces different pressure from AMD-like accelerators, hype
 No settled contradiction was adopted. Market share, decline timing, supply commitments, customer behavior, talent retention, pricing, and investment effects remain episode-attributed because the supplied file is a structured summary rather than a transcript, market dataset, contract, company filing, or personnel record.
 
 Downstream synthesis found no dirty controlled topic; the maximum-age gate triggered a global compaction that preserved the eight representative executive claims while refreshing corpus counts. Generated artifacts validate 5,249 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-18] lint | Wiki health check
 

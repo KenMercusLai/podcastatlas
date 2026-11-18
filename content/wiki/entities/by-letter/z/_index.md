@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14805
+wiki_total_pages: 14809
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -2033,6 +2033,9 @@ wiki_pages:
   - key: "ZhengSaLateHan"
     title: "郑飒 / Zheng Sa (late Han)"
     url: "/wiki/entities/zhengsalatehan/"
+  - key: "ZhongYongfeng"
+    title: "鍾永豐 / Zhong Yongfeng"
+    url: "/wiki/entities/zhongyongfeng/"
   - key: "ZhongShengli"
     title: "钟声礼"
     url: "/wiki/entities/zhongshengli/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14805
+wiki_total_pages: 14809
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -1478,6 +1478,9 @@ wiki_pages:
   - key: "Luanfanshu"
     title: "乱翻书"
     url: "/wiki/entities/luanfanshu/"
+  - key: "LaborExchangeBand"
+    title: "交工樂隊 / Labor Exchange Band"
+    url: "/wiki/entities/laborexchangeband/"
   - key: "LiangGeAnesthesiologist"
     title: "亮哥 / Liang Ge (Anesthesiologist)"
     url: "/wiki/entities/lianggeanesthesiologist/"

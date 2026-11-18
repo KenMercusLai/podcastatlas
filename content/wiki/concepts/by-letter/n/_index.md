@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11743
+wiki_total_pages: 11748
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "NonpartisanCandidatePartySystemConstraint"
     title: "Nonpartisan Candidate Party-System Constraint"
     url: "/wiki/concepts/nonpartisancandidatepartysystemconstraint/"
+  - key: "NonpartisanLocalMovementAutonomy"
+    title: "Nonpartisan Local-Movement Autonomy / 非黨派地方運動自主"
+    url: "/wiki/concepts/nonpartisanlocalmovementautonomy/"
   - key: "NonprofitInformantAccountability"
     title: "Nonprofit Informant Accountability"
     url: "/wiki/concepts/nonprofitinformantaccountability/"

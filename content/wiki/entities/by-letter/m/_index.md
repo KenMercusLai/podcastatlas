@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14805
+wiki_total_pages: 14809
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2480,6 +2480,12 @@ wiki_pages:
   - key: "MeituanHuanxiongShitang"
     title: "美团浣熊食堂 / Meituan Huanxiong Shitang"
     url: "/wiki/entities/meituanhuanxiongshitang/"
+  - key: "Meinong"
+    title: "美濃 / Meinong"
+    url: "/wiki/entities/meinong/"
+  - key: "MeinongPeoplesAssociation"
+    title: "美濃愛鄉協進會 / Meinong People's Association"
+    url: "/wiki/entities/meinongpeoplesassociation/"
   - key: "MeilunMeihuan"
     title: "美轮美换 / Meilun Meihuan"
     url: "/wiki/entities/meilunmeihuan/"
