@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3894
+topic_total_pages: 3895
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11127,6 +11127,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm"
     title: "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
+  - key: "default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354"
+    title: "Two ways big bets on data centers might affect you (Two Indicators)"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
   - key: "tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128"
     title: "Uncanny AI: Why AI bots remember random, sometimes useless information"
     url: "/wiki/sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128/"

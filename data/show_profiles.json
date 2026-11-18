@@ -891,8 +891,8 @@
       "earliest_episode_date": "2025-07-18",
       "latest_episode_date": "2026-11-18",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
-      "source_note_count": 97,
-      "topic_matched_source_note_count": 55,
+      "source_note_count": 98,
+      "topic_matched_source_note_count": 56,
       "topics": [
         {
           "key": "economics",
@@ -916,7 +916,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 7
+          "source_note_count": 8
         }
       ],
       "entities": [
@@ -980,8 +980,8 @@
       "start_here_episode_files": [
         "default.mp3_ywr3ahjkcgo_20c3269bc63dde599e9e1898d7da833b_33908266 [default.mp3_ywr3ahjkcgo_20c3269bc63dde599e9e1898d7da833b_33908266].md",
         "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
-        "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
-        "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md"
+        "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
+        "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md"
       ]
     },
     "Revisionist History": {

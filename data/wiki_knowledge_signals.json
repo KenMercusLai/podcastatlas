@@ -1753,9 +1753,9 @@
       "url": "/wiki/concepts/aichipspecialization/"
     },
     "AICircularInfrastructureFinancing": {
-      "episode_count": 8,
-      "show_count": 8,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 9,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -1812,9 +1812,16 @@
           "show": "晚点聊 LateTalk",
           "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
           "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
+          "key": "default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354",
+          "show": "Planet Money",
+          "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
     "AIClientGrowthRetentionAgent": {
@@ -4421,9 +4428,9 @@
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
     "AIInfrastructureDebtFinancing": {
-      "episode_count": 13,
-      "show_count": 3,
-      "source_note_count": 13,
+      "episode_count": 14,
+      "show_count": 4,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -4515,9 +4522,16 @@
           "show": "起朱楼宴宾客",
           "title": "188.关于本轮下跌的三个想法和一些建议",
           "url": "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
+          "key": "default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354",
+          "show": "Planet Money",
+          "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
     },
     "AIInfrastructureFixedVsSpotContracting": {
@@ -77715,6 +77729,120 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/datacentercostshifting/"
+    },
+    "DataCenterDebtRisk": {
+      "episode_count": 15,
+      "show_count": 6,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Mark Cuban on the AI Bubble： Who Actually Gets Wiped Out？ [42155640].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "tech_20260721_0721_MP_TECH_pod_128 [tech_20260721_0721_MP_TECH_pod_128].md",
+          "key": "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI debt is flooding the bond market",
+          "url": "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？ [nlAHYbjWcrIMit8DfF7YhZPbUpm1].md",
+          "key": "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1",
+          "show": "起朱楼宴宾客",
+          "title": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？",
+          "url": "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+        },
+        {
+          "episode_file": "143.如何判断一段行情是回调还是结束？｜ 三季度投资账复盘 [lnmkuiW9mFdI5tqOJZi07vNAORQZ].md",
+          "key": "143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz",
+          "show": "起朱楼宴宾客",
+          "title": "143.如何判断一段行情是回调还是结束？| 三季度投资账复盘",
+          "url": "/wiki/sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "tech_20260130_0130_MP_TECH_pod_128 [tech_20260130_0130_MP_TECH_pod_128].md",
+          "key": "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Are we in an AI bubble?",
+          "url": "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "tech_20260213_TECH_pod_128 [tech_20260213_TECH_pod_128].md",
+          "key": "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+          "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a6e5cf8af43937983c58792d16f27ab7_26161104 [default.mp3_ywr3ahjkcgo_a6e5cf8af43937983c58792d16f27ab7_26161104].md",
+          "key": "so-are-we-in-an-ai-bubble-here-are-clues-to-look-for",
+          "show": "Planet Money",
+          "title": "So are we in an AI bubble? Here are clues to look for.",
+          "url": "/wiki/sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for/"
+        },
+        {
+          "episode_file": "tech_20260128_0128_MP_TECH_pod_128 [tech_20260128_0128_MP_TECH_pod_128].md",
+          "key": "tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Infrastructure lessons from the dot-com bubble",
+          "url": "/wiki/sources/tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
+          "key": "default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354",
+          "show": "Planet Money",
+          "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/datacenterdebtrisk/"
     },
     "DataCenterOnsitePower": {
       "episode_count": 8,
@@ -214659,6 +214787,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/mattscogin/"
     },
+    "MattSheridan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
+          "key": "default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354",
+          "show": "Planet Money",
+          "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/mattsheridan/"
+    },
     "MattWalsh": {
       "episode_count": 1,
       "show_count": 1,
@@ -242203,6 +242347,85 @@
       ],
       "updated": "2026-10-16",
       "url": "/wiki/concepts/optogenetics/"
+    },
+    "Oracle": {
+      "episode_count": 10,
+      "show_count": 7,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "Toast： Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business. [6eca81bc-b0e1-47e2-a87d-f3b243e76a97].md",
+          "key": "toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97",
+          "show": "How I Built This with Guy Raz",
+          "title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
+          "url": "/wiki/sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97/"
+        },
+        {
+          "episode_file": "tech_20260721_0721_MP_TECH_pod_128 [tech_20260721_0721_MP_TECH_pod_128].md",
+          "key": "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI debt is flooding the bond market",
+          "url": "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子 [lo7uv7Umozr0JrqFjZyhDBzicX1j].md",
+          "key": "170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j",
+          "show": "起朱楼宴宾客",
+          "title": "170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子",
+          "url": "/wiki/sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j/"
+        },
+        {
+          "episode_file": "143.如何判断一段行情是回调还是结束？｜ 三季度投资账复盘 [lnmkuiW9mFdI5tqOJZi07vNAORQZ].md",
+          "key": "143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz",
+          "show": "起朱楼宴宾客",
+          "title": "143.如何判断一段行情是回调还是结束？| 三季度投资账复盘",
+          "url": "/wiki/sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "除了石油和海峡，这届伊朗战争开始算计你的服务器了 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [除了石油和海峡，这届伊朗战争开始算计你的服务-1].md",
+          "key": "chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun",
+          "show": "科技乱炖",
+          "title": "除了石油和海峡，这届伊朗战争开始算计你的服务器了",
+          "url": "/wiki/sources/chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354 [default.mp3_ywr3ahjkcgo_924563be400ac2ec88b87ea5dedb9ab0_20631354].md",
+          "key": "default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354",
+          "show": "Planet Money",
+          "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/oracle/"
     },
     "OracleBoneDivination": {
       "episode_count": 2,

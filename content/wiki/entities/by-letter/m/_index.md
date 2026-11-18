@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14804
+wiki_total_pages: 14805
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "MattScogin"
     title: "Matt Scogin"
     url: "/wiki/entities/mattscogin/"
+  - key: "MattSheridan"
+    title: "Matt Sheridan"
+    url: "/wiki/entities/mattsheridan/"
   - key: "MattSmith"
     title: "Matt Smith"
     url: "/wiki/entities/mattsmith/"

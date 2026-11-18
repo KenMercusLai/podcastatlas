@@ -4605,6 +4605,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-18] ingest | Two ways big bets on data centers might affect you (Two Indicators)
+
+Added the Planet Money source on hyperscaler bond issuance, long-duration data-center finance, Oracle's OpenAI concentration, credit-market repricing, and circular infrastructure exposure. Created [[MattSheridan]], migrated [[Oracle]] and [[DataCenterDebtRisk]] to synthesis-v1, and refreshed [[AIInfrastructureDebtFinancing]] and [[AICircularInfrastructureFinancing]]. No settled contradiction was adopted; default, crash, fraud, and systemic-risk outcomes remain conditional rather than established.
+
 ## [2026-11-15] ingest | Encore: Hallelujah
 
 Added the [[RevisionistHistory]] episode on [[ElvisCostello]], [[LeonardCohen]], [[JohnCale]], [[JeffBuckley]], and [[HallelujahSong|“Hallelujah.”]] Created bounded profiles for Costello, Cale, Buckley, the song, and economist [[DavidGalenson]]; established [[ConceptualAndExperimentalInnovation]] and [[IterativeCreativeReinterpretation]]; resynthesized Cohen from his complete two-source evidence inventory; and resynthesized [[MalcolmGladwell]] from his complete preserved evidence inventory before appending the new source once.
@@ -43282,6 +43286,10 @@ Resynthesized How I Built This and Guy Raz from their complete preserved 28-sour
 No settled contradiction was adopted. The dates and frequencies are forward-looking programming commitments rather than evidence that the 2027 schedule was delivered; the supplied file does not identify upcoming founders or archive selections, compare audio and video outcomes, or report audience and production results.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,247 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-18] lint | Wiki health check
 

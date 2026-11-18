@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2421
+topic_total_pages: 2422
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4922,6 +4922,9 @@ topic_entities:
   - key: "Matsutake"
     title: "Matsutake / 松茸"
     url: "/wiki/entities/matsutake/"
+  - key: "MattSheridan"
+    title: "Matt Sheridan"
+    url: "/wiki/entities/mattsheridan/"
   - key: "MatthewRoss"
     title: "Matthew Ross"
     url: "/wiki/entities/matthewross/"

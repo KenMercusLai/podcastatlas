@@ -2,42 +2,64 @@
 title: "Oracle"
 type: entity
 tags: [company, cloud, infrastructure, ai]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-08-18
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920
+  - toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97
+  - tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128
+  - 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j
+  - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
+  - vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591
+  - tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128
+  - tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128
+  - chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun
+  - default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354
+last_updated: 2026-11-18
+knowledge_schema: synthesis-v1
 ---
 
 # Oracle
 
-[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds Oracle as the long-term customer lease behind [[Crusoe]]'s Abilene project. Crusoe's CEO says the 15-year Oracle agreement helped unlock construction debt, making Oracle a counterparty in [[AIInfrastructureDebtFinancing]] and [[DataCenterDebtRisk]] rather than only a cloud provider building its own capacity.
+## Overview
+Oracle is an enterprise database and cloud-infrastructure company founded by [[LarryEllison]]. Across the wiki's sources it connects durable database lock-in, acquisitions, U.S. platform infrastructure, political access, and a large debt-funded move into AI data centers.
 
-[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds Oracle as the acquisition context behind the [[Toast]] founding team. [[AmanNarang]], [[SteveFredette]], and [[JohnGraham]] had worked at [[Endeca]], and Oracle's acquisition of Endeca gave the team enough financial room to explore local-commerce and restaurant software ideas before Toast's [[FounderIdeaPivot]].
+## Current Profile
+Oracle's established software business created sticky enterprise relationships and the cash-generating base from which it expanded into cloud infrastructure. The current profile is more financially exposed: Oracle uses its balance sheet, leases, third-party projects, and long customer commitments to pursue AI capacity at a scale that makes [[OpenAI]] demand, construction execution, and continued investment-grade funding central to the company story.
 
-[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds Oracle to the sector-wide bond-market version of [[DataCenterDebtRisk]]. The episode groups Oracle with [[Amazon]], [[Alphabet]], and [[Meta]] as technology companies issuing corporate bonds for AI infrastructure, making the existing Oracle debt-risk branch less exceptional and more part of a broader question about how much AI data-center debt public markets can absorb.
+The newest [[PlanetMoney]] source makes Oracle the concentrated credit case inside a broader hyperscaler bond wave. It reports that Oracle debt nearly doubled in two years to $169 billion, that anticipated OpenAI payments are unusually important to the return path, and that CDS pricing and a downgrade to one notch above junk show rising lender concern. These are warning signals, not proof of insolvency: Oracle says a New Mexico project remains on schedule, remains liable despite the reported force-majeure notice, and continues to operate a valuable software and cloud franchise.
 
-[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Oracle to the SoftBank/OpenAI/Stargate financing branch. The episode treats Oracle less as a standalone operating thesis than as one participant in AI infrastructure commitments where [[BubbleFinancingStructure]], [[AICircularInfrastructureFinancing]], and collateral-dependent confidence matter if the cycle turns.
+## Key Characteristics
+- A durable enterprise-software company built around relational databases and high switching costs.
+- A cloud and AI infrastructure provider increasingly dependent on capital-intensive data centers, leases, debt, and construction partners.
+- A major [[OpenAI]] counterparty whose expected AI revenue creates both growth visibility and customer-concentration risk.
+- A participant in interdependent capital and supply flows linking OpenAI demand, [[Nvidia]] chips, bond investors, and private credit.
+- A politically and operationally important infrastructure actor through [[StargateAIInfrastructure]], [[USTikTok|U.S. TikTok]], and globally exposed cloud regions.
 
-Oracle appears in [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] as one of the cloud and technology companies named in the episode's discussion of Middle East data-center exposure. The hosts describe claims about Oracle-linked regional data-center or AI-infrastructure risk, while also making clear that the transcript itself does not provide external verification for the current-war details.
+## Evidence
+- **Enterprise base and strategic expansion:** [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] traces relational-database commercialization, [[EnterpriseDatabaseLockIn]], founder wealth, Stargate, and political-regulatory access; [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] supplies Oracle's acquisition of [[Endeca]] as the context that gave the future [[Toast]] founders room to explore.
+- **Project finance and public bonds:** [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] describes a 15-year Oracle lease supporting [[Crusoe]] construction debt; [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] places Oracle in the sector-wide technology bond wave.
+- **Debt and execution risk:** [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] reports large borrowing, reliance on third-party facilities, the Blue Owl withdrawal from a Michigan project, and the large OpenAI agreement; [[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] treats Oracle as a debt-financed escalation case inside a productive AI bubble.
+- **Concentration and credit-market repricing:** [[default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354]] reports $169 billion of debt, dependence on a roughly $300 billion OpenAI agreement, rising CDS prices, a near-junk rating, and possible New Mexico payment delay while preserving Oracle's denial of a construction delay.
+- **Circularity and systemic exposure:** [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] places Oracle in a source-scoped SoftBank/OpenAI/Stargate financing analogy; [[default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354]] maps the OpenAI-Oracle-Nvidia payment and investment loop.
+- **Platform and geopolitical infrastructure:** [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] links Oracle infrastructure and ownership to U.S. TikTok; [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] treats Oracle-linked cloud regions as source-scoped examples of wartime physical exposure.
 
-In the wiki, Oracle's main relevance from this source is not a company-specific business thesis but a cloud-infrastructure case: commercial cloud regions can become part of [[DigitalInfrastructureWarRisk]] when they sit in politically exposed locations.
+## Qualifications
+Oracle's debt, rankings, contract value, CDS movement, project notices, and rating position are episode-reported and not independently audited here. A large OpenAI contract can make projects financeable as well as concentrated; CDS repricing and a near-junk rating do not establish imminent default. Political access can improve strategic positioning without eliminating power, construction, refinancing, tenant-renewal, or technology risk. Current-war infrastructure claims also remain unverified by the supplied transcript.
 
-[[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds Oracle as a financial-infrastructure case in the AI boom. The [[MarketplaceTech]] episode says Oracle is taking on large amounts of debt for AI cloud capacity, renting many facilities from third-party developers, and facing investor scrutiny after Financial Times reporting that [[BlueOwlCapital]] pulled out of a $10 billion Oracle-linked Michigan project. In this source, Oracle's reported $300 billion cloud-services deal with [[OpenAI]] becomes both a growth signal and a source of [[DataCenterDebtRisk]].
+## What Changed
+- Migrated Oracle from source-led append prose to a synthesis-first company profile using its complete preserved source inventory.
+- Made the shift from cash-generating software toward capital-intensive AI infrastructure central to the current profile.
+- Added the newest source's customer-concentration, CDS, rating, and force-majeure warning signals.
+- Preserved the boundary between rising credit risk and any claim of imminent bankruptcy or default.
 
-[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Oracle as the infrastructure and ownership actor behind [[USTikTok|U.S. TikTok]]. The episode says Oracle, [[MGX]], and [[SilverLake]] are among investors in the new American version, and [[PareshDave]] links early service disruptions after a storm to TikTok's cloud infrastructure being tied to Oracle.
-
-[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds Oracle's origin story and political-infrastructure role. The [[ShangyeJiushiZheyang]] episode says [[LarryEllison]] commercialized relational-database ideas that [[IBM]] had not productized, then built a sticky enterprise-software business through [[EnterpriseDatabaseLockIn]]. It also links Oracle to [[StargateAIInfrastructure]], a large [[OpenAI]] data-center relationship, and [[USTikTok|U.S. TikTok]], making Oracle a bridge between database lock-in, AI compute, and [[PoliticalRegulatoryLeverage]].
-
-[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] uses Oracle as the AI-bubble financing warning case. [[DavidWeng|大卫翁]] says AI looks less systemically dangerous while funded mainly by equity and large technology-company cash flow, but Oracle-style debt-funded capital expenditure shows why [[BubbleFinancingStructure]], [[AIInfrastructureDebtFinancing]], and [[DataCenterDebtRisk]] matter.
-
-## Connections
-- [[DigitalInfrastructureWarRisk]] — cloud facilities as potential wartime targets.
-- [[DataCenterPhysicalResilience]] — physical hardening and repair limits for commercial data centers.
-- [[WarAwareDisasterRecovery]] — customer backup and migration planning under conflict risk.
-- [[Amazon]], [[Microsoft]], [[Google]], and [[OpenAI]] — peer cloud or AI-infrastructure companies in the episode's risk discussion.
-- [[DataCenterDebtRisk]] — AI data-center financing risk added by the Marketplace Tech source.
-- [[BlueOwlCapital]] — capital provider named in the Michigan project reporting discussed by the episode.
-- [[DataCenterBacklash]] and [[DataCenterCostShifting]] — local and utility-price risks tied to Oracle-linked project delays.
-- [[USTikTok|U.S. TikTok]], [[TikTok]], [[MGX]], [[SilverLake]], and [[PlatformOwnershipTransition]] — U.S. TikTok ownership and outage branch added by Marketplace Tech.
-- [[LarryEllison]], [[EnterpriseDatabaseLockIn]], [[StargateAIInfrastructure]], and [[PoliticalRegulatoryLeverage]] - origin, lock-in, and political-infrastructure branch added by 商业就是这样.
-- [[BubbleFinancingStructure]], [[AIInfrastructureDebtFinancing]], and [[PrivateCreditTailRisk]] - episode 143's debt-financing warning around AI infrastructure.
-- [[Endeca]], [[AmanNarang]], [[SteveFredette]], [[JohnGraham]], and [[Toast]] - acquisition-to-founder-team branch added by How I Built This.
-- [[Crusoe]], [[EnergyFirstNeocloud]], [[DataCenterPowerBottleneck]], and [[DataCenterOnsitePower]] - Abilene lease and project-finance branch added by All-In.
+## Relationships
+- [[LarryEllison]] - founder, major owner, and strategic leadership relationship.
+- [[OpenAI]] - major AI infrastructure customer and concentration-risk relationship.
+- [[Nvidia]] - accelerator supplier and circular-capital-flow relationship.
+- [[Crusoe]] - long-lease and construction-finance relationship.
+- [[BlueOwlCapital]] - reported Michigan project-finance relationship.
+- [[StargateAIInfrastructure]] - strategic AI buildout relationship.
+- [[USTikTok|U.S. TikTok]] - infrastructure and ownership relationship.
+- [[AIInfrastructureDebtFinancing]] - corporate bond, lease, and project-finance relationship.
+- [[DataCenterDebtRisk]] - construction, refinancing, maturity, and concentration relationship.
+- [[AICircularInfrastructureFinancing]] - independent-demand and interdependence relationship.
+- [[DigitalInfrastructureWarRisk]] - geographically exposed cloud-infrastructure relationship.

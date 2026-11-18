@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Two ways big bets on data centers might affect you (Two Indicators)](sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354.md) — Planet Money episode on hyperscaler bond demand, long-duration data-center risk, and Oracle's OpenAI concentration and credit-market warning signals.
 - [Exciting News: More How I Built This is on the Way!](sources/vmp5396536074-vmp5396536074.md) — Guy Raz announces Monday audio/video episodes and Thursday archive returns through 2026, followed by two new founder interviews and one classic-video release each week from January 2027.
 - [157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0.md) — 张小珺Jùn访谈蚂蚁灵光负责人蔡伟，以智能、供给和安全可信拆解个人智能体，并讨论主动性、记忆、长程任务、服务生态、模型协同、硬件与商业模式。
 - [Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate](sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks.md) — Ali Ghodsi connects Databricks' origins and Genie ontology to enterprise AI context, agentic management, deployment bottlenecks, recursive self-improvement limits, and slow economic diffusion.
@@ -5376,6 +5377,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Matt Sheridan](entities/MattSheridan.md) — Finance lecturer supplying a source-bounded warning about debt and counterparty interdependence across Oracle, OpenAI, and Nvidia.
 - [蔡伟 / Cai Wei](entities/CaiWei.md) — 蚂蚁灵光负责人，以智能、服务供给和安全可信解释个人智能体的产品成熟条件。
 - [蚂蚁灵光 / Ant LingGuang](entities/AntLingGuang.md) — 蚂蚁消费级 AI 产品，从快速研究与闪应用演进到持续管理个人事项的智能体路线。
 - [魏讽 / Wei Feng (late Han)](entities/WeiFengLateHan.md) — 以才名获钟繇举荐，却因邺城谋反计划被陈祎提前告发而败亡的东汉末官员。
