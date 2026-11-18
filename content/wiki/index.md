@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Leadership shakeup could cost Nvidia its dominance](sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CUDA's changing moat, supply-chain control, inference-chip competition, and ecosystem investment.
 - [Two ways big bets on data centers might affect you (Two Indicators)](sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354.md) — Planet Money episode on hyperscaler bond demand, long-duration data-center risk, and Oracle's OpenAI concentration and credit-market warning signals.
 - [Exciting News: More How I Built This is on the Way!](sources/vmp5396536074-vmp5396536074.md) — Guy Raz announces Monday audio/video episodes and Thursday archive returns through 2026, followed by two new founder interviews and one classic-video release each week from January 2027.
 - [157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0.md) — 张小珺Jùn访谈蚂蚁灵光负责人蔡伟，以智能、供给和安全可信拆解个人智能体，并讨论主动性、记忆、长程任务、服务生态、模型协同、硬件与商业模式。

@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-11-15
-as_of_overview_commit: e7cfb7209d61f9d6d4bb98e15584a73c2c2a33bc
+last_updated: 2026-11-18
+as_of_overview_commit: de0057383840622f5ba05006d070efc055afb7fa
 summary: "Reliable knowledge and durable action depend on context, evidence, institutional capacity, human judgment, and clear boundaries between claims, tools, and outcomes."
-episode_count: 5235
-source_count: 5235
+episode_count: 5249
+source_count: 5249
 paragraph_count: 811
 topic_count: 9
 ---

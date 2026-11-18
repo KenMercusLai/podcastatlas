@@ -1681,9 +1681,9 @@
       "url": "/wiki/concepts/aicharacterpersonalitysystem/"
     },
     "AIChipSpecialization": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 6,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
@@ -1747,9 +1747,16 @@
           "show": "硅谷101",
           "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
           "url": "/wiki/sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0/"
+        },
+        {
+          "episode_file": "tech_20261118_1118_MP_TECH_pod_128 [tech_20261118_1118_MP_TECH_pod_128].md",
+          "key": "tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Leadership shakeup could cost Nvidia its dominance",
+          "url": "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/aichipspecialization/"
     },
     "AICircularInfrastructureFinancing": {
@@ -43309,9 +43316,9 @@
       "url": "/wiki/entities/cssedit/"
     },
     "CUDA": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "acc532947b65 [acc532947b65].md",
@@ -43340,9 +43347,16 @@
           "show": "Data Science With Sam",
           "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
           "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
+        },
+        {
+          "episode_file": "tech_20261118_1118_MP_TECH_pod_128 [tech_20261118_1118_MP_TECH_pod_128].md",
+          "key": "tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Leadership shakeup could cost Nvidia its dominance",
+          "url": "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "url": "/wiki/entities/cuda/"
     },
     "CabinetExhaustionManagement": {
@@ -57811,6 +57825,29 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/entities/christophermarlowe/"
+    },
+    "ChristopherMiller": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260210_0210_MP_TECH_pod_128 [tech_20260210_0210_MP_TECH_pod_128].md",
+          "key": "tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TPU? GPU? What's the difference between these two chips used for AI?",
+          "url": "/wiki/sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261118_1118_MP_TECH_pod_128 [tech_20261118_1118_MP_TECH_pod_128].md",
+          "key": "tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Leadership shakeup could cost Nvidia its dominance",
+          "url": "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/christophermiller/"
     },
     "ChristopherNavarro": {
       "episode_count": 1,
@@ -119193,9 +119230,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -119210,9 +119247,16 @@
           "show": "晚点聊 LateTalk",
           "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
           "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+        },
+        {
+          "episode_file": "tech_20261118_1118_MP_TECH_pod_128 [tech_20261118_1118_MP_TECH_pod_128].md",
+          "key": "tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Leadership shakeup could cost Nvidia its dominance",
+          "url": "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {

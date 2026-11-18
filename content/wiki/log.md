@@ -43294,3 +43294,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | Leadership shakeup could cost Nvidia its dominance
+
+Added a [[MarketplaceTech]] interview with historian and [[ChipWar]] author [[ChristopherMiller]] on how uncertainty around [[JensenHuang|Jensen Huang]] and [[Nvidia]]'s succession could reshape AI-chip competition. Resynthesized Christopher Miller, [[CUDA]], [[AIChipSpecialization]], and [[FounderLedPlatformSuccessionRisk]] from each page's complete preserved evidence inventory before appending the new source once. Broad Nvidia, Jensen Huang, show, company, and automatic `wiki/overview.md` profiles remained closed because the focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Core synthesis: Nvidia faces different pressure from AMD-like accelerators, hyperscaler in-house chips, and inference startups. AI-assisted coding may reduce part of CUDA's porting barrier, but mature tooling, performance tuning, scarce manufacturing inputs, technical-team retention, and system delivery remain separate defenses. Leadership caution could reduce customer wins and ecosystem investment; lower chip prices may benefit buyers even while an Nvidia pullback slows aggregate AI-infrastructure growth.
+
+No settled contradiction was adopted. Market share, decline timing, supply commitments, customer behavior, talent retention, pricing, and investment effects remain episode-attributed because the supplied file is a structured summary rather than a transcript, market dataset, contract, company filing, or personnel record.
+
+Downstream synthesis found no dirty controlled topic; the maximum-age gate triggered a global compaction that preserved the eight representative executive claims while refreshing corpus counts. Generated artifacts validate 5,249 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

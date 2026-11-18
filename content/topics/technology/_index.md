@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3895
+topic_total_pages: 3896
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10782,6 +10782,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952"
     title: "Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952/"
+  - key: "tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128"
+    title: "Leadership shakeup could cost Nvidia its dominance"
+    url: "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
   - key: "live-anthropic-co-founder-on-ai-and-jobs"
     title: "Live: Anthropic co-founder on AI and jobs"
     url: "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
