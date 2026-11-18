@@ -137963,9 +137963,9 @@
       "url": "/wiki/entities/guymolinari/"
     },
     "GuyRaz": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 1,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
@@ -138162,9 +138162,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
           "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        },
+        {
+          "episode_file": "VMP5396536074 [VMP5396536074].md",
+          "key": "vmp5396536074-vmp5396536074",
+          "show": "How I Built This with Guy Raz",
+          "title": "Exciting News: More How I Built This is on the Way!",
+          "url": "/wiki/sources/vmp5396536074-vmp5396536074/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "url": "/wiki/entities/guyraz/"
     },
     "GwenShotwell": {
@@ -152855,9 +152862,9 @@
       "url": "/wiki/entities/houthis/"
     },
     "HowIBuiltThis": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 1,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
@@ -153054,9 +153061,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
           "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        },
+        {
+          "episode_file": "VMP5396536074 [VMP5396536074].md",
+          "key": "vmp5396536074-vmp5396536074",
+          "show": "How I Built This with Guy Raz",
+          "title": "Exciting News: More How I Built This is on the Way!",
+          "url": "/wiki/sources/vmp5396536074-vmp5396536074/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "url": "/wiki/entities/howibuiltthis/"
     },
     "HowardCarter": {

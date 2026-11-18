@@ -31,7 +31,8 @@ sources:
   - sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21
   - yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285
   - 10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31
-last_updated: 2026-10-05
+  - vmp5396536074-vmp5396536074
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,6 +46,8 @@ The bounded episodes show two complementary formats. Founder stories reconstruct
 
 The tenth-anniversary episode supplies the clearest synthesis of the show's worldview. Entrepreneurship begins in ordinary problem recognition and advances through experiments, repeated problem solving, rejection, and imperfect launches. Yet persistence is not treated as costless: investor goals can conflict with founder goals, growth can be less valuable than profitability, health and family time can be depleted, and selling can separate a founder from a company that has become part of identity. Luck and timing remain causal even when skill and work improve readiness.
 
+The November 2026 programming announcement adds a distribution and cadence change without revising that editorial thesis. Through the end of 2026, the show plans Monday audio/video originals and Thursday archive returns; from January 2027, it plans two new founder interviews plus one previously unseen classic-video release each week, with [[YouTube]] carrying the video editions.
+
 ## Key Characteristics
 - The show uses detailed personal narrative to expose uncertainty, embarrassment, rejection, and financial pressure hidden by polished company histories.
 - It compares recurring operating patterns across software, consumer goods, retail, services, and regulated markets.
@@ -52,6 +55,7 @@ The tenth-anniversary episode supplies the clearest synthesis of the show's worl
 - Founder stories connect brand and product insight to distribution, operations, governance, leadership transition, and acquisition.
 - The show treats entrepreneurship as broadly transferable creative problem solving rather than only venture-backed company formation.
 - Its retrospective stance keeps success, luck, sacrifice, and survivor bias in view at the same time.
+- Its announced 2027 schedule combines two new weekly founder interviews with one classic-video release, extending the archive into regular audio-and-video distribution.
 
 ## Evidence
 - Product and distribution systems - [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]], [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]], [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]], and [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] show product iteration becoming manufacturing, channel, shelf, and cash-flow work.
@@ -59,14 +63,16 @@ The tenth-anniversary episode supplies the clearest synthesis of the show's worl
 - Experience and brand systems - [[build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]], [[starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4]], and [[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]] connect emotion and design to repeatable retail or hospitality execution.
 - Practical founder advice - [[advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e]], [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]], [[advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86]], and [[advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]] ground the show's recurring focus on evidence, relationships, education cost, delegation, and owned customer connection.
 - Archive-level synthesis - [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31]] explicitly connects risk, iteration, rejection, scrappiness, capital fit, founder health, identity, luck, and skill across more than 600 interviews.
+- Publishing expansion - [[vmp5396536074-vmp5396536074]] records the announced Monday/Thursday cadence through 2026 and the planned three-release audio/video cadence beginning in January 2027.
 
 ## Qualifications
-The show is a curated narrative product, not a representative sample of all businesses. Retrospective founder accounts can compress causality and privilege survivors, while Advice Line recommendations often lack longitudinal testing. Examples are therefore most useful as grounded patterns and questions, not universal formulas or independent verification of company claims.
+The show is a curated narrative product, not a representative sample of all businesses. Retrospective founder accounts can compress causality and privilege survivors, while Advice Line recommendations often lack longitudinal testing. Examples are therefore most useful as grounded patterns and questions, not universal formulas or independent verification of company claims. The November 2026 schedule is a forward-looking commitment rather than evidence that the releases occurred or that video improved audience or editorial outcomes.
 
 ## What Changed
 - Migrated How I Built This to `synthesis-v1` using its complete existing evidence inventory.
 - Replaced the episode-by-episode accumulation with a current profile of the show's two formats and recurring method.
 - Added the tenth-anniversary episode's archive-level synthesis and its explicit cost and survivor-bias boundaries.
+- Added the announced late-2026 and 2027 release cadence and audio/video distribution expansion without changing the show's entrepreneurship synthesis.
 
 ## Relationships
 - [[GuyRaz]] - host and principal interviewer.
@@ -76,3 +82,4 @@ The show is a curated narrative product, not a representative sample of all busi
 - [[CapitalAfterRepeatableGrowth]] - recurring financing sequence in the show's advice.
 - [[SustainableGrowthPace]] - counterweight to treating maximum scale as the only valid outcome.
 - [[DeliberateLuckSurface]] - synthesis of work, timing, opportunity exposure, and uncontrollable outcomes.
+- [[YouTube]] - announced distribution surface for new and archival video editions.

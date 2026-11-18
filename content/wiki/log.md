@@ -43272,3 +43272,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | Exciting News: More How I Built This is on the Way!
+
+Added a brief [[HowIBuiltThis]] programming announcement in which [[GuyRaz]] sets out Monday audio/video originals and Thursday archive returns through the end of 2026, followed from January 2027 by two new founder interviews and one previously unseen classic-video release each week.
+
+Resynthesized How I Built This and Guy Raz from their complete preserved 28-source evidence inventories before appending the new source once. The focused profiles now distinguish the show's durable entrepreneurship thesis from its announced publishing and [[YouTube]] distribution expansion. [[VideoPodcastAffordance]], YouTube, and the automatic `wiki/overview.md` remained closed because the notice establishes a schedule and distribution surface but supplies no new comparative evidence about video affordances, platform strategy, or cross-domain synthesis.
+
+No settled contradiction was adopted. The dates and frequencies are forward-looking programming commitments rather than evidence that the 2027 schedule was delivered; the supplied file does not identify upcoming founders or archive selections, compare audio and video outcomes, or report audience and production results.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,247 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

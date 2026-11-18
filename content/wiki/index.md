@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Exciting News: More How I Built This is on the Way!](sources/vmp5396536074-vmp5396536074.md) — Guy Raz announces Monday audio/video episodes and Thursday archive returns through 2026, followed by two new founder interviews and one classic-video release each week from January 2027.
 - [157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0.md) — 张小珺Jùn访谈蚂蚁灵光负责人蔡伟，以智能、供给和安全可信拆解个人智能体，并讨论主动性、记忆、长程任务、服务生态、模型协同、硬件与商业模式。
 - [Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate](sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks.md) — Ali Ghodsi connects Databricks' origins and Genie ontology to enterprise AI context, agentic management, deployment bottlenecks, recursive self-improvement limits, and slow economic diffusion.
 - [152 ✪ 韩国考察回顾：文化乘数赋能消费品牌](sources/ep152-ep152.md) — 疯投圈以圣水洞、K-Beauty、OLIVE YOUNG 与霸王茶姬解释文化乘数、线下空间媒体化、本地化和品牌长期性测试。

@@ -31,7 +31,8 @@ sources:
   - sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21
   - yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285
   - 10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31
-last_updated: 2026-10-05
+  - vmp5396536074-vmp5396536074
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,6 +46,8 @@ Across the bounded sources, Raz's role is less that of a universal business expe
 
 The tenth-anniversary retrospective makes his editorial stance explicit. Entrepreneurship is a creative problem-solving practice rather than a clean hero story: fear is normal, rejection is common, growth and financing must fit the desired company, and success does not erase health or family costs. Raz also treats luck and skill as jointly necessary, with preparation and work increasing exposure to opportunities that founders do not control.
 
+In the November 2026 programming notice, Raz also acts as the show's schedule announcer. He presents a transition from Monday originals and Thursday archive returns through 2026 to three weekly releases from January 2027: two new audio/video founder interviews and one previously unseen classic-video edition.
+
 ## Key Characteristics
 - Raz elicits detailed founder narratives while repeatedly separating polished outcomes from the fear, error, and constraint that preceded them.
 - His Advice Line method favors testable next steps, sharper positioning, customer evidence, focused channels, and reversible experiments.
@@ -52,6 +55,7 @@ The tenth-anniversary retrospective makes his editorial stance explicit. Entrepr
 - He consistently qualifies maximum-growth narratives with founder control, health, identity, profitability, and quality-of-life considerations.
 - His interviews use cross-industry comparison to identify recurring patterns without claiming that one founder's tactic transfers mechanically to another business.
 - He frames effort as a way to become ready for opportunity, not as proof that success is fully controllable or deserved.
+- He presents the 2027 expansion as a combined editorial and distribution change, increasing founder interviews while bringing new and archival video to [[YouTube]].
 
 ## Evidence
 - Founder-story method - [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]], [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]], [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]], and [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] show Raz drawing operating lessons from product, channel, platform, reliability, and scale transitions.
@@ -59,14 +63,16 @@ The tenth-anniversary retrospective makes his editorial stance explicit. Entrepr
 - Growth and capital qualification - [[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]], [[advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714]], and [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] show him distinguishing demand from finance quality, operating capacity, and founder-control fit.
 - Brand and distribution interpretation - [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]], [[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]], and [[advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]] connect narrative and design to shelf behavior, owned relationships, and repeat demand.
 - Anniversary editorial thesis - [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31]] records Raz's synthesis of fear, rejection, iteration, health, financing fit, founder attachment, luck, and skill across the archive.
+- Schedule announcement - [[vmp5396536074-vmp5396536074]] records Raz's late-2026 Monday/Thursday plan and the three-release audio/video cadence announced for January 2027.
 
 ## Qualifications
-The bounded evidence is almost entirely produced by Raz's own show, so this profile describes his published interviewing and advising method rather than an independent evaluation of his private decisions or every episode in the archive. Advice Line recommendations are short-form hypotheses without follow-up evidence in many cases, and founder retrospectives can contain survivor bias, memory compression, or unverified company claims.
+The bounded evidence is almost entirely produced by Raz's own show, so this profile describes his published interviewing and advising method rather than an independent evaluation of his private decisions or every episode in the archive. Advice Line recommendations are short-form hypotheses without follow-up evidence in many cases, and founder retrospectives can contain survivor bias, memory compression, or unverified company claims. The announced 2027 cadence remains forward-looking and does not establish delivery, audience response, or production sustainability.
 
 ## What Changed
 - Migrated Guy Raz to `synthesis-v1` using the complete existing evidence inventory.
 - Reframed the page from an episode-by-episode list into a current profile of his interviewing and advising method.
 - Added the anniversary episode's explicit synthesis of risk, persistence, capital fit, founder cost, and luck.
+- Added Raz's announced late-2026 and 2027 programming cadence and video-distribution role.
 
 ## Relationships
 - [[HowIBuiltThis]] - show he hosts and principal evidence base for this profile.
@@ -75,3 +81,4 @@ The bounded evidence is almost entirely produced by Raz's own show, so this prof
 - [[FounderResilience]] - persistence frame he qualifies through learning, health, and changing evidence.
 - [[SustainableGrowthPace]] - growth frame that links company ambition to operations and founder life.
 - [[DeliberateLuckSurface]] - effort-and-opportunity relationship reflected in his closing luck-versus-skill question.
+- [[YouTube]] - announced video platform for the show's expanded schedule.
