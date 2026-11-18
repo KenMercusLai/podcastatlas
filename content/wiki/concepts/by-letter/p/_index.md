@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11742
+wiki_total_pages: 11743
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "PersonaShieldedPoliticalPurge"
     title: "Persona-Shielded Political Purge / 人设护盾式政治清除"
     url: "/wiki/concepts/personashieldedpoliticalpurge/"
+  - key: "PersonalAgentMaturityTriad"
+    title: "Personal Agent Maturity Triad / 个人智能体成熟三要素"
+    url: "/wiki/concepts/personalagentmaturitytriad/"
   - key: "PersonalAgentNetworkEffects"
     title: "Personal Agent Network Effects / 个人智能体网络效应"
     url: "/wiki/concepts/personalagentnetworkeffects/"

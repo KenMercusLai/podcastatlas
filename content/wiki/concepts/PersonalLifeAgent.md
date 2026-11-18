@@ -9,7 +9,8 @@ sources:
   - tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128
   - ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1
   - yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e
-last_updated: 2026-10-13
+  - 157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The Ant source establishes the service-graph version: payment accounts, order hi
 
 The combined evidence shows that neither context nor execution is sufficient alone. Transaction and service platforms can finish tasks but may lack the user's unfulfilled intent; content and communication platforms may see desire but lack fulfillment rights; memory can retain facts yet still assign them to the wrong person or time. [[AlexaPlus|Alexa+]] adds a household-and-hardware route, while [[DotsPersonalAgent|Dots]] adds a paid cloud-computer route inside ChatGPT. [[AmbiPersonalAI|Ambi]] adds an ambient route: physical-world context and an immediately available entry point may reduce repeated briefing, while [[EnvironmentTriggeredAgentProactivity|environmental changes]] provide a narrower trigger than constant speculative scanning.
 
+The LingGuang interview turns these requirements into a [[PersonalAgentMaturityTriad|three-layer maturity test]]: intelligence must decompose and recover across long tasks, supply must expose services that can fulfill intent, and safety/trust must preserve permission, privacy, compliance, and recourse. It also sharpens the attention boundary: initiative is useful when the agent selects the right information, time, and surface, not when it maximizes notification volume.
+
 The product challenge is therefore to join a [[PersonalAgentUnderstandingLayer|relevant understanding layer]] to reliable service execution while keeping [[AgentDelegationFriction|delegation cost]] below direct action and earning enough trust for accounts, communication, money, and continuous sensing. Work and life may share person-level context, but shared context does not erase purpose limitation, bystander consent, or action permissions.
 
 ## Key Claims
@@ -32,7 +35,7 @@ The product challenge is therefore to join a [[PersonalAgentUnderstandingLayer|r
 - Long-term memory adds value only when stale or noisy information is filtered into current intent.
 - Progressive delegation and recoverable permissions are essential when tasks touch money, accounts, family, health, or travel.
 - One continuous front agent or ambient entry point can hide specialist routing and reduce the user's context-management burden.
-- Broad personal context still needs deep recurring workflows and must pass coupled thresholds for operational reliability, ecosystem access, continuing personalization, security, privacy, and socially acceptable sensing.
+- Broad personal context still needs deep recurring workflows and must pass complementary thresholds for intelligence, callable supply, operational reliability, continuing personalization, security, privacy, and socially acceptable sensing.
 
 ## Evidence
 - Service and intent gap: [[273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3]] says [[AntAbao|阿宝]] can use Alipay's service network but that unfulfilled desires often originate on other attention platforms.
@@ -43,14 +46,17 @@ The product challenge is therefore to join a [[PersonalAgentUnderstandingLayer|r
 - Household execution evidence: [[tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128]] presents [[AlexaPlus|Alexa+]] completing calendars, reservations, tickets, shopping, lists, and media tasks through home devices and partner services.
 - Q3 market and system evidence: [[ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1]] compares Dots, Muse, Instinct, Q, and Grokbot across cloud computers, messaging, named specialist agents, initiative, cross-device continuity, platform access, personalization, and sensitive-account risk.
 - Ambient interaction evidence: [[yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e]] argues that physical-world context and immediate voice access can lower the cost of expressing needs, while meaningful environment changes can trigger service more selectively than continuous connector scans.
+- Maturity and completion evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] says [[AntLingGuang|灵光]] combines long-task intelligence, Alipay-linked service supply, and safety/trust while measuring whether continuing user matters are created, managed, completed, or abandoned.
+- Attention evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] argues that personalized, low-frequency, high-information intervention is more useful than broad related-content alerts and that irrelevant memory invocation can feel invasive or socially clumsy.
 
 ## Counterevidence & Qualifications
-The sources are strategic discussions and company interviews rather than adoption studies. They do not show that users will grant sufficient data, payment authority, cross-platform access, or continuous environmental sensing, nor that current products can complete long chains reliably. Office, household, and personal agents are not cleanly separated: one continuing assistant may span all three while shared devices complicate identity and permission. Platform scale, hardware reach, downloads, and memory volume do not guarantee useful understanding when data is siloed, stale, misattributed, behaviorally noisy, or shared among household members. Ambient capture can reduce repeated explanation while increasing bystander, retention, security, and inference risk. Subscription, advertising, transaction, and hardware-service models can also conflict with the assistant's duty to the user. Product-market fit, willingness to pay, reliability, and business model remain unsettled.
+The sources are strategic discussions and company interviews rather than adoption studies. They do not show that users will grant sufficient data, payment authority, cross-platform access, or continuous environmental sensing, nor that current products can complete long chains reliably. Office, household, and personal agents are not cleanly separated: one continuing assistant may span all three while shared devices complicate identity and permission. Platform scale, hardware reach, downloads, and memory volume do not guarantee useful understanding when data is siloed, stale, misattributed, behaviorally noisy, or shared among household members. Ambient capture can reduce repeated explanation while increasing bystander, retention, security, and inference risk. Subscription, advertising, transaction, and hardware-service models can also conflict with the assistant's duty to the user. LingGuang's retention-inflection judgment, service-industry market estimate, device experiments, future subsidy competition, and product capabilities are participant reports or forecasts. Product-market fit, willingness to pay, reliability, and business model remain unsettled.
 
 ## What Changed
-- Added Ambi's ambient hardware-software route alongside messaging, service-graph, household, and cloud-computer strategies.
-- Added environment-triggered initiative as a narrower alternative to continuous speculative scanning.
-- Expanded the maturity boundary to include continuous-sensing privacy and social permission.
+- Added intelligence, service supply, and safety/trust as a coupled maturity test.
+- Added matter completion and abandonment as outcome measures beyond activity and retention.
+- Sharpened proactivity as attention allocation across timing, relevance, and delivery surface.
+- Added LingGuang's Ant/Alipay service-ecosystem route while keeping its relationship to 阿宝 unresolved.
 
 ## Related Concepts
 - [[PersonalAIMemory]] - continuity mechanism that reduces repeated background explanation.
@@ -68,3 +74,5 @@ The sources are strategic discussions and company interviews rather than adoptio
 - [[DotsPersonalAgent]] - OpenAI-linked example of a paid, persistent cloud-computer assistant inside ChatGPT.
 - [[AmbiPersonalAI]] - product example for ambient physical-world context and hardware-software interaction.
 - [[EnvironmentTriggeredAgentProactivity]] - initiative pattern based on meaningful situational change.
+- [[PersonalAgentMaturityTriad]] - coupled intelligence, supply, and safety test for end-to-end usefulness.
+- [[AntLingGuang]] - Ant product example combining matter management with service access and restrained initiative.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14802
+wiki_total_pages: 14804
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2534,6 +2534,9 @@ wiki_pages:
   - key: "AntInternational"
     title: "蚂蚁国际 / Ant International"
     url: "/wiki/entities/antinternational/"
+  - key: "AntLingGuang"
+    title: "蚂蚁灵光 / Ant LingGuang"
+    url: "/wiki/entities/antlingguang/"
   - key: "AntLingbo"
     title: "蚂蚁灵波 / Ant Lingbo"
     url: "/wiki/entities/antlingbo/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3890
+topic_total_pages: 3894
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4015,6 +4015,9 @@ topic_concepts:
   - key: "PersistentCloudAgents"
     title: "Persistent Cloud Agents"
     url: "/wiki/concepts/persistentcloudagents/"
+  - key: "PersonalAgentMaturityTriad"
+    title: "Personal Agent Maturity Triad / 个人智能体成熟三要素"
+    url: "/wiki/concepts/personalagentmaturitytriad/"
   - key: "PersonalAgentNetworkEffects"
     title: "Personal Agent Network Effects / 个人智能体网络效应"
     url: "/wiki/concepts/personalagentnetworkeffects/"
@@ -9533,9 +9536,15 @@ topic_entities:
   - key: "MoZihao"
     title: "莫子浩 / Mo Zihao"
     url: "/wiki/entities/mozihao/"
+  - key: "CaiWei"
+    title: "蔡伟 / Cai Wei"
+    url: "/wiki/entities/caiwei/"
   - key: "DigitalAnt"
     title: "蚂蚁数科 / Digital Ant"
     url: "/wiki/entities/digitalant/"
+  - key: "AntLingGuang"
+    title: "蚂蚁灵光 / Ant LingGuang"
+    url: "/wiki/entities/antlingguang/"
   - key: "AntLingbo"
     title: "蚂蚁灵波 / Ant Lingbo"
     url: "/wiki/entities/antlingbo/"
@@ -9756,6 +9765,9 @@ topic_sources:
   - key: "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan"
     title: "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈"
     url: "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+  - key: "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0"
+    title: "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象"
+    url: "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
   - key: "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz"
     title: "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录"
     url: "/wiki/sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz/"

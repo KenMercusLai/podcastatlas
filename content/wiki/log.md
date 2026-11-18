@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-18] ingest | 157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象
+
+Added a [[ZhangXiaojunCommercialInterviews|张小珺Jùn｜商业访谈录]] interview with [[CaiWei|蔡伟]] on [[AntLingGuang|蚂蚁灵光]] and the evolution from fast research and interactive generated applications toward [[PersonalLifeAgent|personal agents]]. Created synthesis-first profiles for Cai Wei, LingGuang, and [[PersonalAgentMaturityTriad|个人智能体成熟三要素]], then resynthesized Personal Life Agent, [[LongHorizonAgentReliability|长期智能体可靠性]], and [[AntGroup|蚂蚁集团]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: personal-agent maturity is a coupled system. Intelligence must decompose long tasks, recover from exceptions, and judge when to involve the user; service supply must expose real fulfillment paths; and safety/trust must preserve authorization, privacy, compliance, audit, and recovery. Proactivity is selective attention rather than notification volume, memory is valuable only when invoked in the right context, and intermediate tool activity does not substitute for a delivered outcome.
+
+No settled contradiction was adopted. LingGuang and [[AntAbao|阿宝]] remain separate because the supplied summaries do not establish whether they are distinct products, renamed efforts, or overlapping layers. Product capabilities, internal user behavior, retention-inflection claims, market size, subsidy forecasts, compute-cost expectations, hardware expansion, business models, and competitive advantage remain source-scoped because the file is a structured episode summary centered on a product leader rather than an independent adoption, reliability, privacy, or economic study. Broad show and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,246 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-17] ingest | Saigon, 1965
 
 Added a [[RevisionistHistory]] episode reconstructing [[RANDCorporation]]'s [[VietCongMotivationAndMoraleProject]] through [[MaiElliott]], [[LeonGoure]], and [[ConradKellen]]. Created synthesis-first profiles for the project, RAND, and all three interpreters, then resynthesized [[StrategicIntelligenceInterpretation]] from its complete preserved evidence inventory before appending the new source once.
@@ -43254,6 +43264,10 @@ Resynthesized [[CaoPi|曹丕]], [[ZhongYao|钟繇]], Du Xi, [[ConcealedCapabilit
 No settled contradiction was adopted. The episode's thousands-scale execution claim, reconstructed dialogue and inner motives, Zhong Yao's precise legal responsibility, Cao Pi's purge boundary, Xu You's threat level, and the durability of his reported submission remain source-scoped because the supplied file is a structured summary rather than a transcript, primary-text edition, or cited historical study.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,245 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-18] lint | Wiki health check
 

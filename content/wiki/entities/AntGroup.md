@@ -6,7 +6,8 @@ sources:
   - 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga
   - 273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3
   - waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87
-last_updated: 2026-09-19
+  - 157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Ant Group / 蚂蚁集团 is the Chinese fintech and AI company that the wiki now tracks across [[Alipay|支付宝]], agentic payment, health, enterprise infrastructure, globalization, and embodied intelligence.
 
 ## Current Profile
-Ant is presented as seeking an agent-era position broader than its old financial-technology label: personal life agents, health agents, AI payment, offline touchpoints, databases, enterprise technology, world models, and global wallet networks reinforce one another. The roundtable adds an operating role for Ant as commerce catalyst and trust provider, using merchant incentives, authorization, KYA, capability assessment, anti-fraud, traceability, and recourse to help a thin two-sided market start moving.
+Ant is presented as seeking an agent-era position broader than its old financial-technology label: personal life agents, health agents, AI payment, offline touchpoints, databases, enterprise technology, world models, and global wallet networks reinforce one another. The roundtable adds an operating role for Ant as commerce catalyst and trust provider, using merchant incentives, authorization, KYA, capability assessment, anti-fraud, traceability, and recourse to help a thin two-sided market start moving. The LingGuang interview adds a consumer-product and model-development route: use Alipay-linked service supply, matter-level product feedback, and close application/model coordination to pursue a restrained personal agent.
 
 ## Key Characteristics
 - Uses [[Alipay]] as a payment, service, order, bill, mini-program, and offline touchpoint base for agentic workflows.
@@ -25,7 +26,7 @@ Ant is presented as seeking an agent-era position broader than its old financial
 - Builds or incubates technology assets such as [[OceanBase]], [[DigitalAnt|蚂蚁数科]], and [[AntLingbo|蚂蚁灵波]] beyond consumer finance.
 - Pushes global payment and risk-control capacity through [[AntInternational|蚂蚁国际]] and wallet-network infrastructure.
 - Uses organizational separation and financing as a way to price, incentivize, and develop technology businesses independently.
-- Seeks to catalyze merchant-agent supply while extending payment trust into agent identity, authorization, audit, and remedies.
+- Seeks to catalyze merchant-agent supply while extending payment trust into agent identity, authorization, audit, and remedies, including through [[AntLingGuang|LingGuang]]'s consumer personal-agent route.
 
 ## Evidence
 - Robotics evidence: [[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] says Ant Group is the parent context for Lingbo's physical-world AI and embodied-native model exploration.
@@ -34,13 +35,15 @@ Ant is presented as seeking an agent-era position broader than its old financial
 - Health evidence: [[273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3]] treats [[AntAfu|阿福]] as a health-service and personal-record entrance connected to insurance codes, appointments, digitization, and Haodf assets.
 - Infrastructure evidence: [[273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3]] links AI payment, 碰一下, OceanBase, Digital Ant, Lingbo, and Ant International into a multi-business AI infrastructure frame.
 - Commerce and trust evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] records [[HanXinyi|韩新毅]] describing merchant-user cold start, developer incentives, KYA, capability assessment, anti-fraud, traceability, and compensation.
+- Consumer-product evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] presents [[CaiWei|蔡伟]] and LingGuang using Alipay's service ecosystem, continuing-matter metrics, and application/model feedback to develop personal assistance.
 
 ## Qualifications
-The wiki still has no independent performance or financial verification for the new Ant thesis. Investment amounts, financing rounds, valuation ranges, touchpoint counts, wallet counts, WorldFirst volume, shopping growth, merchant demand, launch timing, and adoption forecasts remain source-scoped. Ant's new profile also does not make it a robotics hardware company; Lingbo remains a robot-brain and physical-world AI branch within a wider Ant strategy.
+The wiki still has no independent performance or financial verification for the new Ant thesis. Investment amounts, financing rounds, valuation ranges, touchpoint counts, wallet counts, WorldFirst volume, shopping growth, merchant demand, launch timing, adoption forecasts, LingGuang product behavior, and retention claims remain source-scoped. Ant's new profile also does not make it a robotics hardware company; Lingbo remains a robot-brain and physical-world AI branch within a wider Ant strategy. LingGuang and 阿宝 remain separate entities because the supplied sources do not establish their organizational or product relationship.
 
 ## What Changed
-- Added Ant's proposed role as a two-sided agent-commerce catalyst.
-- Expanded payment trust to include KYA, capability assessment, audit, anti-fraud, and recourse.
+- Added LingGuang's consumer personal-agent and model/application co-development route.
+- Added Alipay-linked service supply as one part of the intelligence–supply–safety product thesis.
+- Preserved uncertainty about the relationship between LingGuang and 阿宝.
 
 ## Relationships
 - [[Alipay]] - consumer app, payment, and service base.
@@ -52,5 +55,7 @@ The wiki still has no independent performance or financial verification for the 
 - [[DigitalAnt]] - enterprise technology asset.
 - [[AntInternational]] - global wallet and payments-network asset.
 - [[AntLingbo]] - embodied-intelligence and robot-brain asset.
+- [[AntLingGuang]] - consumer personal-agent product route.
+- [[CaiWei]] - LingGuang leader articulating its product and ecosystem thesis.
 - [[HanXinyi]] - chief executive articulating the commerce and trust framework in the roundtable.
 - [[AgentTrustCalibration]] - long-run confidence-building problem attached to delegated action and payment.

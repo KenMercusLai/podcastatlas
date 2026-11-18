@@ -1231,6 +1231,10 @@
     "title": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄",
     "url": "/wiki/sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703/"
   },
+  "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0": {
+    "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+    "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+  },
   "157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2": {
     "title": "157.如何带走牛市的胜利果实？",
     "url": "/wiki/sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2/"
@@ -11035,6 +11039,10 @@
     "title": "蚂蚁国际 / Ant International",
     "url": "/wiki/entities/antinternational/"
   },
+  "AntLingGuang": {
+    "title": "蚂蚁灵光 / Ant LingGuang",
+    "url": "/wiki/entities/antlingguang/"
+  },
   "AntLingbo": {
     "title": "蚂蚁灵波 / Ant Lingbo",
     "url": "/wiki/entities/antlingbo/"
@@ -17762,6 +17770,10 @@
   "CaiMao": {
     "title": "蔡瑁 / Cai Mao",
     "url": "/wiki/entities/caimao/"
+  },
+  "CaiWei": {
+    "title": "蔡伟 / Cai Wei",
+    "url": "/wiki/entities/caiwei/"
   },
   "CaiWenji": {
     "title": "蔡文姬 / Cai Wenji",
@@ -75150,6 +75162,10 @@
   "PersonalAIMemory": {
     "title": "Personal AI Memory",
     "url": "/wiki/concepts/personalaimemory/"
+  },
+  "PersonalAgentMaturityTriad": {
+    "title": "Personal Agent Maturity Triad / 个人智能体成熟三要素",
+    "url": "/wiki/concepts/personalagentmaturitytriad/"
   },
   "PersonalAgentNetworkEffects": {
     "title": "Personal Agent Network Effects / 个人智能体网络效应",

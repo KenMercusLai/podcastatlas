@@ -21402,9 +21402,9 @@
       "url": "/wiki/entities/antafu/"
     },
     "AntGroup": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
@@ -21426,9 +21426,16 @@
           "show": "硅谷101",
           "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
           "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        },
+        {
+          "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
+          "key": "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+          "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-11-18",
       "url": "/wiki/entities/antgroup/"
     },
     "AntInternational": {
@@ -21446,6 +21453,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/antinternational/"
+    },
+    "AntLingGuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
+          "key": "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+          "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/antlingguang/"
     },
     "AntLingbo": {
       "episode_count": 3,
@@ -43731,6 +43754,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/caimao/"
+    },
+    "CaiWei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
+          "key": "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+          "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/caiwei/"
     },
     "CaiWenji": {
       "episode_count": 3,
@@ -201493,9 +201532,9 @@
       "url": "/wiki/concepts/longformconversationemergence/"
     },
     "LongHorizonAgentReliability": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "039d9703-e999-454e-b6f4-f3d42ff195be [039d9703-e999-454e-b6f4-f3d42ff195be].md",
@@ -201510,9 +201549,16 @@
           "show": "Tomorrow, Today",
           "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
+        },
+        {
+          "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
+          "key": "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+          "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/longhorizonagentreliability/"
     },
     "LongHorizonIPPortfolioBuilding": {
@@ -251055,6 +251101,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/personalaimemory/"
     },
+    "PersonalAgentMaturityTriad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
+          "key": "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+          "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/personalagentmaturitytriad/"
+    },
     "PersonalAgentNetworkEffects": {
       "episode_count": 1,
       "show_count": 1,
@@ -251265,9 +251327,9 @@
       "url": "/wiki/concepts/personalknowledgeecology/"
     },
     "PersonalLifeAgent": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -251310,9 +251372,16 @@
           "show": "42章经",
           "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
           "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        },
+        {
+          "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
+          "key": "157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
+          "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-18",
       "url": "/wiki/concepts/personallifeagent/"
     },
     "PersonalMemoryIdentityResolution": {

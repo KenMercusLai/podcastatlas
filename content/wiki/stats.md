@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11742
-- Entities: 14802
-- Sources: 5245
-- Total wiki content pages: 31790
+- Concepts: 11743
+- Entities: 14804
+- Sources: 5246
+- Total wiki content pages: 31794
 
 ## Links
-- Wiki link references: 710235
-- Unique wiki link targets: 31831
-- Missing targets: 55
+- Wiki link references: 710332
+- Unique wiki link targets: 31836
+- Missing targets: 56
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5245
-- Matched episodes: 5245
+- Source pages: 5246
+- Matched episodes: 5246
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -118,6 +118,8 @@ outputs: ["html"]
   - `content/wiki/concepts/TayBridgeDisaster.md`
 - `[[ResearchInfrastructure]]`
   - `content/wiki/concepts/AppliedResearchTranslation.md`
+- `[[Robotics]]`
+  - `content/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0.md`
 - `[[SaidBoutou]]`
   - `content/wiki/log.md`
 - `[[SeaControlAsStateCapacity]]`

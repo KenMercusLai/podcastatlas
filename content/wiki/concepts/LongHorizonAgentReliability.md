@@ -5,7 +5,8 @@ tags: [ai, agents, reliability, memory, infrastructure]
 sources:
   - cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be
   - default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176
-last_updated: 2026-11-13
+  - 157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0
+last_updated: 2026-11-18
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Long tasks turn small weaknesses into accumulated operational risk. A model may 
 
 Reliability therefore belongs to the whole system: external state, selective memory, checkpoints, observability, schema and outcome validation, retry and rollback rules, permission gates, and a channel for timely human escalation. Testing needs to cover handoffs and downstream state, not only whether each isolated model response appears reasonable.
 
+The LingGuang interview adds the consumer outcome boundary: tool calls and visible progress have little value if the final step does not deliver the result. It also describes real product cases as feedback for improving decomposition, exception recovery, and tool choice, connecting deployment evidence back to model and system development.
+
 The governing distinction is between continuing and recovering. Persistence alone can let an error run longer; a reliable agent must detect uncertainty or divergence, stop safely, reconstruct what happened, ask for help when needed, and resume from a known state.
 
 ## Key Claims
@@ -26,7 +29,7 @@ The governing distinction is between continuing and recovering. Persistence alon
 - Durable state must preserve goals, constraints, completed work, evidence, and outstanding decisions outside fragile conversational context.
 - Checkpoints, verification, retry, rollback, cancellation, and compensation paths are part of task completion when actions affect the real world.
 - High-impact ambiguity should trigger human escalation through a reachable channel rather than silent continuation.
-- Reliability is a systems property spanning models, harnesses, runtimes, tools, permissions, identities, and external services.
+- Reliability is a systems property spanning models, harnesses, runtimes, tools, permissions, identities, and external services; the governing outcome is final user-visible delivery rather than intermediate activity.
 - Efficiency and concurrency matter because excessive steps, latency, and overload widen both failure probability and recovery cost.
 - Step-level success does not establish workflow success when malformed state or plausible fabrication can propagate across interfaces.
 
@@ -37,14 +40,16 @@ The governing distinction is between continuing and recovering. Persistence alon
 - Human escalation and concurrency: [[cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be]] presents messaging or calls as an uncertainty path and Hark's promotion as an overload case.
 - Composed workflow error: [[default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176]] uses an employee bank-account-change workflow and fabricated JSON from empty input to show how a plausible local output can corrupt downstream action.
 - Repeatable edge-case testing: [[default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176]] proposes deterministic inference and expected-outcome tests to expose failures before targeted correction and retesting.
+- Consumer completion evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] argues that low per-step error compounds and that users receive little value when the final delivery step fails despite successful earlier tool calls.
+- Deployment-feedback evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] says real user cases can improve task decomposition, exception recovery, and tool use, while [[AntLingGuang|LingGuang]] tracks completed and abandoned continuing matters.
 
 ## Counterevidence & Qualifications
-The sources offer practitioner interpretation and anecdotes rather than controlled failure rates or a comparative architecture study. More stored state can preserve stale or sensitive data; frequent checkpoints can increase cost; retries can duplicate consequential actions; validators can accept semantically wrong but well-formed output; and human escalation can fail through delay or approval fatigue. The newest source does not publish the claimed error rates, deterministic-test methods, or adapter results. No single memory, context-window, validator, or rollback mechanism makes arbitrary long tasks reliable.
+The sources offer practitioner interpretation and anecdotes rather than controlled failure rates or a comparative architecture study. More stored state can preserve stale or sensitive data; frequent checkpoints can increase cost; retries can duplicate consequential actions; validators can accept semantically wrong but well-formed output; and human escalation can fail through delay or approval fatigue. The sources do not publish the claimed error rates, deterministic-test methods, adapter results, LingGuang completion rates, or the product cases used for model feedback. No single memory, context-window, validator, or rollback mechanism makes arbitrary long tasks reliable.
 
 ## What Changed
-- Added explicit error compounding across model, API, and workflow handoffs.
-- Distinguished syntactic plausibility from validated downstream state and intended outcome.
-- Added repeatable edge-case testing as a complement to runtime recovery.
+- Added final user-visible delivery as the outcome boundary for consumer agents.
+- Added real deployment cases as feedback for decomposition, recovery, and tool-use improvement.
+- Added completed and abandoned continuing matters as product-level reliability signals.
 
 ## Related Concepts
 - [[AgentRuntimeExecutionLayer]] - execution substrate for state, isolation, observability, and recovery.
@@ -55,3 +60,4 @@ The sources offer practitioner interpretation and anecdotes rather than controll
 - [[AgentReliabilityVerification]] - evidence relationship for testing sustained execution rather than isolated output.
 - [[AgentPermissionBoundaries]] - constraint relationship that must survive the full task horizon.
 - [[TestDrivenAgentGovernance]] - predeployment testing relationship for composed workflow failure.
+- [[PersonalAgentMaturityTriad]] - broader maturity frame in which reliable intelligence must join service supply and safety.

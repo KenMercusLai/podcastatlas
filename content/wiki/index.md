@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0.md) — 张小珺Jùn访谈蚂蚁灵光负责人蔡伟，以智能、供给和安全可信拆解个人智能体，并讨论主动性、记忆、长程任务、服务生态、模型协同、硬件与商业模式。
 - [Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate](sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks.md) — Ali Ghodsi connects Databricks' origins and Genie ontology to enterprise AI context, agentic management, deployment bottlenecks, recursive self-improvement limits, and slow economic diffusion.
 - [152 ✪ 韩国考察回顾：文化乘数赋能消费品牌](sources/ep152-ep152.md) — 疯投圈以圣水洞、K-Beauty、OLIVE YOUNG 与霸王茶姬解释文化乘数、线下空间媒体化、本地化和品牌长期性测试。
 - [189.日元、加息与日本企业的出海经验｜专访亚洲开发银行前行长中尾武彦](sources/lowv9gi-pcc-knbwwwk1mhjxabzw-lowv9gi-pcc-knbwwwk1mhjxabzw.md) — 起朱楼宴宾客专访中尾武彦，以日美利差、日元套利和货币正常化解释弱日元，并用援助、政策金融、商社网络与东道国共益框架比较中日企业出海。
@@ -5374,6 +5375,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [蔡伟 / Cai Wei](entities/CaiWei.md) — 蚂蚁灵光负责人，以智能、服务供给和安全可信解释个人智能体的产品成熟条件。
+- [蚂蚁灵光 / Ant LingGuang](entities/AntLingGuang.md) — 蚂蚁消费级 AI 产品，从快速研究与闪应用演进到持续管理个人事项的智能体路线。
 - [魏讽 / Wei Feng (late Han)](entities/WeiFengLateHan.md) — 以才名获钟繇举荐，却因邺城谋反计划被陈祎提前告发而败亡的东汉末官员。
 - [陈祎 / Chen Yi (Changle commandant)](entities/ChenYiChangleWeiwei.md) — 被魏讽吸收进谋反计划、后向曹丕告发并使行动未发即败的长乐卫尉。
 - [许攸 / Xu You (Guanzhong camp commander)](entities/XuYouGuanzhongCommander.md) — 抗拒曹操命令并触发讨伐冲动、后在杜袭劝谏下通过封赏重归服从的关中营帅，与官渡许攸有别。
@@ -20274,6 +20277,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Personal Agent Maturity Triad / 个人智能体成熟三要素](concepts/PersonalAgentMaturityTriad.md) — 个人智能体需同时具备长程智能、可调用服务供给与安全可信执行的互补成熟框架。
 - [Adversary-Trait Exploitation / 对手性格弱点利用](concepts/AdversaryTraitExploitation.md) — 以可观察的身份敏感、轻视或过度自信增强虚假信号可信度，并诱导可验证的行动改变。
 - [Agentic Management Analytics](concepts/AgenticManagementAnalytics.md) — AI analysis over connected organizational data for feedback, structure, engineering, meetings, customers, culture, and decision latency.
 - [Enterprise AI Deployment Bottlenecks](concepts/EnterpriseAIDeploymentBottlenecks.md) — Context, security, economics, and strategic-control constraints that separate model capability from enterprise transformation.
