@@ -88478,6 +88478,43 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/dongyuanlatehan/"
     },
+    "DongZhaoLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
+          "key": "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭 [llC7Q-LoennXw26v3u5cbhiTIKW1].md",
+          "key": "zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/dongzhaolatehan/"
+    },
     "DongZhongshu": {
       "episode_count": 9,
       "show_count": 2,
@@ -111259,9 +111296,9 @@
       "url": "/wiki/entities/fanatics/"
     },
     "FanchengBattle219LateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
@@ -111276,6 +111313,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
+        },
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
         }
       ],
       "updated": "2026-11-19",
@@ -154085,6 +154129,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/huananeasternhan/"
+    },
+    "HuanJieLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/huanjielatehan/"
     },
     "HuanRongEasternHan": {
       "episode_count": 3,
@@ -299038,6 +299105,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/singlecellrnasequencing/"
     },
+    "SingleCommanderAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/singlecommanderaccountability/"
+    },
     "SingleStockLeveragedETF": {
       "episode_count": 3,
       "show_count": 3,
@@ -309604,6 +309687,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/strategicindulgenceoverextension/"
     },
+    "StrategicInformationDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/strategicinformationdisclosure/"
+    },
     "StrategicIntelligenceInterpretation": {
       "episode_count": 3,
       "show_count": 3,
@@ -312577,6 +312676,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/sunjianxingeneral/"
     },
+    "SunJiaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/sunjiaolatehan/"
+    },
     "SunMingQingHistorian": {
       "episode_count": 1,
       "show_count": 1,
@@ -313018,9 +313133,9 @@
       "url": "/wiki/entities/sundarpichai/"
     },
     "SunkCostEntrapment": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
@@ -313049,9 +313164,16 @@
           "show": "天真不天真",
           "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
           "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
+        },
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/sunkcostentrapment/"
     },
     "SunningdalePowerSharingCollapse": {
@@ -366835,9 +366957,9 @@
       "url": "/wiki/entities/zhaoxuanwesternhan/"
     },
     "ZhaoYanLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
@@ -366866,9 +366988,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
+        },
+        {
+          "episode_file": "lu-3DpVJ0nbqhISe2AQX-a3ZI3kP [lu-3DpVJ0nbqhISe2AQX-a3ZI3kP].md",
+          "key": "zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp/"
         }
       ],
-      "updated": "2026-11-12",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZhaoYanYilangLateHan": {

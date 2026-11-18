@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14814
+wiki_total_pages: 14815
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -2669,6 +2669,9 @@ wiki_pages:
   - key: "SunHeLateHan"
     title: "孙河 / Sun He (late Han)"
     url: "/wiki/entities/sunhelatehan/"
+  - key: "SunJiaoLateHan"
+    title: "孙皎 / Sun Jiao (late Han)"
+    url: "/wiki/entities/sunjiaolatehan/"
   - key: "SunChengLateHan"
     title: "孙程 / Sun Cheng (late Han)"
     url: "/wiki/entities/sunchenglatehan/"

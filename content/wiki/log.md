@@ -43359,3 +43359,12 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-19] ingest | 《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？
+
+Added the missing episode between Hanji 1168 and 1170. Created [[SunJiaoLateHan|孙皎]], [[SingleCommanderAccountability|单一主将式权责统一]], and [[StrategicInformationDisclosure|战略性信息披露]], then resynthesized [[FanchengBattle219LateHan|219年樊城之战]], [[ZhaoYanLateHan|赵俨]], [[DongZhaoLateHan|董昭]], [[HuanJieLateHan|桓阶]], and [[SunkCostEntrapment|沉没成本困局]] from each page's complete preserved source inventory before appending the new source once.
+
+Core synthesis: clear final authority can coexist with senior support; Zhao Yan's delay is active preparation through proximity, morale, reinforcement, and coordination; Dong Zhao treats selective disclosure as a multi-audience operational tool; and Huan Jie distinguishes strategic rear support from unnecessary personal intervention. Guan Yu's continued commitment may reflect sunk-cost pressure, but confidence in his rear defenses and the forward value of Fancheng remain independent explanations.
+
+No settled contradiction was adopted. The episode's calendrical “fire year” and disaster sequence is retained as traditional motivational framing rather than causal forecasting. Disaster details, command dialogue, letters, timing, troop condition, morale effects, motives, Guan Yu's reasoning, and Cao-Sun signaling remain episode-attributed pending comparison with primary texts and wider scholarship.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,254 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.

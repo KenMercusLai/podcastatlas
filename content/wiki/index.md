@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？](sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp.md) — 芮淇讲透资治通鉴以樊城战局连接单一主将、分阶段救援、战略性披露、后方领导与沉没成本判断，并限定火年灾害叙事的因果边界。
 - [《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？](sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx.md) — 徐晃以声东击西解除樊城陆围，吕蒙沿江隐蔽夺取江陵，并以军纪和安抚稳住关羽后方。
 - [当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36](sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec.md) — What's Next interview with 边疆 on RDAgent, AI-for-AI research loops, gradual RSI, human research judgment, compute, and vertical startup boundaries.
 - [Third wheeling: Xi, Putin and Trump meet in China](sources/f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4.md) — Economist Podcasts on great-power summit optics, the endometriosis research pipeline, and concentration in blockbuster video-game economics.
@@ -5382,6 +5383,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [孙皎 / Sun Jiao (late Han)](entities/SunJiaoLateHan.md) — 东吴将领，在孙权调整伐关羽统帅结构后由并列主帅候选转为吕蒙的辅助将领。
 - [糜芳 / Mi Fang (late Han)](entities/MiFangLateHan.md) — 江陵守将，其补给压力、受辱积怨、惧罚与军事孤立在219年共同导向开城投降。
 - [傅士仁 / Fu Shiren (late Han)](entities/FuShirenLateHan.md) — 关羽后方将领，受虞翻书信劝降后又被吕蒙用于向江陵施压。
 - [Bian Jiang / 边疆](entities/BianJiang.md) — AI-research-automation practitioner explaining RDAgent, feedback-driven experimentation, and the boundary between AI for AI and full RSI.
@@ -20294,6 +20296,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [单一主将式权责统一 / Single-Commander Accountability](concepts/SingleCommanderAccountability.md) — 以一人承担最终行动权责、其他资深参与者保留明确辅助权限的指挥设计。
+- [战略性信息披露 / Strategic Information Disclosure](concepts/StrategicInformationDisclosure.md) — 为改变不同受众的士气、准备或行动而有选择地释放真实或可信信息。
 - [Great-Power Summit Optics](concepts/GreatPowerSummitOptics.md) — Framework separating the legitimacy value of leader-level imagery from substantive diplomatic concessions.
 - [Endometriosis Diagnostic Research Pipeline](concepts/EndometriosisDiagnosticResearchPipeline.md) — Path from awareness and diverse data through molecular discovery to validated tests and non-hormonal treatments.
 - [Blockbuster Video-Game Cost Concentration](concepts/BlockbusterVideoGameCostConcentration.md) — Feedback loop joining rising production scale, incumbent attention, franchise risk aversion, hardware cost, and accessible-platform competition.

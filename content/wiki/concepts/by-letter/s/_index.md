@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11751
+wiki_total_pages: 11753
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -3071,6 +3071,9 @@ wiki_pages:
   - key: "SnobberyAsValueRanking"
     title: "势利作为价值排序 / Snobbery As Value Ranking"
     url: "/wiki/concepts/snobberyasvalueranking/"
+  - key: "SingleCommanderAccountability"
+    title: "单一主将式权责统一 / Single-Commander Accountability"
+    url: "/wiki/concepts/singlecommanderaccountability/"
   - key: "SingleAuthorInstitutionalCodification"
     title: "单人负责式制度编纂 / Single-Author Institutional Codification"
     url: "/wiki/concepts/singleauthorinstitutionalcodification/"
@@ -3176,6 +3179,9 @@ wiki_pages:
   - key: "StrategicBaseTransferAllianceConsolidation"
     title: "战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation"
     url: "/wiki/concepts/strategicbasetransferallianceconsolidation/"
+  - key: "StrategicInformationDisclosure"
+    title: "战略性信息披露 / Strategic Information Disclosure"
+    url: "/wiki/concepts/strategicinformationdisclosure/"
   - key: "StrategicExclusionAndFocus"
     title: "战略排除与聚焦 / Strategic Exclusion and Focus"
     url: "/wiki/concepts/strategicexclusionandfocus/"
