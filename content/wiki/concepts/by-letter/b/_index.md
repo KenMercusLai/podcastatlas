@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11748
+wiki_total_pages: 11751
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "BlockAndDissentHygiene"
     title: "Block And Dissent Hygiene / 拉黑与异见卫生"
     url: "/wiki/concepts/blockanddissenthygiene/"
+  - key: "BlockbusterVideoGameCostConcentration"
+    title: "Blockbuster Video-Game Cost Concentration"
+    url: "/wiki/concepts/blockbustervideogamecostconcentration/"
   - key: "BlockchainConsensus"
     title: "Blockchain Consensus"
     url: "/wiki/concepts/blockchainconsensus/"

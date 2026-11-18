@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14809
+wiki_total_pages: 14810
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "GrahamWetzbarger"
     title: "Graham Wetzbarger"
     url: "/wiki/entities/grahamwetzbarger/"
+  - key: "GrandTheftAutoVI"
+    title: "Grand Theft Auto VI"
+    url: "/wiki/entities/grandtheftautovi/"
   - key: "GrantAsbell"
     title: "Grant Asbell"
     url: "/wiki/entities/grantasbell/"

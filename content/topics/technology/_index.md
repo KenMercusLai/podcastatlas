@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3896
+topic_total_pages: 3897
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1483,6 +1483,9 @@ topic_concepts:
   - key: "BipolarJunctionTransistor"
     title: "Bipolar Junction Transistor"
     url: "/wiki/concepts/bipolarjunctiontransistor/"
+  - key: "BlockbusterVideoGameCostConcentration"
+    title: "Blockbuster Video-Game Cost Concentration"
+    url: "/wiki/concepts/blockbustervideogamecostconcentration/"
   - key: "BloomTwoSigmaProblem"
     title: "Bloom Two Sigma Problem"
     url: "/wiki/concepts/bloomtwosigmaproblem/"

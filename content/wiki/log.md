@@ -43322,3 +43322,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-18] ingest | Third wheeling: Xi, Putin and Trump meet in China
+
+Added source `f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4`; created [[GreatPowerSummitOptics]], [[EndometriosisDiagnosticResearchPipeline]], [[BlockbusterVideoGameCostConcentration]], and [[GrandTheftAutoVI]]. Core synthesis: a summit can deliver asymmetric legitimacy without substantive concessions; endometriosis progress depends on moving from larger and more diverse data through molecular discovery to clinical validation rather than equating early methods with finished tests or treatments; and extraordinary franchise demand can coexist with a less repeatable blockbuster model as budgets, schedules, incumbent attention, live-service retention, and hardware prices rise.
+
+No settled contradiction was adopted. Summit attendance, motives, agenda, and outcomes remained prospective; endometriosis prevalence, delay, funding, genetic, diagnostic, and treatment claims remain episode-reported rather than clinical guidance or primary research; and gaming revenue, budget, staffing, play-time, hardware-price, and industry-direction claims remain estimates or forecasts. Broad [[DonaldTrump]], [[XiJinping]], [[VladimirPutin]], [[EconomistPodcasts]], [[WomensHealthDiagnosticGap]], [[EndometriosisRecurrenceManagement]], [[Microsoft]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,251 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

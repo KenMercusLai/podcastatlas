@@ -20597,6 +20597,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BlockbusterVideoGameCostConcentration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BlockchainFinancialInnovation": [
     {
       "key": "economics",
@@ -45195,6 +45202,13 @@
     }
   ],
   "GreatPowerRivalryEscalationDynamics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "GreatPowerSummitOptics": [
     {
       "key": "politics",
       "label": "Politics",
@@ -111687,6 +111701,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4": [
     {
       "key": "politics",
       "label": "Politics",

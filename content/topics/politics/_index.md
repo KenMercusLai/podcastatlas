@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3596
+topic_total_pages: 3598
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2053,6 +2053,9 @@ topic_concepts:
   - key: "GreatPowerRivalryEscalationDynamics"
     title: "Great-Power Rivalry Escalation Dynamics"
     url: "/wiki/concepts/greatpowerrivalryescalationdynamics/"
+  - key: "GreatPowerSummitOptics"
+    title: "Great-Power Summit Optics"
+    url: "/wiki/concepts/greatpowersummitoptics/"
   - key: "GreatPowerTriangularBalance"
     title: "Great-Power Triangular Balance"
     url: "/wiki/concepts/greatpowertriangularbalance/"
@@ -10176,6 +10179,9 @@ topic_sources:
   - key: "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc"
     title: "The Weekend Intelligence: Shire folk"
     url: "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
+  - key: "f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4"
+    title: "Third wheeling: Xi, Putin and Trump meet in China"
+    url: "/wiki/sources/f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4/"
   - key: "trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b"
     title: "TRAILER: Shire folk"
     url: "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"

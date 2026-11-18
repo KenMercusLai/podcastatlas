@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Third wheeling: Xi, Putin and Trump meet in China](sources/f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4.md) — Economist Podcasts on great-power summit optics, the endometriosis research pipeline, and concentration in blockbuster video-game economics.
 - [台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？](sources/taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a.md) — 端聞以美濃選舉、反水庫、菸業交工與客家文化解釋地方本位、跨黨自主和可傳承的公共行動方法。
 - [Leadership shakeup could cost Nvidia its dominance](sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CUDA's changing moat, supply-chain control, inference-chip competition, and ecosystem investment.
 - [Two ways big bets on data centers might affect you (Two Indicators)](sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354.md) — Planet Money episode on hyperscaler bond demand, long-duration data-center risk, and Oracle's OpenAI concentration and credit-market warning signals.
@@ -5379,6 +5380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Grand Theft Auto VI](entities/GrandTheftAutoVI.md) — Forthcoming franchise release used as a stress test for billion-dollar blockbuster game development.
 - [美濃 / Meinong](entities/Meinong.md) — 由菸業交工、客家文化與反水庫運動共同塑造地方政治文化的高雄客家社區。
 - [鍾永豐 / Zhong Yongfeng](entities/ZhongYongfeng.md) — 主張跨黨溝通但不交換支持，並讓運動方法比領袖聲望更長久的美濃行動者與文化工作者。
 - [美濃愛鄉協進會 / Meinong People's Association](entities/MeinongPeoplesAssociation.md) — 1994 年在反水庫運動中成立、連結地方發展與公共行動能力的組織。
@@ -20286,6 +20288,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
 ## Concepts
+- [Great-Power Summit Optics](concepts/GreatPowerSummitOptics.md) — Framework separating the legitimacy value of leader-level imagery from substantive diplomatic concessions.
+- [Endometriosis Diagnostic Research Pipeline](concepts/EndometriosisDiagnosticResearchPipeline.md) — Path from awareness and diverse data through molecular discovery to validated tests and non-hormonal treatments.
+- [Blockbuster Video-Game Cost Concentration](concepts/BlockbusterVideoGameCostConcentration.md) — Feedback loop joining rising production scale, incumbent attention, franchise risk aversion, hardware cost, and accessible-platform competition.
 - [Place-Based Candidate Evaluation / 地方本位候選人評價](concepts/PlaceBasedCandidateEvaluation.md) — 以地方生活可辨識性、具體需求與發展承諾超越政黨標籤來比較候選人。
 - [Nonpartisan Local-Movement Autonomy / 非黨派地方運動自主](concepts/NonpartisanLocalMovementAutonomy.md) — 跨黨溝通但拒絕補償收編、陣營押注與選舉支持交換的地方運動原則。
 - [Movement-Method Institutionalization / 運動方法制度化](concepts/MovementMethodInstitutionalization.md) — 讓討論、組織、文化動員與監督方法在領袖和單一事件之後繼續運作的社區能力。
