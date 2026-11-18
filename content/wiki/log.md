@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-18] ingest | 当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36
+
+Added a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] interview with [[BianJiang|边疆]] on [[RDAgent]], [[AIForAI|AI for AI]], [[AutoResearch]], and [[RecursiveSelfImprovement|recursive self-improvement]]. Created synthesis-first profiles for Bian Jiang and RDAgent, then resynthesized AI For AI, Auto Research, and Recursive Self-Improvement from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: RDAgent closes a practical loop from research proposal through implementation, experiment, analysis, and another proposal, while successful and failed trajectories may become reusable skills or memory. This is meaningful AI-assisted research but not by itself open-ended RSI. The stronger test is whether the newly improved model or research system raises the capability of the next successor cycle. Humans still set objectives, budgets, broad research frames, and experiment-quality judgments; parallel agents may increase total compute unless direction selection also improves.
+
+No settled contradiction was adopted. The reported dozen researchers, 300-plus agents, 400B model, four-to-five-month project, compute comparisons, and research outcomes remain guest-attributed because the supplied file is a structured summary rather than a transcript, benchmark report, paper, or project documentation. Claims about exponential research growth, learnable research taste, novel architecture discovery, and distribution-breaking science remain forecasts or open questions. The broad show, [[ResearchTaste]], [[AIForScience]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,252 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-18] ingest | 台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？
 
 Added a [[DuanwenNewsPodcast|端聞 / 端傳媒新聞播客]] episode using [[Meinong|美濃]]'s variable candidate and party-vote patterns to connect local elections with tobacco cultivation, family labor, reciprocal work exchange, Hakka culture, the anti-dam movement, music, and youth cultural education. Created synthesis-first profiles for Meinong, [[ZhongYongfeng|鍾永豐]], [[MeinongPeoplesAssociation|美濃愛鄉協進會]], and [[LaborExchangeBand|交工樂隊]], plus focused concepts for [[PlaceBasedCandidateEvaluation]], [[NonpartisanLocalMovementAutonomy]], [[MovementMethodInstitutionalization]], [[ReciprocalLaborCommunityFormation]], and [[LocalCulturalEducationAndCommunityResilience]].
@@ -43330,6 +43340,10 @@ Added source `f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83m
 No settled contradiction was adopted. Summit attendance, motives, agenda, and outcomes remained prospective; endometriosis prevalence, delay, funding, genetic, diagnostic, and treatment claims remain episode-reported rather than clinical guidance or primary research; and gaming revenue, budget, staffing, play-time, hardware-price, and industry-direction claims remain estimates or forecasts. Broad [[DonaldTrump]], [[XiJinping]], [[VladimirPutin]], [[EconomistPodcasts]], [[WomensHealthDiagnosticGap]], [[EndometriosisRecurrenceManagement]], [[Microsoft]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,251 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-18] lint | Wiki health check
 

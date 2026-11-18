@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36](sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec.md) — What's Next interview with 边疆 on RDAgent, AI-for-AI research loops, gradual RSI, human research judgment, compute, and vertical startup boundaries.
 - [Third wheeling: Xi, Putin and Trump meet in China](sources/f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4.md) — Economist Podcasts on great-power summit optics, the endometriosis research pipeline, and concentration in blockbuster video-game economics.
 - [台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？](sources/taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a.md) — 端聞以美濃選舉、反水庫、菸業交工與客家文化解釋地方本位、跨黨自主和可傳承的公共行動方法。
 - [Leadership shakeup could cost Nvidia its dominance](sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CUDA's changing moat, supply-chain control, inference-chip competition, and ecosystem investment.
@@ -5380,6 +5381,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [Bian Jiang / 边疆](entities/BianJiang.md) — AI-research-automation practitioner explaining RDAgent, feedback-driven experimentation, and the boundary between AI for AI and full RSI.
+- [RDAgent](entities/RDAgent.md) — Research-and-development agent system joining ideation, implementation, experiment feedback, and iterative revision.
 - [Grand Theft Auto VI](entities/GrandTheftAutoVI.md) — Forthcoming franchise release used as a stress test for billion-dollar blockbuster game development.
 - [美濃 / Meinong](entities/Meinong.md) — 由菸業交工、客家文化與反水庫運動共同塑造地方政治文化的高雄客家社區。
 - [鍾永豐 / Zhong Yongfeng](entities/ZhongYongfeng.md) — 主張跨黨溝通但不交換支持，並讓運動方法比領袖聲望更長久的美濃行動者與文化工作者。

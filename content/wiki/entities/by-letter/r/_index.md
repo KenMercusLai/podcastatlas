@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14810
+wiki_total_pages: 14812
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "RC"
     title: "RC"
     url: "/wiki/entities/rc/"
+  - key: "RDAgent"
+    title: "RDAgent"
+    url: "/wiki/entities/rdagent/"
   - key: "RDT1B"
     title: "RDT-1B"
     url: "/wiki/entities/rdt1b/"

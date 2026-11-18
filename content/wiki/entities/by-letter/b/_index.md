@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14810
+wiki_total_pages: 14812
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "BiGan"
     title: "Bi Gan / 毕赣"
     url: "/wiki/entities/bigan/"
+  - key: "BianJiang"
+    title: "Bian Jiang / 边疆"
+    url: "/wiki/entities/bianjiang/"
   - key: "BiancaContentEngineer"
     title: "Bianca (content engineer)"
     url: "/wiki/entities/biancacontentengineer/"

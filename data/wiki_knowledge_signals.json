@@ -3674,6 +3674,43 @@
       "updated": "2026-11-10",
       "url": "/wiki/concepts/aifirmpowerassetcontrol/"
     },
+    "AIForAI": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "与田渊栋聊 RSI：模型自进化如何到来？ (1) [178-1].md",
+          "key": "yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1",
+          "show": "晚点聊 LateTalk",
+          "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
+          "url": "/wiki/sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1/"
+        },
+        {
+          "episode_file": "149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark [lm33Q4N6w8TZcd2fXDBUK9UnC2xv].md",
+          "key": "149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark",
+          "url": "/wiki/sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv/"
+        },
+        {
+          "episode_file": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】 [lu98AA1ByafbBlJyJrn8oqUIeZk_].md",
+          "key": "reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk",
+          "show": "十字路口Crossing",
+          "title": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
+          "url": "/wiki/sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk/"
+        },
+        {
+          "episode_file": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md",
+          "key": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec",
+          "show": "What's Next｜科技早知道",
+          "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36",
+          "url": "/wiki/sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/aiforai/"
+    },
     "AIForMath": {
       "episode_count": 6,
       "show_count": 4,
@@ -28387,6 +28424,50 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/autorlproductionloop/"
     },
+    "AutoResearch": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "与田渊栋聊 RSI：模型自进化如何到来？ (1) [178-1].md",
+          "key": "yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1",
+          "show": "晚点聊 LateTalk",
+          "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
+          "url": "/wiki/sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark [lm33Q4N6w8TZcd2fXDBUK9UnC2xv].md",
+          "key": "149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark",
+          "url": "/wiki/sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv/"
+        },
+        {
+          "episode_file": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md",
+          "key": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec",
+          "show": "What's Next｜科技早知道",
+          "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36",
+          "url": "/wiki/sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/concepts/autoresearch/"
+    },
     "AutobiographicalMemoryHistoricalEvidence": {
       "episode_count": 3,
       "show_count": 2,
@@ -35477,6 +35558,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/bianhonglatehan/"
+    },
+    "BianJiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md",
+          "key": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec",
+          "show": "What's Next｜科技早知道",
+          "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36",
+          "url": "/wiki/sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/bianjiang/"
     },
     "BianTongWesternHan": {
       "episode_count": 2,
@@ -269860,6 +269957,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/randcorporation/"
     },
+    "RDAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md",
+          "key": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec",
+          "show": "What's Next｜科技早知道",
+          "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36",
+          "url": "/wiki/sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec/"
+        }
+      ],
+      "updated": "2026-11-18",
+      "url": "/wiki/entities/rdagent/"
+    },
     "RDT1B": {
       "episode_count": 1,
       "show_count": 1,
@@ -272849,9 +272962,9 @@
       "url": "/wiki/entities/recursionpharma/"
     },
     "RecursiveSelfImprovement": {
-      "episode_count": 13,
-      "show_count": 8,
-      "source_note_count": 13,
+      "episode_count": 14,
+      "show_count": 9,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -272943,6 +273056,13 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
           "url": "/wiki/sources/audio-99-alighodsi-databricks-audio-99-alighodsi-databricks/"
+        },
+        {
+          "episode_file": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md",
+          "key": "c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec",
+          "show": "What's Next｜科技早知道",
+          "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36",
+          "url": "/wiki/sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec/"
         }
       ],
       "updated": "2026-11-18",
