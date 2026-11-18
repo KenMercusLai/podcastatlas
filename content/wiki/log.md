@@ -43348,3 +43348,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-19] ingest | 《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？
+
+Added source `zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx`; created [[MiFangLateHan|糜芳]] and [[FuShirenLateHan|傅士仁]]; resynthesized [[GuanYu|关羽]], [[LyuMeng|吕蒙]], [[XuHuangCaoGeneral|徐晃]], [[FanchengBattle219LateHan|219年樊城之战]], and [[AdversaryTraitExploitation|对手性格弱点利用]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: Xu Huang's feint and pursuit break the land siege while Lyu Meng's disguised river approach, warning-post removal, surrender pressure, and post-capture discipline collapse Guan Yu's Jiangling rear. Guan Yu's contempt and punishment threat amplify subordinate fear, but logistics, captive provisioning, surprise, coercion, alliance interests, and self-preservation remain independent causes.
+
+No settled contradiction was adopted. Troop and camp counts, place-name readings, letters, motives, tactical timing, supply responsibility, surrender mechanics, execution, relief measures, and pursuit-restraint logic remain episode-attributed pending comparison with underlying chronicles.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,253 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide scan still reports 62 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

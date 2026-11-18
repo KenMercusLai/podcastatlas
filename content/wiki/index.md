@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？](sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx.md) — 徐晃以声东击西解除樊城陆围，吕蒙沿江隐蔽夺取江陵，并以军纪和安抚稳住关羽后方。
 - [当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36](sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec.md) — What's Next interview with 边疆 on RDAgent, AI-for-AI research loops, gradual RSI, human research judgment, compute, and vertical startup boundaries.
 - [Third wheeling: Xi, Putin and Trump meet in China](sources/f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83mp3aid6afd876f5ca4ff63ce3ea45echidd556eb54-6160-4.md) — Economist Podcasts on great-power summit optics, the endometriosis research pipeline, and concentration in blockbuster video-game economics.
 - [台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？](sources/taiwan-xuanju-manyoulu-tiepiaocanglide-yaobaiqu-shi-zenme-xingchengde-753b29c45a3e89f16676f61be311b23a.md) — 端聞以美濃選舉、反水庫、菸業交工與客家文化解釋地方本位、跨黨自主和可傳承的公共行動方法。
@@ -5381,6 +5382,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
 ## Entities
+- [糜芳 / Mi Fang (late Han)](entities/MiFangLateHan.md) — 江陵守将，其补给压力、受辱积怨、惧罚与军事孤立在219年共同导向开城投降。
+- [傅士仁 / Fu Shiren (late Han)](entities/FuShirenLateHan.md) — 关羽后方将领，受虞翻书信劝降后又被吕蒙用于向江陵施压。
 - [Bian Jiang / 边疆](entities/BianJiang.md) — AI-research-automation practitioner explaining RDAgent, feedback-driven experimentation, and the boundary between AI for AI and full RSI.
 - [RDAgent](entities/RDAgent.md) — Research-and-development agent system joining ideation, implementation, experiment feedback, and iterative revision.
 - [Grand Theft Auto VI](entities/GrandTheftAutoVI.md) — Forthcoming franchise release used as a stress test for billion-dollar blockbuster game development.
@@ -11437,7 +11440,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沙丘 / Shaqiu (Guandu theater)](entities/ShaqiuGuanduLateHan.md) — Guandu-theater position where Yuan Shao's August camp line hardens into an engineering standoff with Cao Cao.
 - [乌巢夜袭 / Wuchao Raid (late Han)](entities/WuchaoRaidLateHan.md) — Decisive Guandu raid where Cao Cao uses Xu You's intelligence to burn Yuan Shao's grain depot and trigger Yuan-camp collapse.
 - [韩猛 / Han Meng (late Han)](entities/HanMengLateHan.md) — Yuan Shao convoy commander defeated by Xu Huang and Shi Huan in the pre-Wuchao Guandu logistics struggle.
-- [徐晃 / Xu Huang (Cao general)](entities/XuHuangCaoGeneral.md) — Cao-side general who intercepts Han Meng's convoy at Guandu and later advises rewarding county surrenders during the Ye campaign.
+- [徐晃 / Xu Huang (Cao general)](entities/XuHuangCaoGeneral.md) — 曹军将领，其证据画像连接官渡断粮、招降示范、走廊防御与219年樊城解围。
 - [史涣 / Shi Huan (late Han)](entities/ShiHuanLateHan.md) — Cao-side officer paired with Xu Huang in the attack on Han Meng's convoy.
 - [蒋奇 / Jiang Qi (late Han)](entities/JiangQiLateHan.md) — Yuan-side commander named in Ju Shou's unadopted proposal to guard Chunyu Qiong's grain convoy.
 - [白马之围 / White Horse Relief (late Han)](entities/BaimaReliefLateHan.md) — Pre-Guandu relief action where Cao Cao uses a Yellow River rear-threat feint to divide Yuan Shao's force before Guan Yu kills Yan Liang.
@@ -11905,7 +11908,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — 从孙策死后的军事支持者，发展为江夏战役中砍断沔口缆绳、打开主力通道的突击将领。
 - [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through hedged coalition testing and adversarial questioning to a resourced anti-Cao commitment.
-- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — 由军容严整获孙权识拔，并以作战、学习、后勤判断、诱降及称病换将式信息控制扩展统帅能力的吴将。
+- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — 由军容严整获识拔，并以作战、学习、后勤、诱降、隐蔽进军及占领安抚扩展统帅能力的吴将。
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
@@ -12305,7 +12308,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain, defeated by Sun Ce, and later spared by Shanyue disruption of Sun Quan's attack.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
-- [关羽 / Guan Yu](entities/GuanYu.md) — 刘备阵营将领，其证据边界画像连接被俘效力与报恩、名位敏感、樊城高点及被东吴利用的后方暴露。
+- [关羽 / Guan Yu](entities/GuanYu.md) — 刘备阵营将领，其证据画像连接被俘报恩、名位敏感、樊城高点及前线受挫与后方离心的耦合失败。
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
@@ -20248,7 +20251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Louis Fieser](entities/LouisFieser.md) — Harvard chemist presented as a napalm co-inventor who later urged an international prohibition on the weapon.
 - [M*A*S*H](entities/MASHTelevisionSeries.md) — Korean War-set television series whose finale tests universal anti-war messaging against historically specific responsibility.
 - [费诗 / Fei Shi (late Han)](entities/FeiShiLateHan.md) — Liu Bei-side envoy who waits out Guan Yu's anger, restores the ruler-minister frame, and preserves consequences while securing acceptance of appointment.
-- [219年樊城之战 / Battle of Fancheng (219 CE)](entities/FanchengBattle219LateHan.md) — Flood-transformed campaign in which Yu Jin surrenders, Pang De refuses, and Cao Ren and Man Chong hold until relief.
+- [219年樊城之战 / Battle of Fancheng (219 CE)](entities/FanchengBattle219LateHan.md) — 洪水、坚守、徐晃解围与江陵后方失守共同改变的219年多线战役。
 - [魏延 / Wei Yan](entities/WeiYan.md) — 刘备称汉中王后受命镇守汉中、以分级应敌承诺表达守备信心的将领。
 - [孟达 / Meng Da (late Han)](entities/MengDaLateHan.md) — 从秭归北上攻房陵、后与刘封共同推进上庸的刘备方将领。
 - [刘封 / Liu Feng (late Han)](entities/LiuFengLateHan.md) — 接管孟达部队并促成申耽在上庸归降的刘备方将领。
@@ -20300,7 +20303,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reciprocal-Labor Community Formation / 互助勞動型社群形成](concepts/ReciprocalLaborCommunityFormation.md) — 勞動密集產業、家庭共同生產與家庭間換工疊加形成地方關係的機制。
 - [Local Cultural Education and Community Resilience / 地方文化教育與社群韌性](concepts/LocalCulturalEducationAndCommunityResilience.md) — 母語、音樂和跨世代實作建立地方現實座標的可能韌性路徑。
 - [Personal Agent Maturity Triad / 个人智能体成熟三要素](concepts/PersonalAgentMaturityTriad.md) — 个人智能体需同时具备长程智能、可调用服务供给与安全可信执行的互补成熟框架。
-- [Adversary-Trait Exploitation / 对手性格弱点利用](concepts/AdversaryTraitExploitation.md) — 以可观察的身份敏感、轻视或过度自信增强虚假信号可信度，并诱导可验证的行动改变。
+- [Adversary-Trait Exploitation / 对手性格弱点利用](concepts/AdversaryTraitExploitation.md) — 以可观察的自信、恐惧或积怨增强信号可信度，诱导调兵或投降等可验证行动。
 - [Agentic Management Analytics](concepts/AgenticManagementAnalytics.md) — AI analysis over connected organizational data for feedback, structure, engineering, meetings, customers, culture, and decision latency.
 - [Enterprise AI Deployment Bottlenecks](concepts/EnterpriseAIDeploymentBottlenecks.md) — Context, security, economics, and strategic-control constraints that separate model capability from enterprise transformation.
 - [Cultural Multiplier Effect](concepts/CulturalMultiplierEffect.md) — Cultural attention that lowers recognition and trust costs for adjacent tourism, beauty, food, retail, and consumer demand without guaranteeing durability.

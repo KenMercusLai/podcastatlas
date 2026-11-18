@@ -10784,9 +10784,9 @@
       "url": "/wiki/concepts/adversaryknowledgepreparation/"
     },
     "AdversaryTraitExploitation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqUfnweYsvPAs7AhzNr3tpb9Ajad [lqUfnweYsvPAs7AhzNr3tpb9Ajad].md",
@@ -10794,9 +10794,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1168丨做人太傲真的必招祸吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad/"
+        },
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/adversarytraitexploitation/"
     },
     "AdversityCapacityExpansion": {
@@ -111252,9 +111259,9 @@
       "url": "/wiki/entities/fanatics/"
     },
     "FanchengBattle219LateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhM17DMEln7DMj1CzMEq7omxgtMH [lhM17DMEln7DMj1CzMEq7omxgtMH].md",
@@ -111262,9 +111269,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1166丨如何与脾气大、能力强的人相处？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1166-ruhe-yu-piqi-da-nengli-qiang-de-ren-xiangchu-lhm17dmeln7dmj1czmeq7omxgtmh/"
+        },
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/fanchengbattle219latehan/"
     },
     "FandomCollectiveAction": {
@@ -123524,6 +123538,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/fushangwesternhan/"
+    },
+    "FuShirenLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/fushirenlatehan/"
     },
     "FuShouEmpress": {
       "episode_count": 3,
@@ -136515,9 +136545,9 @@
       "url": "/wiki/entities/guanyoulatehan/"
     },
     "GuanYu": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？ [lnDkrj_fNePye8IU-ifgyh-VZySF].md",
@@ -136574,9 +136604,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1168丨做人太傲真的必招祸吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad/"
+        },
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
@@ -207626,9 +207663,9 @@
       "url": "/wiki/entities/lyukuanglatehan/"
     },
     "LyuMeng": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -207678,9 +207715,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1168丨做人太傲真的必招祸吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1168-zuoren-tai-ao-zhen-de-bi-zhaohuo-ma-lqufnweysvpas7ahznr3tpb9ajad/"
+        },
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/lyumeng/"
     },
     "LyuMengzheng": {
@@ -220126,6 +220170,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/mexico/"
+    },
+    "MiFangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/mifanglatehan/"
     },
     "MiTangQiangLeader": {
       "episode_count": 7,
@@ -354515,9 +354575,9 @@
       "url": "/wiki/entities/xuguanghanwesternhan/"
     },
     "XuHuangCaoGeneral": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
@@ -354539,9 +354599,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
+        },
+        {
+          "episode_file": "lkjU2wDBB-v20GF2VIKKR_AIbjnX [lkjU2wDBB-v20GF2VIKKR_AIbjnX].md",
+          "key": "zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/xuhuangcaogeneral/"
     },
     "XuHuangLateHan": {
