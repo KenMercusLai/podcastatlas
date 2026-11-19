@@ -5390,6 +5390,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)](sources/vmp8419655880-vmp8419655880.md) — How I Built This traces Nvidia's NV1 crisis, RIVA 128 recovery, gaming-funded CUDA strategy, deep-learning pivot, and the family cost behind Huang's long-horizon leadership.
 
 - [Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal](sources/pete-hegseth-s-spiritual-adviser-wants-a-christian-america-from-reveal-pete-hegseth-s-spiritual-adviser-wants-a-christi.md) — Reveal investigates Doug Wilson's Christian-national project, Moscow institutional ecosystem, ties to Pete Hegseth, and the publicity-recruitment dilemma.
+- [Racing ahead: Anthropic’s big IPO](sources/4194361e8d09cb7174d917da6acfa892-4194361e8d09cb7174d917da6acfa892mp3aid6afeca038f8ad2908f6bec2echidd556eb54-6160-4.md) — Economist Podcasts on Anthropic’s forecast IPO, concentrated U.S.-China mineral investment, and why rice variety and preparation can matter more than color for glycemic response.
 
 ## Entities
 - [赵玉顺 / Zhao Yushun](entities/ZhaoYushun.md) — 从机构新闻受挫转向独立乡村影像与长期农民记录的玉真记事共同创作者。

@@ -43465,3 +43465,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-19] ingest | Racing ahead: Anthropic’s big IPO
+
+Added source `4194361e8d09cb7174d917da6acfa892-4194361e8d09cb7174d917da6acfa892mp3aid6afeca038f8ad2908f6bec2echidd556eb54-6160-4`; resynthesized [[AIIPOValuation]], [[CriticalMineralsGeopolitics]], and [[PostprandialGlycemicStability]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: the Anthropic/OpenAI segment is a forecast-bound capital-race snapshot rather than audited evidence; American and Chinese mineral investment may increase recipient-country bargaining power while durable development still depends on cycle length, governance, security, and local value capture; and rice color alone is a weak glycemic shortcut because observational evidence is confounded and amylose, variety, parboiling, and cooling can matter materially.
+
+No settled contradiction was adopted. Anthropic and OpenAI valuations, revenues, listing dates, technological rankings, mineral investment figures, development effects, nutrition mechanisms, and study findings remain source-scoped because the supplied file is a structured episode summary rather than filings, project records, development data, clinical guidelines, or the underlying research papers. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic; the max-age gate triggered global compaction. Refreshed artifacts validate 5,262 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide scan still reports 62 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
