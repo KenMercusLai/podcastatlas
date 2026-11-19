@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14823
+wiki_total_pages: 14826
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "YanMinGong"
     title: "燕闵公 / Duke Min of Yan"
     url: "/wiki/entities/yanmingong/"
+  - key: "YuzhenJishi"
+    title: "玉真记事 / Yuzhen Jishi"
+    url: "/wiki/entities/yuzhenjishi/"
   - key: "YizhouLateHan"
     title: "益州 / Yizhou (Late Han)"
     url: "/wiki/entities/yizhoulatehan/"
@@ -1151,6 +1154,9 @@ wiki_pages:
   - key: "YuanShang"
     title: "袁尚 / Yuan Shang"
     url: "/wiki/entities/yuanshang/"
+  - key: "YuanZhengzheng"
+    title: "袁征征 / Yuan Zhengzheng"
+    url: "/wiki/entities/yuanzhengzheng/"
   - key: "YuanChengzhi"
     title: "袁承志 / Yuan Chengzhi"
     url: "/wiki/entities/yuanchengzhi/"

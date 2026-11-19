@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11759
+wiki_total_pages: 11764
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "AgingInPlaceSupportSystem"
     title: "Aging-In-Place Support System / 居家养老支持系统"
     url: "/wiki/concepts/aginginplacesupportsystem/"
+  - key: "AgriculturalLandScalingTransition"
+    title: "Agricultural Land Scaling Transition / 农地规模化转型"
+    url: "/wiki/concepts/agriculturallandscalingtransition/"
   - key: "AgriculturalLeverageAndWeatherShock"
     title: "Agricultural Leverage and Weather Shock"
     url: "/wiki/concepts/agriculturalleverageandweathershock/"

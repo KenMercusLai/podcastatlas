@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11759
+wiki_total_pages: 11764
 wiki_pages:
   - key: "UnknownRiskInformedConsent"
     title: "Informed Consent Under Unknown Risk"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "UrbanEdgeNature"
     title: "Urban-Edge Nature / 城市边缘自然"
     url: "/wiki/concepts/urbanedgenature/"
+  - key: "UrbanRuralTransitionGeneration"
+    title: "Urban-Rural Transition Generation / 城乡过渡一代"
+    url: "/wiki/concepts/urbanruraltransitiongeneration/"
   - key: "UrbanizedSupernaturalWorldbuilding"
     title: "Urbanized Supernatural Worldbuilding / 都市化灵异世界构建"
     url: "/wiki/concepts/urbanizedsupernaturalworldbuilding/"

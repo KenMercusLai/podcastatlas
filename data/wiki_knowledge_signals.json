@@ -12917,6 +12917,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/agrarianlivelihoodbeforecurrencyreform/"
     },
+    "AgriculturalLandScalingTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/agriculturallandscalingtransition/"
+    },
     "AgriculturalLeverageAndWeatherShock": {
       "episode_count": 1,
       "show_count": 1,
@@ -285424,6 +285440,38 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ruralcircularuseeconomy/"
     },
+    "RuralDocumentaryAsHistoricalArchive": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/ruraldocumentaryashistoricalarchive/"
+    },
+    "RuralElderChildPublicSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/ruralelderchildpublicsupport/"
+    },
     "RuralHealthcareTechnologyAccess": {
       "episode_count": 2,
       "show_count": 2,
@@ -301423,6 +301471,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/smallvenueculturalincubation/"
+    },
+    "SmallholderMarketAndClimateRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/smallholdermarketandclimaterisk/"
     },
     "SmartCityConveniencePrivacyTradeoff": {
       "episode_count": 1,
@@ -334714,6 +334778,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/urbanroutefieldobservation/"
     },
+    "UrbanRuralTransitionGeneration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/urbanruraltransitiongeneration/"
+    },
     "UrbanVI": {
       "episode_count": 1,
       "show_count": 1,
@@ -361886,6 +361966,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/yuanyumei/"
     },
+    "YuanZhengzheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/yuanzhengzheng/"
+    },
     "YuanZhenxia": {
       "episode_count": 1,
       "show_count": 1,
@@ -362495,6 +362591,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yuzhangcommandery/"
+    },
+    "YuzhenJishi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/yuzhenjishi/"
     },
     "YuzhouEBike": {
       "episode_count": 1,
@@ -367529,6 +367641,22 @@
       ],
       "updated": "2026-11-09",
       "url": "/wiki/entities/zhaoyun/"
+    },
+    "ZhaoYushun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
+          "key": "98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f",
+          "show": "声东击西",
+          "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+          "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/zhaoyushun/"
     },
     "ZhaoZhouWesternHan": {
       "episode_count": 2,

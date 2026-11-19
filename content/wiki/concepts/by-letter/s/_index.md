@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11759
+wiki_total_pages: 11764
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "SmallVenueCulturalIncubation"
     title: "Small-Venue Cultural Incubation"
     url: "/wiki/concepts/smallvenueculturalincubation/"
+  - key: "SmallholderMarketAndClimateRisk"
+    title: "Smallholder Market And Climate Risk / 小农的市场与气候风险"
+    url: "/wiki/concepts/smallholdermarketandclimaterisk/"
   - key: "SmartDrivingDemocratization"
     title: "Smart Driving Democratization / 智驾平权"
     url: "/wiki/concepts/smartdrivingdemocratization/"

@@ -43360,6 +43360,16 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-19] ingest | #410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目
+
+Added a [[ShengdongJixi|声东击西]] conversation with [[ZhaoYushun|赵玉顺]] and [[YuanZhengzheng|袁征征]] about their path from frustrated media and city employment into [[YuzhenJishi|玉真记事]], an independent project documenting overlooked village life. Created synthesis-first profiles for both creators and the project, plus [[RuralDocumentaryAsHistoricalArchive]], [[UrbanRuralTransitionGeneration]], [[SmallholderMarketAndClimateRisk]], [[AgriculturalLandScalingTransition]], and [[RuralElderChildPublicSupport]].
+
+Core synthesis: independent rural documentary can connect present reporting with future historical preservation when it returns to crops, people, and places over time; younger migrants and older returnee farmers can both remain incompletely absorbed by city and village systems; jasmine growers reveal how perishable labor, volatile prices, demand-led expansion, weak bargaining, and flood loss combine at the agricultural frontier; land scaling can lower production costs while changing household land relations; and pensions, schooling, transport, and grandparent care are linked transition infrastructure rather than separate village issues.
+
+No settled contradiction was adopted. The episode title says “袁贞贞,” while the body consistently says “袁征征”; the canonical entity follows the body and the source note preserves the conflict. The forecast that traditional smallholders will disappear remains a field-based trend judgment rather than an established endpoint. Prices, dates, flood accounts, land areas, policy correspondence, platform effects, career chronology, and motives remain episode-scoped because the supplied file is a structured summary rather than a transcript, dataset, archive, or independent biography. The broad [[ShengdongJixi|声东击西]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening a large unchanged inventory or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,261 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-19] ingest | 724. The Charge of the Light Brigade: Into The Valley of Death (Part 4)
 
 Added source `724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240`; resynthesized [[CrimeanWar]], [[BattleOfBalaclava]], [[ChargeOfTheLightBrigade]], [[HeroicFailureMemory]], [[FitzRoySomerset1stBaronRaglan]], [[GeorgeBingham3rdEarlOfLucan]], [[JamesBrudenell7thEarlOfCardigan]], [[LouisEdwardNolan]], [[JamesYorkeScarlett]], and [[ColinCampbellBritishArmy]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43447,6 +43457,10 @@ Core synthesis: nicotine's brief attention, arousal, and motivation effects are 
 No settled contradiction was adopted. This Essentials episode condenses the already-ingested full episode and is overlapping provenance rather than independent confirmation. Numerical mechanism, risk, cessation, relapse, hypnosis, and treatment claims remain source-scoped, and nicotine or cessation-medication decisions require qualified care. The automatic `wiki/overview.md` was read for context and was not manually rewritten because the condensed edit does not change the current cross-source judgment.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,260 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-19] lint | Wiki health check
 

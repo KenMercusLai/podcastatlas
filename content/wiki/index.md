@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目](sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f.md) — 声东击西对话玉真记事，以媒体职业受挫、城乡迁移、农村养老与教育、茉莉花风险和农地规模化讨论如何记录正在消失的传统农民时代。
 - [Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107.md) — Condensed Huberman Lab episode on nicotine receptors, delivery-speed reinforcement, route-specific harms, withdrawal, and clinically bounded cessation support.
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.md) — 晚点聊访谈顾全全，以字节蛋白质模型与豆包预训练经验连接结构设计Scaling、采样预算归一化、湿实验反馈和预训练可靠性工程。
 - [《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？](sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp.md) — 芮淇讲透资治通鉴以樊城战局连接单一主将、分阶段救援、战略性披露、后方领导与沉没成本判断，并限定火年灾害叙事的因果边界。
@@ -5391,6 +5392,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal](sources/pete-hegseth-s-spiritual-adviser-wants-a-christian-america-from-reveal-pete-hegseth-s-spiritual-adviser-wants-a-christi.md) — Reveal investigates Doug Wilson's Christian-national project, Moscow institutional ecosystem, ties to Pete Hegseth, and the publicity-recruitment dilemma.
 
 ## Entities
+- [赵玉顺 / Zhao Yushun](entities/ZhaoYushun.md) — 从机构新闻受挫转向独立乡村影像与长期农民记录的玉真记事共同创作者。
+- [袁征征 / Yuan Zhengzheng](entities/YuanZhengzheng.md) — 从短视频与电视剪辑转向乡村田野记录的玉真记事共同创作者。
+- [玉真记事 / Yuzhen Jishi](entities/YuzhenJishi.md) — 关注村镇生活、农业风险、老人与儿童并面向未来保存普通人证词的独立影像项目。
 - [Chris Malachowsky](entities/ChrisMalachowsky.md) — Nvidia co-founder who helped originate the personal-computer 3D-graphics opportunity.
 - [Curtis Priem](entities/CurtisPriem.md) — Nvidia co-founder who helped originate the personal-computer 3D-graphics opportunity.
 - [Lori Huang](entities/LoriHuang.md) — Jensen Huang's wife and the family-support figure central to his account of risk and sacrifice.
@@ -20314,6 +20318,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Canon Press](entities/CanonPress.md) — For-profit publisher and media engine distributing Doug Wilson's religious and political worldview.
 
 ## Concepts
+- [Rural Documentary As Historical Archive / 乡村影像作为历史档案](concepts/RuralDocumentaryAsHistoricalArchive.md) — 以重复回访和普通人证词兼顾当下传播与未来历史证据的乡村纪录方法。
+- [Urban-Rural Transition Generation / 城乡过渡一代](concepts/UrbanRuralTransitionGeneration.md) — 教育、务工、照护与养老跨越城乡却未被任一系统稳定吸纳的人群经验。
+- [Smallholder Market And Climate Risk / 小农的市场与气候风险](concepts/SmallholderMarketAndClimateRisk.md) — 小农同时承受价格波动、易腐时限、扩种周期、弱议价与自然灾害的复合风险。
+- [Agricultural Land Scaling Transition / 农地规模化转型](concepts/AgriculturalLandScalingTransition.md) — 家庭地块经租赁、公司进入、机械化和大户经营转向集中化生产的过程。
+- [Rural Elder-Child Public Support / 乡村老人与儿童公共支持](concepts/RuralElderChildPublicSupport.md) — 将养老金、学校、交通、照护与低龄寄宿作为城乡过渡中的联动公共支持问题。
 - [Scaling Protein Design / 蛋白质设计规模化](concepts/ScalingProteinDesign.md) — 以模型、结构数据、算力、归一化评测与湿实验反馈共同扩大蛋白质设计能力的路线。
 - [Pretraining Reliability Engineering / 预训练可靠性工程](concepts/PretrainingReliabilityEngineering.md) — 将数值稳定、下游能力、跨团队复核和训练决策权结合起来的大模型预训练纪律。
 - [单一主将式权责统一 / Single-Commander Accountability](concepts/SingleCommanderAccountability.md) — 以一人承担最终行动权责、其他资深参与者保留明确辅助权限的指挥设计。
