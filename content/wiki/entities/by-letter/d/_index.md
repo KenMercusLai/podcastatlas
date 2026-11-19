@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14821
+wiki_total_pages: 14823
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "DougDawson"
     title: "Doug Dawson"
     url: "/wiki/entities/dougdawson/"
+  - key: "DougWilson"
+    title: "Doug Wilson"
+    url: "/wiki/entities/dougwilson/"
   - key: "DouglasAdams"
     title: "Douglas Adams / 道格拉斯·亚当斯"
     url: "/wiki/entities/douglasadams/"

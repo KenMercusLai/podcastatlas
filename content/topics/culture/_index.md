@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3819
+topic_total_pages: 3823
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -943,6 +943,9 @@ topic_concepts:
   - key: "ControversialLaunchVirality"
     title: "Controversial Launch Virality"
     url: "/wiki/concepts/controversiallaunchvirality/"
+  - key: "ControversyDrivenMovementAmplification"
+    title: "Controversy-Driven Movement Amplification"
+    url: "/wiki/concepts/controversydrivenmovementamplification/"
   - key: "ConversationAsSelfRevelation"
     title: "Conversation As Self-Revelation / 对话作为自我显现"
     url: "/wiki/concepts/conversationasselfrevelation/"
@@ -4748,6 +4751,9 @@ topic_entities:
   - key: "Canada"
     title: "Canada"
     url: "/wiki/entities/canada/"
+  - key: "CanonPress"
+    title: "Canon Press"
+    url: "/wiki/entities/canonpress/"
   - key: "CapitalCitiesABC"
     title: "Capital Cities/ABC"
     url: "/wiki/entities/capitalcitiesabc/"
@@ -5000,6 +5006,9 @@ topic_entities:
   - key: "DouaiReimsSeminaries"
     title: "Douai and Reims Seminaries"
     url: "/wiki/entities/douaireimsseminaries/"
+  - key: "DougWilson"
+    title: "Doug Wilson"
+    url: "/wiki/entities/dougwilson/"
   - key: "DriveToSurvive"
     title: "Drive to Survive"
     url: "/wiki/entities/drivetosurvive/"
@@ -10989,6 +10998,9 @@ topic_sources:
   - key: "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132"
     title: "Outsider chance: ending Sudan's proxy war"
     url: "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+  - key: "pete-hegseth-s-spiritual-adviser-wants-a-christian-america-from-reveal-pete-hegseth-s-spiritual-adviser-wants-a-christi"
+    title: "Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal"
+    url: "/wiki/sources/pete-hegseth-s-spiritual-adviser-wants-a-christian-america-from-reveal-pete-hegseth-s-spiritual-adviser-wants-a-christi/"
   - key: "tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128"
     title: "Physical media's comeback"
     url: "/wiki/sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128/"

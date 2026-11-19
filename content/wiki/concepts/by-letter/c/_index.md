@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11757
+wiki_total_pages: 11759
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "ChristianInheritanceOfEnlightenmentRights"
     title: "Christian Inheritance of Enlightenment Rights"
     url: "/wiki/concepts/christianinheritanceofenlightenmentrights/"
+  - key: "ChristianNationalistInstitutionBuilding"
+    title: "Christian-Nationalist Institution Building"
+    url: "/wiki/concepts/christiannationalistinstitutionbuilding/"
   - key: "ChristmasTruce1914"
     title: "Christmas Truce of 1914"
     url: "/wiki/concepts/christmastruce1914/"
@@ -2813,6 +2816,9 @@ wiki_pages:
   - key: "ControversyDrivenCategoryPositioning"
     title: "Controversy-Driven Category Positioning"
     url: "/wiki/concepts/controversydrivencategorypositioning/"
+  - key: "ControversyDrivenMovementAmplification"
+    title: "Controversy-Driven Movement Amplification"
+    url: "/wiki/concepts/controversydrivenmovementamplification/"
   - key: "ConvenienceStoreDensityEconomics"
     title: "Convenience Store Density Economics"
     url: "/wiki/concepts/conveniencestoredensityeconomics/"

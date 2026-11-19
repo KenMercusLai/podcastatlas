@@ -43423,3 +43423,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-19] ingest | Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal
+
+Added a Reveal investigation of [[DougWilson]], [[CanonPress]], and the Moscow, Idaho, ecosystem connecting churches, schooling, a college, publishing, business, housing, family discipline, and a stated goal of an explicitly Christian United States. Created synthesis-first pages for Wilson, Canon Press, [[ChristianNationalistInstitutionBuilding]], and [[ControversyDrivenMovementAmplification]], then resynthesized [[PeteHegseth]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: institutional density lets a religious movement turn doctrine into everyday formation, mutual support, media reach, and expansion capacity, while also increasing conformity and exit pressure when family, school, work, friendship, and belief overlap. Wilson's stated democratic route does not remove the unequal destination he describes, in which non-Christians may vote but cannot hold office. Critical reporting and local backlash can expose teachings and alleged harms while Canon Press converts some of that attention into audience, products, revenue, and recruitment.
+
+No settled contradiction was adopted. Current-member accounts of order, hospitality, and relief coexist with former-member accounts of estrangement and freedom after exit; Cy Whitling's departure and Linda's return are divergent personal outcomes rather than mutually cancelling evidence. Abuse allegations, institutional responses, movement size, revenue, audience conversion, and Wilson's influence on Hegseth's policy remain source-scoped because the supplied file is a structured episode summary rather than police or court records, audited reporting, audience data, church governance documents, or a complete policy record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,259 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

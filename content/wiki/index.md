@@ -5387,6 +5387,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意](sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5.md) — 声动早咖啡商业新闻速览，连接英伟达接班、限次机票卡、AI合成肖像权与冷冻烘焙供应链。
 - [Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)](sources/vmp8419655880-vmp8419655880.md) — How I Built This traces Nvidia's NV1 crisis, RIVA 128 recovery, gaming-funded CUDA strategy, deep-learning pivot, and the family cost behind Huang's long-horizon leadership.
 
+- [Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal](sources/pete-hegseth-s-spiritual-adviser-wants-a-christian-america-from-reveal-pete-hegseth-s-spiritual-adviser-wants-a-christi.md) — Reveal investigates Doug Wilson's Christian-national project, Moscow institutional ecosystem, ties to Pete Hegseth, and the publicity-recruitment dilemma.
+
 ## Entities
 - [Chris Malachowsky](entities/ChrisMalachowsky.md) — Nvidia co-founder who helped originate the personal-computer 3D-graphics opportunity.
 - [Curtis Priem](entities/CurtisPriem.md) — Nvidia co-founder who helped originate the personal-computer 3D-graphics opportunity.
@@ -20307,6 +20309,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anjoy Foods / 安井食品](entities/AnjoyFoods.md) — Frozen-food supplier using acquisitions to expand into bakery products and upstream retail supply.
 - [Zhao Liying / 赵丽颖](entities/ZhaoLiying.md) — Chinese actor whose reported lawsuit tests portrait identification and consent for AI-synthesized faces.
 
+- [Doug Wilson](entities/DougWilson.md) — Pastor linking a proposed Christian nation to church, school, publishing, business, housing, and media institutions in Moscow, Idaho.
+- [Canon Press](entities/CanonPress.md) — For-profit publisher and media engine distributing Doug Wilson's religious and political worldview.
+
 ## Concepts
 - [Scaling Protein Design / 蛋白质设计规模化](concepts/ScalingProteinDesign.md) — 以模型、结构数据、算力、归一化评测与湿实验反馈共同扩大蛋白质设计能力的路线。
 - [Pretraining Reliability Engineering / 预训练可靠性工程](concepts/PretrainingReliabilityEngineering.md) — 将数值稳定、下游能力、跨团队复核和训练决策权结合起来的大模型预训练纪律。
@@ -32179,5 +32184,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [AI-Generated Portrait Identity and Authorization / AI生成肖像识别与授权](concepts/AIGeneratedPortraitIdentity.md) — Framework separating synthetic-face identifiability from authorization scope and platform responsibility.
 - [Frozen Bakery Supply Chain / 冷冻烘焙供应链](concepts/FrozenBakerySupplyChain.md) — Centralized frozen production model that lowers outlet complexity while shifting competition upstream.
+
+- [Christian-Nationalist Institution Building](concepts/ChristianNationalistInstitutionBuilding.md) — Strategy linking worship, family, education, media, business, and housing into a prototype for a preferred national order.
+- [Controversy-Driven Movement Amplification](concepts/ControversyDrivenMovementAmplification.md) — Process by which adverse coverage or backlash can expose a movement while also increasing its reach, solidarity, revenue, or recruitment.
 
 ## Syntheses

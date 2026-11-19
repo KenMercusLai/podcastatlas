@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3598
+topic_total_pages: 3599
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -796,6 +796,9 @@ topic_concepts:
   - key: "ChokepointShippingConfidence"
     title: "Chokepoint Shipping Confidence"
     url: "/wiki/concepts/chokepointshippingconfidence/"
+  - key: "ChristianNationalistInstitutionBuilding"
+    title: "Christian-Nationalist Institution Building"
+    url: "/wiki/concepts/christiannationalistinstitutionbuilding/"
   - key: "ChronicFoodAdditiveRisk"
     title: "Chronic Food Additive Risk"
     url: "/wiki/concepts/chronicfoodadditiverisk/"

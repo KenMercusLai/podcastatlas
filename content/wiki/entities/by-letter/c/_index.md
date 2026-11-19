@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14821
+wiki_total_pages: 14823
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "CangShifu"
     title: "Cang Shifu"
     url: "/wiki/entities/cangshifu/"
+  - key: "CanonPress"
+    title: "Canon Press"
+    url: "/wiki/entities/canonpress/"
   - key: "CantonMichigan"
     title: "Canton, Michigan"
     url: "/wiki/entities/cantonmichigan/"
