@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14815
+wiki_total_pages: 14817
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "ZhaoLinger"
     title: "Zhao Ling'er / 赵灵儿"
     url: "/wiki/entities/zhaolinger/"
+  - key: "ZhaoLiying"
+    title: "Zhao Liying / 赵丽颖"
+    url: "/wiki/entities/zhaoliying/"
   - key: "ZhaoLusi"
     title: "Zhao Lusi / 赵露思"
     url: "/wiki/entities/zhaolusi/"

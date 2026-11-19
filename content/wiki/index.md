@@ -5382,6 +5382,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Basement Tapes](sources/the-basement-tapes-the-basement-tapes.md) — Revisionist History connects recovered Minnesota and Sydney diet-trial data to cholesterol–mortality mismatch, scientific correction, and honoring a parent's principles rather than preserving every belief.
 - [The Lady Vanishes](sources/the-lady-vanishes-the-lady-vanishes.md) — Revisionist History connects Elizabeth Thompson's celebrated breakthrough and Julia Gillard's historic premiership to moral licensing, tokenism, and symbolic inclusion without structural change.
 
+- [英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意](sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5.md) — 声动早咖啡商业新闻速览，连接英伟达接班、限次机票卡、AI合成肖像权与冷冻烘焙供应链。
+
 ## Entities
 - [孙皎 / Sun Jiao (late Han)](entities/SunJiaoLateHan.md) — 东吴将领，在孙权调整伐关羽统帅结构后由并列主帅候选转为吕蒙的辅助将领。
 - [糜芳 / Mi Fang (late Han)](entities/MiFangLateHan.md) — 江陵守将，其补给压力、受辱积怨、惧罚与军事孤立在219年共同导向开城投降。
@@ -20295,6 +20297,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Minnesota Coronary Experiment](entities/MinnesotaCoronaryExperiment.md) — Large controlled feeding trial in which vegetable-oil replacement lowered cholesterol without demonstrating lower mortality.
 - [Sydney Diet Heart Study](entities/SydneyDietHeartStudy.md) — Older fat-replacement trial recovered from nine-track tape and reanalyzed alongside the Minnesota experiment.
 
+- [Anjoy Foods / 安井食品](entities/AnjoyFoods.md) — Frozen-food supplier using acquisitions to expand into bakery products and upstream retail supply.
+- [Zhao Liying / 赵丽颖](entities/ZhaoLiying.md) — Chinese actor whose reported lawsuit tests portrait identification and consent for AI-synthesized faces.
+
 ## Concepts
 - [单一主将式权责统一 / Single-Commander Accountability](concepts/SingleCommanderAccountability.md) — 以一人承担最终行动权责、其他资深参与者保留明确辅助权限的指挥设计。
 - [战略性信息披露 / Strategic Information Disclosure](concepts/StrategicInformationDisclosure.md) — 为改变不同受众的士气、准备或行动而有选择地释放真实或可信信息。
@@ -32162,5 +32167,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mass Delusion](concepts/MassDelusion.md) — Source-scoped umbrella for collective false certainty and resistance to correction, without assuming one mechanism or treating dissent as diagnosis.
 - [Surrogate Endpoint–Outcome Mismatch](concepts/SurrogateEndpointOutcomeMismatch.md) — Divergence between a favorable biomarker change and the patient-relevant clinical outcome it is expected to improve.
 - [Research Data Preservation](concepts/ResearchDataPreservation.md) — Durable retention of data, metadata, methods, and records so later investigators can verify and reanalyze research.
+
+- [AI-Generated Portrait Identity and Authorization / AI生成肖像识别与授权](concepts/AIGeneratedPortraitIdentity.md) — Framework separating synthetic-face identifiability from authorization scope and platform responsibility.
+- [Frozen Bakery Supply Chain / 冷冻烘焙供应链](concepts/FrozenBakerySupplyChain.md) — Centralized frozen production model that lowers outlet complexity while shifting competition upstream.
 
 ## Syntheses

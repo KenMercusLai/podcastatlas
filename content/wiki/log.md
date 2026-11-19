@@ -43359,6 +43359,7 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-11-19] ingest | 《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？
 
 Added the missing episode between Hanji 1168 and 1170. Created [[SunJiaoLateHan|孙皎]], [[SingleCommanderAccountability|单一主将式权责统一]], and [[StrategicInformationDisclosure|战略性信息披露]], then resynthesized [[FanchengBattle219LateHan|219年樊城之战]], [[ZhaoYanLateHan|赵俨]], [[DongZhaoLateHan|董昭]], [[HuanJieLateHan|桓阶]], and [[SunkCostEntrapment|沉没成本困局]] from each page's complete preserved source inventory before appending the new source once.
@@ -43368,3 +43369,17 @@ Core synthesis: clear final authority can coexist with senior support; Zhao Yan'
 No settled contradiction was adopted. The episode's calendrical “fire year” and disaster sequence is retained as traditional motivational framing rather than causal forecasting. Disaster details, command dialogue, letters, timing, troop condition, morale effects, motives, Guan Yu's reasoning, and Cao-Sun signaling remain episode-attributed pending comparison with primary texts and wider scholarship.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,254 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-19] ingest | 英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意
+
+Added source `gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5`; created [[ZhaoLiying|赵丽颖]], [[AnjoyFoods|安井食品]], [[AIGeneratedPortraitIdentity|AI生成肖像识别与授权]], and [[FrozenBakerySupplyChain|冷冻烘焙供应链]]; resynthesized [[FounderLedPlatformSuccessionRisk]] and [[AirlineUnlimitedFlightPass]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Nvidia's reported board refusal narrows the immediate reinstatement scenario without proving that founder-dependent capabilities have transferred; fixed-use flight cards retain perishable-seat and advance-payment logic while capping open-ended liability; synthetic faces separate person identification from authorization scope; and frozen bakery reduces outlet complexity while shifting differentiation, cold-chain, margin, and channel-conflict pressure upstream.
+
+No settled contradiction was adopted. The source is a structured business-news summary rather than board minutes, airline terms and redemption data, court pleadings or judgments, platform audit records, contracts, or audited company reporting. Broad company pages remained closed where focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting the automatic `wiki/overview.md`.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,255 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

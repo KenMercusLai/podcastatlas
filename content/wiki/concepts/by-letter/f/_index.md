@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11753
+wiki_total_pages: 11755
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1616,6 +1616,9 @@ wiki_pages:
   - key: "FrontlineRearGovernanceIntegration"
     title: "Frontline–Rear Governance Integration / 前线作战与后方治理一体化"
     url: "/wiki/concepts/frontlinereargovernanceintegration/"
+  - key: "FrozenBakerySupplyChain"
+    title: "Frozen Bakery Supply Chain / 冷冻烘焙供应链"
+    url: "/wiki/concepts/frozenbakerysupplychain/"
   - key: "FrustrationToleranceLearningSpace"
     title: "Frustration-Tolerance Learning Space"
     url: "/wiki/concepts/frustrationtolerancelearningspace/"

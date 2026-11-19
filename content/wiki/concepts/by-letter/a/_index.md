@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11753
+wiki_total_pages: 11755
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1883,6 +1883,9 @@ wiki_pages:
   - key: "AIGeneratedHoaxEvidence"
     title: "AI-Generated Hoax Evidence"
     url: "/wiki/concepts/aigeneratedhoaxevidence/"
+  - key: "AIGeneratedPortraitIdentity"
+    title: "AI-Generated Portrait Identity and Authorization / AI生成肖像识别与授权"
+    url: "/wiki/concepts/aigeneratedportraitidentity/"
   - key: "AIGeneratedProofGovernance"
     title: "AI-Generated Proof Governance"
     url: "/wiki/concepts/aigeneratedproofgovernance/"

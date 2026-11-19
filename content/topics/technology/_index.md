@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3898
+topic_total_pages: 3899
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1246,6 +1246,9 @@ topic_concepts:
   - key: "AIGeneratedHoaxEvidence"
     title: "AI-Generated Hoax Evidence"
     url: "/wiki/concepts/aigeneratedhoaxevidence/"
+  - key: "AIGeneratedPortraitIdentity"
+    title: "AI-Generated Portrait Identity and Authorization / AI生成肖像识别与授权"
+    url: "/wiki/concepts/aigeneratedportraitidentity/"
   - key: "AIGeneratedProofGovernance"
     title: "AI-Generated Proof Governance"
     url: "/wiki/concepts/aigeneratedproofgovernance/"

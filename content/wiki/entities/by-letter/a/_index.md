@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14815
+wiki_total_pages: 14817
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "AnitaRamaswamy"
     title: "Anita Ramaswamy"
     url: "/wiki/entities/anitaramaswamy/"
+  - key: "AnjoyFoods"
+    title: "Anjoy Foods / 安井食品"
+    url: "/wiki/entities/anjoyfoods/"
   - key: "Anker2023Lab"
     title: "Anker 2023 Lab"
     url: "/wiki/entities/anker2023lab/"

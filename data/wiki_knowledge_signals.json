@@ -3829,6 +3829,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aigeneratedcontentqualitygap/"
     },
+    "AIGeneratedPortraitIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEO00uSAFZzAwT9Tvi5 [GKwRIJEO00uSAFZzAwT9Tvi5].md",
+          "key": "gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5",
+          "show": "声动早咖啡",
+          "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
+          "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/aigeneratedportraitidentity/"
+    },
     "AIGeneratedProofGovernance": {
       "episode_count": 3,
       "show_count": 2,
@@ -13495,9 +13511,9 @@
       "url": "/wiki/concepts/airlineservicedifferentiation/"
     },
     "AirlineUnlimitedFlightPass": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIJEDyDnkABAAAAB34u_q [CKwRIJEDyDnkABAAAAB34u_q].md",
@@ -13505,9 +13521,16 @@
           "show": "无时差研究所",
           "title": "EP153-我的50次随心飞年终总结报告",
           "url": "/wiki/sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q/"
+        },
+        {
+          "episode_file": "GKwRIJEO00uSAFZzAwT9Tvi5 [GKwRIJEO00uSAFZzAwT9Tvi5].md",
+          "key": "gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5",
+          "show": "声动早咖啡",
+          "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
+          "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/airlineunlimitedflightpass/"
     },
     "AirportApprovalAirspaceConstraint": {
@@ -20913,6 +20936,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/anitaramaswamy/"
+    },
+    "AnjoyFoods": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEO00uSAFZzAwT9Tvi5 [GKwRIJEO00uSAFZzAwT9Tvi5].md",
+          "key": "gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5",
+          "show": "声动早咖啡",
+          "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
+          "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/anjoyfoods/"
     },
     "AnkylosingSpondylitis": {
       "episode_count": 1,
@@ -119417,9 +119456,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -119441,9 +119480,16 @@
           "show": "Marketplace Tech",
           "title": "Leadership shakeup could cost Nvidia its dominance",
           "url": "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIJEO00uSAFZzAwT9Tvi5 [GKwRIJEO00uSAFZzAwT9Tvi5].md",
+          "key": "gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5",
+          "show": "声动早咖啡",
+          "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
+          "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {
@@ -123343,6 +123389,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/frostsullivan/"
+    },
+    "FrozenBakerySupplyChain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEO00uSAFZzAwT9Tvi5 [GKwRIJEO00uSAFZzAwT9Tvi5].md",
+          "key": "gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5",
+          "show": "声动早咖啡",
+          "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
+          "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/frozenbakerysupplychain/"
     },
     "FrugalImperialBurialRestraint": {
       "episode_count": 5,
@@ -366398,6 +366460,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
+    },
+    "ZhaoLiying": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEO00uSAFZzAwT9Tvi5 [GKwRIJEO00uSAFZzAwT9Tvi5].md",
+          "key": "gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5",
+          "show": "声动早咖啡",
+          "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
+          "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/zhaoliying/"
     },
     "ZhaoMeishanUrologist": {
       "episode_count": 1,
