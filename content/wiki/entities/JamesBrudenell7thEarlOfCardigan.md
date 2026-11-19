@@ -6,7 +6,8 @@ sources:
   - 721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211
   - 722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407
   - 723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615
-last_updated: 2026-11-16
+  - 724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240
+last_updated: 2026-11-19
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,15 +27,16 @@ His repeated survival of regimental controversies, a duel trial, and an adultery
 
 [[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] shows the frustration accumulating around that judgment. Cardigan resented Raglan's restrictions on reconnaissance and remained inactive at the Alma, then worked with his men by day while sleeping and dining aboard his yacht *Dryad*. The comfort and separation damaged his standing even as the brigade endured cold, inadequate tents, and scarce fodder before Balaclava.
 
+At Balaclava, [[724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240]] shows Cardigan correctly identifying that the visible order required an advance against guns ahead and on both flanks. He obeyed Lucan, led from the front, maintained a controlled formation under fire, entered the battery with the survivors, and then returned while fighting continued beyond it. His physical courage and tactical discipline are therefore not in doubt, but obedience did not make the target rational, and his early return became part of the responsibility dispute. Public celebration initially made him the charge's hero; he then blamed Lucan and later lost much of that popularity.
+
 ## Key Characteristics
 
-- Physically courageous and accomplished as a horseman, swordsman, and shot.
-- Entered Crimean command without prior active-service experience.
+- Was physically courageous and accomplished in cavalry skills but entered Crimean command without active-service experience.
 - Used private wealth, elaborate display, and aristocratic prejudice to shape the 11th Hussars' identity.
 - Shared a bitter family and command rivalry with Lord Lucan.
-- Won some trooper loyalty through spending, welfare, discipline, and personal courage.
-- Bypassed the chain of command, overextended a damaging reconnaissance, and resented later restraint.
-- Damaged his troop reputation by returning nightly to the comforts of his yacht.
+- Won some trooper loyalty through spending and welfare, but damaged it through chain-of-command breaches, a costly reconnaissance, and yacht comforts.
+- Recognized the charge's danger yet obeyed, led from the front, and maintained formation under fire.
+- Converted courage into public celebrity while disputing responsibility and his conduct beyond the battery.
 
 ## Evidence
 
@@ -45,15 +47,17 @@ His repeated survival of regimental controversies, a duel trial, and an adultery
 - Regimental strengths: [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] links exacting standards, private spending, soldier welfare, and courage to admiration among some ordinary troopers.
 - Campaign judgment: [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] follows his separate travel, unauthorized chain-of-command shortcut, and destructive seventeen-day reconnaissance.
 - Crimea and Balaclava: [[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] follows his frustration at restraint, inactivity at the Alma, daytime command work, and nightly return to *Dryad*.
+- Charge leadership: [[724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240]] follows Cardigan's warning about the guns, front-rank advance, formation discipline, penetration of the battery, and return.
+- Public reputation: [[724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240]] connects celebration, blame of Lucan, and later decline in popularity.
 
 ## Qualifications
 
-This profile is based on three installments of a popular-history narrative that use vivid anecdotes to establish the later Balaclava disaster. Exact expenditure, dialogue, motives, legal details, troop sentiment, reconnaissance instructions and losses, yacht routines, and the causal link between personality and battlefield decisions remain source-scoped. The episodes distinguish courage, welfare spending, and equestrian competence from operational command ability rather than denying those strengths.
+This profile is based on four installments of a popular-history narrative. Exact expenditure, dialogue, motives, legal details, troop sentiment, reconnaissance losses, yacht routines, battlefield sequence, Cardigan's position beyond the battery, and later reputation remain source-scoped or disputed. The episodes distinguish courage, welfare spending, equestrian competence, and disciplined execution from responsibility for questioning or clarifying an operationally incoherent order.
 
 ## What Changed
 
-- Added trooper loyalty, welfare spending, chain-of-command breach, and reconnaissance loss to the judgment that courage and regimental care did not guarantee operational competence.
-- Added the reputational cost of Cardigan's yacht comforts amid the brigade's cold and shortages.
+- Added Cardigan's correct recognition of the danger, disciplined front-rank leadership, and disputed return from the battery.
+- Connected genuine battlefield courage to public celebrity without treating obedience as complete exoneration.
 
 ## Relationships
 

@@ -5,7 +5,8 @@ tags: [person, britain, military, crimean-war, coalition-command]
 sources:
   - 722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407
   - 723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615
-last_updated: 2026-11-16
+  - 724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240
+last_updated: 2026-11-19
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,15 +24,17 @@ The same career created a command gap. Raglan had not independently commanded an
 
 [[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] makes that risk operational. Raglan personally selected an undefended landing site but accepted the loss of surprise; at the Alma he issued ambiguous orders and rode beyond easy control, yet his repeated restraint of weakened cavalry was defensible on preservation grounds. The same caution prevented pursuit and helped forfeit the chance to reach weakly defended Sevastopol quickly, after which he concentrated force on the siege while leaving Balaclava thinly protected.
 
+At Balaclava, [[724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240]] places Raglan on the Sapuni Heights with a battlefield view unavailable to the cavalry below. He correctly saw Russian troops preparing to remove captured British guns and urgently tried to stop them, but his written order did not identify a target or route intelligible from Lucan's position. The source therefore treats superior information without shared perspective as a command liability: Raglan's intent was limited, but the transmission system turned it into the North Valley charge. He later blamed Lucan, while the loss of the Vorontsov Road compounded the winter supply crisis and public criticism preceded his death in June 1855.
+
 ## Key Characteristics
 
 - Displayed courage, stoicism, and composure in and after the Napoleonic Wars.
 - Built his career principally as Wellington’s deputy rather than as an independent field commander.
-- Brought fluent French and coalition-management tact to the 1854 appointment.
-- Benefited from aristocratic and institutional access unavailable to more socially marginal officers.
+- Brought fluent French and coalition-management tact to an appointment enabled partly by aristocratic and institutional access.
 - Managed cooperation with French and Ottoman leaders without conceding unified French command.
 - Exercised uneven judgment over the divided British cavalry command and Cardigan’s reconnaissance.
-- Combined personal reconnaissance and cavalry preservation with ambiguous battle control, non-pursuit, and an exposed supply-base allocation.
+- Combined personal reconnaissance and cavalry preservation with ambiguous control, non-pursuit, and exposed supply allocation.
+- Held the best view at Balaclava but failed to express his intended target in terms usable below.
 
 ## Evidence
 
@@ -41,15 +44,17 @@ The same career created a command gap. Raglan had not independently commanded an
 - Appointment hierarchy - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] contrasts his selection with Campbell’s combat experience and social exclusion.
 - Campaign judgment - [[722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407]] follows Raglan’s responses to the Cardigan-Lucan breach, the reconnaissance losses, Russian withdrawal, and the move toward Crimea.
 - Invasion and siege judgment - [[723-the-charge-of-the-light-brigade-crushing-the-russians-part-3-glt9985161615]] follows the landing choice, Alma command, cavalry restraint, delayed advance, and Balaclava allocation.
+- Balaclava order - [[724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240]] contrasts Raglan's view of the captured guns with Lucan's obscured position and follows the urgent order into the wrong valley.
+- Campaign aftermath - [[724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240]] connects loss of the paved road, public criticism, and Raglan's death during the siege.
 
 ## Qualifications
 
-This profile comes from two narrative episodes designed to explain the later Light Brigade disaster. It does not establish that Raglan’s social background alone caused his appointment or that prior independent command would have prevented later failures. The landing, pursuit, and Sevastopol decisions involved real tradeoffs; personality judgments, reported dialogue, counterfactuals, and responsibility among ministers, allied commanders, and subordinates remain source-scoped.
+This profile comes from three installments of one narrative series. It does not establish that Raglan’s social background alone caused his appointment or that prior independent command would have prevented later failures. The landing, pursuit, Sevastopol, and Balaclava decisions involved real tradeoffs; exact order wording, visibility, dialogue, motives, his health and emotional decline, counterfactuals, and responsibility among ministers, staff, allied commanders, and subordinates remain source-scoped or disputed.
 
 ## What Changed
 
-- Established Raglan as a coalition-capable deputy elevated into independent command despite limited field-command experience.
-- Added the mixed operational record of a safe landing and cavalry preservation followed by confused control, non-pursuit, and vulnerable supply allocation.
+- Added the gap between Raglan's superior battlefield view and his failure to communicate a mutually identifiable target.
+- Connected the Balaclava order dispute and road loss to his later blame allocation and public pressure.
 
 ## Relationships
 
@@ -60,3 +65,4 @@ This profile comes from two narrative episodes designed to explain the later Lig
 - [[CrimeanWar]] - conflict in which Raglan received his first independent army command.
 - [[BattleOfTheAlma]] - victory where his command position and cavalry restraint remained contested.
 - [[BattleOfBalaclava]] - battle arising around the supply base he left thinly defended.
+- [[LouisEdwardNolan]] - staff officer who carried Raglan's final cavalry order to Lucan.

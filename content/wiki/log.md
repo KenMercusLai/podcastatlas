@@ -43360,6 +43360,16 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-19] ingest | 724. The Charge of the Light Brigade: Into The Valley of Death (Part 4)
+
+Added source `724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240`; resynthesized [[CrimeanWar]], [[BattleOfBalaclava]], [[ChargeOfTheLightBrigade]], [[HeroicFailureMemory]], [[FitzRoySomerset1stBaronRaglan]], [[GeorgeBingham3rdEarlOfLucan]], [[JamesBrudenell7thEarlOfCardigan]], [[LouisEdwardNolan]], [[JamesYorkeScarlett]], and [[ColinCampbellBritishArmy]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: the Thin Red Line and Heavy Brigade victory show effective local discipline inside a fragile system, while the Light Brigade disaster joined Raglan's high-ground view, Lucan's obscured position, an under-specified urgent order, failed clarification, hierarchy, and personal hostility. The brigade reached the North Valley battery, but that limited tactical result did not recover the Causeway Heights or Vorontsov Road and worsened the siege's supply problem.
+
+No settled contradiction was adopted. Exact order wording and gestures, Nolan's final intention, Cardigan's conduct beyond the battery, troop and casualty figures, horse losses, motives, later reputations, Raglan's decline, and counterfactual outcomes remain episode-reported, disputed, or source-scoped. Broad unrelated pages remained closed, and the automatic `wiki/overview.md` was not manually rewritten.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,256 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-19] ingest | 《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？
 
 Added the missing episode between Hanji 1168 and 1170. Created [[SunJiaoLateHan|孙皎]], [[SingleCommanderAccountability|单一主将式权责统一]], and [[StrategicInformationDisclosure|战略性信息披露]], then resynthesized [[FanchengBattle219LateHan|219年樊城之战]], [[ZhaoYanLateHan|赵俨]], [[DongZhaoLateHan|董昭]], [[HuanJieLateHan|桓阶]], and [[SunkCostEntrapment|沉没成本困局]] from each page's complete preserved source inventory before appending the new source once.
@@ -43379,6 +43389,10 @@ Core synthesis: Nvidia's reported board refusal narrows the immediate reinstatem
 No settled contradiction was adopted. The source is a structured business-news summary rather than board minutes, airline terms and redemption data, court pleadings or judgments, platform audit records, contracts, or audited company reporting. Broad company pages remained closed where focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting the automatic `wiki/overview.md`.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,255 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-19] lint | Wiki health check
 
