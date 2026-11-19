@@ -43493,3 +43493,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-20] ingest | SaaS Marketing Without Ads: Word of Mouth to $10M ARR
+
+Added [[saas-marketing-without-ads-word-of-mouth-to-10m-arr-456cd58f|SaaS Marketing Without Ads: Word of Mouth to $10M ARR]], a [[TheSaaSPodcast]] interview with [[AnuragGoel]] on building [[Render]] from a narrow deployment workflow into a product-led application cloud. Created synthesis-first pages for Goel, Render, and [[SustainableFreeTier]], then resynthesized [[ProductLedGrowth]], [[GenerativeEngineOptimization]], and [[AgentReadableWeb]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: product-led growth joins a complete low-friction activation path to referrals, retention, and customer expansion, but free usage is not proof of demand when compute and network costs are real. Model-readable pricing and feature evidence can improve software discovery, and agent-operable interfaces can turn a recommendation into action, while reliability, security, brand, margin discipline, and independent acquisition channels remain necessary.
+
+No settled contradiction was adopted. Render's team-seat fees were later removed, making the episode evidence for customer research and reversible pricing rather than a universal seat-fee rule. ARR, signup, conversion, customer-share, margin, and recommendation claims remain participant-reported, and the developer-infrastructure context limits generalization. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,264 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14829
+wiki_total_pages: 14831
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "RenaissanceTechnologies"
     title: "Renaissance Technologies"
     url: "/wiki/entities/renaissancetechnologies/"
+  - key: "Render"
+    title: "Render"
+    url: "/wiki/entities/render/"
   - key: "ReneCarmille"
     title: "Rene Carmille / 勒内·卡米耶"
     url: "/wiki/entities/renecarmille/"

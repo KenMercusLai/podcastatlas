@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14829
+wiki_total_pages: 14831
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1745,6 +1745,9 @@ wiki_pages:
   - key: "AnulaJayasuria"
     title: "Anula Jayasuria"
     url: "/wiki/entities/anulajayasuria/"
+  - key: "AnuragGoel"
+    title: "Anurag Goel"
+    url: "/wiki/entities/anuraggoel/"
   - key: "AnyaYermakova"
     title: "Anya Yermakova"
     url: "/wiki/entities/anyayermakova/"

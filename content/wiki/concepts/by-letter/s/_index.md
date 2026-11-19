@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11767
+wiki_total_pages: 11768
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2921,6 +2921,9 @@ wiki_pages:
   - key: "SustainableConstructionCarbonTradeoff"
     title: "Sustainable Construction Carbon Tradeoff"
     url: "/wiki/concepts/sustainableconstructioncarbontradeoff/"
+  - key: "SustainableFreeTier"
+    title: "Sustainable Free Tier"
+    url: "/wiki/concepts/sustainablefreetier/"
   - key: "SustainableGrowthPace"
     title: "Sustainable Growth Pace"
     url: "/wiki/concepts/sustainablegrowthpace/"
