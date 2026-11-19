@@ -43437,3 +43437,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-19] ingest | Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping
+
+Added source `essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107`; resynthesized [[NicotineNeurobiologyAndDependence]], [[ElectronicCigaretteRisk]], and [[SmokingCessationSupport]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: nicotine's brief attention, arousal, and motivation effects are coupled to cardiovascular, dependence, and withdrawal risks; rapid delivery can strengthen reinforcement; and smoking, vaping, dipping, and snuffing add route-specific harms. Quitting is treated as a supported behavioral and clinical process rather than a willpower test.
+
+No settled contradiction was adopted. This Essentials episode condenses the already-ingested full episode and is overlapping provenance rather than independent confirmation. Numerical mechanism, risk, cessation, relapse, hypnosis, and treatment claims remain source-scoped, and nicotine or cessation-medication decisions require qualified care. The automatic `wiki/overview.md` was read for context and was not manually rewritten because the condensed edit does not change the current cross-source judgment.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,260 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

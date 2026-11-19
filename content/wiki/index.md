@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107.md) — Condensed Huberman Lab episode on nicotine receptors, delivery-speed reinforcement, route-specific harms, withdrawal, and clinically bounded cessation support.
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.md) — 晚点聊访谈顾全全，以字节蛋白质模型与豆包预训练经验连接结构设计Scaling、采样预算归一化、湿实验反馈和预训练可靠性工程。
 - [《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？](sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp.md) — 芮淇讲透资治通鉴以樊城战局连接单一主将、分阶段救援、战略性披露、后方领导与沉没成本判断，并限定火年灾害叙事的因果边界。
 - [《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？](sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx.md) — 徐晃以声东击西解除樊城陆围，吕蒙沿江隐蔽夺取江陵，并以军纪和安抚稳住关羽后方。

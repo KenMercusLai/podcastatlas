@@ -96206,9 +96206,9 @@
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -96230,9 +96230,16 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM1478506107 [SCIM1478506107].md",
+          "key": "essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107",
+          "show": "Huberman Lab",
+          "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/electroniccigaretterisk/"
     },
     "EleonoraDuse": {
@@ -235535,9 +235542,9 @@
       "url": "/wiki/entities/nicolebernarddawes/"
     },
     "NicotineNeurobiologyAndDependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2598262635 [SCIM2598262635].md",
@@ -235545,9 +235552,16 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM1478506107 [SCIM1478506107].md",
+          "key": "essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107",
+          "show": "Huberman Lab",
+          "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/nicotineneurobiologyanddependence/"
     },
     "NieShangLateHan": {
@@ -301726,9 +301740,9 @@
       "url": "/wiki/entities/smithfield/"
     },
     "SmokingCessationSupport": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -301750,9 +301764,16 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM1478506107 [SCIM1478506107].md",
+          "key": "essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107",
+          "show": "Huberman Lab",
+          "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/smokingcessationsupport/"
     },
     "Snackish": {
