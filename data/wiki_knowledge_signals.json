@@ -43489,9 +43489,9 @@
       "url": "/wiki/entities/cssedit/"
     },
     "CUDA": {
-      "episode_count": 5,
-      "show_count": 5,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "acc532947b65 [acc532947b65].md",
@@ -43527,9 +43527,16 @@
           "show": "Marketplace Tech",
           "title": "Leadership shakeup could cost Nvidia its dominance",
           "url": "/wiki/sources/tech-20261118-1118-mp-tech-pod-128-tech-20261118-1118-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/cuda/"
     },
     "CabinetExhaustionManagement": {
@@ -57530,6 +57537,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/chrishiemstra/"
+    },
+    "ChrisMalachowsky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/chrismalachowsky/"
     },
     "ChrisMcCurdy": {
       "episode_count": 1,
@@ -75067,6 +75090,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/curtislemay/"
     },
+    "CurtisPriem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/curtispriem/"
+    },
     "CustomGovernanceBeyondPaperAdministration": {
       "episode_count": 1,
       "show_count": 1,
@@ -86844,6 +86883,29 @@
       ],
       "updated": "2026-11-13",
       "url": "/wiki/concepts/disposablesoftware/"
+    },
+    "DisruptiveInnovation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "真正改变世界的技术，为什么一开始都不被看好？｜ S10E16 [8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1].md",
+          "key": "zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1",
+          "show": "What's Next｜科技早知道",
+          "title": "真正改变世界的技术，为什么一开始都不被看好？| S10E16",
+          "url": "/wiki/sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1/"
+        },
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/disruptiveinnovation/"
     },
     "DissentSpaceCompression": {
       "episode_count": 2,
@@ -119971,9 +120033,9 @@
       "url": "/wiki/concepts/founderpsychologyoperationalrisk/"
     },
     "FounderResilience": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
@@ -120016,9 +120078,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
           "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        },
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/founderresilience/"
     },
     "FounderRestartAfterFailure": {
@@ -173019,9 +173088,9 @@
       "url": "/wiki/entities/jennyorangutan/"
     },
     "JensenHuang": {
-      "episode_count": 16,
-      "show_count": 11,
-      "source_note_count": 16,
+      "episode_count": 17,
+      "show_count": 12,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -173134,9 +173203,16 @@
           "show": "Economist Podcasts",
           "title": "Transchipment: Huang and the AI aftershocks",
           "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        },
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/jensenhuang/"
     },
     "JeremyThorpe": {
@@ -203276,6 +203352,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/lorigottlieb/"
+    },
+    "LoriHuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/lorihuang/"
     },
     "LosAngelesCountryClub": {
       "episode_count": 1,
@@ -238388,9 +238480,9 @@
       "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
     "Nvidia": {
-      "episode_count": 36,
-      "show_count": 15,
-      "source_note_count": 36,
+      "episode_count": 37,
+      "show_count": 16,
+      "source_note_count": 37,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Loeb： The Lost Art of Short Selling, and Why Stock Picking is Back [41552605].md",
@@ -238643,9 +238735,16 @@
           "show": "Economist Podcasts",
           "title": "Transchipment: Huang and the AI aftershocks",
           "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        },
+        {
+          "episode_file": "VMP8419655880 [VMP8419655880].md",
+          "key": "vmp8419655880-vmp8419655880",
+          "show": "How I Built This with Guy Raz",
+          "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+          "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "url": "/wiki/entities/nvidia/"
     },
     "NvidiaDGXSpark": {

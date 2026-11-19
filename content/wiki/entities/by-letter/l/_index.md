@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14818
+wiki_total_pages: 14821
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "LoriGottlieb"
     title: "Lori Gottlieb / 洛莉·戈特利布"
     url: "/wiki/entities/lorigottlieb/"
+  - key: "LoriHuang"
+    title: "Lori Huang"
+    url: "/wiki/entities/lorihuang/"
   - key: "LosAngeles"
     title: "Los Angeles"
     url: "/wiki/entities/losangeles/"

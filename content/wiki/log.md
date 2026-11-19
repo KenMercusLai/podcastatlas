@@ -43409,3 +43409,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-19] ingest | Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)
+
+Added source `vmp8419655880-vmp8419655880`; created [[ChrisMalachowsky|Chris Malachowsky]], [[CurtisPriem|Curtis Priem]], and [[LoriHuang|Lori Huang]]; resynthesized [[JensenHuang|Jensen Huang]], [[Nvidia]], [[CUDA]], [[FounderResilience]], and [[DisruptiveInnovation]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Nvidia's survival joined architecture correction with runway. The company abandoned NV1 after its mismatch with DirectX, used an expensive pre-fabrication emulator to compress the RIVA 128 recovery, and later distributed CUDA inside gaming products so university and research adoption could mature before deep learning supplied a breakthrough market. Huang's rapid-recovery philosophy is qualified by layoffs, humiliation, missed family life, and his statement that he would not knowingly repeat the journey.
+
+No settled contradiction was adopted. The interview was recorded in April 2026 and explicitly does not address later events, so it adds historical evidence without reversing later episode-attributed resignation and succession material. Early product, contract, cash, workforce, family, AI-safety, employment, and geopolitical claims remain participant or episode-reported rather than independently verified. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,258 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

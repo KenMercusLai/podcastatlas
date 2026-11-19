@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3901
+topic_total_pages: 3904
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6128,6 +6128,9 @@ topic_entities:
   - key: "ChrisBell"
     title: "Chris Bell"
     url: "/wiki/entities/chrisbell/"
+  - key: "ChrisMalachowsky"
+    title: "Chris Malachowsky"
+    url: "/wiki/entities/chrismalachowsky/"
   - key: "ChrisOlah"
     title: "Chris Olah"
     url: "/wiki/entities/chrisolah/"
@@ -6269,6 +6272,9 @@ topic_entities:
   - key: "CUDA"
     title: "CUDA"
     url: "/wiki/entities/cuda/"
+  - key: "CurtisPriem"
+    title: "Curtis Priem"
+    url: "/wiki/entities/curtispriem/"
   - key: "CyberAvengers"
     title: "Cyber Avengers"
     url: "/wiki/entities/cyberavengers/"
@@ -10785,6 +10791,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490"
     title: "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490/"
+  - key: "vmp8419655880-vmp8419655880"
+    title: "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)"
+    url: "/wiki/sources/vmp8419655880-vmp8419655880/"
   - key: "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643"
     title: "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"

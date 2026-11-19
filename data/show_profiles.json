@@ -555,8 +555,8 @@
       "earliest_episode_date": "2026-05-25",
       "latest_episode_date": "2026-11-19",
       "latest_episode_file": "VMP8419655880 [VMP8419655880].md",
-      "source_note_count": 52,
-      "topic_matched_source_note_count": 10,
+      "source_note_count": 53,
+      "topic_matched_source_note_count": 11,
       "topics": [
         {
           "key": "economics",
@@ -568,7 +568,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "politics",
@@ -629,7 +629,7 @@
       ],
       "start_here_episode_files": [
         "VMP7917788157 [VMP7917788157].md",
-        "VMP4254648132 [VMP4254648132].md",
+        "VMP8419655880 [VMP8419655880].md",
         "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
         "Sweetwater： Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.  [50c2b5e3-3bc3-4039-a92d-26228b8ac908].md"
       ]

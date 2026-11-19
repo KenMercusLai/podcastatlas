@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14818
+wiki_total_pages: 14821
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "ChrisKane"
     title: "Chris Kane"
     url: "/wiki/entities/chriskane/"
+  - key: "ChrisMalachowsky"
+    title: "Chris Malachowsky"
+    url: "/wiki/entities/chrismalachowsky/"
   - key: "ChrisMcCurdy"
     title: "Chris McCurdy"
     url: "/wiki/entities/chrismccurdy/"
@@ -2039,6 +2042,9 @@ wiki_pages:
   - key: "CurtisLiu"
     title: "Curtis Liu"
     url: "/wiki/entities/curtisliu/"
+  - key: "CurtisPriem"
+    title: "Curtis Priem"
+    url: "/wiki/entities/curtispriem/"
   - key: "CuthbertCollingwood"
     title: "Cuthbert Collingwood"
     url: "/wiki/entities/cuthbertcollingwood/"
