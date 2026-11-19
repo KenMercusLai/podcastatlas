@@ -43479,3 +43479,17 @@ Downstream synthesis found no dirty controlled topic; the max-age gate triggered
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-19] ingest | The internet’s next big domain expansion is underway
+
+Added a [[MarketplaceTech]] interview with [[PeteMillspaugh|Pete Millspaugh]] on [[ICANN]]'s 2026 generic top-level-domain round. Created synthesis-first profiles for ICANN, Millspaugh, and [[DotMeowFoundation|dotMeow Foundation]], plus [[TopLevelDomainRegistryEconomics]], [[CountryCodeDomainMonetization]], and [[BrandedTopLevelDomains]], then resynthesized [[AgentIdentityGovernance]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: controlling a top-level domain can support public registrations, a private brand namespace, defensive ownership, community funding, or national revenue, but application, auction, delegation, public launch, and commercial adoption are separate stages. Anguilla's `.ai` illustrates semantic windfall and concentration risk; `.web` shows that a costly auction win need not produce a usable registry; and `.agent` could offer a public naming layer without replacing ownership, authorization, revocation, or accountability controls.
+
+No settled contradiction was adopted. `.com` credibility can coexist with alternative-domain expression, and lower availability can create demand without ensuring durable renewal economics. Application counts, fees, auction prices, revenue shares, applicant motives, launch prospects, and agent-identity uses remain episode-attributed because the supplied file is a structured summary rather than ICANN records, audited accounts, legal filings, or a transcript. The guest surname was normalized from “Millspah” in the supplied summary to the publicly documented “Millspaugh.” The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,263 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

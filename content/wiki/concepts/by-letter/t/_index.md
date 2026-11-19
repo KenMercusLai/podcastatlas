@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11764
+wiki_total_pages: 11767
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "TopDownAIProcessRedesign"
     title: "Top-Down AI Process Redesign"
     url: "/wiki/concepts/topdownaiprocessredesign/"
+  - key: "TopLevelDomainRegistryEconomics"
+    title: "Top-Level Domain Registry Economics"
+    url: "/wiki/concepts/topleveldomainregistryeconomics/"
   - key: "TopicalCorticosteroidUseBoundary"
     title: "Topical Corticosteroid Use Boundary / 外用糖皮质激素使用边界"
     url: "/wiki/concepts/topicalcorticosteroiduseboundary/"

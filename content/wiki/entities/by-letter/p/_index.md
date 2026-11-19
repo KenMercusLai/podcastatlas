@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14826
+wiki_total_pages: 14829
 wiki_pages:
   - key: "PearlHarborAttack"
     title: "Attack on Pearl Harbor"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "PeteKoomen"
     title: "Pete Koomen"
     url: "/wiki/entities/petekoomen/"
+  - key: "PeteMillspaugh"
+    title: "Pete Millspaugh"
+    url: "/wiki/entities/petemillspaugh/"
   - key: "PeteNitzsche"
     title: "Pete Nitzsche"
     url: "/wiki/entities/petenitzsche/"

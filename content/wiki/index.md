@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The internet’s next big domain expansion is underway](sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128.md) — Marketplace Tech on ICANN's new-domain round, registry economics, country-code windfalls, `.agent`, branded extensions, and the community-backed `.meow` proposal.
 - [#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目](sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f.md) — 声东击西对话玉真记事，以媒体职业受挫、城乡迁移、农村养老与教育、茉莉花风险和农地规模化讨论如何记录正在消失的传统农民时代。
 - [Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107.md) — Condensed Huberman Lab episode on nicotine receptors, delivery-speed reinforcement, route-specific harms, withdrawal, and clinically bounded cessation support.
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.md) — 晚点聊访谈顾全全，以字节蛋白质模型与豆包预训练经验连接结构设计Scaling、采样预算归一化、湿实验反馈和预训练可靠性工程。
@@ -5393,6 +5394,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Racing ahead: Anthropic’s big IPO](sources/4194361e8d09cb7174d917da6acfa892-4194361e8d09cb7174d917da6acfa892mp3aid6afeca038f8ad2908f6bec2echidd556eb54-6160-4.md) — Economist Podcasts on Anthropic’s forecast IPO, concentrated U.S.-China mineral investment, and why rice variety and preparation can matter more than color for glycemic response.
 
 ## Entities
+- [ICANN](entities/ICANN.md) — Internet-governance organization allocating new generic top-level domains through application, evaluation, priority, and contention processes.
+- [Pete Millspaugh](entities/PeteMillspaugh.md) — Wired writer explaining the business, governance, national, community, and creative dimensions of domain registries.
+- [dotMeow Foundation](entities/DotMeowFoundation.md) — Belgian nonprofit applying to operate `.meow` as queer community identity and funding infrastructure.
 - [赵玉顺 / Zhao Yushun](entities/ZhaoYushun.md) — 从机构新闻受挫转向独立乡村影像与长期农民记录的玉真记事共同创作者。
 - [袁征征 / Yuan Zhengzheng](entities/YuanZhengzheng.md) — 从短视频与电视剪辑转向乡村田野记录的玉真记事共同创作者。
 - [玉真记事 / Yuzhen Jishi](entities/YuzhenJishi.md) — 关注村镇生活、农业风险、老人与儿童并面向未来保存普通人证词的独立影像项目。
@@ -20319,6 +20323,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Canon Press](entities/CanonPress.md) — For-profit publisher and media engine distributing Doug Wilson's religious and political worldview.
 
 ## Concepts
+- [Top-Level Domain Registry Economics](concepts/TopLevelDomainRegistryEconomics.md) — Application, auction, operation, adoption, and legal-risk framework for controlling an internet extension.
+- [Country-Code Domain Monetization](concepts/CountryCodeDomainMonetization.md) — Process by which semantic demand turns a geographic internet code into material public revenue.
+- [Branded Top-Level Domains](concepts/BrandedTopLevelDomains.md) — Proprietary internet extensions used for controlled identity, structured portals, marketing, or defensive brand ownership.
 - [Rural Documentary As Historical Archive / 乡村影像作为历史档案](concepts/RuralDocumentaryAsHistoricalArchive.md) — 以重复回访和普通人证词兼顾当下传播与未来历史证据的乡村纪录方法。
 - [Urban-Rural Transition Generation / 城乡过渡一代](concepts/UrbanRuralTransitionGeneration.md) — 教育、务工、照护与养老跨越城乡却未被任一系统稳定吸纳的人群经验。
 - [Smallholder Market And Climate Risk / 小农的市场与气候风险](concepts/SmallholderMarketAndClimateRisk.md) — 小农同时承受价格波动、易腐时限、扩种周期、弱议价与自然灾害的复合风险。

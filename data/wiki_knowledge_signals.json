@@ -11950,9 +11950,9 @@
       "url": "/wiki/concepts/agentgoaldriftdetection/"
     },
     "AgentIdentityGovernance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
@@ -11960,9 +11960,16 @@
           "show": "Tomorrow, Today",
           "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        },
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-01",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/agentidentitygovernance/"
     },
     "AgentMarketplace": {
@@ -39972,6 +39979,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/brandedproducedifferentiation/"
+    },
+    "BrandedTopLevelDomains": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/brandedtopleveldomains/"
     },
     "BrandmauerCordonSanitaire": {
       "episode_count": 3,
@@ -70835,6 +70858,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/countessmariefestetics/"
     },
+    "CountryCodeDomainMonetization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/countrycodedomainmonetization/"
+    },
     "CountyHotelChainExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -89726,6 +89765,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/dostmuhammad/"
+    },
+    "DotMeowFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/dotmeowfoundation/"
     },
     "DotsPersonalAgent": {
       "episode_count": 1,
@@ -158891,6 +158946,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/ibmdatastage/"
+    },
+    "ICANN": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/icann/"
     },
     "ICEYE": {
       "episode_count": 1,
@@ -252934,6 +253005,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/petelau/"
     },
+    "PeteMillspaugh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/petemillspaugh/"
+    },
     "PeteNitzsche": {
       "episode_count": 1,
       "show_count": 1,
@@ -328025,6 +328112,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/topdownexemplargovernance/"
+    },
+    "TopLevelDomainRegistryEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261119_1119_MP_TECH_pod_128 [tech_20261119_1119_MP_TECH_pod_128].md",
+          "key": "tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The internet’s next big domain expansion is underway",
+          "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/topleveldomainregistryeconomics/"
     },
     "TopeAwotona": {
       "episode_count": 1,

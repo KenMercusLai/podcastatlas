@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3905
+topic_total_pages: 3907
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6965,6 +6965,9 @@ topic_entities:
   - key: "IBM"
     title: "IBM"
     url: "/wiki/entities/ibm/"
+  - key: "ICANN"
+    title: "ICANN"
+    url: "/wiki/entities/icann/"
   - key: "IDC"
     title: "IDC"
     url: "/wiki/entities/idc/"
@@ -8036,6 +8039,9 @@ topic_entities:
   - key: "Peloton"
     title: "Peloton"
     url: "/wiki/entities/peloton/"
+  - key: "PeteMillspaugh"
+    title: "Pete Millspaugh"
+    url: "/wiki/entities/petemillspaugh/"
   - key: "PeterCreo"
     title: "Peter (Creo)"
     url: "/wiki/entities/petercreo/"

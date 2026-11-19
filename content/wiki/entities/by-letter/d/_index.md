@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14826
+wiki_total_pages: 14829
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1112,6 +1112,9 @@ wiki_pages:
   - key: "DostMuhammad"
     title: "Dost Muhammad"
     url: "/wiki/entities/dostmuhammad/"
+  - key: "DotMeowFoundation"
+    title: "dotMeow Foundation"
+    url: "/wiki/entities/dotmeowfoundation/"
   - key: "DotsPersonalAgent"
     title: "Dots Personal Agent"
     url: "/wiki/entities/dotspersonalagent/"

@@ -50564,6 +50564,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ICANN": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ICEYE": [
     {
       "key": "politics",
@@ -73784,6 +73791,13 @@
     }
   ],
   "PeteLau": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PeteMillspaugh": [
     {
       "key": "technology",
       "label": "Technology",
