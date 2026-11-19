@@ -4,43 +4,48 @@ type: concept
 tags: [ai-for-science, protein-design, active-learning, wet-lab-validation]
 sources:
   - defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666
-last_updated: 2026-11-04
+  - 26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5
+last_updated: 2026-11-19
 knowledge_schema: synthesis-v1
 ---
 
 # Experiment-Grounded Protein Model Loop
 
 ## Definition
-An experiment-grounded protein model loop repeatedly proposes protein or enzyme changes, tests them in the wet lab, and returns measured successes and failures to later model training and design.
+An experiment-grounded protein model loop repeatedly proposes protein changes or structures, tests them in the wet lab, and returns measured successes and failures to later model training and design.
 
 ## Current Synthesis
-The concept's value lies less in prediction alone than in the speed and information quality of the closed loop. In the bounded [[Exozyme]] account, [[ProteinLanguageModels]] propose sequence changes, a cell-free system tests them, correct predictions become reusable design building blocks, and confidently wrong predictions expose model blind spots.
+The bounded sources agree that the loop's value lies less in prediction alone than in feedback speed and information quality. In the [[Exozyme]] account, [[ProteinLanguageModels]] propose sequence changes, a cell-free system tests them, correct predictions become reusable building blocks, and confidently wrong predictions expose model blind spots.
 
-This makes experimental infrastructure a data advantage: a team that can cheaply generate relevant negative as well as positive results can improve a specialized model with evidence unavailable in public datasets. The claim remains contingent on assay quality, reproducibility, selection strategy, and whether feedback actually improves out-of-sample designs.
+The latest source broadens the loop from sequence engineering to structure-based drug design. [[GuQuanquan|顾全全]] treats GPU infrastructure and an internally operated laboratory as dual foundations: assays measure binding, toxicity, synthesizability, and specificity, and those results may later become reinforcement-learning rewards. Experimental infrastructure can therefore be a data advantage, but only if assays are reproducible, selection is informative, negative results are retained, and feedback improves out-of-sample designs.
 
 ## Key Claims
 - Protein-model predictions remain hypotheses until experimentally tested.
-- Rapid, lower-cost assays can shorten the cycle between sequence proposal and measured function.
-- Correct predictions can become reusable components for later design.
-- High-confidence failures can be especially informative because they reveal systematic model error.
-- Proprietary experimental data can create an advantage only if measurements are relevant, reliable, and fed back effectively.
+- Faster, lower-cost assays shorten the cycle between proposal and measured function.
+- Correct results can become reusable design evidence, while high-confidence failures expose systematic model error.
+- Internally operated laboratories can reduce iteration latency and dependence on external partners.
+- Binding, toxicity, synthesizability, and specificity measurements can become training feedback rather than only go/no-go tests.
+- Proprietary experimental data create an advantage only when measurements are reliable, relevant, and demonstrably improve later designs.
 
 ## Evidence
-- Proposal and testing - [[defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666]] describes sequence-change prediction followed by cell-free experimental validation.
-- Learning from error - [[defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666]] explicitly treats high-confidence wrong predictions as valuable model-correction data.
-- Data advantage - [[defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666]] argues that internally generated measurements can support a specialized model in ways unavailable to outside teams.
+- Sequence proposal and correction: [[defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666]] describes sequence-change prediction, cell-free validation, reusable successes, and high-confidence failures as correction data.
+- Structural design extension: [[26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5]] places the loop around three-dimensional candidate structures and target binding rather than sequence changes alone.
+- Dual infrastructure: [[26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5]] argues that GPU capacity and wet-lab capacity must be built together for rapid iteration.
+- Training-signal claim: [[26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5]] identifies measured binding, toxicity, synthesis, and specificity as potential reward signals for later training.
 
 ## Counterevidence & Qualifications
-The source supplies no model architecture, benchmark, assay protocol, hit rate, ablation, learning curve, or independent comparison. A feedback loop can also amplify assay artifacts or narrow selection bias. The autonomous-driving analogy in the episode illustrates error learning but does not establish technical equivalence.
+Neither source supplies a complete model architecture, assay protocol, learning curve, ablation, or independent proof that feedback improves out-of-sample design. A fast loop can amplify assay artifacts, narrow selection bias, reward hacking, or an incomplete biological objective. Owning a lab may improve speed and control while also adding capital, biosafety, quality-system, and organizational risk.
 
 ## What Changed
-- Created the concept around measured feedback rather than model generation alone.
-- Added high-confidence failures as a distinct information source.
-- Qualified proprietary data advantage by assay reliability and out-of-sample improvement.
+- Extended the loop from sequence engineering to three-dimensional structure design.
+- Added self-operated laboratory capacity as an iteration-speed thesis.
+- Added assay outcomes as possible reinforcement-learning rewards.
 
 ## Related Concepts
-- [[ProteinLanguageModels]] - model family proposing protein or enzyme sequence changes.
-- [[AIScienceActiveLearning]] - neighboring strategy for choosing experiments that reduce uncertainty.
+- [[ProteinLanguageModels]] - sequence-model family proposing protein or enzyme changes.
+- [[AIProteinDesign]] - broader design field now connected to structural experimental feedback.
+- [[ScalingProteinDesign]] - scaling strategy that depends on a measured correction loop.
+- [[AIScienceActiveLearning]] - neighboring strategy for selecting informative experiments.
 - [[ExperimentalScienceDataQuality]] - measurement-quality constraint on useful feedback.
-- [[CellFreeEnzymeEngineering]] - experimental architecture described as accelerating the loop.
-- [[AIVerification]] - broader requirement that generated outputs pass external checks.
+- [[CellFreeEnzymeEngineering]] - experimental architecture in the Exozyme source.
+- [[AIClinicalValidationInDrugDiscovery]] - later evidence boundary that laboratory feedback does not replace.

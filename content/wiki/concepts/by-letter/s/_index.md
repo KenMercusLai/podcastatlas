@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11755
+wiki_total_pages: 11757
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "ScalingEfficiency"
     title: "Scaling Efficiency"
     url: "/wiki/concepts/scalingefficiency/"
+  - key: "ScalingProteinDesign"
+    title: "Scaling Protein Design / 蛋白质设计规模化"
+    url: "/wiki/concepts/scalingproteindesign/"
   - key: "ScamCompoundPoliticalProtection"
     title: "Scam Compound Political Protection"
     url: "/wiki/concepts/scamcompoundpoliticalprotection/"

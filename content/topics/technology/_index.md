@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3899
+topic_total_pages: 3901
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4174,6 +4174,9 @@ topic_concepts:
   - key: "PreservationTechnicalEnvironment"
     title: "Preservation Technical Environment"
     url: "/wiki/concepts/preservationtechnicalenvironment/"
+  - key: "PretrainingReliabilityEngineering"
+    title: "Pretraining Reliability Engineering / 预训练可靠性工程"
+    url: "/wiki/concepts/pretrainingreliabilityengineering/"
   - key: "PrimeBorrowerCreditRisk"
     title: "Prime Borrower Credit Risk"
     url: "/wiki/concepts/primeborrowercreditrisk/"
@@ -6797,6 +6800,9 @@ topic_entities:
   - key: "GSI"
     title: "GSI"
     url: "/wiki/entities/gsi/"
+  - key: "GuQuanquan"
+    title: "Gu Quanquan / 顾全全"
+    url: "/wiki/entities/guquanquan/"
   - key: "GuYu"
     title: "Gu Yu / 谷雨"
     url: "/wiki/entities/guyu/"

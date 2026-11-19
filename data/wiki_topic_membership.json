@@ -45578,6 +45578,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GuQuanquan": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GuYongWesternHan": [
     {
       "key": "history",
@@ -76438,6 +76445,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PretrainingReliabilityEngineering": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Prevagen": [

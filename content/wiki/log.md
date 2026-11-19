@@ -43397,3 +43397,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-19] ingest | 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
+
+Added source `26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5`; created [[GuQuanquan|顾全全]], [[ScalingProteinDesign|蛋白质设计规模化]], and [[PretrainingReliabilityEngineering|预训练可靠性工程]]; resynthesized [[AIProteinDesign]], [[ExperimentGroundedProteinModelLoop]], and [[ProteinLanguageModels]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: transferring scaling into protein drug design requires coordinated model, structure-data, compute, normalized-evaluation, and wet-lab growth rather than parameter count alone; sequence and three-dimensional structure models remain complementary; and frontier pretraining reliability joins numerical stability, downstream learning, cross-team review, and explicit decision authority. No settled contradiction was adopted. Model performance, data volumes, budgets, market comparisons, and launch timing remain guest-reported or source-scoped because the supplied file is a structured summary without model cards, benchmark tables, assay records, or independent replication.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,257 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

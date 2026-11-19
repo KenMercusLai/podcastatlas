@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11755
+wiki_total_pages: 11757
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2168,6 +2168,9 @@ wiki_pages:
   - key: "PrestigeConstrainedPoliticalProsecution"
     title: "Prestige-Constrained Political Prosecution / 名望约束下的政治追诉"
     url: "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
+  - key: "PretrainingReliabilityEngineering"
+    title: "Pretraining Reliability Engineering / 预训练可靠性工程"
+    url: "/wiki/concepts/pretrainingreliabilityengineering/"
   - key: "PreventiveCareCostSavingsUncertainty"
     title: "Preventive Care Cost-Savings Uncertainty / 预防医疗控费不确定性"
     url: "/wiki/concepts/preventivecarecostsavingsuncertainty/"

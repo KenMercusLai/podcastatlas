@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14817
+wiki_total_pages: 14818
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "GTSquared"
     title: "GT Squared"
     url: "/wiki/entities/gtsquared/"
+  - key: "GuQuanquan"
+    title: "Gu Quanquan / 顾全全"
+    url: "/wiki/entities/guquanquan/"
   - key: "GuYu"
     title: "Gu Yu / 谷雨"
     url: "/wiki/entities/guyu/"

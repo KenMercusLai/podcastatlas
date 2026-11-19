@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.md) — 晚点聊访谈顾全全，以字节蛋白质模型与豆包预训练经验连接结构设计Scaling、采样预算归一化、湿实验反馈和预训练可靠性工程。
 - [《资治通鉴·汉纪》1169丨2026该怎么守住自身的福气？](sources/zizhi-tongjian-hanji-1169-2026-gai-zenme-shou-zhu-zishen-de-fuqi-lu-3dpvj0nbqhise2aqx-a3zi3kp.md) — 芮淇讲透资治通鉴以樊城战局连接单一主将、分阶段救援、战略性披露、后方领导与沉没成本判断，并限定火年灾害叙事的因果边界。
 - [《资治通鉴·汉纪》1170丨做事存侥幸，真的会万劫不复吗？](sources/zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebufu-ma-lkju2wdbb-v20gf2vikkr_aibjnx.md) — 徐晃以声东击西解除樊城陆围，吕蒙沿江隐蔽夺取江陵，并以军纪和安抚稳住关羽后方。
 - [当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36](sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec.md) — What's Next interview with 边疆 on RDAgent, AI-for-AI research loops, gradual RSI, human research judgment, compute, and vertical startup boundaries.
@@ -5386,6 +5387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意](sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5.md) — 声动早咖啡商业新闻速览，连接英伟达接班、限次机票卡、AI合成肖像权与冷冻烘焙供应链。
 
 ## Entities
+- [Gu Quanquan / 顾全全](entities/GuQuanquan.md) — 前字节AI制药与豆包预训练研究负责人，将大模型Scaling与蛋白质结构设计、实验闭环相连接。
 - [孙皎 / Sun Jiao (late Han)](entities/SunJiaoLateHan.md) — 东吴将领，在孙权调整伐关羽统帅结构后由并列主帅候选转为吕蒙的辅助将领。
 - [糜芳 / Mi Fang (late Han)](entities/MiFangLateHan.md) — 江陵守将，其补给压力、受辱积怨、惧罚与军事孤立在219年共同导向开城投降。
 - [傅士仁 / Fu Shiren (late Han)](entities/FuShirenLateHan.md) — 关羽后方将领，受虞翻书信劝降后又被吕蒙用于向江陵施压。
@@ -20302,6 +20304,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhao Liying / 赵丽颖](entities/ZhaoLiying.md) — Chinese actor whose reported lawsuit tests portrait identification and consent for AI-synthesized faces.
 
 ## Concepts
+- [Scaling Protein Design / 蛋白质设计规模化](concepts/ScalingProteinDesign.md) — 以模型、结构数据、算力、归一化评测与湿实验反馈共同扩大蛋白质设计能力的路线。
+- [Pretraining Reliability Engineering / 预训练可靠性工程](concepts/PretrainingReliabilityEngineering.md) — 将数值稳定、下游能力、跨团队复核和训练决策权结合起来的大模型预训练纪律。
 - [单一主将式权责统一 / Single-Commander Accountability](concepts/SingleCommanderAccountability.md) — 以一人承担最终行动权责、其他资深参与者保留明确辅助权限的指挥设计。
 - [战略性信息披露 / Strategic Information Disclosure](concepts/StrategicInformationDisclosure.md) — 为改变不同受众的士气、准备或行动而有选择地释放真实或可信信息。
 - [Great-Power Summit Optics](concepts/GreatPowerSummitOptics.md) — Framework separating the legitimacy value of leader-level imagery from substantive diplomatic concessions.

@@ -5778,9 +5778,9 @@
       "url": "/wiki/concepts/aiprofitabilityuncertainty/"
     },
     "AIProteinDesign": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：＂如果神存在，我怎能容忍自己不是神？＂【公路播客】 [lhcEYiP6DQoMRwk38uVqJWOoMxyZ].md",
@@ -5795,9 +5795,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
+        },
+        {
+          "episode_file": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5 [26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5].md",
+          "key": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5",
+          "show": "晚点聊 LateTalk",
+          "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
+          "url": "/wiki/sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/aiproteindesign/"
     },
     "AIPsychosis": {
@@ -108287,9 +108294,9 @@
       "url": "/wiki/concepts/experientialstatistics/"
     },
     "ExperimentGroundedProteinModelLoop": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
@@ -108297,9 +108304,16 @@
           "show": "Tomorrow, Today",
           "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        },
+        {
+          "episode_file": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5 [26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5].md",
+          "key": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5",
+          "show": "晚点聊 LateTalk",
+          "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
+          "url": "/wiki/sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/experimentgroundedproteinmodelloop/"
     },
     "ExperimentalLifeDesign": {
@@ -136426,6 +136440,22 @@
       ],
       "updated": "2026-10-14",
       "url": "/wiki/entities/gulong/"
+    },
+    "GuQuanquan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5 [26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5].md",
+          "key": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5",
+          "show": "晚点聊 LateTalk",
+          "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
+          "url": "/wiki/sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/entities/guquanquan/"
     },
     "GuYongWesternHan": {
       "episode_count": 9,
@@ -262309,6 +262339,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/prestigesupplychaincostexternalization/"
     },
+    "PretrainingReliabilityEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5 [26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5].md",
+          "key": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5",
+          "show": "晚点聊 LateTalk",
+          "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
+          "url": "/wiki/sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/pretrainingreliabilityengineering/"
+    },
     "PreventProgramme": {
       "episode_count": 1,
       "show_count": 1,
@@ -265159,9 +265205,9 @@
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
@@ -265176,9 +265222,16 @@
           "show": "Tomorrow, Today",
           "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        },
+        {
+          "episode_file": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5 [26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5].md",
+          "key": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5",
+          "show": "晚点聊 LateTalk",
+          "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
+          "url": "/wiki/sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-19",
       "url": "/wiki/concepts/proteinlanguagemodels/"
     },
     "ProteinSourceGoalMatching": {
@@ -288626,6 +288679,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/scalingefficiency/"
+    },
+    "ScalingProteinDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5 [26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5].md",
+          "key": "26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5",
+          "show": "晚点聊 LateTalk",
+          "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
+          "url": "/wiki/sources/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5-26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5/"
+        }
+      ],
+      "updated": "2026-11-19",
+      "url": "/wiki/concepts/scalingproteindesign/"
     },
     "ScamCompoundPoliticalProtection": {
       "episode_count": 2,
