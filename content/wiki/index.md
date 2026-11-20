@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [黃仁勳時代終結，輝達與AI產業將走向何方？](sources/abd978a90cd81baa18b6159f3520bdfb.md) — 端聞 connects Nvidia's founder succession to CUDA, Taiwan suppliers, sovereign AI, export controls, and ecosystem-financing risk.
 - [The internet’s next big domain expansion is underway](sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128.md) — Marketplace Tech on ICANN's new-domain round, registry economics, country-code windfalls, `.agent`, branded extensions, and the community-backed `.meow` proposal.
 - [#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目](sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f.md) — 声东击西对话玉真记事，以媒体职业受挫、城乡迁移、农村养老与教育、茉莉花风险和农地规模化讨论如何记录正在消失的传统农民时代。
 - [Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/essentials-nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim1478506107.md) — Condensed Huberman Lab episode on nicotine receptors, delivery-speed reinforcement, route-specific harms, withdrawal, and clinically bounded cessation support.

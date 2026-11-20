@@ -43535,3 +43535,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-20] ingest | 黃仁勳時代終結，輝達與AI產業將走向何方？
+
+Added a [[Duanwen|端聞]] episode connecting [[JensenHuang|Jensen Huang]]'s episode-reported resignation to [[Nvidia]]'s founder-concentrated management, [[CUDA]], Taiwan supplier relationships, sovereign AI, export policy, and ecosystem finance. Updated [[ColetteKress|Colette Kress]] and [[FounderLedPlatformSuccessionRisk]] from their complete preserved source inventories before appending the new source once.
+
+Core synthesis: the reported contrast between Huang's aggressive investment and guarantee strategy and Kress's more cautious risk posture makes succession a capital-allocation test as well as a product-leadership problem. Greater discipline could reduce Nvidia's contingent exposure while transmitting stress to clouds, data centers, and suppliers that relied on founder-backed commitments.
+
+No settled contradiction was adopted. The source reinforces recent succession coverage, and its personal-conduct, intelligence, chip-diversion, legal, market, and successor claims remain episode-attributed. Megaspeed's denial and the absence of evidence establishing Huang's export-control violations are preserved. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,267 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

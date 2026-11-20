@@ -63283,9 +63283,9 @@
       "url": "/wiki/entities/colemanruiz/"
     },
     "ColetteKress": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
@@ -63307,9 +63307,16 @@
           "show": "Economist Podcasts",
           "title": "Transchipment: Huang and the AI aftershocks",
           "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        },
+        {
+          "episode_file": "abd978a90cd81baa18b6159f3520bdfb [abd978a90cd81baa18b6159f3520bdfb.mp3？aid=6b00018c73381802b4cfd177&chid=66b07190af99592.281].md",
+          "key": "abd978a90cd81baa18b6159f3520bdfb",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "黃仁勳時代終結，輝達與AI產業將走向何方？",
+          "url": "/wiki/sources/abd978a90cd81baa18b6159f3520bdfb/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/colettekress/"
     },
     "ColinCampbellBritishArmy": {
@@ -119905,9 +119912,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -119936,9 +119943,16 @@
           "show": "声动早咖啡",
           "title": "英伟达董事会回绝黄仁勋复职，冷冻食品企业加码烘焙生意",
           "url": "/wiki/sources/gkwrijeo00usafzzawt9tvi5-gkwrijeo00usafzzawt9tvi5/"
+        },
+        {
+          "episode_file": "abd978a90cd81baa18b6159f3520bdfb [abd978a90cd81baa18b6159f3520bdfb.mp3？aid=6b00018c73381802b4cfd177&chid=66b07190af99592.281].md",
+          "key": "abd978a90cd81baa18b6159f3520bdfb",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "黃仁勳時代終結，輝達與AI產業將走向何方？",
+          "url": "/wiki/sources/abd978a90cd81baa18b6159f3520bdfb/"
         }
       ],
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {

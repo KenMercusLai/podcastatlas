@@ -13,20 +13,20 @@ outputs: ["html"]
 - Overview: 1
 - Concepts: 11773
 - Entities: 14833
-- Sources: 5266
-- Total wiki content pages: 31873
+- Sources: 5267
+- Total wiki content pages: 31874
 
 ## Links
-- Wiki link references: 711376
-- Unique wiki link targets: 31916
-- Missing targets: 57
+- Wiki link references: 711415
+- Unique wiki link targets: 31918
+- Missing targets: 58
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5266
-- Matched episodes: 5266
+- Source pages: 5267
+- Matched episodes: 5267
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -77,6 +77,9 @@ outputs: ["html"]
   - `content/wiki/concepts/LGBTQTelevisionNormalization.md`
 - `[[DigitalAttentionFragmentation]]`
   - `content/wiki/concepts/CinemaAudienceBehavioralContract.md`
+- `[[Duanwen]]`
+  - `content/wiki/log.md`
+  - `content/wiki/sources/abd978a90cd81baa18b6159f3520bdfb.md`
 - `[[Emergence]]`
   - `content/wiki/concepts/FungalNetworkIntelligenceBoundary.md`
 - `[[EmpathyAsRegulatedCapacity]]`
