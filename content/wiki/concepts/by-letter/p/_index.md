@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11778
+wiki_total_pages: 11781
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2345,6 +2345,9 @@ wiki_pages:
   - key: "PrivilegeReformLegitimacyTrap"
     title: "Privilege Reform Legitimacy Trap"
     url: "/wiki/concepts/privilegereformlegitimacytrap/"
+  - key: "PrizeLawWarThreshold"
+    title: "Prize-Law War Threshold"
+    url: "/wiki/concepts/prizelawwarthreshold/"
   - key: "ProContractorRetailStrategy"
     title: "Pro Contractor Retail Strategy"
     url: "/wiki/concepts/procontractorretailstrategy/"

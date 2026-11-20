@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11778
+wiki_total_pages: 11781
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "SeizedDigitalAssetCustody"
     title: "Seized Digital Asset Custody"
     url: "/wiki/concepts/seizeddigitalassetcustody/"
+  - key: "SeizedVesselForfeitureDueProcess"
+    title: "Seized-Vessel Forfeiture Due Process"
+    url: "/wiki/concepts/seizedvesselforfeituredueprocess/"
   - key: "SeizureFirstAidBoundary"
     title: "Seizure First-Aid Boundary / 抽搐急救边界"
     url: "/wiki/concepts/seizurefirstaidboundary/"

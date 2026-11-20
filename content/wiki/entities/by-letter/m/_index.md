@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14839
+wiki_total_pages: 14842
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "Majestic12Documents"
     title: "Majestic 12 Documents / MJ-12文件"
     url: "/wiki/entities/majestic12documents/"
+  - key: "MajesticX"
+    title: "Majestic X"
+    url: "/wiki/entities/majesticx/"
   - key: "MajorLeagueBaseball"
     title: "Major League Baseball"
     url: "/wiki/entities/majorleaguebaseball/"

@@ -210815,6 +210815,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/majesticapartmentsshanghai/"
     },
+    "MajesticX": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/entities/majesticx/"
+    },
     "MajorDepressionMultisystemModel": {
       "episode_count": 2,
       "show_count": 1,
@@ -213712,6 +213728,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/maritimeemergencyevacuation/"
+    },
+    "MaritimePrizeLaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/concepts/maritimeprizelaw/"
     },
     "MaritimeSafetyCultureBeforeTitanic": {
       "episode_count": 1,
@@ -232577,6 +232609,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/nathanbedfordforrest/"
+    },
+    "NathanPerlRosenthal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/entities/nathanperlrosenthal/"
     },
     "NathanielFitzRandolph": {
       "episode_count": 1,
@@ -255959,6 +256007,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/pinkparadox/"
     },
+    "PiracyPrivateeringBoundary": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/concepts/piracyprivateeringboundary/"
+    },
     "PishanKingdomWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -264636,6 +264707,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/privilegereformlegitimacytrap/"
     },
+    "PrizeLawWarThreshold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/concepts/prizelawwarthreshold/"
+    },
     "ProContractorRetailStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -272259,6 +272346,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/randomizedcontrolledtrials/"
+    },
+    "RandyCrane": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/entities/randycrane/"
     },
     "RandyFrost": {
       "episode_count": 1,
@@ -292437,6 +292540,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/entities/seinfeldtvseries/"
+    },
+    "SeizedVesselForfeitureDueProcess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318 [default.mp3_ywr3ahjkcgo_d94256e09d5ac8ce0f836a06ea427926_26299318].md",
+          "key": "default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318",
+          "show": "Planet Money",
+          "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318/"
+        }
+      ],
+      "updated": "2026-11-21",
+      "url": "/wiki/concepts/seizedvesselforfeituredueprocess/"
     },
     "SeizureFirstAidBoundary": {
       "episode_count": 3,

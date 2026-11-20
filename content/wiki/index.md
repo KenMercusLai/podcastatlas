@@ -5401,6 +5401,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage](sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage.md) — Data Science With Sam interview with Ben Wilcox on agent identity, MCP capability drift, fragmented shadow AI, layered controls, and security as an enabler of speed.
 - [The Next World Order: Astrology, History and the Future](sources/default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190.md) — Tomorrow Today interview with Abhigyan Anand on Jyotisha forecasting, institutional trust, food resilience, algorithmic sovereignty, delayed gratification, and evidence limits.
 
+- [You Can Seize Everything (The U.S. is reviving pirate law)](sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318.md) — Planet Money on modern prize-court planning, seized-tanker custody costs, forfeiture due process, and the unresolved statutory meaning of war.
+
 ## Entities
 - [Ed Glaeser](entities/EdGlaeser.md) — Housing economist using price, production cost, regulation, and construction volume to diagnose supply constraints.
 - [Kirk Watson](entities/KirkWatson.md) — Austin mayor connecting permitting and land-use reform to affordability, generational access, and family formation.
@@ -20340,6 +20342,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ben Wilcox](entities/BenWilcox.md) — ProArch CTO and CISO connecting enterprise AI speed to identity, least privilege, MCP scope, and deterministic workflow controls.
 - [Abhigyan Anand](entities/AbhigyanAnand.md) — Indian Jyotisha practitioner connecting historical forecasting, institutions, food, algorithms, and attention while remaining bounded by an incomplete prediction record.
 
+- [Majestic X](entities/MajesticX.md) — Seized oil tanker illustrating the conflict between extraordinary custody costs and notice, ownership, victim, and jury claims.
+- [Nathan Perl-Rosenthal](entities/NathanPerlRosenthal.md) — Maritime historian explaining why privateering's commercial incentives often favored intimidation over destructive combat.
+- [Randy Crane](entities/RandyCrane.md) — Chief federal judge whose Southern District of Texas team drafted modern prize-proceeding rules without deciding the war threshold.
+
 ## Concepts
 - [Zoning Tax](concepts/ZoningTax.md) — Price-production-cost gap used to identify regulatory scarcity in housing markets.
 - [Family-Sized Housing Supply](concepts/FamilySizedHousingSupply.md) — Housing supply measured through bedroom mix, affordability, stability, and suitability for households seeking children.
@@ -32234,5 +32240,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jyotisha Historical Forecasting](concepts/JyotishaHistoricalForecasting.md) — Source-scoped combination of planetary configurations, timing systems, geographic mapping, and historical analogy for collective forecasts.
 - [Algorithmic Sovereignty](concepts/AlgorithmicSovereignty.md) — Public capacity to govern systems that rank information, allocate attention, shape beliefs, and mediate collective action.
 - [Delayed Gratification Capacity](concepts/DelayedGratificationCapacity.md) — Individual and institutional ability to bear present cost for credible longer-term outcomes under trustworthy conditions.
+
+- [Maritime Prize Law](concepts/MaritimePrizeLaw.md) — Wartime adjudication of captured ships and cargo, now being reconstructed for possible modern naval use.
+- [Prize-Law War Threshold](concepts/PrizeLawWarThreshold.md) — Unresolved question whether armed but undeclared conflict supplies the legally sufficient war needed for prize jurisdiction.
+- [Seized-Vessel Forfeiture Due Process](concepts/SeizedVesselForfeitureDueProcess.md) — Tradeoff between rapid disposition and meaningful notice and claims for expensive captured maritime property.
 
 ## Syntheses

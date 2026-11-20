@@ -43605,3 +43605,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-21] ingest | You Can Seize Everything (The U.S. is reviving pirate law)
+
+Added a [[PlanetMoney]] episode on the attempted reconstruction of [[MaritimePrizeLaw|maritime prize law]] for oil tankers seized in operations involving [[Iran]] and [[Venezuela]]. Created synthesis-first profiles for [[NathanPerlRosenthal]], Chief Judge [[RandyCrane]], and the [[MajesticX|Majestic X]], plus [[MaritimePrizeLaw]], [[SeizedVesselForfeitureDueProcess]], and [[PrizeLawWarThreshold]]. Resynthesized [[PiracyPrivateeringBoundary]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: the Majestic X's episode-reported $42 million in roughly six weeks of custody, maintenance, and repairs against a vessel value below $3 million gives officials a powerful reason to seek faster disposition. Prize procedure could allow earlier oil sales, but physical capture does not itself establish lawful prize, claimant protections remain consequential, and the statute's “war” threshold is unresolved where Congress has not formally declared war.
+
+No settled contradiction was adopted. The source distinguishes prize-court revival for regular naval forces from renewed privateering, and it leaves ownership, valuation, costs, claimant rights, speed, violence, jurisdiction, and the legal meaning of war source-scoped or untested. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,272 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

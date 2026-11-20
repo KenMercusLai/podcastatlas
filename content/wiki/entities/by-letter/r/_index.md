@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14839
+wiki_total_pages: 14842
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "RANDCorporation"
     title: "RAND Corporation"
     url: "/wiki/entities/randcorporation/"
+  - key: "RandyCrane"
+    title: "Randy Crane"
+    url: "/wiki/entities/randycrane/"
   - key: "RandyFrost"
     title: "Randy Frost"
     url: "/wiki/entities/randyfrost/"
