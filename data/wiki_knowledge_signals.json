@@ -94440,6 +94440,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/ecuador/"
     },
+    "EdGlaeser": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/edglaeser/"
+    },
     "EdKoch": {
       "episode_count": 1,
       "show_count": 1,
@@ -111221,6 +111237,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/familyseparationthroughparentalincarceration/"
     },
+    "FamilySizedHousingSupply": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/familysizedhousingsupply/"
+    },
     "FamilyWarmthGenderInequalityCoexistence": {
       "episode_count": 1,
       "show_count": 1,
@@ -115396,9 +115428,9 @@
       "url": "/wiki/concepts/fertilityenergyavailability/"
     },
     "FertilityGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
@@ -115406,9 +115438,16 @@
           "show": "Freakonomics Radio",
           "title": "695. Can the U.S. Close Its Fertility Gap?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/fertilitygap/"
     },
     "FertilitySubsidyLimits": {
@@ -122126,9 +122165,9 @@
       "url": "/wiki/concepts/fraternitypartysexualviolencerisk/"
     },
     "FreakonomicsRadio": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
@@ -122136,9 +122175,16 @@
           "show": "Freakonomics Radio",
           "title": "695. Can the U.S. Close Its Fertility Gap?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/freakonomicsradio/"
     },
     "FredJordan": {
@@ -153807,9 +153853,9 @@
       "url": "/wiki/concepts/householdwaterqualityfiltration/"
     },
     "HousingAccessFamilyFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
@@ -153817,9 +153863,16 @@
           "show": "Freakonomics Radio",
           "title": "695. Can the U.S. Close Its Fertility Gap?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/housingaccessfamilyformation/"
     },
     "HousingLeverageRisk": {
@@ -182649,9 +182702,9 @@
       "url": "/wiki/entities/kathrynpaigeharden/"
     },
     "KathyHochul": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "A Keir-death experience： Britain's PM clings on [698b0dc3337b2a3b2ef0aa07].md",
@@ -182673,9 +182726,16 @@
           "show": "Economist Podcasts",
           "title": "Gilets jeunes? France’s school protests",
           "url": "/wiki/sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/kathyhochul/"
     },
     "KatjaHoyer": {
@@ -184319,6 +184379,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/kirkofieldmurder/"
+    },
+    "KirkWatson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/kirkwatson/"
     },
     "KirklandEllis": {
       "episode_count": 1,
@@ -208198,9 +208274,9 @@
       "url": "/wiki/entities/lythuongkiet/"
     },
     "LymanStone": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
@@ -208208,9 +208284,16 @@
           "show": "Freakonomics Radio",
           "title": "695. Can the U.S. Close Its Fertility Gap?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/lymanstone/"
     },
     "LymphaticFlowSupport": {
@@ -218543,9 +218626,9 @@
       "url": "/wiki/entities/melissailardo/"
     },
     "MelissaKearney": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
@@ -218553,9 +218636,16 @@
           "show": "Freakonomics Radio",
           "title": "695. Can the U.S. Close Its Fertility Gap?",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813-default-mp3-ywr3ahjkcgo-58f17fc3725ef3102277ae962324f7dd-59875813/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/melissakearney/"
     },
     "MelissaSheldrup": {
@@ -372979,6 +373069,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/zongziqinglatehan/"
+    },
+    "ZoningTax": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
+          "key": "default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169",
+          "show": "Freakonomics Radio",
+          "title": "696. Build, Baby, Build!",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/zoningtax/"
     },
     "Zootopia2Film": {
       "episode_count": 3,

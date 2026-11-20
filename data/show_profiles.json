@@ -501,10 +501,25 @@
       "earliest_episode_date": "2026-11-13",
       "latest_episode_date": "2026-11-20",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
-      "source_note_count": 1,
+      "source_note_count": 2,
       "topic_matched_source_note_count": 0,
       "topics": [],
-      "entities": [],
+      "entities": [
+        {
+          "key": "LymanStone",
+          "title": "Lyman Stone",
+          "url": "/wiki/entities/lymanstone/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "MelissaKearney",
+          "title": "Melissa Kearney",
+          "url": "/wiki/entities/melissakearney/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
       "start_here_episode_files": [
         "default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169 [default.mp3_ywr3ahjkcgo_dde046734f50fc7c6a18ae9c19ada137_55355169].md",
         "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md"

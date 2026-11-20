@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14837
+wiki_total_pages: 14839
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "KirkTanner"
     title: "Kirk Tanner"
     url: "/wiki/entities/kirktanner/"
+  - key: "KirkWatson"
+    title: "Kirk Watson"
+    url: "/wiki/entities/kirkwatson/"
   - key: "KirklandEllis"
     title: "Kirkland Ellis"
     url: "/wiki/entities/kirklandellis/"

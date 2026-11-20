@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [696. Build, Baby, Build!](sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169.md) — Freakonomics Radio on housing affordability, zoning and permitting, family-sized homes, and housing as a qualified fertility-policy lever.
 - [总第076期：人民的数据中心](sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl.md) — 读报teleread把数据中心从抽象AI基础设施还原为涉及噪音、水电、就业、税收、地方同意与选举选择的分配问题。
 - [Delayed but not denied: justice for the Rohingyas](sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281.md) — Economist Podcasts on the Rohingya genocide judgment, AI-scaled cyberattacks, and Vladimir Uglev's Novichok legacy.
 - [黃仁勳時代終結，輝達與AI產業將走向何方？](sources/abd978a90cd81baa18b6159f3520bdfb.md) — 端聞 connects Nvidia's founder succession to CUDA, Taiwan suppliers, sovereign AI, export controls, and ecosystem-financing risk.
@@ -5400,6 +5401,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Next World Order: Astrology, History and the Future](sources/default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190.md) — Tomorrow Today interview with Abhigyan Anand on Jyotisha forecasting, institutional trust, food resilience, algorithmic sovereignty, delayed gratification, and evidence limits.
 
 ## Entities
+- [Ed Glaeser](entities/EdGlaeser.md) — Housing economist using price, production cost, regulation, and construction volume to diagnose supply constraints.
+- [Kirk Watson](entities/KirkWatson.md) — Austin mayor connecting permitting and land-use reform to affordability, generational access, and family formation.
 - [International Court of Justice](entities/InternationalCourtOfJustice.md) — UN court whose Myanmar genocide judgment supplies recognition and precedent but lacks independent enforcement power.
 - [Arakan Army](entities/ArakanArmy.md) — Armed ethnic Rakhine organization whose territorial role shapes the feasibility of Rohingya return.
 - [Vladimir Uglev](entities/VladimirUglev.md) — Soviet chemist who helped develop Novichok agents and later identified alleged uses and disclosed programme details.
@@ -20337,6 +20340,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abhigyan Anand](entities/AbhigyanAnand.md) — Indian Jyotisha practitioner connecting historical forecasting, institutions, food, algorithms, and attention while remaining bounded by an incomplete prediction record.
 
 ## Concepts
+- [Zoning Tax](concepts/ZoningTax.md) — Price-production-cost gap used to identify regulatory scarcity in housing markets.
+- [Family-Sized Housing Supply](concepts/FamilySizedHousingSupply.md) — Housing supply measured through bedroom mix, affordability, stability, and suitability for households seeking children.
 - [Genocide Judgment Enforcement Gap](concepts/GenocideJudgmentEnforcementGap.md) — Distance between authoritative state-responsibility findings and implemented return, reparation, protection, or institutional change.
 - [AI Offensive Cyber Scale Advantage](concepts/AIOffensiveCyberScaleAdvantage.md) — Persistent parallel attack capacity that can matter before models surpass elite human specialists.
 - [Chemical-Weapons Scientist Responsibility](concepts/ChemicalWeaponsScientistResponsibility.md) — Layered responsibility for creating, controlling, declaring, identifying, and remediating secret toxic capabilities.

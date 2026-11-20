@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11776
+wiki_total_pages: 11778
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "FamilyEnterpriseLaborBoundary"
     title: "Family-Enterprise Labor Boundary / 家庭经营中的亲属劳动边界"
     url: "/wiki/concepts/familyenterpriselaborboundary/"
+  - key: "FamilySizedHousingSupply"
+    title: "Family-Sized Housing Supply"
+    url: "/wiki/concepts/familysizedhousingsupply/"
   - key: "FamilySupportedAspiration"
     title: "Family-Supported Aspiration / 家庭承托的愿望"
     url: "/wiki/concepts/familysupportedaspiration/"
