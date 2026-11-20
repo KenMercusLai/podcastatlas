@@ -5421,6 +5421,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/ainativevirtualidol/"
     },
+    "AIOffensiveCyberScaleAdvantage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/aioffensivecyberscaleadvantage/"
+    },
     "AIOfficeAgent": {
       "episode_count": 3,
       "show_count": 2,
@@ -23781,6 +23797,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/aracelisegarra/"
+    },
+    "ArakanArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/arakanarmy/"
     },
     "ArandoraStar": {
       "episode_count": 1,
@@ -52941,6 +52973,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cheerchanyu/"
+    },
+    "ChemicalWeaponsScientistResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/chemicalweaponsscientistresponsibility/"
     },
     "Chemosensation": {
       "episode_count": 4,
@@ -123392,6 +123440,50 @@
       "updated": "2026-10-30",
       "url": "/wiki/concepts/frontiermodelcommercialhalflife/"
     },
+    "FrontierModelCyberMisuse": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
+          "key": "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Cyberattacks on U.S. water systems raise concerns about security",
+          "url": "/wiki/sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/frontiermodelcybermisuse/"
+    },
     "FrontierModelDisclosure": {
       "episode_count": 1,
       "show_count": 1,
@@ -129576,6 +129668,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/genitourinarysyndromemenopausecare/"
+    },
+    "GenocideJudgmentEnforcementGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/genocidejudgmentenforcementgap/"
     },
     "GenomeArk": {
       "episode_count": 1,
@@ -166536,6 +166644,22 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/entities/internationalcodecouncil/"
+    },
+    "InternationalCourtOfJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/internationalcourtofjustice/"
     },
     "InternationalMercantileMarine": {
       "episode_count": 1,
@@ -230341,9 +230465,9 @@
       "url": "/wiki/entities/mymotherlandsong/"
     },
     "Myanmar": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The case of the missing totem： Aung San Suu Kyi [6a560fc4f96471dde4821d2f].md",
@@ -230365,9 +230489,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf/"
+        },
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/myanmar/"
     },
     "MyastheniaGravis": {
@@ -238548,6 +238679,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/novelfoodmanufacturingtransferrisk/"
+    },
+    "Novichok": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/novichok/"
     },
     "NovusHomoOutsiderPolitics": {
       "episode_count": 1,
@@ -283219,6 +283366,29 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/entities/rogertorypeterson/"
+    },
+    "Rohingya": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The case of the missing totem： Aung San Suu Kyi [6a560fc4f96471dde4821d2f].md",
+          "key": "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f",
+          "show": "Economist Podcasts",
+          "title": "The case of the missing totem: Aung San Suu Kyi",
+          "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+        },
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/rohingya/"
     },
     "RolandBaines": {
       "episode_count": 1,
@@ -338870,6 +339040,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/vladimirthegreat/"
+    },
+    "VladimirUglev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
+          "key": "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281",
+          "show": "Economist Podcasts",
+          "title": "Delayed but not denied: justice for the Rohingyas",
+          "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/vladimiruglev/"
     },
     "VocalLearningEvolution": {
       "episode_count": 2,

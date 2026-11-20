@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11773
+wiki_total_pages: 11776
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "GenitourinarySyndromeMenopauseCare"
     title: "Genitourinary Syndrome of Menopause Care"
     url: "/wiki/concepts/genitourinarysyndromemenopausecare/"
+  - key: "GenocideJudgmentEnforcementGap"
+    title: "Genocide Judgment Enforcement Gap"
+    url: "/wiki/concepts/genocidejudgmentenforcementgap/"
   - key: "GenomeLanguageModels"
     title: "Genome Language Models"
     url: "/wiki/concepts/genomelanguagemodels/"

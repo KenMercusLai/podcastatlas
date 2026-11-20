@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11773
+wiki_total_pages: 11776
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1478,6 +1478,9 @@ wiki_pages:
   - key: "AINutritionTracking"
     title: "AI Nutrition Tracking"
     url: "/wiki/concepts/ainutritiontracking/"
+  - key: "AIOffensiveCyberScaleAdvantage"
+    title: "AI Offensive Cyber Scale Advantage"
+    url: "/wiki/concepts/aioffensivecyberscaleadvantage/"
   - key: "AIOfficeAgent"
     title: "AI Office Agent"
     url: "/wiki/concepts/aiofficeagent/"

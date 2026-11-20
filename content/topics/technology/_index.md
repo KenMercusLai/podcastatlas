@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3911
+topic_total_pages: 3913
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -856,6 +856,9 @@ topic_concepts:
   - key: "AINutritionTracking"
     title: "AI Nutrition Tracking"
     url: "/wiki/concepts/ainutritiontracking/"
+  - key: "AIOffensiveCyberScaleAdvantage"
+    title: "AI Offensive Cyber Scale Advantage"
+    url: "/wiki/concepts/aioffensivecyberscaleadvantage/"
   - key: "AIOfficeAgent"
     title: "AI Office Agent"
     url: "/wiki/concepts/aiofficeagent/"
@@ -10308,6 +10311,9 @@ topic_sources:
   - key: "tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128"
     title: "Data centers lost in the midterms"
     url: "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
+  - key: "6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281"
+    title: "Delayed but not denied: justice for the Rohingyas"
+    url: "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
   - key: "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d"
     title: "Dhaka matters: an election for Bangladesh"
     url: "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"

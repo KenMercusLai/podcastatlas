@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14833
+wiki_total_pages: 14837
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "InternationalConferenceOnMachineLearning"
     title: "International Conference on Machine Learning / ICML"
     url: "/wiki/entities/internationalconferenceonmachinelearning/"
+  - key: "InternationalCourtOfJustice"
+    title: "International Court of Justice"
+    url: "/wiki/entities/internationalcourtofjustice/"
   - key: "InternationalHotel"
     title: "International Hotel"
     url: "/wiki/entities/internationalhotel/"

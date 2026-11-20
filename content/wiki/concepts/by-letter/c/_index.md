@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11773
+wiki_total_pages: 11776
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "ChemicalControlAsManufacturingCapability"
     title: "Chemical Control As Manufacturing Capability"
     url: "/wiki/concepts/chemicalcontrolasmanufacturingcapability/"
+  - key: "ChemicalWeaponsScientistResponsibility"
+    title: "Chemical-Weapons Scientist Responsibility"
+    url: "/wiki/concepts/chemicalweaponsscientistresponsibility/"
   - key: "Chemosensation"
     title: "Chemosensation"
     url: "/wiki/concepts/chemosensation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Delayed but not denied: justice for the Rohingyas](sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281.md) — Economist Podcasts on the Rohingya genocide judgment, AI-scaled cyberattacks, and Vladimir Uglev's Novichok legacy.
 - [黃仁勳時代終結，輝達與AI產業將走向何方？](sources/abd978a90cd81baa18b6159f3520bdfb.md) — 端聞 connects Nvidia's founder succession to CUDA, Taiwan suppliers, sovereign AI, export controls, and ecosystem-financing risk.
 - [The internet’s next big domain expansion is underway](sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128.md) — Marketplace Tech on ICANN's new-domain round, registry economics, country-code windfalls, `.agent`, branded extensions, and the community-backed `.meow` proposal.
 - [#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目](sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f.md) — 声东击西对话玉真记事，以媒体职业受挫、城乡迁移、农村养老与教育、茉莉花风险和农地规模化讨论如何记录正在消失的传统农民时代。
@@ -5398,6 +5399,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Next World Order: Astrology, History and the Future](sources/default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190.md) — Tomorrow Today interview with Abhigyan Anand on Jyotisha forecasting, institutional trust, food resilience, algorithmic sovereignty, delayed gratification, and evidence limits.
 
 ## Entities
+- [International Court of Justice](entities/InternationalCourtOfJustice.md) — UN court whose Myanmar genocide judgment supplies recognition and precedent but lacks independent enforcement power.
+- [Arakan Army](entities/ArakanArmy.md) — Armed ethnic Rakhine organization whose territorial role shapes the feasibility of Rohingya return.
+- [Vladimir Uglev](entities/VladimirUglev.md) — Soviet chemist who helped develop Novichok agents and later identified alleged uses and disclosed programme details.
+- [Novichok](entities/Novichok.md) — Soviet-developed nerve-agent family illustrating persistence, unintended exposure, and secrecy.
 - [ICANN](entities/ICANN.md) — Internet-governance organization allocating new generic top-level domains through application, evaluation, priority, and contention processes.
 - [Pete Millspaugh](entities/PeteMillspaugh.md) — Wired writer explaining the business, governance, national, community, and creative dimensions of domain registries.
 - [dotMeow Foundation](entities/DotMeowFoundation.md) — Belgian nonprofit applying to operate `.meow` as queer community identity and funding infrastructure.
@@ -20331,6 +20336,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abhigyan Anand](entities/AbhigyanAnand.md) — Indian Jyotisha practitioner connecting historical forecasting, institutions, food, algorithms, and attention while remaining bounded by an incomplete prediction record.
 
 ## Concepts
+- [Genocide Judgment Enforcement Gap](concepts/GenocideJudgmentEnforcementGap.md) — Distance between authoritative state-responsibility findings and implemented return, reparation, protection, or institutional change.
+- [AI Offensive Cyber Scale Advantage](concepts/AIOffensiveCyberScaleAdvantage.md) — Persistent parallel attack capacity that can matter before models surpass elite human specialists.
+- [Chemical-Weapons Scientist Responsibility](concepts/ChemicalWeaponsScientistResponsibility.md) — Layered responsibility for creating, controlling, declaring, identifying, and remediating secret toxic capabilities.
 - [Top-Level Domain Registry Economics](concepts/TopLevelDomainRegistryEconomics.md) — Application, auction, operation, adoption, and legal-risk framework for controlling an internet extension.
 - [Country-Code Domain Monetization](concepts/CountryCodeDomainMonetization.md) — Process by which semantic demand turns a geographic internet code into material public revenue.
 - [Branded Top-Level Domains](concepts/BrandedTopLevelDomains.md) — Proprietary internet extensions used for controlled identity, structured portals, marketing, or defensive brand ownership.
