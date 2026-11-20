@@ -5394,6 +5394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Racing ahead: Anthropic’s big IPO](sources/4194361e8d09cb7174d917da6acfa892-4194361e8d09cb7174d917da6acfa892mp3aid6afeca038f8ad2908f6bec2echidd556eb54-6160-4.md) — Economist Podcasts on Anthropic’s forecast IPO, concentrated U.S.-China mineral investment, and why rice variety and preparation can matter more than color for glycemic response.
 - [SaaS Marketing Without Ads: Word of Mouth to $10M ARR](sources/saas-marketing-without-ads-word-of-mouth-to-10m-arr-456cd58f.md) — The SaaS Podcast interview with Anurag Goel on Render's founder-led validation, product-led growth, free-tier and pricing economics, model visibility, and agent-operable software.
 - [EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage](sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage.md) — Data Science With Sam interview with Ben Wilcox on agent identity, MCP capability drift, fragmented shadow AI, layered controls, and security as an enabler of speed.
+- [The Next World Order: Astrology, History and the Future](sources/default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190.md) — Tomorrow Today interview with Abhigyan Anand on Jyotisha forecasting, institutional trust, food resilience, algorithmic sovereignty, delayed gratification, and evidence limits.
 
 ## Entities
 - [ICANN](entities/ICANN.md) — Internet-governance organization allocating new generic top-level domains through application, evaluation, priority, and contention processes.
@@ -20326,6 +20327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anurag Goel](entities/AnuragGoel.md) — Render founder and former early Stripe engineer connecting infrastructure experience to product-led and agent-ready application-cloud growth.
 - [Render](entities/Render.md) — Application cloud growing through low-friction deployment, developer referrals, customer expansion, sustainable pricing, and agent-operable interfaces.
 - [Ben Wilcox](entities/BenWilcox.md) — ProArch CTO and CISO connecting enterprise AI speed to identity, least privilege, MCP scope, and deterministic workflow controls.
+- [Abhigyan Anand](entities/AbhigyanAnand.md) — Indian Jyotisha practitioner connecting historical forecasting, institutions, food, algorithms, and attention while remaining bounded by an incomplete prediction record.
 
 ## Concepts
 - [Top-Level Domain Registry Economics](concepts/TopLevelDomainRegistryEconomics.md) — Application, auction, operation, adoption, and legal-risk framework for controlling an internet extension.
@@ -32213,5 +32215,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sustainable Free Tier](concepts/SustainableFreeTier.md) — No-cost product experience that reduces evaluation friction while bounding variable costs, abuse, upgrades, and whole-account margins.
 - [Agent Capability Drift](concepts/AgentCapabilityDrift.md) — Change over time in connector tools, infrastructure, destinations, outputs, dependencies, or effective authority after approval.
 - [Layered Agent Security Controls](concepts/LayeredAgentSecurityControls.md) — Secure-by-design pattern placing complementary controls across an agent's complete input-to-action path.
+- [Jyotisha Historical Forecasting](concepts/JyotishaHistoricalForecasting.md) — Source-scoped combination of planetary configurations, timing systems, geographic mapping, and historical analogy for collective forecasts.
+- [Algorithmic Sovereignty](concepts/AlgorithmicSovereignty.md) — Public capacity to govern systems that rank information, allocate attention, shape beliefs, and mediate collective action.
+- [Delayed Gratification Capacity](concepts/DelayedGratificationCapacity.md) — Individual and institutional ability to bear present cost for credible longer-term outcomes under trustworthy conditions.
 
 ## Syntheses

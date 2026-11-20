@@ -18,7 +18,8 @@ sources:
   - defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305
   - default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097
   - default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490
-last_updated: 2026-11-17
+  - default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190
+last_updated: 2026-11-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,7 +29,7 @@ knowledge_schema: synthesis-v1
 Tomorrow Today is a podcast hosted in the current sources by [[ShekharNatarajan]]. Its represented episodes pair long-form interviews and one short dramatized family narrative with questions about business identity, resilience, spirituality, survival, cognitive difference, public institutions, creative careers, acting, comedy, elite sport, inequality, organizational transformation, technology, leadership, and human meaning.
 
 ## Current Profile
-The wiki knows Tomorrow Today through fourteen interviews and one short narrative. The interviews connect branding, mountaineering, Buddhism, government, acting, writing, survival, artistic swimming, creator operations, diplomacy, futures, transformation, and comedy to recurring questions about purpose, dignity, judgment, and AI. [[VarunSharma]] adds opportunity-search labor and collaborative screen comedy; [[KikuSharda]] adds costume-led character embodiment, live improvisational atmosphere, parody risk, grief, and a concrete synthetic-likeness offer. Together, their episodes keep creative AI subordinate to consent, authorship, lived experience, and human reaction without denying that performers will need to adapt. The [[AshokNatarajan]] story changes the format: it uses a childhood notebook, delayed recognition, brotherly reconciliation, and a proposed “Ashok's Sight” system to argue for [[CognitiveDifferenceReframing]]. Its inspirational value is preserved without treating the alleged lunar prediction, AI performance, or water deployment as independently documented.
+The wiki knows Tomorrow Today through fifteen interviews and one short narrative. The interviews connect branding, mountaineering, Buddhism, government, acting, writing, survival, artistic swimming, creator operations, diplomacy, futures, transformation, comedy, Jyotisha, institutions, and attention to recurring questions about purpose, dignity, judgment, and AI. [[VarunSharma]] adds opportunity-search labor and collaborative screen comedy; [[KikuSharda]] adds costume-led character embodiment, live improvisational atmosphere, parody risk, grief, and a concrete synthetic-likeness offer. [[AbhigyanAnand]] adds world-order cycles, food resilience, sovereign algorithms, and delayed gratification while requiring a sharper separation between practical governance arguments and unvalidated astrological forecasts. The [[AshokNatarajan]] story changes the format: it uses a childhood notebook, delayed recognition, brotherly reconciliation, and a proposed “Ashok's Sight” system to argue for [[CognitiveDifferenceReframing]]. Its inspirational value is preserved without treating the alleged lunar prediction, AI performance, or water deployment as independently documented.
 
 ## Key Characteristics
 - Identified in source metadata as Tomorrow, Today and hosted by [[ShekharNatarajan]].
@@ -53,14 +54,15 @@ The wiki knows Tomorrow Today through fourteen interviews and one short narrativ
 - Cognitive difference and dramatized AI impact - [[defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305]] adds the Ashok story, “Ashok's Sight,” and an explicit boundary between ethical reframing and unverified technical results.
 - Acting search, resilience, and comedy production - [[default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097]] adds Sharma's casting-room learning, months of opportunity search, family backing, mental-health qualification, ensemble comedy model, and consent-centered AI use.
 - Character embodiment, live comedy, and synthetic performance - [[default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490]] adds Sharda's costume and backstory method, relational comic timing, parody arrest, laughter-and-grief account, and image-and-voice licensing offer.
+- Jyotisha, world order, and attention - [[default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190]] adds Anand's historical-astrology framework, food-security scenarios, algorithmic-sovereignty argument, and long-horizon discipline frame with explicit evidence qualifications.
 
 ## Qualifications
-Only fifteen Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. Several episodes rely heavily on first-person testimony and conversational interpretation. The Ashok source is more compressed and dramatized than the interview set; it does not independently establish family biography, diagnosis, lunar prediction, AI architecture, water safety or output, or refugee impact.
+Only sixteen Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. Several episodes rely heavily on first-person testimony and conversational interpretation. The Ashok source is more compressed and dramatized than the interview set; it does not independently establish family biography, diagnosis, lunar prediction, AI architecture, water safety or output, or refugee impact. The Anand source is a structured summary rather than a forecast archive and does not validate Jyotisha, the cited prediction record, or dated geopolitical and economic outcomes.
 
 ## What Changed
-- Extended the acting branch from career access into costume-led embodiment and live improvisational comedy.
-- Added public-offense escalation, grief, and laughter as connected human stakes.
-- Made the AI boundary concrete through an offer to synthesize a performer's image, movement, speech, and voice.
+- Added Jyotisha and civilizational history while making forecast verification an explicit evidence boundary.
+- Extended AI governance into algorithmic sovereignty, attention capture, and cross-border digital identity.
+- Added food resilience and delayed gratification without adopting the episode's astrological timing.
 
 ## Relationships
 - [[ShekharNatarajan]] - host in the represented sources.
@@ -78,6 +80,7 @@ Only fifteen Tomorrow Today sources are represented. The page describes an obser
 - [[FedericaFornaciari]] - transformation, execution, and human-leadership guest.
 - [[VarunSharma]] - acting, rejection, comedy, and creative-AI guest.
 - [[KikuSharda]] - acting, character embodiment, television comedy, grief, and AI-performance guest.
+- [[AbhigyanAnand]] - Jyotisha and history guest who develops forecast, institution, food, attention, and algorithmic-governance questions.
 - [[AngelicIntelligence]] - recurring human-centered AI frame.
 - [[AthleteCenteredPerformanceCulture]] - newest team-purpose and autonomy frame.
 - [[CreatorFormatReinvention]] - creator adaptation frame added by the newest interview.
@@ -90,3 +93,6 @@ Only fifteen Tomorrow Today sources are represented. The page describes an obser
 - [[OpportunitySeekingAsWork]] - invisible creative-career search labor developed through Sharma's account.
 - [[EnsembleComedyProduction]] - collaborative performance-and-production frame developed through Sharma's account.
 - [[CharacterEmbodimentThroughCostume]] - acting method developed through Sharda's account.
+- [[JyotishaHistoricalForecasting]] - contested forecasting method introduced by the Anand interview.
+- [[AlgorithmicSovereignty]] - public-control frame developed through the “Republic of Algorithms” discussion.
+- [[DelayedGratificationCapacity]] - long-horizon discipline and institutional-trust frame developed in the interview.

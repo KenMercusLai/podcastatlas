@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2843
+topic_total_pages: 2845
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -820,6 +820,9 @@ topic_concepts:
   - key: "JulyCrisis"
     title: "July Crisis"
     url: "/wiki/concepts/julycrisis/"
+  - key: "JyotishaHistoricalForecasting"
+    title: "Jyotisha Historical Forecasting"
+    url: "/wiki/concepts/jyotishahistoricalforecasting/"
   - key: "KinSacrificeReputationPerformance"
     title: "Kin Sacrifice Reputation Performance / 亲属牺牲式声望表演"
     url: "/wiki/concepts/kinsacrificereputationperformance/"
@@ -2036,6 +2039,9 @@ topic_entities:
   - key: "NineteenTwentyNineSorkin"
     title: "1929 / 《1929》 (Andrew Ross Sorkin)"
     url: "/wiki/entities/nineteentwentyninesorkin/"
+  - key: "AbhigyanAnand"
+    title: "Abhigyan Anand"
+    url: "/wiki/entities/abhigyananand/"
   - key: "Abyssinia"
     title: "Abyssinia / Ethiopia"
     url: "/wiki/entities/abyssinia/"

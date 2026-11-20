@@ -6,7 +6,8 @@ sources:
   - ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw
   - gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057
   - charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321
-last_updated: 2026-10-11
+  - default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190
+last_updated: 2026-11-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,10 +25,12 @@ The Indian-finance segment adds an outcome-facing test. Managers can mix horosco
 
 The Keating interview adds a prediction-centered contrast with astronomy. Celestial observation can support seasons, calendars, navigation, and testable physical models, while astrology remains unfalsifiable and vulnerable to confirmation bias. Possible hidden perception is still different from reliable forecasting.
 
+The Anand interview adds a more demanding internal standard and a stronger stress test. [[JyotishaHistoricalForecasting]] uses detailed configurations, timing windows, geography, and historical comparison, and Anand argues for specific public predictions. Yet the represented evidence remains selected and retrospective: one failed world-war component is acknowledged, while claimed pandemic, earthquake, and attack matches appear without a complete forecast archive, base-rate comparison, or independent scoring. Specificity improves inspectability, not validity by itself.
+
 ## Key Claims
 - Internal consistency does not establish causal mechanism, predictive accuracy, or statistical reliability.
 - More interpretive variables can create specificity while simultaneously increasing opportunities for post-hoc fit.
-- Retrospective biography readings need prospective tests, comparison cases, and failure criteria before they count as prediction evidence.
+- Retrospective readings need prospective tests, comparison cases, complete records, and failure criteria before they count as prediction evidence.
 - Correlation between a planetary period and selected historical events is insufficient to establish causation.
 - High-stakes claims should be judged by domain evidence and should never rely on astrology alone.
 - Commercial demand and seller revenue do not establish customer returns or predictive validity.
@@ -42,16 +45,18 @@ The Keating interview adds a prediction-centered contrast with astronomy. Celest
 - Behavioral outcome: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] cites studies associating lucky-number investment preferences with significant underperformance.
 - Commercial distinction: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] describes paid courses, per-minute consultations, platform fundraising, and prosperity products without evidence of superior client returns.
 - Astronomy contrast: [[charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321]] distinguishes testable sky observation and physical modeling from unfalsifiable personal prediction, confirmation bias, and the system's treatment of Ophiuchus.
+- Public-forecast test: [[default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190]] attributes specific pandemic, earthquake, attack, conflict, economic, and food forecasts to Anand while supplying neither a complete record nor independent scoring.
 
 ## Counterevidence & Qualifications
 
-This boundary does not prove that every reflective use is harmful or that symbolic traditions have no cultural, narrative, or historical value. It says that personal resonance and reassurance are different kinds of evidence from reliable prediction. The sources do not provide complete study methods, an audited investment record, or prospective tests. EP182 qualifies fatalism through choice, while the finance segment shows real use; neither removes confirmation bias, selective recall, hindsight, or business-incentive concerns. Keating's Ophiuchus example is a public explanation rather than a complete historical or statistical test of every astrological tradition.
+This boundary does not prove that every reflective use is harmful or that symbolic traditions have no cultural, narrative, or historical value. It says that personal resonance and reassurance are different kinds of evidence from reliable prediction. The sources do not provide complete study methods, an audited investment or forecast record, or prospective tests with preregistered scoring. EP182 qualifies fatalism through choice, while the finance and Anand segments show real use; neither removes confirmation bias, selective recall, hindsight, base-rate neglect, or business-incentive concerns. Anand's disclosure of a failed forecast component is informative but insufficient to estimate skill from a selected record. Keating's Ophiuchus example is a public explanation rather than a complete historical or statistical test of every astrological tradition.
 
 ## What Changed
 - Created an explicit boundary between symbolic coherence and empirical support.
 - Applied the strongest caution to health, reproduction, crime, finance, nations, and historical forecasting.
 - Added investment outcomes and advice-market incentives as concrete tests of predictive claims.
 - Added a direct astronomy-versus-astrology contrast centered on falsifiability and prediction.
+- Added complete-record, base-rate, and scoring requirements for public Jyotisha forecasts.
 
 ## Related Concepts
 - [[PsychologicalAstrologyAsReflectiveMap]] - bounded reflective use that motivates the distinction.
@@ -60,3 +65,4 @@ This boundary does not prove that every reflective use is harmful or that symbol
 - [[ChineseAstrologicalPolitics|中国星占政治]] - historical study of astrology's political use without endorsing celestial causation.
 - [[FinancialAstrologyDecisionMaking]] - finance-specific application involving portfolio, timing, and personnel decisions.
 - [[ScientificSkepticism]] - evidence posture that separates open possibility from unsupported forecast confidence.
+- [[JyotishaHistoricalForecasting]] - detailed collective-forecasting method that makes the boundary newly concrete.

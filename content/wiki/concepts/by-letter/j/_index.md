@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 11770
+wiki_total_pages: 11773
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "JustinianicPlague"
     title: "Justinianic Plague"
     url: "/wiki/concepts/justinianicplague/"
+  - key: "JyotishaHistoricalForecasting"
+    title: "Jyotisha Historical Forecasting"
+    url: "/wiki/concepts/jyotishahistoricalforecasting/"
   - key: "JiuXiRitualPromotion"
     title: "九锡礼遇 / Nine Bestowments Ritual Promotion"
     url: "/wiki/concepts/jiuxiritualpromotion/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14832
+wiki_total_pages: 14833
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "AbercrombieFitch"
     title: "Abercrombie & Fitch / A&F"
     url: "/wiki/entities/abercrombiefitch/"
+  - key: "AbhigyanAnand"
+    title: "Abhigyan Anand"
+    url: "/wiki/entities/abhigyananand/"
   - key: "AbhijitBanerjee"
     title: "Abhijit Banerjee"
     url: "/wiki/entities/abhijitbanerjee/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11770
+wiki_total_pages: 11773
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "DelayedCanonicalRecognition"
     title: "Delayed Canonical Recognition / 延迟经典化"
     url: "/wiki/concepts/delayedcanonicalrecognition/"
+  - key: "DelayedGratificationCapacity"
+    title: "Delayed Gratification Capacity"
+    url: "/wiki/concepts/delayedgratificationcapacity/"
   - key: "DelayedRescueStatecraft"
     title: "Delayed Rescue Statecraft / 晚救权谋"
     url: "/wiki/concepts/delayedrescuestatecraft/"

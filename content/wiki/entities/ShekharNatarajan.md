@@ -18,7 +18,8 @@ sources:
   - defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305
   - default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097
   - default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490
-last_updated: 2026-11-17
+  - default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190
+last_updated: 2026-11-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,7 +31,7 @@ Shekhar Natarajan is the host and narrator of [[TomorrowToday]] across the wiki'
 ## Current Profile
 The bounded sources present Shekhar primarily as an interviewer who turns life stories into operating questions. Across guests, he connects values to branding, uncertainty to judgment, compassion to alignment, logistics to institutions, creative access to labor, survival to action, coaching to autonomy, platform production to dignity, sustainability to responsible commerce, future challenges to governance, strategy to execution, and comedy to collaborative production. The [[VarunSharma]] interview makes opportunity search and family-supported resilience visible; the [[KikuSharda]] interview moves from costume, character, timing, parody, and grief into whether AI can reproduce a performer without reproducing human authorship.
 
-The short [[AshokNatarajan]] narrative changes the represented format and adds a personal, source-scoped branch. Shekhar revisits a childhood conflict, reframes his brother's mind as different rather than broken, and narrates an AI approach inspired by associative cognition. This extends [[AngelicIntelligence]] toward [[CognitiveDifferenceReframing]], while the episode's spectacular lunar, engineering, and deployment claims remain unverified.
+The short [[AshokNatarajan]] narrative changes the represented format and adds a personal, source-scoped branch. Shekhar revisits a childhood conflict, reframes his brother's mind as different rather than broken, and narrates an AI approach inspired by associative cognition. This extends [[AngelicIntelligence]] toward [[CognitiveDifferenceReframing]], while the episode's spectacular lunar, engineering, and deployment claims remain unverified. The [[AbhigyanAnand]] interview adds an explicitly contested knowledge system: Shekhar uses Jyotisha, world-order, food, institutional-trust, and smartphone questions to separate practical resilience and governance concerns from dated astrological forecasts that remain unvalidated.
 
 ## Key Characteristics
 - Frames guest interviews and occasional personal narrative as questions about identity, purpose, leadership, institutions, and technology.
@@ -56,14 +57,15 @@ The short [[AshokNatarajan]] narrative changes the represented format and adds a
 - Cognitive difference and associative AI - [[defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305]] has Shekhar narrate reconciliation with [[AshokNatarajan]] and a proposed “Ashok's Sight” system within [[AngelicIntelligence]].
 - Acting search, comedy, and creative judgment - [[default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097]] connects Sharma's career formation to invisible search labor, mental health, collaborative comedy, consent, and human reaction to creative work.
 - Character, laughter, and synthetic likeness - [[default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490]] connects Sharda's costume-led transformation and live comic timing to public offense, grief, human imperfection, and AI-era replication.
+- Astrology, institutions, and algorithmic power - [[default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190]] develops questions about forecast verification, dharma, food resilience, sovereign algorithms, delayed gratification, and attention.
 
 ## Qualifications
-The page is bounded to fifteen ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those sources. His logistics ventures, childhood conditions, corporate departure, highway near-miss, family loss, relationship to Ashok, notebook discovery, and coding story are self-reported or dramatized. The lunar-crater match, “Ashok's Sight” performance, water output, and refugee deployment are not independently established, and the episode's Shikhar/Shekhar spelling variation is normalized to the existing canonical identity without treating that normalization as verification.
+The page is bounded to sixteen ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those sources. His logistics ventures, childhood conditions, corporate departure, highway near-miss, family loss, relationship to Ashok, notebook discovery, and coding story are self-reported or dramatized. The lunar-crater match, “Ashok's Sight” performance, water output, and refugee deployment are not independently established, and the episode's Shikhar/Shekhar spelling variation is normalized to the existing canonical identity without treating that normalization as verification. The Anand episode's planetary correspondences and dated geopolitical, financial, and food forecasts likewise remain source-scoped rather than accepted predictions.
 
 ## What Changed
-- Added costume-led character embodiment, live improvisational atmosphere, and public-offense escalation.
-- Connected laughter and grief to the show's recurring question of what remains human under technological change.
-- Added a concrete synthetic-likeness offer to the creative-AI consent boundary.
+- Added forecast verification and evidence boundaries to the show's treatment of spiritual and historical claims.
+- Extended the governance branch from global coordination toward algorithmic sovereignty and digital tribalism.
+- Added delayed gratification, long-form attention, and food resilience as civilizational-capacity questions.
 
 ## Relationships
 - [[TomorrowToday]] - show he hosts in the represented sources.
@@ -81,6 +83,7 @@ The page is bounded to fifteen ingested Tomorrow Today episodes. It does not inf
 - [[FedericaFornaciari]] - transformation guest who develops execution accountability and human leadership under AI.
 - [[VarunSharma]] - actor guest who develops opportunity search, rejection recovery, collaborative comedy, and creative-AI boundaries.
 - [[KikuSharda]] - actor guest who develops character embodiment, live comedy, parody risk, grief, and synthetic-performance boundaries.
+- [[AbhigyanAnand]] - Jyotisha guest who develops historical forecasting, institutional trust, algorithmic power, and attention questions.
 - [[AngelicIntelligence]] - human-centered AI term Shekhar explains.
 - [[AthleteCenteredPerformanceCulture]] - leadership branch sharpened by his questions about purpose and coach dependence.
 - [[SyntheticContentTrainingFeedback]] - information-quality branch sharpened by his garbage-in, garbage-out example.
@@ -93,3 +96,5 @@ The page is bounded to fifteen ingested Tomorrow Today episodes. It does not inf
 - [[OpportunitySeekingAsWork]] - career-search frame sharpened through Sharma's account.
 - [[EnsembleComedyProduction]] - collaborative comedy frame sharpened through Sharma's account.
 - [[CharacterEmbodimentThroughCostume]] - character-transition frame developed through Sharda's account.
+- [[AlgorithmicSovereignty]] - governance frame sharpened through the “Republic of Algorithms” discussion.
+- [[DelayedGratificationCapacity]] - discipline and institutional-trust frame sharpened through the Anand interview.

@@ -43518,6 +43518,20 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-20] ingest | The Next World Order: Astrology, History and the Future | Abhigya Anand x Shekhar Natarajan
+
+Added a [[TomorrowToday]] interview with [[AbhigyanAnand]] on Jyotisha, historical cycles, institutions, food resilience, AI, sovereign algorithms, smartphones, and long-horizon discipline. Created synthesis-first pages for Anand, [[JyotishaHistoricalForecasting]], [[AlgorithmicSovereignty]], and [[DelayedGratificationCapacity]], then resynthesized [[ShekharNatarajan]], Tomorrow Today, and [[AstrologicalInterpretationEvidenceBoundary]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: specific, public, timestamped forecasts are more inspectable than vague retrospective claims, but predictive validity still requires a complete record, base rates, explicit scoring, failures, and independent evaluation. The episode's 2026–2040 forecasts remain source-scoped. Its practical arguments are separable: resilient food capacity, accountable algorithmic control, trustworthy reward pathways, long-form attention, and bounded AI use can be evaluated without accepting celestial causation.
+
+No settled contradiction was adopted. Anand acknowledges a failed world-war component in his 2019 warning, but the supplied structured summary does not provide a complete prediction archive or establish the cited pandemic, earthquake, attack, geopolitical, financial, or agricultural matches. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,266 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-11-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
