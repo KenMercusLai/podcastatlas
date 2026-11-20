@@ -19690,6 +19690,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BenWilcox": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BenchmarkTrainingDataSeparation": [
     {
       "key": "technology",
@@ -58173,6 +58180,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LayeredAgentSecurityControls": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LayeredDepthDefense": [
@@ -110635,6 +110649,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-6-data-science-ai-talk": [

@@ -8339,6 +8339,10 @@
     "title": "Agent as a Service",
     "url": "/wiki/concepts/agentasaservice/"
   },
+  "AgentCapabilityDrift": {
+    "title": "Agent Capability Drift",
+    "url": "/wiki/concepts/agentcapabilitydrift/"
+  },
   "AgentCivilizationNarrative": {
     "title": "Agent Civilization Narrative",
     "url": "/wiki/concepts/agentcivilizationnarrative/"
@@ -14830,6 +14834,10 @@
   "BenStapleton": {
     "title": "Ben Stapleton",
     "url": "/wiki/entities/benstapleton/"
+  },
+  "BenWilcox": {
+    "title": "Ben Wilcox",
+    "url": "/wiki/entities/benwilcox/"
   },
   "Benchling": {
     "title": "Benchling",
@@ -57547,6 +57555,10 @@
     "title": "分层验证式继位接管 / Layered Accession Risk Verification",
     "url": "/wiki/concepts/layeredaccessionriskverification/"
   },
+  "LayeredAgentSecurityControls": {
+    "title": "Layered Agent Security Controls",
+    "url": "/wiki/concepts/layeredagentsecuritycontrols/"
+  },
   "LayeredDepthDefense": {
     "title": "Layered Depth Defense / 纵深分层防御",
     "url": "/wiki/concepts/layereddepthdefense/"
@@ -78648,7 +78660,7 @@
     "url": "/wiki/concepts/proactiveobservability/"
   },
   "Proarc": {
-    "title": "Proarc",
+    "title": "ProArch",
     "url": "/wiki/entities/proarc/"
   },
   "ProbabilisticForecastingDiscipline": {
@@ -113822,6 +113834,10 @@
   "ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects": {
     "title": "EP 53: Cognitive Surrender: The AI Engineering Mistake That Kills Projects",
     "url": "/wiki/sources/ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects/"
+  },
+  "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage": {
+    "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+    "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
   },
   "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252": {
     "title": "Ep 59. 2026 Agent 编程新趋势",

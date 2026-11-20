@@ -5393,6 +5393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal](sources/pete-hegseth-s-spiritual-adviser-wants-a-christian-america-from-reveal-pete-hegseth-s-spiritual-adviser-wants-a-christi.md) — Reveal investigates Doug Wilson's Christian-national project, Moscow institutional ecosystem, ties to Pete Hegseth, and the publicity-recruitment dilemma.
 - [Racing ahead: Anthropic’s big IPO](sources/4194361e8d09cb7174d917da6acfa892-4194361e8d09cb7174d917da6acfa892mp3aid6afeca038f8ad2908f6bec2echidd556eb54-6160-4.md) — Economist Podcasts on Anthropic’s forecast IPO, concentrated U.S.-China mineral investment, and why rice variety and preparation can matter more than color for glycemic response.
 - [SaaS Marketing Without Ads: Word of Mouth to $10M ARR](sources/saas-marketing-without-ads-word-of-mouth-to-10m-arr-456cd58f.md) — The SaaS Podcast interview with Anurag Goel on Render's founder-led validation, product-led growth, free-tier and pricing economics, model visibility, and agent-operable software.
+- [EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage](sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage.md) — Data Science With Sam interview with Ben Wilcox on agent identity, MCP capability drift, fragmented shadow AI, layered controls, and security as an enabler of speed.
 
 ## Entities
 - [ICANN](entities/ICANN.md) — Internet-governance organization allocating new generic top-level domains through application, evaluation, priority, and contention processes.
@@ -12249,7 +12250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian Lund](entities/ChristianLund.md) — Templafy co-founder explaining enterprise sales before product maturity, "yes, if" POC gating, and AI messaging timing.
 - [Omnidocs](entities/Omnidocs.md) — Older document-automation business whose domain expertise and limits led into the cloud-era Templafy rebuild.
 - [Jim Spignardo](entities/JimSpignardo.md) — Proarc cloud strategy and AI enablement leader explaining Copilot adoption, pilot failure, governance, baselines, and ownership in Data Science With Sam EP48.
-- [Proarc](entities/Proarc.md) — Consulting and enablement company tied to Jim Spignardo's Microsoft 365 Copilot adoption playbook and enterprise AI ownership advice.
+- [ProArch](entities/Proarc.md) — Enterprise technology company connecting Microsoft 365 Copilot enablement with agent identity, least privilege, deterministic controls, and monitoring.
 - [The AI Turning Point](entities/TheAITurningPoint.md) — Jim Spignardo book mentioned in EP48 as an AI transformation and change-management reflection.
 - [Karima Sharif-Ali](entities/KarimaSharifAli.md) — Healthcare media and marketing leader explaining AI workflow speed, healthcare trust, human-led strategy, and responsible AI concerns in Data Science With Sam EP49.
 - [Wang Xingxing / 王兴兴](entities/WangXingxing.md) — Unitree founder figure cited in S10E26 on incomplete humanoid robot product-market fit.
@@ -20324,6 +20325,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Canon Press](entities/CanonPress.md) — For-profit publisher and media engine distributing Doug Wilson's religious and political worldview.
 - [Anurag Goel](entities/AnuragGoel.md) — Render founder and former early Stripe engineer connecting infrastructure experience to product-led and agent-ready application-cloud growth.
 - [Render](entities/Render.md) — Application cloud growing through low-friction deployment, developer referrals, customer expansion, sustainable pricing, and agent-operable interfaces.
+- [Ben Wilcox](entities/BenWilcox.md) — ProArch CTO and CISO connecting enterprise AI speed to identity, least privilege, MCP scope, and deterministic workflow controls.
 
 ## Concepts
 - [Top-Level Domain Registry Economics](concepts/TopLevelDomainRegistryEconomics.md) — Application, auction, operation, adoption, and legal-risk framework for controlling an internet extension.
@@ -32209,5 +32211,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian-Nationalist Institution Building](concepts/ChristianNationalistInstitutionBuilding.md) — Strategy linking worship, family, education, media, business, and housing into a prototype for a preferred national order.
 - [Controversy-Driven Movement Amplification](concepts/ControversyDrivenMovementAmplification.md) — Process by which adverse coverage or backlash can expose a movement while also increasing its reach, solidarity, revenue, or recruitment.
 - [Sustainable Free Tier](concepts/SustainableFreeTier.md) — No-cost product experience that reduces evaluation friction while bounding variable costs, abuse, upgrades, and whole-account margins.
+- [Agent Capability Drift](concepts/AgentCapabilityDrift.md) — Change over time in connector tools, infrastructure, destinations, outputs, dependencies, or effective authority after approval.
+- [Layered Agent Security Controls](concepts/LayeredAgentSecurityControls.md) — Secure-by-design pattern placing complementary controls across an agent's complete input-to-action path.
 
 ## Syntheses

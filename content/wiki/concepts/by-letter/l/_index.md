@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11768
+wiki_total_pages: 11770
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "LawyerState"
     title: "Lawyer State / 律师国家"
     url: "/wiki/concepts/lawyerstate/"
+  - key: "LayeredAgentSecurityControls"
+    title: "Layered Agent Security Controls"
+    url: "/wiki/concepts/layeredagentsecuritycontrols/"
   - key: "LayeredDepthDefense"
     title: "Layered Depth Defense / 纵深分层防御"
     url: "/wiki/concepts/layereddepthdefense/"

@@ -43504,6 +43504,20 @@ No settled contradiction was adopted. Render's team-seat fees were later removed
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,264 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
+## [2026-11-20] ingest | EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage
+
+Added a [[DataScienceWithSam]] interview with [[BenWilcox]], CTO and CISO of [[Proarc|ProArch]], on moving quickly with enterprise AI through explicit identity, permission, connector, data, egress, and monitoring boundaries. Created synthesis-first pages for Wilcox, [[AgentCapabilityDrift]], and [[LayeredAgentSecurityControls]], then resynthesized ProArch, [[ShadowAI]], [[AgentIdentityGovernance]], [[ModelContextProtocol]], Data Science With Sam, and [[SamDataScienceWithSam|Sam]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: agent risk follows the complete operating path. A compromised or confused model becomes materially more dangerous when it uses an overprivileged identity, can discover unnecessary tools, reaches sensitive data or destinations, and lacks external enforcement or monitoring. MCP approval is versioned rather than permanent because tool inventories and infrastructure can drift. Shadow AI is similarly fragmented across consumer services, extensions, SaaS features, developer tools, agents, and APIs. Early reusable controls can provide a faster compliant path, while model instructions cannot reliably enforce protected-data or network-destination decisions.
+
+No settled contradiction was adopted. The source reinforces existing identity-lifecycle, least-privilege, probabilistic-software, and defense-in-depth claims. Its speed advantage remains a strategic argument rather than a measured result, and the 107-tool MCP review, cited drift research, employee-tool inventory, and control effectiveness remain participant-reported because the supplied file provides no server identity, research citation, architecture, incident record, or independent benchmark. The ProArch display name was normalized from the earlier “Proarc” while preserving the stable canonical key. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,265 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-11-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

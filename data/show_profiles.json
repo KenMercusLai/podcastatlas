@@ -354,14 +354,14 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-11-20",
       "latest_episode_file": "1116_11 [1116_11].md",
-      "source_note_count": 53,
-      "topic_matched_source_note_count": 39,
+      "source_note_count": 54,
+      "topic_matched_source_note_count": 40,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 34
+          "source_note_count": 35
         },
         {
           "key": "politics",
@@ -392,7 +392,7 @@
         }
       ],
       "start_here_episode_files": [
-        "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+        "1116_11 [1116_11].md",
         "7fa893d2-884a-5648-be74-51d4515de28f [7fa893d2-884a-5648-be74-51d4515de28f.mp3？session_id=51a6dd39-afaf-58ae-912f-400726.com⧸data-science-with-sam-podcast⧸2026_11_03_04_15_45_66bdfb88-9235-41db-8740-31d799366f53].md",
         "CFAD6777888A0514D1A288ECCC8E7055~8584408_2026-08-10-214008-8787-0-0-1.128 [CFAD6777888A0514D1A288ECCC8E7055~8584408_2026-08-10-214008-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a324].md",
         "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md"

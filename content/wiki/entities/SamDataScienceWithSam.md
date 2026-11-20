@@ -29,7 +29,8 @@ sources:
   - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
   - ep-24-redefining-data-science-in-the-generative-ai-era
   - ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush
-last_updated: 2026-10-23
+  - ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage
+last_updated: 2026-11-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -39,7 +40,7 @@ knowledge_schema: synthesis-v1
 Sam is the first-name-only host of [[DataScienceWithSam]] in the available sources. His interviews connect data science and AI to the people, workflows, institutions, and judgment required for applied use.
 
 ## Current Profile
-Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI. EP24 applies that stance to generative-AI work through model choice, application auditability, and statistical evaluation; EP32 applies it to drug discovery through clinical evidence; EP33 applies it to agents through bounded tasks and explicit checks; EP35 broadens it into public accountability; and EP52 tests how leaders convert faster work into value without surrendering final judgment.
+Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI. EP24 applies that stance to generative-AI work through model choice, application auditability, and statistical evaluation; EP32 applies it to drug discovery through clinical evidence; EP33 applies it to agents through bounded tasks and explicit checks; EP35 broadens it into public accountability; EP52 tests how leaders convert faster work into value; and EP54 asks how identity, tools, data paths, egress, and deterministic guardrails let enterprise teams move without surrendering control to the model.
 
 ## Key Characteristics
 - Translates technical topics into workflow, stakeholder, and career questions for a broad audience.
@@ -68,6 +69,7 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] and [[ep-28-the-ai-revolution-redefining-healthcare-financing]] frame AI around privacy, reliability, consent, borrower readiness, and human trust.
 - [[ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai]] asks how employers can use prediction, benefit optimization, and wearables without surveillance, stigma, discriminatory design, or loss of human control.
 - [[ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job]] has Sam distinguish agent action loops from chat, bounded delegation from open-ended autonomy, and task displacement from demonstrated job displacement.
+- [[ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage]] has Sam connect fragmented shadow AI and broad agent authority to visibility, systematic controls, continuing AI literacy, and security as an enabler of bounded speed.
 
 ### Public authority and frontier governance
 - [[ep-35-who-actually-controls-ai-the-governance-gap-explained]] has Sam connect fragmented regulation, safety institutes, disclosure, international evaluation, military procurement, and public deliberation into a structural accountability problem.
@@ -80,11 +82,12 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - The profile describes his role and recurring interview framing, not private biography or views beyond the available episodes.
 - Some questions introduce examples or concerns rather than settled factual claims, so product and outcome details remain source-scoped.
 - EP52's company success, productivity compression, and ownership claims are guest-reported and not independently evaluated in the supplied note.
+- EP54's MCP review, capability-drift research, observed tool mix, and speed advantage are guest-reported and lack architecture or outcome evidence in the supplied note.
 
 ## What Changed
-- Added Sam's EP52 leadership framing around leverage, accountability, and collective human-machine work.
-- Added his distinction between AI productivity and the allocation of recovered time.
-- Extended his practical-adoption profile through one-problem experiments, KPIs, and value tests.
+- Added Sam's security-enablement framing for enterprise AI adoption.
+- Added his concern with fragmented shadow AI and full human-agent-tool-destination access chains.
+- Extended his human-driven AI stance from review of outputs to deterministic controls outside the model.
 
 ## Relationships
 - [[DataScienceWithSam]] - podcast series hosted by Sam in the available sources.
@@ -102,3 +105,5 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - [[GenerativeAIEvaluationDiscipline]] - EP24 use of statistical thinking to evaluate probabilistic systems.
 - [[ZahraDataScienceWithSam]] - EP52 guest discussing AI-enabled leadership and enterprise governance.
 - [[AIProductivityReinvestment]] - EP52 frame for directing saved time toward durable assets and opportunity.
+- [[BenWilcox]] - EP54 guest joining enterprise innovation and cybersecurity perspectives.
+- [[LayeredAgentSecurityControls]] - EP54 extension of Sam's verification boundary into end-to-end agent controls.

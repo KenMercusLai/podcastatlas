@@ -11786,6 +11786,22 @@
       "updated": "2026-10-22",
       "url": "/wiki/concepts/agentactionexternalities/"
     },
+    "AgentCapabilityDrift": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/agentcapabilitydrift/"
+    },
     "AgentCivilizationNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -11950,9 +11966,9 @@
       "url": "/wiki/concepts/agentgoaldriftdetection/"
     },
     "AgentIdentityGovernance": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
@@ -11967,9 +11983,16 @@
           "show": "Marketplace Tech",
           "title": "The internet’s next big domain expansion is underway",
           "url": "/wiki/sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
         }
       ],
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/agentidentitygovernance/"
     },
     "AgentMarketplace": {
@@ -34817,6 +34840,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/benrogers/"
+    },
+    "BenWilcox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/benwilcox/"
     },
     "BenchmarkAdoptionDesign": {
       "episode_count": 1,
@@ -78664,9 +78703,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 1,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -78856,9 +78895,16 @@
           "show": "Data Science With Sam",
           "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
           "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        },
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/datasciencewithsam/"
     },
     "DataScientistGenerativeAIFluency": {
@@ -188285,6 +188331,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/layeredaccessionriskverification/"
     },
+    "LayeredAgentSecurityControls": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/layeredagentsecuritycontrols/"
+    },
     "LayeredInstitutionalRealism": {
       "episode_count": 1,
       "show_count": 1,
@@ -225399,9 +225461,9 @@
       "url": "/wiki/concepts/modelcompaniesasaiinfrastructure/"
     },
     "ModelContextProtocol": {
-      "episode_count": 6,
-      "show_count": 6,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 7,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
@@ -225444,9 +225506,16 @@
           "show": "What's Next｜科技早知道",
           "title": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20",
           "url": "/wiki/sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3/"
+        },
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
         }
       ],
-      "updated": "2026-08-18",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/modelcontextprotocol/"
     },
     "ModelDistillation": {
@@ -264196,6 +264265,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/proactiveagents/"
     },
+    "Proarc": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+          "key": "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise",
+          "show": "Data Science With Sam",
+          "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",
+          "url": "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+        },
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/entities/proarc/"
+    },
     "ProbabilisticForecastingDiscipline": {
       "episode_count": 1,
       "show_count": 1,
@@ -287309,9 +287401,9 @@
       "url": "/wiki/entities/sambeale/"
     },
     "SamDataScienceWithSam": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -287494,9 +287586,16 @@
           "show": "Data Science With Sam",
           "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
           "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        },
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/samdatasciencewithsam/"
     },
     "SamHarris": {
@@ -294133,6 +294232,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/shachekingdomwesternhan/"
+    },
+    "ShadowAI": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+          "key": "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise",
+          "show": "Data Science With Sam",
+          "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",
+          "url": "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+        },
+        {
+          "episode_file": "1116_11 [1116_11].md",
+          "key": "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage",
+          "show": "Data Science With Sam",
+          "title": "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage",
+          "url": "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/shadowai/"
     },
     "ShadowIntegration": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3907
+topic_total_pages: 3910
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3277,6 +3277,9 @@ topic_concepts:
   - key: "LawyerState"
     title: "Lawyer State / 律师国家"
     url: "/wiki/concepts/lawyerstate/"
+  - key: "LayeredAgentSecurityControls"
+    title: "Layered Agent Security Controls"
+    url: "/wiki/concepts/layeredagentsecuritycontrols/"
   - key: "LayeredRobotArchitecture"
     title: "Layered Robot Architecture"
     url: "/wiki/concepts/layeredrobotarchitecture/"
@@ -5870,6 +5873,9 @@ topic_entities:
   - key: "BenRosen"
     title: "Ben Rosen"
     url: "/wiki/entities/benrosen/"
+  - key: "BenWilcox"
+    title: "Ben Wilcox"
+    url: "/wiki/entities/benwilcox/"
   - key: "BendingSpoons"
     title: "Bending Spoons"
     url: "/wiki/entities/bendingspoons/"
@@ -8109,7 +8115,7 @@ topic_entities:
     title: "Priya Rathod"
     url: "/wiki/entities/priyarathod/"
   - key: "Proarc"
-    title: "Proarc"
+    title: "ProArch"
     url: "/wiki/entities/proarc/"
   - key: "ProjectGlassfin"
     title: "Project Glassfin"
@@ -10524,6 +10530,9 @@ topic_sources:
   - key: "ep-51-building-ai-agents-that-actually-work-in-production"
     title: "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai"
     url: "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+  - key: "ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage"
+    title: "EP 54: Guardrails Don't Slow You Down - A CTO/CISO's Case for AI Security as a Speed Advantage"
+    url: "/wiki/sources/ep-54-guardrails-dont-slow-you-down-a-cto-cisos-case-for-ai-security-as-a-speed-advantage/"
   - key: "8226494223-026583"
     title: "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈"
     url: "/wiki/sources/8226494223-026583/"

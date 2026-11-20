@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14831
+wiki_total_pages: 14832
 wiki_pages:
   - key: "PearlHarborAttack"
     title: "Attack on Pearl Harbor"
@@ -1131,7 +1131,7 @@ wiki_pages:
     title: "Priya Rathod"
     url: "/wiki/entities/priyarathod/"
   - key: "Proarc"
-    title: "Proarc"
+    title: "ProArch"
     url: "/wiki/entities/proarc/"
   - key: "ProclamationLine1763"
     title: "Proclamation Line of 1763"
