@@ -3416,9 +3416,9 @@
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
     "AIEnabledVulnerabilityDiscovery": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 5,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
@@ -3468,9 +3468,16 @@
           "show": "Revisionist History",
           "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
           "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEntertainmentParticipationDesign": {
@@ -4208,9 +4215,9 @@
       "url": "/wiki/concepts/aihumanhybridmatchmaking/"
     },
     "AIIPOValuation": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 6,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -4337,6 +4344,13 @@
           "show": "Economist Podcasts",
           "title": "Racing ahead: Anthropic’s big IPO",
           "url": "/wiki/sources/4194361e8d09cb7174d917da6acfa892-4194361e8d09cb7174d917da6acfa892mp3aid6afeca038f8ad2908f6bec2echidd556eb54-6160-4/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
         }
       ],
       "updated": "2026-11-19",
@@ -63338,9 +63352,9 @@
       "url": "/wiki/entities/colemanruiz/"
     },
     "ColetteKress": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
@@ -63369,6 +63383,13 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "黃仁勳時代終結，輝達與AI產業將走向何方？",
           "url": "/wiki/sources/abd978a90cd81baa18b6159f3520bdfb/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
         }
       ],
       "updated": "2026-11-20",
@@ -119322,6 +119343,36 @@
       "updated": "2026-11-17",
       "url": "/wiki/concepts/formallegalityjusticegap/"
     },
+    "FormalVerification": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
+          "key": "137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的",
+          "url": "/wiki/sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/formalverification/"
+    },
     "FormalizedCultivationCritique": {
       "episode_count": 1,
       "show_count": 1,
@@ -120085,9 +120136,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -120123,6 +120174,13 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "黃仁勳時代終結，輝達與AI產業將走向何方？",
           "url": "/wiki/sources/abd978a90cd81baa18b6159f3520bdfb/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
         }
       ],
       "updated": "2026-11-20",
@@ -249267,9 +249325,9 @@
       "url": "/wiki/entities/patagoniaregion/"
     },
     "PatchReadinessTechnicalDebt": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "24354fbed76f [24354fbed76f].md",
@@ -249277,9 +249335,16 @@
           "show": "科技乱炖",
           "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
           "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/patchreadinesstechnicaldebt/"
     },
     "PatentCrossLicensing": {
@@ -278544,6 +278609,43 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/retailpricingoptimization/"
+    },
+    "RetailPrivateMarketAccess": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "tech_20261120_1120_MP_TECH_pod_128 [tech_20261120_1120_MP_TECH_pod_128].md",
+          "key": "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why retail investors have their sights on Anthropic",
+          "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/retailprivatemarketaccess/"
     },
     "RetailServiceCulture": {
       "episode_count": 1,

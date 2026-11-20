@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3914
+topic_total_pages: 3915
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11343,6 +11343,9 @@ topic_sources:
   - key: "tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128"
     title: "Why Big Tech leaders aligned themselves with White House politics this year"
     url: "/wiki/sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128/"
+  - key: "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128"
+    title: "Why retail investors have their sights on Anthropic"
+    url: "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
   - key: "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128"
     title: "Why the Trump administration plans to boost funding for subsea cables"
     url: "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"

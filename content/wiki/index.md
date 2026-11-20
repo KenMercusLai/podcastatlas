@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why retail investors have their sights on Anthropic](sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128.md) — Marketplace Tech on Anthropic's reported Nasdaq debut, Nvidia compensation and transparency pressure, and outage risk from AI-compressed patch timelines.
 - [696. Build, Baby, Build!](sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169.md) — Freakonomics Radio on housing affordability, zoning and permitting, family-sized homes, and housing as a qualified fertility-policy lever.
 - [总第076期：人民的数据中心](sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl.md) — 读报teleread把数据中心从抽象AI基础设施还原为涉及噪音、水电、就业、税收、地方同意与选举选择的分配问题。
 - [Delayed but not denied: justice for the Rohingyas](sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281.md) — Economist Podcasts on the Rohingya genocide judgment, AI-scaled cyberattacks, and Vladimir Uglev's Novichok legacy.

@@ -8,6 +8,7 @@ sources:
   - allin-e297-ch-allin-e297-ch
   - 541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281
   - abd978a90cd81baa18b6159f3520bdfb
+  - tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128
 last_updated: 2026-11-20
 ---
 
@@ -17,7 +18,7 @@ last_updated: 2026-11-20
 Colette Kress is [[Nvidia]]'s chief financial officer and, according to the source, its interim chief executive after [[JensenHuang|Jensen Huang]]'s reported resignation.
 
 ## Current Profile
-The sources place Kress at the center of a continuity bridge rather than presenting her as the confirmed permanent successor. Her finance leadership may support near-term stability while Nvidia's board searches for a long-term strategic leader. The newest episode reports that she had questioned some of Huang's aggressive investments and guarantees, sharpening the transition into a capital-allocation test: tighter discipline may reduce Nvidia's contingent risk while exposing customers whose growth depends on supplier investment or backstops. The next earnings release still covers a Huang-led quarter, so her answers and subsequent financing choices are more informative than inherited results.
+The sources place Kress at the center of a continuity bridge rather than presenting her as the confirmed permanent successor. Her finance leadership may support near-term stability while Nvidia's board searches for a long-term strategic leader. Her reported skepticism toward some of Huang's investments and guarantees sharpens the transition into a capital-allocation test: tighter discipline may reduce Nvidia's contingent risk while exposing dependent customers. The newest episode adds an internal legitimacy test. Strong inherited-quarter earnings and only one public resignation do not settle whether accelerated pay adjustments can retain talent or whether employees will accept continued opacity around Huang's departure.
 
 ## Key Characteristics
 - Serves as Nvidia's chief financial officer.
@@ -26,6 +27,7 @@ The sources place Kress at the center of a continuity bridge rather than present
 - Is not identified by the source as the selected permanent chief executive.
 - Is reported to have challenged some of Huang's aggressive investment and guarantee choices, implying a potentially more conservative risk posture.
 - Has a finance role and reported risk preference that do not by themselves establish either strength or weakness in product and engineering leadership.
+- Faces employee pressure over stock-linked compensation and disclosure while trying to preserve operating continuity.
 
 ## Evidence
 ### Interim continuity
@@ -41,12 +43,17 @@ The sources place Kress at the center of a continuity bridge rather than present
 ### Capital-allocation posture
 - [[abd978a90cd81baa18b6159f3520bdfb]] reports that Kress had questioned some of Huang's aggressive investments and guarantees, and presents a possible reduction in ecosystem support as both an Nvidia risk-control choice and a financing shock for dependent clouds.
 
+### Compensation, retention, and transparency
+- [[tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128]] reports that compensation led roughly 700 employee questions after a share-price decline reduced stock-pay value, and that management planned earlier salary increases and stock grants.
+- [[tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128]] also says transparency about Huang's departure ranked second, while Kress reportedly told employees that the board did not intend to bring him back and management had not promised to publish the investigation.
+
 ## Qualifications
-The supplied files are structured episode summaries rather than Nvidia filings, board announcements, investment-committee records, or interviews with Kress. Her interim appointment, authority, duration, candidacy, prior disagreements, and future capital policy therefore remain episode-attributed here. A finance-oriented risk posture could strengthen discipline without establishing technical leadership, and cautious capital allocation could protect Nvidia while putting more pressure on dependent customers.
+The supplied files are structured episode summaries rather than Nvidia filings, board announcements, investment-committee records, personnel data, compensation plans, investigation reports, or interviews with Kress. Her interim appointment, authority, duration, candidacy, prior disagreements, future capital policy, employee-question counts, pay changes, and disclosure choices therefore remain episode-attributed here. A finance-oriented risk posture could strengthen discipline without establishing technical leadership. One public resignation is not evidence of durable retention, while employee questions do not prove that a broader exodus will occur.
 
 ## What Changed
-- Added the episode-reported disagreement with aggressive investments and guarantees.
-- Reframed the transition as a test of both Nvidia risk discipline and customer dependence on ecosystem support.
+- Added compensation value and accelerated pay adjustments as immediate talent-retention tests.
+- Added investigation transparency as a separate employee-legitimacy issue.
+- Qualified near-term stability: inherited earnings and few public departures do not settle long-run retention.
 
 ## Relationships
 - [[Nvidia]] - company where Kress serves as CFO and reportedly as interim CEO.

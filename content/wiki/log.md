@@ -43591,3 +43591,17 @@ Downstream synthesis found no dirty controlled topic; the age gate triggered glo
 ## [2026-11-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-20] ingest | Why retail investors have their sights on Anthropic
+
+Added a [[MarketplaceTech]] episode connecting [[Anthropic]]'s episode-reported Nasdaq debut and retail demand with [[Nvidia]] employee compensation and transparency pressure, AI-compressed vulnerability timelines, patch-induced outage risk, and [[FormalVerification]]. Resynthesized [[AIIPOValuation]], [[RetailPrivateMarketAccess]], [[FounderLedPlatformSuccessionRisk]], [[ColetteKress|Colette Kress]], [[AIEnabledVulnerabilityDiscovery]], [[PatchReadinessTechnicalDebt]], and Formal Verification from each page's complete preserved evidence inventory before appending the new source once; migrated Retail Private-Market Access and Formal Verification to synthesis-v1.
+
+Core synthesis: broader IPO access and first-day enthusiasm do not establish durable valuation; inherited Nvidia earnings and few immediate resignations do not settle compensation, trust, or retention; and faster AI vulnerability discovery helps defenders only when validation, staged deployment, rollback, maintenance timing, and communication accelerate with it. The reported outage cluster retains separate causes, so patch-window compression is a possible common operational pressure rather than evidence of one coordinated attack.
+
+No settled contradiction was adopted. Anthropic's reported $2 trillion first-day value remains unreconciled with earlier forecasts and lacks primary exchange or filing detail. Nvidia compensation, employee-question, investigation, and resignation claims remain episode-attributed, as do outage, patch, formal-verification, and defensive-model claims. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,271 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
