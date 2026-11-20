@@ -11,7 +11,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275
   - tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128
   - tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128
-last_updated: 2026-11-10
+  - zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl
+last_updated: 2026-11-20
 ---
 
 # Data Center Community Consent
@@ -27,6 +28,8 @@ Community consent refines [[DataCenterBacklash]] from an opposition label into a
 The [[RichlandParish|Richland Parish, Louisiana]] case adds a supportive-community pathway. Participating officials describe early negotiation, continuing communication, construction-period fiscal benefits, lower water use than former agriculture, and operator-funded energy and grid costs. Other sources add a harder trust test: taxes, cleaner power, independent funds, and community benefit agreements can make value tangible, yet larger offers may deepen suspicion when job promises have disappointed or agreement effectiveness is unknown.
 
 The [[LancasterPennsylvania|Lancaster, Pennsylvania]] case shows why a government-negotiated benefit agreement is not itself proof of community consent. Closed technical negotiations, release only two days before a council vote, and exclusive city control over litigation can coexist with substantial financial penalties and shutdown authority. The current standard therefore separates agreement strength from process legitimacy: residents need time, information, representation, independent verification, and a credible route to enforcement, while zoning, permits, ordinances, and utility regulation preserve a mandatory floor that cannot be traded away in a benefits package.
+
+The Louisiana Hyperion account adds a pre-decision secrecy problem: episode-reported legislation, site selection, tax relief, land transactions, and generation planning advanced while some lawmakers and residents lacked the full project picture. Later construction wages, property appreciation, hotel demand, and fiscal improvement can explain genuine support, but they do not retroactively supply informed participation. Consent must therefore be evaluated both before commitment and through continuing monitoring, not inferred only from later economic gains or an election that leaves the governing coalition intact.
 
 ## Key Claims
 
@@ -48,6 +51,7 @@ The [[LancasterPennsylvania|Lancaster, Pennsylvania]] case shows why a governmen
 - **Trust and benefit delivery:** [[tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128]] adds independent funds, community benefit agreements, weak job delivery, and the risk that a richer offer is interpreted as an attempt to buy consent.
 - **Process and enforcement legitimacy:** [[tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128]] reports closed Lancaster negotiations, a two-day public review window, strong municipal remedies, and no resident standing.
 - **Institutional floor:** [[tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128]] adds benefits ordinances, zoning, conditional permits, utility regulation, and independent audits as complements to negotiated agreements.
+- **Pre-decision secrecy and later benefit:** [[zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl]] reports a large Louisiana project advancing through confidential coordination before public disclosure, followed by real but uneven construction and asset-price gains.
 
 ## Counterevidence & Qualifications
 
@@ -59,6 +63,7 @@ Community consent is not necessarily unanimity or an absolute veto. Strong local
 - Added public-proxy versus private-coalition tradeoffs in representation, authority, resources, and expertise.
 - Made resident standing, independent monitoring, review time, and political enforcement discretion explicit parts of consent.
 - Added zoning, permits, benefits ordinances, and utility regulation as a non-negotiable governance floor.
+- Separated later economic acceptance from informed participation before project commitment.
 
 ## Related Concepts
 

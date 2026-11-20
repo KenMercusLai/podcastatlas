@@ -3939,14 +3939,14 @@
       "earliest_episode_date": "2026-08-12",
       "latest_episode_date": "2026-11-20",
       "latest_episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
-      "source_note_count": 7,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 8,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "culture",
@@ -3957,10 +3957,10 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
-        "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
         "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
-        "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md"
+        "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+        "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md",
+        "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md"
       ]
     },
     "起朱楼宴宾客": {

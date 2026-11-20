@@ -10,7 +10,8 @@ sources:
   - zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw
   - zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42
   - zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r
-last_updated: 2026-11-07
+  - zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl
+last_updated: 2026-11-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,6 +30,8 @@ The regular reading episodes show the show's ordinary synthesis mode. One moves 
 The newest episode extends that synthesis practice into technology culture and concentrated power. It connects selective readings of science fiction with Larry Ellison's island and commercial network through a common question: how imagination becomes materially consequential once capital and institutional position can turn it into products, infrastructure, and governance. The episode again preserves tension rather than assigning a simple villain: “错意” need not be malicious, technological ambition can create real capacity, and large-scale success can still become a fragile relationship that must be continually maintained.
 
 The latest episode makes the show's reading method explicit. [[EditorialReading|Editorial reading]] treats an article as an independent work before treating it as a source of useful points or a mirror of personal preference. The host reads subject, reporting, scene, voice, structure, form, and ending as connected judgments; uses [[FormContentFit]] to explain why different material calls for different presentation; and presents [[ExperienceAsInterpretiveLensAndConstraint|experience]] as both a perceptual advantage and a source of premature pattern matching. The method also sharpens the show's AI boundary: summaries can retrieve information without reproducing the form through which a work creates meaning.
+
+The data-center episode applies that method to material infrastructure and political economy. It moves across noise, cooling water, construction work, permanent staffing, tax incentives, utility expansion, secrecy, and elections without assigning “the public” one interest. Workers, residents, taxpayers, ratepayers, and digital-service users can benefit and lose in different combinations, so shared exposure becomes collective politics only through organizing, disclosure, regulation, journalism, and voting.
 
 ## Key Characteristics
 - It is a Chinese podcast centered on reading, interpreting, and discussing articles through a recognizable host voice.
@@ -53,16 +56,17 @@ The latest episode makes the show's reading method explicit. [[EditorialReading|
 - Risk and ambivalence synthesis: [[zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw]] connects aviation safety, pilot disclosure, finite leave, employment gaps, and personality through risk substitution and same-cause attraction and aversion.
 - Imagination, capital, and power synthesis: [[zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42]] connects science-fiction appropriation, AI-product imagination, Ellison's island, Oracle's infrastructure expansion, and stakeholder dependence through context stripping and an imagination–capital flywheel.
 - Explicit reading method: [[zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r]] explains how genre, leads, sources, scenes, structure, endings, motive judgments, experience, and AI summaries enter the show's editorial reading practice.
+- Material-infrastructure synthesis: [[zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl]] connects data-center resource use, temporary and permanent work, taxes, bills, secrecy, and elections through overlapping but nonidentical public interests.
 
 ## Qualifications
-This page is source-limited to two fifth-anniversary episodes and five regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, corporate relationships, debt claims, product motives, editorial history, article interpretations, and historical claims in the regular episodes remain source-attributed rather than independently verified.
+This page is source-limited to two fifth-anniversary episodes and six regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, corporate relationships, debt claims, product motives, editorial history, article interpretations, infrastructure statistics, and historical claims in the regular episodes remain source-attributed rather than independently verified.
 
 ## What Changed
 - Added a regular reading episode showing how the show synthesizes multiple articles into a shared judgment problem.
-- Added the consumption episode, extending that synthesis profile to desire, identity, advertising, and qualified moral judgment.
 - Added the risk-and-rest episode, extending the profile to institutional trade-offs, time control, and causally coupled ambivalence.
 - Added the science-fiction and Ellison episode, extending the profile to cultural appropriation, future imagination, capital, power, and maintained success.
 - Added the editorial-reading episode, making the show's work-first reading method and form-sensitive AI-summary boundary explicit.
+- Added the data-center episode, extending the profile to material infrastructure, distributional conflict, and overlapping public roles.
 
 ## Relationships
 - [[PodcastProductionWorkflow]] - the source's detailed script, recommendation, and show-notes workflow grounds the show's production profile.
@@ -85,3 +89,4 @@ This page is source-limited to two fifth-anniversary episodes and five regular r
 - [[FormContentFit]] - connects editorial form to the distinctive properties and conflicts of the material.
 - [[ExperienceAsInterpretiveLensAndConstraint]] - explains why professional experience both reveals structure and risks flattening novelty.
 - [[AIContentCompressionLoss]] - distinguishes information extraction from preserving reporting, narrative, and formal meaning.
+- [[DataCenterCommunityConsent]] - the newest episode uses secrecy, public process, and organizing to show how divergent local interests become political choices.

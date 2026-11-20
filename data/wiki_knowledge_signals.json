@@ -4618,9 +4618,9 @@
       "url": "/wiki/concepts/aiinfrastructurefixedvsspotcontracting/"
     },
     "AIInfrastructureLaborDemand": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
@@ -4635,9 +4635,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/aiinfrastructurelabordemand/"
     },
     "AIInsuranceDataScarcity": {
@@ -78039,9 +78046,9 @@
       "url": "/wiki/concepts/datacenterairpermitparticipation/"
     },
     "DataCenterBacklash": {
-      "episode_count": 16,
-      "show_count": 5,
-      "source_note_count": 16,
+      "episode_count": 17,
+      "show_count": 6,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -78154,15 +78161,22 @@
           "show": "Marketplace Tech",
           "title": "Data centers lost in the midterms",
           "url": "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
         }
       ],
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/datacenterbacklash/"
     },
     "DataCenterCommunityConsent": {
-      "episode_count": 7,
-      "show_count": 3,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 4,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
@@ -78212,15 +78226,22 @@
           "show": "Marketplace Tech",
           "title": "Can communities and data centers find common ground?",
           "url": "/wiki/sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
     "DataCenterCostShifting": {
-      "episode_count": 15,
-      "show_count": 5,
-      "source_note_count": 15,
+      "episode_count": 16,
+      "show_count": 6,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
@@ -78326,9 +78347,16 @@
           "show": "Marketplace Tech",
           "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
           "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/datacentercostshifting/"
     },
     "DataCenterDebtRisk": {
@@ -78639,6 +78667,50 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/datacenterpowerbottleneck/"
+    },
+    "DataCenterTaxIncentives": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251216_1216_MP_TECH_pod_128 [tech_20251216_1216_MP_TECH_pod_128].md",
+          "key": "tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How states are competing in the data center gold rush",
+          "url": "/wiki/sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260717_0717_MP_TECH_pod_128 [tech_20260717_0717_MP_TECH_pod_128].md",
+          "key": "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Apple vs. OpenAI legal showdown",
+          "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
+        }
+      ],
+      "updated": "2026-11-20",
+      "url": "/wiki/concepts/datacentertaxincentives/"
     },
     "DataEngineLearningLoop": {
       "episode_count": 3,
@@ -91042,9 +91114,9 @@
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
@@ -91094,9 +91166,16 @@
           "show": "读报teleread",
           "title": "总第075期：像杂志编辑一样阅读",
           "url": "/wiki/sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-20",
       "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
@@ -96461,9 +96540,9 @@
       "url": "/wiki/concepts/electricaltechnologyrevolution/"
     },
     "ElectricityAffordabilityIndicator": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
@@ -96478,9 +96557,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        },
+        {
+          "episode_file": "cmwosevrp00b401upfo8w27gl [cmwosevrp00b401upfo8w27gl].md",
+          "key": "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl",
+          "show": "读报teleread",
+          "title": "总第076期：人民的数据中心",
+          "url": "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-20",
       "url": "/wiki/concepts/electricityaffordabilityindicator/"
     },
     "ElectrolyteDrinkUseBoundary": {

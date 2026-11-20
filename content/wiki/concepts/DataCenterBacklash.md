@@ -19,8 +19,9 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595
   - tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128
   - tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128
+  - zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl
 knowledge_schema: synthesis-v1
-last_updated: 2026-11-06
+last_updated: 2026-11-20
 ---
 
 # Data Center Backlash
@@ -36,6 +37,8 @@ The bounded record shows that backlash is neither one ideology nor merely a comm
 The [[RichlandParish|Richland Parish, Louisiana]] case supplies the strongest pro-buildout qualification in this source set. Local officials report construction-driven tax gains, teacher supplements, lower water use than prior farming, and a deal in which [[Meta]] pays its own energy and grid costs. The [[ScottBrennan]] interview adds the trust boundary: a cited survey found broad discomfort with neighborhood AI data centers, past job promises have often disappointed, and a larger financial offer can increase suspicion. The All-In source adds an industry-legitimacy diagnosis: voters may read data centers as the physical footprint of job anxiety and concentrated AI wealth unless operators show concrete public benefits and credible cost protection.
 
 Reported post-election outcomes move that pattern from prospective liability to ballot evidence: more than 40 jurisdictions across 10 states are said to have rejected development, and a cited exit poll made data centers important to many congressional voters. The timing qualification is equally important. Approved 2027-2028 projects may be difficult to stop retroactively, while power and equipment backlogs can sustain near-term construction; later projects face greater political uncertainty, and the broader AI economy weakens materially only if resistance also reduces demand for AI products. Backlash can therefore change the location and timing of buildout before it changes aggregate demand.
+
+The 读报teleread synthesis sharpens the voter mechanism without making it monocausal. Noise, water use, limited permanent staffing, tax concessions, household bills, and secret project development can change candidate choice even when voters retain prior ideological commitments and also respond to inflation, immigration, or dissatisfaction with government. The same source also rejects a unitary “ordinary people” interest: construction workers, teachers, nearby residents, ratepayers, taxpayers, and users of digital services can occupy different or overlapping positions around one project.
 
 ## Key Claims
 
@@ -57,6 +60,7 @@ Reported post-election outcomes move that pattern from prospective liability to 
 - **Trust and delivery boundary:** [[tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128]] links broad public discomfort to concentrated local harms, unfulfilled job expectations, limited agreement evaluation, and suspicion of increasingly generous offers.
 - **AI legitimacy and power response:** [[all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595]] connects project opposition to wealth concentration, job anxiety, weak public-benefit narratives, and proposals for large users to bring their own energy rather than shift grid costs to ordinary customers.
 - **Post-election salience and timing:** [[tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128]] reports multi-state ballot defeats and a cited exit poll while distinguishing protected near-term approvals from later siting risk and weaker end-user demand.
+- **Plural interests and candidate choice:** [[zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl]] links noise, water, jobs, taxes, bills, secrecy, and voting while preserving other electoral causes and divergent resident interests.
 
 ## Counterevidence & Qualifications
 
@@ -67,6 +71,7 @@ Backlash should not be treated as proof that every proposed facility is harmful,
 - Added reported multi-state ballot defeats as evidence that opposition has moved into election outcomes.
 - Distinguished protected near-term approvals from greater political risk for later projects.
 - Added end-user AI demand as the boundary between infrastructure friction and a broader AI-economy contraction.
+- Added the distinction between common exposure, divergent interests, and actual candidate choice.
 
 ## Related Concepts
 

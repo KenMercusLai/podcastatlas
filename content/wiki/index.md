@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [总第076期：人民的数据中心](sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl.md) — 读报teleread把数据中心从抽象AI基础设施还原为涉及噪音、水电、就业、税收、地方同意与选举选择的分配问题。
 - [Delayed but not denied: justice for the Rohingyas](sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281.md) — Economist Podcasts on the Rohingya genocide judgment, AI-scaled cyberattacks, and Vladimir Uglev's Novichok legacy.
 - [黃仁勳時代終結，輝達與AI產業將走向何方？](sources/abd978a90cd81baa18b6159f3520bdfb.md) — 端聞 connects Nvidia's founder succession to CUDA, Taiwan suppliers, sovereign AI, export controls, and ecosystem-financing risk.
 - [The internet’s next big domain expansion is underway](sources/tech-20261119-1119-mp-tech-pod-128-tech-20261119-1119-mp-tech-pod-128.md) — Marketplace Tech on ICANN's new-domain round, registry economics, country-code windfalls, `.agent`, branded extensions, and the community-backed `.meow` proposal.

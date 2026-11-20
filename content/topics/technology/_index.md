@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3913
+topic_total_pages: 3914
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11595,6 +11595,9 @@ topic_sources:
   - key: "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42"
     title: "总第074期：他们曾「见过」未来，于是创造了「现在」"
     url: "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+  - key: "zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl"
+    title: "总第076期：人民的数据中心"
+    url: "/wiki/sources/zong-di-076-qi-renmin-de-shuju-zhongxin-cmwosevrp00b401upfo8w27gl/"
   - key: "women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1"
     title: "我们把 AI 塞进花店后，才知道AI落地有多脏"
     url: "/wiki/sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1/"

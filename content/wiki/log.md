@@ -43563,3 +43563,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-20] ingest | 总第076期：人民的数据中心
+
+Added a [[DuBaoTeleread|读报teleread / 独报]] episode connecting data-center noise, cooling water, temporary and permanent employment, tax incentives, utility expansion, secrecy, local economic gains, and electoral choice. Resynthesized [[DataCenterBacklash]], [[DataCenterCostShifting]], [[DataCenterCommunityConsent]], [[AIInfrastructureLaborDemand]], [[ElectricityAffordabilityIndicator]], and the show profile from each page's complete preserved evidence inventory before appending the new source once, and migrated [[DataCenterTaxIncentives]] to synthesis-v1 on the same bounded-input basis.
+
+Core synthesis: data centers create overlapping rather than uniform public interests. Construction wages, property appreciation, tax revenue, schools, libraries, and municipal facilities can coexist with few permanent jobs, noise, water use, opaque bargaining, and household exposure to grid capacity built for uncertain future demand. Shared material exposure becomes political choice through organizing, disclosure, regulation, journalism, and voting.
+
+No settled contradiction was adopted. Project costs, water and electricity use, wholesale-price changes, utility arrears, polling, employment, tax expenditure, wages, property values, and political effects remain episode-attributed because the supplied file is a structured summary rather than the underlying reporting, datasets, legislation, utility dockets, or corporate records. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,269 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
