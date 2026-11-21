@@ -13,20 +13,20 @@ outputs: ["html"]
 - Overview: 1
 - Concepts: 11781
 - Entities: 14842
-- Sources: 5272
-- Total wiki content pages: 31896
+- Sources: 5273
+- Total wiki content pages: 31897
 
 ## Links
-- Wiki link references: 711712
-- Unique wiki link targets: 31940
-- Missing targets: 58
+- Wiki link references: 711766
+- Unique wiki link targets: 31942
+- Missing targets: 59
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5272
-- Matched episodes: 5272
+- Source pages: 5273
+- Matched episodes: 5273
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -84,6 +84,8 @@ outputs: ["html"]
   - `content/wiki/concepts/FungalNetworkIntelligenceBoundary.md`
 - `[[EmpathyAsRegulatedCapacity]]`
   - `content/wiki/concepts/HungerAsTotalDeprivation.md`
+- `[[EnterpriseAIAdoption]]`
+  - `content/wiki/sources/allin-e298-ch-allin-e298-ch.md`
 - `[[GeneticRescue]]`
   - `content/wiki/concepts/HeritableWildlifeVaccination.md`
 - `[[GutMicrobiomeNutritionSupport]]`

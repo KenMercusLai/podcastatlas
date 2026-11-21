@@ -43619,3 +43619,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-21] ingest | Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?
+
+Added an [[AllIn|All-In]] episode linking [[Anthropic]]'s episode-reported public valuation to an AI-supercompany thesis spanning applications, models, compute, data centers, land, and power. Resynthesized [[StrategicStackIntegration]], [[OpenSourceAIBanRisk]], [[ExecutiveConductGovernanceRisk]], [[ColetteKress|Colette Kress]], and [[PaloAltoNetworks|Palo Alto Networks]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: selective control of differentiated or scarce layers can improve coordination and bargaining power, but an eight-to-ten-supercompany outcome, acquisition value, and the claim that investment should displace buybacks remain forecasts rather than comparative performance evidence. Disclosure of Chinese open-model use is distinct from a use ban; downloaded weights can improve auditability, local operation, and data control without proving safety, lawful training, neutrality, or reproducibility. Nvidia's strong inherited-quarter results, interim financing posture, litigation, petitions, and reported refusal to reinstate Huang affect governance consequences but do not establish why he left or whether any allegation is true.
+
+No settled contradiction was adopted. Long-run AI optimism can coexist with short-run valuation caution, and strong operating results can coexist with succession and trust risk. Anthropic valuation, Nvidia financial and market figures, corporate transactions, model-policy proposals, investigations, testimony, financing, H200 sales, and employee claims remain episode-attributed because the supplied file is a structured summary rather than primary financial, legal, policy, or hearing evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,273 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

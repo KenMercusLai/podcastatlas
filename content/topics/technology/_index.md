@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3915
+topic_total_pages: 3916
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10095,6 +10095,9 @@ topic_sources:
   - key: "tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128"
     title: "An Ohio newspaper gives AI a byline"
     url: "/wiki/sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128/"
+  - key: "allin-e298-ch-allin-e298-ch"
+    title: "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?"
+    url: "/wiki/sources/allin-e298-ch-allin-e298-ch/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g"
     title: "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"

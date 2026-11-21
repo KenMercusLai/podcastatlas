@@ -63352,9 +63352,9 @@
       "url": "/wiki/entities/colemanruiz/"
     },
     "ColetteKress": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
@@ -63390,9 +63390,16 @@
           "show": "Marketplace Tech",
           "title": "Why retail investors have their sights on Anthropic",
           "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "ALLIN-E298_Ch [ALLIN-E298_Ch].md",
+          "key": "allin-e298-ch-allin-e298-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+          "url": "/wiki/sources/allin-e298-ch-allin-e298-ch/"
         }
       ],
-      "updated": "2026-11-20",
+      "updated": "2026-11-21",
       "url": "/wiki/entities/colettekress/"
     },
     "ColinCampbellBritishArmy": {
@@ -107696,9 +107703,9 @@
       "url": "/wiki/concepts/executionstatusandbodyintegrity/"
     },
     "ExecutiveConductGovernanceRisk": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GKwRIJIOx3zoAFMB9AT4mvyn [GKwRIJIOx3zoAFMB9AT4mvyn].md",
@@ -107727,9 +107734,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
           "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
+        },
+        {
+          "episode_file": "ALLIN-E298_Ch [ALLIN-E298_Ch].md",
+          "key": "allin-e298-ch-allin-e298-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+          "url": "/wiki/sources/allin-e298-ch-allin-e298-ch/"
         }
       ],
-      "updated": "2026-11-14",
+      "updated": "2026-11-21",
       "url": "/wiki/concepts/executiveconductgovernancerisk/"
     },
     "ExecutiveFunction": {
@@ -243041,9 +243055,9 @@
       "url": "/wiki/entities/opensecrets/"
     },
     "OpenSourceAIBanRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
@@ -243058,9 +243072,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
+        },
+        {
+          "episode_file": "ALLIN-E298_Ch [ALLIN-E298_Ch].md",
+          "key": "allin-e298-ch-allin-e298-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+          "url": "/wiki/sources/allin-e298-ch-allin-e298-ch/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-11-21",
       "url": "/wiki/concepts/opensourceaibanrisk/"
     },
     "OpenSourceAICodeGovernance": {
@@ -247434,9 +247455,9 @@
       "url": "/wiki/entities/palm/"
     },
     "PaloAltoNetworks": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
@@ -247458,9 +247479,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
           "url": "/wiki/sources/allin-e294-ch-allin-e294-ch/"
+        },
+        {
+          "episode_file": "ALLIN-E298_Ch [ALLIN-E298_Ch].md",
+          "key": "allin-e298-ch-allin-e298-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+          "url": "/wiki/sources/allin-e298-ch-allin-e298-ch/"
         }
       ],
-      "updated": "2026-10-24",
+      "updated": "2026-11-21",
       "url": "/wiki/entities/paloaltonetworks/"
     },
     "PamelaWisniewski": {
@@ -311341,9 +311369,9 @@
       "url": "/wiki/concepts/strategicroyalkingdombuffer/"
     },
     "StrategicStackIntegration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
@@ -311351,9 +311379,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
           "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        },
+        {
+          "episode_file": "ALLIN-E298_Ch [ALLIN-E298_Ch].md",
+          "key": "allin-e298-ch-allin-e298-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+          "url": "/wiki/sources/allin-e298-ch-allin-e298-ch/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-21",
       "url": "/wiki/concepts/strategicstackintegration/"
     },
     "StrategicVisibilityScrutinyTradeoff": {
