@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3916
+topic_total_pages: 3917
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11442,6 +11442,9 @@ topic_sources:
   - key: "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o"
     title: "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy"
     url: "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"
+  - key: "9492e69c76ab-9492e69c76ab"
+    title: "从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？"
+    url: "/wiki/sources/9492e69c76ab-9492e69c76ab/"
   - key: "c1f006c2d282-c1f006c2d282"
     title: "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？"
     url: "/wiki/sources/c1f006c2d282-c1f006c2d282/"

@@ -5403,6 +5403,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Next World Order: Astrology, History and the Future](sources/default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190.md) — Tomorrow Today interview with Abhigyan Anand on Jyotisha forecasting, institutional trust, food resilience, algorithmic sovereignty, delayed gratification, and evidence limits.
 
 - [You Can Seize Everything (The U.S. is reviving pirate law)](sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318.md) — Planet Money on modern prize-court planning, seized-tanker custody costs, forfeiture due process, and the unresolved statutory meaning of war.
+- [从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？](sources/9492e69c76ab-9492e69c76ab.md) — 科技乱炖连接 DeepSeek 消费端限流、Agent 轨迹数据、国产芯片软硬件适配与 AI 产业应用。
 
 ## Entities
 - [Ed Glaeser](entities/EdGlaeser.md) — Housing economist using price, production cost, regulation, and construction volume to diagnose supply constraints.

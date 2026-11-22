@@ -4,7 +4,8 @@ type: concept
 tags: [ai, compute, energy, national-security, infrastructure]
 sources:
   - all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm
-last_updated: 2026-10-03
+  - 9492e69c76ab-9492e69c76ab
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ Strategic compute capacity is the national ability to supply, secure, allocate, 
 ## Current Synthesis
 The episode argues that model governance cannot be separated from physical capacity. When open weights can circulate and models can run locally or across borders, policy attention shifts toward the scarce infrastructure that determines deployment scale: accelerators, power, data centers, inference access, and cyber defense.
 
-That shift does not settle who should allocate compute. Markets can direct capacity toward valued uses and rapid construction, while concentrated infrastructure, national-security competition, grid limits, and dual-use threats can invite utility-style oversight or government direction. Specific privacy, pollution, ratepayer, land, and security harms still require their own rules rather than being erased by strategic language.
+That shift does not settle who should allocate compute. Markets can direct capacity toward valued uses and rapid construction, while concentrated infrastructure, national-security competition, grid limits, export restrictions, and dual-use threats can invite utility-style oversight or government direction. Inside a model lab, the same allocation problem appears among free consumer inference, enterprise APIs, frontier training, experiments, and agent workloads. Specific privacy, pollution, ratepayer, land, labor, and security harms still require their own rules rather than being erased by strategic language.
 
 ## Key Claims
 - Compute quantity can matter alongside model capability in national AI competition.
@@ -22,6 +23,7 @@ That shift does not settle who should allocate compute. Markets can direct capac
 - Distributed open models weaken software-only control and raise the strategic importance of infrastructure and cyber defense.
 - Strategic status may increase pressure for government influence over allocation even when buildout is privately financed.
 - National-security framing does not remove local cost, privacy, environmental, reliability, or consent obligations.
+- Effective capacity depends on accelerator generation, software compatibility, cluster operations, and allocation, not only nominal chip count.
 
 ## Evidence
 ### Model-to-infrastructure shift
@@ -36,13 +38,16 @@ That shift does not settle who should allocate compute. Markets can direct capac
 ### Defensive layer
 - [[all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm]] predicts rising public and private cyber-defense spending as AI expands attack and defense capability.
 
+### Allocation under scarcity
+- [[9492e69c76ab-9492e69c76ab]] connects reported consumer-service limits to competition among inference, APIs, training, experiments, and agent demand, while arguing that heterogeneous or older accelerators do not translate one-for-one into usable frontier capacity.
+
 ## Counterevidence & Qualifications
-The source supplies a strategic argument, not verified comparative grid statistics, a formal allocation proposal, or evidence that compute controls can govern every open or locally run model. Infrastructure control can constrain large-scale capability without controlling all use. National-security urgency can also obscure community cost shifting or justify inefficient allocation, while market allocation can underprovide resilience and defensive access.
+The sources supply strategic arguments, not verified comparative fleet or grid statistics, a formal allocation proposal, or evidence that compute controls can govern every open or locally run model. Nominal accelerator counts do not establish effective capacity when generations, software, interconnect, reliability, and utilization differ. Infrastructure control can constrain large-scale capability without controlling all use. National-security urgency can also obscure community cost shifting or justify inefficient allocation, while market allocation can underprovide resilience and defensive access.
 
 ## What Changed
-- Established compute capacity as a joined chip, power, data-center, inference, and cyber-defense concept.
-- Added the unresolved market-versus-government allocation tension.
-- Preserved local harms and cost allocation as independent governance tests.
+- Extended capacity from national inventory to lab-level allocation among serving, training, and experiments.
+- Added accelerator heterogeneity, software, cluster operations, and utilization as effective-capacity tests.
+- Preserved local harms, cost allocation, and the market-versus-government tension.
 
 ## Related Concepts
 - [[DataCenterPowerBottleneck]] - physical energization constraint inside strategic compute capacity.
@@ -51,3 +56,5 @@ The source supplies a strategic argument, not verified comparative grid statisti
 - [[OpenSourceAIModels]] - distribution pattern that weakens model-file control and shifts attention toward infrastructure.
 - [[AIColdWar]] - geopolitical competition frame surrounding compute capacity.
 - [[DataCenterCostShifting]] - local and ratepayer burden that strategic framing must still address.
+- [[TrainingComputeAllocation]] - internal distribution of scarce accelerators across experiments and model-development stages.
+- [[DomesticAIChipCatchUp]] - national effort to expand usable capacity under foreign-hardware constraints.

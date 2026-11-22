@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-23] ingest | 从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？
+
+Added a [[KejiLuandun|科技乱炖]] episode connecting reported [[DeepSeek]] consumer-service limits with compute allocation, [[AgentData|agent data]], harness ecosystems, domestic accelerator migration, and broader industrial AI adoption. Resynthesized DeepSeek, Agent Data, [[DomesticAIChipCatchUp|Domestic AI Chip Catch-Up]], and [[StrategicComputeCapacity|Strategic Compute Capacity]] from each page's complete preserved evidence inventory before appending the new source once; Agent Data was also migrated to the synthesis-first schema.
+
+Core synthesis: scarce compute is allocated across free chat, enterprise serving, training, experiments, and increasingly token-heavy agent workloads. Task-grounded agent trajectories can be more useful than heterogeneous chat history when goals, actions, outcomes, and permissions are legible, but this is contextual rather than a universal data ranking. Domestic-chip catch-up remains a full-stack problem: shipment counts and inference deployments do not establish frontier-training readiness without fabrication capacity, software compatibility, shared tooling, model adaptation, cluster reliability, power, cooling, and experienced operators.
+
+No settled contradiction was adopted. Reported service limits, chip generations, fleet sizes, shipment shares, company strategies, overseas-access rules, and migration timelines remain episode-attributed because the supplied file is a structured summary without primary documentation for those claims. AI-assisted CUDA porting can reduce known translation work but does not remove kernel, performance, debugging, distributed-training, or operations constraints. Broad [[Nvidia]], [[Huawei]], [[CUDA]], [[GPU]], and [[DeepSeekHarness]] profiles and the automatic `wiki/overview.md` remained closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic; global compaction was due on its age gate and refreshed the existing grounded executive map. Generated artifacts validate 5,274 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-18] ingest | 当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36
 
 Added a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] interview with [[BianJiang|边疆]] on [[RDAgent]], [[AIForAI|AI for AI]], [[AutoResearch]], and [[RecursiveSelfImprovement|recursive self-improvement]]. Created synthesis-first profiles for Bian Jiang and RDAgent, then resynthesized AI For AI, Auto Research, and Recursive Self-Improvement from each page's complete preserved evidence inventory before appending the new source once.
@@ -43631,5 +43641,9 @@ No settled contradiction was adopted. Long-run AI optimism can coexist with shor
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,273 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

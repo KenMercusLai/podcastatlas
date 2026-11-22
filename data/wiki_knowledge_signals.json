@@ -11903,6 +11903,43 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/agentcommandcenter/"
     },
+    "AgentData": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S4-AlexandrWang-v3 [TSR-S4-AlexandrWang-v3].md",
+          "key": "tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3",
+          "show": "The Social Radars",
+          "title": "Alexandr Wang on Scale and AI Data Infrastructure",
+          "url": "/wiki/sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3/"
+        },
+        {
+          "episode_file": "9492e69c76ab [9492e69c76ab].md",
+          "key": "9492e69c76ab-9492e69c76ab",
+          "show": "科技乱炖",
+          "title": "从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？",
+          "url": "/wiki/sources/9492e69c76ab-9492e69c76ab/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/agentdata/"
+    },
     "AgentDelegationFriction": {
       "episode_count": 2,
       "show_count": 2,
@@ -81418,9 +81455,9 @@
       "url": "/wiki/concepts/deepnonremsleepanxietyregulation/"
     },
     "DeepSeek": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 12,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
@@ -81645,9 +81682,16 @@
           "show": "Data Science With Sam",
           "title": "EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics",
           "url": "/wiki/sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics/"
+        },
+        {
+          "episode_file": "9492e69c76ab [9492e69c76ab].md",
+          "key": "9492e69c76ab-9492e69c76ab",
+          "show": "科技乱炖",
+          "title": "从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？",
+          "url": "/wiki/sources/9492e69c76ab-9492e69c76ab/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/deepseek/"
     },
     "DeepTimeMentalProsthesis": {
@@ -88242,9 +88286,9 @@
       "url": "/wiki/entities/domesdaybook/"
     },
     "DomesticAIChipCatchUp": {
-      "episode_count": 6,
-      "show_count": 5,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
@@ -88287,9 +88331,16 @@
           "show": "晚点聊 LateTalk",
           "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
           "url": "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+        },
+        {
+          "episode_file": "9492e69c76ab [9492e69c76ab].md",
+          "key": "9492e69c76ab-9492e69c76ab",
+          "show": "科技乱炖",
+          "title": "从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？",
+          "url": "/wiki/sources/9492e69c76ab-9492e69c76ab/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/domesticaichipcatchup/"
     },
     "DomesticAuthorityWithoutSecurity": {
@@ -310809,9 +310860,9 @@
       "url": "/wiki/concepts/strategiccomposureunderinjustice/"
     },
     "StrategicComputeCapacity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm .md",
@@ -310819,9 +310870,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
+        },
+        {
+          "episode_file": "9492e69c76ab [9492e69c76ab].md",
+          "key": "9492e69c76ab-9492e69c76ab",
+          "show": "科技乱炖",
+          "title": "从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？",
+          "url": "/wiki/sources/9492e69c76ab-9492e69c76ab/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/strategiccomputecapacity/"
     },
     "StrategicDefectorIncorporation": {

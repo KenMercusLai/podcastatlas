@@ -36,7 +36,8 @@ sources:
   - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
   - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
   - ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics
-last_updated: 2026-10-05
+  - 9492e69c76ab-9492e69c76ab
+last_updated: 2026-11-23
 ---
 
 # DeepSeek
@@ -47,7 +48,7 @@ DeepSeek is a Chinese AI lab and open-weight model family that became a major re
 ## Current Profile
 Across the bounded sources, DeepSeek is significant less as a single cheap-model headline than as a combined technical, ecosystem, and market event. R1 and V3-era releases made architecture, sparse models, reinforcement learning, distillation, open releases, inference optimization, and constrained-resource engineering visible to a broad audience. They also forced investors, model labs, infrastructure projects, Chinese technology companies, and enterprise buyers to reconsider whether access to the largest compute budget creates a durable moat by itself.
 
-The current judgment remains qualified. Reported training costs do not capture the full model factory, open weights do not expose every dataset or process, and public distillation accusations remain unproven in the source set. DeepSeek's later pricing, local-use, routing, and harness examples show a normalizing provider: it must fund inference, compete on quality and reliability, support infrastructure, and coexist with other models rather than remain a one-time geopolitical symbol.
+The current judgment remains qualified. Reported training costs do not capture the full model factory, open weights do not expose every dataset or process, and public distillation accusations remain unproven in the source set. DeepSeek's later pricing, consumer-service limits, local-use, routing, and harness examples show a normalizing provider that must allocate scarce compute among free chat, paid APIs, training, experiments, and ecosystem work while competing on quality and reliability.
 
 ## Key Characteristics
 - Efficiency-oriented model engineering can change capability per unit of compute and weaken a simple spending-only moat.
@@ -56,6 +57,7 @@ The current judgment remains qualified. Reported training costs do not capture t
 - Real-world use increasingly depends on routing among hosted, local, cheap, and frontier models rather than choosing one permanent provider.
 - The model family's influence includes architecture, post-training, distillation practice, and model-infrastructure co-design, not only price.
 - Enterprise deployment retains trust, provenance, jurisdiction, safety, and data-control constraints even when weights can be self-hosted.
+- Compute allocation is part of product strategy: consumer access, enterprise serving, training, and research compete for the same constrained accelerator base.
 
 ## Evidence
 ### Efficiency, architecture, and model-infrastructure co-design
@@ -74,6 +76,7 @@ The current judgment remains qualified. Reported training costs do not capture t
 - [[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] shows peak/off-peak API pricing turning DeepSeek into a normal routing decision rather than an always-cheapest default.
 - [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] gives a source-scoped local-model workflow for batch summaries, memory work, and repeated processing.
 - [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] and [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] place DeepSeek inside cost-aware routing among frontier, local, and cheaper models.
+- [[9492e69c76ab-9492e69c76ab]] interprets reported consumer-chat limits as a source-scoped compute-allocation response and points to third-party open-model serving as an alternative access path.
 
 ### Organizational, geopolitical, and market effects
 - [[yao-shunyu-laidao-tengxun-300tian-1-176-1]] describes DeepSeek's breakout as an organizational shock that helped [[Tencent]] reconsider its frontier-model team.
@@ -86,12 +89,14 @@ The current judgment remains qualified. Reported training costs do not capture t
 - Benchmark parity in one source does not establish equal reliability, safety, latency, task coverage, or enterprise readiness.
 - Distillation is a standard technique, but the bounded sources do not prove public accusations about unauthorized DeepSeek use of closed-model outputs.
 - Several later model and product names, prices, timelines, and performance reports come from podcast hosts and may contain transcription or rumor-level uncertainty.
+- The newest source does not independently verify DeepSeek's exact service limits, compute inventory, allocation decisions, data policy, or strategic motive.
 - Self-hosting open weights can reduce API data exposure but does not remove provenance, security, censorship, compliance, or operational risk.
 
 ## What Changed
 - R1's place in the profile is now explicitly an efficiency and expectation shock, not validation of one headline cost figure.
 - Enterprise self-hosting is now distinguished from sending sensitive queries to a provider-controlled API.
 - The current profile more clearly separates DeepSeek's open artifact and ecosystem effects from the full, still partly opaque model-development process.
+- Consumer-service limits now make compute allocation across chat, APIs, training, and experiments an explicit part of the profile.
 
 ## Relationships
 - [[ChineseOpenWeightAIStrategy]] - strategic context for downloadable weights, adoption, and geopolitical accessibility.
@@ -103,3 +108,4 @@ The current judgment remains qualified. Reported training costs do not capture t
 - [[AIExportControls]] - policy pressure that can constrain hardware while inducing alternative engineering routes.
 - [[DataSovereignty]] - enterprise deployment concern separating hosted API use from controlled inference.
 - [[Nvidia]] - compute supplier and market symbol affected by the R1 efficiency narrative.
+- [[StrategicComputeCapacity]] - physical capacity and allocation constraint behind training, experiments, and model serving.

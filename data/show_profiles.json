@@ -3401,14 +3401,14 @@
       "earliest_episode_date": "2025-12-09",
       "latest_episode_date": "2026-11-22",
       "latest_episode_file": "9492e69c76ab [9492e69c76ab].md",
-      "source_note_count": 29,
-      "topic_matched_source_note_count": 22,
+      "source_note_count": 30,
+      "topic_matched_source_note_count": 23,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 21
+          "source_note_count": 22
         },
         {
           "key": "economics",
@@ -3435,7 +3435,7 @@
           "title": "DeepSeek",
           "url": "/wiki/entities/deepseek/",
           "kind": "organization",
-          "episode_count": 5
+          "episode_count": 6
         },
         {
           "key": "Apple",
@@ -3488,10 +3488,10 @@
         }
       ],
       "start_here_episode_files": [
-        "d6a57e77346c [d6a57e77346c].md",
+        "9492e69c76ab [9492e69c76ab].md",
         "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
         "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
-        "9492e69c76ab [9492e69c76ab].md"
+        "d6a57e77346c [d6a57e77346c].md"
       ]
     },
     "端聞 | 端傳媒新聞播客": {
