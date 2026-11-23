@@ -5410,6 +5410,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1.md) — 硅谷101 episode on financial AI, market making, dependent market samples, non-stationarity, execution, quantitative research discipline, and risk-first survival.
 
+- [2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？](sources/97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4.md) — 端聞以三十年家庭照顧經驗檢視思覺失調症污名、自傷風險、照顧者老化，以及台灣新版《精神衛生法》從法律承諾走向社區支持的落差。
+
 ## Entities
 - [Rothy's](entities/Rothys.md) — Washable knit-footwear brand joining recycled polyester, proprietary manufacturing, healthy reported economics, and cautious retail growth.
 - [Roth Martin](entities/RothMartin.md) — Rothy's co-founder whose path from commodities and furniture dealing led into manufacturing-intensive footwear development.
@@ -32270,5 +32272,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High-Frequency Trading / 高频交易](concepts/HighFrequencyTrading.md) — Automated short-horizon trading where latency remains important but pure speed gains face declining marginal returns.
 - [Financial Market Non-Stationarity / 金融市场非平稳性](concepts/FinancialMarketNonstationarity.md) — Changing market data generation caused by adaptive participants, regimes, rules, information, and liquidity.
 - [Quantitative Research Discipline / 量化研究纪律](concepts/QuantitativeResearchDiscipline.md) — Problem selection, statistical judgment, behavioral validation, and rigorous review around model-driven trading.
+
+- [Community Mental Health Support / 社區精神健康支持](concepts/CommunityMentalHealthSupport.md) — 在急性醫療之外連結個案管理、復健、居住、工作、照顧者支持、地方交付與鄰里接納的持續支持層。
 
 ## Syntheses

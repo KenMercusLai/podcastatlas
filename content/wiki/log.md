@@ -43703,3 +43703,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-23] ingest | 2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？
+
+Added the [[DuanwenNewsPodcast|端聞 / 端傳媒新聞播客]] report on a Taiwan family living with serious mental illness for roughly thirty years. Created [[CommunityMentalHealthSupport]] to connect post-hospital rehabilitation, supported living and work, caregiver support, local delivery capacity, neighborhood contact, and the trust needed for services to enter families.
+
+Resynthesized [[MentalIllnessDestigmatization]] and [[SeriousMentalIllnessFamilyCareBoundary]] from their complete preserved evidence inventories before appending the new source once. The new evidence distinguishes diagnosis-only violence narratives from contextual risk, adds everyday supported contact as a bounded anti-stigma mechanism, and makes caregiver aging and post-death transfer of responsibility part of the family-care boundary.
+
+No settled contradiction was adopted. The episode's single family, single workshop, policy-implementation claims, and reported epidemiological figures remain source-scoped and do not constitute individualized clinical, crisis, or legal guidance.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,279 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

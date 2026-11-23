@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11789
+wiki_total_pages: 11790
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2066,6 +2066,9 @@ wiki_pages:
   - key: "CommunityIntegratedCare"
     title: "Community Integrated Care / 社区综合照护"
     url: "/wiki/concepts/communityintegratedcare/"
+  - key: "CommunityMentalHealthSupport"
+    title: "Community Mental Health Support / 社區精神健康支持"
+    url: "/wiki/concepts/communitymentalhealthsupport/"
   - key: "CommunityVsContentPlatform"
     title: "Community vs Content Platform / 社区与内容平台区别"
     url: "/wiki/concepts/communityvscontentplatform/"

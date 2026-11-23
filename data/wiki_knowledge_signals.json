@@ -65319,6 +65319,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/communityledsaasgrowth/"
     },
+    "CommunityMentalHealthSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "97a55906e72b40e89f4d9bf783c20ef4 [97a55906e72b40e89f4d9bf783c20ef4.mp3？aid=6b03f44c9870152240751347&chid=66b07190af99592.281].md",
+          "key": "97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？",
+          "url": "/wiki/sources/97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/communitymentalhealthsupport/"
+    },
     "CommunityServicePowerBuilding": {
       "episode_count": 1,
       "show_count": 1,
@@ -220411,9 +220427,9 @@
       "url": "/wiki/concepts/mentalhealthsymptomescalation/"
     },
     "MentalIllnessDestigmatization": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -220442,9 +220458,16 @@
           "show": "无时差研究所",
           "title": "EP67-别抗拒，心理咨询可能并不是你想的那样！",
           "url": "/wiki/sources/ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899/"
+        },
+        {
+          "episode_file": "97a55906e72b40e89f4d9bf783c20ef4 [97a55906e72b40e89f4d9bf783c20ef4.mp3？aid=6b03f44c9870152240751347&chid=66b07190af99592.281].md",
+          "key": "97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？",
+          "url": "/wiki/sources/97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4/"
         }
       ],
-      "updated": "2026-11-03",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/mentalillnessdestigmatization/"
     },
     "MentalImagerySpectrum": {
@@ -294328,9 +294351,9 @@
       "url": "/wiki/entities/sergiupasca/"
     },
     "SeriousMentalIllnessFamilyCareBoundary": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -294345,9 +294368,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
           "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        },
+        {
+          "episode_file": "97a55906e72b40e89f4d9bf783c20ef4 [97a55906e72b40e89f4d9bf783c20ef4.mp3？aid=6b03f44c9870152240751347&chid=66b07190af99592.281].md",
+          "key": "97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？",
+          "url": "/wiki/sources/97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {
