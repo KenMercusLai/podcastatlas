@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Music and Your Mind](sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503.md) — Hidden Brain joins Elizabeth Margulis on learned musical meaning and autobiographical memory with Daisy Fancourt on qualified arts-and-health participation.
 - [In the life of prime: AI’s latest maths triumph](sources/in-the-life-of-prime-ais-latest-maths-triumph-0543079e679f77fa9c07ce929a73b21f.md) — Economist Podcasts on a reported Claude-and-Lean Riemann-hypothesis proof, Japan’s new disaster agency, and worsening financial precarity among American renters.
 - [Hollywood brings Big Tech's drama to the big screen](sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128.md) — Marketplace Tech and Joe Street connect founder biopics, changing technology sentiment, Hollywood-Silicon Valley rivalry, and distribution control.
 - [2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境](sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281.md) — 端聞以失智家庭與重大長照案件檢視台灣照顧者孤立、風險辨識、服務可及性、雙方權利及超高齡社會的照顧倫理。
@@ -5417,6 +5418,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [Elizabeth Margulis](entities/ElizabethMargulis.md) — Music psychologist studying how listeners turn sound into memory, imagery, expectation, movement, and culturally patterned meaning.
 - [Levan Alpoge](entities/LevanAlpoge.md) — Mathematician credited by the episode with a Claude-assisted, Lean-checked proof of the Riemann hypothesis.
 - [Japan Disaster Management Agency](entities/JapanDisasterManagementAgency.md) — Reported specialist Japanese agency for institutional memory, cross-ministry coordination, and pre-disaster preparation.
 - [Joe Street](entities/JoeStreet.md) — Historian interpreting technology-founder films through cultural anxiety, narrative simplification, and media-industry power.
@@ -20374,6 +20376,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Listener-Constructed Musical Meaning](concepts/ListenerConstructedMusicalMeaning.md) — Interaction among acoustic structure, learned expectation, association, embodiment, repetition, and cultural exposure.
+- [Music-Evoked Autobiographical Memory](concepts/MusicEvokedAutobiographicalMemory.md) — Music-cued reinstatement of lived scenes, sensations, emotions, relationships, and earlier identities.
 - [Riemann Hypothesis](concepts/RiemannHypothesis.md) — Number-theory conjecture used here as a source-scoped test of machine verification, correct formalization, and human explanation.
 - [Renter Financial Precarity](concepts/RenterFinancialPrecarity.md) — Interaction of rent burden, thin savings, student debt, delinquency, and high-cost credit among renter households.
 - [Founder Biopic Narrative](concepts/FounderBiopicNarrative.md) — Film framework that makes institutional technology power legible through an individual founder while risking causal over-personalization.

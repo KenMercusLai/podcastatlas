@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1742
+topic_total_pages: 1743
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4839,6 +4839,9 @@ topic_sources:
   - key: "tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128"
     title: "Mushrooms could help curb plastic waste"
     url: "/wiki/sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503"
+    title: "Music and Your Mind"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
   - key: "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200"
     title: "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman"
     url: "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3828
+topic_total_pages: 3832
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2164,6 +2164,9 @@ topic_concepts:
   - key: "LinguisticRelativity"
     title: "Linguistic Relativity"
     url: "/wiki/concepts/linguisticrelativity/"
+  - key: "ListenerConstructedMusicalMeaning"
+    title: "Listener-Constructed Musical Meaning"
+    url: "/wiki/concepts/listenerconstructedmusicalmeaning/"
   - key: "ListenerSupportedMedia"
     title: "Listener-Supported Media"
     url: "/wiki/concepts/listenersupportedmedia/"
@@ -2497,6 +2500,9 @@ topic_concepts:
   - key: "MusicBasedEmotionRegulation"
     title: "Music-Based Emotion Regulation"
     url: "/wiki/concepts/musicbasedemotionregulation/"
+  - key: "MusicEvokedAutobiographicalMemory"
+    title: "Music-Evoked Autobiographical Memory"
+    url: "/wiki/concepts/musicevokedautobiographicalmemory/"
   - key: "MuthosLogosTension"
     title: "Muthos Logos Tension"
     url: "/wiki/concepts/muthoslogostension/"
@@ -5069,6 +5075,9 @@ topic_entities:
   - key: "ElieWiesel"
     title: "Elie Wiesel"
     url: "/wiki/entities/eliewiesel/"
+  - key: "ElizabethMargulis"
+    title: "Elizabeth Margulis"
+    url: "/wiki/entities/elizabethmargulis/"
   - key: "ElizabethPorter"
     title: "Elizabeth ‘Tetty’ Porter"
     url: "/wiki/entities/elizabethporter/"
@@ -10980,6 +10989,9 @@ topic_sources:
   - key: "miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment"
     title: "Miss Buchanan’s Period of Adjustment"
     url: "/wiki/sources/miss-buchanan-s-period-of-adjustment-miss-buchanan-s-period-of-adjustment/"
+  - key: "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503"
+    title: "Music and Your Mind"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
   - key: "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128"
     title: "Netflix struggles to retain viewers after a series' first season"
     url: "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"

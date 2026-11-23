@@ -25441,9 +25441,9 @@
       "url": "/wiki/concepts/artisticfeedbackboundary/"
     },
     "ArtsBasedHealthPractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
@@ -25451,9 +25451,16 @@
           "show": "Hidden Brain",
           "title": "What Art Does For Your Brain",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/artsbasedhealthpractice/"
     },
     "ArtsCareerFormation": {
@@ -76852,9 +76859,9 @@
       "url": "/wiki/entities/daisychristodoulou/"
     },
     "DaisyFancourt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403 [default.mp3_ywr3ahjkcgo_6aaa4c79fff3c55a5053383f6c9c253b_51902403].md",
@@ -76862,9 +76869,16 @@
           "show": "Hidden Brain",
           "title": "What Art Does For Your Brain",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-24",
       "url": "/wiki/entities/daisyfancourt/"
     },
     "DaizheHuajiaoQuShangchao": {
@@ -97560,6 +97574,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/elizabethii/"
+    },
+    "ElizabethMargulis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/elizabethmargulis/"
     },
     "ElizabethPorter": {
       "episode_count": 1,
@@ -167521,9 +167551,9 @@
       "url": "/wiki/concepts/interpersonalimageprojection/"
     },
     "InterpersonalSynchronyAndRapport": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -167559,9 +167589,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
           "url": "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/interpersonalsynchronyandrapport/"
     },
     "Interpositive": {
@@ -196425,6 +196462,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/listenercommunitycoproduction/"
+    },
+    "ListenerConstructedMusicalMeaning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/listenerconstructedmusicalmeaning/"
     },
     "ListenerParticipatoryDiscovery": {
       "episode_count": 1,
@@ -230865,9 +230918,9 @@
       "url": "/wiki/concepts/musicautonomicentrainment/"
     },
     "MusicBasedEmotionRegulation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
@@ -230889,10 +230942,33 @@
           "show": "Hidden Brain",
           "title": "What Art Does For Your Brain",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/musicbasedemotionregulation/"
+    },
+    "MusicEvokedAutobiographicalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/musicevokedautobiographicalmemory/"
     },
     "MusicIndustryAIResponse": {
       "episode_count": 3,
@@ -230941,9 +231017,9 @@
       "url": "/wiki/concepts/musiclanguageexpansion/"
     },
     "MusicMemoryCueing": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
@@ -230958,9 +231034,16 @@
           "show": "Huberman Lab",
           "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
           "url": "/wiki/sources/scim2057835571-scim2057835571/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
+          "key": "default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503",
+          "show": "Hidden Brain",
+          "title": "Music and Your Mind",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/musicmemorycueing/"
     },
     "MusicPracticeNeuroplasticity": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11796
+wiki_total_pages: 11798
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "ListenerCommunityCoProduction"
     title: "Listener Community Co-Production / 听众社群共创"
     url: "/wiki/concepts/listenercommunitycoproduction/"
+  - key: "ListenerConstructedMusicalMeaning"
+    title: "Listener-Constructed Musical Meaning"
+    url: "/wiki/concepts/listenerconstructedmusicalmeaning/"
   - key: "ListenerParticipatoryDiscovery"
     title: "Listener-Participatory Discovery"
     url: "/wiki/concepts/listenerparticipatorydiscovery/"

@@ -8,8 +8,9 @@ sources:
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
   - scim2344094719-scim2344094719
   - essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137
+  - default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-11-24
 ---
 
 # Interpersonal Synchrony and Rapport
@@ -22,16 +23,16 @@ The Platt episode presents synchrony as a measurable correlate of social closene
 
 The gratitude episode and its later Essentials edit apply the same narrative finding to repeated personal practice. An attended story about meaningful help may coordinate interpretation with breathing, heart rate, and emotional state, allowing a stable set of cues to evoke a more reproducible response. This extends the mechanism from cross-listener coordination to within-person reuse, but that application is an inference across studies rather than proof of a gratitude-specific synchrony pathway; the condensed edit is overlapping provenance, not replication.
 
-Across both sources, synchrony is most useful as one signal or process of coordination, not a standalone test of trustworthiness, attachment security, therapeutic effectiveness, or relationship quality.
+The music episode adds a behavioral example in which toddlers bounced in time with an experimenter were later more willing to help that person. It supports a possible pathway from shared temporal coordination to affiliation while remaining too narrow to establish that musical synchrony reliably causes trust, cooperation, or durable bonds. Across the sources, synchrony is most useful as one signal or process of coordination, not a standalone test of trustworthiness, attachment security, therapeutic effectiveness, or relationship quality.
 
 ## Key Claims
-- Rapport can involve coordination across several behavioral and physiological channels.
-- Synchrony is associated with communication, trust, teamwork, and relationship quality.
+- Rapport can involve coordination across several behavioral and physiological channels and is associated with communication, trust, teamwork, and relationship quality.
 - Structured deep conversation may align strangers more than superficial exchange.
 - Shared narratives and external anchors can coordinate physiology without simultaneous face-to-face contact; reusing an emotionally meaningful story may also provide a repeatable personal state cue, although this is not equivalent to cross-listener synchrony.
 - Shared team cues can redirect attention toward common identity and coordination.
 - Synchrony should be combined with outcome and context measures before making decisions about people or teams.
 - Emotional synchrony may support attunement and co-regulation, but mismatch and repair remain part of healthy relationships.
+- Shared musical or bodily timing may increase affiliation in some settings without making prosocial behavior automatic or exclusive.
 
 ## Evidence
 - Multichannel coordination - [[how-to-make-better-decisions-dr-michael-platt-scim9606820714]] lists movement, gaze, breathing, heartbeat, and brain activity as synchrony channels.
@@ -41,13 +42,13 @@ Across both sources, synchrony is most useful as one signal or process of coordi
 - Narrative synchrony - [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] reports coordinated heart-rate responses to a shared story and proposes music, sports, meals, and traditions as bonding anchors.
 - Gratitude application - [[scim2344094719-scim2344094719]] links attended story structure, cardiorespiratory coupling, perspective-taking, and repeated cues to a proposed reproducible gratitude state.
 - Condensed gratitude application - [[essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137]] repeats the breathing, heartbeat, and reusable-story account without supplying a direct test of the full causal chain.
+- Coordinated-movement example - [[default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503]] reports greater later helping after toddlers were bounced in synchrony with an experimenter.
 
 ## Counterevidence & Qualifications
-Association does not establish that synchrony causes accuracy, trust, attachment security, therapeutic change, gratitude, or healthy relationships. Shared stimulus timing, arousal, stress, imitation, compliance, measurement choices, or task structure may also create coordination. Similar heart-rate timing does not prove identical subjective experience, and the within-person gratitude application is synthesized across studies rather than tested as one causal chain. The sources do not validate synchrony as a hiring, compatibility, diagnosis, treatment-selection, or deception-detection tool; the narrative study's methods and effect size are not supplied in the condensed sources, and Schore's right-hemisphere mechanism remains source-scoped.
+Association does not establish that synchrony causes accuracy, trust, attachment security, therapeutic change, gratitude, or healthy relationships. The toddler example supplies a behavioral outcome but does not establish mechanism, durability, age generalization, or effects outside its experimental task. Shared stimulus timing, arousal, stress, imitation, compliance, measurement choices, or task structure may also create coordination. Similar heart-rate timing does not prove identical subjective experience, and the within-person gratitude application is synthesized across studies rather than tested as one causal chain. The sources do not validate synchrony as a hiring, compatibility, diagnosis, treatment-selection, or deception-detection tool; the narrative study's methods and effect size are not supplied in the condensed sources, and Schore's right-hemisphere mechanism remains source-scoped.
 
 ## What Changed
-- Added the Essentials edit as overlapping evidence for the within-person narrative application.
-- Preserved the distinction between repeated state cues and a proven gratitude-specific synchrony mechanism.
+- Added a bounded toddler-helping example for coordinated movement and later affiliation.
 
 ## Related Concepts
 - [[EverydaySocialConnection]] - broader social-health context supported by conversation and affiliation.
@@ -58,3 +59,4 @@ Association does not establish that synchrony causes accuracy, trust, attachment
 - [[AttachmentAffectRegulation]] - developmental account of synchrony, mismatch, and repair.
 - [[RightHemisphereRelationalProcessing]] - Schore's proposed implicit-processing mechanism.
 - [[GratitudeNarrativePractice]] - within-person application of meaningful story cues with explicit causal limits.
+- [[ListenerConstructedMusicalMeaning]] - music branch in which temporal structure can recruit embodied and social participation.

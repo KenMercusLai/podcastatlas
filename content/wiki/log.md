@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-24] ingest | Music and Your Mind
+
+Added a [[HiddenBrain]] episode joining [[ElizabethMargulis|Elizabeth Margulis]] on music, memory, expectation, imagery, culture, and repetition with [[DaisyFancourt|Daisy Fancourt]] on arts participation and health. Created [[ListenerConstructedMusicalMeaning]] and [[MusicEvokedAutobiographicalMemory]], then resynthesized Daisy Fancourt, [[ArtsBasedHealthPractice]], [[MusicBasedEmotionRegulation]], [[MusicMemoryCueing]], and [[InterpersonalSynchronyAndRapport]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: musical meaning is jointly produced by sound structure and a listener's learned predictive, associative, bodily, and cultural history. Music can reinstate autobiographical experience before conscious recognition, while arts participation can combine emotional, cognitive, social, sensory, ritual, and physical pathways without requiring professional excellence. Shared imagery is culturally patterned rather than universal, and creative practice can also trigger grief or add professional precarity and identity pressure.
+
+No settled contradiction was adopted. Fancourt's material substantially overlaps an earlier Hidden Brain episode and is repeated provenance rather than independent confirmation. Imagery, cross-cultural, infant, motor, toddler, dementia, biomarker, sleep, grief, flow, professional-artist, basic-income, health-economic, and arts-prescription claims remain episode-scoped because the supplied file is a structured summary without full study methods, effect sizes, replication, or clinical comparisons. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,284 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-23] ingest | In the life of prime: AI’s latest maths triumph
 
 Added an [[EconomistPodcasts]] episode spanning a reported [[RiemannHypothesis]] proof, Japanese earthquake preparedness, and American renter distress. Created synthesis-first profiles for [[LevanAlpoge]], the [[JapanDisasterManagementAgency]], the Riemann hypothesis, and [[RenterFinancialPrecarity]]. Resynthesized [[AIForMath]] and [[CompoundDisasterMortality]] from their complete preserved evidence inventories before appending the new source once, and migrated [[LeanTheoremProver]] to the synthesis-first schema from its complete bounded input.
@@ -43771,5 +43781,9 @@ The automatic `wiki/overview.md` was read for context and not manually rewritten
 Ran lint. See lint-report.md for details.
 
 ## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

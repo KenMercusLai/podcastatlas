@@ -530,14 +530,14 @@
       "earliest_episode_date": "2020-08-03",
       "latest_episode_date": "2026-11-23",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
-      "source_note_count": 45,
-      "topic_matched_source_note_count": 20,
+      "source_note_count": 46,
+      "topic_matched_source_note_count": 21,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "technology",
@@ -560,7 +560,7 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361 [default.mp3_ywr3ahjkcgo_d08500083dda91b814b053f30bd7b557_87666361].md",
+        "default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503 [default.mp3_ywr3ahjkcgo_301be71e330eec695e7fe1082a0ecfc0_96116503].md",
         "default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222 [default.mp3_ywr3ahjkcgo_63cb212c296d144dd0efeccbca3379e1_54263222].md",
         "default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736 [default.mp3_ywr3ahjkcgo_fead65cb8ae84c6abc2e0c2098ca082b_49362736].md",
         "default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082 [default.mp3_ywr3ahjkcgo_79c16bc7be6838061833826dbbad2486_51080082].md"

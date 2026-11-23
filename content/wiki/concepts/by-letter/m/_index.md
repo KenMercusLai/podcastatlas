@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11796
+wiki_total_pages: 11798
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1973,6 +1973,9 @@ wiki_pages:
   - key: "MusicBasedEmotionRegulation"
     title: "Music-Based Emotion Regulation"
     url: "/wiki/concepts/musicbasedemotionregulation/"
+  - key: "MusicEvokedAutobiographicalMemory"
+    title: "Music-Evoked Autobiographical Memory"
+    url: "/wiki/concepts/musicevokedautobiographicalmemory/"
   - key: "MuskCorporateConsolidation"
     title: "Musk Corporate Consolidation"
     url: "/wiki/concepts/muskcorporateconsolidation/"
