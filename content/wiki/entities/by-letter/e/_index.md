@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14851
+wiki_total_pages: 14852
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "Echomind"
     title: "Echomind"
     url: "/wiki/entities/echomind/"
+  - key: "EckhartTolle"
+    title: "Eckhart Tolle"
+    url: "/wiki/entities/eckharttolle/"
   - key: "EcoFlow"
     title: "EcoFlow / 正浩"
     url: "/wiki/entities/ecoflow/"

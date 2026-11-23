@@ -40711,9 +40711,9 @@
       "url": "/wiki/concepts/breathholddivingadaptation/"
     },
     "BreathfulPresence": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_97450677c47f502770248abb02f35793_163628914 [default.mp3_ywr3ahjkcgo_97450677c47f502770248abb02f35793_163628914].md",
@@ -40721,9 +40721,16 @@
           "show": "Tomorrow, Today",
           "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
+        },
+        {
+          "episode_file": "SCIM2906825276 [SCIM2906825276].md",
+          "key": "access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276",
+          "show": "Huberman Lab",
+          "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+          "url": "/wiki/sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/breathfulpresence/"
     },
     "BreathingGearsCO2Tolerance": {
@@ -66435,6 +66442,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/concepts/conceptualandexperimentalinnovation/"
+    },
+    "ConceptualIdentityAndDirectAwareness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2906825276 [SCIM2906825276].md",
+          "key": "access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276",
+          "show": "Huberman Lab",
+          "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+          "url": "/wiki/sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/conceptualidentityanddirectawareness/"
     },
     "ConceptualTranslationJudgment": {
       "episode_count": 2,
@@ -94372,6 +94395,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/echomind/"
+    },
+    "EckhartTolle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2906825276 [SCIM2906825276].md",
+          "key": "access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276",
+          "show": "Huberman Lab",
+          "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+          "url": "/wiki/sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/eckharttolle/"
     },
     "EcologicalContextSpecificity": {
       "episode_count": 1,
@@ -238117,9 +238156,9 @@
       "url": "/wiki/concepts/nondefeatasvictory/"
     },
     "NonDualMindfulness": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7293799235 [SCIM7293799235].md",
@@ -238134,9 +238173,16 @@
           "show": "Huberman Lab",
           "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
+        },
+        {
+          "episode_file": "SCIM2906825276 [SCIM2906825276].md",
+          "key": "access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276",
+          "show": "Huberman Lab",
+          "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+          "url": "/wiki/sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/nondualmindfulness/"
     },
     "NonInstrumentalRelationalSafety": {
@@ -310642,9 +310688,9 @@
       "url": "/wiki/concepts/stigmaboundedfreshstart/"
     },
     "StillnessAsNonConditioning": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_97450677c47f502770248abb02f35793_163628914 [default.mp3_ywr3ahjkcgo_97450677c47f502770248abb02f35793_163628914].md",
@@ -310652,9 +310698,16 @@
           "show": "Tomorrow, Today",
           "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
+        },
+        {
+          "episode_file": "SCIM2906825276 [SCIM2906825276].md",
+          "key": "access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276",
+          "show": "Huberman Lab",
+          "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+          "url": "/wiki/sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/stillnessasnonconditioning/"
     },
     "StocktonDarlingtonRailway": {

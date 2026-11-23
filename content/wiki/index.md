@@ -5412,6 +5412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1.md) — 硅谷101 episode on financial AI, market making, dependent market samples, non-stationarity, execution, quantitative research discipline, and risk-first survival.
 
 - [2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？](sources/97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4.md) — 端聞以三十年家庭照顧經驗檢視思覺失調症污名、自傷風險、照顧者老化，以及台灣新版《精神衛生法》從法律承諾走向社區支持的落差。
+- [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
 - [Rothy's](entities/Rothys.md) — Washable knit-footwear brand joining recycled polyester, proprietary manufacturing, healthy reported economics, and cautious retail growth.
@@ -20365,6 +20366,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DRW](entities/DRW.md) — Quantitative trading firm named in the episode's industry context.
 - [Jane Street](entities/JaneStreet.md) — Electronic quantitative trading and market-making firm used to illustrate sector talent density and economics.
 - [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
+- [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
 - [Long-Term Care Safety-Net Access / 長照安全網可及性](concepts/LongTermCareSafetyNetAccess.md) — Distinguishes nominal service coverage from completed identification, referral, affordability, understanding, help-seeking, and follow-up.
@@ -32277,5 +32279,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Quantitative Research Discipline / 量化研究纪律](concepts/QuantitativeResearchDiscipline.md) — Problem selection, statistical judgment, behavioral validation, and rigorous review around model-driven trading.
 
 - [Community Mental Health Support / 社區精神健康支持](concepts/CommunityMentalHealthSupport.md) — 在急性醫療之外連結個案管理、復健、居住、工作、照顧者支持、地方交付與鄰里接納的持續支持層。
+- [Conceptual Identity and Direct Awareness](concepts/ConceptualIdentityAndDirectAwareness.md) — Distinguishes useful concepts, labels, and judgments from direct perception and the awareness in which mental representations appear.
 
 ## Syntheses

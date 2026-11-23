@@ -43731,3 +43731,17 @@ The automatic `wiki/overview.md` was read for context and not manually rewritten
 ## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-23] ingest | Access the Power of Now to Experience Life More Fully | Eckhart Tolle
+
+Added the [[HubermanLab]] conversation in which [[AndrewHuberman]] interviews [[EckhartTolle]] about thought, awareness, stillness, creativity, relationships, acceptance, meditation, and adversity. Created [[ConceptualIdentityAndDirectAwareness]] to distinguish necessary language and factual judgment from treating labels, biography, commentary, or ideology as complete reality, and created a source-bounded Eckhart Tolle profile.
+
+Resynthesized [[NonDualMindfulness]], [[BreathfulPresence]], and [[StillnessAsNonConditioning]] from their complete preserved evidence inventories before appending the new source once. The new evidence broadens ordinary-life presence from breath into seeing, hearing, silence, touch, and routine action; adds listening to silence as a doorway to inner stillness; and records Tolle's convergence with non-identification while preserving the difference between Harris's centerless awareness and Tolle's affirmative language of being.
+
+No settled contradiction was adopted. Claims about universal creative power, higher consciousness, life's curriculum, and correspondences among spiritual traditions remain source-scoped interpretations rather than scientific conclusions. Acceptance is recorded as acknowledging present conditions before action, not passivity, moral approval, or a substitute for practical or clinical care.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,281 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
