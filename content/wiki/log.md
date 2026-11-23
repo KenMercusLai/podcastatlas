@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-23] ingest | In the life of prime: AI’s latest maths triumph
+
+Added an [[EconomistPodcasts]] episode spanning a reported [[RiemannHypothesis]] proof, Japanese earthquake preparedness, and American renter distress. Created synthesis-first profiles for [[LevanAlpoge]], the [[JapanDisasterManagementAgency]], the Riemann hypothesis, and [[RenterFinancialPrecarity]]. Resynthesized [[AIForMath]] and [[CompoundDisasterMortality]] from their complete preserved evidence inventories before appending the new source once, and migrated [[LeanTheoremProver]] to the synthesis-first schema from its complete bounded input.
+
+Core synthesis: the episode’s claimed 17-million-line Claude-assisted Lean artifact sharpens rather than removes the proof-governance problem. Compilation can strongly verify an encoded proposition relative to its axioms, dependencies, and environment, while correct formalization, originality, conceptual explanation, and mathematical acceptance remain separate. Japan’s specialist agency is valuable if institutional memory becomes hospital, evacuation, shelter, local, and household readiness; American renter distress is a coupled cash-flow and balance-sheet problem involving rent, low savings, student debt, delinquency, and costly short-term credit.
+
+No settled contradiction was adopted. The Riemann-hypothesis result remains episode-reported because the supplied structured summary contains no theorem statement, code, build record, conventional proof, or independent expert review. Earthquake probabilities, projected losses, agency staffing and authority, mortality shares, renter income and savings, delinquency attribution, and credit-use rates likewise remain source-scoped without the underlying models, administrative records, or survey microdata. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,283 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-23] ingest | Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
 
 Added a [[HowIBuiltThis]] interview with [[RothMartin]] on building [[Rothys|Rothy's]] with [[StephenHawthornthwaite]]. Created synthesis-first profiles for the company, both founders, and [[KnitToShapeFootwearManufacturing]], then resynthesized [[VerticalIntegrationForQualityControl]], [[ProductLedBrandLongevity]], [[RetailChannelComplementarity]], and [[SupplierConcentrationCrisis]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43755,6 +43765,10 @@ Resynthesized [[FilmDistributionGatekeeping]] and [[TheSocialReckoning]] from th
 No settled contradiction was adopted. The existence of a coherent film cycle, Hollywood's motives, founder characterization, reported distribution difficulty, the 1970s analogy, and the dystopian reading of *The Internship* remain source-scoped interpretations rather than industry-wide causal findings.
 
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,282 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-23] lint | Wiki health check
 

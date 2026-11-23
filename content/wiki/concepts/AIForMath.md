@@ -9,7 +9,8 @@ sources:
   - schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f
   - tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128
   - allin-e296-ch-allin-e296-ch
-last_updated: 2026-11-08
+  - in-the-life-of-prime-ais-latest-maths-triumph-0543079e679f77fa9c07ce929a73b21f
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ AI for Math is the effort to use AI systems to solve, formalize, verify, extend,
 ## Current Synthesis
 The wiki treats AI for Math as a capability stack, a high-throughput discovery loop, and a governance problem. [[HongLetong]]'s [[Axiom]] source frames the stack around provers, conjecturers, knowledge bases, [[AutoFormalization]], [[LeanTheoremProver]], [[Mathlib]], and [[InteractiveTheoremProving]]. The [[TheIntelligence]] episode adds a public legitimacy test around a claimed [[OpenAI]] solution to the [[NavierStokesEquations|Navier-Stokes problem]], while later sources describe a much larger batch of machine-generated work. [[AlexKontorovich]] extends the distinction into education and labor: fast proof generation can make checked answers abundant while explanation, elegance, originality, importance, human absorption, and evidence of personal understanding remain scarce.
 
-The newest All-In episode adds a theoretical-computer-science case: a reported OpenAI paper challenging the [[ExponentialTimeHypothesis|exponential time hypothesis]] for a class of 3SAT problems. It strengthens the research-compression thesis but also its validation boundary. A class-specific subexponential result is not automatically a refutation of the full hypothesis, and neither claim is equivalent to proving P equals NP.
+The newest Economist episode adds the field's most consequential reported case: [[LevanAlpoge]] allegedly used [[Claude]] and [[LeanTheoremProver|Lean]] to prove the [[RiemannHypothesis]] in roughly 17 million lines of formal code. The wiki does not treat the hypothesis as settled from this account. Instead, the report sharpens the separation among successful compilation, correct formalization, independent review, conceptual explanation, priority, and community acceptance. A machine-checkable artifact can make the correctness test more tractable while making human comprehension dramatically harder.
 
 ## Key Claims
 - A useful AI math system needs a prover, conjecturer, knowledge base, and [[AutoFormalization]] layer.
@@ -30,7 +31,7 @@ The newest All-In episode adds a theoretical-computer-science case: a reported O
 - Contest and benchmark milestones are useful signals, but research-level mathematics also needs problem choice, field coverage, explanation, and benchmark design.
 - Claimed breakthroughs on major open problems require [[AIGeneratedProofGovernance]], because mathematical value includes credit, route, insight, and community review.
 - Mathematics supports a [[DigitallyVerifiableDiscoveryLoop]] in which many candidate proofs can be generated and checked in parallel, making it an unusually favorable domain for AI iteration.
-- Mathematics may be the first major scientific domain where result production persistently outruns human review; this weakens the inference from producing a sophisticated paper to understanding it and makes precise theorem scope part of review.
+- Mathematics may be the first major scientific domain where result production persistently outruns human review; this weakens the inference from producing a sophisticated paper to understanding it and makes precise theorem scope and formalization part of review.
 
 ## Evidence
 - Technical stack - [[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] defines AI for Math through proving, conjecturing, knowledge bases, and auto-formalization.
@@ -40,13 +41,14 @@ The newest All-In episode adds a theoretical-computer-science case: a reported O
 - Interpretation bottleneck - [[schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f]] says mathematicians were unsettled by the speed and scale of reported outputs and by valid but cumbersome solutions that may lack the elegance or conceptual harmony humans value.
 - Understanding and assessment - [[tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128]] distinguishes machine verification from human understanding and predicts more emphasis on explanation, oral defense, and discussion.
 - Complexity-theory claim - [[allin-e296-ch-allin-e296-ch]] reports an unverified OpenAI paper claiming subexponential performance for a class of 3SAT problems, while distinguishing a challenge to the exponential time hypothesis from P equals NP.
+- Riemann-hypothesis claim - [[in-the-life-of-prime-ais-latest-maths-triumph-0543079e679f77fa9c07ce929a73b21f]] reports a Claude-assisted, 17-million-line Lean proof and independent recompilation while supplying neither the artifact nor an accessible mathematical account.
 
 ## Counterevidence & Qualifications
-The Axiom source is founder-facing and optimistic about systems built around formal proof. The OpenAI discussions are fast-moving secondary accounts and do not independently validate the claimed results, counts, novelty, or practical importance. Lean checking can validate formal derivations relative to encoded statements without settling whether the statements were formalized correctly, the work is original, or it removes a real scientific or engineering bottleneck. The exponential-time account does not supply the paper or theorem statement and may compress the distinction between a restricted class and worst-case 3SAT. Predictions about expanded demand for mathematical interpretation and a new hiring equilibrium remain prospective, while concerns about unpublished training material are not established as findings about a named proof.
+The Axiom source is founder-facing and optimistic about systems built around formal proof. The OpenAI and Riemann-hypothesis discussions are fast-moving secondary accounts and do not independently validate the claimed results, counts, novelty, or practical importance. Lean checking can validate formal derivations relative to encoded statements without settling whether the statements were formalized correctly, dependencies are acceptable, the work is original, or it removes a real scientific bottleneck. The newest episode supplies no code, build record, conventional paper, or independent expert review, so the Riemann hypothesis remains a reported claim rather than settled wiki knowledge. The exponential-time account likewise does not supply its paper or theorem statement and may compress the distinction between a restricted class and worst-case 3SAT. Predictions about expanded demand for mathematical interpretation and a new hiring equilibrium remain prospective.
 
 ## What Changed
-- Added complexity-theory as another AI-for-math branch beyond formal theorem proving and mathematical batch generation.
-- Added theorem scope and asymptotic interpretation to the verification boundary.
+- Added the reported Riemann-hypothesis proof as an extreme machine-verification and human-interpretability case.
+- Expanded the verification boundary to include correct formalization, dependencies, reproducible builds, readable explanation, and mathematical acceptance.
 
 ## Related Concepts
 - [[AIMathematician]] - long-run human and AI role target.
@@ -58,3 +60,4 @@ The Axiom source is founder-facing and optimistic about systems built around for
 - [[DigitallyVerifiableDiscoveryLoop]] - feedback structure that makes proof search unusually scalable.
 - [[DemonstrableUnderstandingUnderAI]] - evidence-of-mastery problem created when written output can be machine-generated.
 - [[ExponentialTimeHypothesis]] - complexity-theory conjecture associated with the newest reported result.
+- [[RiemannHypothesis]] - number-theory conjecture at the center of the newest reported result.

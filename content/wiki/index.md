@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [In the life of prime: AI’s latest maths triumph](sources/in-the-life-of-prime-ais-latest-maths-triumph-0543079e679f77fa9c07ce929a73b21f.md) — Economist Podcasts on a reported Claude-and-Lean Riemann-hypothesis proof, Japan’s new disaster agency, and worsening financial precarity among American renters.
 - [Hollywood brings Big Tech's drama to the big screen](sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128.md) — Marketplace Tech and Joe Street connect founder biopics, changing technology sentiment, Hollywood-Silicon Valley rivalry, and distribution control.
 - [2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境](sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281.md) — 端聞以失智家庭與重大長照案件檢視台灣照顧者孤立、風險辨識、服務可及性、雙方權利及超高齡社會的照顧倫理。
 - [Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles](sources/rothy-s-roth-martin-the-art-dealer-who-built-a-1b-shoe-brand-from-plastic-bottles-vmp9564565828.md) — How I Built This on knit-to-shape footwear, a failed launch, manufacturing integration, profitable DTC growth, and staged retail expansion.
@@ -5416,6 +5417,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [Levan Alpoge](entities/LevanAlpoge.md) — Mathematician credited by the episode with a Claude-assisted, Lean-checked proof of the Riemann hypothesis.
+- [Japan Disaster Management Agency](entities/JapanDisasterManagementAgency.md) — Reported specialist Japanese agency for institutional memory, cross-ministry coordination, and pre-disaster preparation.
 - [Joe Street](entities/JoeStreet.md) — Historian interpreting technology-founder films through cultural anxiety, narrative simplification, and media-industry power.
 - [Rothy's](entities/Rothys.md) — Washable knit-footwear brand joining recycled polyester, proprietary manufacturing, healthy reported economics, and cautious retail growth.
 - [Roth Martin](entities/RothMartin.md) — Rothy's co-founder whose path from commodities and furniture dealing led into manufacturing-intensive footwear development.
@@ -20371,6 +20374,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Riemann Hypothesis](concepts/RiemannHypothesis.md) — Number-theory conjecture used here as a source-scoped test of machine verification, correct formalization, and human explanation.
+- [Renter Financial Precarity](concepts/RenterFinancialPrecarity.md) — Interaction of rent burden, thin savings, student debt, delinquency, and high-cost credit among renter households.
 - [Founder Biopic Narrative](concepts/FounderBiopicNarrative.md) — Film framework that makes institutional technology power legible through an individual founder while risking causal over-personalization.
 - [Long-Term Care Safety-Net Access / 長照安全網可及性](concepts/LongTermCareSafetyNetAccess.md) — Distinguishes nominal service coverage from completed identification, referral, affordability, understanding, help-seeking, and follow-up.
 - [Caregiver and Care Recipient Rights / 照顧雙方權利](concepts/CaregiverAndCareRecipientRights.md) — Two-sided care principle protecting recipient agency and dignity alongside caregiver rest, health, work, safety, and shared responsibility.

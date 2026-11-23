@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14853
+wiki_total_pages: 14855
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "Letterboxd"
     title: "Letterboxd"
     url: "/wiki/entities/letterboxd/"
+  - key: "LevanAlpoge"
+    title: "Levan Alpoge"
+    url: "/wiki/entities/levanalpoge/"
   - key: "LeviCase"
     title: "Levi Case"
     url: "/wiki/entities/levicase/"

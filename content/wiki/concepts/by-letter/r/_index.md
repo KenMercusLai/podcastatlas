@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11794
+wiki_total_pages: 11796
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "RenqingOrder"
     title: "Renqing Order"
     url: "/wiki/concepts/renqingorder/"
+  - key: "RenterFinancialPrecarity"
+    title: "Renter Financial Precarity"
+    url: "/wiki/concepts/renterfinancialprecarity/"
   - key: "RentierState"
     title: "Rentier State / 租金国家"
     url: "/wiki/concepts/rentierstate/"
@@ -1202,6 +1205,9 @@ wiki_pages:
   - key: "RideHailingSafetyOperations"
     title: "Ride-Hailing Safety Operations / 网约车安全运营"
     url: "/wiki/concepts/ridehailingsafetyoperations/"
+  - key: "RiemannHypothesis"
+    title: "Riemann Hypothesis"
+    url: "/wiki/concepts/riemannhypothesis/"
   - key: "RifWar"
     title: "Rif War"
     url: "/wiki/concepts/rifwar/"
