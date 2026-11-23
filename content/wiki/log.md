@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-23] ingest | Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
+
+Added a [[HowIBuiltThis]] interview with [[RothMartin]] on building [[Rothys|Rothy's]] with [[StephenHawthornthwaite]]. Created synthesis-first profiles for the company, both founders, and [[KnitToShapeFootwearManufacturing]], then resynthesized [[VerticalIntegrationForQualityControl]], [[ProductLedBrandLongevity]], [[RetailChannelComplementarity]], and [[SupplierConcentrationCrisis]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: Rothy's advantage was not recycled-plastic storytelling alone. Flat-knitted shaped uppers coupled yarn, programming, machinery, pattern engineering, millimeter-level fit, and assembly. When an outside factory changed materials and construction, the company stopped selling for about six months, internalized critical specialists and equipment, and eventually integrated complete production. Strong reported margins, frequent use, word of mouth, direct customer observation, and small-format retail tests then supported cautious growth.
+
+No settled contradiction was adopted. Owned production improved process control but transferred risk into fixed overhead, labor, utilization, and geographic concentration, as the pandemic period illustrates. Revenue, product-cost, margin, staffing, valuation, investment, store-productivity, wage, waste, certification, and environmental claims remain founder- and episode-scoped because the supplied file is a structured summary rather than audited financials, supplier or employee testimony, or a life-cycle assessment. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,278 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-23] ingest | 190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火
 
 Added a [[LateTalk|晚点聊 LateTalk]] interview with [[CaiWei|蔡伟]] on [[AntLingGuang|蚂蚁灵光]] 2.0. Created [[PersonalAgentMatterManagement|个人智能体事项管理]], then resynthesized Cai Wei, Ant LingGuang, [[PersonalAgentMaturityTriad|个人智能体成熟三要素]], and [[AgentRuntimeExecutionLayer]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43681,6 +43691,10 @@ Core synthesis: Cook's navigational, cartographic, chronometer-supported, and An
 No settled contradiction was adopted. The source corroborates the earlier first-voyage notes and extends them chronologically. Its comparison with conquistadors can clarify differences in immediate purpose and conduct without removing imperial coercion or consequence, while Pacific perspectives, casualty totals, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped through European records.
 
 Downstream synthesis refreshed `science-health-and-climate`; material candidate change triggered global compaction. Refreshed artifacts validate 5,276 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-23] lint | Wiki health check
 

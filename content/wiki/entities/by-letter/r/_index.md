@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14848
+wiki_total_pages: 14851
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1076,6 +1076,12 @@ wiki_pages:
   - key: "RotaTeq"
     title: "RotaTeq"
     url: "/wiki/entities/rotateq/"
+  - key: "RothMartin"
+    title: "Roth Martin"
+    url: "/wiki/entities/rothmartin/"
+  - key: "Rothys"
+    title: "Rothy's"
+    url: "/wiki/entities/rothys/"
   - key: "RoughWooing"
     title: "Rough Wooing"
     url: "/wiki/entities/roughwooing/"

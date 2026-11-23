@@ -2,20 +2,52 @@
 title: "Supplier Concentration Crisis"
 type: concept
 tags: [operations, manufacturing, risk, consumer-brands]
-sources: [yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]
-last_updated: 2026-08-25
+sources:
+  - yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285
+  - rothy-s-roth-martin-the-art-dealer-who-built-a-1b-shoe-brand-from-plastic-bottles-vmp9564565828
+last_updated: 2026-11-23
+knowledge_schema: synthesis-v1
 ---
 
-# Supplier Concentration Crisis
+## Definition
+Supplier concentration crisis is the operational failure that occurs when critical capacity, tooling, quality knowledge, incentives, or relationships are concentrated in one external route and that route can no longer deliver the required product.
 
-Supplier concentration crisis is the operating risk created when a growing company depends too heavily on one factory, geography, or key person. In [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]], [[IvanBrown]]'s death exposed [[YETI]]'s dependence on a single Philippines manufacturing path just as [[YETITundra]] demand was rising.
+## Current Synthesis
+[[YETI]] shows an abrupt continuity failure: the death of manufacturing partner [[IvanBrown]] exposed dependence on one Philippines production path just as demand increased. [[Rothys|Rothy's]] shows an incentive and knowledge failure: its first outside assembler reportedly changed materials and construction after launch because the agreed economics did not reward faithful execution. Recovery in both cases required more than replacing a vendor. YETI digitized designs, raised price, onboarded U.S. rotomolders, and diversified supply; Rothy's stopped sales, hired technical specialists, bought machinery, and integrated production. Concentration is therefore about recoverability of knowledge and control as much as supplier count.
 
 ## Key Claims
-- The crisis was severe because product knowledge, mold work, factory quality, and supplier relationships were concentrated in one route.
-- YETI's response combined price increases, design digitization, U.S. rotomolder onboarding, and dual sourcing rather than simply searching for a like-for-like replacement.
-- The episode shows that supply resilience can become a strategic advantage after recovery, because better documentation and multiple factories improved margins and reliability.
-- Supplier concentration is especially dangerous in [[HardwareInventoryRisk|hardware]] and inventory-heavy consumer brands because lost production can interrupt both revenue and retailer trust.
+- Concentration risk rises when one supplier holds undocumented tooling, programs, process knowledge, quality judgment, or relationships.
+- A supplier can fail through death, insolvency, capacity loss, incentive misalignment, material substitution, process drift, geography, or logistics disruption.
+- Recovery may require design digitization, documentation, pricing changes, internal technical hires, new tooling, dual sourcing, or selective vertical integration.
+- Demand growth makes concentration more dangerous because interrupted output damages revenue, service, and retailer trust simultaneously.
+- Owning a factory can reduce external dependence while creating internal fixed-cost and single-geography concentration.
+- Resilience should be tested by replacement time, knowledge portability, qualification time, and output quality rather than supplier count alone.
 
-## Connections
-- [[YETI]], [[IvanBrown]], [[IcyTech]], and [[YETITundra]] - source case.
-- [[HardwareInventoryRisk]], [[CPGManufacturingScaleUp]], [[InventoryHeavyConsumerBrandFinancing]], and [[DistributionLedProductBuilding]] - adjacent operating-risk concepts.
+## Evidence
+### Key-person and route failure
+- [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] describes Ivan Brown's death, YETI's 18-month recovery, design digitization, U.S. rotomolder onboarding, and subsequent supply diversification.
+
+### Incentive and process failure
+- [[rothy-s-roth-martin-the-art-dealer-who-built-a-1b-shoe-brand-from-plastic-bottles-vmp9564565828]] says Rothy's outside assembler substituted materials, cut components differently, and removed processes after accepting economics with little profit incentive.
+
+### Knowledge-centered recovery
+- [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] links recovery to portable digital designs and multiple factories, while [[rothy-s-roth-martin-the-art-dealer-who-built-a-1b-shoe-brand-from-plastic-bottles-vmp9564565828]] links it to internal pattern, programming, machine, and assembly capability.
+
+## Counterevidence & Qualifications
+- Additional suppliers do not automatically create resilience if they share the same geography, upstream inputs, tooling bottleneck, or undocumented knowledge.
+- Vertical integration does not eliminate concentration; Rothy's later carried the overhead and location risk of a large owned factory.
+- The YETI and Rothy's narratives are retrospective founder accounts and do not provide supplier perspectives, contracts, full recovery costs, or independently verified timelines.
+- Redundancy can raise cost and complexity, so its value depends on disruption probability, qualification time, lost-margin exposure, and safety or trust consequences.
+
+## What Changed
+- Migrated the concept to synthesis-v1 and added incentive-driven process substitution through Rothy's.
+- Reframed concentration around knowledge portability and recovery time rather than supplier count alone.
+- Added owned-factory overhead and geographic concentration as residual risks after integration.
+
+## Related Concepts
+- [[VerticalIntegrationForQualityControl]] - one response when external incentives and process visibility cannot protect quality.
+- [[HardwareInventoryRisk]] - explains why lost production can interrupt both revenue and channel trust.
+- [[CPGManufacturingScaleUp]] - connects demand growth to qualification, capacity, and replenishment pressure.
+- [[ProcessKnowledge]] - identifies tacit know-how that must remain portable during supplier failure.
+- [[CapacityMatchedGrowth]] - requires demand expansion to stay within dependable production capacity.
+- [[KnitToShapeFootwearManufacturing]] - illustrates a tightly coupled program-material-machine system vulnerable to knowledge concentration.

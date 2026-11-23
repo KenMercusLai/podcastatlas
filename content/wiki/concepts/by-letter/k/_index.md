@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 11788
+wiki_total_pages: 11789
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "KneeStabilityInjuryCascade"
     title: "Knee Stability Injury Cascade / 膝关节稳定性损伤链"
     url: "/wiki/concepts/kneestabilityinjurycascade/"
+  - key: "KnitToShapeFootwearManufacturing"
+    title: "Knit-to-Shape Footwear Manufacturing"
+    url: "/wiki/concepts/knittoshapefootwearmanufacturing/"
   - key: "KnowingEnough"
     title: "Knowing Enough"
     url: "/wiki/concepts/knowingenough/"

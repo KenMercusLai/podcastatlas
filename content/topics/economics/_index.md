@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2426
+topic_total_pages: 2427
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5498,6 +5498,9 @@ topic_entities:
   - key: "StephenBillings"
     title: "Stephen Billings"
     url: "/wiki/entities/stephenbillings/"
+  - key: "StephenHawthornthwaite"
+    title: "Stephen Hawthornthwaite"
+    url: "/wiki/entities/stephenhawthornthwaite/"
   - key: "StephenPassaha"
     title: "Stephen Passaha"
     url: "/wiki/entities/stephenpassaha/"

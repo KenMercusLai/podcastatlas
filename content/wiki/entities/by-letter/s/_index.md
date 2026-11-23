@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14848
+wiki_total_pages: 14851
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "StephenGaghan"
     title: "Stephen Gaghan"
     url: "/wiki/entities/stephengaghan/"
+  - key: "StephenHawthornthwaite"
+    title: "Stephen Hawthornthwaite"
+    url: "/wiki/entities/stephenhawthornthwaite/"
   - key: "StephenKosslyn"
     title: "Stephen Kosslyn"
     url: "/wiki/entities/stephenkosslyn/"

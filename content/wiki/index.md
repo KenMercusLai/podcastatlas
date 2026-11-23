@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles](sources/rothy-s-roth-martin-the-art-dealer-who-built-a-1b-shoe-brand-from-plastic-bottles-vmp9564565828.md) — How I Built This on knit-to-shape footwear, a failed launch, manufacturing integration, profitable DTC growth, and staged retail expansion.
 - [190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b.md) — 晚点聊访谈蔡伟，以持续“事项”、责任转移、自研移动端Agent Runtime、后台调度和智能—供给—安全三要素解释灵光2.0。
 - [725. The Death of Captain Cook: At World's End (Part 1)](sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488.md) — The Rest Is History follows Cook through scientific achievement, imperial coercion, Antarctic exploration, contact critique, third-voyage punitive escalation, and arrival in Hawaii.
 - [Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?](sources/allin-e298-ch-allin-e298-ch.md) — All-In on AI supercompanies, Anthropic's reported public valuation, open-weight disclosure pressure, and Nvidia's post-founder governance crisis.
@@ -5410,6 +5411,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1.md) — 硅谷101 episode on financial AI, market making, dependent market samples, non-stationarity, execution, quantitative research discipline, and risk-first survival.
 
 ## Entities
+- [Rothy's](entities/Rothys.md) — Washable knit-footwear brand joining recycled polyester, proprietary manufacturing, healthy reported economics, and cautious retail growth.
+- [Roth Martin](entities/RothMartin.md) — Rothy's co-founder whose path from commodities and furniture dealing led into manufacturing-intensive footwear development.
+- [Stephen Hawthornthwaite](entities/StephenHawthornthwaite.md) — Rothy's co-founder bringing legal, finance, market-research, and long-duration development commitment.
 - [Omai](entities/Omai.md) — Polynesian traveler whose British celebrity and return home publicly framed Cook's third voyage while its secret objective remained the Northwest Passage.
 - [Tobias Furneaux](entities/TobiasFurneaux.md) — Adventure captain whose refusal to retaliate after ten crewmen were killed provides a bounded second-voyage example of naval restraint.
 - [Ed Glaeser](entities/EdGlaeser.md) — Housing economist using price, production cost, regulation, and construction volume to diagnose supply constraints.
@@ -20360,6 +20364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
 
 ## Concepts
+- [Knit-to-Shape Footwear Manufacturing](concepts/KnitToShapeFootwearManufacturing.md) — Programmable flat-knitting system joining localized structure, material choice, sizing, assembly, and bounded waste reduction.
 - [Personal Agent Matter Management / 个人智能体事项管理](concepts/PersonalAgentMatterManagement.md) — 以持续事项而非对话为基本单位，将上下文、跟进、主动服务、责任转移与结果指标连接起来。
 - [Expeditionary Command Deterioration](concepts/ExpeditionaryCommandDeterioration.md) — Framework separating observed decline in judgment and proportionality under prolonged mission strain from unsupported medical diagnosis.
 - [Zoning Tax](concepts/ZoningTax.md) — Price-production-cost gap used to identify regulatory scarcity in housing markets.
