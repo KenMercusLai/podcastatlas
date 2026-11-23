@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 14842
+wiki_total_pages: 14846
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "Xtep"
     title: "Xtep"
     url: "/wiki/entities/xtep/"
+  - key: "XTXMarkets"
+    title: "XTX Markets"
+    url: "/wiki/entities/xtxmarkets/"
   - key: "XuFu"
     title: "Xu Fu / 徐福"
     url: "/wiki/entities/xufu/"

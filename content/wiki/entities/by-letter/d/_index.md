@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14842
+wiki_total_pages: 14846
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1226,6 +1226,9 @@ wiki_pages:
   - key: "DrugEnforcementAdministration"
     title: "Drug Enforcement Administration"
     url: "/wiki/entities/drugenforcementadministration/"
+  - key: "DRW"
+    title: "DRW"
+    url: "/wiki/entities/drw/"
   - key: "DTCC"
     title: "DTCC"
     url: "/wiki/entities/dtcc/"

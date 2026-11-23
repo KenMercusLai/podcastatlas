@@ -59389,9 +59389,9 @@
       "url": "/wiki/concepts/circulatingfactoragingbiology/"
     },
     "CitadelSecurities": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIRwD_dWBABAAAACHV6PG [CKwRIRwD_dWBABAAAACHV6PG].md",
@@ -59399,9 +59399,16 @@
           "show": "无时差研究所",
           "title": "EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？",
           "url": "/wiki/sources/ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg/"
+        },
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
         }
       ],
-      "updated": "2026-10-29",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/citadelsecurities/"
     },
     "Citgo": {
@@ -76038,6 +76045,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/drastic/"
+    },
+    "DRW": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/drw/"
     },
     "DSCRLoans": {
       "episode_count": 1,
@@ -116352,6 +116375,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/finalspark/"
     },
+    "FinancialAIQuantitativeTrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/financialaiquantitativetrading/"
+    },
     "FinancialAstrologyDecisionMaking": {
       "episode_count": 1,
       "show_count": 1,
@@ -116494,6 +116533,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/concepts/financialinstitutiontrusttransmission/"
+    },
+    "FinancialMarketNonstationarity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/financialmarketnonstationarity/"
     },
     "FinancialReportOperatingMetricIntegrity": {
       "episode_count": 1,
@@ -149155,6 +149210,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/highcontextintimacymiscommunication/"
     },
+    "HighFrequencyTrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/highfrequencytrading/"
+    },
     "HighIntensityApneaSafety": {
       "episode_count": 1,
       "show_count": 1,
@@ -156457,6 +156528,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hudecshanghaiarchitect/"
+    },
+    "HudsonRiverTrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/hudsonrivertrading/"
     },
     "HudsonsBayCompany": {
       "episode_count": 1,
@@ -172349,6 +172436,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/janesharp/"
+    },
+    "JaneStreet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/janestreet/"
     },
     "JanelleShane": {
       "episode_count": 3,
@@ -214228,6 +214331,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/marketfreshnessculture/"
+    },
+    "MarketMaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/marketmaking/"
     },
     "MarketingChannelCategoryFit": {
       "episode_count": 2,
@@ -270724,9 +270843,9 @@
       "url": "/wiki/concepts/quantitativefofallocation/"
     },
     "QuantitativeOverfitting": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？ [lhvIGzza2uGmAYezkBrxUfKmP4L1].md",
@@ -270748,10 +270867,33 @@
           "show": "面基",
           "title": "写一份《纪律.md》，代替我入市投资",
           "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        },
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/quantitativeoverfitting/"
+    },
+    "QuantitativeResearchDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/quantitativeresearchdiscipline/"
     },
     "QuantityChangeQualityChange": {
       "episode_count": 2,
@@ -352919,6 +353061,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/xpeng/"
+    },
+    "XTXMarkets": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bc105fa7-23de-4c70-a338-6d70daf9aed1 [bc105fa7-23de-4c70-a338-6d70daf9aed1].md",
+          "key": "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "show": "硅谷101",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/xtxmarkets/"
     },
     "Xbox": {
       "episode_count": 2,

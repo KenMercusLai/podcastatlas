@@ -5405,6 +5405,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [You Can Seize Everything (The U.S. is reviving pirate law)](sources/default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318-default-mp3-ywr3ahjkcgo-d94256e09d5ac8ce0f836a06ea427926-26299318.md) — Planet Money on modern prize-court planning, seized-tanker custody costs, forfeiture due process, and the unresolved statutory meaning of war.
 - [从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？](sources/9492e69c76ab-9492e69c76ab.md) — 科技乱炖连接 DeepSeek 消费端限流、Agent 轨迹数据、国产芯片软硬件适配与 AI 产业应用。
 
+- [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1.md) — 硅谷101 episode on financial AI, market making, dependent market samples, non-stationarity, execution, quantitative research discipline, and risk-first survival.
+
 ## Entities
 - [Ed Glaeser](entities/EdGlaeser.md) — Housing economist using price, production cost, regulation, and construction volume to diagnose supply constraints.
 - [Kirk Watson](entities/KirkWatson.md) — Austin mayor connecting permitting and land-use reform to affordability, generational access, and family formation.
@@ -20348,6 +20350,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nathan Perl-Rosenthal](entities/NathanPerlRosenthal.md) — Maritime historian explaining why privateering's commercial incentives often favored intimidation over destructive combat.
 - [Randy Crane](entities/RandyCrane.md) — Chief federal judge whose Southern District of Texas team drafted modern prize-proceeding rules without deciding the war threshold.
 
+- [XTX Markets](entities/XTXMarkets.md) — Compute-intensive quantitative trading and market-making firm used as the episode's main financial-AI case.
+- [DRW](entities/DRW.md) — Quantitative trading firm named in the episode's industry context.
+- [Jane Street](entities/JaneStreet.md) — Electronic quantitative trading and market-making firm used to illustrate sector talent density and economics.
+- [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
+
 ## Concepts
 - [Zoning Tax](concepts/ZoningTax.md) — Price-production-cost gap used to identify regulatory scarcity in housing markets.
 - [Family-Sized Housing Supply](concepts/FamilySizedHousingSupply.md) — Housing supply measured through bedroom mix, affordability, stability, and suitability for households seeking children.
@@ -32246,5 +32253,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maritime Prize Law](concepts/MaritimePrizeLaw.md) — Wartime adjudication of captured ships and cargo, now being reconstructed for possible modern naval use.
 - [Prize-Law War Threshold](concepts/PrizeLawWarThreshold.md) — Unresolved question whether armed but undeclared conflict supplies the legally sufficient war needed for prize jurisdiction.
 - [Seized-Vessel Forfeiture Due Process](concepts/SeizedVesselForfeitureDueProcess.md) — Tradeoff between rapid disposition and meaningful notice and claims for expensive captured maritime property.
+
+- [Financial AI for Quantitative Trading / 量化交易中的金融AI](concepts/FinancialAIQuantitativeTrading.md) — End-to-end use of machine learning across market data, forecasts, positions, risk, execution, and feedback.
+- [Market Making / 做市](concepts/MarketMaking.md) — Continuous two-sided quoting that provides immediacy and liquidity while retaining inventory, execution, and operational risk.
+- [High-Frequency Trading / 高频交易](concepts/HighFrequencyTrading.md) — Automated short-horizon trading where latency remains important but pure speed gains face declining marginal returns.
+- [Financial Market Non-Stationarity / 金融市场非平稳性](concepts/FinancialMarketNonstationarity.md) — Changing market data generation caused by adaptive participants, regimes, rules, information, and liquidity.
+- [Quantitative Research Discipline / 量化研究纪律](concepts/QuantitativeResearchDiscipline.md) — Problem selection, statistical judgment, behavioral validation, and rigorous review around model-driven trading.
 
 ## Syntheses

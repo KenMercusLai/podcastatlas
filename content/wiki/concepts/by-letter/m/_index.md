@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11781
+wiki_total_pages: 11786
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "MarketFreshnessCulture"
     title: "Market Freshness Culture"
     url: "/wiki/concepts/marketfreshnessculture/"
+  - key: "MarketMaking"
+    title: "Market Making / 做市"
+    url: "/wiki/concepts/marketmaking/"
   - key: "MarketMeanReversion"
     title: "Market Mean Reversion"
     url: "/wiki/concepts/marketmeanreversion/"

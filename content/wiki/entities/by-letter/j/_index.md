@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14842
+wiki_total_pages: 14846
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "JaneSharp"
     title: "Jane Sharp"
     url: "/wiki/entities/janesharp/"
+  - key: "JaneStreet"
+    title: "Jane Street"
+    url: "/wiki/entities/janestreet/"
   - key: "JaneVonMehren"
     title: "Jane von Mehren"
     url: "/wiki/entities/janevonmehren/"

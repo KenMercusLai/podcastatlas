@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3917
+topic_total_pages: 3921
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2566,6 +2566,9 @@ topic_concepts:
   - key: "FinanceEntryLevelAICompression"
     title: "Finance Entry-Level AI Compression / 金融初级岗位AI压缩"
     url: "/wiki/concepts/financeentrylevelaicompression/"
+  - key: "FinancialAIQuantitativeTrading"
+    title: "Financial AI for Quantitative Trading / 量化交易中的金融AI"
+    url: "/wiki/concepts/financialaiquantitativetrading/"
   - key: "FineTuningExampleSignalAmplification"
     title: "Fine-Tuning Example Signal Amplification"
     url: "/wiki/concepts/finetuningexamplesignalamplification/"
@@ -4312,6 +4315,9 @@ topic_concepts:
   - key: "QuantitativeDataMoat"
     title: "Quantitative Data Moat"
     url: "/wiki/concepts/quantitativedatamoat/"
+  - key: "QuantitativeResearchDiscipline"
+    title: "Quantitative Research Discipline / 量化研究纪律"
+    url: "/wiki/concepts/quantitativeresearchdiscipline/"
   - key: "QuantumComputingCommercializationGap"
     title: "Quantum Computing Commercialization Gap"
     url: "/wiki/concepts/quantumcomputingcommercializationgap/"
@@ -9131,6 +9137,9 @@ topic_entities:
   - key: "XPengIron"
     title: "XPeng Iron"
     url: "/wiki/entities/xpengiron/"
+  - key: "XTXMarkets"
+    title: "XTX Markets"
+    url: "/wiki/entities/xtxmarkets/"
   - key: "XuHuazhe"
     title: "Xu Huazhe"
     url: "/wiki/entities/xuhuazhe/"
@@ -10422,6 +10431,9 @@ topic_sources:
   - key: "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v"
     title: "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？"
     url: "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
+  - key: "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1"
+    title: "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路"
+    url: "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
   - key: "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0"
     title: "E42 孟岩对话韦青：沉默的主角"
     url: "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"

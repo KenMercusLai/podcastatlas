@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11781
+wiki_total_pages: 11786
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "FinancialAIAgents"
     title: "Financial AI Agents"
     url: "/wiki/concepts/financialaiagents/"
+  - key: "FinancialAIQuantitativeTrading"
+    title: "Financial AI for Quantitative Trading / 量化交易中的金融AI"
+    url: "/wiki/concepts/financialaiquantitativetrading/"
   - key: "FinancialAstrologyDecisionMaking"
     title: "Financial Astrology Decision-Making"
     url: "/wiki/concepts/financialastrologydecisionmaking/"
@@ -674,6 +677,9 @@ wiki_pages:
   - key: "FinancialLiteracyMeasurement"
     title: "Financial Literacy Measurement"
     url: "/wiki/concepts/financialliteracymeasurement/"
+  - key: "FinancialMarketNonstationarity"
+    title: "Financial Market Non-Stationarity / 金融市场非平稳性"
+    url: "/wiki/concepts/financialmarketnonstationarity/"
   - key: "FinancialModelRisk"
     title: "Financial Model Risk"
     url: "/wiki/concepts/financialmodelrisk/"

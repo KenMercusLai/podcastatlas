@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11781
+wiki_total_pages: 11786
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "HighEndEVBranding"
     title: "High-End EV Branding / 新能源车高端心智"
     url: "/wiki/concepts/highendevbranding/"
+  - key: "HighFrequencyTrading"
+    title: "High-Frequency Trading / 高频交易"
+    url: "/wiki/concepts/highfrequencytrading/"
   - key: "HighGroundTimingAdvantage"
     title: "High-Ground Timing Advantage / 制高点时机优势"
     url: "/wiki/concepts/highgroundtimingadvantage/"

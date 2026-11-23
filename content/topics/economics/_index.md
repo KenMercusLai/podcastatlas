@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2423
+topic_total_pages: 2426
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1315,6 +1315,9 @@ topic_concepts:
   - key: "FinancialInstitutionTrustTransmission"
     title: "Financial Institution Trust Transmission / 金融机构信任传导"
     url: "/wiki/concepts/financialinstitutiontrusttransmission/"
+  - key: "FinancialMarketNonstationarity"
+    title: "Financial Market Non-Stationarity / 金融市场非平稳性"
+    url: "/wiki/concepts/financialmarketnonstationarity/"
   - key: "FinancialModelRisk"
     title: "Financial Model Risk"
     url: "/wiki/concepts/financialmodelrisk/"
@@ -1693,6 +1696,9 @@ topic_concepts:
   - key: "HiddenAssetOptionality"
     title: "Hidden Asset Optionality"
     url: "/wiki/concepts/hiddenassetoptionality/"
+  - key: "HighFrequencyTrading"
+    title: "High-Frequency Trading / 高频交易"
+    url: "/wiki/concepts/highfrequencytrading/"
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"
@@ -2191,6 +2197,9 @@ topic_concepts:
   - key: "MarketFreshnessCulture"
     title: "Market Freshness Culture"
     url: "/wiki/concepts/marketfreshnessculture/"
+  - key: "MarketMaking"
+    title: "Market Making / 做市"
+    url: "/wiki/concepts/marketmaking/"
   - key: "MarketMeanReversion"
     title: "Market Mean Reversion"
     url: "/wiki/concepts/marketmeanreversion/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 11781
+wiki_total_pages: 11786
 wiki_pages:
   - key: "QatariSmallStateSecurityStrategy"
     title: "Qatari Small-State Security Strategy"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "QuantitativeOverfitting"
     title: "Quantitative Overfitting"
     url: "/wiki/concepts/quantitativeoverfitting/"
+  - key: "QuantitativeResearchDiscipline"
+    title: "Quantitative Research Discipline / 量化研究纪律"
+    url: "/wiki/concepts/quantitativeresearchdiscipline/"
   - key: "QuantityChangeQualityChange"
     title: "Quantity Change to Quality Change / 量变引发质变"
     url: "/wiki/concepts/quantitychangequalitychange/"

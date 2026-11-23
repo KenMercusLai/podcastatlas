@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-23] ingest | E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
+
+Added a [[SiliconValley101|硅谷101]] episode explaining why financial AI is an end-to-end system of market data, models, portfolio construction, execution, and risk control rather than a price predictor copied from the language-model playbook. Created synthesis-first profiles for [[XTXMarkets|XTX Markets]], [[DRW]], [[JaneStreet|Jane Street]], and [[HudsonRiverTrading|Hudson River Trading]], plus [[FinancialAIQuantitativeTrading|Financial AI for Quantitative Trading]], [[MarketMaking]], [[HighFrequencyTrading]], [[FinancialMarketNonstationarity]], and [[QuantitativeResearchDiscipline]]. Resynthesized [[QuantitativeOverfitting]] and [[CitadelSecurities|Citadel Securities]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: raw market-data volume can greatly exceed effective independent evidence because observations share events, split orders, and broad price moves. Larger nonlinear models may improve signal extraction, but a forecast becomes profit only after sizing, transaction costs, market impact, execution, compliance, and risk gates. Non-stationarity can make feedback arrive after an opportunity has changed, so durable advantage depends on differentiated signals, proprietary feedback, infrastructure, research taste, behavioral validation, and survival across regimes.
+
+No settled contradiction was adopted. The episode reinforces prior warnings about overfitting, alpha decay, and risk-first discipline while adding stronger dependent-sample, execution, and feedback-delay boundaries. Firm economics, compensation, compute investment, model use, market effects, Knight Capital's loss, and the claim that quantitative AI may be near a breakthrough remain episode-attributed because the supplied file is a structured summary rather than primary financial records, technical documentation, or underlying studies. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,275 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-23] ingest | 从 DeepSeek 限流到国产芯片困局，中国 AI 还能靠什么追上美国？
 
 Added a [[KejiLuandun|科技乱炖]] episode connecting reported [[DeepSeek]] consumer-service limits with compute allocation, [[AgentData|agent data]], harness ecosystems, domestic accelerator migration, and broader industrial AI adoption. Resynthesized DeepSeek, Agent Data, [[DomesticAIChipCatchUp|Domestic AI Chip Catch-Up]], and [[StrategicComputeCapacity|Strategic Compute Capacity]] from each page's complete preserved evidence inventory before appending the new source once; Agent Data was also migrated to the synthesis-first schema.
@@ -43641,6 +43651,10 @@ No settled contradiction was adopted. Long-run AI optimism can coexist with shor
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,273 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
 
