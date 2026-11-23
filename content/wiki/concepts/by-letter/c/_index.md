@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11790
+wiki_total_pages: 11792
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "CareerFertilityTimingTradeoff"
     title: "Career–Fertility Timing Tradeoff / 职业与生育时序权衡"
     url: "/wiki/concepts/careerfertilitytimingtradeoff/"
+  - key: "CaregiverAndCareRecipientRights"
+    title: "Caregiver and Care Recipient Rights / 照顧雙方權利"
+    url: "/wiki/concepts/caregiverandcarerecipientrights/"
   - key: "CarnationRevolution"
     title: "Carnation Revolution"
     url: "/wiki/concepts/carnationrevolution/"

@@ -12,7 +12,8 @@ sources:
   - google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594
   - ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b
   - gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662
-last_updated: 2026-10-06
+  - 5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
@@ -39,12 +40,15 @@ The Taiwanese AI episode adds a healthcare, aging, and language-access branch. I
 
 The October programming notice adds a network-level fact rather than a new reporting method. 《端闻》 remains fixed on Wednesdays and alternates on Fridays with [[BuduanzhePodcast|《不端者》]], whose first announced guest is [[FengZheyun|冯哲云]]. Because the notice contains no interview, it does not extend the evidence for 《端闻》's own editorial practice.
 
+The Taiwan long-term-care episode adds a social-policy and care-ethics branch. It moves from one dementia-care relationship and severe caregiver cases to [[LongTermCareSafetyNetAccess]], distinguishing nominal coverage from risk detection, referral, affordability, information, and sustained intervention. It also develops [[CaregiverAndCareRecipientRights]] by holding recipient agency and caregiver rest, health, work, and safety in the same frame.
+
 ## Key Characteristics
 - Its episodes use reported journalism with named correspondents, interviewees, and explicit evidence boundaries.
 - It connects intimate or viral cases to legal, civic, ecological, technological, and institutional systems.
 - It can use first-person experimentation and contested-event reconstruction while separating visible evidence from unproven chronology, organization, or motive.
 - Its cross-border work compares institutions and lived consequences without treating incomplete access as complete proof.
 - Its technology reporting tests practical adoption against creator, user, language, and safety constraints.
+- Its care reporting connects intimate family experience to assessment, service access, public capacity, and rights without reducing severe outcomes to one trigger.
 - Its current announced cadence is weekly on Wednesday plus alternating Friday publication with [[BuduanzhePodcast|《不端者》]].
 
 ## Evidence
@@ -53,14 +57,14 @@ The October programming notice adds a network-level fact rather than a new repor
 - Cross-border disaster reporting: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] joins grief and identification to infrastructure, warning, and climate finance; [[niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19]] adds corridor history, cumulative exposure, geopolitics, and predictability limits.
 - Technology under practical constraint: [[google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594]] separates disclosed partnership facts from AI-film strategy inference; [[ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b]] separates plausible speech from older patients' actual clinical comprehension.
 - Network cadence: [[gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662]] retains Wednesday publication and establishes alternating Friday releases with [[BuduanzhePodcast|《不端者》]].
+- Care systems and ethics: [[5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281]] links dementia-care experience and severe incidents to assessment alerts, service understanding, co-payments, family withdrawal, caregiver rights, and recipient agency.
 
 ## Qualifications
-The wiki has nine sources on the podcast, one of which is only a programming announcement. Broader claims about ownership, audience, or a definitive long-term editorial line remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete chronology or coordinated organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, and no technical basis for claiming bilateral sharing would have predicted the collapse. The A24 episode does not independently verify confidential plans or Google's motive, and the Taiwanese AI episode uses only two older-listener tests. The launch notice does not contain the advertised 《不端者》 interview and therefore supports no substantive conclusion about its book or topic.
+The wiki has ten source notes in this profile, one of which is only a programming announcement. Broader claims about ownership, audience, or a definitive long-term editorial line remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete chronology or coordinated organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, and no technical basis for claiming bilateral sharing would have predicted the collapse. The A24 episode does not independently verify confidential plans or Google's motive, and the Taiwanese AI episode uses only two older-listener tests. The long-term-care episode uses severe cases and reported figures that cannot establish population-level causality, regional service performance, or individualized risk. The launch notice does not contain the advertised 《不端者》 interview and therefore supports no substantive conclusion about its book or topic.
 
 ## What Changed
-- Added the October 2026 Wednesday-plus-alternating-Friday release schedule.
-- Added the sibling-program relationship with [[BuduanzhePodcast|《不端者》]].
-- Distinguished a network announcement from evidence about 《端闻》's own reporting method.
+- Added social-policy reporting that tests long-term-care coverage against actual safety-net access.
+- Added a two-sided care-rights frame joining recipient agency with caregiver sustainability.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -95,3 +99,5 @@ The wiki has nine sources on the podcast, one of which is only a programming ann
 - [[ClinicalLanguageComprehensionValidation]] - user-testing and patient-safety topic relationship.
 - [[BuduanzhePodcast]] - sibling program alternating in the Friday release slot.
 - [[FengZheyun]] - first guest announced through the network programming notice.
+- [[LongTermCareSafetyNetAccess]] - care-system access distinction developed through the Taiwan cases.
+- [[CaregiverAndCareRecipientRights]] - care-ethics relationship joining agency, dignity, rest, health, and work.

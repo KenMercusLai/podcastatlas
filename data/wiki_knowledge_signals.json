@@ -48231,6 +48231,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/careerpromisebeyondcontract/"
     },
+    "CaregiverAndCareRecipientRights": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5d7d8ad7b9c62c381164824c1846eb4e [5d7d8ad7b9c62c381164824c1846eb4e.mp3？aid=6b03f50f13d6134378f7dbc2&chid=66b07190af99592.281].md",
+          "key": "5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境",
+          "url": "/wiki/sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/caregiverandcarerecipientrights/"
+    },
     "Caribbean": {
       "episode_count": 3,
       "show_count": 3,
@@ -82630,9 +82646,9 @@
       "url": "/wiki/concepts/dementiacaresocialsupportsystem/"
     },
     "DementiaCaregiverBurden": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -82654,9 +82670,16 @@
           "show": "无时差研究所",
           "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
           "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        },
+        {
+          "episode_file": "5d7d8ad7b9c62c381164824c1846eb4e [5d7d8ad7b9c62c381164824c1846eb4e.mp3？aid=6b03f50f13d6134378f7dbc2&chid=66b07190af99592.281].md",
+          "key": "5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境",
+          "url": "/wiki/sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/dementiacaregiverburden/"
     },
     "DementiaFriendlyHomeDesign": {
@@ -92362,9 +92385,9 @@
       "url": "/wiki/entities/duanzhiqiang/"
     },
     "DuanwenNewsPodcast": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
@@ -92428,9 +92451,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "【公告】「不端著」正式上線！「端聞」播出安排調整",
           "url": "/wiki/sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662/"
+        },
+        {
+          "episode_file": "5d7d8ad7b9c62c381164824c1846eb4e [5d7d8ad7b9c62c381164824c1846eb4e.mp3？aid=6b03f50f13d6134378f7dbc2&chid=66b07190af99592.281].md",
+          "key": "5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境",
+          "url": "/wiki/sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
     "DuanzhiXuanyuan": {
@@ -203603,6 +203633,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/longtermcareinsuranceplanning/"
+    },
+    "LongTermCareSafetyNetAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5d7d8ad7b9c62c381164824c1846eb4e [5d7d8ad7b9c62c381164824c1846eb4e.mp3？aid=6b03f50f13d6134378f7dbc2&chid=66b07190af99592.281].md",
+          "key": "5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境",
+          "url": "/wiki/sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/longtermcaresafetynetaccess/"
     },
     "LongTermEnvironmentalMonitoring": {
       "episode_count": 1,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境](sources/5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281.md) — 端聞以失智家庭與重大長照案件檢視台灣照顧者孤立、風險辨識、服務可及性、雙方權利及超高齡社會的照顧倫理。
 - [Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles](sources/rothy-s-roth-martin-the-art-dealer-who-built-a-1b-shoe-brand-from-plastic-bottles-vmp9564565828.md) — How I Built This on knit-to-shape footwear, a failed launch, manufacturing integration, profitable DTC growth, and staged retail expansion.
 - [190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b.md) — 晚点聊访谈蔡伟，以持续“事项”、责任转移、自研移动端Agent Runtime、后台调度和智能—供给—安全三要素解释灵光2.0。
 - [725. The Death of Captain Cook: At World's End (Part 1)](sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488.md) — The Rest Is History follows Cook through scientific achievement, imperial coercion, Antarctic exploration, contact critique, third-voyage punitive escalation, and arrival in Hawaii.
@@ -20366,6 +20367,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
 
 ## Concepts
+- [Long-Term Care Safety-Net Access / 長照安全網可及性](concepts/LongTermCareSafetyNetAccess.md) — Distinguishes nominal service coverage from completed identification, referral, affordability, understanding, help-seeking, and follow-up.
+- [Caregiver and Care Recipient Rights / 照顧雙方權利](concepts/CaregiverAndCareRecipientRights.md) — Two-sided care principle protecting recipient agency and dignity alongside caregiver rest, health, work, safety, and shared responsibility.
 - [Knit-to-Shape Footwear Manufacturing](concepts/KnitToShapeFootwearManufacturing.md) — Programmable flat-knitting system joining localized structure, material choice, sizing, assembly, and bounded waste reduction.
 - [Personal Agent Matter Management / 个人智能体事项管理](concepts/PersonalAgentMatterManagement.md) — 以持续事项而非对话为基本单位，将上下文、跟进、主动服务、责任转移与结果指标连接起来。
 - [Expeditionary Command Deterioration](concepts/ExpeditionaryCommandDeterioration.md) — Framework separating observed decline in judgment and proportionality under prolonged mission strain from unsupported medical diagnosis.

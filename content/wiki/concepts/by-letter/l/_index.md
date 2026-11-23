@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11790
+wiki_total_pages: 11792
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "LongTermCareInsurancePlanning"
     title: "Long-Term Care Insurance Planning"
     url: "/wiki/concepts/longtermcareinsuranceplanning/"
+  - key: "LongTermCareSafetyNetAccess"
+    title: "Long-Term Care Safety-Net Access / 長照安全網可及性"
+    url: "/wiki/concepts/longtermcaresafetynetaccess/"
   - key: "LongTermEnvironmentalMonitoring"
     title: "Long-Term Environmental Monitoring"
     url: "/wiki/concepts/longtermenvironmentalmonitoring/"

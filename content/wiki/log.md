@@ -43717,3 +43717,17 @@ The automatic `wiki/overview.md` was read for context and not manually rewritten
 ## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-23] ingest | 2026卓越新聞獎重溫｜照顧到「死」，一個超高齡社會的道德困境
+
+Added the [[DuanwenNewsPodcast|端聞 / 端傳媒新聞播客]] report on dementia family care, severe long-term-care incidents, and Taiwan's aging care system. Created [[LongTermCareSafetyNetAccess]] to distinguish high nominal coverage from completed risk detection, referral, affordability, information, help-seeking, and follow-up, and created [[CaregiverAndCareRecipientRights]] to hold recipient agency and caregiver rest, health, work, and safety in one rights frame.
+
+Resynthesized [[DementiaCaregiverBurden]] from its complete preserved evidence inventory before appending the new source once. The new evidence adds the qualified transition from chronic strain to safety risk when sleep loss, illness, financial pressure, family withdrawal, and service-access failures accumulate; it explains prevention points without excusing violence or treating diagnosis, gender, or caregiving status as deterministic danger signals.
+
+No settled contradiction was adopted. Near-nine-tenths service coverage and continuing severe cases measure different things: resources may exist while assessment alerts, referrals, affordability, understanding, trust, or sustained intervention still fail. Case counts, gender distribution, coverage figures, policy corrections, and causal interpretations remain source-scoped rather than population-level proof or individualized clinical, legal, or crisis guidance.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,280 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
