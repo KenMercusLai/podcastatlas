@@ -116319,9 +116319,9 @@
       "url": "/wiki/concepts/filmaspreparatoryjustice/"
     },
     "FilmDistributionGatekeeping": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_20c3269bc63dde599e9e1898d7da833b_33908266 [default.mp3_ywr3ahjkcgo_20c3269bc63dde599e9e1898d7da833b_33908266].md",
@@ -116329,9 +116329,16 @@
           "show": "Planet Money",
           "title": "Anatomy of a movie market",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266/"
+        },
+        {
+          "episode_file": "tech_20261123_1123_MP_TECH_pod_128 [tech_20261123_1123_MP_TECH_pod_128].md",
+          "key": "tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Hollywood brings Big Tech's drama to the big screen",
+          "url": "/wiki/sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/filmdistributiongatekeeping/"
     },
     "FilmExchangeHistory": {
@@ -120103,6 +120110,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/founderarchetypefit/"
+    },
+    "FounderBiopicNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261123_1123_MP_TECH_pod_128 [tech_20261123_1123_MP_TECH_pod_128].md",
+          "key": "tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Hollywood brings Big Tech's drama to the big screen",
+          "url": "/wiki/sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/founderbiopicnarrative/"
     },
     "FounderBoardRelationshipMaintenance": {
       "episode_count": 2,
@@ -177855,6 +177878,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/joerogan/"
+    },
+    "JoeStreet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261123_1123_MP_TECH_pod_128 [tech_20261123_1123_MP_TECH_pod_128].md",
+          "key": "tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Hollywood brings Big Tech's drama to the big screen",
+          "url": "/wiki/sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/joestreet/"
     },
     "JoelZivot": {
       "episode_count": 3,
@@ -324090,9 +324129,9 @@
       "url": "/wiki/entities/theskateparkproject/"
     },
     "TheSocialReckoning": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "69104aa52182b702669d450d025a7dac [69104aa52182b702669d450d025a7dac.mp3？aid=6ac76b2739599f7c56294e34&chid=d556eb54-6160-4.280].md",
@@ -324100,9 +324139,16 @@
           "show": "Economist Podcasts",
           "title": "Valley of the shadow of debt: bond-market jitters",
           "url": "/wiki/sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac/"
+        },
+        {
+          "episode_file": "tech_20261123_1123_MP_TECH_pod_128 [tech_20261123_1123_MP_TECH_pod_128].md",
+          "key": "tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Hollywood brings Big Tech's drama to the big screen",
+          "url": "/wiki/sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/thesocialreckoning/"
     },
     "TheSorcerersApprenticeGoethe": {

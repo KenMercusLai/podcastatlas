@@ -43745,3 +43745,17 @@ The automatic `wiki/overview.md` was read for context and not manually rewritten
 ## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-23] ingest | Hollywood brings Big Tech's drama to the big screen
+
+Added the [[MarketplaceTech]] interview with historian [[JoeStreet]] on Hollywood's renewed interest in technology leaders. Created [[FounderBiopicNarrative]] to capture how founder-centered films make complex institutions accessible while risking over-personalization, and created a source-bounded profile of Street's cultural, industrial, and historical method.
+
+Resynthesized [[FilmDistributionGatekeeping]] and [[TheSocialReckoning]] from their complete preserved evidence inventories before appending the new source once. The new evidence extends distribution gatekeeping from buyer concentration and corporate approval to potential conflicts between technology-critical subject matter and technology-shaped distribution, while preserving the distinction between structural exposure and demonstrated suppression. It also places *The Social Reckoning* in a qualified shift from future-oriented technology optimism toward retrospective judgment.
+
+No settled contradiction was adopted. The existence of a coherent film cycle, Hollywood's motives, founder characterization, reported distribution difficulty, the 1970s analogy, and the dystopian reading of *The Internship* remain source-scoped interpretations rather than industry-wide causal findings.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,282 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

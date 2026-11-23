@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3923
+topic_total_pages: 3926
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2611,6 +2611,9 @@ topic_concepts:
   - key: "FoundationModelValueCaptureExpansion"
     title: "Foundation Model Value-Capture Expansion"
     url: "/wiki/concepts/foundationmodelvaluecaptureexpansion/"
+  - key: "FounderBiopicNarrative"
+    title: "Founder Biopic Narrative"
+    url: "/wiki/concepts/founderbiopicnarrative/"
   - key: "FounderMode"
     title: "Founder Mode"
     url: "/wiki/concepts/foundermode/"
@@ -7154,6 +7157,9 @@ topic_entities:
   - key: "JoeLonsdale"
     title: "Joe Lonsdale"
     url: "/wiki/entities/joelonsdale/"
+  - key: "JoeStreet"
+    title: "Joe Street"
+    url: "/wiki/entities/joestreet/"
   - key: "JoelLehman"
     title: "Joel Lehman"
     url: "/wiki/entities/joellehman/"
@@ -10752,6 +10758,9 @@ topic_sources:
   - key: "tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128"
     title: "Here's how to prep for a job interview with AI"
     url: "/wiki/sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128/"
+  - key: "tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128"
+    title: "Hollywood brings Big Tech's drama to the big screen"
+    url: "/wiki/sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128/"
   - key: "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128"
     title: "How a Meta AI prompt changed one mom’s approach to online privacy"
     url: "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"

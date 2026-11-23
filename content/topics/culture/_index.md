@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3825
+topic_total_pages: 3828
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1603,6 +1603,9 @@ topic_concepts:
   - key: "FormulaicProductionArtisticConfinement"
     title: "Formulaic Production and Artistic Confinement"
     url: "/wiki/concepts/formulaicproductionartisticconfinement/"
+  - key: "FounderBiopicNarrative"
+    title: "Founder Biopic Narrative"
+    url: "/wiki/concepts/founderbiopicnarrative/"
   - key: "FounderIdentityNarrativeRisk"
     title: "Founder Identity Narrative Risk"
     url: "/wiki/concepts/founderidentitynarrativerisk/"
@@ -5624,6 +5627,9 @@ topic_entities:
   - key: "JoeNamath"
     title: "Joe Namath"
     url: "/wiki/entities/joenamath/"
+  - key: "JoeStreet"
+    title: "Joe Street"
+    url: "/wiki/entities/joestreet/"
   - key: "JohnCoogan"
     title: "John Coogan"
     url: "/wiki/entities/johncoogan/"
@@ -10890,6 +10896,9 @@ topic_sources:
   - key: "hallelujah-hallelujah"
     title: "Hallelujah"
     url: "/wiki/sources/hallelujah-hallelujah/"
+  - key: "tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128"
+    title: "Hollywood brings Big Tech's drama to the big screen"
+    url: "/wiki/sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128/"
   - key: "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128"
     title: "How attitudes toward AI differ across generations"
     url: "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
