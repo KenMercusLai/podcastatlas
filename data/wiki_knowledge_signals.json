@@ -108664,6 +108664,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/expeditionteamtrust/"
     },
+    "ExpeditionaryCommandDeterioration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6692579488 [GLT6692579488].md",
+          "key": "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+          "show": "The Rest Is History",
+          "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+          "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/expeditionarycommanddeterioration/"
+    },
     "ExperienceAsInterpretiveLensAndConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -116806,9 +116822,9 @@
       "url": "/wiki/entities/firstbattleofypres/"
     },
     "FirstContactNonInterference": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -116816,9 +116832,16 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT6692579488 [GLT6692579488].md",
+          "key": "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+          "show": "The Rest Is History",
+          "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+          "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/firstcontactnoninterference/"
     },
     "FirstDingxiangCampaignWesternHan": {
@@ -171754,9 +171777,9 @@
       "url": "/wiki/entities/jamesconnolly/"
     },
     "JamesCook": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -171785,9 +171808,16 @@
           "show": "The Rest Is History",
           "title": "47. The Seven Years' War",
           "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
+        },
+        {
+          "episode_file": "GLT6692579488 [GLT6692579488].md",
+          "key": "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+          "show": "The Rest Is History",
+          "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+          "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/jamescook/"
     },
     "JamesDouglasEarlOfMorton": {
@@ -242134,6 +242164,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/olympictruce/"
     },
+    "Omai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6692579488 [GLT6692579488].md",
+          "key": "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+          "show": "The Rest Is History",
+          "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+          "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/omai/"
+    },
     "OmarAlBashir": {
       "episode_count": 1,
       "show_count": 1,
@@ -290736,9 +290782,9 @@
       "url": "/wiki/concepts/scientificdissentunderrejection/"
     },
     "ScientificExplorationImperialClaim": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -290760,9 +290806,16 @@
           "show": "The Rest Is History",
           "title": "121. Australia Before Cook",
           "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
+        },
+        {
+          "episode_file": "GLT6692579488 [GLT6692579488].md",
+          "key": "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+          "show": "The Rest Is History",
+          "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+          "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/scientificexplorationimperialclaim/"
     },
     "ScientificFraudPanic": {
@@ -327967,6 +328020,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/toagentdistribution/"
+    },
+    "TobiasFurneaux": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6692579488 [GLT6692579488].md",
+          "key": "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+          "show": "The Rest Is History",
+          "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+          "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/entities/tobiasfurneaux/"
     },
     "TobiasSchmidt": {
       "episode_count": 1,

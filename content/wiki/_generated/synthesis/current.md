@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-11-18
-as_of_overview_commit: 17ecafa9c57ad425e20b0384134fad49c660047c
+last_updated: 2026-11-23
+as_of_overview_commit: 72f0ef185b654a3651fdacbdf8880db4e5e8e3a3
 summary: "Podcast Atlas connects technology, markets, institutions, culture, history, health, and work through evidence, context, implementation, and human judgment."
-episode_count: 5274
-source_count: 5274
-paragraph_count: 811
+episode_count: 5276
+source_count: 5276
+paragraph_count: 812
 topic_count: 9
 ---
 
@@ -43,46 +43,46 @@ Durable business value requires cash flow, unit economics, governance, capital s
 
 ### Cross-domain
 
-Cross-domain health evidence emphasizes matching tools to function and preserving system constraints: nutrition and alertness aids support specific goals but do not replace adequate foundations.
+Cross-domain health evidence emphasizes matching tools to function and preserving system constraints: targeted aids support specific goals but do not replace adequate foundations.
 
 ### Culture and Media
 
-Media forms shape what becomes legible, intimate, durable, and authoritative; meaning emerges through the interaction of medium, material, audience practice, provenance, and interpretation.
+Media forms shape what becomes legible, intimate, durable, and authoritative; meaning emerges through medium, material, audience practice, provenance, and interpretation.
 
 - [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161]] adds that durable podcast form joins [[PodcastProductionWorkflow]] to [[IndependentPodcastSustainability]]: preparation, complementary host roles, live follow-up, reciprocal accountability, listener connection, bounded commerce, and a [[PodcastPlatformPortfolio]] together shape whether an open-topic show can continue and remain discoverable. Evidence: [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]], [[PodcastProductionWorkflow]], [[IndependentPodcastSustainability]], [[PodcastPlatformPortfolio]], [[WushichaYanjiusuo]].
 - [[434-luther-the-revolution-begins-part-2-glt4080973410|The Luther episode]] adds a historical media case: [[ReformationPrintCulture]] made the Ninety-five Theses portable through printing and directed correspondence, so reproducibility and networked delivery mattered more than the probably legendary church-door scene in turning a university dispute into public revolt. Evidence: [[434-luther-the-revolution-begins-part-2-glt4080973410]], [[ReformationPrintCulture]], [[MartinLuther]], [[Wittenberg]], [[TheRestIsHistory]].
 
 ### Governance and Institutions
 
-Institutions work through legitimacy, information, capacity, bargaining, accountability, and implementation incentives, with enforceable purpose and audit mattering more than formal assurance alone.
+Institutions work through legitimacy, information, capacity, bargaining, accountability, and implementation incentives, with enforceable purpose and audit mattering more than assurance alone.
 
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression. Evidence: [[38-communism-glt7587678050]], [[Communism]], [[MarxismAsPoliticalReligion]], [[VladimirLenin]], [[UtopianCommunistCoercion]], [[MarxistLeninistStateCapacity]].
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a media-governance case in which [[JournalisticIndependenceAgainstFaction]] and [[AdvertiserPressureEditorialIndependence]] require [[LinXingzhi|林行止]] and the [[HongKongEconomicJournal|《信报》]] to judge across Beijing, London, colonial, local-elite, and advertiser interests while distinguishing pressure-driven retreat from evidence-driven correction; the later [[LiTzarKai|李泽楷]] ownership transition keeps structural autonomy an open rather than settled question. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[JournalisticIndependenceAgainstFaction]], [[AdvertiserPressureEditorialIndependence]], [[LinXingzhi]], [[HongKongEconomicJournal]], [[HongKong]], [[JinYong]], [[LiKaShing]], [[LiTzarKai]].
 
 ### History and Geopolitics
 
-Historical power repeatedly depends on routes, logistics, coalition credibility, command, institutional learning, and reputation, while incomplete evidence requires explicit limits on motive and causation claims.
+Historical power depends on routes, logistics, coalition credibility, command, institutional learning, and reputation, while incomplete evidence limits motive and causation claims.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].
 
 ### Psychology and Personal Development
 
-Across relationships, clinical education, work, and embodied practice, contextual function matters more than labels; agency, trust, and regulation remain bounded by state, relationships, and evidence.
+Across relationships, clinical education, work, and embodied practice, contextual function matters more than labels; agency and regulation remain bounded by state, relationships, and evidence.
 
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]]. Evidence: [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[ChildMentalHealthFamilySystemsSupport]], [[DreamDistressAndParasomniaEscalation]].
 - Regulation and self-trust emerge through a combined repertoire of body awareness, movement, emotional differentiation, cognitive reappraisal, grounding, environmental adjustment, and safe co-regulation rather than through willpower or insight alone, linking [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], and [[BrainBodyEmotionMapping]]. Evidence: [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], [[BrainBodyEmotionMapping]], [[EmotionalGranularity]], [[EmotionalFlashbackGrounding]], [[MovementPracticeAsAwareness]], [[StressResponseRecovery]].
 
 ### Science, Health, and Climate
 
-Public literacy must remain distinct from individualized care: mechanism, measurement, dose, timing, environment, escalation, qualified treatment, and uncertainty determine whether interventions are appropriate.
+Public literacy remains distinct from individualized care: mechanism, measurement, dose, timing, environment, escalation, qualified treatment, power, and uncertainty govern interpretation.
 
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].
 
 ### Work, Education, and Society
 
-Learning, work, care, and public life depend on routines, role boundaries, trust, incentives, protected access, verification, human judgment, and durable institutional support rather than tools or labels alone.
+Learning, work, care, and public life depend on routines, role boundaries, trust, incentives, protected access, verification, human judgment, and durable institutional support.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

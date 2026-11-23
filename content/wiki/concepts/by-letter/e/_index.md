@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11786
+wiki_total_pages: 11787
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "ExpeditionTeamTrust"
     title: "Expedition Team Trust"
     url: "/wiki/concepts/expeditionteamtrust/"
+  - key: "ExpeditionaryCommandDeterioration"
+    title: "Expeditionary Command Deterioration"
+    url: "/wiki/concepts/expeditionarycommanddeterioration/"
   - key: "ExperienceAsInterpretiveLensAndConstraint"
     title: "Experience as Interpretive Lens and Constraint / 经验作为理解透镜与限制"
     url: "/wiki/concepts/experienceasinterpretivelensandconstraint/"

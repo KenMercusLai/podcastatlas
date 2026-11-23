@@ -43661,3 +43661,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-23] ingest | 725. The Death of Captain Cook: At World's End (Part 1)
+
+Added the [[TheRestIsHistory]] episode extending [[JamesCook]] through the scientific and imperial structure of his first voyage, the Antarctic result of his second, and the punitive deterioration of his third before arrival in [[Hawaii]]. Created synthesis-first profiles for [[Omai]], [[TobiasFurneaux]], and [[ExpeditionaryCommandDeterioration]], then resynthesized James Cook, [[ScientificExplorationImperialClaim]], and [[FirstContactNonInterference]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: Cook's navigational, cartographic, chronometer-supported, and Antarctic achievements were genuine, as were his attempts to restrain crew violence and his criticism of European disease and social disruption. Those achievements and judgments coexisted with kidnapping, lethal force, possession, and collective punishment. The third voyage's severe flogging, mutilation, and destruction mark an evidenced change in conduct, while exhaustion, illness, delay, crowding, shortage, and command pressure remain plausible context rather than a diagnosis or single cause.
+
+No settled contradiction was adopted. The source corroborates the earlier first-voyage notes and extends them chronologically. Its comparison with conquistadors can clarify differences in immediate purpose and conduct without removing imperial coercion or consequence, while Pacific perspectives, casualty totals, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped through European records.
+
+Downstream synthesis refreshed `science-health-and-climate`; material candidate change triggered global compaction. Refreshed artifacts validate 5,276 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

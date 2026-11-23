@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14846
+wiki_total_pages: 14848
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "ToastIQGrow"
     title: "Toast IQ Grow"
     url: "/wiki/entities/toastiqgrow/"
+  - key: "TobiasFurneaux"
+    title: "Tobias Furneaux"
+    url: "/wiki/entities/tobiasfurneaux/"
   - key: "TobiasLutke"
     title: "Tobias Lütke"
     url: "/wiki/entities/tobiaslutke/"

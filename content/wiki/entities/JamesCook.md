@@ -7,7 +7,8 @@ sources:
   - 380-captain-cook-historys-greatest-explorer-part-1-glt8106697435
   - 121-australia-before-cook-glt2957294549
   - 47-the-seven-years-war-glt8800494407
-last_updated: 2026-10-03
+  - 725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-James Cook was a Yorkshire-born sailor, surveyor, and commander of the [[Endeavour]] whose first Pacific voyage joined astronomical observation, cartography, natural history, maritime discipline, and British territorial claims.
+James Cook was a Yorkshire-born sailor, surveyor, and naval commander whose three Pacific voyages joined astronomical observation, cartography, natural history, maritime discipline, and British territorial claims before his death in Hawaii in 1779.
 
 ## Current Profile
 
@@ -27,14 +28,18 @@ Cook is therefore neither detached scientist nor simple conquistador in this acc
 
 The earlier [[121-australia-before-cook-glt2957294549]] adds a necessary chronological correction: Cook sailed toward a continent with tens of thousands of years of Indigenous history and a pre-1770 contact record. His achievement lies in navigation, eastern-coast charting, and the consequences of British state knowledge, not in being Australia's first discoverer.
 
+[[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] extends the profile across the second and early third voyages. Cook's systematic southern sailing rejected the imagined habitable Terra Australis while anticipating a frozen Antarctic continent, and his writing blamed European sailors for disease, disruptive desire, and moral damage in Pacific societies. This contemporary critique did not remove his own use of kidnapping, force, or possession.
+
+The third voyage also changes the current judgment of his command. After years at sea amid visible ill health, delay, crowding, leakage, shortages, and disciplinary failure, Cook ordered unusually severe floggings, mutilation, violence against people in the water, and collective destruction. Officers recognized the departure from earlier practice. The behavioral change is well supported within the episode, but its medical or psychological cause is not.
+
 ## Key Characteristics
 
-- Exacting captain who treats self-control, discipline, provisioning, and shipboard authority as central duties.
+- Exacting captain whose earlier self-control, discipline, and provisioning gave way to markedly harsher third-voyage punishment under accumulated strain.
 - Self-made but patronage-assisted naval professional formed by merchant sailing, wartime river survey, and Newfoundland charting.
 - Navigator and cartographer who turns field observation into charts of the St Lawrence, Newfoundland, New Zealand, and eastern Australia.
-- Scientific commander who enables the Tahiti transit-of-Venus observation and natural-history collection.
-- Participant in coercive first contact, including threats, gunfire, killings by his party, and possession without local consent.
-- Observer whose respect for Māori, Polynesian navigation, and Aboriginal life grows without escaping European hierarchy or imperial purpose.
+- Scientific commander whose voyages enabled astronomical observation, natural-history collection, chronometer testing, and the rejection of the imagined Terra Australis.
+- Participant in coercive first contact, including kidnapping, threats, gunfire, killings by his party, collective reprisal, and possession without local consent.
+- Observer who respected Pacific seamanship and criticized European disease and corruption without escaping hierarchy, imperial purpose, or his own coercion.
 - National-memory figure whose later “discoverer” status can obscure Indigenous antiquity and earlier maritime contact.
 
 ## Evidence
@@ -46,14 +51,19 @@ The earlier [[121-australia-before-cook-glt2957294549]] adds a necessary chronol
 - Coercion and violence: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] records lethal encounters, threats to burn canoes, armed warnings, and British possession ceremonies.
 - Revising judgment: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] cites Cook's admiration for Māori disposition and Aboriginal freedom from European wants while keeping his condescension and power advantage visible.
 - Discovery boundary: [[121-australia-before-cook-glt2957294549]] distinguishes Cook's navigational achievement from a discovery claim contradicted by Indigenous deep time, Makassan exchange, and earlier European contact elsewhere on the continent.
+- Second-voyage result: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] connects chronometer-assisted navigation, Antarctic sailing, the rejection of Terra Australis, and inference of a frozen polar landmass.
+- Colonial self-critique: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] records Cook blaming European sailors for disease, new desires, and moral disruption while continuing the expeditionary system producing those harms.
+- Third-voyage deterioration: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] places severe flogging, mutilation, and destruction beside officer criticism and accumulated mission strain.
 
 ## Qualifications
 
-This profile derives from four popular-history episodes centered largely on European records. It does not settle Cook's private motives for joining the Navy, the South Sea shilling story, exact health effects of particular provisions, responsibility for every killing, the sincerity of his remorse, or the relationship between his personal conduct and later colonization. The precise authorship, use, and decisiveness of St Lawrence charts and the pre-Cook episode's migration dates, oral-memory interpretations, and early-contact disputes remain source-scoped.
+This profile derives from five popular-history episodes centered largely on European records. It does not settle Cook's private motives for joining the Navy, the South Sea shilling story, exact health effects of particular provisions, responsibility for every killing, the sincerity of his remorse, or the relationship between his personal conduct and later colonization. The precise authorship, use, and decisiveness of St Lawrence charts and the pre-Cook episode's migration dates, oral-memory interpretations, and early-contact disputes remain source-scoped. The third-voyage account supports a change in conduct but cannot diagnose Cook or isolate illness, exhaustion, frustration, personality, and command structure as causes.
 
 ## What Changed
 
-- Connected Cook's St Lawrence surveying more explicitly to the Quebec campaign and the wartime use of cartographic knowledge.
+- Extended the profile from the first voyage through the second voyage's Antarctic result and the opening of the third.
+- Added Cook's explicit criticism of European disease, desire, and moral disruption in Pacific societies.
+- Reframed his late command around evidenced punitive escalation while keeping medical causation unresolved.
 
 ## Relationships
 
@@ -67,3 +77,6 @@ This profile derives from four popular-history episodes centered largely on Euro
 - [[Australia]] - eastern coast he charted and claimed as New South Wales.
 - [[PreBritishAustralianContact]] - contact history that predates his 1770 voyage.
 - [[SevenYearsWar]] - conflict in which his survey work became operational naval knowledge.
+- [[Omai]] - Polynesian traveler whose return publicly framed Cook's third voyage.
+- [[ExpeditionaryCommandDeterioration]] - framework for separating his observed late-command change from unsupported diagnosis.
+- [[Hawaii]] - island group reached in January 1778 and setting of his death the following year.

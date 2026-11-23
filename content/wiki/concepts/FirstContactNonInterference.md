@@ -4,7 +4,8 @@ type: concept
 tags: [ethics, exploration, colonialism, first-contact]
 sources:
   - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
-last_updated: 2026-09-27
+  - 725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The Cook episode uses Star Trek's “prime directive” as an analogy for the Ro
 
 Non-interference is therefore better understood as a discipline of minimizing coercion, disease, extraction, and interpretive arrogance than as a claim of neutral presence. The source also shows that remorse after violence does not undo the structural power that made violence asymmetric.
 
+The later account adds two sharper limits. Cook's kidnapping of leaders to recover deserters or property shows that an instruction to cultivate friendship can coexist with deliberate hostage-taking. His own criticism of European disease, disruptive desire, and moral corruption shows that participants could recognize contact damage while continuing the practices that produced it. Recognition is ethically relevant, but it is not prevention.
+
 ## Key Claims
 
 - Physical presence changes incentives and expectations before any formal political intervention occurs.
@@ -27,7 +30,8 @@ Non-interference is therefore better understood as a discipline of minimizing co
 - Sexual contact and disease transmission make private crew behavior a public contact issue.
 - Translation reduces misunderstanding but cannot equalize weapons or erase coercive threats.
 - Scientific collection and observation can objectify people and remove objects even without planned conquest.
-- Regret, curiosity, and personal restraint matter morally but do not make an encounter neutral.
+- Regret, curiosity, personal restraint, and explicit criticism of European harm matter morally but do not make an encounter neutral.
+- Hostage-taking and collective reprisal expose the boundary between stated friendship and coercive expedition control.
 
 ## Evidence
 
@@ -35,6 +39,9 @@ Non-interference is therefore better understood as a discipline of minimizing co
 - New Zealand translation and violence: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] shows Tupia enabling communication while British friendship messages coexist with threats and killings.
 - Australian refusal: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] shows beads and nails failing as universal trade signals, followed by resistance, gunfire, and object collection.
 - Scientific-ethical instruction: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] places the Royal Society's non-harm aspiration beside Admiralty instructions to search, map, and claim.
+- Tahitian coercion: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] contrasts Cook's instruction to use "all imaginable humanity" with lethal theft response and the kidnapping of Queen Oberea and chiefs to recover deserters.
+- Recognition without exit: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] records Cook blaming Europeans for disease, new desires, and corruption while he remained an expeditionary commander.
+- Escalating reprisal: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] shows later destruction of canoes, paddles, and houses after theft, making proportionality part of the non-interference problem.
 
 ## Counterevidence & Qualifications
 
@@ -42,10 +49,11 @@ Non-interference is therefore better understood as a discipline of minimizing co
 - Contact can produce mutual curiosity, learning, travel, and exchange; harm is not the only possible outcome.
 - Specific communities exercised agency and sometimes benefited from or sought exchange, so “interference” should not erase local choice.
 - The source does not provide a complete Tahitian, Māori, or Aboriginal ethical evaluation of the encounters.
+- Cook's earlier voyages already involved coercion and lethal force, so the third-voyage deterioration is a change in degree and pattern rather than a fall from complete nonviolence.
 
 ## What Changed
 
-- Created a framework that treats neutral observation as structurally unstable once bodies, goods, disease, translation, and force enter contact.
+- Added hostage-taking, recognized contact damage, and collective reprisal as limits on stated friendship and restraint.
 
 ## Related Concepts
 
@@ -53,3 +61,4 @@ Non-interference is therefore better understood as a discipline of minimizing co
 - [[ColonialSourceMediation]] - evidentiary problem that limits reconstruction of the contacted society's viewpoint.
 - [[PolynesianNavigation]] - Indigenous knowledge that reverses a one-way European discovery frame.
 - [[StrategicAccessWithoutAnnexation]] - later distinction between access and ownership that clarifies, but does not erase, power.
+- [[ExpeditionaryCommandDeterioration]] - leadership change that intensified coercion and disproportionality during the third voyage.

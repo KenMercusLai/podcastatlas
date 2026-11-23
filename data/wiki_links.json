@@ -4819,6 +4819,10 @@
     "title": "724. The Charge of the Light Brigade: Into The Valley of Death (Part 4)",
     "url": "/wiki/sources/724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240/"
   },
+  "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488": {
+    "title": "725. The Death of Captain Cook: At World's End (Part 1)",
+    "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+  },
   "725Salon": {
     "title": "725沙龙 / 725 Salon",
     "url": "/wiki/entities/725salon/"
@@ -35222,6 +35226,10 @@
   "ExpeditionTeamTrust": {
     "title": "Expedition Team Trust",
     "url": "/wiki/concepts/expeditionteamtrust/"
+  },
+  "ExpeditionaryCommandDeterioration": {
+    "title": "Expeditionary Command Deterioration",
+    "url": "/wiki/concepts/expeditionarycommanddeterioration/"
   },
   "ExperienceAsInterpretiveLensAndConstraint": {
     "title": "Experience as Interpretive Lens and Constraint / 经验作为理解透镜与限制",
@@ -72263,6 +72271,10 @@
     "title": "Olympic Truce",
     "url": "/wiki/concepts/olympictruce/"
   },
+  "Omai": {
+    "title": "Omai",
+    "url": "/wiki/entities/omai/"
+  },
   "Oman": {
     "title": "Oman",
     "url": "/wiki/entities/oman/"
@@ -97610,6 +97622,10 @@
   "ToastIQGrow": {
     "title": "Toast IQ Grow",
     "url": "/wiki/entities/toastiqgrow/"
+  },
+  "TobiasFurneaux": {
+    "title": "Tobias Furneaux",
+    "url": "/wiki/entities/tobiasfurneaux/"
   },
   "TobiasLutke": {
     "title": "Tobias Lütke",

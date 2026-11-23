@@ -811,12 +811,13 @@
       "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5",
       "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
       "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a",
-      "d26832b5069872e77e47b2673ef7c74133a8832a9ca6aef8f2dd087e358b7636"
+      "d26832b5069872e77e47b2673ef7c74133a8832a9ca6aef8f2dd087e358b7636",
+      "9c0b33a0a99a82b94d55bde89b546def24f14cffa52da627c4c1325f56774f04"
     ],
-    "paragraph_count": 811
+    "paragraph_count": 812
   },
-  "overview_commit": "5f66184eb1c7f6a48ce67659c56726609787f1df",
-  "overview_digest": "5c64bae62987c8f9a4728c2cba7d288c19e16ada4751f56b25eacaccff250ac8",
+  "overview_commit": "72f0ef185b654a3651fdacbdf8880db4e5e8e3a3",
+  "overview_digest": "268434e0d648793dd5c9da68c4f4977e440b7f06279357249fa87fd2e7a5a067",
   "paragraphs": [
     {
       "id": "db527a52393f1b38fbff139f3a01ba168ed954b3ce175d1e2f9a667ddf61185f",
@@ -23624,6 +23625,26 @@
         "TraumaInformedRefugeeEducation",
         "VietnameseRefugeeExodus",
         "i-was-a-stranger-and-you-welcomed-me-i-was-a-stranger-and-you-welcomed-me"
+      ]
+    },
+    {
+      "id": "9c0b33a0a99a82b94d55bde89b546def24f14cffa52da627c4c1325f56774f04",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest Pacific-history addition is [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488|725. The Death of Captain Cook: At World's End (Part 1)]], a [[TheRestIsHistory]] episode extending [[JamesCook]] from first-voyage survey, science, coercion, and territorial claim through the Antarctic achievement of the second voyage and punitive deterioration of the third. It adds [[Omai]], [[TobiasFurneaux]], and [[ExpeditionaryCommandDeterioration]] while resynthesizing [[ScientificExplorationImperialClaim]] and [[FirstContactNonInterference]]. Its core synthesis is that genuine scientific achievement, criticism of European contact damage, and attempts at restraint coexisted with kidnapping, killing, possession, and collective punishment; by the third voyage, unusually severe flogging, mutilation, and destruction marked a change recognized by Cook's officers. No settled contradiction is adopted. Exhaustion, illness, delay, crowding, shortage, and command pressure supply plausible context but not a diagnosis or single cause, while Pacific perspectives, exact casualties, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped through European records.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 3
+      },
+      "wikilinks": [
+        "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+        "ExpeditionaryCommandDeterioration",
+        "FirstContactNonInterference",
+        "JamesCook",
+        "Omai",
+        "ScientificExplorationImperialClaim",
+        "TheRestIsHistory",
+        "TobiasFurneaux"
       ]
     }
   ],

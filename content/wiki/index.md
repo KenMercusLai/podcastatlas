@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [725. The Death of Captain Cook: At World's End (Part 1)](sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488.md) — The Rest Is History follows Cook through scientific achievement, imperial coercion, Antarctic exploration, contact critique, third-voyage punitive escalation, and arrival in Hawaii.
 - [Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?](sources/allin-e298-ch-allin-e298-ch.md) — All-In on AI supercompanies, Anthropic's reported public valuation, open-weight disclosure pressure, and Nvidia's post-founder governance crisis.
 - [Why retail investors have their sights on Anthropic](sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128.md) — Marketplace Tech on Anthropic's reported Nasdaq debut, Nvidia compensation and transparency pressure, and outage risk from AI-compressed patch timelines.
 - [696. Build, Baby, Build!](sources/default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169-default-mp3-ywr3ahjkcgo-dde046734f50fc7c6a18ae9c19ada137-55355169.md) — Freakonomics Radio on housing affordability, zoning and permitting, family-sized homes, and housing as a qualified fertility-policy lever.
@@ -5408,6 +5409,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1.md) — 硅谷101 episode on financial AI, market making, dependent market samples, non-stationarity, execution, quantitative research discipline, and risk-first survival.
 
 ## Entities
+- [Omai](entities/Omai.md) — Polynesian traveler whose British celebrity and return home publicly framed Cook's third voyage while its secret objective remained the Northwest Passage.
+- [Tobias Furneaux](entities/TobiasFurneaux.md) — Adventure captain whose refusal to retaliate after ten crewmen were killed provides a bounded second-voyage example of naval restraint.
 - [Ed Glaeser](entities/EdGlaeser.md) — Housing economist using price, production cost, regulation, and construction volume to diagnose supply constraints.
 - [Kirk Watson](entities/KirkWatson.md) — Austin mayor connecting permitting and land-use reform to affordability, generational access, and family formation.
 - [International Court of Justice](entities/InternationalCourtOfJustice.md) — UN court whose Myanmar genocide judgment supplies recognition and precedent but lacks independent enforcement power.
@@ -20356,6 +20359,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
 
 ## Concepts
+- [Expeditionary Command Deterioration](concepts/ExpeditionaryCommandDeterioration.md) — Framework separating observed decline in judgment and proportionality under prolonged mission strain from unsupported medical diagnosis.
 - [Zoning Tax](concepts/ZoningTax.md) — Price-production-cost gap used to identify regulatory scarcity in housing markets.
 - [Family-Sized Housing Supply](concepts/FamilySizedHousingSupply.md) — Housing supply measured through bedroom mix, affordability, stability, and suitability for households seeking children.
 - [Genocide Judgment Enforcement Gap](concepts/GenocideJudgmentEnforcementGap.md) — Distance between authoritative state-responsibility findings and implemented return, reparation, protection, or institutional change.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2845
+topic_total_pages: 2846
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7323,6 +7323,9 @@ topic_sources:
   - key: "724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240"
     title: "724. The Charge of the Light Brigade: Into The Valley of Death (Part 4)"
     url: "/wiki/sources/724-the-charge-of-the-light-brigade-into-the-valley-of-death-part-4-glt1598624240/"
+  - key: "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488"
+    title: "725. The Death of Captain Cook: At World's End (Part 1)"
+    url: "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
   - key: "73-england-v-italy-glt3184835237"
     title: "73. England v Italy"
     url: "/wiki/sources/73-england-v-italy-glt3184835237/"

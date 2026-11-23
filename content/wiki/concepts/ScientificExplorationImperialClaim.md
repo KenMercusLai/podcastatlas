@@ -6,7 +6,8 @@ sources:
   - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
   - 380-captain-cook-historys-greatest-explorer-part-1-glt8106697435
   - 121-australia-before-cook-glt2957294549
-last_updated: 2026-10-02
+  - 725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ This synthesis does not make every observation insincere or every scientist a me
 
 The pre-Cook account adds a temporal boundary: European mapping can be new to an imperial archive without constituting the discovery of a continent already inhabited for tens of thousands of years and already connected to other maritime visitors.
 
+The later-voyage account extends the framework beyond territorial discovery. Chronometers, repeated Antarctic crossings, and systematic elimination of Terra Australis show state-backed exploration creating valuable negative knowledge: proving that a strategic object did not exist as imagined. The Northwest Passage mission likewise shows scientific navigation and imperial route competition remaining joined even when the public rationale was returning [[Omai]] home.
+
 ## Key Claims
 
 - Scientific and imperial objectives can share ships, funding, instruments, personnel, and routes.
@@ -31,8 +34,8 @@ The pre-Cook account adds a temporal boundary: European mapping can be new to an
 - Cartographic accuracy is both a scientific achievement and a strategic asset.
 - Natural-history and cultural observation can expand knowledge while making distant places administratively legible.
 - Sealed instructions and possession rituals reveal political purposes not exhausted by the public scientific mission.
-- European rivalry accelerates claiming even where effective occupation or local consent is absent, and imperial archives can mistake new knowledge for universal discovery by excluding Indigenous history and earlier contact networks.
-- Later colonial use of expedition knowledge may exceed the commander's immediate plans.
+- European rivalry accelerates both territorial claim and route search even where effective occupation, local consent, or the expected geography is absent.
+- Imperial archives can mistake new knowledge for universal discovery by excluding Indigenous history and earlier contact networks, while later colonial use can exceed a commander's immediate plans.
 
 ## Evidence
 
@@ -42,6 +45,8 @@ The pre-Cook account adds a temporal boundary: European mapping can be new to an
 - Knowledge production: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] places Banks's language, plant, animal, tattoo, surfing, and material observations inside the same vessel and command structure.
 - Colonial afterlife: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] distinguishes Cook's immediate expedition from Banks's later Botany Bay settlement advocacy while connecting both to the voyage's knowledge.
 - Discovery boundary: [[121-australia-before-cook-glt2957294549]] places Indigenous deep time, Makassan exchange, and documented pre-1770 European contact before Cook's British charting and claim.
+- Negative geographical knowledge: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] shows systematic southern navigation rejecting Terra Australis while inferring a frozen polar continent.
+- Route competition and public rationale: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] separates the third voyage's public return of Omai from its secret Northwest Passage search.
 
 ## Counterevidence & Qualifications
 
@@ -51,11 +56,12 @@ The pre-Cook account adds a temporal boundary: European mapping can be new to an
 - The episode does not independently reconstruct Admiralty policy, French and Spanish plans, or later Australian and New Zealand colonization in full.
 - The hypothesized need for a southern continent to balance northern landmasses was a historical conjecture, not evidence that such a continent existed as imagined.
 - Pre-Cook claims vary sharply in quality: the episode accepts Makassan exchange and post-1606 Dutch and Spanish contact while rejecting or heavily qualifying Chinese-fleet and Portuguese east-coast theories.
+- Eliminating an imagined continent was a real scientific achievement, but it did not make Pacific waters, islands, or routes politically neutral.
 
 ## What Changed
 
-- Added the pre-voyage institutional formation: survey expertise, private scientific patronage, astronomical coordination, strategic secrecy, and logistical preparation.
-- Added the distinction between discovery for an imperial archive and the much older history of the inhabited continent.
+- Extended the framework from mapping and possession to negative geographical knowledge and imperial route search.
+- Added the split between Omai's public repatriation and the third voyage's secret Northwest Passage objective.
 
 ## Related Concepts
 
@@ -66,3 +72,4 @@ The pre-Cook account adds a temporal boundary: European mapping can be new to an
 - [[PolynesianNavigation]] - Indigenous capability that challenges one-directional discovery narratives.
 - [[PreBritishAustralianContact]] - evidence-ranked contact history that limits Cook-centered discovery claims.
 - [[AustralianDeepTimeAndOralContinuity]] - Indigenous historical depth erased by an absolute discovery frame.
+- [[ExpeditionaryCommandDeterioration]] - command-risk framework showing how institutional power amplifies changing personal judgment.
