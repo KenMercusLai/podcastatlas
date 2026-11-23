@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-23] ingest | 190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火
+
+Added a [[LateTalk|晚点聊 LateTalk]] interview with [[CaiWei|蔡伟]] on [[AntLingGuang|蚂蚁灵光]] 2.0. Created [[PersonalAgentMatterManagement|个人智能体事项管理]], then resynthesized Cai Wei, Ant LingGuang, [[PersonalAgentMaturityTriad|个人智能体成熟三要素]], and [[AgentRuntimeExecutionLayer]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: LingGuang treats a continuing matter rather than a conversation as the basic product unit. “Managing” transfers bounded responsibility for remembering, monitoring, escalation, and follow-through, making managed outcomes more informative than conversation volume while raising the cost of failure. The team reportedly replaced an early OpenClaw-derived architecture with a mobile-oriented runtime for timed, event-driven, and user-state-driven work; background latency tolerance can support smaller models and off-peak scheduling, but service authorization, privacy, isolation, payment confirmation, and reliable completion remain binding requirements.
+
+No settled contradiction was adopted. This interview substantially overlaps the November 18 Cai Wei source and is corroborating provenance rather than independent confirmation. It corrects unsupported masculine English pronouns in the prior Cai profile by using neutral references. Reported managed-matter and execution counts, retention, inference cost, model performance, architecture, service demand, market concentration, competitive windows, and business models remain participant claims or forecasts because the supplied file is a structured summary rather than product telemetry, technical documentation, audited economics, or an adoption study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,277 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-23] ingest | E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
 
 Added a [[SiliconValley101|硅谷101]] episode explaining why financial AI is an end-to-end system of market data, models, portfolio construction, execution, and risk control rather than a price predictor copied from the language-model playbook. Created synthesis-first profiles for [[XTXMarkets|XTX Markets]], [[DRW]], [[JaneStreet|Jane Street]], and [[HudsonRiverTrading|Hudson River Trading]], plus [[FinancialAIQuantitativeTrading|Financial AI for Quantitative Trading]], [[MarketMaking]], [[HighFrequencyTrading]], [[FinancialMarketNonstationarity]], and [[QuantitativeResearchDiscipline]]. Resynthesized [[QuantitativeOverfitting]] and [[CitadelSecurities|Citadel Securities]] from their complete preserved evidence inventories before appending the new source once.
@@ -43671,6 +43681,10 @@ Core synthesis: Cook's navigational, cartographic, chronometer-supported, and An
 No settled contradiction was adopted. The source corroborates the earlier first-voyage notes and extends them chronologically. Its comparison with conquistadors can clarify differences in immediate purpose and conduct without removing imperial coercion or consequence, while Pacific perspectives, casualty totals, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped through European records.
 
 Downstream synthesis refreshed `science-health-and-climate`; material candidate change triggered global compaction. Refreshed artifacts validate 5,276 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-23] lint | Wiki health check
 

@@ -4,7 +4,8 @@ type: concept
 tags: [ai, agents, services, safety]
 sources:
   - 157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0
-last_updated: 2026-11-18
+  - 7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b
+last_updated: 2026-11-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Intelligence lets an agent understand intent, decompose long tasks, use tools, r
 
 The three layers are complements rather than a sequence with one universal bottleneck. Strong reasoning without service access produces advice instead of completion; broad integrations without reliable intelligence produce brittle automation; capability and supply without permission, privacy, compliance, and recourse make consequential delegation unacceptable.
 
+The LateTalk interview makes the interdependence operational. A mobile runtime has to schedule and isolate continuing work, service connections require third-party cooperation, and payment still returns to the user for final authorization. Background execution may reduce cost through smaller models and off-peak scheduling, but cheap execution does not compensate for a missing service path or an unsafe authority boundary.
+
 ## Key Claims
 - Personal-agent usefulness is end-to-end and cannot be inferred from model quality alone.
 - Service supply includes interfaces, partner relationships, authorization paths, and fulfillment capacity rather than a tool catalog by itself.
@@ -30,12 +33,13 @@ The three layers are complements rather than a sequence with one universal bottl
 - Supply evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] describes Alipay services and Ant's partner relationships as a lower-friction route to callable real-world fulfillment.
 - Safety evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] places authorization, personal data, payment, privacy, compliance, and explicit action boundaries inside the product definition.
 - Competitive evidence: [[157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0]] attributes near-term differentiation to intelligence and longer-term defensibility to supply and safety.
+- Production evidence: [[7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b]] ties intelligence to a self-built runtime and model/application coordination, supply to authorized service interfaces, and safety/trust to data scoping, virtual isolation, and final user approval for payment.
 
 ## Counterevidence & Qualifications
-The framework is an operator's synthesis rather than a validated maturity model. Distribution, interface quality, price, latency, habit, brand, hardware reach, and business incentives may independently determine adoption. The source does not specify measurable thresholds for any layer or show that all successful products must own each one directly; partnerships and platform infrastructure may supply them. Claims about which layer dominates competition remain forecasts.
+The framework is an operator's synthesis rather than a validated maturity model. The two current source notes substantially overlap and should not be counted as independent confirmation. Distribution, interface quality, price, latency, habit, brand, hardware reach, and business incentives may independently determine adoption. The sources do not specify measurable thresholds for any layer or show that all successful products must own each one directly; partnerships and platform infrastructure may supply them. Claims about which layer dominates competition remain forecasts.
 
 ## What Changed
-- Established the three-layer framework from the LingGuang interview.
+- Added the runtime, authorized-service, isolation, and payment-confirmation mechanisms that operationalize the three layers.
 
 ## Related Concepts
 - [[PersonalLifeAgent]] - product category whose maturity the framework evaluates.

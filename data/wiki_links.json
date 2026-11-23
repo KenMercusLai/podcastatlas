@@ -4891,6 +4891,10 @@
     "title": "通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35",
     "url": "/wiki/sources/7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6/"
   },
+  "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b": {
+    "title": "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火",
+    "url": "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
+  },
   "8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli": {
     "title": "8 古代的“高速公路”：秦汉驰道与罗马大路",
     "url": "/wiki/sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli/"
@@ -75426,6 +75430,10 @@
   "PersonalAIMemory": {
     "title": "Personal AI Memory",
     "url": "/wiki/concepts/personalaimemory/"
+  },
+  "PersonalAgentMatterManagement": {
+    "title": "Personal Agent Matter Management / 个人智能体事项管理",
+    "url": "/wiki/concepts/personalagentmattermanagement/"
   },
   "PersonalAgentMaturityTriad": {
     "title": "Personal Agent Maturity Triad / 个人智能体成熟三要素",

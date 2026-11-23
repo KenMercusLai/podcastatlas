@@ -12417,9 +12417,9 @@
       "url": "/wiki/concepts/agentreliabilityverification/"
     },
     "AgentRuntimeExecutionLayer": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -12441,9 +12441,16 @@
           "show": "What's Next｜科技早知道",
           "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",
           "url": "/wiki/sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be/"
+        },
+        {
+          "episode_file": "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
+          "key": "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b",
+          "show": "晚点聊 LateTalk",
+          "title": "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火",
+          "url": "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/agentruntimeexecutionlayer/"
     },
     "AgentSkillSupplyChainRisk": {
@@ -21732,9 +21739,9 @@
       "url": "/wiki/entities/antinternational/"
     },
     "AntLingGuang": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
@@ -21742,9 +21749,16 @@
           "show": "张小珺Jùn｜商业访谈录",
           "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
           "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+        },
+        {
+          "episode_file": "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
+          "key": "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b",
+          "show": "晚点聊 LateTalk",
+          "title": "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火",
+          "url": "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/antlingguang/"
     },
     "AntLingbo": {
@@ -44201,9 +44215,9 @@
       "url": "/wiki/entities/caimao/"
     },
     "CaiWei": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
@@ -44211,9 +44225,16 @@
           "show": "张小珺Jùn｜商业访谈录",
           "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
           "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+        },
+        {
+          "episode_file": "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
+          "key": "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b",
+          "show": "晚点聊 LateTalk",
+          "title": "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火",
+          "url": "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "url": "/wiki/entities/caiwei/"
     },
     "CaiWenji": {
@@ -253128,10 +253149,26 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/personalaimemory/"
     },
-    "PersonalAgentMaturityTriad": {
+    "PersonalAgentMatterManagement": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
+          "key": "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b",
+          "show": "晚点聊 LateTalk",
+          "title": "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火",
+          "url": "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
+        }
+      ],
+      "updated": "2026-11-23",
+      "url": "/wiki/concepts/personalagentmattermanagement/"
+    },
+    "PersonalAgentMaturityTriad": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltU-y2wl0s2fvaEJBluGHouM2hO0 [ltU-y2wl0s2fvaEJBluGHouM2hO0].md",
@@ -253139,9 +253176,16 @@
           "show": "张小珺Jùn｜商业访谈录",
           "title": "157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象",
           "url": "/wiki/sources/157-fupan-personal-agent-jiti-dansheng-beihou-he-caiwei-liao-ai-chanpinshi-xuqiu-zhenwei-rukou-yu-weilai-xiangxiang-ltu-y2wl0s2fvaejblughoum2ho0/"
+        },
+        {
+          "episode_file": "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
+          "key": "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b",
+          "show": "晚点聊 LateTalk",
+          "title": "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火",
+          "url": "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "url": "/wiki/concepts/personalagentmaturitytriad/"
     },
     "PersonalAgentNetworkEffects": {

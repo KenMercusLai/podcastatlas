@@ -2845,14 +2845,14 @@
       "earliest_episode_date": "2026-05-25",
       "latest_episode_date": "2026-11-23",
       "latest_episode_file": "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
-      "source_note_count": 21,
-      "topic_matched_source_note_count": 19,
+      "source_note_count": 22,
+      "topic_matched_source_note_count": 20,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "economics",
@@ -2932,7 +2932,7 @@
         }
       ],
       "start_here_episode_files": [
-        "77706b7f-cf2f-4400-826c-0331ae6c62a8 [77706b7f-cf2f-4400-826c-0331ae6c62a8].md",
+        "7bc6cc68-a934-4e3a-9f88-52564246590b [7bc6cc68-a934-4e3a-9f88-52564246590b].md",
         "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
         "1ba74c4b-43e4-416c-aafe-f191fcb44898 [1ba74c4b-43e4-416c-aafe-f191fcb44898].md",
         "洋葱学园杨临风：用AI制造捷径，是在杀死真学习 (1) [167-1].md"

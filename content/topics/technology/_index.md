@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3921
+topic_total_pages: 3923
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4030,6 +4030,9 @@ topic_concepts:
   - key: "PersistentCloudAgents"
     title: "Persistent Cloud Agents"
     url: "/wiki/concepts/persistentcloudagents/"
+  - key: "PersonalAgentMatterManagement"
+    title: "Personal Agent Matter Management / 个人智能体事项管理"
+    url: "/wiki/concepts/personalagentmattermanagement/"
   - key: "PersonalAgentMaturityTriad"
     title: "Personal Agent Maturity Triad / 个人智能体成熟三要素"
     url: "/wiki/concepts/personalagentmaturitytriad/"
@@ -9897,6 +9900,9 @@ topic_sources:
   - key: "77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8"
     title: "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖"
     url: "/wiki/sources/77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8/"
+  - key: "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b"
+    title: "190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火"
+    url: "/wiki/sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b/"
   - key: "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto"
     title: "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会"
     url: "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"

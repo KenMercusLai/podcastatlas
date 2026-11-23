@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](sources/7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b.md) — 晚点聊访谈蔡伟，以持续“事项”、责任转移、自研移动端Agent Runtime、后台调度和智能—供给—安全三要素解释灵光2.0。
 - [725. The Death of Captain Cook: At World's End (Part 1)](sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488.md) — The Rest Is History follows Cook through scientific achievement, imperial coercion, Antarctic exploration, contact critique, third-voyage punitive escalation, and arrival in Hawaii.
 - [Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?](sources/allin-e298-ch-allin-e298-ch.md) — All-In on AI supercompanies, Anthropic's reported public valuation, open-weight disclosure pressure, and Nvidia's post-founder governance crisis.
 - [Why retail investors have their sights on Anthropic](sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128.md) — Marketplace Tech on Anthropic's reported Nasdaq debut, Nvidia compensation and transparency pressure, and outage risk from AI-compressed patch timelines.
@@ -20359,6 +20360,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
 
 ## Concepts
+- [Personal Agent Matter Management / 个人智能体事项管理](concepts/PersonalAgentMatterManagement.md) — 以持续事项而非对话为基本单位，将上下文、跟进、主动服务、责任转移与结果指标连接起来。
 - [Expeditionary Command Deterioration](concepts/ExpeditionaryCommandDeterioration.md) — Framework separating observed decline in judgment and proportionality under prolonged mission strain from unsupported medical diagnosis.
 - [Zoning Tax](concepts/ZoningTax.md) — Price-production-cost gap used to identify regulatory scarcity in housing markets.
 - [Family-Sized Housing Supply](concepts/FamilySizedHousingSupply.md) — Housing supply measured through bedroom mix, affordability, stability, and suitability for households seeking children.

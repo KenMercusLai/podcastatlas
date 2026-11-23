@@ -8436,6 +8436,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "7bc6cc68-a934-4e3a-9f88-52564246590b-7bc6cc68-a934-4e3a-9f88-52564246590b": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli": [
     {
       "key": "history",
@@ -73674,6 +73681,13 @@
     }
   ],
   "PersonalAIMemory": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PersonalAgentMatterManagement": [
     {
       "key": "technology",
       "label": "Technology",
