@@ -2771,6 +2771,78 @@
       "updated": "2026-11-06",
       "url": "/wiki/concepts/aicustomerexpansionquality/"
     },
+    "AICyberDefenseUtility": {
+      "episode_count": 9,
+      "show_count": 4,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
+          "key": "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Cyberattacks on U.S. water systems raise concerns about security",
+          "url": "/wiki/sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "tech_20260804_0803_MP_TECH_pod_128 [tech_20260804_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "China's soft power play in the global AI arms race",
+          "url": "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2193e6c471c9f121fa5b5d7d2821def2_31077010 [default.mp3_ywr3ahjkcgo_2193e6c471c9f121fa5b5d7d2821def2_31077010].md",
+          "key": "live-anthropic-co-founder-on-ai-and-jobs",
+          "show": "Planet Money",
+          "title": "Live: Anthropic co-founder on AI and jobs",
+          "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/aicyberdefenseutility/"
+    },
     "AICybersecurityValuationGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -3416,9 +3488,9 @@
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
     "AIEnabledVulnerabilityDiscovery": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 5,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
@@ -3475,9 +3547,16 @@
           "show": "Marketplace Tech",
           "title": "Why retail investors have their sights on Anthropic",
           "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
         }
       ],
-      "updated": "2026-11-20",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEntertainmentParticipationDesign": {
@@ -5450,9 +5529,9 @@
       "url": "/wiki/concepts/ainativevirtualidol/"
     },
     "AIOffensiveCyberScaleAdvantage": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
@@ -5460,9 +5539,16 @@
           "show": "Economist Podcasts",
           "title": "Delayed but not denied: justice for the Rohingyas",
           "url": "/wiki/sources/6593564fdb356af5bba0c4c825a6b361-6593564fdb356af5bba0c4c825a6b361mp3aid6b0029dc322405712ca22bffchidd556eb54-6160-4281/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
         }
       ],
-      "updated": "2026-11-20",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/aioffensivecyberscaleadvantage/"
     },
     "AIOfficeAgent": {
@@ -45787,6 +45873,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/cancervaccineplatform/"
     },
+    "CandidateIdentityFraud": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "Dhaka matters： an election for Bangladesh [698c5a3afeb59e13a3b8a94d].md",
+          "key": "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d",
+          "show": "Economist Podcasts",
+          "title": "Dhaka matters: an election for Bangladesh",
+          "url": "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/candidateidentityfraud/"
+    },
     "CangtingBattleLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -74093,6 +74209,29 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/crowdsovereigntyrepresentationconflict/"
+    },
+    "CrowdStrike": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/crowdstrike/"
     },
     "CrowdWisdomPolling": {
       "episode_count": 1,
@@ -130822,6 +130961,29 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/georgejones/"
+    },
+    "GeorgeKurtz": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/georgekurtz/"
     },
     "GeorgeLoewenstein": {
       "episode_count": 1,
@@ -250146,9 +250308,9 @@
       "url": "/wiki/entities/patagoniaregion/"
     },
     "PatchReadinessTechnicalDebt": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "24354fbed76f [24354fbed76f].md",
@@ -250163,9 +250325,16 @@
           "show": "Marketplace Tech",
           "title": "Why retail investors have their sights on Anthropic",
           "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
+          "key": "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "url": "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
         }
       ],
-      "updated": "2026-11-20",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/patchreadinesstechnicaldebt/"
     },
     "PatentCrossLicensing": {

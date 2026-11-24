@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-11-24",
       "latest_episode_file": "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
-      "source_note_count": 114,
-      "topic_matched_source_note_count": 98,
+      "source_note_count": 115,
+      "topic_matched_source_note_count": 99,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 70
+          "source_note_count": 71
         },
         {
           "key": "politics",
@@ -236,7 +236,7 @@
         }
       ],
       "start_here_episode_files": [
-        "ALLIN-E298_Ch [ALLIN-E298_Ch].md",
+        "88_AUDIO_Geoge_Kurtz_INT [88_AUDIO_Geoge_Kurtz_INT].md",
         "ALLIN-INTV_RickSmith_Ch [ALLIN-INTV_RickSmith_Ch].md",
         "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md"

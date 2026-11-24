@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem](sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int.md) — All-In interview with George Kurtz on autonomous cyberattacks, AI-enabled exploit chains, break-or-breach patching, open-weight models, session theft, and fraudulent remote employees.
 - [What happens if AI becomes its own successor?](sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128.md) — Marketplace Tech and Rachel Steratore separate current AI-assisted research from direct successor construction and propose oversight for internal research systems.
 - [Alice forgiven? Jensen Huang back at Nvidia](sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282.md) — Economist Podcasts on Huang's reported return to Nvidia, America's measles resurgence, and Max Richter's music of consolation.
 - [Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？](sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr.md) — 文化有限以《万历十五年》的六个人物连接大历史、数目字管理、道德替代制度与个人成就难以转化为持久组织能力的问题。
@@ -13508,8 +13509,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Circle](entities/Circle.md) — Stablecoin issuer behind USDC, presented by All-In as a regulated bridge between open blockchain networks and mainstream financial trust.
 - [USDC](entities/USDC.md) — Circle stablecoin network discussed as regulated digital-dollar infrastructure for payments, remittances, prediction markets, and on-chain credit.
 - [GENIUS Act](entities/GENIUSAct.md) — Stablecoin law context in the All-In source, limiting direct issuer interest while allowing platform rewards and compliance-based competition.
-- [CrowdStrike](entities/CrowdStrike.md) — Cybersecurity company used by George Kurtz to frame AI-compressed attacks, fake employees, browser security, and AI detection and response.
-- [George Kurtz](entities/GeorgeKurtz.md) — CrowdStrike CEO explaining AI-enabled cyber offense, autonomous malware, fake employee risk, and agent-era defense needs.
+- [CrowdStrike](entities/CrowdStrike.md) — Cybersecurity company framing AI-era defense across vulnerability discovery, patching, adaptive attacks, sessions, identities, browsers, and agents.
+- [George Kurtz](entities/GeorgeKurtz.md) — CrowdStrike CEO connecting autonomous cyber offense, exploit chaining, break-or-breach patching, identity compromise, and defensive AI access.
 - [Seraphic Security](entities/SeraphicSecurity.md) — Browser-layer security company acquired by CrowdStrike in the All-In source's AI detection and response branch.
 - [Archer Aviation](entities/ArcherAviation.md) — eVTOL company whose All-In interview centers on certification, early city launches, LA 2028 ambitions, safety, autonomy, and defense aviation.
 - [Adam Goldstein (Archer Aviation)](entities/AdamGoldsteinArcher.md) — Archer Aviation CEO in the All-In source, disambiguated from the existing Hipmunk/Reddit-context Adam Goldstein page.

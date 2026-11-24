@@ -6,7 +6,8 @@ knowledge_schema: synthesis-v1
 sources:
   - 24354fbed76f-24354fbed76f
   - tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128
-last_updated: 2026-11-20
+  - 88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int
+last_updated: 2026-11-25
 ---
 
 # Patch-Readiness Technical Debt
@@ -15,7 +16,7 @@ last_updated: 2026-11-20
 Patch-readiness technical debt is the accumulated version, dependency, compatibility, and operational gap that makes an urgent security update slower or more dangerous than routine maintenance would have made it.
 
 ## Current Synthesis
-Security maintenance is partly an option on future response speed. Small, regular upgrades keep compatibility failures observable and bounded; long-neglected systems may face a forced jump across multiple breaking changes exactly when a public exploit window makes delay costly. AI-enabled discovery can compress that window further, but speed alone is not readiness: a rushed defensive patch can become an outage source. The durable control is an update path with staged testing, deployment, monitoring, rollback, maintenance-window planning, and clear incident communication.
+Security maintenance is partly an option on future response speed. Small, regular upgrades keep compatibility failures observable and bounded; long-neglected systems may face a forced jump across multiple breaking changes exactly when a public exploit window makes delay costly. AI-enabled discovery can compress that window into a “break or breach” decision: deploy too quickly and disrupt production, or wait and remain exposed. The durable control is an update path with staged testing, deployment, monitoring, rollback, maintenance-window planning, temporary mitigations, and clear incident communication; cloud-native replacement patterns can reduce but not erase this constraint.
 
 ## Key Claims
 - Routine incremental updates reduce the compatibility distance an emergency patch must cross.
@@ -39,16 +40,20 @@ Security maintenance is partly an option on future response speed. Small, regula
 - [[tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128]] reports that AI-enabled exploit discovery leaves less time to review patches, while hurried updates can introduce defects and outages.
 - [[tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128]] also argues that always-on operations complicate maintenance timing and that clearer public communication can reduce unsupported assumptions of a coordinated attack.
 
+### Break-or-breach operating choice
+- [[88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int]] records [[GeorgeKurtz|George Kurtz]]'s “break or breach” framing, executive consideration of planned downtime, and contrast between replaceable cloud workloads and legacy systems in finance, healthcare, and critical infrastructure.
+
 ## Counterevidence & Qualifications
 - The source does not identify the affected PHP versions, exact patch, deployment records, or failure rates, so it does not quantify how much routine upgrading reduced response time.
 - Frequent updates can themselves introduce regressions or supplier risk; readiness requires staged validation and rollback, not automatic installation without review.
 - Some legacy systems cannot be upgraded economically or immediately, making isolation, reduced exposure, replacement planning, and explicit risk acceptance necessary complements.
 - The newest source describes the cited outages as separately caused. It supports a general patch-pressure mechanism, not a finding that one patch, AI system, or attacker caused the cluster.
+- The Kurtz interview likewise does not establish that remediation caused any named outage; its planned-downtime, cloud-modernization, technical-debt, and patch-cycle claims are operator judgments rather than comparative deployment evidence.
 
 ## What Changed
-- Added AI-compressed exploit windows as a reason patch capacity must scale with discovery capacity.
-- Added maintenance timing, staged rollout, rollback, and communication as readiness controls.
-- Separated a plausible common pressure from an unproven common outage cause.
+- Added “break or breach” as the decision form produced by compressed exploit windows.
+- Added planned downtime and replaceable cloud workloads as qualified remediation strategies.
+- Preserved the distinction between a plausible patch-pressure mechanism and an evidenced outage root cause.
 
 ## Related Concepts
 - [[CyberHygieneBaseline]] - routine controls on which emergency response depends.

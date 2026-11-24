@@ -43835,3 +43835,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-25] ingest | CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem
+
+Added the [[AllIn|All-In]] interview with [[GeorgeKurtz|George Kurtz]] on autonomous cyberattacks, AI-enabled exploit chaining, compressed patch windows, open-weight and local models, session theft, fraudulent remote employees, and corporate incident readiness.
+
+Resynthesized [[GeorgeKurtz|George Kurtz]], [[CrowdStrike]], [[AIEnabledVulnerabilityDiscovery]], [[PatchReadinessTechnicalDebt]], [[AIOffensiveCyberScaleAdvantage]], [[CandidateIdentityFraud]], and [[AICyberDefenseUtility]] from their complete preserved evidence inventories before appending the new source once. The new evidence names the “break or breach” operating dilemma, adds coordinated attack sub-agents and device-mediated fraudulent hiring, and strengthens the case for defenders to have capable, governable AI without treating unrestricted release as the only distribution model.
+
+No settled contradiction was adopted. The episode's CVE totals, growth rates, e-crime estimate, Artex origin and fork count, compromise time, outage interpretation, investigation details, and employee cases remain source-scoped because the supplied file is a structured summary rather than a transcript, incident report, repository record, or technical audit. Rushed remediation is retained as a plausible indirect outage mechanism, not a demonstrated common cause.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,288 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

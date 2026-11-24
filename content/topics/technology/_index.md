@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3928
+topic_total_pages: 3929
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10317,6 +10317,9 @@ topic_sources:
   - key: "allin-e293-ch-allin-e293-ch"
     title: "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer"
     url: "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+  - key: "88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int"
+    title: "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem"
+    url: "/wiki/sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int/"
   - key: "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638"
     title: "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan"
     url: "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
