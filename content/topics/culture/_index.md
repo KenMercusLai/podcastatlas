@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3833
+topic_total_pages: 3834
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10656,6 +10656,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634"
     title: "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
+  - key: "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282"
+    title: "Alice forgiven? Jensen Huang back at Nvidia"
+    url: "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
   - key: "americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell"
     title: "Americana Music Live with Drew Holcomb and Malcolm Gladwell"
     url: "/wiki/sources/americana-music-live-with-drew-holcomb-and-malcolm-gladwell-americana-music-live-with-drew-holcomb-and-malcolm-gladwell/"

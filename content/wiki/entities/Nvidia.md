@@ -41,7 +41,8 @@ sources:
   - 77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8
   - 541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281
   - vmp8419655880-vmp8419655880
-last_updated: 2026-11-19
+  - 4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282
+last_updated: 2026-11-24
 ---
 
 # Nvidia
@@ -50,7 +51,7 @@ last_updated: 2026-11-19
 Nvidia is a semiconductor and computing-platform company whose wiki profile has expanded from GPUs and CUDA into complete AI infrastructure. Across the sources it supplies accelerators, CPUs, networking, memory-linked systems, simulation, models, software, edge computers, and financing relationships that connect data centers to robotics, vehicles, healthcare, and physical AI.
 
 ## Current Profile
-Nvidia's strongest current position is a full-stack ecosystem: general-purpose accelerated hardware, [[CUDA]], rack-scale systems, developer adoption, cloud availability, and domain platforms reinforce one another. The April 2026 founder interview shows how that pattern developed: Nvidia abandoned the failed NV1 architecture, used emulation to compress the RIVA 128 recovery, and later put CUDA into GeForce products so gaming could finance distribution and developer adoption before broad compute demand existed. Recent bounded sources add a leadership and political shock: Huang's episode-reported resignation exposes how product judgment, supplier coordination, ecosystem credit, market confidence, and export-policy access had become concentrated around the founder. The historical interview predates that shock and does not alter current status.
+Nvidia's strongest current position is a full-stack ecosystem: general-purpose accelerated hardware, [[CUDA]], rack-scale systems, developer adoption, cloud availability, and domain platforms reinforce one another. The April 2026 founder interview shows how that pattern developed: Nvidia abandoned the failed NV1 architecture, used emulation to compress the RIVA 128 recovery, and later put CUDA into GeForce products so gaming could finance distribution and developer adoption before broad compute demand existed. The latest source reports Huang's rapid return after senior U.S. political intervention and a market-value increase approaching $1 trillion. That reversal reduces immediate operating uncertainty while intensifying questions about board independence, unresolved investigations, key-person concentration, and whether strategic importance can weaken ordinary governance constraints.
 
 ## Key Characteristics
 - Competes as an integrated compute, networking, software, simulation, and edge platform rather than only as a chip vendor.
@@ -59,7 +60,7 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - Converts rising model demand into larger systems while depending on power, cooling, HBM, packaging, fabrication, and data-center delivery.
 - Participates in infrastructure financing and strategic investments, linking growth to customer solvency, utilization, and circular-demand risk.
 - Faces competition from custom accelerators, domestic chip stacks, export restrictions, and rapid hardware depreciation even while retaining broad ecosystem advantages.
-- Faces a founder-succession test because technical, supplier, capital-allocation, and policy relationships were unusually concentrated around Huang.
+- Faces a founder-succession test because technical, supplier, capital-allocation, and policy relationships were unusually concentrated around Huang; strong near-term demand coexists with partner incentives to diversify from governance, China-policy, and key-person risk.
 
 ## Evidence
 ### Full-stack platform and ecosystem
@@ -96,6 +97,7 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] treats Huang's reported departure as a combined governance, supplier-coordination, customer-financing, and China-strategy shock rather than an ordinary executive change.
 - [[77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8]] says AMD and Broadcom may gain relative share or packaging capacity while qualifying that outcome with slower aggregate infrastructure growth and continued manufacturing constraints.
 - [[541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281]] adds competing return-versus-external-reset views, questions for interim CEO [[ColetteKress]], congressional scrutiny, and stricter controls on overseas cloud access to advanced chips.
+- [[4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282]] reports Huang's reinstatement after executive-branch pressure, a share-price rise of more than one-third, continuing investigations, sold-out production for several quarters, and incentives for suppliers and customers to seek alternatives.
 
 ### Early survival and architecture correction
 - [[vmp8419655880-vmp8419655880]] says NV1's architecture diverged from DirectX, forcing Nvidia to negotiate Sega runway, halve its workforce, and change direction.
@@ -115,14 +117,15 @@ Nvidia's strongest current position is a full-stack ecosystem: general-purpose a
 - Source-local stock strategies, satire, and macro commentary should not be read as direct evidence about Nvidia's operations or investment value.
 - The newest source is scenario analysis rather than a company filing, board record, investigation finding, supplier dataset, or audited forecast; resignation status, successor effects, order volumes, market share, and political motives remain episode-attributed.
 - The new historical source is a founder retrospective rather than an engineering postmortem, contract record, or independent company history; its early unit, cash, timing, and workforce claims remain episode-attributed.
+- Strong inherited demand and a positive share-price response do not establish board independence, resolve alleged misconduct or chip-diversion questions, or show that customer and supplier diversification risk has passed.
 
 ## What Changed
-- Added the NV1 failure, RIVA 128 recovery, and pre-fabrication emulation bet to Nvidia's early survival profile.
-- Added gaming-funded CUDA distribution as the historical precursor to the present full-stack moat.
-- Kept the April 2026 account separate from later resignation and succession evidence.
+- Updated the episode-level leadership status from founder departure to founder return.
+- Added political intervention and board independence to the governance judgment.
+- Separated strong near-term orders and valuation recovery from unresolved investigation and diversification risk.
 
 ## Relationships
-- [[JensenHuang]] - founder and former chief executive in the latest episode-reported account, whose platform role created succession exposure.
+- [[JensenHuang]] - founder and returned chief executive in the latest episode-reported account, whose platform role creates key-person and governance exposure.
 - [[CUDA]] - software ecosystem reinforcing Nvidia hardware and developer adoption.
 - [[NvidiaBlackwellPlatform]] - current platform family in the forward order and infrastructure narrative.
 - [[NvidiaVeraRubinPlatform]] - heterogeneous rack-scale successor oriented toward inference and agents.

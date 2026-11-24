@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Alice forgiven? Jensen Huang back at Nvidia](sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282.md) — Economist Podcasts on Huang's reported return to Nvidia, America's measles resurgence, and Max Richter's music of consolation.
 - [Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？](sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr.md) — 文化有限以《万历十五年》的六个人物连接大历史、数目字管理、道德替代制度与个人成就难以转化为持久组织能力的问题。
 - [Music and Your Mind](sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503.md) — Hidden Brain joins Elizabeth Margulis on learned musical meaning and autobiographical memory with Daisy Fancourt on qualified arts-and-health participation.
 - [In the life of prime: AI’s latest maths triumph](sources/in-the-life-of-prime-ais-latest-maths-triumph-0543079e679f77fa9c07ce929a73b21f.md) — Economist Podcasts on a reported Claude-and-Lean Riemann-hypothesis proof, Japan’s new disaster agency, and worsening financial precarity among American renters.
@@ -5419,6 +5420,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [Max Richter](entities/MaxRichter.md) — Composer joining classical, minimalist, and electronic language with popular accessibility and consolation-centered work.
 - [黄仁宇 / Ray Huang](entities/RayHuang.md) — 以人物叙事连接财政、军事、行政与长期制度结构的明史学者。
 - [《万历十五年》 / 1587, a Year of No Significance](entities/WanliFifteenYear.md) — 以1587年和六个人物诊断明代制度约束的历史著作。
 - [万历帝 / Wanli Emperor](entities/WanliEmperor.md) — 在最高名义权力与礼制、祖制、官僚过滤之间以消极退出进行抵抗的明代皇帝。
@@ -19354,7 +19356,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [J.P. Morgan](entities/JPMorgan.md) — Financier linking reported 1907 market stabilization to the financial backing of Titanic.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced through market communication and later made Planet Money's central case for Fed independence under presidential pressure.
-- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder and AI-platform strategist whose source-reported resignation exposes product, supplier, ecosystem-credit, China-policy, and succession concentration.
+- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder whose source-reported reinstatement exposes key-person value, political intervention, board independence, and unresolved accountability.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jesse Livermore](entities/JesseLivermore.md) — Speculator and trend-following figure used to explain trading discipline, repeated bankruptcy, and market psychology.
@@ -19428,7 +19430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for episodes on AI programming, AI translation, podcast history, and display ergonomics.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
-- [Nvidia](entities/Nvidia.md) — Full-stack AI infrastructure company now also examined through founder succession, supplier coordination, ecosystem finance, custom chips, and China compute constraints.
+- [Nvidia](entities/Nvidia.md) — Full-stack AI infrastructure company examined through founder return, governance, supplier coordination, ecosystem finance, custom chips, and China compute constraints.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, GPT-5.6 release governance, ChatGPT, commerce, infrastructure, and AI-for-math competition.
 - [Open Claw](entities/OpenClaw.md) — Local-first personal-agent framework and category signal combining memory, skills, tools, messaging, delegated execution, and high-stakes permission and cost tradeoffs.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
@@ -20385,6 +20387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Measles Elimination Resurgence](concepts/MeaslesEliminationResurgence.md) — Return of continuous measles transmission when immunity gaps, misinformation, and weakened containment capacity reinforce one another.
 - [Macrohistorical Institutional Analysis / 大历史制度分析](concepts/MacrohistoricalInstitutionalAnalysis.md) — 把个人生命和小事件放入财政、土地、军事、信息与组织能力长期结构中的历史方法。
 - [Numerical Management / 数目字管理](concepts/NumericalManagement.md) — 让公共事务可计算、可验证、可追责并可重复执行的共同标准与组织能力。
 - [Moral Substitution for Institutions / 道德替代制度](concepts/MoralSubstitutionForInstitutions.md) — 以道德教义、人格典范和裁量填补粗疏规则、弱标准化与执行能力空白的治理诊断。

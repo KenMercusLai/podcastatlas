@@ -43803,3 +43803,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-24] ingest | Alice forgiven? Jensen Huang back at Nvidia
+
+Added the [[EconomistPodcasts]] episode connecting [[JensenHuang|Jensen Huang]]'s reported return to [[Nvidia]], the reported loss of U.S. measles-elimination status, and [[MaxRichter|Max Richter]]'s consolation-centered response to dystopian material. Created [[MeaslesEliminationResurgence]] to connect immunity gaps, disease severity, adult susceptibility, containment cost, public-health staffing, and official misinformation, and created a source-bounded Richter profile.
+
+Resynthesized [[JensenHuang|Jensen Huang]], [[Nvidia]], [[FounderLedPlatformSuccessionRisk]], and [[VaccineScheduleTrustRebuilding]] from their complete preserved evidence inventories before appending the new source once. The governance update treats reinstatement as a reduction in immediate operating uncertainty but not as exoneration: political intervention, board independence, unresolved investigations, employee trust, and customer diversification remain live. The vaccine update distinguishes evidence-based schedule questions from misinformation while adding measles resurgence as a population-level consequence of coverage and trust failure.
+
+No settled contradiction was adopted. The reported reinstatement is treated as a dated reversal of earlier board-refusal and interim-succession reports. Strong Nvidia demand does not resolve governance questions, and episode-level case, death, coverage, staffing, cost, market, investigation, intervention, and reception claims remain source-scoped pending primary evidence.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic; the maximum-age gate triggered global compaction, which refreshed artifacts for 5,286 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

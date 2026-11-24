@@ -120459,9 +120459,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 6,
-      "show_count": 5,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -120504,9 +120504,16 @@
           "show": "Marketplace Tech",
           "title": "Why retail investors have their sights on Anthropic",
           "url": "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+          "key": "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282",
+          "show": "Economist Podcasts",
+          "title": "Alice forgiven? Jensen Huang back at Nvidia",
+          "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
         }
       ],
-      "updated": "2026-11-20",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {
@@ -174201,9 +174208,9 @@
       "url": "/wiki/entities/jennyorangutan/"
     },
     "JensenHuang": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 12,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -174323,9 +174330,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
           "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
+        },
+        {
+          "episode_file": "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+          "key": "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282",
+          "show": "Economist Podcasts",
+          "title": "Alice forgiven? Jensen Huang back at Nvidia",
+          "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
         }
       ],
-      "updated": "2026-11-19",
+      "updated": "2026-11-24",
       "url": "/wiki/entities/jensenhuang/"
     },
     "JeremyThorpe": {
@@ -217204,6 +217218,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/maxmutchnick/"
     },
+    "MaxRichter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+          "key": "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282",
+          "show": "Economist Podcasts",
+          "title": "Alice forgiven? Jensen Huang back at Nvidia",
+          "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/maxrichter/"
+    },
     "MaxVonThun": {
       "episode_count": 1,
       "show_count": 1,
@@ -217768,6 +217798,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/meaningthroughexperience/"
+    },
+    "MeaslesEliminationResurgence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+          "key": "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282",
+          "show": "Economist Podcasts",
+          "title": "Alice forgiven? Jensen Huang back at Nvidia",
+          "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/measleseliminationresurgence/"
     },
     "MeasurablePublicDeliberation": {
       "episode_count": 1,
@@ -239981,9 +240027,9 @@
       "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
     "Nvidia": {
-      "episode_count": 37,
+      "episode_count": 38,
       "show_count": 16,
-      "source_note_count": 37,
+      "source_note_count": 38,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Loeb： The Lost Art of Short Selling, and Why Stock Picking is Back [41552605].md",
@@ -240243,9 +240289,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
           "url": "/wiki/sources/vmp8419655880-vmp8419655880/"
+        },
+        {
+          "episode_file": "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+          "key": "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282",
+          "show": "Economist Podcasts",
+          "title": "Alice forgiven? Jensen Huang back at Nvidia",
+          "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
         }
       ],
-      "updated": "2026-11-19",
+      "updated": "2026-11-24",
       "url": "/wiki/entities/nvidia/"
     },
     "NvidiaDGXSpark": {
@@ -337312,9 +337365,9 @@
       "url": "/wiki/concepts/utopiancommunistcoercion/"
     },
     "VaccineScheduleTrustRebuilding": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
@@ -337329,9 +337382,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+          "key": "4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282",
+          "show": "Economist Podcasts",
+          "title": "Alice forgiven? Jensen Huang back at Nvidia",
+          "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
     "VaccineTrustCollectiveMemory": {
