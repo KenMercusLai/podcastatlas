@@ -43851,3 +43851,19 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-25] ingest | Entangled Intelligences: Intelligence Across Cells, Species, Machines, and Futures
+
+Added a [[LongNow]] event spanning inquiry, developmental biology, animal communication, astrobiology, AI, poetry, and speculative theater. Created synthesis-first profiles for [[AshwairaKhanduja]], [[MichaelLevin]], [[SaraImariWalker]], and [[DavidGruber]], then resynthesized [[ClaireIsabelWebb]] and [[DavidEagleman]] from their complete preserved evidence inventories before appending the new source once.
+
+The source adds [[IntelligenceUnderUncertainty]], [[CollectiveBiologicalAgency]], [[CognitiveLightCone]], [[AssemblyTheory]], [[PerceptualGreatFilter]], [[CrossSpeciesTranslationLimits]], [[AnimalUpliftEthics]], and [[MultispeciesGovernance]]. Its core synthesis is that intelligence can be distributed, embodied, historically assembled, and active under incomplete knowledge; better recognition or translation expands responsibility but does not remove sensory asymmetry, consent problems, ecological conflict, or institutional design choices.
+
+No settled contradiction was adopted. Organismal agency does not replace genetics or natural selection; coordinated cellular behavior is not treated as proof of consciousness; similar outputs do not establish shared causal history; and translation or uplift does not guarantee understanding or justice. The biological experiments, animal-language forecasts, assembly-theory implications, regenerative possibilities, and speculative political cases remain source-scoped because the supplied file is a structured episode summary rather than a transcript, technical review, or adopted governance design.
+
+The broad [[LongNow]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening a large unchanged inventory or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,289 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

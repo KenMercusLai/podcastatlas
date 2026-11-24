@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1743
+topic_total_pages: 1745
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -493,6 +493,9 @@ topic_concepts:
   - key: "CognitiveProceduralLearningIntegration"
     title: "Cognitive–Procedural Learning Integration"
     url: "/wiki/concepts/cognitiveprocedurallearningintegration/"
+  - key: "CollectiveBiologicalAgency"
+    title: "Collective Biological Agency"
+    url: "/wiki/concepts/collectivebiologicalagency/"
   - key: "CollectiveEfficacySustainableAction"
     title: "Collective Efficacy for Sustainable Action"
     url: "/wiki/concepts/collectiveefficacysustainableaction/"
@@ -4371,6 +4374,9 @@ topic_sources:
   - key: "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087"
     title: "Effective non-altruism: Elon Musk’s foundation"
     url: "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+  - key: "02026-entangled-intelligences-podcast-02026-entangled-intelligences-podcast"
+    title: "Entangled Intelligences: Intelligence Across Cells, Species, Machines, and Futures"
+    url: "/wiki/sources/02026-entangled-intelligences-podcast-02026-entangled-intelligences-podcast/"
   - key: "ep-37-neurons-future-of-ai-processing"
     title: "EP 37: Neurons: Future of AI Processing"
     url: "/wiki/sources/ep-37-neurons-future-of-ai-processing/"

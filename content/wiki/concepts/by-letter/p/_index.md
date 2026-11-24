@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11803
+wiki_total_pages: 11811
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "PerceptionDrivenAccidentalWar"
     title: "Perception-Driven Accidental War"
     url: "/wiki/concepts/perceptiondrivenaccidentalwar/"
+  - key: "PerceptualGreatFilter"
+    title: "Perceptual Great Filter"
+    url: "/wiki/concepts/perceptualgreatfilter/"
   - key: "PerfectVictimCredibilityStandard"
     title: "Perfect Victim Credibility Standard / 完美受害者可信度标准"
     url: "/wiki/concepts/perfectvictimcredibilitystandard/"

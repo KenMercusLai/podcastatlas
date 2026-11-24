@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11803
+wiki_total_pages: 11811
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1910,6 +1910,9 @@ wiki_pages:
   - key: "MultispeciesArchives"
     title: "Multispecies Archives"
     url: "/wiki/concepts/multispeciesarchives/"
+  - key: "MultispeciesGovernance"
+    title: "Multispecies Governance"
+    url: "/wiki/concepts/multispeciesgovernance/"
   - key: "MunchausenSelfBootstrapping"
     title: "Munchausen Self-Bootstrapping"
     url: "/wiki/concepts/munchausenselfbootstrapping/"

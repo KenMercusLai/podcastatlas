@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11803
+wiki_total_pages: 11811
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "IntelligenceTesting"
     title: "Intelligence Testing / 智力测试"
     url: "/wiki/concepts/intelligencetesting/"
+  - key: "IntelligenceUnderUncertainty"
+    title: "Intelligence Under Uncertainty"
+    url: "/wiki/concepts/intelligenceunderuncertainty/"
   - key: "IntelligentFinance"
     title: "Intelligent Finance"
     url: "/wiki/concepts/intelligentfinance/"

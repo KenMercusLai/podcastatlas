@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11803
+wiki_total_pages: 11811
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1745,6 +1745,9 @@ wiki_pages:
   - key: "CognitiveLibertyUnderAI"
     title: "Cognitive Liberty Under AI"
     url: "/wiki/concepts/cognitivelibertyunderai/"
+  - key: "CognitiveLightCone"
+    title: "Cognitive Light Cone"
+    url: "/wiki/concepts/cognitivelightcone/"
   - key: "CognitiveOffloading"
     title: "Cognitive Offloading / 认知卸载"
     url: "/wiki/concepts/cognitiveoffloading/"
@@ -1808,6 +1811,9 @@ wiki_pages:
   - key: "CollectibleDropScarcity"
     title: "Collectible Drop Scarcity"
     url: "/wiki/concepts/collectibledropscarcity/"
+  - key: "CollectiveBiologicalAgency"
+    title: "Collective Biological Agency"
+    url: "/wiki/concepts/collectivebiologicalagency/"
   - key: "CollectiveEfficacySustainableAction"
     title: "Collective Efficacy for Sustainable Action"
     url: "/wiki/concepts/collectiveefficacysustainableaction/"
@@ -3494,6 +3500,9 @@ wiki_pages:
   - key: "CrossSegmentMemoryCompetition"
     title: "Cross-Segment Memory Competition"
     url: "/wiki/concepts/crosssegmentmemorycompetition/"
+  - key: "CrossSpeciesTranslationLimits"
+    title: "Cross-Species Translation Limits"
+    url: "/wiki/concepts/crossspeciestranslationlimits/"
   - key: "CrossingVulnerabilityStrike"
     title: "Crossing Vulnerability Strike / 半渡击敌"
     url: "/wiki/concepts/crossingvulnerabilitystrike/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14866
+wiki_total_pages: 14870
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "SaraGottfried"
     title: "Sara Gottfried"
     url: "/wiki/entities/saragottfried/"
+  - key: "SaraImariWalker"
+    title: "Sara Imari Walker"
+    url: "/wiki/entities/saraimariwalker/"
   - key: "SaraRead"
     title: "Sara Read"
     url: "/wiki/entities/sararead/"

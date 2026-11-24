@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Entangled Intelligences: Intelligence Across Cells, Species, Machines, and Futures](sources/02026-entangled-intelligences-podcast-02026-entangled-intelligences-podcast.md) — Long Now event on uncertainty, cellular agency, causal lineage, unfamiliar minds, animal translation, uplift, and multispecies politics.
 - [CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem](sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int.md) — All-In interview with George Kurtz on autonomous cyberattacks, AI-enabled exploit chains, break-or-breach patching, open-weight models, session theft, and fraudulent remote employees.
 - [What happens if AI becomes its own successor?](sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128.md) — Marketplace Tech and Rachel Steratore separate current AI-assisted research from direct successor construction and propose oversight for internal research systems.
 - [Alice forgiven? Jensen Huang back at Nvidia](sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282.md) — Economist Podcasts on Huang's reported return to Nvidia, America's measles resurgence, and Max Richter's music of consolation.
@@ -5422,6 +5423,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [Ashwaira Khanduja](entities/AshwairaKhanduja.md) — Speaker framing intelligence as responsible sensing, action, learning, and revision under incomplete knowledge.
+- [Michael Levin](entities/MichaelLevin.md) — Developmental biologist connecting nested biological agency, cognitive light cones, mind blindness, and freedom of embodiment.
+- [Sara Imari Walker](entities/SaraImariWalker.md) — Astrobiology and origins-of-life researcher using assembly history to distinguish resemblance from independent lineage.
+- [David Gruber](entities/DavidGruber.md) — Marine-biology researcher connecting multimodal animal communication to bounded legal and political implications.
 - [Rachel Steratore](entities/RachelSteratore.md) — RAND senior researcher presenting a three-stage recursive-self-improvement framework and internal-system oversight proposals.
 - [Max Richter](entities/MaxRichter.md) — Composer joining classical, minimalist, and electronic language with popular accessibility and consolation-centered work.
 - [黄仁宇 / Ray Huang](entities/RayHuang.md) — 以人物叙事连接财政、军事、行政与长期制度结构的明史学者。
@@ -20390,6 +20395,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Intelligence Under Uncertainty](concepts/IntelligenceUnderUncertainty.md) — Capacity to sense, remember, coordinate, act, learn, and revise without complete knowledge.
+- [Collective Biological Agency](concepts/CollectiveBiologicalAgency.md) — Coordinated adaptive problem-solving across cells, organisms, and biological groups without implying human-like consciousness.
+- [Cognitive Light Cone](concepts/CognitiveLightCone.md) — Spatial and temporal scale of the largest goals a being can represent and pursue.
+- [Assembly Theory](concepts/AssemblyTheory.md) — Framework using construction history and copy number to reason about accumulated causal lineage.
+- [Perceptual Great Filter](concepts/PerceptualGreatFilter.md) — Possibility that human senses, concepts, and instruments systematically miss unfamiliar life or intelligence.
+- [Cross-Species Translation Limits](concepts/CrossSpeciesTranslationLimits.md) — Gap between decoding signals and sharing another species' sensory, conceptual, embodied world.
+- [Animal Uplift Ethics](concepts/AnimalUpliftEthics.md) — Consent, flourishing, burden, and governance questions raised by enhancing nonhuman cognition or agency.
+- [Multispecies Governance](concepts/MultispeciesGovernance.md) — Institutional design for conflicting interests among humans, animals, plants, ecosystems, and differently embodied agents.
 - [AI Research Automation Oversight](concepts/AIResearchAutomationOversight.md) — Testing and reporting framework for research-capable AI systems that may remain internal to model labs.
 - [Measles Elimination Resurgence](concepts/MeaslesEliminationResurgence.md) — Return of continuous measles transmission when immunity gaps, misinformation, and weakened containment capacity reinforce one another.
 - [Macrohistorical Institutional Analysis / 大历史制度分析](concepts/MacrohistoricalInstitutionalAnalysis.md) — 把个人生命和小事件放入财政、土地、军事、信息与组织能力长期结构中的历史方法。

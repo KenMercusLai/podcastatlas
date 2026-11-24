@@ -753,14 +753,14 @@
       "earliest_episode_date": "2025-12-11",
       "latest_episode_date": "2026-11-24",
       "latest_episode_file": "02026-entangled-intelligences-podcast [02026-entangled-intelligences-podcast].md",
-      "source_note_count": 10,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 3
+          "source_note_count": 4
         },
         {
           "key": "politics",
@@ -778,7 +778,7 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [
@@ -790,6 +790,13 @@
           "episode_count": 9
         },
         {
+          "key": "ClaireIsabelWebb",
+          "title": "Claire Isabel Webb",
+          "url": "/wiki/entities/claireisabelwebb/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "RebeccaLendl",
           "title": "Rebecca Lendl",
           "url": "/wiki/entities/rebeccalendl/",
@@ -798,10 +805,10 @@
         }
       ],
       "start_here_episode_files": [
+        "02026-entangled-intelligences-podcast [02026-entangled-intelligences-podcast].md",
         "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
         "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
-        "02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md",
-        "02026-entangled-intelligences-podcast [02026-entangled-intelligences-podcast].md"
+        "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md"
       ]
     },
     "Marketplace Tech": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14866
+wiki_total_pages: 14870
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2084,6 +2084,9 @@ wiki_pages:
   - key: "AshrafGhani"
     title: "Ashraf Ghani"
     url: "/wiki/entities/ashrafghani/"
+  - key: "AshwairaKhanduja"
+    title: "Ashwaira Khanduja"
+    url: "/wiki/entities/ashwairakhanduja/"
   - key: "AsiWind"
     title: "Asi Wind"
     url: "/wiki/entities/asiwind/"

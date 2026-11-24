@@ -13,6 +13,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "02026-entangled-intelligences-podcast-02026-entangled-intelligences-podcast": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "02026-heggli-keats-csank-podcast-v2": [
     {
       "key": "culture",
@@ -27212,6 +27224,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CollectiveBiologicalAgency": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CollectiveEfficacySustainableAction": [
@@ -67453,6 +67472,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MultispeciesGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MunchausenSelfBootstrapping": [

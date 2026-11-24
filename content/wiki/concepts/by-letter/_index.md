@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11803
+wiki_total_pages: 11811
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2459,6 +2459,9 @@ wiki_pages:
   - key: "AnimalTouchConsent"
     title: "Animal Touch Consent"
     url: "/wiki/concepts/animaltouchconsent/"
+  - key: "AnimalUpliftEthics"
+    title: "Animal Uplift Ethics"
+    url: "/wiki/concepts/animalupliftethics/"
   - key: "AnimalWelfareAsPublicHealth"
     title: "Animal Welfare As Public Health"
     url: "/wiki/concepts/animalwelfareaspublichealth/"
@@ -2900,6 +2903,9 @@ wiki_pages:
   - key: "AssemblageArtMemoryWork"
     title: "Assemblage Art Memory Work"
     url: "/wiki/concepts/assemblageartmemorywork/"
+  - key: "AssemblyTheory"
+    title: "Assembly Theory"
+    url: "/wiki/concepts/assemblytheory/"
   - key: "AssetAllocation"
     title: "Asset Allocation"
     url: "/wiki/concepts/assetallocation/"
