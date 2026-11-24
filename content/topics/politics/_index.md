@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3605
+topic_total_pages: 3607
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -247,6 +247,9 @@ topic_concepts:
   - key: "AIRegulatoryCaptureRisk"
     title: "AI Regulatory Capture Risk"
     url: "/wiki/concepts/airegulatorycapturerisk/"
+  - key: "AIResearchAutomationOversight"
+    title: "AI Research Automation Oversight"
+    url: "/wiki/concepts/airesearchautomationoversight/"
   - key: "AISafetyCoordination"
     title: "AI Safety Coordination"
     url: "/wiki/concepts/aisafetycoordination/"
@@ -10290,6 +10293,9 @@ topic_sources:
   - key: "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128"
     title: "Welcome to the 'infocalypse'"
     url: "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"
+  - key: "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128"
+    title: "What happens if AI becomes its own successor?"
+    url: "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
   - key: "tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128"
     title: "Why Big Tech leaders aligned themselves with White House politics this year"
     url: "/wiki/sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128/"

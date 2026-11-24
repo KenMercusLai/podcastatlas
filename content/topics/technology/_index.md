@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3926
+topic_total_pages: 3928
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -985,6 +985,9 @@ topic_concepts:
   - key: "AIRegulatoryCaptureRisk"
     title: "AI Regulatory Capture Risk"
     url: "/wiki/concepts/airegulatorycapturerisk/"
+  - key: "AIResearchAutomationOversight"
+    title: "AI Research Automation Oversight"
+    url: "/wiki/concepts/airesearchautomationoversight/"
   - key: "AIResearchFeedbackCompression"
     title: "AI Research Feedback Compression"
     url: "/wiki/concepts/airesearchfeedbackcompression/"
@@ -11343,6 +11346,9 @@ topic_sources:
   - key: "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128"
     title: "What do students lose when they rely on AI for homework?"
     url: "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+  - key: "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128"
+    title: "What happens if AI becomes its own successor?"
+    url: "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
   - key: "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128"
     title: "What if the AI boom never turns a profit?"
     url: "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"

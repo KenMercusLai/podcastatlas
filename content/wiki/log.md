@@ -43819,3 +43819,19 @@ Downstream synthesis found no dirty controlled topic; the maximum-age gate trigg
 ## [2026-11-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-24] ingest | What happens if AI becomes its own successor?
+
+Added the [[MarketplaceTech]] episode with [[RachelSteratore|Rachel Steratore]] of [[RAND]] on three stages of AI-assisted development: known-work automation, human-adopted AI research contributions, and direct successor construction. Created [[AIResearchAutomationOversight]] to capture the gap between release-linked review and research-capable systems retained inside labs, including proposals for research benchmarks, confidential automation and compute reporting, and comparison of capability with safety automation.
+
+Created a source-bounded profile for [[RachelSteratore|Rachel Steratore]]. Resynthesized [[METR]], [[RAND]], and [[RecursiveSelfImprovement]] from their complete preserved evidence inventories before appending the new source once. The updated synthesis keeps partial, human-supervised research automation distinct from the stricter claim that an AI directly builds its successor.
+
+No settled contradiction was adopted. The reported METR estimate, model-lab code shares, task-horizon trend, executive-order scope, timeline estimates, and cyber/research capability overlap remain episode-attributed because the supplied file does not include the primary report, company measurements, order text, benchmark design, or interview transcript. Internal-system oversight may close a visibility gap but leaves legal authority, confidentiality, benchmark validity, competitive burden, and international coverage unresolved.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,287 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-11-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

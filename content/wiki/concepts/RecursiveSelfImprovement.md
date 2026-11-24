@@ -17,7 +17,8 @@ sources:
   - lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg
   - audio-99-alighodsi-databricks-audio-99-alighodsi-databricks
   - c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec
-last_updated: 2026-11-18
+  - tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128
+last_updated: 2026-11-24
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,7 +32,7 @@ Recursive self-improvement is a loop in which AI contributes to the data, code, 
 
 The evidence supports RSI as an uneven, human-supervised continuum rather than a proven autonomous takeoff. Models already help generate code, optimize kernels, construct data and environments, diagnose failures, search literature, shorten experiments, and coordinate specialized research roles. [[lhhxptqoanrsmgih0htfelq-znbg-lhhxptqoanrsmgih0htfelq-znbg]] sharpens this into a declining-human-participation definition: an older model can contribute to its successor without independently controlling hardware, compute centers, objectives, or every training stage. [[c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec]] adds an operational ladder from reusable research skills and failure memories toward the stricter case where a newly trained model becomes a better research agent for its successor. The strongest near-term loops occur where evaluation is cheap, automatic, objective enough, and difficult to game.
 
-A stricter test applies to runaway general recursion: successive models would need to train progressively faster, consume fewer resources, improve broadly rather than only through narrow reinforcement, and repeat that flywheel across generations. Present systems can satisfy the wiki's partial-participation definition while failing this stronger takeoff test. Higher-order research still depends on problem choice, abstraction, [[ResearchTaste]], physical validation, interpretability, resources, and governance because a first successful loop does not establish stable recursion.
+A stricter test applies to runaway general recursion: successive models would need to train progressively faster, consume fewer resources, improve broadly rather than only through narrow reinforcement, and repeat that flywheel across generations. Present systems can satisfy the wiki's partial-participation definition while failing this stronger takeoff test. [[tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128]] supplies a compatible three-stage ladder: automation of known research, AI-generated research contributions adopted by humans, and direct successor construction. It says the first two are emerging while no Type 3 system has been publicly disclosed. Higher-order research still depends on problem choice, abstraction, [[ResearchTaste]], physical validation, interpretability, resources, and governance because a first successful loop does not establish stable recursion.
 
 ## Key Claims
 
@@ -40,7 +41,7 @@ A stricter test applies to runaway general recursion: successive models would ne
 - Data, environments, harnesses, and evaluation traces can be RSI inputs even when model weights are not directly self-edited.
 - A successful iteration or wider parallel search is not indefinite recursion; drift, reward hacking, weak tests, specification errors, and rising compute can compound unless direction selection improves.
 - Human taste, abstraction, and direction selection remain central where the correct goal or valuable result is not mechanically decidable.
-- Governance becomes harder as improvement capability diffuses across labs, chips, power, open systems, and competing national regimes.
+- Governance becomes harder as improvement capability diffuses across labs, chips, power, open systems, and competing national regimes, while release-only testing may miss research systems retained inside labs.
 - Runaway general recursion requires stronger evidence than AI-assisted coding: faster successor training, falling resource use, broad improvement, and repeatability across generations.
 
 ## Evidence
@@ -64,6 +65,7 @@ A stricter test applies to runaway general recursion: successive models would ne
 ### Safety and governance
 - [[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] argues that distributed improvement loops can weaken centralized release-gate effectiveness while also creating regulatory-capture risk.
 - [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] and [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] document a shift from fear of runaway improvement toward fatalistic acceleration, peer review, and government backstops.
+- [[tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128]] adds [[AIResearchAutomationOversight]]: test meaningful research capability and obtain confidential visibility into internal automation, compute allocation, and the relative pace of capability and safety work.
 
 ### Runaway-loop test
 - [[audio-99-alighodsi-databricks-audio-99-alighodsi-databricks]] argues that automating nearly all coding is insufficient by itself; a true takeoff flywheel would require faster training, lower resource consumption, generalized improvement, and repeatability across successive generations.
@@ -79,13 +81,15 @@ A stricter test applies to runaway general recursion: successive models would ne
 - Ghodsi's four conditions are a useful boundary for runaway superintelligence, not the only valid definition of partial RSI; the sources use the term at different levels of autonomy and generality.
 - The RDAgent account reports team and model scale without benchmarks or project documentation; it demonstrates a claimed workflow, not measured multi-generation recursion.
 - Parallelizing experiments can raise total compute demand, and preserving failed trajectories helps only when later systems infer the right lesson.
+- The reported METR acceleration estimate and lab code shares are episode-attributed signals rather than direct evidence of causation or multi-generation recursion.
+- Internal-system reporting may improve visibility while raising unresolved questions about benchmark gaming, confidentiality, legal authority, competitive burden, and international coverage.
 
 ## What Changed
 
 - Distinguished partial human-supervised RSI from a stricter runaway general-recursion test.
 - Added faster successor training, falling resource use, broad improvement, and multi-generation repeatability as takeoff evidence requirements.
 - Preserved low-cost evaluation, research judgment, and physical validation as reasons progress remains uneven.
-- Added the ladder from reusable research memory to a newly trained model becoming the next research agent.
+- Added a three-stage ladder separating known-work automation, human-adopted AI research contributions, and direct successor construction.
 - Added research parallelism and compute demand as distinct from improved recursive efficiency.
 
 ## Related Concepts
@@ -97,3 +101,4 @@ A stricter test applies to runaway general recursion: successive models would ne
 - [[ResearchTaste]] - selects valuable directions when mechanical correctness is insufficient.
 - [[RecursiveSelfImprovementRegulationParadox]] - captures the mismatch between centralized rules and distributed improvement capability.
 - [[RDAgent]] - supplies a bounded research loop that may contribute to RSI without proving open-ended recursion.
+- [[AIResearchAutomationOversight]] - addresses the visibility gap created when research-capable systems remain internal rather than entering public release review.

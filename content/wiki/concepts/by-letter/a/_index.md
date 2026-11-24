@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11802
+wiki_total_pages: 11803
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "AIRegulatoryCaptureRisk"
     title: "AI Regulatory Capture Risk"
     url: "/wiki/concepts/airegulatorycapturerisk/"
+  - key: "AIResearchAutomationOversight"
+    title: "AI Research Automation Oversight"
+    url: "/wiki/concepts/airesearchautomationoversight/"
   - key: "AIResearchFeedbackCompression"
     title: "AI Research Feedback Compression"
     url: "/wiki/concepts/airesearchfeedbackcompression/"

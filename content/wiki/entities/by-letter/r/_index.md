@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14865
+wiki_total_pages: 14866
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "RachelSalzman"
     title: "Rachel Salzman"
     url: "/wiki/entities/rachelsalzman/"
+  - key: "RachelSteratore"
+    title: "Rachel Steratore"
+    url: "/wiki/entities/rachelsteratore/"
   - key: "RachelWyman"
     title: "Rachel Wyman"
     url: "/wiki/entities/rachelwyman/"

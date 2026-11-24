@@ -6102,6 +6102,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/airegulatorycapturerisk/"
     },
+    "AIResearchAutomationOversight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261124_1124_MP_TECH_pod_128 [tech_20261124_1124_MP_TECH_pod_128].md",
+          "key": "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What happens if AI becomes its own successor?",
+          "url": "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/airesearchautomationoversight/"
+    },
     "AIResistantExperientialConsumption": {
       "episode_count": 4,
       "show_count": 3,
@@ -209508,6 +209524,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/mdmaneurotoxicityrisk/"
     },
+    "METR": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？ [lqn_iCq1XQgK7XxxXZRPunj4fan-].md",
+          "key": "ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan",
+          "show": "硬地骇客",
+          "title": "EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？",
+          "url": "/wiki/sources/ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan/"
+        },
+        {
+          "episode_file": "tech_20261124_1124_MP_TECH_pod_128 [tech_20261124_1124_MP_TECH_pod_128].md",
+          "key": "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What happens if AI becomes its own successor?",
+          "url": "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/metr/"
+    },
     "MGMResorts": {
       "episode_count": 1,
       "show_count": 1,
@@ -272121,9 +272160,9 @@
       "url": "/wiki/entities/raffairford/"
     },
     "RAND": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260323_0323_MP_TECH_pod_128 [tech_20260323_0323_MP_TECH_pod_128].md",
@@ -272138,9 +272177,16 @@
           "show": "Revisionist History",
           "title": "A Serious Game",
           "url": "/wiki/sources/a-serious-game-a-serious-game/"
+        },
+        {
+          "episode_file": "tech_20261124_1124_MP_TECH_pod_128 [tech_20261124_1124_MP_TECH_pod_128].md",
+          "key": "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What happens if AI becomes its own successor?",
+          "url": "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-24",
       "url": "/wiki/entities/rand/"
     },
     "RANDCorporation": {
@@ -272546,6 +272592,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/rachelmorley/"
+    },
+    "RachelSteratore": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261124_1124_MP_TECH_pod_128 [tech_20261124_1124_MP_TECH_pod_128].md",
+          "key": "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What happens if AI becomes its own successor?",
+          "url": "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/rachelsteratore/"
     },
     "RachelWyman": {
       "episode_count": 1,
@@ -275196,9 +275258,9 @@
       "url": "/wiki/entities/recursionpharma/"
     },
     "RecursiveSelfImprovement": {
-      "episode_count": 14,
-      "show_count": 9,
-      "source_note_count": 14,
+      "episode_count": 15,
+      "show_count": 10,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -275297,9 +275359,16 @@
           "show": "What's Next｜科技早知道",
           "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？｜S10E36",
           "url": "/wiki/sources/c11cceb2-07c2-4c2f-9124-95bd1187c7ec-c11cceb2-07c2-4c2f-9124-95bd1187c7ec/"
+        },
+        {
+          "episode_file": "tech_20261124_1124_MP_TECH_pod_128 [tech_20261124_1124_MP_TECH_pod_128].md",
+          "key": "tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What happens if AI becomes its own successor?",
+          "url": "/wiki/sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-24",
       "url": "/wiki/concepts/recursiveselfimprovement/"
     },
     "RedCliffsBattle": {
