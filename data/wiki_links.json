@@ -44099,6 +44099,10 @@
     "title": "《海录》 / Hai Lu",
     "url": "/wiki/entities/hailubook/"
   },
+  "HaiRui": {
+    "title": "海瑞 / Hai Rui",
+    "url": "/wiki/entities/hairui/"
+  },
   "Haidilao": {
     "title": "Haidilao / 海底捞",
     "url": "/wiki/entities/haidilao/"
@@ -59039,6 +59043,10 @@
     "title": "Li Zhaoyu / 李肇宇",
     "url": "/wiki/entities/lizhaoyu/"
   },
+  "LiZhiMing": {
+    "title": "李贽 / Li Zhi",
+    "url": "/wiki/entities/lizhiming/"
+  },
   "LiZhilin": {
     "title": "Li Zhilin / 李志林",
     "url": "/wiki/entities/lizhilin/"
@@ -63110,6 +63118,10 @@
   "MacroResearchPublicExpression": {
     "title": "Macro Research Public Expression",
     "url": "/wiki/concepts/macroresearchpublicexpression/"
+  },
+  "MacrohistoricalInstitutionalAnalysis": {
+    "title": "Macrohistorical Institutional Analysis / 大历史制度分析",
+    "url": "/wiki/concepts/macrohistoricalinstitutionalanalysis/"
   },
   "MadHatter": {
     "title": "Mad Hatter / 疯帽匠",
@@ -68347,6 +68359,10 @@
     "title": "Moral Stress",
     "url": "/wiki/concepts/moralstress/"
   },
+  "MoralSubstitutionForInstitutions": {
+    "title": "Moral Substitution for Institutions / 道德替代制度",
+    "url": "/wiki/concepts/moralsubstitutionforinstitutions/"
+  },
   "MoralSuspensionInArtReading": {
     "title": "Moral Suspension In Art Reading",
     "url": "/wiki/concepts/moralsuspensioninartreading/"
@@ -71602,6 +71618,10 @@
   "Number10North": {
     "title": "Number 10 North",
     "url": "/wiki/entities/number10north/"
+  },
+  "NumericalManagement": {
+    "title": "Numerical Management / 数目字管理",
+    "url": "/wiki/concepts/numericalmanagement/"
   },
   "NuoJiWesternHan": {
     "title": "淖姬 / Nuo Ji (Western Han)",
@@ -80223,6 +80243,10 @@
     "title": "骑劫 / Qi Jie",
     "url": "/wiki/entities/qijie/"
   },
+  "QiJiguang": {
+    "title": "戚继光 / Qi Jiguang",
+    "url": "/wiki/entities/qijiguang/"
+  },
   "QiJinggong": {
     "title": "齐景公 / Duke Jing of Qi",
     "url": "/wiki/entities/qijinggong/"
@@ -81614,6 +81638,10 @@
   "RayDalio": {
     "title": "Ray Dalio",
     "url": "/wiki/entities/raydalio/"
+  },
+  "RayHuang": {
+    "title": "黄仁宇 / Ray Huang",
+    "url": "/wiki/entities/rayhuang/"
   },
   "RayKroc": {
     "title": "Ray Kroc",
@@ -88538,6 +88566,10 @@
   "ShenRongLateHan": {
     "title": "审荣 / Shen Rong (late Han)",
     "url": "/wiki/entities/shenronglatehan/"
+  },
+  "ShenShixing": {
+    "title": "申时行 / Shen Shixing",
+    "url": "/wiki/entities/shenshixing/"
   },
   "ShenWansan": {
     "title": "沈万三 / Shen Wansan",
@@ -102547,6 +102579,14 @@
     "title": "万九 / Wanjiu",
     "url": "/wiki/entities/wanjiu/"
   },
+  "WanliEmperor": {
+    "title": "万历帝 / Wanli Emperor",
+    "url": "/wiki/entities/wanliemperor/"
+  },
+  "WanliFifteenYear": {
+    "title": "《万历十五年》 / 1587, a Year of No Significance",
+    "url": "/wiki/entities/wanlififteenyear/"
+  },
   "WannseeConference": {
     "title": "Wannsee Conference / 万湖会议",
     "url": "/wiki/entities/wannseeconference/"
@@ -109362,6 +109402,10 @@
   "ZhangJunbaoTaiChiMaster": {
     "title": "张君宝 / Zhang Junbao (Tai Chi Master)",
     "url": "/wiki/entities/zhangjunbaotaichimaster/"
+  },
+  "ZhangJuzheng": {
+    "title": "张居正 / Zhang Juzheng",
+    "url": "/wiki/entities/zhangjuzheng/"
   },
   "ZhangKaiAssassin": {
     "title": "张闿 / Zhang Kai (assassin)",
@@ -121106,6 +121150,10 @@
   "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi": {
     "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
     "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+  },
+  "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr": {
+    "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+    "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
   },
   "vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp": {
     "title": "VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？",

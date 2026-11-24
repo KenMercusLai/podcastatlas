@@ -62464,6 +62464,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "MacrohistoricalInstitutionalAnalysis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MadHatter": [
     {
       "key": "culture",
@@ -66969,6 +66981,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MoralSubstitutionForInstitutions": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MoralSuspensionInArtReading": [
     {
       "key": "culture",
@@ -70098,6 +70117,13 @@
     }
   ],
   "Number10North": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "NumericalManagement": [
     {
       "key": "politics",
       "label": "Politics",
@@ -79898,6 +79924,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RayHuang": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "RaymondPoincare": [
@@ -100374,6 +100407,18 @@
       "url": "/topics/history/"
     }
   ],
+  "WanliFifteenYear": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "WanwuShengzhang": [
     {
       "key": "science",
@@ -118649,6 +118694,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i": [

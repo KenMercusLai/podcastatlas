@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2846
+topic_total_pages: 2850
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -898,6 +898,9 @@ topic_concepts:
   - key: "LuxuryConsumptionEconomicCirculation"
     title: "Luxury Consumption As Economic Circulation / 奢侈消费的经济循环"
     url: "/wiki/concepts/luxuryconsumptioneconomiccirculation/"
+  - key: "MacrohistoricalInstitutionalAnalysis"
+    title: "Macrohistorical Institutional Analysis / 大历史制度分析"
+    url: "/wiki/concepts/macrohistoricalinstitutionalanalysis/"
   - key: "MainlandSoutheastAsiaRiverValleyStateFormation"
     title: "Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成"
     url: "/wiki/concepts/mainlandsoutheastasiarivervalleystateformation/"
@@ -2717,6 +2720,9 @@ topic_entities:
   - key: "Qilue"
     title: "《七略》 / Qilue"
     url: "/wiki/entities/qilue/"
+  - key: "WanliFifteenYear"
+    title: "《万历十五年》 / 1587, a Year of No Significance"
+    url: "/wiki/entities/wanlififteenyear/"
   - key: "Sanguozhi"
     title: "《三国志》 / Sanguozhi"
     url: "/wiki/entities/sanguozhi/"
@@ -5108,6 +5114,9 @@ topic_entities:
   - key: "LuMaoshou"
     title: "鹿毛寿 / Lu Maoshou"
     url: "/wiki/entities/lumaoshou/"
+  - key: "RayHuang"
+    title: "黄仁宇 / Ray Huang"
+    url: "/wiki/entities/rayhuang/"
   - key: "Huangdi"
     title: "黄帝 / Huangdi"
     url: "/wiki/entities/huangdi/"
@@ -7581,6 +7590,9 @@ topic_sources:
   - key: "trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7"
     title: "Trailer: Tocqueville Road Trip"
     url: "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
+  - key: "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr"
+    title: "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？"
+    url: "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
   - key: "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403"
     title: "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond"
     url: "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"

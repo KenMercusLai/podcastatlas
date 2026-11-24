@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3601
+topic_total_pages: 3605
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2749,6 +2749,9 @@ topic_concepts:
   - key: "MacroNarrativeMicroLifeGap"
     title: "Macro Narrative Micro-Life Gap"
     url: "/wiki/concepts/macronarrativemicrolifegap/"
+  - key: "MacrohistoricalInstitutionalAnalysis"
+    title: "Macrohistorical Institutional Analysis / 大历史制度分析"
+    url: "/wiki/concepts/macrohistoricalinstitutionalanalysis/"
   - key: "MAGACoalitionFracture"
     title: "MAGA Coalition Fracture"
     url: "/wiki/concepts/magacoalitionfracture/"
@@ -2935,6 +2938,9 @@ topic_concepts:
   - key: "MoralReputationPoliticalCapital"
     title: "Moral Reputation as Political Capital / 道德名望政治资本"
     url: "/wiki/concepts/moralreputationpoliticalcapital/"
+  - key: "MoralSubstitutionForInstitutions"
+    title: "Moral Substitution for Institutions / 道德替代制度"
+    url: "/wiki/concepts/moralsubstitutionforinstitutions/"
   - key: "MoralizedWarPretext"
     title: "Moralized War Pretext / 道德化战争借口"
     url: "/wiki/concepts/moralizedwarpretext/"
@@ -3040,6 +3046,9 @@ topic_concepts:
   - key: "NuclearWeaponsModeling"
     title: "Nuclear Weapons Modeling"
     url: "/wiki/concepts/nuclearweaponsmodeling/"
+  - key: "NumericalManagement"
+    title: "Numerical Management / 数目字管理"
+    url: "/wiki/concepts/numericalmanagement/"
   - key: "OathBoundCommandTrust"
     title: "Oath-Bound Command Trust / 盟誓约束下的统帅信任"
     url: "/wiki/concepts/oathboundcommandtrust/"
@@ -10269,6 +10278,9 @@ topic_sources:
   - key: "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861"
     title: "Vol.275 澳洲保健品是怎么火起来的？"
     url: "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+  - key: "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr"
+    title: "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？"
+    url: "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
   - key: "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793"
     title: "Wanna slow down AI? These biologists can help."
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"

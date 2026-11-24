@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11798
+wiki_total_pages: 11801
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "MacroResearchPublicExpression"
     title: "Macro Research Public Expression"
     url: "/wiki/concepts/macroresearchpublicexpression/"
+  - key: "MacrohistoricalInstitutionalAnalysis"
+    title: "Macrohistorical Institutional Analysis / 大历史制度分析"
+    url: "/wiki/concepts/macrohistoricalinstitutionalanalysis/"
   - key: "MadeToOrderCommerce"
     title: "Made-To-Order Commerce"
     url: "/wiki/concepts/madetoordercommerce/"
@@ -1661,6 +1664,9 @@ wiki_pages:
   - key: "MoralStress"
     title: "Moral Stress"
     url: "/wiki/concepts/moralstress/"
+  - key: "MoralSubstitutionForInstitutions"
+    title: "Moral Substitution for Institutions / 道德替代制度"
+    url: "/wiki/concepts/moralsubstitutionforinstitutions/"
   - key: "MoralSuspensionInArtReading"
     title: "Moral Suspension In Art Reading"
     url: "/wiki/concepts/moralsuspensioninartreading/"

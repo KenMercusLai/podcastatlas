@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？](sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr.md) — 文化有限以《万历十五年》的六个人物连接大历史、数目字管理、道德替代制度与个人成就难以转化为持久组织能力的问题。
 - [Music and Your Mind](sources/default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503-default-mp3-ywr3ahjkcgo-301be71e330eec695e7fe1082a0ecfc0-96116503.md) — Hidden Brain joins Elizabeth Margulis on learned musical meaning and autobiographical memory with Daisy Fancourt on qualified arts-and-health participation.
 - [In the life of prime: AI’s latest maths triumph](sources/in-the-life-of-prime-ais-latest-maths-triumph-0543079e679f77fa9c07ce929a73b21f.md) — Economist Podcasts on a reported Claude-and-Lean Riemann-hypothesis proof, Japan’s new disaster agency, and worsening financial precarity among American renters.
 - [Hollywood brings Big Tech's drama to the big screen](sources/tech-20261123-1123-mp-tech-pod-128-tech-20261123-1123-mp-tech-pod-128.md) — Marketplace Tech and Joe Street connect founder biopics, changing technology sentiment, Hollywood-Silicon Valley rivalry, and distribution control.
@@ -5418,6 +5419,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [黄仁宇 / Ray Huang](entities/RayHuang.md) — 以人物叙事连接财政、军事、行政与长期制度结构的明史学者。
+- [《万历十五年》 / 1587, a Year of No Significance](entities/WanliFifteenYear.md) — 以1587年和六个人物诊断明代制度约束的历史著作。
+- [万历帝 / Wanli Emperor](entities/WanliEmperor.md) — 在最高名义权力与礼制、祖制、官僚过滤之间以消极退出进行抵抗的明代皇帝。
+- [张居正 / Zhang Juzheng](entities/ZhangJuzheng.md) — 依靠宫廷支持与私人网络推动有效但难以脱离个人延续的强力改革者。
+- [申时行 / Shen Shixing](entities/ShenShixing.md) — 以调和、间接劝说和人事稳定回应张居正改革反噬的明代首辅。
+- [海瑞 / Hai Rui](entities/HaiRui.md) — 被制度赞美为道德楷模却难以获得持续施政空间的明代官员。
+- [戚继光 / Qi Jiguang](entities/QiJiguang.md) — 以细密军事标准建立局部能力、又受制于政治庇护兴衰的明代将领。
+- [李贽 / Li Zhi](entities/LiZhiMing.md) — 挑战正统道德并主张童心、却未形成制度替代方案的明代思想家。
 - [Elizabeth Margulis](entities/ElizabethMargulis.md) — Music psychologist studying how listeners turn sound into memory, imagery, expectation, movement, and culturally patterned meaning.
 - [Levan Alpoge](entities/LevanAlpoge.md) — Mathematician credited by the episode with a Claude-assisted, Lean-checked proof of the Riemann hypothesis.
 - [Japan Disaster Management Agency](entities/JapanDisasterManagementAgency.md) — Reported specialist Japanese agency for institutional memory, cross-ministry coordination, and pre-disaster preparation.
@@ -20376,6 +20385,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Macrohistorical Institutional Analysis / 大历史制度分析](concepts/MacrohistoricalInstitutionalAnalysis.md) — 把个人生命和小事件放入财政、土地、军事、信息与组织能力长期结构中的历史方法。
+- [Numerical Management / 数目字管理](concepts/NumericalManagement.md) — 让公共事务可计算、可验证、可追责并可重复执行的共同标准与组织能力。
+- [Moral Substitution for Institutions / 道德替代制度](concepts/MoralSubstitutionForInstitutions.md) — 以道德教义、人格典范和裁量填补粗疏规则、弱标准化与执行能力空白的治理诊断。
 - [Listener-Constructed Musical Meaning](concepts/ListenerConstructedMusicalMeaning.md) — Interaction among acoustic structure, learned expectation, association, embodiment, repetition, and cultural exposure.
 - [Music-Evoked Autobiographical Memory](concepts/MusicEvokedAutobiographicalMemory.md) — Music-cued reinstatement of lived scenes, sensations, emotions, relationships, and earlier identities.
 - [Riemann Hypothesis](concepts/RiemannHypothesis.md) — Number-theory conjecture used here as a source-scoped test of machine verification, correct formalization, and human explanation.

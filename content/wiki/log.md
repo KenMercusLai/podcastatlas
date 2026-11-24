@@ -43787,3 +43787,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-24] ingest | Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？
+
+Added the [[CultureLimited|文化有限]] episode reading [[RayHuang|黄仁宇]]'s [[WanliFifteenYear|《万历十五年》]] through six contrasting lives and one institutional question: why do personal authority, reform, accommodation, integrity, technical competence, and dissent fail to become durable, reproducible capacity?
+
+Created source-bounded profiles for [[RayHuang|黄仁宇]], the book, [[WanliEmperor|万历帝]], [[ZhangJuzheng|张居正]], [[ShenShixing|申时行]], [[HaiRui|海瑞]], [[QiJiguang|戚继光]], and [[LiZhiMing|李贽]]. Created [[MacrohistoricalInstitutionalAnalysis|大历史制度分析]], [[NumericalManagement|数目字管理]], and [[MoralSubstitutionForInstitutions|道德替代制度]], then resynthesized [[CultureLimited|文化有限]] and [[MingDynasty|明朝]] from their complete preserved evidence inventories before appending the new source once.
+
+No settled contradiction was adopted. The episode expands the existing Ming profile from tribute, status regulation, and princely finance into a qualified late-Ming institutional-capacity branch. Huang's six-person selection, “great failure” thesis, biographies, quotations, causal links, and modern organizational analogies remain source-scoped and should be compared with primary evidence and other Ming scholarship.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,285 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

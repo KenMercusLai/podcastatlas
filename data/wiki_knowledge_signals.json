@@ -75139,9 +75139,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -75219,9 +75219,16 @@
           "show": "文化有限",
           "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
           "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        },
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-24",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -140613,6 +140620,22 @@
       "updated": "2026-10-16",
       "url": "/wiki/entities/hailubook/"
     },
+    "HaiRui": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/hairui/"
+    },
     "Haidilao": {
       "episode_count": 3,
       "show_count": 2,
@@ -193664,6 +193687,22 @@
       "updated": "2026-11-06",
       "url": "/wiki/entities/lizhaoyu/"
     },
+    "LiZhiMing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/lizhiming/"
+    },
     "LiZhilin": {
       "episode_count": 1,
       "show_count": 1,
@@ -210842,6 +210881,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/macnaghtenmemorandum/"
     },
+    "MacrohistoricalInstitutionalAnalysis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/macrohistoricalinstitutionalanalysis/"
+    },
     "Madagascar": {
       "episode_count": 2,
       "show_count": 2,
@@ -224947,9 +225002,9 @@
       "url": "/wiki/entities/mingdingling/"
     },
     "MingDynasty": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
@@ -224971,9 +225026,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu/"
+        },
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-11-24",
       "url": "/wiki/entities/mingdynasty/"
     },
     "MingPao": {
@@ -228426,6 +228488,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/moralstress/"
+    },
+    "MoralSubstitutionForInstitutions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/moralsubstitutionforinstitutions/"
     },
     "MoratoriumDistributionalBurden": {
       "episode_count": 1,
@@ -239738,6 +239816,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/nujiegendernormtransmission/"
+    },
+    "NumericalManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/concepts/numericalmanagement/"
     },
     "NuoJiWesternHan": {
       "episode_count": 1,
@@ -269914,6 +270008,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/qiji/"
     },
+    "QiJiguang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/qijiguang/"
+    },
     "QiLiwangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -273553,6 +273663,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/raydalio/"
+    },
+    "RayHuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/rayhuang/"
     },
     "RayKroc": {
       "episode_count": 1,
@@ -297650,6 +297776,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/shenronglatehan/"
+    },
+    "ShenShixing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/shenshixing/"
     },
     "ShenWansan": {
       "episode_count": 1,
@@ -344563,6 +344705,38 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/wangxiancity/"
     },
+    "WanliEmperor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/wanliemperor/"
+    },
+    "WanliFifteenYear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/wanlififteenyear/"
+    },
     "WannseeConference": {
       "episode_count": 1,
       "show_count": 1,
@@ -366436,6 +366610,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/zhangjunbaotaichimaster/"
+    },
+    "ZhangJuzheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4O2aT_A_VjHwT_4dVr [GKwRIW4O2aT_A_VjHwT_4dVr].md",
+          "key": "vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr",
+          "show": "文化有限",
+          "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+          "url": "/wiki/sources/vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr/"
+        }
+      ],
+      "updated": "2026-11-24",
+      "url": "/wiki/entities/zhangjuzheng/"
     },
     "ZhangKaiDuanJiongOfficer": {
       "episode_count": 1,

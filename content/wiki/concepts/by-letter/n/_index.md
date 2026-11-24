@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11798
+wiki_total_pages: 11801
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "NudifyAppEcosystem"
     title: "Nudify App Ecosystem"
     url: "/wiki/concepts/nudifyappecosystem/"
+  - key: "NumericalManagement"
+    title: "Numerical Management / 数目字管理"
+    url: "/wiki/concepts/numericalmanagement/"
   - key: "NutritionMentalHealth"
     title: "Nutrition and Mental Health"
     url: "/wiki/concepts/nutritionmentalhealth/"

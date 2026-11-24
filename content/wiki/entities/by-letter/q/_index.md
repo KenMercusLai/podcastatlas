@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 14856
+wiki_total_pages: 14864
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "QiJi"
     title: "戚姬 / Qi Ji"
     url: "/wiki/entities/qiji/"
+  - key: "QiJiguang"
+    title: "戚继光 / Qi Jiguang"
+    url: "/wiki/entities/qijiguang/"
   - key: "Qingwen"
     title: "晴雯 / Qingwen"
     url: "/wiki/entities/qingwen/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14856
+wiki_total_pages: 14864
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "WladyslawAnders"
     title: "Władysław Anders"
     url: "/wiki/entities/wladyslawanders/"
+  - key: "WanliFifteenYear"
+    title: "《万历十五年》 / 1587, a Year of No Significance"
+    url: "/wiki/entities/wanlififteenyear/"
   - key: "WorldAtlasOfWine"
     title: "《世界葡萄酒地图》 / The World Atlas of Wine"
     url: "/wiki/entities/worldatlasofwine/"
@@ -1001,6 +1004,9 @@ wiki_pages:
   - key: "Wanjiu"
     title: "万九 / Wanjiu"
     url: "/wiki/entities/wanjiu/"
+  - key: "WanliEmperor"
+    title: "万历帝 / Wanli Emperor"
+    url: "/wiki/entities/wanliemperor/"
   - key: "WantaiBiological"
     title: "万泰生物 / Wantai Biological"
     url: "/wiki/entities/wantaibiological/"

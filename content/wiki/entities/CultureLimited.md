@@ -14,7 +14,8 @@ sources:
   - vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um
   - vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o
   - vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi
-last_updated: 2026-11-10
+  - vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr
+last_updated: 2026-11-24
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,6 +39,8 @@ The Vol.357 branch uses contemporary fiction to test personal memory against soc
 
 The Vol.360 branch makes formal complexity answerable to interpretive function. [[vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi]] asks whether nested structure is necessary, then traces how memoir, news, romance, and science fiction separately carry private memory, public reputation, concealed desire, and allegorical trauma. The group joins close attention to recurring objects and reveals with broader questions about narrative authority, female silence, family responsibility, and why a person records a life.
 
+The Vol.362 branch extends the same ordinary-reader method into popular historiography. [[vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr]] uses [[WanliFifteenYear|《万历十五年》]] to connect six biographies to [[MacrohistoricalInstitutionalAnalysis|大历史制度分析]], [[NumericalManagement|数目字管理]], and [[MoralSubstitutionForInstitutions|道德替代制度]]. The episode makes a strong institutional thesis accessible while explicitly asking listeners to separate documented events, author inference, historical worldview, and counterevidence.
+
 ## Key Characteristics
 - The program uses books as a durable engine for recurring conversation.
 - Its book talk is ordinary-reader-facing without requiring every episode to become formal literary criticism.
@@ -58,13 +61,14 @@ The Vol.360 branch makes formal complexity answerable to interpretive function. 
 - Encyclopedic reading: [[vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um]] treats whaling facts, labor, industry, scripture, poetry, drama, and viewpoint shifts as parts of one inquiry rather than detachable background.
 - Memory and position: [[vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o]] combines host recollection with conflicting fictional accounts to revise beneficiary-centered school memory without claiming statistical evidence about selective education.
 - Form and narrative evidence: [[vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi]] connects four nested narrative modes to suspense, pacing, public/private knowledge, concealed authorship, and identity.
+- Historiography and evidence criticism: [[vol-362-wanli-shiwunian-da-shibai-shidai-de-ren-hai-neng-nadao-da-jieguo-ma-gkwriw4o2at-a-vjhw-t-4dvr]] connects biography to institutional technique and keeps Huang's causal thesis distinct from settled historical fact.
 
 ## Qualifications
-The wiki still has only a limited source set for 文化有限. The current profile should not be read as a complete account of the program's catalog, host roster, or institutional history. Vol.352's AI claims, Vol.353's plot and social readings, Vol.354's psychological, audience, and post-9/11 claims, Vol.355's social-history and character-motive claims, Vol.356's literary, religious, industrial, and biographical claims, Vol.357's educational and generational claims, and Vol.360's biographical, textual, symbolic, and contemporary social-media extensions are cultural commentary rather than independent empirical evidence.
+The wiki still has only a limited source set for 文化有限. The current profile should not be read as a complete account of the program's catalog, host roster, or institutional history. Vol.352's AI claims, Vol.353's plot and social readings, Vol.354's psychological, audience, and post-9/11 claims, Vol.355's social-history and character-motive claims, Vol.356's literary, religious, industrial, and biographical claims, Vol.357's educational and generational claims, Vol.360's biographical, textual, symbolic, and contemporary social-media extensions, and Vol.362's Ming biographies and institutional interpretation are cultural commentary rather than independent empirical evidence.
 
 ## What Changed
-- Added a layered-fiction case that tests whether formal complexity carries distinct narrative and evidentiary functions.
-- Added narrative authority and the public/private record gap to the program's represented literary-analysis range.
+- Added a popular-history case that connects biography to institutional analysis.
+- Added explicit fact, inference, worldview, and counterevidence distinctions to the program's represented reading method.
 
 ## Relationships
 - [[ChaoGe]] - host/source voice who explains the show's origin and contributes literary-texture readings.
@@ -91,3 +95,5 @@ The wiki still has only a limited source set for 文化有限. The current profi
 - [[TheBlindAssassinNovel]] - layered-narrative case joining family memory, public record, trauma, and identity.
 - [[LayeredNarrativeFunctionalIntegration]] - form-content test developed through Vol.360.
 - [[NarrativeAuthorityAndIdentity]] - identity and authorship problem developed through Vol.360.
+- [[WanliFifteenYear|《万历十五年》]] - popular-history case joining six biographies to a systemic thesis.
+- [[MacrohistoricalInstitutionalAnalysis|大历史制度分析]] - historiographical method represented through Vol.362.
