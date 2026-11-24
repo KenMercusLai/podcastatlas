@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14870
+wiki_total_pages: 14874
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -2471,6 +2471,9 @@ wiki_pages:
   - key: "Shuanger"
     title: "双儿 / Shuang'er"
     url: "/wiki/entities/shuanger/"
+  - key: "ShuangshengMengshou"
+    title: "双生猛兽 / Shuangsheng Mengshou"
+    url: "/wiki/entities/shuangshengmengshou/"
   - key: "ShuangXuetao"
     title: "双雪涛 / Shuang Xuetao"
     url: "/wiki/entities/shuangxuetao/"

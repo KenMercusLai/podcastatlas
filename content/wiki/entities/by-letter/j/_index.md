@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14870
+wiki_total_pages: 14874
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1844,6 +1844,9 @@ wiki_pages:
   - key: "JeffreyLau"
     title: "刘镇伟 / Jeffrey Lau"
     url: "/wiki/entities/jeffreylau/"
+  - key: "JuwubaAIStudio"
+    title: "剧无霸 / Juwuba AI Studio"
+    url: "/wiki/entities/juwubaaistudio/"
   - key: "JuXin"
     title: "剧辛 / Ju Xin"
     url: "/wiki/entities/juxin/"

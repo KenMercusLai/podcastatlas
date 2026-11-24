@@ -43852,6 +43852,18 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-25] ingest | EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？
+
+Added the [[WushichaYanjiusuo|无时差研究所]] interview with [[MiaAIShortDrama|Mia]] on [[JuwubaAIStudio|剧无霸]], [[ShuangshengMengshou|《双生猛兽》]], one-click versus boutique production, concentrated hit returns, falling platform payouts, multi-model workflows, overseas experiments, and pressure on live-action employment.
+
+Created source-bounded synthesis-first profiles for Mia, Juwuba, 《双生猛兽》, and [[HengdianWorldStudios|横店影视城]], plus [[AIShortDramaBoutiqueStrategy|AI漫剧精品化策略]]. Resynthesized [[AIShortDrama]] and [[AIShortDramaSupplyGlut]] from their complete preserved evidence inventories before appending the new source once. The update keeps exceptional low-cost solo hits as counterevidence to any universal boutique-only rule while adding studio-level domestic one-click losses and quality-differentiation strategy.
+
+No settled contradiction was adopted. The source's ROI, payout, daily launch volume, revenue concentration, cost, compute share, staffing, collection, audience migration, and overseas-performance figures remain participant-reported. AI production pressure does not by itself prove that AI caused the wider slowdown in actor work or Hengdian activity.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,290 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. Five unresolved wikilinks remain in older append-only log entries outside this ingest's changes.
+
 ## [2026-11-25] ingest | Entangled Intelligences: Intelligence Across Cells, Species, Machines, and Futures
 
 Added a [[LongNow]] event spanning inquiry, developmental biology, animal communication, astrobiology, AI, poetry, and speculative theater. Created synthesis-first profiles for [[AshwairaKhanduja]], [[MichaelLevin]], [[SaraImariWalker]], and [[DavidGruber]], then resynthesized [[ClaireIsabelWebb]] and [[DavidEagleman]] from their complete preserved evidence inventories before appending the new source once.
@@ -43863,6 +43875,10 @@ No settled contradiction was adopted. Organismal agency does not replace genetic
 The broad [[LongNow]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening a large unchanged inventory or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,289 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-25] lint | Wiki health check
 

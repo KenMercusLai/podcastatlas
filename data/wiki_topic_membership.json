@@ -12123,6 +12123,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIShortDramaBoutiqueStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIShortDramaOverseasLocalization": [
     {
       "key": "technology",

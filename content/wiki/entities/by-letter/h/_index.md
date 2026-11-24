@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14870
+wiki_total_pages: 14874
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1706,6 +1706,9 @@ wiki_pages:
   - key: "HuanYiQin"
     title: "桓齮 / Huan Yi (Qin)"
     url: "/wiki/entities/huanyiqin/"
+  - key: "HengdianWorldStudios"
+    title: "横店影视城 / Hengdian World Studios"
+    url: "/wiki/entities/hengdianworldstudios/"
   - key: "HengjiangLateHan"
     title: "横江 / Hengjiang (late Han)"
     url: "/wiki/entities/hengjianglatehan/"

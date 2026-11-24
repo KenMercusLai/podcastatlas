@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？](sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns.md) — 无时差研究所访谈Mia，以精品剧收入集中、一键流亏损、制作成本与算力占比、平台分账下降、海外试验和真人影视就业冲击拆解AI漫剧竞争。
 - [Entangled Intelligences: Intelligence Across Cells, Species, Machines, and Futures](sources/02026-entangled-intelligences-podcast-02026-entangled-intelligences-podcast.md) — Long Now event on uncertainty, cellular agency, causal lineage, unfamiliar minds, animal translation, uplift, and multispecies politics.
 - [CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem](sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int.md) — All-In interview with George Kurtz on autonomous cyberattacks, AI-enabled exploit chains, break-or-breach patching, open-weight models, session theft, and fraudulent remote employees.
 - [What happens if AI becomes its own successor?](sources/tech-20261124-1124-mp-tech-pod-128-tech-20261124-1124-mp-tech-pod-128.md) — Marketplace Tech and Rachel Steratore separate current AI-assisted research from direct successor construction and propose oversight for internal research systems.
@@ -5423,6 +5424,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [横店影视城 / Hengdian World Studios](entities/HengdianWorldStudios.md) — 中国影视实体制作中心，本来源将其从业机会、房产与器材收缩作为真人制作转型的限时行业信号。
+- [Mia / AI漫剧制作人](entities/MiaAIShortDrama.md) — 剧无霸创始人，以精品化、小型专业团队和多模型工作流应对AI漫剧分账下降与供给膨胀。
+- [剧无霸 / Juwuba AI Studio](entities/JuwubaAIStudio.md) — Mia创办的AI漫剧制作公司，以少数精品爆款支撑主要收入并探索广告与海外渠道。
+- [双生猛兽 / Shuangsheng Mengshou](entities/ShuangshengMengshou.md) — 剧无霸近期精品AI漫剧，来源称其获爆剧标签并接近70万收藏。
 - [Ashwaira Khanduja](entities/AshwairaKhanduja.md) — Speaker framing intelligence as responsible sensing, action, learning, and revision under incomplete knowledge.
 - [Michael Levin](entities/MichaelLevin.md) — Developmental biologist connecting nested biological agency, cognitive light cones, mind blindness, and freedom of embodiment.
 - [Sara Imari Walker](entities/SaraImariWalker.md) — Astrobiology and origins-of-life researcher using assembly history to distinguish resemblance from independent lineage.
@@ -20395,6 +20400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [AI Short Drama Boutique Strategy / AI漫剧精品化策略](concepts/AIShortDramaBoutiqueStrategy.md) — 以剧本、资产设计、专业分工、多模型协作和后期质量替代最低人力成本竞争的AI漫剧策略。
 - [Intelligence Under Uncertainty](concepts/IntelligenceUnderUncertainty.md) — Capacity to sense, remember, coordinate, act, learn, and revise without complete knowledge.
 - [Collective Biological Agency](concepts/CollectiveBiologicalAgency.md) — Coordinated adaptive problem-solving across cells, organisms, and biological groups without implying human-like consciousness.
 - [Cognitive Light Cone](concepts/CognitiveLightCone.md) — Spatial and temporal scale of the largest goals a being can represent and pursue.

@@ -10,7 +10,8 @@ sources:
   - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
   - gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u
   - lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs
-last_updated: 2026-11-11
+  - gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns
+last_updated: 2026-11-25
 ---
 
 # AI Short Drama
@@ -23,11 +24,13 @@ The bounded evidence shows AI short drama as a production-and-distribution syste
 
 The six-month creator follow-up strengthens both the opportunity and the selection-bias warning. One experienced solo operator reports ten works, more than 1.6 billion plays, under RMB 150,000 spending, and seven-figure income, yet his first breakout remained the strongest and he says most entrants lose money. Longer video generation and intelligent editing reduce some execution burden, but rights, segmented adaptation, quality grading, review, distribution, story fit, persistence, and luck become more rather than less visible as the scarce layers.
 
+The newest studio account makes the production frontier explicitly bimodal. One-click output can compress a roughly 100-minute work to one person-day and several thousand RMB, while boutique work may require weeks or months, hundreds of designed assets, a specialized team, multiple models, and hundreds of thousands of RMB. [[MiaAIShortDrama|Mia]] reports that her domestic one-click trials mostly lost money and that fewer than 10% of boutique works generated roughly 90% of company revenue. This supports [[AIShortDramaBoutiqueStrategy]] without making quality a guarantee: higher spend increases differentiation and loss exposure at the same time.
+
 The category is also described as having heavy token use and an established commercial loop, but this exposes a measurement error. A reported share of token use cannot be translated directly into a share of national compute, energy, or cost; [[TokenComputeMetricMismatch]] must be resolved before infrastructure conclusions are drawn. High usage supports category relevance, not the claim that “half of domestic compute” serves short dramas.
 
 ## Key Claims
 - Lower unit cost expands creator entry and the set of genres that can be economically tested.
-- Production remains labor- and judgment-intensive even when generation cost falls.
+- Production can split between one-click volume and asset-heavy boutique work; higher quality remains labor- and judgment-intensive even when generation cost falls.
 - Platform review, rights access, paid distribution, ad yield, and settlement determine whether reach becomes creator income.
 - AI and live-action short drama are adjacent lanes: AI is strong in iteration and imagined spectacle, while performers and collaborative craft remain valuable for relational nuance.
 - Overseas success requires cultural and commercial localization, not merely translation.
@@ -41,14 +44,15 @@ The category is also described as having heavy token use and an established comm
 - **Direction and overseas commercialization:** [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] shows scripts, assets, storyboards, model selection, directing, localization, traffic buying, and platform rules shaping commercial outcomes.
 - **Usage and measurement:** [[gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u]] says video and image generation are leading token-call categories in its industry account but explicitly separates token share from compute share.
 - **Six-month creator portfolio:** [[lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs]] adds ten solo works, source-reported seven-figure income, quality-linked payout differences, review failures, losing peers, and the warning that prior experience and persistence make the result non-representative.
+- **Boutique studio portfolio:** [[gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns]] contrasts one-click and boutique cost, workflow, labor, compute, cycle time, domestic results, overseas experiments, and concentrated hit returns.
 
 ## Counterevidence & Qualifications
-Market size, audience, cost, payout, ROI, platform-policy, token-use, and compute-share figures are source-reported and use inconsistent scopes. One breakout or one profitable portfolio does not establish repeatable creator economics. AI cost reduction does not prove live-action displacement, and the strongest practitioner accounts still say labor, story judgment, directing, platform power, rights, review, and distribution constrain the category. The token-usage episode does not disclose the methodology behind its token or compute percentages, while the creator follow-up does not provide audited ledgers or representative failure rates.
+Market size, audience, cost, payout, ROI, platform-policy, token-use, and compute-share figures are source-reported and use inconsistent scopes. One breakout, one profitable portfolio, or one boutique studio does not establish repeatable economics. AI cost reduction does not prove that live action disappears, and the strongest practitioner accounts still say labor, story judgment, directing, platform power, rights, review, and distribution constrain the category. The low-cost solo case and loss-making one-click studio case are not direct contradictions because their routes, platforms, timing, stories, quality grades, and distribution differ.
 
 ## What Changed
-- Added the six-month solo-creator portfolio as evidence of real upside without treating it as representative profitability.
-- Added quality grading, segmented adaptation, review, persistence, prior experience, and luck as explicit selection boundaries.
-- Preserved the distinction between token intensity and actual compute allocation.
+- Added the one-click versus boutique-production split as a strategic rather than purely technical distinction.
+- Added concentrated studio returns, domestic one-click losses, compute-share variation, and overseas experimentation.
+- Preserved the exceptional solo-profit case as counterevidence to any universal boutique-only rule.
 
 ## Related Concepts
 - [[ShortDramaEconomics]] - cost, monetization, traffic, and settlement relationship.
@@ -58,3 +62,5 @@ Market size, audience, cost, payout, ROI, platform-policy, token-use, and comput
 - [[AIShortDramaOverseasLocalization]] - cultural and commercial adaptation relationship.
 - [[TokenComputeMetricMismatch]] - measurement boundary for infrastructure claims.
 - [[AIContentProvenance]] - rights, likeness, and traceability relationship.
+- [[AIShortDramaBoutiqueStrategy]] - asset-heavy quality and portfolio-differentiation relationship.
+- [[AIShortDramaSupplyGlut]] - payout and attention pressure that intensifies route selection.

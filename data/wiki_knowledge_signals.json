@@ -6493,9 +6493,9 @@
       "url": "/wiki/concepts/aishoppingdemanddiscovery/"
     },
     "AIShortDrama": {
-      "episode_count": 6,
-      "show_count": 3,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
@@ -6538,15 +6538,38 @@
           "show": "乱翻书",
           "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
           "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        },
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
         }
       ],
-      "updated": "2026-11-11",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/aishortdrama/"
     },
+    "AIShortDramaBoutiqueStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/aishortdramaboutiquestrategy/"
+    },
     "AIShortDramaSupplyGlut": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博 [1014854463].md",
@@ -6561,9 +6584,16 @@
           "show": "商业就是这样",
           "title": "Vol.277 2026“金字招牌”特辑：有效创新",
           "url": "/wiki/sources/vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv/"
+        },
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/aishortdramasupplyglut/"
     },
     "AISnowlineWorkBoundary": {
@@ -147544,6 +147574,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/henanfc/"
     },
+    "HengdianWorldStudios": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/hengdianworldstudios/"
+    },
     "HengfuHistoricDistrict": {
       "episode_count": 1,
       "show_count": 1,
@@ -182349,6 +182395,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/juvenilemaculardegenerationcarecenter/"
+    },
+    "JuwubaAIStudio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/juwubaaistudio/"
     },
     "JyotishaHistoricalForecasting": {
       "episode_count": 1,
@@ -222372,6 +222434,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/miwuqiangleader/"
+    },
+    "MiaAIShortDrama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/miaaishortdrama/"
     },
     "MiaBell": {
       "episode_count": 1,
@@ -300598,6 +300676,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/shuanger/"
+    },
+    "ShuangshengMengshou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwO23YBAabwUwUAuynS [GKwRIRwO23YBAabwUwUAuynS].md",
+          "key": "gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns",
+          "show": "无时差研究所",
+          "title": "EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？",
+          "url": "/wiki/sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/shuangshengmengshou/"
     },
     "ShuboKhotanLateHan": {
       "episode_count": 1,

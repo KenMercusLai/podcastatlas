@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11811
+wiki_total_pages: 11812
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1676,6 +1676,9 @@ wiki_pages:
   - key: "AIShortDrama"
     title: "AI Short Drama"
     url: "/wiki/concepts/aishortdrama/"
+  - key: "AIShortDramaBoutiqueStrategy"
+    title: "AI Short Drama Boutique Strategy / AI漫剧精品化策略"
+    url: "/wiki/concepts/aishortdramaboutiquestrategy/"
   - key: "AIShortDramaOverseasLocalization"
     title: "AI Short Drama Overseas Localization"
     url: "/wiki/concepts/aishortdramaoverseaslocalization/"
