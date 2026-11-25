@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why Silicon Valley can’t let go of its superstar CEOs](sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128.md) — Marketplace Tech on founder indispensability, venture-network amplification, succession risk, and public-company accountability.
 - [Why Is It So Hard (and Expensive) to Build Anything in America? (Update)](sources/default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951-default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951.md) — Freakonomics Radio on construction-productivity stagnation, fragmented incentives, land-use constraints, and the institutional requirements for modular building.
 - [Strait draw: Iran’s hot war cools](sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4.md) — Economist Podcasts on Iran’s unstable stalemate, Bangladesh’s connected-lending banking crisis, and profanity as a failure correlate in hidden AI reasoning.
 - [How to steal a truckload of bourbon and not get caught](sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356.md) — Planet Money connects turkey and bourbon thefts to freight identity compromise, organized logistics crime, security tradeoffs, and cost pass-through.
@@ -5428,6 +5429,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [David Karp](entities/DavidKarp.md) — George Washington University professor analyzing founder culture, venture networks, succession, and board accountability.
 - [California Forever](entities/CaliforniaForever.md) — Contested investor-backed proposed city testing large-scale housing delivery under local political constraints.
 - [Chad Syverson](entities/ChadSyverson.md) — Economist using long-run evidence and input comparisons to diagnose construction productivity stagnation.
 - [Katerra](entities/Katerra.md) — Failed vertically integrated construction company whose experiments may have left skills and factory capacity behind.
@@ -20413,6 +20415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Founder Indispensability Myth](concepts/FounderIndispensabilityMyth.md) — Belief that one founder is inseparable from company value, reinforced by real capability, capital networks, narrative, and weak succession design.
 - [Construction Productivity Stagnation](concepts/ConstructionProductivityStagnation.md) — Multi-causal account of flat or declining construction output per worker under fragmented projects, regulation, complexity, and risk.
 - [Modular Construction Scaling](concepts/ModularConstructionScaling.md) — Transition from isolated factory-built projects to a durable ecosystem of demand, codes, finance, factories, skills, and local installation.
 - [Iran Unstable Stalemate](concepts/IranUnstableStalemate.md) — Pause in direct fighting that leaves blockade, nuclear, proxy, cyber, and political escalation pathways unresolved.

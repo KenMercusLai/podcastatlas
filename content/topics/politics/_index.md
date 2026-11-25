@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3611
+topic_total_pages: 3613
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1849,6 +1849,9 @@ topic_concepts:
   - key: "FounderIdentityNarrativeRisk"
     title: "Founder Identity Narrative Risk"
     url: "/wiki/concepts/founderidentitynarrativerisk/"
+  - key: "FounderIndispensabilityMyth"
+    title: "Founder Indispensability Myth"
+    url: "/wiki/concepts/founderindispensabilitymyth/"
   - key: "FounderNarrativeReliability"
     title: "Founder Narrative Reliability"
     url: "/wiki/concepts/foundernarrativereliability/"
@@ -6392,6 +6395,9 @@ topic_entities:
   - key: "DavidHorowitz"
     title: "David Horowitz"
     url: "/wiki/entities/davidhorowitz/"
+  - key: "DavidKarp"
+    title: "David Karp"
+    url: "/wiki/entities/davidkarp/"
   - key: "DavidKirkpatrick"
     title: "David Kirkpatrick"
     url: "/wiki/entities/davidkirkpatrick/"

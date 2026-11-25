@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11822
+wiki_total_pages: 11823
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "FounderIdentityNarrativeRisk"
     title: "Founder Identity Narrative Risk"
     url: "/wiki/concepts/founderidentitynarrativerisk/"
+  - key: "FounderIndispensabilityMyth"
+    title: "Founder Indispensability Myth"
+    url: "/wiki/concepts/founderindispensabilitymyth/"
   - key: "FounderInstinct"
     title: "Founder Instinct"
     url: "/wiki/concepts/founderinstinct/"

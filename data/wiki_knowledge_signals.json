@@ -80497,6 +80497,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/davidhyam/"
     },
+    "DavidKarp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261125_1125_MP_TECH_pod_128 [tech_20261125_1125_MP_TECH_pod_128].md",
+          "key": "tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Silicon Valley can’t let go of its superstar CEOs",
+          "url": "/wiki/sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/davidkarp/"
+    },
     "DavidKennedyCriminologist": {
       "episode_count": 2,
       "show_count": 1,
@@ -121008,10 +121024,26 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
+    "FounderIndispensabilityMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261125_1125_MP_TECH_pod_128 [tech_20261125_1125_MP_TECH_pod_128].md",
+          "key": "tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Silicon Valley can’t let go of its superstar CEOs",
+          "url": "/wiki/sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/founderindispensabilitymyth/"
+    },
     "FounderLedPlatformSuccessionRisk": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 6,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
@@ -121061,9 +121093,16 @@
           "show": "Economist Podcasts",
           "title": "Alice forgiven? Jensen Huang back at Nvidia",
           "url": "/wiki/sources/4ab9c826f3af56583bd2285185f8fde8-4ab9c826f3af56583bd2285185f8fde8mp3aid6b0570ccced26bb723ddd995chid-d556eb54-6160-4-282/"
+        },
+        {
+          "episode_file": "tech_20261125_1125_MP_TECH_pod_128 [tech_20261125_1125_MP_TECH_pod_128].md",
+          "key": "tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Silicon Valley can’t let go of its superstar CEOs",
+          "url": "/wiki/sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-24",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {

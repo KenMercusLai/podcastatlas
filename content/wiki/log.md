@@ -43942,3 +43942,19 @@ Downstream synthesis found no dirty controlled topic; the age gate required glob
 ## [2026-11-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-25] ingest | Why Silicon Valley can’t let go of its superstar CEOs
+
+Added the Marketplace Tech source note and created [[DavidKarp]] plus [[FounderIndispensabilityMyth]]. Resynthesized [[FounderLedPlatformSuccessionRisk]] from its complete preserved seven-source inventory before appending the new source once.
+
+The update separates real founder-specific technical and relationship assets from institutional amplification through venture selection, capital, advice, customer access, market narrative, and political intervention. It adds a stage boundary: founder charisma can be valuable during formation, while mature-company durability depends on operational depth, accountable boards, and credible succession.
+
+No settled contradiction was adopted. The reported Huang return converges with the November 24 episode and supersedes earlier episode-level departure and board-refusal accounts, but political intervention, market value, financing loops, control structures, bubble timing, and regulatory forecasts remain source-scoped. Apple and Microsoft qualify permanent founder dependence without proving that every founder is readily replaceable.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,295 sources across 812 overview paragraphs and nine topics. Canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

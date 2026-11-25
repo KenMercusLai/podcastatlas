@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3933
+topic_total_pages: 3936
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2623,6 +2623,9 @@ topic_concepts:
   - key: "FounderBiopicNarrative"
     title: "Founder Biopic Narrative"
     url: "/wiki/concepts/founderbiopicnarrative/"
+  - key: "FounderIndispensabilityMyth"
+    title: "Founder Indispensability Myth"
+    url: "/wiki/concepts/founderindispensabilitymyth/"
   - key: "FounderMode"
     title: "Founder Mode"
     url: "/wiki/concepts/foundermode/"
@@ -6365,6 +6368,9 @@ topic_entities:
   - key: "DavidBlumen"
     title: "David Blumen"
     url: "/wiki/entities/davidblumen/"
+  - key: "DavidKarp"
+    title: "David Karp"
+    url: "/wiki/entities/davidkarp/"
   - key: "DavidRand"
     title: "David Rand"
     url: "/wiki/entities/davidrand/"
@@ -11397,6 +11403,9 @@ topic_sources:
   - key: "tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128"
     title: "Why retail investors have their sights on Anthropic"
     url: "/wiki/sources/tech-20261120-1120-mp-tech-pod-128-tech-20261120-1120-mp-tech-pod-128/"
+  - key: "tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128"
+    title: "Why Silicon Valley can’t let go of its superstar CEOs"
+    url: "/wiki/sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128/"
   - key: "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128"
     title: "Why the Trump administration plans to boost funding for subsea cables"
     url: "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"
