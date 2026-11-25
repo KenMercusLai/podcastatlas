@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3608
+topic_total_pages: 3609
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -703,6 +703,9 @@ topic_concepts:
   - key: "CarceralLaborGovernance"
     title: "Carceral Labor Governance"
     url: "/wiki/concepts/carcerallaborgovernance/"
+  - key: "CargoSecurityVerificationTradeoff"
+    title: "Cargo Security Verification Tradeoff"
+    url: "/wiki/concepts/cargosecurityverificationtradeoff/"
   - key: "CarolingianCorrectio"
     title: "Carolingian Correctio"
     url: "/wiki/concepts/carolingiancorrectio/"

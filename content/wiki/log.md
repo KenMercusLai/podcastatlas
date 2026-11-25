@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-25] ingest | How to steal a truckload of bourbon and not get caught
+
+Added a [[PlanetMoney]] episode using stolen turkey and [[NobleOak]] bourbon shipments to explain [[StrategicCargoTheft]], [[FreightIdentityTakeover]], [[CargoSecurityVerificationTradeoff]], and [[CargoTheftCostPassThrough]]. Created synthesis-first profiles for [[A21WineAndSpirits]], Noble Oak, and [[WayneJacobs]], then resynthesized [[AIDataCenterCargoTheft]] and the [[FederalBureauOfInvestigation|FBI]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: modern cargo theft can manipulate trusted dispatch, carrier, registration, and communications systems so real trucks and potentially unwitting workers move stolen loads. Prevention is layered rather than decisive because stronger verification can slow a high-volume, small-carrier freight market, trackers and escorts can be defeated, and item-level identification can be uneconomic for low-margin goods. Direct theft value also understates replacement, insurance, freight-rate, coverage, market-entry, and consumer effects.
+
+No settled contradiction was adopted. Loss totals, category growth, syndicate geography, the $100 million data-center figure, resale routes, and the exact bourbon compromise remain source-scoped because the supplied file is a structured episode summary without the underlying crime database, case files, insurer records, or final adjudications. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,292 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-24] ingest | Music and Your Mind
 
 Added a [[HiddenBrain]] episode joining [[ElizabethMargulis|Elizabeth Margulis]] on music, memory, expectation, imagery, culture, and repetition with [[DaisyFancourt|Daisy Fancourt]] on arts participation and health. Created [[ListenerConstructedMusicalMeaning]] and [[MusicEvokedAutobiographicalMemory]], then resynthesized Daisy Fancourt, [[ArtsBasedHealthPractice]], [[MusicBasedEmotionRegulation]], [[MusicMemoryCueing]], and [[InterpersonalSynchronyAndRapport]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43895,6 +43905,10 @@ No settled contradiction was adopted. Strong compute demand and backlog can coex
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,291 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-25] lint | Wiki health check
 

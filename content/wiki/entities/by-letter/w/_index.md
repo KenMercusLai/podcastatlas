@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14874
+wiki_total_pages: 14877
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "Waymo"
     title: "Waymo"
     url: "/wiki/entities/waymo/"
+  - key: "WayneJacobs"
+    title: "Wayne Jacobs"
+    url: "/wiki/entities/waynejacobs/"
   - key: "Wayve"
     title: "Wayve"
     url: "/wiki/entities/wayve/"

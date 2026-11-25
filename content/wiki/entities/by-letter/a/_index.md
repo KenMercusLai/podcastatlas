@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14874
+wiki_total_pages: 14877
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "AIArtificialIntelligenceFilm"
     title: "A.I. Artificial Intelligence / 《人工智能》"
     url: "/wiki/entities/aiartificialintelligencefilm/"
+  - key: "A21WineAndSpirits"
+    title: "A21 Wine and Spirits"
+    url: "/wiki/entities/a21wineandspirits/"
   - key: "A23A"
     title: "A23A"
     url: "/wiki/entities/a23a/"

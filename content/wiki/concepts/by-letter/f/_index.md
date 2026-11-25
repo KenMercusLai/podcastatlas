@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11813
+wiki_total_pages: 11817
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "Freemasonry"
     title: "Freemasonry"
     url: "/wiki/concepts/freemasonry/"
+  - key: "FreightIdentityTakeover"
+    title: "Freight Identity Takeover"
+    url: "/wiki/concepts/freightidentitytakeover/"
   - key: "FrenchFifthRepublic"
     title: "French Fifth Republic"
     url: "/wiki/concepts/frenchfifthrepublic/"

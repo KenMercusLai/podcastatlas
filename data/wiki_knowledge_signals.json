@@ -153,6 +153,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/5meodmt/"
     },
+    "A21WineAndSpirits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/a21wineandspirits/"
+    },
     "A24": {
       "episode_count": 3,
       "show_count": 3,
@@ -2890,6 +2906,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aidatabrokerdemand/"
+    },
+    "AIDataCenterCargoTheft": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+          "key": "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",
+          "url": "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/aidatacentercargotheft/"
     },
     "AIDataCenterPrivateCreditFinancing": {
       "episode_count": 4,
@@ -48537,6 +48576,38 @@
       ],
       "updated": "2026-11-23",
       "url": "/wiki/concepts/caregiverandcarerecipientrights/"
+    },
+    "CargoSecurityVerificationTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/cargosecurityverificationtradeoff/"
+    },
+    "CargoTheftCostPassThrough": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/cargotheftcostpassthrough/"
     },
     "Caribbean": {
       "episode_count": 3,
@@ -113995,9 +114066,9 @@
       "url": "/wiki/concepts/fedfastedstatecontinuum/"
     },
     "FederalBureauOfInvestigation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260831_0831_MP_TECH_pod_128 [tech_20260831_0831_MP_TECH_pod_128].md",
@@ -114005,9 +114076,16 @@
           "show": "Marketplace Tech",
           "title": "ICE is collecting DNA from detainees for future policing",
           "url": "/wiki/sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-25",
       "url": "/wiki/entities/federalbureauofinvestigation/"
     },
     "FederalFundsRateAsPolicySignal": {
@@ -123363,6 +123441,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/freemasonry/"
+    },
+    "FreightIdentityTakeover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/freightidentitytakeover/"
     },
     "FremontCalifornia": {
       "episode_count": 1,
@@ -238649,6 +238743,22 @@
       "updated": "2026-10-29",
       "url": "/wiki/entities/noamsobel/"
     },
+    "NobleOak": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/nobleoak/"
+    },
     "NocheTriste": {
       "episode_count": 2,
       "show_count": 1,
@@ -312351,6 +312461,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/strategicbordercorridordependence/"
     },
+    "StrategicCargoTheft": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/strategiccargotheft/"
+    },
     "StrategicComposureUnderInjustice": {
       "episode_count": 1,
       "show_count": 1,
@@ -346303,6 +346429,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/waylonwong/"
+    },
+    "WayneJacobs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356 [default.mp3_ywr3ahjkcgo_b8f7b496cd7337e614f9c50ae34981a8_27045356].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356",
+          "show": "Planet Money",
+          "title": "How to steal a truckload of bourbon and not get caught",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/waynejacobs/"
     },
     "WeakAuthorityLeadership": {
       "episode_count": 3,
