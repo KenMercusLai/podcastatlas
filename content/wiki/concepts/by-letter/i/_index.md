@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11817
+wiki_total_pages: 11820
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1331,6 +1331,9 @@ wiki_pages:
   - key: "IranSanctions"
     title: "Iran Sanctions"
     url: "/wiki/concepts/iransanctions/"
+  - key: "IranUnstableStalemate"
+    title: "Iran Unstable Stalemate"
+    url: "/wiki/concepts/iranunstablestalemate/"
   - key: "IranContraAffair"
     title: "Iran-Contra Affair"
     url: "/wiki/concepts/irancontraaffair/"

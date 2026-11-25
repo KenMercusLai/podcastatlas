@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11817
+wiki_total_pages: 11820
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1601,6 +1601,9 @@ wiki_pages:
   - key: "AIRealityVerificationTax"
     title: "AI Reality Verification Tax"
     url: "/wiki/concepts/airealityverificationtax/"
+  - key: "AIReasoningProfanityFailure"
+    title: "AI Reasoning Profanity Failure"
+    url: "/wiki/concepts/aireasoningprofanityfailure/"
   - key: "AIRecognitionBias"
     title: "AI Recognition Bias"
     url: "/wiki/concepts/airecognitionbias/"

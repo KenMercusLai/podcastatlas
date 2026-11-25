@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3609
+topic_total_pages: 3611
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2482,6 +2482,9 @@ topic_concepts:
   - key: "IranPostwarEconomicRelief"
     title: "Iran Postwar Economic Relief"
     url: "/wiki/concepts/iranpostwareconomicrelief/"
+  - key: "IranUnstableStalemate"
+    title: "Iran Unstable Stalemate"
+    url: "/wiki/concepts/iranunstablestalemate/"
   - key: "IranContraAffair"
     title: "Iran-Contra Affair"
     url: "/wiki/concepts/irancontraaffair/"
@@ -10131,6 +10134,9 @@ topic_sources:
   - key: "strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f"
     title: "Strait and narrowing: the Iran deal crumbles"
     url: "/wiki/sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f/"
+  - key: "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4"
+    title: "Strait draw: Iran’s hot war cools"
+    url: "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
   - key: "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128"
     title: "Surveillance cameras livestreamed for the internet to see"
     url: "/wiki/sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128/"

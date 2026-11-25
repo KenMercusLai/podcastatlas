@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11817
+wiki_total_pages: 11820
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "PoliticalVetoPointBargaining"
     title: "Political Veto-Point Bargaining"
     url: "/wiki/concepts/politicalvetopointbargaining/"
+  - key: "PoliticallyConnectedBankingCrisis"
+    title: "Politically Connected Banking Crisis"
+    url: "/wiki/concepts/politicallyconnectedbankingcrisis/"
   - key: "PollTax"
     title: "Poll Tax / 人头税"
     url: "/wiki/concepts/polltax/"

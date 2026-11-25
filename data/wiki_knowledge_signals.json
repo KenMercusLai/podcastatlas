@@ -6197,6 +6197,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/aireadydataengineering/"
     },
+    "AIReasoningProfanityFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+          "key": "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4",
+          "show": "Economist Podcasts",
+          "title": "Strait draw: Iran’s hot war cools",
+          "url": "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/aireasoningprofanityfailure/"
+    },
     "AIRegulationInnovationCompatibility": {
       "episode_count": 2,
       "show_count": 1,
@@ -31538,9 +31554,9 @@
       "url": "/wiki/concepts/banditmutualreportingpacification/"
     },
     "Bangladesh": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_73f44257561fca7084d9017442f895aa_42230668 [default.mp3_ywr3ahjkcgo_73f44257561fca7084d9017442f895aa_42230668].md",
@@ -31562,9 +31578,16 @@
           "show": "Economist Podcasts",
           "title": "National front-runner: who can beat Le Pen?",
           "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        },
+        {
+          "episode_file": "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+          "key": "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4",
+          "show": "Economist Podcasts",
+          "title": "Strait draw: Iran’s hot war cools",
+          "url": "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-11-25",
       "url": "/wiki/entities/bangladesh/"
     },
     "BankAnimalSymbolism": {
@@ -169888,6 +169911,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/iransanctions/"
     },
+    "IranUnstableStalemate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+          "key": "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4",
+          "show": "Economist Podcasts",
+          "title": "Strait draw: Iran’s hot war cools",
+          "url": "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/iranunstablestalemate/"
+    },
     "IranianConstitutionalRevolution": {
       "episode_count": 1,
       "show_count": 1,
@@ -260029,6 +260068,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/politicalvetopointbargaining/"
     },
+    "PoliticallyConnectedBankingCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+          "key": "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4",
+          "show": "Economist Podcasts",
+          "title": "Strait draw: Iran’s hot war cools",
+          "url": "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/politicallyconnectedbankingcrisis/"
+    },
     "PollTax": {
       "episode_count": 2,
       "show_count": 2,
@@ -298205,6 +298260,29 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/shehewesternhan/"
+    },
+    "SheikhHasina": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Dhaka matters： an election for Bangladesh [698c5a3afeb59e13a3b8a94d].md",
+          "key": "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d",
+          "show": "Economist Podcasts",
+          "title": "Dhaka matters: an election for Bangladesh",
+          "url": "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+        },
+        {
+          "episode_file": "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+          "key": "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4",
+          "show": "Economist Podcasts",
+          "title": "Strait draw: Iran’s hot war cools",
+          "url": "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/sheikhhasina/"
     },
     "SheikhJarrah": {
       "episode_count": 1,
@@ -338349,6 +338427,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/valoisdynasty/"
+    },
+    "Vals": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+          "key": "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4",
+          "show": "Economist Podcasts",
+          "title": "Strait draw: Iran’s hot war cools",
+          "url": "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/entities/vals/"
     },
     "ValueInvestingPrerequisiteStack": {
       "episode_count": 1,

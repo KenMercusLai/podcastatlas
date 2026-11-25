@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2428
+topic_total_pages: 2430
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2578,6 +2578,9 @@ topic_concepts:
   - key: "PoliticalRiskPremiumValuation"
     title: "Political Risk-Premium Valuation"
     url: "/wiki/concepts/politicalriskpremiumvaluation/"
+  - key: "PoliticallyConnectedBankingCrisis"
+    title: "Politically Connected Banking Crisis"
+    url: "/wiki/concepts/politicallyconnectedbankingcrisis/"
   - key: "PollinationServiceMarket"
     title: "Pollination Service Market"
     url: "/wiki/concepts/pollinationservicemarket/"
@@ -7008,6 +7011,9 @@ topic_sources:
   - key: "stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5"
     title: "Stock options: how to hedge an AI bubble"
     url: "/wiki/sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5/"
+  - key: "strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4"
+    title: "Strait draw: Iran’s hot war cools"
+    url: "/wiki/sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4/"
   - key: "tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3"
     title: "Surbhi Sarna, Founder of nVision Medical"
     url: "/wiki/sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3/"

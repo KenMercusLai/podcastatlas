@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-25] ingest | Strait draw: Iran’s hot war cools
+
+Added an [[EconomistPodcasts]] episode spanning [[IranUnstableStalemate]], [[PoliticallyConnectedBankingCrisis]], and [[AIReasoningProfanityFailure]]. Created a qualified profile for [[Vals]], then resynthesized [[Bangladesh]] and [[SheikhHasina]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: reduced fighting between Iran and America is not a durable settlement while the Hormuz blockade, nuclear dispute, proxy attacks, covert and cyber options, and incompatible political incentives remain active. In Bangladesh, politically connected lending and delayed loss recognition turn past governance failures into present credit scarcity, slower growth, poverty, and a costly recapitalization fight. In the AI segment, profanity in hidden reasoning is treated as an episode-reported failure correlate rather than evidence of emotion or a reasoning aid.
+
+No settled contradiction was adopted. Iran's blockade, revenue, bargaining, cyber, and electoral claims; Bangladesh's bad-loan, growth, recapitalization, favoritism, and lender claims; and the Vals model dates, transcript rates, Xiaomi result, Claude bug report, and failure correlation remain source-scoped because the supplied file is a structured summary rather than primary diplomatic, banking, or evaluation evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,293 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-25] ingest | How to steal a truckload of bourbon and not get caught
 
 Added a [[PlanetMoney]] episode using stolen turkey and [[NobleOak]] bourbon shipments to explain [[StrategicCargoTheft]], [[FreightIdentityTakeover]], [[CargoSecurityVerificationTradeoff]], and [[CargoTheftCostPassThrough]]. Created synthesis-first profiles for [[A21WineAndSpirits]], Noble Oak, and [[WayneJacobs]], then resynthesized [[AIDataCenterCargoTheft]] and the [[FederalBureauOfInvestigation|FBI]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43905,6 +43915,10 @@ No settled contradiction was adopted. Strong compute demand and backlog can coex
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,291 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-25] lint | Wiki health check
 
