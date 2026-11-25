@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-26] ingest | AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？
+
+Added a [[DuanwenNewsPodcast|端聞]] episode on mothers doing [[DataAnnotationLabor]] at [[YongheAidoTechnology|永和爱豆科技]] in [[YongheCounty|山西永和县]]. Created synthesis-first pages for the county, company, annotation labor, [[AlgorithmicPieceRateControl]], [[ContentModerationOccupationalHarm]], [[AITrainingLaborDisplacement]], [[CareCompatibleLocalEmployment]], and [[ShortLivedDigitalEmploymentEmpowerment]], then resynthesized the show and [[AntGroup|蚂蚁集团]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: basic annotation briefly delivered unusually attractive local office work, caregiving-compatible hours, and sometimes high income, but those gains depended on abundant simple tasks and came with metric pressure, bodily strain, and disturbing-content exposure. As models automated first-pass labeling and demand moved toward specialist, degree-dependent work, aggregate market growth coexisted with local contraction and workers' return to casual or service employment.
+
+No settled contradiction was adopted. The episode qualifies claims that a growing AI-data market or a “digital poverty relief” label guarantees durable worker advancement. Workforce shares, headcount, wages, unit prices, market forecasts, order attribution, health effects, and industry trends remain source-scoped because the supplied file is a structured one-county episode summary without contracts, payroll records, clinical follow-up, customer confirmation, or a representative national sample. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,296 sources across 812 overview paragraphs and nine topics.
+
 ## [2026-11-25] ingest | Strait draw: Iran’s hot war cools
 
 Added an [[EconomistPodcasts]] episode spanning [[IranUnstableStalemate]], [[PoliticallyConnectedBankingCrisis]], and [[AIReasoningProfanityFailure]]. Created a qualified profile for [[Vals]], then resynthesized [[Bangladesh]] and [[SheikhHasina]] from each page's complete preserved evidence inventory before appending the new source once.
@@ -43956,5 +43966,9 @@ The automatic `wiki/overview.md` was read for context and not manually rewritten
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,295 sources across 812 overview paragraphs and nine topics. Canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11823
+wiki_total_pages: 11829
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "CareSociology"
     title: "Care Sociology / 照护社会学"
     url: "/wiki/concepts/caresociology/"
+  - key: "CareCompatibleLocalEmployment"
+    title: "Care-Compatible Local Employment / 照护兼容型本地就业"
+    url: "/wiki/concepts/carecompatiblelocalemployment/"
   - key: "CareerAdviceSurvivorshipBias"
     title: "Career Advice Survivorship Bias"
     url: "/wiki/concepts/careeradvicesurvivorshipbias/"
@@ -2666,6 +2669,9 @@ wiki_pages:
   - key: "ContentEngineering"
     title: "Content Engineering"
     url: "/wiki/concepts/contentengineering/"
+  - key: "ContentModerationOccupationalHarm"
+    title: "Content Moderation Occupational Harm / 内容审核职业伤害"
+    url: "/wiki/concepts/contentmoderationoccupationalharm/"
   - key: "ContentPortfolioHardwareHedge"
     title: "Content Portfolio as Hardware-Cost Hedge"
     url: "/wiki/concepts/contentportfoliohardwarehedge/"

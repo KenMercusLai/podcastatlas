@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11823
+wiki_total_pages: 11829
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1760,6 +1760,9 @@ wiki_pages:
   - key: "AITrainingDataScarcity"
     title: "AI Training Data Scarcity"
     url: "/wiki/concepts/aitrainingdatascarcity/"
+  - key: "AITrainingLaborDisplacement"
+    title: "AI Training-Labor Displacement / AI训练劳动替代"
+    url: "/wiki/concepts/aitraininglabordisplacement/"
   - key: "AITranslation"
     title: "AI Translation"
     url: "/wiki/concepts/aitranslation/"
@@ -2120,6 +2123,9 @@ wiki_pages:
   - key: "AlgorithmicOpportunityDistribution"
     title: "Algorithmic Opportunity Distribution"
     url: "/wiki/concepts/algorithmicopportunitydistribution/"
+  - key: "AlgorithmicPieceRateControl"
+    title: "Algorithmic Piece-Rate Control / 算法化计件控制"
+    url: "/wiki/concepts/algorithmicpieceratecontrol/"
   - key: "AlgorithmicPredictionLoop"
     title: "Algorithmic Prediction Loop / 算法预判循环"
     url: "/wiki/concepts/algorithmicpredictionloop/"

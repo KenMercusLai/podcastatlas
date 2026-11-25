@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11823
+wiki_total_pages: 11829
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "ShortKingDatingData"
     title: "Short-King Dating Data"
     url: "/wiki/concepts/shortkingdatingdata/"
+  - key: "ShortLivedDigitalEmploymentEmpowerment"
+    title: "Short-Lived Digital Employment Empowerment / 短期数字就业赋能"
+    url: "/wiki/concepts/shortliveddigitalemploymentempowerment/"
   - key: "ShortShelfLifeRetailOperations"
     title: "Short-Shelf-Life Retail Operations / 短保零售运营"
     url: "/wiki/concepts/shortshelfliferetailoperations/"

@@ -6811,6 +6811,10 @@
     "title": "AI Training Data Scarcity",
     "url": "/wiki/concepts/aitrainingdatascarcity/"
   },
+  "AITrainingLaborDisplacement": {
+    "title": "AI Training-Labor Displacement / AI训练劳动替代",
+    "url": "/wiki/concepts/aitraininglabordisplacement/"
+  },
   "AITranslation": {
     "title": "AI Translation",
     "url": "/wiki/concepts/aitranslation/"
@@ -9510,6 +9514,10 @@
   "AlgorithmicOpportunityDistribution": {
     "title": "Algorithmic Opportunity Distribution",
     "url": "/wiki/concepts/algorithmicopportunitydistribution/"
+  },
+  "AlgorithmicPieceRateControl": {
+    "title": "Algorithmic Piece-Rate Control / 算法化计件控制",
+    "url": "/wiki/concepts/algorithmicpieceratecontrol/"
   },
   "AlgorithmicPredictionLoop": {
     "title": "Algorithmic Prediction Loop / 算法预判循环",
@@ -18831,6 +18839,10 @@
     "title": "Care Companion Program",
     "url": "/wiki/entities/carecompanionprogram/"
   },
+  "CareCompatibleLocalEmployment": {
+    "title": "Care-Compatible Local Employment / 照护兼容型本地就业",
+    "url": "/wiki/concepts/carecompatiblelocalemployment/"
+  },
   "CareRelationshipLaborAndBoundaries": {
     "title": "Care Relationship Labor And Boundaries / 照护关系的劳动与边界",
     "url": "/wiki/concepts/carerelationshiplaborandboundaries/"
@@ -24991,6 +25003,10 @@
     "title": "内容—笔迹归因 / Content-Handwriting Attribution",
     "url": "/wiki/concepts/contenthandwritingattribution/"
   },
+  "ContentModerationOccupationalHarm": {
+    "title": "Content Moderation Occupational Harm / 内容审核职业伤害",
+    "url": "/wiki/concepts/contentmoderationoccupationalharm/"
+  },
   "ContentOverMotiveRemonstrance": {
     "title": "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏",
     "url": "/wiki/concepts/contentovermotiveremonstrance/"
@@ -27854,6 +27870,10 @@
   "DataAgentGovernance": {
     "title": "Data Agent Governance",
     "url": "/wiki/concepts/dataagentgovernance/"
+  },
+  "DataAnnotationLabor": {
+    "title": "Data Annotation Labor / 数据标注劳动",
+    "url": "/wiki/concepts/dataannotationlabor/"
   },
   "DataAsEducation": {
     "title": "Data As Education",
@@ -89263,6 +89283,10 @@
     "title": "Short-King Dating Data",
     "url": "/wiki/concepts/shortkingdatingdata/"
   },
+  "ShortLivedDigitalEmploymentEmpowerment": {
+    "title": "Short-Lived Digital Employment Empowerment / 短期数字就业赋能",
+    "url": "/wiki/concepts/shortliveddigitalemploymentempowerment/"
+  },
   "ShortSelling": {
     "title": "Short Selling",
     "url": "/wiki/concepts/shortselling/"
@@ -108283,6 +108307,14 @@
     "title": "雍城 / Yongcheng (Qin)",
     "url": "/wiki/entities/yongchengqin/"
   },
+  "YongheAidoTechnology": {
+    "title": "永和爱豆科技 / Yonghe Aido Technology",
+    "url": "/wiki/entities/yongheaidotechnology/"
+  },
+  "YongheCounty": {
+    "title": "山西永和县 / Yonghe County",
+    "url": "/wiki/entities/yonghecounty/"
+  },
   "YonghuiSuperstores": {
     "title": "永辉超市 / Yonghui Superstores",
     "url": "/wiki/entities/yonghuisuperstores/"
@@ -115506,6 +115538,10 @@
   "fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b": {
     "title": "Fault lines: Venezuela's paltry earthquake response",
     "url": "/wiki/sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b/"
+  },
+  "fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282": {
+    "title": "AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？",
+    "url": "/wiki/sources/fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282/"
   },
   "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd": {
     "title": "Fear-jerker: America's AI backlash",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14884
+wiki_total_pages: 14886
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "YamamotoKazuoMyDateWithAVampire"
     title: "山本一夫 / Kazuo Yamamoto (My Date with a Vampire)"
     url: "/wiki/entities/yamamotokazuomydatewithavampire/"
+  - key: "YongheCounty"
+    title: "山西永和县 / Yonghe County"
+    url: "/wiki/entities/yonghecounty/"
   - key: "YueBuqunJinYong"
     title: "岳不群（金庸小说） / Yue Buqun (Jin Yong)"
     url: "/wiki/entities/yuebuqunjinyong/"
@@ -1013,6 +1016,9 @@ wiki_pages:
   - key: "YinTong"
     title: "殷通 / Yin Tong"
     url: "/wiki/entities/yintong/"
+  - key: "YongheAidoTechnology"
+    title: "永和爱豆科技 / Yonghe Aido Technology"
+    url: "/wiki/entities/yongheaidotechnology/"
   - key: "YongningAncientCity"
     title: "永宁古城 / Yongning Ancient City"
     url: "/wiki/entities/yongningancientcity/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11823
+wiki_total_pages: 11829
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "DataAgentGovernance"
     title: "Data Agent Governance"
     url: "/wiki/concepts/dataagentgovernance/"
+  - key: "DataAnnotationLabor"
+    title: "Data Annotation Labor / 数据标注劳动"
+    url: "/wiki/concepts/dataannotationlabor/"
   - key: "DataAsEducation"
     title: "Data As Education"
     url: "/wiki/concepts/dataaseducation/"

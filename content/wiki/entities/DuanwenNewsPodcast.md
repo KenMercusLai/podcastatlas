@@ -13,7 +13,8 @@ sources:
   - ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b
   - gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662
   - 5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281
-last_updated: 2026-11-23
+  - fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282
+last_updated: 2026-11-26
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
@@ -42,12 +43,14 @@ The October programming notice adds a network-level fact rather than a new repor
 
 The Taiwan long-term-care episode adds a social-policy and care-ethics branch. It moves from one dementia-care relationship and severe caregiver cases to [[LongTermCareSafetyNetAccess]], distinguishing nominal coverage from risk detection, referral, affordability, information, and sustained intervention. It also develops [[CaregiverAndCareRecipientRights]] by holding recipient agency and caregiver rest, health, work, and safety in the same frame.
 
+The Yonghe episode adds an AI-labor and regional-development branch. It follows mothers at [[YongheAidoTechnology|永和爱豆科技]] from the peak of accessible [[DataAnnotationLabor]] through [[AlgorithmicPieceRateControl]], [[ContentModerationOccupationalHarm]], and [[AITrainingLaborDisplacement]]. Its governing distinction is that real short-term gains in income, dignity, and care-compatible schedules do not establish durable empowerment when task upgrading leaves workers without portable qualifications or a local transition path.
+
 ## Key Characteristics
 - Its episodes use reported journalism with named correspondents, interviewees, and explicit evidence boundaries.
 - It connects intimate or viral cases to legal, civic, ecological, technological, and institutional systems.
 - It can use first-person experimentation and contested-event reconstruction while separating visible evidence from unproven chronology, organization, or motive.
 - Its cross-border work compares institutions and lived consequences without treating incomplete access as complete proof.
-- Its technology reporting tests practical adoption against creator, user, language, and safety constraints.
+- Its technology reporting tests practical adoption against creator, user, language, safety, labor, and supply-chain constraints.
 - Its care reporting connects intimate family experience to assessment, service access, public capacity, and rights without reducing severe outcomes to one trigger.
 - Its current announced cadence is weekly on Wednesday plus alternating Friday publication with [[BuduanzhePodcast|《不端者》]].
 
@@ -58,13 +61,15 @@ The Taiwan long-term-care episode adds a social-policy and care-ethics branch. I
 - Technology under practical constraint: [[google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594]] separates disclosed partnership facts from AI-film strategy inference; [[ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b]] separates plausible speech from older patients' actual clinical comprehension.
 - Network cadence: [[gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662]] retains Wednesday publication and establishes alternating Friday releases with [[BuduanzhePodcast|《不端者》]].
 - Care systems and ethics: [[5d7d8ad7b9c62c381164824c1846eb4e-5d7d8ad7b9c62c381164824c1846eb4emp3aid6b03f50f13d6134378f7dbc2chid66b07190af99592281]] links dementia-care experience and severe incidents to assessment alerts, service understanding, co-payments, family withdrawal, caregiver rights, and recipient agency.
+- AI labor and development: [[fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282]] joins county women's employment gains to metric control, hazardous review, task automation, skill upgrading, and weak post-project mobility.
 
 ## Qualifications
-The wiki has ten source notes in this profile, one of which is only a programming announcement. Broader claims about ownership, audience, or a definitive long-term editorial line remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete chronology or coordinated organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, and no technical basis for claiming bilateral sharing would have predicted the collapse. The A24 episode does not independently verify confidential plans or Google's motive, and the Taiwanese AI episode uses only two older-listener tests. The long-term-care episode uses severe cases and reported figures that cannot establish population-level causality, regional service performance, or individualized risk. The launch notice does not contain the advertised 《不端者》 interview and therefore supports no substantive conclusion about its book or topic.
+The wiki has eleven source notes in this profile, one of which is only a programming announcement. Broader claims about ownership, audience, or a definitive long-term editorial line remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete chronology or coordinated organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, and no technical basis for claiming bilateral sharing would have predicted the collapse. The A24 episode does not independently verify confidential plans or Google's motive, and the Taiwanese AI episode uses only two older-listener tests. The long-term-care episode uses severe cases and reported figures that cannot establish population-level causality, regional service performance, or individualized risk. The Yonghe episode is a one-county report whose workforce shares, market forecasts, wage figures, unit prices, and industry trajectory are not independently verified here. The launch notice does not contain the advertised 《不端者》 interview and therefore supports no substantive conclusion about its book or topic.
 
 ## What Changed
-- Added social-policy reporting that tests long-term-care coverage against actual safety-net access.
-- Added a two-sided care-rights frame joining recipient agency with caregiver sustainability.
+- Added AI supply-chain labor reporting that makes county women visible behind apparently automated products.
+- Added a durability test separating temporary employment gains from transferable capability and protected transition.
+- Added the coexistence of aggregate market growth with local and worker-level displacement.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -101,3 +106,7 @@ The wiki has ten source notes in this profile, one of which is only a programmin
 - [[FengZheyun]] - first guest announced through the network programming notice.
 - [[LongTermCareSafetyNetAccess]] - care-system access distinction developed through the Taiwan cases.
 - [[CaregiverAndCareRecipientRights]] - care-ethics relationship joining agency, dignity, rest, health, and work.
+- [[YongheCounty]] - county labor-market subject in the data-annotation episode.
+- [[YongheAidoTechnology]] - employer examined through growth, labor control, and contraction.
+- [[DataAnnotationLabor]] - hidden AI-production labor relationship.
+- [[ShortLivedDigitalEmploymentEmpowerment]] - development-claim qualification developed through the county case.

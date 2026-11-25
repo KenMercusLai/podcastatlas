@@ -12377,6 +12377,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AITrainingLaborDisplacement": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AITranslation": [
     {
       "key": "technology",
@@ -31223,6 +31230,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DataAnnotationLabor": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DataAsEducation": [
@@ -86900,6 +86914,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ShortLivedDigitalEmploymentEmpowerment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ShortSelling": [
     {
       "key": "economics",
@@ -105085,6 +105106,13 @@
       "url": "/topics/history/"
     }
   ],
+  "YongheAidoTechnology": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "YongleDadian": [
     {
       "key": "culture",
@@ -112282,6 +112310,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd": [

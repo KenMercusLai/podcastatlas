@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3936
+topic_total_pages: 3941
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1114,6 +1114,9 @@ topic_concepts:
   - key: "AITrainingDataScarcity"
     title: "AI Training Data Scarcity"
     url: "/wiki/concepts/aitrainingdatascarcity/"
+  - key: "AITrainingLaborDisplacement"
+    title: "AI Training-Labor Displacement / AI训练劳动替代"
+    url: "/wiki/concepts/aitraininglabordisplacement/"
   - key: "AITranslation"
     title: "AI Translation"
     url: "/wiki/concepts/aitranslation/"
@@ -1990,6 +1993,9 @@ topic_concepts:
   - key: "DataAgentGovernance"
     title: "Data Agent Governance"
     url: "/wiki/concepts/dataagentgovernance/"
+  - key: "DataAnnotationLabor"
+    title: "Data Annotation Labor / 数据标注劳动"
+    url: "/wiki/concepts/dataannotationlabor/"
   - key: "DataAsEducation"
     title: "Data As Education"
     url: "/wiki/concepts/dataaseducation/"
@@ -4741,6 +4747,9 @@ topic_concepts:
   - key: "ShortKingDatingData"
     title: "Short-King Dating Data"
     url: "/wiki/concepts/shortkingdatingdata/"
+  - key: "ShortLivedDigitalEmploymentEmpowerment"
+    title: "Short-Lived Digital Employment Empowerment / 短期数字就业赋能"
+    url: "/wiki/concepts/shortliveddigitalemploymentempowerment/"
   - key: "SidewalkDeliveryRobots"
     title: "Sidewalk Delivery Robots"
     url: "/wiki/concepts/sidewalkdeliveryrobots/"
@@ -9518,6 +9527,9 @@ topic_entities:
   - key: "Mengqi"
     title: "梦琪 / Mengqi"
     url: "/wiki/entities/mengqi/"
+  - key: "YongheAidoTechnology"
+    title: "永和爱豆科技 / Yonghe Aido Technology"
+    url: "/wiki/entities/yongheaidotechnology/"
   - key: "HanqingUrey"
     title: "汗青 / Hanqing"
     url: "/wiki/entities/hanqingurey/"
@@ -10110,6 +10122,9 @@ topic_sources:
   - key: "tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128"
     title: "AI-powered workplace tools keep tabs on employees"
     url: "/wiki/sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128/"
+  - key: "fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282"
+    title: "AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？"
+    url: "/wiki/sources/fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282/"
   - key: "ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b"
     title: "AI講台語，長輩為何有聽沒有懂？"
     url: "/wiki/sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b/"

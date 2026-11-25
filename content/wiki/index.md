@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？](sources/fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282.md) — 端聞追踪山西永和县“宝妈”标注工的就业收益、计件控制、内容审核伤害，以及基础任务自动化后的地方性失业。
 - [Why Silicon Valley can’t let go of its superstar CEOs](sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128.md) — Marketplace Tech on founder indispensability, venture-network amplification, succession risk, and public-company accountability.
 - [Why Is It So Hard (and Expensive) to Build Anything in America? (Update)](sources/default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951-default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951.md) — Freakonomics Radio on construction-productivity stagnation, fragmented incentives, land-use constraints, and the institutional requirements for modular building.
 - [Strait draw: Iran’s hot war cools](sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4.md) — Economist Podcasts on Iran’s unstable stalemate, Bangladesh’s connected-lending banking crisis, and profanity as a failure correlate in hidden AI reasoning.
@@ -5429,6 +5430,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [山西永和县 / Yonghe County](entities/YongheCounty.md) — Basic AI annotation briefly expanded local employment, but the small county could not retain demand as tasks required specialist graduate cohorts.
+- [永和爱豆科技 / Yonghe Aido Technology](entities/YongheAidoTechnology.md) — County annotation employer whose rapid growth, tightly measured work, hazardous review, and contraction anchor the episode.
 - [David Karp](entities/DavidKarp.md) — George Washington University professor analyzing founder culture, venture networks, succession, and board accountability.
 - [California Forever](entities/CaliforniaForever.md) — Contested investor-backed proposed city testing large-scale housing delivery under local political constraints.
 - [Chad Syverson](entities/ChadSyverson.md) — Economist using long-run evidence and input comparisons to diagnose construction productivity stagnation.
@@ -20415,6 +20418,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Data Annotation Labor / 数据标注劳动](concepts/DataAnnotationLabor.md) — Human labeling, transcription, classification, and checking work behind machine-learning systems.
+- [Algorithmic Piece-Rate Control / 算法化计件控制](concepts/AlgorithmicPieceRateControl.md) — Work regime combining per-item pay with target speed, accuracy gates, comparison, and retraining.
+- [Content Moderation Occupational Harm / 内容审核职业伤害](concepts/ContentModerationOccupationalHarm.md) — Physical and psychological burden from repeated disturbing-content review under production targets.
+- [AI Training-Labor Displacement / AI训练劳动替代](concepts/AITrainingLaborDisplacement.md) — Feedback loop in which training work helps automate parts of later training work.
+- [Care-Compatible Local Employment / 照护兼容型本地就业](concepts/CareCompatibleLocalEmployment.md) — Work whose location and schedule allow continued responsibility for children or other dependents.
+- [Short-Lived Digital Employment Empowerment / 短期数字就业赋能](concepts/ShortLivedDigitalEmploymentEmpowerment.md) — Short-term technology-job gains that do not become portable skills, credentials, or protected transition capacity.
 - [Founder Indispensability Myth](concepts/FounderIndispensabilityMyth.md) — Belief that one founder is inseparable from company value, reinforced by real capability, capital networks, narrative, and weak succession design.
 - [Construction Productivity Stagnation](concepts/ConstructionProductivityStagnation.md) — Multi-causal account of flat or declining construction output per worker under fragmented projects, regulation, complexity, and risk.
 - [Modular Construction Scaling](concepts/ModularConstructionScaling.md) — Transition from isolated factory-built projects to a durable ecosystem of demand, codes, finance, factories, skills, and local installation.
