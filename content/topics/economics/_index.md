@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2427
+topic_total_pages: 2428
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -187,6 +187,9 @@ topic_concepts:
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  - key: "AIInfrastructureTimeMismatch"
+    title: "AI Infrastructure Time Mismatch"
+    url: "/wiki/concepts/aiinfrastructuretimemismatch/"
   - key: "AIInvestmentDemandConcentration"
     title: "AI Investment Demand Concentration"
     url: "/wiki/concepts/aiinvestmentdemandconcentration/"

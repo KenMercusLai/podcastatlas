@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62.md) — 硅谷101以CoreWeave为核心，拆解AI数据中心的资产期限、通电延迟、债务优先级、担保、私募信贷与建设到现金流的时间错配。
 - [EP395-AI漫剧的天量风口，究竟是谁拿到了大结果？](sources/gkwrirwo23ybaabwuwuauyns-gkwrirwo23ybaabwuwuauyns.md) — 无时差研究所访谈Mia，以精品剧收入集中、一键流亏损、制作成本与算力占比、平台分账下降、海外试验和真人影视就业冲击拆解AI漫剧竞争。
 - [Entangled Intelligences: Intelligence Across Cells, Species, Machines, and Futures](sources/02026-entangled-intelligences-podcast-02026-entangled-intelligences-podcast.md) — Long Now event on uncertainty, cellular agency, causal lineage, unfamiliar minds, animal translation, uplift, and multispecies politics.
 - [CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem](sources/88-audio-geoge-kurtz-int-88-audio-geoge-kurtz-int.md) — All-In interview with George Kurtz on autonomous cyberattacks, AI-enabled exploit chains, break-or-breach patching, open-weight models, session theft, and fraudulent remote employees.
@@ -20400,6 +20401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [AI Infrastructure Time Mismatch](concepts/AIInfrastructureTimeMismatch.md) — Gap between upfront data-center spending and delayed energization, deployment, and customer cash flow.
 - [AI Short Drama Boutique Strategy / AI漫剧精品化策略](concepts/AIShortDramaBoutiqueStrategy.md) — 以剧本、资产设计、专业分工、多模型协作和后期质量替代最低人力成本竞争的AI漫剧策略。
 - [Intelligence Under Uncertainty](concepts/IntelligenceUnderUncertainty.md) — Capacity to sense, remember, coordinate, act, learn, and revise without complete knowledge.
 - [Collective Biological Agency](concepts/CollectiveBiologicalAgency.md) — Coordinated adaptive problem-solving across cells, organisms, and biological groups without implying human-like consciousness.

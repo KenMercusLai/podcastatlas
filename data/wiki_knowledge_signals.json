@@ -2891,6 +2891,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aidatabrokerdemand/"
     },
+    "AIDataCenterPrivateCreditFinancing": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "161. 全球宏观和资本市场2026一季度复盘与展望 [lgZjnsGkur1mcrMkqqxSvXHZB0bm].md",
+          "key": "161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm",
+          "show": "起朱楼宴宾客",
+          "title": "161. 全球宏观和资本市场2026一季度复盘与展望",
+          "url": "/wiki/sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm/"
+        },
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？ [nlAHYbjWcrIMit8DfF7YhZPbUpm1].md",
+          "key": "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1",
+          "show": "起朱楼宴宾客",
+          "title": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？",
+          "url": "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+        },
+        {
+          "episode_file": "34b5fd41-4431-485c-98e6-c8a7008b2d62 [34b5fd41-4431-485c-98e6-c8a7008b2d62].md",
+          "key": "e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62",
+          "show": "硅谷101",
+          "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+          "url": "/wiki/sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/aidatacenterprivatecreditfinancing/"
+    },
     "AIDataCenterSiteSelection": {
       "episode_count": 1,
       "show_count": 1,
@@ -3722,9 +3759,9 @@
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
     "AIFinancingReflexivity": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lt6yTc8uTffpeS_crF7i-RmxFXzp [lt6yTc8uTffpeS_crF7i-RmxFXzp].md",
@@ -3739,9 +3776,16 @@
           "show": "Marketplace Tech",
           "title": "Nvidia’s leadership shakeup could reshape the AI industry",
           "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "34b5fd41-4431-485c-98e6-c8a7008b2d62 [34b5fd41-4431-485c-98e6-c8a7008b2d62].md",
+          "key": "e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62",
+          "show": "硅谷101",
+          "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+          "url": "/wiki/sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/aifinancingreflexivity/"
     },
     "AIFirmPowerAssetControl": {
@@ -4746,6 +4790,22 @@
       ],
       "updated": "2026-11-20",
       "url": "/wiki/concepts/aiinfrastructurelabordemand/"
+    },
+    "AIInfrastructureTimeMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "34b5fd41-4431-485c-98e6-c8a7008b2d62 [34b5fd41-4431-485c-98e6-c8a7008b2d62].md",
+          "key": "e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62",
+          "show": "硅谷101",
+          "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+          "url": "/wiki/sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62/"
+        }
+      ],
+      "updated": "2026-11-25",
+      "url": "/wiki/concepts/aiinfrastructuretimemismatch/"
     },
     "AIInsuranceDataScarcity": {
       "episode_count": 1,
@@ -70454,9 +70514,9 @@
       "url": "/wiki/concepts/coretribepositioning/"
     },
     "CoreWeave": {
-      "episode_count": 8,
-      "show_count": 4,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 5,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -70513,9 +70573,16 @@
           "show": "Marketplace Tech",
           "title": "Nvidia’s leadership shakeup could reshape the AI industry",
           "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "34b5fd41-4431-485c-98e6-c8a7008b2d62 [34b5fd41-4431-485c-98e6-c8a7008b2d62].md",
+          "key": "e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62",
+          "show": "硅谷101",
+          "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+          "url": "/wiki/sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-25",
       "url": "/wiki/entities/coreweave/"
     },
     "CorgiAIInsurance": {
@@ -126683,9 +126750,9 @@
       "url": "/wiki/entities/gpt55cyber/"
     },
     "GPUComputeAssetBackedFinancing": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -126721,9 +126788,16 @@
           "show": "Economist Podcasts",
           "title": "Transchipment: Huang and the AI aftershocks",
           "url": "/wiki/sources/541118afcfad8094b17b81a7ebe4b18c-541118afcfad8094b17b81a7ebe4b18cmp3aid6afc30ca27224dadceb682eechid-d556eb54-6160-4-281/"
+        },
+        {
+          "episode_file": "34b5fd41-4431-485c-98e6-c8a7008b2d62 [34b5fd41-4431-485c-98e6-c8a7008b2d62].md",
+          "key": "e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62",
+          "show": "硅谷101",
+          "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+          "url": "/wiki/sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-25",
       "url": "/wiki/concepts/gpucomputeassetbackedfinancing/"
     },
     "GPUSpotMarketTrustFriction": {

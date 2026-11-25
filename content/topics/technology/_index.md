@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3931
+topic_total_pages: 3932
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -703,6 +703,9 @@ topic_concepts:
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  - key: "AIInfrastructureTimeMismatch"
+    title: "AI Infrastructure Time Mismatch"
+    url: "/wiki/concepts/aiinfrastructuretimemismatch/"
   - key: "AIInsuranceDataScarcity"
     title: "AI Insurance Data Scarcity"
     url: "/wiki/concepts/aiinsurancedatascarcity/"

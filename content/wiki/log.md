@@ -43883,3 +43883,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-25] ingest | E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场
+
+Added the [[SiliconValley101|硅谷101]] episode on [[Nvidia]], [[CoreWeave]], [[NeoCloud|neocloud]] credit, data-center asset layers, grid connection, debt priority, guarantees, private credit, and the difference between long-run compute demand and short-run borrower survival.
+
+Created [[AIInfrastructureTimeMismatch]] to capture the construction-to-cash gap: land, power access, facilities, chips, and servers have different lives, while permitting, equipment, labor, or interconnection delay can leave debt service running before customer billing begins. Resynthesized [[CoreWeave]], [[AIFinancingReflexivity]], and [[GPUComputeAssetBackedFinancing]] from their complete preserved evidence inventories before appending the new source once. Migrated [[AIDataCenterPrivateCreditFinancing]] to `synthesis-v1` while preserving its prior source order and adding the project-stage distinction among bank lending, customized private credit, and post-commissioning long-term finance.
+
+No settled contradiction was adopted. Strong compute demand and backlog can coexist with cash-timing, creditor-priority, and refinancing stress. The reported Huang return updates the board-refusal state described at recording time, while differing off-balance-sheet totals are preserved as source-scoped estimates with different reported coverage. Bond, backlog, rate, issuance, guarantee, grid, equipment, and policy claims remain episode-attributed because the supplied file is a structured summary rather than primary filings, contracts, regulatory records, or a transcript.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,291 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

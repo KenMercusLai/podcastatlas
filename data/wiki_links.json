@@ -6175,6 +6175,10 @@
     "title": "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应",
     "url": "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
   },
+  "AIInfrastructureTimeMismatch": {
+    "title": "AI Infrastructure Time Mismatch",
+    "url": "/wiki/concepts/aiinfrastructuretimemismatch/"
+  },
   "AIInsuranceDataScarcity": {
     "title": "AI Insurance Data Scarcity",
     "url": "/wiki/concepts/aiinsurancedatascarcity/"
@@ -113982,6 +113986,10 @@
   "e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1": {
     "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
     "url": "/wiki/sources/e259-jixie-shenjiao-yu-fanrenxing-celve-huaerjie-lianghua-jutou-de-ai-zhilu-bc105fa7-23de-4c70-a338-6d70daf9aed1/"
+  },
+  "e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62": {
+    "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+    "url": "/wiki/sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",

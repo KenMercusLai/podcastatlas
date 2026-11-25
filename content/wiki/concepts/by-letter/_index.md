@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11812
+wiki_total_pages: 11813
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1319,6 +1319,9 @@ wiki_pages:
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  - key: "AIInfrastructureTimeMismatch"
+    title: "AI Infrastructure Time Mismatch"
+    url: "/wiki/concepts/aiinfrastructuretimemismatch/"
   - key: "AIInsuranceDataScarcity"
     title: "AI Insurance Data Scarcity"
     url: "/wiki/concepts/aiinsurancedatascarcity/"
