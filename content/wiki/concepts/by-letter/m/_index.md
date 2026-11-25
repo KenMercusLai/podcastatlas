@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11820
+wiki_total_pages: 11822
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "ModularAIDataCenters"
     title: "Modular AI Data Centers"
     url: "/wiki/concepts/modularaidatacenters/"
+  - key: "ModularConstructionScaling"
+    title: "Modular Construction Scaling"
+    url: "/wiki/concepts/modularconstructionscaling/"
   - key: "ModularCustomization"
     title: "Modular Customization / 模块化定制"
     url: "/wiki/concepts/modularcustomization/"

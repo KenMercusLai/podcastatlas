@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11820
+wiki_total_pages: 11822
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2564,6 +2564,9 @@ wiki_pages:
   - key: "ConstructionCarbonCompliance"
     title: "Construction Carbon Compliance"
     url: "/wiki/concepts/constructioncarboncompliance/"
+  - key: "ConstructionProductivityStagnation"
+    title: "Construction Productivity Stagnation"
+    url: "/wiki/concepts/constructionproductivitystagnation/"
   - key: "ConstructiveDissent"
     title: "Constructive Dissent / 建设性异议"
     url: "/wiki/concepts/constructivedissent/"

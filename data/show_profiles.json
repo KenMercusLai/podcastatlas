@@ -501,10 +501,17 @@
       "earliest_episode_date": "2026-11-13",
       "latest_episode_date": "2026-11-25",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_76efcd195d1b26a4faab0a64b31c1972_52966951 [default.mp3_ywr3ahjkcgo_76efcd195d1b26a4faab0a64b31c1972_52966951].md",
-      "source_note_count": 2,
+      "source_note_count": 3,
       "topic_matched_source_note_count": 0,
       "topics": [],
       "entities": [
+        {
+          "key": "EdGlaeser",
+          "title": "Ed Glaeser",
+          "url": "/wiki/entities/edglaeser/",
+          "kind": "person",
+          "episode_count": 2
+        },
         {
           "key": "LymanStone",
           "title": "Lyman Stone",

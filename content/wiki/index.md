@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why Is It So Hard (and Expensive) to Build Anything in America? (Update)](sources/default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951-default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951.md) — Freakonomics Radio on construction-productivity stagnation, fragmented incentives, land-use constraints, and the institutional requirements for modular building.
 - [Strait draw: Iran’s hot war cools](sources/strait-draw-irans-hot-war-cools-a9cfdd53e637fbdfdb684cf03b8222f4.md) — Economist Podcasts on Iran’s unstable stalemate, Bangladesh’s connected-lending banking crisis, and profanity as a failure correlate in hidden AI reasoning.
 - [How to steal a truckload of bourbon and not get caught](sources/default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356-default-mp3-ywr3ahjkcgo-b8f7b496cd7337e614f9c50ae34981a8-27045356.md) — Planet Money connects turkey and bourbon thefts to freight identity compromise, organized logistics crime, security tradeoffs, and cost pass-through.
 - [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](sources/e260-huangrenxun-guilai-zhiji-shenliao-yingweida-coreweave-he-suanli-xinyong-shichang-34b5fd41-4431-485c-98e6-c8a7008b2d62.md) — 硅谷101以CoreWeave为核心，拆解AI数据中心的资产期限、通电延迟、债务优先级、担保、私募信贷与建设到现金流的时间错配。
@@ -5427,6 +5428,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 ## Entities
+- [California Forever](entities/CaliforniaForever.md) — Contested investor-backed proposed city testing large-scale housing delivery under local political constraints.
+- [Chad Syverson](entities/ChadSyverson.md) — Economist using long-run evidence and input comparisons to diagnose construction productivity stagnation.
+- [Katerra](entities/Katerra.md) — Failed vertically integrated construction company whose experiments may have left skills and factory capacity behind.
+- [Operation Breakthrough](entities/OperationBreakthrough.md) — Federal industrialized-housing program illustrating how interrupted support can dissipate production-system learning.
+- [Volumetric Building Companies](entities/VolumetricBuildingCompanies.md) — Modular-construction company demonstrating factory-built rooms and high-rise volumetric delivery.
 - [Vals](entities/Vals.md) — AI analysis firm named as the source of the episode’s cross-model hidden-reasoning profanity assessment.
 - [A21 Wine and Spirits](entities/A21WineAndSpirits.md) — Company whose stolen Noble Oak shipment illustrates replacement-production and tracker limits.
 - [Noble Oak](entities/NobleOak.md) — Bourbon brand at the center of the episode's cyber-enabled freight theft case.
@@ -20407,6 +20413,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
 ## Concepts
+- [Construction Productivity Stagnation](concepts/ConstructionProductivityStagnation.md) — Multi-causal account of flat or declining construction output per worker under fragmented projects, regulation, complexity, and risk.
+- [Modular Construction Scaling](concepts/ModularConstructionScaling.md) — Transition from isolated factory-built projects to a durable ecosystem of demand, codes, finance, factories, skills, and local installation.
 - [Iran Unstable Stalemate](concepts/IranUnstableStalemate.md) — Pause in direct fighting that leaves blockade, nuclear, proxy, cyber, and political escalation pathways unresolved.
 - [Politically Connected Banking Crisis](concepts/PoliticallyConnectedBankingCrisis.md) — Connected lending and hidden losses freezing productive credit and forcing contested recapitalization.
 - [AI Reasoning Profanity Failure](concepts/AIReasoningProfanityFailure.md) — Episode-reported association between profanity in hidden model reasoning and failed task completion.

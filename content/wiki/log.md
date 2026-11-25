@@ -43927,3 +43927,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-25] ingest | Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
+
+Added the [[FreakonomicsRadio]] episode on five decades of weak U.S. construction productivity and the potential and limits of modular building. Created source-bounded profiles for [[ChadSyverson]], [[VolumetricBuildingCompanies]], [[Katerra]], [[OperationBreakthrough]], and [[CaliforniaForever]], plus [[ConstructionProductivityStagnation]] and [[ModularConstructionScaling]].
+
+Resynthesized [[FreakonomicsRadio]] and [[EdGlaeser]] from their complete preserved evidence inventories before appending the new source once. The update distinguishes raw productivity decline from roughly flat quality-adjusted housing output and treats land use, project scale, fragmented contracts, duplicated information, public voice, building complexity, safety risk, and research capacity as interacting mechanisms rather than one explanation.
+
+No settled contradiction was adopted. Regulation and citizen participation can create public value as well as delay; Katerra's bankruptcy does not disprove modular feasibility; and successful towers do not establish universal cost or lifecycle advantages. Productivity, market-share, schedule, emissions, parcel, establishment, workforce, project, and policy claims remain episode-attributed because the supplied file is a structured summary rather than underlying studies, audits, administrative records, contracts, or a full transcript.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic; the age gate required global compaction. Refreshed artifacts validate 5,294 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-11-23
-as_of_overview_commit: 3c44c9f24f6e608412784c7daef6d3465f1a0248
+as_of_overview_commit: 174f47b95bcce89ded6f7f7e10b60b51c601c0c6
 summary: "Podcast Atlas connects technology, markets, institutions, culture, history, health, and work through evidence, context, implementation, and human judgment."
-episode_count: 5286
-source_count: 5286
+episode_count: 5294
+source_count: 5294
 paragraph_count: 812
 topic_count: 9
 ---

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14878
+wiki_total_pages: 14883
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "CaliforniaFAIRPlan"
     title: "California FAIR Plan"
     url: "/wiki/entities/californiafairplan/"
+  - key: "CaliforniaForever"
+    title: "California Forever"
+    url: "/wiki/entities/californiaforever/"
   - key: "CaliforniaHighSpeedRail"
     title: "California High-Speed Rail"
     url: "/wiki/entities/californiahighspeedrail/"
@@ -635,6 +638,9 @@ wiki_pages:
   - key: "CFBGroup"
     title: "CFB Group / CFB 集团"
     url: "/wiki/entities/cfbgroup/"
+  - key: "ChadSyverson"
+    title: "Chad Syverson"
+    url: "/wiki/entities/chadsyverson/"
   - key: "Chagee"
     title: "Chagee / 霸王茶姬"
     url: "/wiki/entities/chagee/"

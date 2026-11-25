@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 14878
+wiki_total_pages: 14883
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "Voltaire"
     title: "Voltaire / 伏尔泰"
     url: "/wiki/entities/voltaire/"
+  - key: "VolumetricBuildingCompanies"
+    title: "Volumetric Building Companies"
+    url: "/wiki/entities/volumetricbuildingcompanies/"
   - key: "VOO"
     title: "VOO / Vanguard S&P 500 ETF"
     url: "/wiki/entities/voo/"

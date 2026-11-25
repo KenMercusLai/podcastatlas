@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 14878
+wiki_total_pages: 14883
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "OperationBlueSkies"
     title: "Operation Blue Skies"
     url: "/wiki/entities/operationblueskies/"
+  - key: "OperationBreakthrough"
+    title: "Operation Breakthrough"
+    url: "/wiki/entities/operationbreakthrough/"
   - key: "OperationCeasefireBoston"
     title: "Operation Ceasefire (Boston)"
     url: "/wiki/entities/operationceasefireboston/"
