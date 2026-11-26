@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 14903
+wiki_total_pages: 14904
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "BradenResidencyFounder"
     title: "Braden (The Residency founder)"
     url: "/wiki/entities/bradenresidencyfounder/"
+  - key: "BradyBricknerWood"
+    title: "Brady Brickner-Wood"
+    url: "/wiki/entities/bradybricknerwood/"
   - key: "BrahimGhali"
     title: "Brahim Ghali"
     url: "/wiki/entities/brahimghali/"

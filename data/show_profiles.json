@@ -824,14 +824,14 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-11-26",
       "latest_episode_file": "tech_20261126_1126_MP_TECH_pod_128 [tech_20261126_1126_MP_TECH_pod_128].md",
-      "source_note_count": 198,
-      "topic_matched_source_note_count": 151,
+      "source_note_count": 199,
+      "topic_matched_source_note_count": 152,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 128
+          "source_note_count": 129
         },
         {
           "key": "politics",
@@ -911,7 +911,7 @@
         }
       ],
       "start_here_episode_files": [
-        "tech_20261125_1125_MP_TECH_pod_128 [tech_20261125_1125_MP_TECH_pod_128].md",
+        "tech_20261126_1126_MP_TECH_pod_128 [tech_20261126_1126_MP_TECH_pod_128].md",
         "tech_20261124_1124_MP_TECH_pod_128 [tech_20261124_1124_MP_TECH_pod_128].md",
         "tech_20261123_1123_MP_TECH_pod_128 [tech_20261123_1123_MP_TECH_pod_128].md",
         "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md"

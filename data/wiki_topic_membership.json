@@ -10517,6 +10517,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIFoodAdvertising": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIForAI": [
     {
       "key": "technology",
@@ -21342,6 +21349,13 @@
     }
   ],
   "BradenResidencyFounder": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "BradyBricknerWood": [
     {
       "key": "technology",
       "label": "Technology",
@@ -117174,6 +117188,13 @@
     }
   ],
   "tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",

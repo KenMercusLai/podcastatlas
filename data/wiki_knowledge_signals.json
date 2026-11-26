@@ -3843,6 +3843,22 @@
       "updated": "2026-11-10",
       "url": "/wiki/concepts/aifirmpowerassetcontrol/"
     },
+    "AIFoodAdvertising": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261126_1126_MP_TECH_pod_128 [tech_20261126_1126_MP_TECH_pod_128].md",
+          "key": "tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI food slop is on the menu",
+          "url": "/wiki/sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/aifoodadvertising/"
+    },
     "AIForAI": {
       "episode_count": 4,
       "show_count": 4,
@@ -3939,9 +3955,9 @@
       "url": "/wiki/concepts/aiformath/"
     },
     "AIGeneratedAdvertising": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
@@ -3970,9 +3986,16 @@
           "show": "Tomorrow, Today",
           "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
+        },
+        {
+          "episode_file": "tech_20261126_1126_MP_TECH_pod_128 [tech_20261126_1126_MP_TECH_pod_128].md",
+          "key": "tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI food slop is on the menu",
+          "url": "/wiki/sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-12",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/aigeneratedadvertising/"
     },
     "AIGeneratedContentQualityGap": {
@@ -6710,6 +6733,71 @@
       ],
       "updated": "2026-11-25",
       "url": "/wiki/concepts/aishortdramasupplyglut/"
+    },
+    "AISlop": {
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "tech_20260813_0813_MP_TECH_pod_128 [tech_20260813_0813_MP_TECH_pod_128].md",
+          "key": "tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can Silicon Valley give AI good taste?",
+          "url": "/wiki/sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260810_0810_MP_TECH_pod_128 [tech_20260810_0810_MP_TECH_pod_128].md",
+          "key": "tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Substack CEO on the platform's new AI detector",
+          "url": "/wiki/sources/tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260714_TECH_pod_128 [tech_20260714_TECH_pod_128].md",
+          "key": "tech-20260714-tech-pod-128-tech-20260714-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Froggle, Goofstump and the fake AI companies winning hearts online",
+          "url": "/wiki/sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260320_0320_MP_TECH_pod_128 [tech_20260320_0320_MP_TECH_pod_128].md",
+          "key": "tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery",
+          "url": "/wiki/sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "02025-crawford-podcast-v3 [02025-crawford-podcast-v3].md",
+          "key": "kate-crawford-mapping-empires",
+          "show": "Long Now",
+          "title": "Kate Crawford: Mapping Empires",
+          "url": "/wiki/sources/kate-crawford-mapping-empires/"
+        },
+        {
+          "episode_file": "tech_20261126_1126_MP_TECH_pod_128 [tech_20261126_1126_MP_TECH_pod_128].md",
+          "key": "tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI food slop is on the menu",
+          "url": "/wiki/sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/aislop/"
     },
     "AISnowlineWorkBoundary": {
       "episode_count": 1,
@@ -40127,6 +40215,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/bradgerstner/"
+    },
+    "BradyBricknerWood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261126_1126_MP_TECH_pod_128 [tech_20261126_1126_MP_TECH_pod_128].md",
+          "key": "tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI food slop is on the menu",
+          "url": "/wiki/sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/bradybricknerwood/"
     },
     "BrainBodyEmotionMapping": {
       "episode_count": 11,

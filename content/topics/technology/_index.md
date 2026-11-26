@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3942
+topic_total_pages: 3945
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -574,6 +574,9 @@ topic_concepts:
   - key: "AIFitnessCoaching"
     title: "AI Fitness Coaching"
     url: "/wiki/concepts/aifitnesscoaching/"
+  - key: "AIFoodAdvertising"
+    title: "AI Food Advertising"
+    url: "/wiki/concepts/aifoodadvertising/"
   - key: "AIForAI"
     title: "AI For AI"
     url: "/wiki/concepts/aiforai/"
@@ -5990,6 +5993,9 @@ topic_entities:
   - key: "BradenResidencyFounder"
     title: "Braden (The Residency founder)"
     url: "/wiki/entities/bradenresidencyfounder/"
+  - key: "BradyBricknerWood"
+    title: "Brady Brickner-Wood"
+    url: "/wiki/entities/bradybricknerwood/"
   - key: "BrainHQ"
     title: "BrainHQ"
     url: "/wiki/entities/brainhq/"
@@ -10053,6 +10059,9 @@ topic_sources:
   - key: "tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128"
     title: "AI firms are going back on their safety promises"
     url: "/wiki/sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128/"
+  - key: "tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128"
+    title: "AI food slop is on the menu"
+    url: "/wiki/sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128/"
   - key: "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128"
     title: "AI in banking: the good, the bad, and the efficient"
     url: "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"

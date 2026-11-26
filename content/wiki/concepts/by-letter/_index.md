@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11847
+wiki_total_pages: 11848
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "AIFitnessCoaching"
     title: "AI Fitness Coaching"
     url: "/wiki/concepts/aifitnesscoaching/"
+  - key: "AIFoodAdvertising"
+    title: "AI Food Advertising"
+    url: "/wiki/concepts/aifoodadvertising/"
   - key: "AIForAI"
     title: "AI For AI"
     url: "/wiki/concepts/aiforai/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI food slop is on the menu](sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128.md) — Marketplace Tech and Brady Brickner-Wood on uncanny generated food, small-business advertising constraints, embodied appetite, and novelty decay.
 - [Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss](sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771.md) — Huberman Lab Essentials on edge-case discovery, self-experimentation, service-first networking, reciprocal mentorship, annual review, and bounded disclosure of severe personal pain.
 - [A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit](sources/a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks.md) — Laurie Rogers Stokes reconstructs Puritan institutions and everyday life while preserving religious coercion, patriarchy, Indigenous dispossession, enslavement, and war.
 - [726. The Death of Captain Cook: Massacre on the Beach (Part 2)](sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115.md) — The Rest Is History reconstructs Cook's Hawaiian reception, failed Arctic mission, unexpected return, attempted royal hostage-taking, death, and contested Lono and martyr interpretations.
@@ -5437,6 +5438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目](sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a.md) — 声东击西对话人类学家钟淑如，从海南田野调查解释菜市场如何连接小农、摊贩、地方食物、消费者知识与社区治理。
 
 ## Entities
+- [Brady Brickner-Wood](entities/BradyBricknerWood.md) — Cultural critic distinguishing appetite-oriented photographic craft from uncanny, purpose-defeating AI food imagery.
 - [Laurie Rogers Stokes](entities/LaurieRogersStokes.md) — Historian using institutional and everyday records to complicate Puritan stereotypes without minimizing colonial violence.
 - [Puritans](entities/Puritans.md) — English Protestant reformers whose Massachusetts commonwealth joined congregational self-government to bounded liberty and settler-colonial coercion.
 - [Massachusetts Bay Colony](entities/MassachusettsBayColony.md) — Charter-based Puritan colony combining towns, representation, literacy, written law, conformity, and Indigenous dispossession.
@@ -20445,6 +20447,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
+- [AI Food Advertising](concepts/AIFoodAdvertising.md) — Generated restaurant imagery whose success depends on appetite, sensory credibility, product evidence, and human review rather than photorealism alone.
 - [Service-First Networking](concepts/ServiceFirstNetworking.md) — Builds professional trust through useful contribution, reliability, selective depth, and non-entitlement.
 - [Reciprocal Mentorship](concepts/ReciprocalMentorship.md) — Frames mentorship as mutual, trait-specific, and sometimes bounded paid guidance rather than indefinite one-way obligation.
 - [Turning Pain into Service](concepts/PainIntoService.md) — Uses lived suffering to offer recognition or help while preserving readiness, protection, and the right not to disclose.
