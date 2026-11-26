@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11830
+wiki_total_pages: 11833
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1259,6 +1259,9 @@ wiki_pages:
   - key: "MissionAlignedRescueCapital"
     title: "Mission-Aligned Rescue Capital"
     url: "/wiki/concepts/missionalignedrescuecapital/"
+  - key: "MissionAlignedRevenueModel"
+    title: "Mission-Aligned Revenue Model"
+    url: "/wiki/concepts/missionalignedrevenuemodel/"
   - key: "MissionAlignedVendorSwitching"
     title: "Mission-Aligned Vendor Switching"
     url: "/wiki/concepts/missionalignedvendorswitching/"

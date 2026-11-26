@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11830
-- Entities: 14889
-- Sources: 5297
-- Total wiki content pages: 32017
+- Concepts: 11833
+- Entities: 14894
+- Sources: 5298
+- Total wiki content pages: 32026
 
 ## Links
-- Wiki link references: 713532
-- Unique wiki link targets: 32062
-- Missing targets: 59
+- Wiki link references: 713665
+- Unique wiki link targets: 32070
+- Missing targets: 58
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 5297
-- Matched episodes: 5297
+- Source pages: 5298
+- Matched episodes: 5298
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -155,8 +155,5 @@ outputs: ["html"]
   - `content/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md`
 - `[[Weibo]]`
   - `content/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn.md`
-- `[[Wikipedia]]`
-  - `content/wiki/log.md`
-  - `content/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128.md`
 
 All wiki source pages resolve to episode pages.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3613
+topic_total_pages: 3615
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1354,6 +1354,9 @@ topic_concepts:
   - key: "DistributedTechnologyResponsibility"
     title: "Distributed Technology Responsibility / 分布式技术责任"
     url: "/wiki/concepts/distributedtechnologyresponsibility/"
+  - key: "DistributedVolunteerGovernance"
+    title: "Distributed Volunteer Governance"
+    url: "/wiki/concepts/distributedvolunteergovernance/"
   - key: "DividedGovernmentExecutiveConstraint"
     title: "Divided Government Executive Constraint"
     url: "/wiki/concepts/dividedgovernmentexecutiveconstraint/"
@@ -2908,6 +2911,9 @@ topic_concepts:
   - key: "MinnanRitualNetwork"
     title: "Minnan Ritual Network / 闽南仪式网络"
     url: "/wiki/concepts/minnanritualnetwork/"
+  - key: "MissionAlignedRevenueModel"
+    title: "Mission-Aligned Revenue Model"
+    url: "/wiki/concepts/missionalignedrevenuemodel/"
   - key: "MissionDrivenAcquisitionDecision"
     title: "Mission-Driven Acquisition Decision"
     url: "/wiki/concepts/missiondrivenacquisitiondecision/"

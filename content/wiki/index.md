@@ -5430,6 +5430,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [2026卓越新聞獎重溫｜台灣新法上路，社區支持能接住精神病患嗎？](sources/97a55906e72b40e89f4d9bf783c20ef4-97a55906e72b40e89f4d9bf783c20ef4.md) — 端聞以三十年家庭照顧經驗檢視思覺失調症污名、自傷風險、照顧者老化，以及台灣新版《精神衛生法》從法律承諾走向社區支持的落差。
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
+- [Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)](sources/vmp5702291377-vmp5702291377.md) — How I Built This interview on Wikipedia's low-barrier collaboration, volunteer governance, sourcing norms, nonprofit structure, and small-donor funding.
+
 ## Entities
 - [山西永和县 / Yonghe County](entities/YongheCounty.md) — Basic AI annotation briefly expanded local employment, but the small county could not retain demand as tasks required specialist graduate cohorts.
 - [永和爱豆科技 / Yonghe Aido Technology](entities/YongheAidoTechnology.md) — County annotation employer whose rapid growth, tightly measured work, hazardous review, and contraction anchor the episode.
@@ -20423,6 +20425,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marshall Sahlins](entities/MarshallSahlins.md) — Anthropologist whose Makahiki interpretation connects Cook's route, timing, symbols, and ceremonies to the return of Lono.
 - [Gananath Obeyesekere](entities/GananathObeyesekere.md) — Anthropologist whose colonial-projection critique disputes a simple literal reading of Cook as a Hawaiian god.
 
+- [Jimmy Wales](entities/JimmyWales.md) — Wikipedia founder connecting contribution design, volunteer leadership, and mission-protecting funding choices.
+- [Wikipedia](entities/Wikipedia.md) — Open encyclopedia sustained through low-barrier contribution, volunteer correction, nonprofit stewardship, and small donations.
+- [Nupedia](entities/Nupedia.md) — Expert-led free encyclopedia whose slow seven-stage review became the contrast case for Wikipedia.
+- [Bomis](entities/Bomis.md) — Early internet company that funded Nupedia and Wikipedia before the dot-com crash.
+- [Wikimedia Foundation](entities/WikimediaFoundation.md) — Nonprofit institutional layer associated with Wikipedia's small-donor model and public-knowledge mission.
+
 ## Concepts
 - [Data Annotation Labor / 数据标注劳动](concepts/DataAnnotationLabor.md) — Human labeling, transcription, classification, and checking work behind machine-learning systems.
 - [Algorithmic Piece-Rate Control / 算法化计件控制](concepts/AlgorithmicPieceRateControl.md) — Work regime combining per-item pay with target speed, accuracy gates, comparison, and retraining.
@@ -32373,5 +32381,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conceptual Identity and Direct Awareness](concepts/ConceptualIdentityAndDirectAwareness.md) — Distinguishes useful concepts, labels, and judgments from direct perception and the awareness in which mental representations appear.
 
 - [Cook–Lono Debate](concepts/CookLonoDebate.md) — Contested interpretation of whether Cook's Makahiki reception made him Lono, an exceptional chief, or a figure poorly captured by Western human-divine categories.
+
+- [Low-Barrier Collaborative Production](concepts/LowBarrierCollaborativeProduction.md) — Shared-work design where small useful contributions compound before a participant produces a finished work alone.
+- [Distributed Volunteer Governance](concepts/DistributedVolunteerGovernance.md) — Community monitoring, correction, rulemaking, and dispute response without ordinary managerial command.
+- [Mission-Aligned Revenue Model](concepts/MissionAlignedRevenueModel.md) — Funding design that keeps payer incentives and operating resilience compatible with institutional purpose.
 
 ## Syntheses

@@ -16267,6 +16267,10 @@
     "title": "Bomber Mafia Precision Doctrine",
     "url": "/wiki/concepts/bombermafiaprecisiondoctrine/"
   },
+  "Bomis": {
+    "title": "Bomis",
+    "url": "/wiki/entities/bomis/"
+  },
   "BonarLaw": {
     "title": "Bonar Law",
     "url": "/wiki/entities/bonarlaw/"
@@ -30402,6 +30406,10 @@
   "DistributedTechnologyResponsibility": {
     "title": "Distributed Technology Responsibility / 分布式技术责任",
     "url": "/wiki/concepts/distributedtechnologyresponsibility/"
+  },
+  "DistributedVolunteerGovernance": {
+    "title": "Distributed Volunteer Governance",
+    "url": "/wiki/concepts/distributedvolunteergovernance/"
   },
   "DistributionBeforeMonetization": {
     "title": "Distribution Before Monetization",
@@ -53603,6 +53611,10 @@
     "title": "金国威 / Jimmy Chin",
     "url": "/wiki/entities/jimmychin/"
   },
+  "JimmyWales": {
+    "title": "Jimmy Wales",
+    "url": "/wiki/entities/jimmywales/"
+  },
   "JimoDafu": {
     "title": "即墨大夫 / Jimo Dafu",
     "url": "/wiki/entities/jimodafu/"
@@ -62019,6 +62031,10 @@
     "title": "Low-Altitude Regulatory Risk",
     "url": "/wiki/concepts/lowaltituderegulatoryrisk/"
   },
+  "LowBarrierCollaborativeProduction": {
+    "title": "Low-Barrier Collaborative Production",
+    "url": "/wiki/concepts/lowbarriercollaborativeproduction/"
+  },
   "LowBudgetFootballClubCompetitiveness": {
     "title": "Low-Budget Football Club Competitiveness / 低预算足球俱乐部竞争力",
     "url": "/wiki/concepts/lowbudgetfootballclubcompetitiveness/"
@@ -67631,6 +67647,10 @@
     "title": "Mission-Aligned Rescue Capital",
     "url": "/wiki/concepts/missionalignedrescuecapital/"
   },
+  "MissionAlignedRevenueModel": {
+    "title": "Mission-Aligned Revenue Model",
+    "url": "/wiki/concepts/missionalignedrevenuemodel/"
+  },
   "MissionAlignedVendorSwitching": {
     "title": "Mission-Aligned Vendor Switching",
     "url": "/wiki/concepts/missionalignedvendorswitching/"
@@ -71810,6 +71830,10 @@
   "NuolandaoTransgenderGuest": {
     "title": "诺兰道 / Nuolandao (transgender guest)",
     "url": "/wiki/entities/nuolandaotransgenderguest/"
+  },
+  "Nupedia": {
+    "title": "Nupedia",
+    "url": "/wiki/entities/nupedia/"
   },
   "NurembergLaws": {
     "title": "Nuremberg Laws",
@@ -104191,6 +104215,14 @@
     "title": "Wife of Bath",
     "url": "/wiki/entities/wifeofbath/"
   },
+  "WikimediaFoundation": {
+    "title": "Wikimedia Foundation",
+    "url": "/wiki/entities/wikimediafoundation/"
+  },
+  "Wikipedia": {
+    "title": "Wikipedia",
+    "url": "/wiki/entities/wikipedia/"
+  },
   "WildAnimalRescueResponsibility": {
     "title": "Wild-Animal Rescue Responsibility",
     "url": "/wiki/concepts/wildanimalrescueresponsibility/"
@@ -120446,6 +120478,10 @@
   "vmp5396536074-vmp5396536074": {
     "title": "Exciting News: More How I Built This is on the Way!",
     "url": "/wiki/sources/vmp5396536074-vmp5396536074/"
+  },
+  "vmp5702291377-vmp5702291377": {
+    "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+    "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
   },
   "vmp7035807570-vmp7035807570": {
     "title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",

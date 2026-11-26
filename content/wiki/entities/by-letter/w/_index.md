@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14889
+wiki_total_pages: 14894
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -542,6 +542,12 @@ wiki_pages:
   - key: "WifeOfBath"
     title: "Wife of Bath"
     url: "/wiki/entities/wifeofbath/"
+  - key: "WikimediaFoundation"
+    title: "Wikimedia Foundation"
+    url: "/wiki/entities/wikimediafoundation/"
+  - key: "Wikipedia"
+    title: "Wikipedia"
+    url: "/wiki/entities/wikipedia/"
   - key: "WildSource"
     title: "Wild Source"
     url: "/wiki/entities/wildsource/"

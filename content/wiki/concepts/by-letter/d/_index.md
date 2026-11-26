@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11830
+wiki_total_pages: 11833
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "DistributedTechnologyResponsibility"
     title: "Distributed Technology Responsibility / 分布式技术责任"
     url: "/wiki/concepts/distributedtechnologyresponsibility/"
+  - key: "DistributedVolunteerGovernance"
+    title: "Distributed Volunteer Governance"
+    url: "/wiki/concepts/distributedvolunteergovernance/"
   - key: "DistributionBeforeMonetization"
     title: "Distribution Before Monetization"
     url: "/wiki/concepts/distributionbeforemonetization/"

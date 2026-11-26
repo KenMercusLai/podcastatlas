@@ -39003,6 +39003,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/concepts/bombermafiaprecisiondoctrine/"
     },
+    "Bomis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/bomis/"
+    },
     "BonarLaw": {
       "episode_count": 1,
       "show_count": 1,
@@ -88462,6 +88478,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/distributedtechnologyresponsibility/"
+    },
+    "DistributedVolunteerGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/distributedvolunteergovernance/"
     },
     "DistrictOfColumbiaVHeller": {
       "episode_count": 1,
@@ -158559,9 +158591,9 @@
       "url": "/wiki/concepts/humaninthelooplegalai/"
     },
     "HumanKnowledgeCommonsSustainability": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
@@ -158569,9 +158601,16 @@
           "show": "Marketplace Tech",
           "title": "Reddit pivots to a login-only experience",
           "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
         }
       ],
-      "updated": "2026-11-11",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/humanknowledgecommonssustainability/"
     },
     "HumanLeadershipUnderAI": {
@@ -177573,6 +177612,22 @@
       ],
       "updated": "2026-11-12",
       "url": "/wiki/entities/jimmychin/"
+    },
+    "JimmyWales": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/jimmywales/"
     },
     "JimoDafuLateQi": {
       "episode_count": 1,
@@ -206385,6 +206440,22 @@
       "updated": "2026-10-20",
       "url": "/wiki/entities/lovemorechiwa/"
     },
+    "LowBarrierCollaborativeProduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/lowbarriercollaborativeproduction/"
+    },
     "LowBudgetFootballClubCompetitiveness": {
       "episode_count": 1,
       "show_count": 1,
@@ -226580,6 +226651,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/missionalignedrescuecapital/"
     },
+    "MissionAlignedRevenueModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/missionalignedrevenuemodel/"
+    },
     "MissionAlignedVendorSwitching": {
       "episode_count": 1,
       "show_count": 1,
@@ -240914,6 +241001,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/nuolandaotransgenderguest/"
+    },
+    "Nupedia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/nupedia/"
     },
     "NurembergLaws": {
       "episode_count": 2,
@@ -258387,9 +258490,9 @@
       "url": "/wiki/concepts/platformauthorizationboundary/"
     },
     "PlatformCommunityGovernance": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
@@ -258425,9 +258528,16 @@
           "show": "Marketplace Tech",
           "title": "Reddit pivots to a login-only experience",
           "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
         }
       ],
-      "updated": "2026-11-11",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/platformcommunitygovernance/"
     },
     "PlatformEraActorVisibilityLabor": {
@@ -350381,6 +350491,45 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/wifeofbath/"
+    },
+    "WikimediaFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/wikimediafoundation/"
+    },
+    "Wikipedia": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "VMP5702291377 [VMP5702291377].md",
+          "key": "vmp5702291377-vmp5702291377",
+          "show": "How I Built This with Guy Raz",
+          "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+          "url": "/wiki/sources/vmp5702291377-vmp5702291377/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/wikipedia/"
     },
     "WildChildMarginality": {
       "episode_count": 1,

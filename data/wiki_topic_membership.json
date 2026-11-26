@@ -21008,6 +21008,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Bomis": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BonarLaw": [
     {
       "key": "politics",
@@ -33684,6 +33691,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "DistributedVolunteerGovernance": [
     {
       "key": "politics",
       "label": "Politics",
@@ -66286,6 +66300,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MissionAlignedRevenueModel": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MissionDrivenAcquisitionDecision": [

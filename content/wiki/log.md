@@ -43988,3 +43988,19 @@ Changed-page wikilinks, canonical index coverage, source inventories, identities
 ## [2026-11-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-26] ingest | Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
+
+Added the archival [[HowIBuiltThis]] interview with [[JimmyWales]] on the path from [[Bomis]] and [[Nupedia]] to [[Wikipedia]], the community's development of correction and sourcing norms, and the transition to the [[WikimediaFoundation]] nonprofit and small-donor model.
+
+Created [[LowBarrierCollaborativeProduction]], [[DistributedVolunteerGovernance]], and [[MissionAlignedRevenueModel]]. Resynthesized [[PlatformCommunityGovernance]] from its complete preserved six-source inventory and [[HumanKnowledgeCommonsSustainability]] from its complete preserved two-source inventory before appending the new source once.
+
+No settled contradiction was adopted. The episode qualifies expert-gatekeeping and crowd-reliability simplifications: Nupedia's strict process remained slow and fallible, while Wikipedia's openness depended on correction tools, sourcing rules, dispute procedures, and volunteer labor. Founder-history, article, contributor, traffic, donation, revenue, wealth, and policy-causation claims remain episode-scoped because the supplied file is a structured summary and gives limited space to other founders, contributors, staff, critics, or institutional controversies.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,298 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
