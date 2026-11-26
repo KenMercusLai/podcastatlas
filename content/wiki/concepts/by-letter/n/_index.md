@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11840
+wiki_total_pages: 11843
 wiki_pages:
   - key: "NetworkedViolenceJournalistRisk"
     title: "Journalist Risk in Networked Violence / 网络化暴力中的记者风险"

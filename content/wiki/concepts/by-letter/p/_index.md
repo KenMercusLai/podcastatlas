@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11840
+wiki_total_pages: 11843
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3113,6 +3113,9 @@ wiki_pages:
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"
+  - key: "PainIntoService"
+    title: "Turning Pain into Service"
+    url: "/wiki/concepts/painintoservice/"
   - key: "PersonalizedLocalAutonomySuccession"
     title: "个人化地方自治继承断裂 / Personalized Local Autonomy Succession"
     url: "/wiki/concepts/personalizedlocalautonomysuccession/"

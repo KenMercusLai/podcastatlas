@@ -44032,3 +44032,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-26] ingest | Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss
+
+Added the [[HubermanLab]] Essentials edit with [[TimFerriss]] on [[EdgeCaseOpportunityDiscovery]], [[SelfExperimentation]], [[ServiceFirstNetworking]], [[ReciprocalMentorship]], [[ExperimentalLifeDesign]], and [[PainIntoService]]. Created synthesis-first pages for the three newly promoted concepts and resynthesized [[TimFerriss]], [[EdgeCaseOpportunityDiscovery]], [[SelfExperimentation]], [[ExperimentalLifeDesign]], and [[ProfessionalNetworkCareerCapital]] from their complete preserved evidence inventories before appending the new source once.
+
+No settled contradiction was adopted. The episode substantially overlaps the earlier full interview and therefore corroborates the same autobiographical account rather than supplying independent testimony. Relocation, schedule control, self-experimentation, networking, mentorship, trauma disclosure, and suicide-related claims remain source-scoped and constrained by financial, family, work, disability, cultural, and clinical context. Public disclosure is not treated as an obligation or a substitute for crisis support or trauma-informed care.
+
+The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,301 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

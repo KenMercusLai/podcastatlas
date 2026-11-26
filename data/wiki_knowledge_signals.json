@@ -95573,9 +95573,9 @@
       "url": "/wiki/entities/edgarthepeaceful/"
     },
     "EdgeCaseOpportunityDiscovery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6518415604 [SCIM6518415604].md",
@@ -95583,9 +95583,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Better & Create Your Best Future | Tim Ferriss",
           "url": "/wiki/sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604/"
+        },
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/edgecaseopportunitydiscovery/"
     },
     "EdithCavell": {
@@ -109942,9 +109949,9 @@
       "url": "/wiki/concepts/experimentgroundedproteinmodelloop/"
     },
     "ExperimentalLifeDesign": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
@@ -109973,9 +109980,16 @@
           "show": "三五环",
           "title": "No.214 低能量人的电池使用指南",
           "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
+        },
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/experimentallifedesign/"
     },
     "ExperimentalTractabilityValidityTradeoff": {
@@ -248793,6 +248807,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/paincomedyoscillation/"
     },
+    "PainIntoService": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/painintoservice/"
+    },
     "PainOrientation": {
       "episode_count": 1,
       "show_count": 1,
@@ -267613,9 +267643,9 @@
       "url": "/wiki/entities/professionalfightersleague/"
     },
     "ProfessionalNetworkCareerCapital": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
@@ -267623,9 +267653,16 @@
           "show": "三五环",
           "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
           "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        },
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/professionalnetworkcareercapital/"
     },
     "ProfessionalServicesBillableHour": {
@@ -276082,6 +276119,22 @@
       ],
       "updated": "2026-11-18",
       "url": "/wiki/concepts/reciprocallaborcommunityformation/"
+    },
+    "ReciprocalMentorship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/reciprocalmentorship/"
     },
     "RecklessCourageDecisionRisk": {
       "episode_count": 1,
@@ -295558,9 +295611,9 @@
       "url": "/wiki/concepts/selfdoubtascreativecheck/"
     },
     "SelfExperimentation": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器… [728113059].md",
@@ -295603,9 +295656,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Better & Create Your Best Future | Tim Ferriss",
           "url": "/wiki/sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604/"
+        },
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/selfexperimentation/"
     },
     "SelfExplanationKnowledgeCalibration": {
@@ -296423,6 +296483,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/servicedeliverydemocratictrust/"
+    },
+    "ServiceFirstNetworking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/servicefirstnetworking/"
     },
     "ServiceWorkMobilityTrap": {
       "episode_count": 1,
@@ -329602,9 +329678,9 @@
       "url": "/wiki/entities/timcook/"
     },
     "TimFerriss": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
@@ -329619,9 +329695,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Better & Create Your Best Future | Tim Ferriss",
           "url": "/wiki/sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604/"
+        },
+        {
+          "episode_file": "SCIM6636160771 [SCIM6636160771].md",
+          "key": "essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+          "url": "/wiki/sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-26",
       "url": "/wiki/entities/timferriss/"
     },
     "TimHarford": {

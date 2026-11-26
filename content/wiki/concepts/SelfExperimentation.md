@@ -9,7 +9,8 @@ sources:
   - 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317
   - all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165
   - how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604
-last_updated: 2026-09-28
+  - essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771
+last_updated: 2026-11-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ Self-experimentation is the use of one's own body, perception, behavior, or rout
 ## Current Synthesis
 The bounded sources span heroic, disciplined, dangerous, and consumerized forms. Historical experimenters exposed themselves to infectious material, venom, spinal anesthesia, allergens, sunlight, and pressure on the eye. These cases can reduce the ethical problem of imposing risk on others and generate useful observations, but lucky negatives, uncontrolled conditions, injury, and overconfident inference remain common. Blackley's comparisons across pollen types, bodily sites, and measured airborne pollen show the stronger form: self-observation gains value when exposure, comparison, and environmental measurement are joined.
 
-Contemporary cases sharpen the difference between instrumentation and proof. Gray-market peptide users may not know compound identity, purity, dose, interactions, or human evidence. [[BryanJohnson]] adds professional supervision and extensive measurement around psychedelic experiments, but one measured body still cannot establish general effects or durability. [[TimFerriss]] adds a practical risk-calibration layer: keep records, learn to read studies, favor strong upside with bounded downside, make tests reversible when possible, and treat adverse outcomes as reasons to stop rather than rationalize.
+Contemporary cases sharpen the difference between instrumentation and proof. Gray-market peptide users may not know compound identity, purity, dose, interactions, or human evidence. [[BryanJohnson]] adds professional supervision and extensive measurement around psychedelic experiments, but one measured body still cannot establish general effects or durability. [[TimFerriss]] adds a practical risk-calibration layer: keep records, learn to read studies, favor strong upside with bounded downside, make tests reversible when possible, seek replication in other people, and treat adverse outcomes as reasons to stop rather than rationalize. The Essentials edit corroborates the records-and-replication account but is not independent testimony.
 
 ## Key Claims
 - Accepting risk oneself is ethically distinct from assigning it to others, but does not make the inference sound.
@@ -39,13 +40,14 @@ Contemporary cases sharpen the difference between instrumentation and proof. Gra
 - Supply-chain uncertainty - [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] describes self-injected gray-market peptides with uncertain contents and sparse human evidence.
 - Instrumented single-subject limit - [[all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]] combines supervision and measurement with unresolved durability, psychosis, and identity-disruption risk.
 - Records and stopping evidence - [[how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604]] describes long-term workout records, study-reading literacy, risk mitigation, and discontinuation after supplement and injection harms.
+- Replication intent - [[essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771]] describes reviewing long-term records and attempting to reproduce promising observations in other people before publication.
 
 ## Counterevidence & Qualifications
 Self-experimentation can generate hypotheses, adherence knowledge, and observations unavailable through detached study, especially when the investigator is also the only person initially willing to accept the risk. It nevertheless cannot by itself establish population efficacy, rare harms, causal mechanism, or suitability for another person. Medical, psychiatric, injection, infectious, ocular, and unknown-compound experiments can create irreversible harm and require stronger safeguards than ordinary habit testing.
 
 ## What Changed
-- Added reversibility, bounded downside, scientific literacy, and adverse-result stopping as practical design criteria.
-- Distinguished adherence-oriented personal testing from evidence sufficient for general medical claims.
+- Added attempted replication across people to the practical design criteria while preserving the single-subject evidence boundary.
+- Marked the condensed Ferriss episode as corroboration of the same autobiographical account, not independent validation.
 
 ## Related Concepts
 - [[ExperimentalScienceEthics]] - evaluates consent, harm, subject selection, and scientific value.

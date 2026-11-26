@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss](sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771.md) — Huberman Lab Essentials on edge-case discovery, self-experimentation, service-first networking, reciprocal mentorship, annual review, and bounded disclosure of severe personal pain.
 - [A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit](sources/a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks.md) — Laurie Rogers Stokes reconstructs Puritan institutions and everyday life while preserving religious coercion, patriarchy, Indigenous dispossession, enslavement, and war.
 - [726. The Death of Captain Cook: Massacre on the Beach (Part 2)](sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115.md) — The Rest Is History reconstructs Cook's Hawaiian reception, failed Arctic mission, unexpected return, attempted royal hostage-taking, death, and contested Lono and martyr interpretations.
 - [AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？](sources/fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282.md) — 端聞追踪山西永和县“宝妈”标注工的就业收益、计件控制、内容审核伤害，以及基础任务自动化后的地方性失业。
@@ -20442,6 +20443,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wikimedia Foundation](entities/WikimediaFoundation.md) — Nonprofit institutional layer associated with Wikipedia's small-donor model and public-knowledge mission.
 
 ## Concepts
+- [Service-First Networking](concepts/ServiceFirstNetworking.md) — Builds professional trust through useful contribution, reliability, selective depth, and non-entitlement.
+- [Reciprocal Mentorship](concepts/ReciprocalMentorship.md) — Frames mentorship as mutual, trait-specific, and sometimes bounded paid guidance rather than indefinite one-way obligation.
+- [Turning Pain into Service](concepts/PainIntoService.md) — Uses lived suffering to offer recognition or help while preserving readiness, protection, and the right not to disclose.
 - [Puritan Covenantal Commonwealth](concepts/PuritanCovenantalCommonwealth.md) — Religious-civic model joining congregational autonomy, town government, literacy, public law, discipline, and bounded membership.
 - [Puritan Historical Mythmaking](concepts/PuritanHistoricalMythmaking.md) — Competing simplifications of Puritan New England as joyless theocracy, repressive origin, cradle of liberty, or godly national model.
 - [Data Annotation Labor / 数据标注劳动](concepts/DataAnnotationLabor.md) — Human labeling, transcription, classification, and checking work behind machine-learning systems.
