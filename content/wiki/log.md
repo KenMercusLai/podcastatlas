@@ -44004,3 +44004,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-26] ingest | Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限
+
+Added the [[FuyouTiandi|蜉蝣天地]] interview with [[QilinPhotographer|麒麟]] on the roughly 700-kilometer Kenya journey recorded in [[CamelDiary|《骆驼日记》]], local guide [[MartinKenyaGuide|马丁]], pack camel [[QipeishiCamel|齐佩石]], visual impairment, documentary photography, Haiti, trauma, death, and beginning before opportunity disappears.
+
+Created synthesis-first profiles for Qilin, the book, Martin, and Qipeishi, plus [[DownsideBoundedAdventure|下限约束式冒险]], [[EmbodiedVisualPhotography|身体经验化摄影]], [[SufferingImageEthics|苦难影像伦理]], [[ConservationLivelihoodConflict|保护区—生计冲突]], and [[NetworkedViolenceJournalistRisk|网络化暴力中的记者风险]]. Resynthesized [[FuyouTiandi]], [[AdventureUncertaintyReframing]], [[DomainSpecificRiskCalibration]], and [[PhotographicWitness]] from their complete preserved evidence inventories before appending the new source once.
+
+No settled contradiction was adopted. The title-body 齐林/麒麟 discrepancy remains explicit; historical-photography authorship claims, conflict and casualty accounts, route details, conservation politics, and the effects of documentary images remain source-scoped because the supplied file is a structured summary without complete citations or transcript context. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,299 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

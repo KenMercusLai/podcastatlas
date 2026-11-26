@@ -11082,9 +11082,9 @@
       "url": "/wiki/concepts/adventuregamenarrativestructure/"
     },
     "AdventureUncertaintyReframing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md",
@@ -11092,9 +11092,16 @@
           "show": "Tomorrow, Today",
           "title": "The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757/"
+        },
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/adventureuncertaintyreframing/"
     },
     "AdventuresInTime": {
@@ -45468,6 +45475,22 @@
       "updated": "2026-11-03",
       "url": "/wiki/entities/cambodia/"
     },
+    "CamelDiary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/cameldiary/"
+    },
     "CameraFreeSmartGlasses": {
       "episode_count": 1,
       "show_count": 1,
@@ -68146,6 +68169,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/consequencesensitivechivalry/"
     },
+    "ConservationLivelihoodConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/conservationlivelihoodconflict/"
+    },
     "ConservationStoryMobilization": {
       "episode_count": 3,
       "show_count": 3,
@@ -89066,9 +89105,9 @@
       "url": "/wiki/concepts/domainknowhowmoat/"
     },
     "DomainSpecificRiskCalibration": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3172039705 [SCIM3172039705].md",
@@ -89076,9 +89115,16 @@
           "show": "Huberman Lab",
           "title": "How to Set & Achieve Massive Goals | Alex Honnold",
           "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
+        },
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/domainspecificriskcalibration/"
     },
     "DomainSpecificSuperintelligence": {
@@ -91590,6 +91636,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/douyinecommerce/"
+    },
+    "DownsideBoundedAdventure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/downsideboundedadventure/"
     },
     "DownstreamPorkAbsorptionLimits": {
       "episode_count": 1,
@@ -99171,6 +99233,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
+    },
+    "EmbodiedVisualPhotography": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/embodiedvisualphotography/"
     },
     "EmbodiedVulnerabilityPublicDesign": {
       "episode_count": 1,
@@ -126722,9 +126800,9 @@
       "url": "/wiki/entities/fuwaihospital/"
     },
     "FuyouTiandi": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -126781,9 +126859,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
           "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        },
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-11-26",
       "url": "/wiki/entities/fuyoutiandi/"
     },
     "FuzhuleiRuodiChanyu": {
@@ -216258,6 +216343,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/martialherohistoricalagencylimits/"
     },
+    "MartinKenyaGuide": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/martinkenyaguide/"
+    },
     "MartinKutter": {
       "episode_count": 1,
       "show_count": 1,
@@ -236350,6 +236451,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/networkedmovementidentity/"
+    },
+    "NetworkedViolenceJournalistRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/networkedviolencejournalistrisk/"
     },
     "NeuralInterfaceBitrateAdoptionTradeoff": {
       "episode_count": 2,
@@ -256730,9 +256847,9 @@
       "url": "/wiki/concepts/photographicpresenceundergenerativeai/"
     },
     "PhotographicWitness": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1929673260 [GLT1929673260].md",
@@ -256754,9 +256871,16 @@
           "show": "Revisionist History",
           "title": "The Foot Soldier of Birmingham",
           "url": "/wiki/sources/the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham/"
+        },
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
         }
       ],
-      "updated": "2026-11-17",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/photographicwitness/"
     },
     "PhotonAgentCommunication": {
@@ -271757,6 +271881,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/qilinpavilionmerithonors/"
     },
+    "QilinPhotographer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/qilinphotographer/"
+    },
     "Qilue": {
       "episode_count": 1,
       "show_count": 1,
@@ -272165,6 +272305,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/qiongchengtaihouwesternhan/"
+    },
+    "QipeishiCamel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/qipeishicamel/"
     },
     "QiqiaoRitualPractice": {
       "episode_count": 2,
@@ -315699,6 +315855,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
+    },
+    "SufferingImageEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b49a6090-cca1-451d-99f7-495f6d264992 [b49a6090-cca1-451d-99f7-495f6d264992].md",
+          "key": "episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限",
+          "url": "/wiki/sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/sufferingimageethics/"
     },
     "SugarCravingNeuralControl": {
       "episode_count": 8,

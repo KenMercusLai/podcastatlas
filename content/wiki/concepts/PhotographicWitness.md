@@ -6,7 +6,8 @@ sources:
   - 493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260
   - 72-the-vietnam-war-glt4906340188
   - the-foot-soldier-of-birmingham-the-foot-soldier-of-birmingham
-last_updated: 2026-11-17
+  - episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992
+last_updated: 2026-11-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,9 +25,11 @@ Vietnam adds a different failure mode: enduring images can be believed yet misre
 
 Birmingham adds the gap between a visible instant and inferred intention. Bill Hudson's image shows Leo lunging toward [[WalterGadsden]] while [[RichardMiddleton]] holds the leash, but it does not by itself establish that Gadsden was a marcher or that Middleton released the dog deliberately. National circulation made the image politically truthful about a violent racial order even as it compressed an ambiguous encounter; [[FootSoldierMonument]] later made that compression explicit through artistic alteration.
 
+Attribution, bodily perception, and professional incentive extend that evidence chain. [[QilinPhotographer|麒麟]] argues that news and historical photographs gain meaning through institutional selection, political reuse, authorship stories, and repetition, while his own visual impairment makes the camera an instrument for translating how a body sees. His street-child work adds a consequence boundary: publication and awards can strengthen a photographer's career without materially changing the lives used to establish the witness.
+
 ## Key Claims
 
-- A photograph becomes public evidence through access, capture, contextual writing, editing, distribution, and reception.
+- A photograph becomes public evidence through access, capture, attribution, contextual writing, editing, distribution, reception, and consequences for depicted people.
 - Technical and logistical access expands what can be recorded but does not settle what can be published or remembered accurately.
 - Captions, locations, attribution, and accompanying prose are constitutive parts of evidentiary meaning.
 - Censorship, editorial trust, and disbelief can interrupt the path from seeing to public knowledge.
@@ -54,15 +57,20 @@ Birmingham adds the gap between a visible instant and inferred intention. Bill H
 
 - [[493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260]] connects surrealist composition and the staged Hitler-bath portrait to material traces, immediate historical setting, and symbolic argument.
 
+### Attribution, embodiment, and subject consequence
+
+- [[episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992]] connects news-photo selection, disputed authorship, photographer mythology, manual-focus embodiment, street-child documentation, awards, and limited material change.
+
 ## Counterevidence & Qualifications
 
-Correcting the location, actor, or inferred intention in an image does not make the underlying suffering or oppressive system false, and aesthetic composition does not automatically destroy documentary value. The sources do not supply systematic audience research, so claims about image effects and popular misunderstanding remain interpretive. Gadsden's late oral history and testimony from Middleton's colleague and widow also require source criticism. Captions and context can change over time, and an image alone rarely establishes intention, full causation, or representative experience.
+Correcting the location, actor, attribution, or inferred intention in an image does not make the underlying suffering or oppressive system false, and aesthetic or embodied composition does not automatically destroy documentary value. The sources do not supply systematic audience or subject-impact research, so claims about image effects, popular misunderstanding, and material benefit remain interpretive. Gadsden's late oral history and testimony from Middleton's colleague and widow require source criticism; Qilin's historical-photography examples are also interview-level claims without complete citations. An image alone rarely establishes intention, authorship, full causation, representative experience, or ethical success.
 
 ## What Changed
 
 - Added single-frame intention inference as distinct from censorship, disbelief, and later metadata loss.
 - Distinguished an image's system-level political truth from unsupported certainty about the depicted individuals.
 - Extended the evidence chain from photojournalistic circulation into deliberate monumental reinterpretation.
+- Added attribution, embodied seeing, professional reward, and depicted-subject consequences to the witness chain.
 
 ## Related Concepts
 
@@ -73,3 +81,5 @@ Correcting the location, actor, or inferred intention in an image does not make 
 - [[StatueCommemorationPolitics]] - framework for judging the later monumental form and civic authority of that image.
 - [[Vogue]] - editorial and distribution institution in Miller's evidence chain.
 - [[TheHolocaust|The Holocaust]] - atrocity context in which photographic credibility became historically urgent.
+- [[SufferingImageEthics|苦难影像伦理]] - evaluates whether witness and professional recognition connect to consent, reciprocity, and material consequence.
+- [[EmbodiedVisualPhotography|身体经验化摄影]] - distinguishes situated perception from a claim to neutral visual reproduction.

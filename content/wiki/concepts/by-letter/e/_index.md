@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11833
+wiki_total_pages: 11838
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "EmbodiedTrainingAgainstFear"
     title: "Embodied Training Against Fear / 反本能身体训练"
     url: "/wiki/concepts/embodiedtrainingagainstfear/"
+  - key: "EmbodiedVisualPhotography"
+    title: "Embodied Visual Photography / 身体经验化摄影"
+    url: "/wiki/concepts/embodiedvisualphotography/"
   - key: "EmbodiedVulnerabilityPublicDesign"
     title: "Embodied Vulnerability Public Design / 身体脆弱性与公共设计"
     url: "/wiki/concepts/embodiedvulnerabilitypublicdesign/"

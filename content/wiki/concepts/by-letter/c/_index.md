@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11833
+wiki_total_pages: 11838
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2474,6 +2474,9 @@ wiki_pages:
   - key: "ConservationUnderWar"
     title: "Conservation Under War"
     url: "/wiki/concepts/conservationunderwar/"
+  - key: "ConservationLivelihoodConflict"
+    title: "Conservation–Livelihood Conflict / 保护区—生计冲突"
+    url: "/wiki/concepts/conservationlivelihoodconflict/"
   - key: "ConservativeLeadershipElection1975"
     title: "Conservative Leadership Election 1975"
     url: "/wiki/concepts/conservativeleadershipelection1975/"

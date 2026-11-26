@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14894
+wiki_total_pages: 14898
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2636,6 +2636,9 @@ wiki_pages:
   - key: "Mianji"
     title: "面基"
     url: "/wiki/entities/mianji/"
+  - key: "MartinKenyaGuide"
+    title: "马丁 / Martin (Kenya Guide)"
+    url: "/wiki/entities/martinkenyaguide/"
   - key: "MaDong"
     title: "马东 / Ma Dong"
     url: "/wiki/entities/madong/"

@@ -511,6 +511,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来](sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly.md) — 一劳永逸以《FX战士久留美》讲解外汇保证金、日元套息、强制平仓、止损、结果偏误、沉没成本与生活资金隔离。
 - [这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason](sources/lnvlrnkk-mvyhiy31eq-gw4qopje.md) — 42章经访谈 Articuler.ai 创始人 Jason，讨论活动中的人与机会匹配、连接行为数据、从一线观察寻找 PMF，以及融资失败后的现金流生存。
 - [Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟](sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2.md) — 蜉蝣天地对谈孟磊，以快乐和个人味觉为入口，连接香槟生产、风土、原产地治理、气候适应、中国本土化与家族酒庄长期主义。
+- [Episode 24: 劫匪抢了我的骆驼两次，骆驼一次都没同意｜与探险家齐林聊摄影、创伤与人类的下限](sources/episode-24-jiefei-qiang-le-wode-luotuo-liangci-luotuo-yici-dou-mei-tongyi-yu-tanxianjia-qilin-liao-sheying-chuangshang-yu-renlei-de-xiaxian-b49a6090-cca1-451d-99f7-495f6d264992.md) — 蜉蝣天地对谈麒麟，以肯尼亚骆驼徒步连接下限约束式冒险、身体经验化摄影、苦难影像伦理、保护区生计冲突及海地网络化暴力风险。
 - [EP289 在安妮·卡森的“马戏团”课堂，拆掉文学的条条框框](sources/ep289-zai-anni-kasen-de-maxituan-ketang-chaidiao-wenxue-de-tiaotiaokuangkuang-lhqupidadktnqhxizmxzja9hkjhp.md) — Talk三联 with 李娇杨 and 徐金金 on Anne Carson's constraint-and-chance classroom, translation autonomy, material book form, independent publishing, and classical rewriting.
 - [CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer](sources/allin-e293-ch-allin-e293-ch.md) — All-In on CoreWeave refinancing and contract risk, AI software deflation, power scarcity, Anthropic IPO claims, specialized models, and disputed AI-safety narratives.
 - [Anatomy of a movie market](sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266.md) — Planet Money episode on Sundance, independent-film sales agents, demand signaling, buyer concentration, and the softer post-streaming-war acquisition market.
@@ -18519,6 +18520,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
 - [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, visible guest worlds, and operating texture across nature, AI, history, sports, and founder practice.
+- [麒麟 / Qilin (Photographer and Explorer)](entities/QilinPhotographer.md) — Photographer and explorer connecting Kenya expedition practice, visual impairment, documentary ethics, trauma, and calibrated risk.
+- [《骆驼日记》 / Camel Diary](entities/CamelDiary.md) — Qilin's Kenya walking journey with guide Martin and camel Qipeishi, structured by logistics, attachment, conflict, and withdrawal.
+- [马丁 / Martin (Kenya Guide)](entities/MartinKenyaGuide.md) — Local guide whose route, resource, camp, communication, and danger knowledge supported the Camel Diary journey.
+- [齐佩石 / Qipeishi (Camel)](entities/QipeishiCamel.md) — Pack camel whose care, behavior, two escapes, and companionship became central to the Kenya journey.
 - [赵丽娜 / Zhao Lina](entities/ZhaoLina.md) — Former Chinese women's football goalkeeper whose Fuyou Tiandi interview links confidence, goalkeeper judgment, youth access, and post-retirement identity.
 - [《上下半场》 / Shang Xia Banchang](entities/ShangXiaBanchang.md) — Zhao Lina's post-retirement podcast/project for athlete stories, public expression, and reading people through interviews.
 - [中国女足 / China Women's National Football Team](entities/ChinaWomensNationalFootballTeam.md) — National-team context for Zhao Lina's goalkeeper confidence, World Cup visibility, and women's football comparison pressure.
@@ -21733,7 +21738,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Taxis of the Marne](concepts/TaxisOfTheMarne.md) — Real but operationally limited emergency transport transformed into a patriotic legend of civilian mobilization.
 - [Shame-to-Comedy Transformation / 羞耻经验的喜剧转化](concepts/ShameToComedyTransformation.md) — Turning concealed class, appearance, taste, and social experience into comedy without fixing an early persona as permanent identity.
 - [Stand-up Competition Material Strategy / 脱口秀竞赛素材配置](concepts/StandupCompetitionMaterialStrategy.md) — Allocation of premises, drafts, revision capacity, and confidence across elimination rounds under material scarcity.
-- [Domain-Specific Risk Calibration](concepts/DomainSpecificRiskCalibration.md) — Expert separation of visual salience, technical difficulty, protection, consequence, and behavioral adaptation within a practiced domain.
+- [Domain-Specific Risk Calibration](concepts/DomainSpecificRiskCalibration.md) — Learned separation of salience, difficulty, body state, local knowledge, protection, consequence, and behavior within a practiced setting.
+- [Downside-Bounded Adventure / 下限约束式冒险](concepts/DownsideBoundedAdventure.md) — Bounds worst plausible loss and exit conditions before preserving openness and taking a first step.
 - [High-Consequence Performance Preparation](concepts/HighConsequencePerformancePreparation.md) — Selective exact rehearsal, broad exposure, condition ranges, automaticity, and stopping judgment for consequential performance.
 - [Langemarck Myth](concepts/LangemarckMyth.md) — German memory construction that reorganized uncertain battlefield singing into a legend of youthful patriotic sacrifice and later political rebirth.
 - [Humboldtian Nature Interconnection / 洪堡式万物相连](concepts/HumboldtianNatureInterconnection.md) — Relational view of organisms, climate, geology, altitude, water, and human action grounded in measurement and comparison.
@@ -23651,7 +23657,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.
 - [Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界](concepts/DentalAestheticTreatmentBoundary.md) — Distinction among normal tooth color, surface stain removal, chemical bleaching, veneers, and crowns.
 - [Dental Provider Qualification Assessment / 牙医与口腔机构资质判断](concepts/DentalProviderQualificationAssessment.md) — Multi-signal evaluation of credentials, scope, cases, peer standing, setting, and treatment fit.
-- [Photographic Witness](concepts/PhotographicWitness.md) — Evidence chain joining access, capture, context, editing, censorship, publication, later attribution, and public belief.
+- [Photographic Witness](concepts/PhotographicWitness.md) — Evidence chain joining access, capture, attribution, context, editing, publication, public belief, and subject consequence.
+- [Embodied Visual Photography / 身体经验化摄影](concepts/EmbodiedVisualPhotography.md) — Camera practice that extends and expresses how a particular body perceives rather than claiming neutral visual reproduction.
+- [Suffering-Image Ethics / 苦难影像伦理](concepts/SufferingImageEthics.md) — Evaluates vulnerable subjects, witness, consent, context, professional reward, reciprocity, and material consequence together.
 - [Melodramatic Political Formation](concepts/MelodramaticPoliticalFormation.md) — Process by which mass-media roles supply emotional archetypes and communication habits later transferred into political life.
 - [Relationship Polarity Balance](concepts/RelationshipPolarityBalance.md) — Intimacy framework holding security with freedom, togetherness with separateness, and stability with change.
 - [Curiosity Over Reactivity](concepts/CuriosityOverReactivity.md) — Conflict stance that loosens fixed narratives through regulated, accountable inquiry into another person's experience.
@@ -30594,6 +30602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Urban Ecology](concepts/UrbanEcology.md) — City-nature frame where parks, wetlands, wasteland, infrastructure, birds, and human management form dynamic habitats.
 - [AI Recognition Bias](concepts/AIRecognitionBias.md) — Classifier failure mode where models learn spurious visual signals such as background, camera, or photographer patterns instead of intended object traits.
 - [Conservation Intervention](concepts/ConservationIntervention.md) — Active species-protection work using habitat design, sound, decoys, disturbance control, monitoring, and feedback under ecological uncertainty.
+- [Conservation–Livelihood Conflict / 保护区—生计冲突](concepts/ConservationLivelihoodConflict.md) — Tension created when habitat protection redistributes land access, grazing, authority, tourism value, and livelihood costs.
 - [AI Resistant Experiential Consumption](concepts/AIResistantExperientialConsumption.md) — AI-era consumer thesis that embodied, social, place-based experiences remain harder to replace than digital information.
 - [Korean Culture Led Consumer Marketing](concepts/KoreanCultureLedConsumerMarketing.md) — Pattern where Korean entertainment, celebrities, beauty trust, stores, and districts convert culture into global consumer-brand demand.
 - [K-Beauty Global Trust](concepts/KBeautyGlobalTrust.md) — Category permission combining Korean aesthetics, skincare routines, medical-aesthetic cues, creators, retail discovery, and global entertainment.
@@ -31048,7 +31057,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow Environment Design](concepts/FlowEnvironmentDesign.md) — Practice of arranging movement, rhythm, natural settings, boredom, and distraction limits so deep attention becomes more likely.
 - [Extreme Environment Risk Management](concepts/ExtremeEnvironmentRiskManagement.md) — Risk discipline for terrain, weather, body condition, equipment, mechanics, team trust, rescue, return, and survival-versus-mastery judgment.
 - [Summit As Transformation](concepts/SummitAsTransformation.md) — Mountaineering and life-design frame where the summit gives direction but the real outcome is the person shaped by the whole climb.
-- [Adventure-Uncertainty Reframing](concepts/AdventureUncertaintyReframing.md) — Leadership and risk model that treats uncertainty as adventure-like unknown territory managed through attention, preparation, and adaptation.
+- [Adventure-Uncertainty Reframing](concepts/AdventureUncertaintyReframing.md) — Treats residual uncertainty as workable after preparation, downside assessment, exit planning, and attention control.
+- [Journalist Risk in Networked Violence / 网络化暴力中的记者风险](concepts/NetworkedViolenceJournalistRisk.md) — Threat model for reporters who can become objects inside armed groups' own social-media spectacle.
 - [Expedition Team Trust](concepts/ExpeditionTeamTrust.md) — Team frame where high-stakes collaboration depends on generosity, communication, empathy, belonging, diversity, and rescue behavior.
 - [AI How, Human Why Boundary](concepts/AIHowHumanWhyBoundary.md) — AI-era boundary where tools support execution while people retain purpose, problem choice, criteria, relationships, and responsibility.
 - [Action Defines Identity](concepts/ActionDefinesIdentity.md) — Life-design claim that repeated choices under real conditions reveal identity more strongly than self-description.

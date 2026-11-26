@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 14894
+wiki_total_pages: 14898
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -515,12 +515,18 @@ wiki_pages:
   - key: "QiJie"
     title: "骑劫 / Qi Jie"
     url: "/wiki/entities/qijie/"
+  - key: "QilinPhotographer"
+    title: "麒麟 / Qilin (Photographer and Explorer)"
+    url: "/wiki/entities/qilinphotographer/"
   - key: "QuYiLateHan"
     title: "麹义 / Qu Yi (late Han)"
     url: "/wiki/entities/quyilatehan/"
   - key: "Qianzhong"
     title: "黔中 / Qianzhong"
     url: "/wiki/entities/qianzhong/"
+  - key: "QipeishiCamel"
+    title: "齐佩石 / Qipeishi (Camel)"
+    url: "/wiki/entities/qipeishicamel/"
   - key: "QiLiwangWesternHan"
     title: "齐厉王 / King Li of Qi (Western Han)"
     url: "/wiki/entities/qiliwangwesternhan/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3834
+topic_total_pages: 3835
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8558,6 +8558,9 @@ topic_entities:
   - key: "Matilda"
     title: "《马蒂尔达》 / Matilda"
     url: "/wiki/entities/matilda/"
+  - key: "CamelDiary"
+    title: "《骆驼日记》 / Camel Diary"
+    url: "/wiki/entities/cameldiary/"
   - key: "TheDemonHauntedWorld"
     title: "《魔鬼出没的世界》 / The Demon-Haunted World"
     url: "/wiki/entities/thedemonhauntedworld/"

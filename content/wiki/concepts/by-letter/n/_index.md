@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11833
+wiki_total_pages: 11838
 wiki_pages:
+  - key: "NetworkedViolenceJournalistRisk"
+    title: "Journalist Risk in Networked Violence / 网络化暴力中的记者风险"
+    url: "/wiki/concepts/networkedviolencejournalistrisk/"
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
     url: "/wiki/concepts/nadtherapyevidenceboundary/"
