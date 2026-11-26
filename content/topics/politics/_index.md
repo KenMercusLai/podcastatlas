@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3616
+topic_total_pages: 3620
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2140,6 +2140,9 @@ topic_concepts:
   - key: "HawkeKeatingReformSettlement"
     title: "Hawke-Keating Reform Settlement"
     url: "/wiki/concepts/hawkekeatingreformsettlement/"
+  - key: "HeadlineGrowthVoterExperienceGap"
+    title: "Headline Growth–Voter Experience Gap"
+    url: "/wiki/concepts/headlinegrowthvoterexperiencegap/"
   - key: "HeadquartersRelocationRegulatoryLeverage"
     title: "Headquarters Relocation as Regulatory Leverage / 总部迁移监管杠杆"
     url: "/wiki/concepts/headquartersrelocationregulatoryleverage/"
@@ -5903,6 +5906,9 @@ topic_entities:
   - key: "Alberta"
     title: "Alberta"
     url: "/wiki/entities/alberta/"
+  - key: "AlbertoNunezFeijoo"
+    title: "Alberto Núñez Feijóo"
+    url: "/wiki/entities/albertonunezfeijoo/"
   - key: "AlexKarp"
     title: "Alex Karp"
     url: "/wiki/entities/alexkarp/"
@@ -8171,6 +8177,9 @@ topic_entities:
   - key: "SantaClaraUniversity"
     title: "Santa Clara University"
     url: "/wiki/entities/santaclarauniversity/"
+  - key: "SantiagoAbascal"
+    title: "Santiago Abascal"
+    url: "/wiki/entities/santiagoabascal/"
   - key: "SarahBRogers"
     title: "Sarah B. Rogers"
     url: "/wiki/entities/sarahbrogers/"
@@ -9993,6 +10002,9 @@ topic_sources:
   - key: "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d"
     title: "Latin lessons: the Donroe-doctrine boost"
     url: "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+  - key: "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0"
+    title: "Left in the lurch: Spain’s general election"
+    url: "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
   - key: "little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract"
     title: "Little Mermaid Part 1: The Golden Contract"
     url: "/wiki/sources/little-mermaid-part-1-the-golden-contract-little-mermaid-part-1-the-golden-contract/"

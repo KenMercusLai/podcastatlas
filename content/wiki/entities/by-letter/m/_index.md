@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14904
+wiki_total_pages: 14909
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "MattWalsh"
     title: "Matt Walsh"
     url: "/wiki/entities/mattwalsh/"
+  - key: "Mattel"
+    title: "Mattel"
+    url: "/wiki/entities/mattel/"
   - key: "MatterNeuroscience"
     title: "Matter Neuroscience"
     url: "/wiki/entities/matterneuroscience/"

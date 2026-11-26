@@ -44074,3 +44074,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-26] ingest | Left in the lurch: Spain’s general election
+
+Added the [[EconomistPodcasts]] episode connecting Spain's late snap-election campaign, [[Mattel]]'s attempt to become an entertainment business, and [[RamayanaRiseOfALegend]]'s effort to turn a sacred Indian epic into an international franchise.
+
+Created synthesis-first profiles for [[AlbertoNunezFeijoo]], [[SantiagoAbascal]], Mattel, [[RogerLynch]], and the Ramayana film, plus [[HeadlineGrowthVoterExperienceGap]], [[ToyIPEntertainmentDiversification]], and [[SacredEpicAdaptationConstraint]]. Resynthesized [[PedroSanchez]], [[HousingScarcityElectoralAgendaSetting]], and [[AdultToyMarketExpansion]] from their complete preserved evidence inventories before appending the new source once.
+
+No settled contradiction was adopted. The episode advances the earlier Spanish snap-election account but leaves polling, corruption allegations, causal claims about dissatisfaction, coalition outcomes, and the final result source-dated. Mattel's strategy remains a hypothesis rather than a proven repeatable capability, and the film's reported budget, early revenue, reception, and future franchise remain provisional. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic. The max-age gate required global compaction, which refreshed all nine domain summaries and cleared the pending ingest. Rendered artifacts validate 5,304 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

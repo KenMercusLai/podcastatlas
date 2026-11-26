@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11848
+wiki_total_pages: 11851
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "SacredSymbolicStateFormation"
     title: "Sacred Symbolic State Formation"
     url: "/wiki/concepts/sacredsymbolicstateformation/"
+  - key: "SacredEpicAdaptationConstraint"
+    title: "Sacred-Epic Adaptation Constraint"
+    url: "/wiki/concepts/sacredepicadaptationconstraint/"
   - key: "SacredObjectAuthorityMigration"
     title: "Sacred-Object Authority Migration"
     url: "/wiki/concepts/sacredobjectauthoritymigration/"

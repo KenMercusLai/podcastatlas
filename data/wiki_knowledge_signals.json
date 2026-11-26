@@ -10935,9 +10935,9 @@
       "url": "/wiki/concepts/adultproductsrelationshipsupport/"
     },
     "AdultToyMarketExpansion": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -10945,9 +10945,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/adulttoymarketexpansion/"
     },
     "AdvanceNewsTradingExperiment": {
@@ -14833,6 +14840,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/entities/alberta/"
+    },
+    "AlbertoNunezFeijoo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/albertonunezfeijoo/"
     },
     "AlbigensianCrusade": {
       "episode_count": 2,
@@ -146633,6 +146656,22 @@
       "updated": "2026-07-08",
       "url": "/wiki/concepts/headlesssoftware/"
     },
+    "HeadlineGrowthVoterExperienceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/headlinegrowthvoterexperiencegap/"
+    },
     "HeadphoneUseHearingRisk": {
       "episode_count": 4,
       "show_count": 2,
@@ -155492,9 +155531,9 @@
       "url": "/wiki/concepts/housingrestrictionbackfire/"
     },
     "HousingScarcityElectoralAgendaSetting": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "24e23fedc70442e36d4ea43c405cbb9c [24e23fedc70442e36d4ea43c405cbb9c.mp3？aid=6ac4ce946c844f245fde3434&chid=d556eb54-6160-4.280].md",
@@ -155502,9 +155541,16 @@
           "show": "Economist Podcasts",
           "title": "House call: Spain’s snap election",
           "url": "/wiki/sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c/"
+        },
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/housingscarcityelectoralagendasetting/"
     },
     "HousingSupplyOverRentControl": {
@@ -218117,6 +218163,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/entities/mattwalsh/"
     },
+    "Mattel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/mattel/"
+    },
     "MatthewCoriotti": {
       "episode_count": 1,
       "show_count": 1,
@@ -253022,9 +253084,9 @@
       "url": "/wiki/entities/pedrodeursua/"
     },
     "PedroSanchez": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
@@ -253039,9 +253101,16 @@
           "show": "Economist Podcasts",
           "title": "House call: Spain’s snap election",
           "url": "/wiki/sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c/"
+        },
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-26",
       "url": "/wiki/entities/pedrosanchez/"
     },
     "PeerGroupExperienceSelling": {
@@ -274705,6 +274774,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/ramanspectroscopydiagnosticdata/"
     },
+    "RamayanaRiseOfALegend": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/ramayanariseofalegend/"
+    },
     "RameshSharma": {
       "episode_count": 1,
       "show_count": 1,
@@ -286212,6 +286297,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/rogerlordoftheflies/"
     },
+    "RogerLynch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/rogerlynch/"
+    },
     "RogerMorrice": {
       "episode_count": 1,
       "show_count": 1,
@@ -289693,6 +289794,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/sacralqueenshipandregency/"
     },
+    "SacredEpicAdaptationConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/sacredepicadaptationconstraint/"
+    },
     "SacredHistorySourceCriticism": {
       "episode_count": 3,
       "show_count": 1,
@@ -291573,6 +291690,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
+    },
+    "SantiagoAbascal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/santiagoabascal/"
     },
     "Santorini": {
       "episode_count": 1,
@@ -332208,6 +332341,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/toydesignhumancreativityboundary/"
+    },
+    "ToyIPEntertainmentDiversification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
+          "key": "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0",
+          "show": "Economist Podcasts",
+          "title": "Left in the lurch: Spain’s general election",
+          "url": "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/toyipentertainmentdiversification/"
     },
     "Toyota": {
       "episode_count": 3,

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3836
+topic_total_pages: 3840
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3217,6 +3217,9 @@ topic_concepts:
   - key: "RuralParentChildReading"
     title: "Rural Parent-Child Reading / 乡村亲子阅读"
     url: "/wiki/concepts/ruralparentchildreading/"
+  - key: "SacredEpicAdaptationConstraint"
+    title: "Sacred-Epic Adaptation Constraint"
+    url: "/wiki/concepts/sacredepicadaptationconstraint/"
   - key: "SafetyProductCredibility"
     title: "Safety Product Credibility"
     url: "/wiki/concepts/safetyproductcredibility/"
@@ -6485,6 +6488,9 @@ topic_entities:
   - key: "RalphLordOfTheFlies"
     title: "Ralph / 拉尔夫（《蝇王》）"
     url: "/wiki/entities/ralphlordoftheflies/"
+  - key: "RamayanaRiseOfALegend"
+    title: "Ramayana: Rise of a Legend"
+    url: "/wiki/entities/ramayanariseofalegend/"
   - key: "RanaElKaliouby"
     title: "Rana el Kaliouby"
     url: "/wiki/entities/ranaelkaliouby/"
@@ -6572,6 +6578,9 @@ topic_entities:
   - key: "RogerAscham"
     title: "Roger Ascham"
     url: "/wiki/entities/rogerascham/"
+  - key: "RogerLynch"
+    title: "Roger Lynch"
+    url: "/wiki/entities/rogerlynch/"
   - key: "RooneArledge"
     title: "Roone Arledge"
     url: "/wiki/entities/roonearledge/"
@@ -10986,6 +10995,9 @@ topic_sources:
   - key: "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d"
     title: "Latin lessons: the Donroe-doctrine boost"
     url: "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+  - key: "left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0"
+    title: "Left in the lurch: Spain’s general election"
+    url: "/wiki/sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0/"
   - key: "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4"
     title: "Let’s get this party restarted: Republicans reel from the midterms"
     url: "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"

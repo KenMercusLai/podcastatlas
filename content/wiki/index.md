@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Left in the lurch: Spain’s general election](sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0.md) — Economist Podcasts on Spain's rightward electoral shift, Mattel's entertainment strategy, and the challenge of adapting the Ramayana for a global audience.
 - [AI food slop is on the menu](sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128.md) — Marketplace Tech and Brady Brickner-Wood on uncanny generated food, small-business advertising constraints, embodied appetite, and novelty decay.
 - [Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss](sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771.md) — Huberman Lab Essentials on edge-case discovery, self-experimentation, service-first networking, reciprocal mentorship, annual review, and bounded disclosure of severe personal pain.
 - [A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit](sources/a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks.md) — Laurie Rogers Stokes reconstructs Puritan institutions and everyday life while preserving religious coercion, patriarchy, Indigenous dispossession, enslavement, and war.
@@ -5438,6 +5439,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目](sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a.md) — 声东击西对话人类学家钟淑如，从海南田野调查解释菜市场如何连接小农、摊贩、地方食物、消费者知识与社区治理。
 
 ## Entities
+- [Alberto Núñez Feijóo](entities/AlbertoNunezFeijoo.md) — Centre-right Spanish leader favored by source-dated polling, with a possible Vox coalition as the central governing constraint.
+- [Santiago Abascal](entities/SantiagoAbascal.md) — Vox leader presented as a possible coalition power broker and source of anti-Vox electoral mobilization.
+- [Mattel](entities/Mattel.md) — Toy company testing whether familiar brands can support a repeatable, profitable entertainment business.
+- [Roger Lynch](entities/RogerLynch.md) — Mattel chief executive bringing media experience to its films, games, experiences, and attractions strategy.
+- [Ramayana: Rise of a Legend](entities/RamayanaRiseOfALegend.md) — Large-budget Indian adaptation balancing sacred-story fidelity, cinematic drama, and global-franchise ambition.
 - [Brady Brickner-Wood](entities/BradyBricknerWood.md) — Cultural critic distinguishing appetite-oriented photographic craft from uncanny, purpose-defeating AI food imagery.
 - [Laurie Rogers Stokes](entities/LaurieRogersStokes.md) — Historian using institutional and everyday records to complicate Puritan stereotypes without minimizing colonial violence.
 - [Puritans](entities/Puritans.md) — English Protestant reformers whose Massachusetts commonwealth joined congregational self-government to bounded liberty and settler-colonial coercion.
@@ -20447,6 +20453,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
+- [Headline Growth–Voter Experience Gap](concepts/HeadlineGrowthVoterExperienceGap.md) — Divergence between favorable aggregate indicators and household or electoral experience under scarcity and institutional strain.
+- [Toy-IP Entertainment Diversification](concepts/ToyIPEntertainmentDiversification.md) — Strategy of extending toy brands into films, games, attractions, and experiences, where value capture and repeatability remain decisive.
+- [Sacred-Epic Adaptation Constraint](concepts/SacredEpicAdaptationConstraint.md) — Dual pressure to preserve a revered story's legitimacy while creating dramatic and globally accessible cinema.
 - [AI Food Advertising](concepts/AIFoodAdvertising.md) — Generated restaurant imagery whose success depends on appetite, sensory credibility, product evidence, and human review rather than photorealism alone.
 - [Service-First Networking](concepts/ServiceFirstNetworking.md) — Builds professional trust through useful contribution, reliability, selective depth, and non-entitlement.
 - [Reciprocal Mentorship](concepts/ReciprocalMentorship.md) — Frames mentorship as mutual, trait-specific, and sometimes bounded paid guidance rather than indefinite one-way obligation.

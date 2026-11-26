@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11848
+wiki_total_pages: 11851
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "HeadlessSoftware"
     title: "Headless Software"
     url: "/wiki/concepts/headlesssoftware/"
+  - key: "HeadlineGrowthVoterExperienceGap"
+    title: "Headline Growth–Voter Experience Gap"
+    url: "/wiki/concepts/headlinegrowthvoterexperiencegap/"
   - key: "HeadphoneUseHearingRisk"
     title: "Headphone Use Hearing Risk"
     url: "/wiki/concepts/headphoneusehearingrisk/"

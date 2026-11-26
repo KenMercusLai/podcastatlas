@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14904
+wiki_total_pages: 14909
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "RamShriram"
     title: "Ram Shriram"
     url: "/wiki/entities/ramshriram/"
+  - key: "RamayanaRiseOfALegend"
+    title: "Ramayana: Rise of a Legend"
+    url: "/wiki/entities/ramayanariseofalegend/"
   - key: "RameshSharma"
     title: "Ramesh Sharma"
     url: "/wiki/entities/rameshsharma/"
@@ -911,6 +914,9 @@ wiki_pages:
   - key: "RogerClarke"
     title: "Roger Clarke"
     url: "/wiki/entities/rogerclarke/"
+  - key: "RogerLynch"
+    title: "Roger Lynch"
+    url: "/wiki/entities/rogerlynch/"
   - key: "RogerMorrice"
     title: "Roger Morrice"
     url: "/wiki/entities/rogermorrice/"

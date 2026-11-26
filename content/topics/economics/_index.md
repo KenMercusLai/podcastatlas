@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2432
+topic_total_pages: 2433
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1690,6 +1690,9 @@ topic_concepts:
   - key: "HawkeKeatingReformSettlement"
     title: "Hawke-Keating Reform Settlement"
     url: "/wiki/concepts/hawkekeatingreformsettlement/"
+  - key: "HeadlineGrowthVoterExperienceGap"
+    title: "Headline Growth–Voter Experience Gap"
+    url: "/wiki/concepts/headlinegrowthvoterexperiencegap/"
   - key: "HealthcarePayerHorizonMismatch"
     title: "Healthcare Payer Horizon Mismatch"
     url: "/wiki/concepts/healthcarepayerhorizonmismatch/"

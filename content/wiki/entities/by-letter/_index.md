@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14904
+wiki_total_pages: 14909
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "AlbertaMachineIntelligenceInstitute"
     title: "Alberta Machine Intelligence Institute"
     url: "/wiki/entities/albertamachineintelligenceinstitute/"
+  - key: "AlbertoNunezFeijoo"
+    title: "Alberto Núñez Feijóo"
+    url: "/wiki/entities/albertonunezfeijoo/"
   - key: "Albuquerque"
     title: "Albuquerque"
     url: "/wiki/entities/albuquerque/"

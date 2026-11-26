@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14904
+wiki_total_pages: 14909
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "SantaClaus"
     title: "Santa Claus"
     url: "/wiki/entities/santaclaus/"
+  - key: "SantiagoAbascal"
+    title: "Santiago Abascal"
+    url: "/wiki/entities/santiagoabascal/"
   - key: "Santorini"
     title: "Santorini"
     url: "/wiki/entities/santorini/"

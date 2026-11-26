@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11848
+wiki_total_pages: 11851
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "ToyInventorLicensingPath"
     title: "Toy Inventor Licensing Path"
     url: "/wiki/concepts/toyinventorlicensingpath/"
+  - key: "ToyIPEntertainmentDiversification"
+    title: "Toy-IP Entertainment Diversification"
+    url: "/wiki/concepts/toyipentertainmentdiversification/"
   - key: "ToyotaProductionSystemPersonalWaste"
     title: "Toyota Production System Personal Waste"
     url: "/wiki/concepts/toyotaproductionsystempersonalwaste/"

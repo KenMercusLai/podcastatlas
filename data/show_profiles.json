@@ -403,20 +403,20 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-11-26",
       "latest_episode_file": "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
-      "source_note_count": 127,
-      "topic_matched_source_note_count": 108,
+      "source_note_count": 128,
+      "topic_matched_source_note_count": 109,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 74
+          "source_note_count": 75
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 35
+          "source_note_count": 36
         },
         {
           "key": "technology",
@@ -490,10 +490,10 @@
         }
       ],
       "start_here_episode_files": [
-        "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
-        "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md",
+        "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md",
         "6593564fdb356af5bba0c4c825a6b361 [6593564fdb356af5bba0c4c825a6b361.mp3？aid=6b0029dc322405712ca22bff&chid=d556eb54-6160-4.281].md",
-        "f9a9608c40ea7371c98aaab648d8d8b0 [f9a9608c40ea7371c98aaab648d8d8b0.mp3？aid=6b0810df19eabcafe8be2474&chid=d556eb54-6160-4.282].md"
+        "a9cfdd53e637fbdfdb684cf03b8222f4 [a9cfdd53e637fbdfdb684cf03b8222f4.mp3？aid=6b06bf53b6f9fb45eca7d2de&chid=d556eb54-6160-4.282].md",
+        "4ab9c826f3af56583bd2285185f8fde8 [4ab9c826f3af56583bd2285185f8fde8.mp3？aid=6b0570ccced26bb723ddd995&chid=d556eb54-6160-4.282].md"
       ]
     },
     "Freakonomics Radio": {
