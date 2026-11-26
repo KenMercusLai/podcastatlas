@@ -5,7 +5,8 @@ tags: [ethics, exploration, colonialism, first-contact]
 sources:
   - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
   - 725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488
-last_updated: 2026-11-23
+  - 726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115
+last_updated: 2026-11-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Non-interference is therefore better understood as a discipline of minimizing co
 
 The later account adds two sharper limits. Cook's kidnapping of leaders to recover deserters or property shows that an instruction to cultivate friendship can coexist with deliberate hostage-taking. His own criticism of European disease, disruptive desire, and moral corruption shows that participants could recognize contact damage while continuing the practices that produced it. Recognition is ethically relevant, but it is not prevention.
 
+Hawaii adds ritual expectation, duration, and resource consumption to the framework. An initial British shooting did not end relations, and elaborate ceremony later coexisted with uncertainty about what obligations either side believed it created. After the expedition's apparent departure and forced return, colder trade, theft, flogging, humiliation, blockade, gunfire at canoes, and Cook's attempt to take the king made “contact” an armed contest over property, sovereignty, and exit. A tactic normalized elsewhere in Polynesia was not politically neutral when applied to [[Kalaniopuu|Kalaniʻōpuʻu]].
+
 ## Key Claims
 
 - Physical presence changes incentives and expectations before any formal political intervention occurs.
@@ -31,7 +34,7 @@ The later account adds two sharper limits. Cook's kidnapping of leaders to recov
 - Translation reduces misunderstanding but cannot equalize weapons or erase coercive threats.
 - Scientific collection and observation can objectify people and remove objects even without planned conquest.
 - Regret, curiosity, personal restraint, and explicit criticism of European harm matter morally but do not make an encounter neutral.
-- Hostage-taking and collective reprisal expose the boundary between stated friendship and coercive expedition control.
+- Hostage-taking, collective reprisal, blockade, and resource pressure expose the boundary between stated friendship and coercive expedition control.
 
 ## Evidence
 
@@ -42,6 +45,8 @@ The later account adds two sharper limits. Cook's kidnapping of leaders to recov
 - Tahitian coercion: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] contrasts Cook's instruction to use "all imaginable humanity" with lethal theft response and the kidnapping of Queen Oberea and chiefs to recover deserters.
 - Recognition without exit: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] records Cook blaming Europeans for disease, new desires, and corruption while he remained an expeditionary commander.
 - Escalating reprisal: [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]] shows later destruction of canoes, paddles, and houses after theft, making proportionality part of the non-interference problem.
+- Hawaiian contact sequence: [[726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115]] follows first-contact killing, ceremonial reception, prolonged provisioning, unexpected return, theft, punishment, blockade, canoe fire, and attempted royal abduction.
+- Ritual translation: [[726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115]] shows that participation in welcome ceremonies without shared understanding can create obligations and expectations neither side can reliably interpret.
 
 ## Counterevidence & Qualifications
 
@@ -50,10 +55,12 @@ The later account adds two sharper limits. Cook's kidnapping of leaders to recov
 - Specific communities exercised agency and sometimes benefited from or sought exchange, so “interference” should not erase local choice.
 - The source does not provide a complete Tahitian, Māori, or Aboriginal ethical evaluation of the encounters.
 - Cook's earlier voyages already involved coercion and lethal force, so the third-voyage deterioration is a change in degree and pattern rather than a fall from complete nonviolence.
+- The episode cannot establish whether ritual timing, food pressure, occupation fear, insult, property conflict, or factional politics best explains the colder Hawaiian response; these mechanisms may have overlapped.
 
 ## What Changed
 
-- Added hostage-taking, recognized contact damage, and collective reprisal as limits on stated friendship and restraint.
+- Added ritual expectation, resource duration, blockade, and royal hostage-taking as limits on stated friendship and restraint.
+- Extended the framework from first arrival to the risks created by departure, unexpected return, and failed exit.
 
 ## Related Concepts
 
@@ -62,3 +69,4 @@ The later account adds two sharper limits. Cook's kidnapping of leaders to recov
 - [[PolynesianNavigation]] - Indigenous knowledge that reverses a one-way European discovery frame.
 - [[StrategicAccessWithoutAnnexation]] - later distinction between access and ownership that clarifies, but does not erase, power.
 - [[ExpeditionaryCommandDeterioration]] - leadership change that intensified coercion and disproportionality during the third voyage.
+- [[CookLonoDebate]] - ritual-translation dispute showing why even ceremonial welcome cannot be treated as transparent shared meaning.

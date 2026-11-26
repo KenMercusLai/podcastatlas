@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14886
+wiki_total_pages: 14889
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "GameStop"
     title: "GameStop"
     url: "/wiki/entities/gamestop/"
+  - key: "GananathObeyesekere"
+    title: "Gananath Obeyesekere"
+    url: "/wiki/entities/gananathobeyesekere/"
   - key: "Ganesha"
     title: "Ganesha"
     url: "/wiki/entities/ganesha/"

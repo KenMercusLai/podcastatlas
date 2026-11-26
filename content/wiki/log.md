@@ -43972,3 +43972,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-26] ingest | 726. The Death of Captain Cook: Massacre on the Beach (Part 2)
+
+Added the [[TheRestIsHistory]] continuation covering [[JamesCook]]'s failed Arctic mission, Hawaiian ceremonial reception, unexpected return, attempt to take [[Kalaniopuu|Kalaniʻōpuʻu]] hostage, death at Kealakekua Bay, and contested public memory. Created Kalaniʻōpuʻu, [[MarshallSahlins]], [[GananathObeyesekere]], and the [[CookLonoDebate]].
+
+Resynthesized Cook, [[ExpeditionaryCommandDeterioration]], and [[FirstContactNonInterference]] from their complete preserved evidence inventories before appending the new source once. The update treats Makahiki alignment as substantial evidence without claiming certainty that Hawaiians literally regarded Cook as Lono, and it separates documented volatility, disproportionate coercion, and tactical narrowing from unsupported medical diagnosis.
+
+No settled contradiction was adopted. The British humane-martyr image conflicts with the episode's reconstruction of blockade and attempted royal abduction, but a flat colonial-villain image also compresses Cook's change over time and scientific achievement. Hawaiian ritual categories, the meaning of “Orono,” motives for the colder welcome, eyewitness reconstruction, and Cook's final intentions remain source-scoped through records dominated by British testimony.
+
+Downstream synthesis refreshed the dirty history-and-geopolitics and science-health-and-climate topics from their complete bounded inputs. Global compaction was not due. The rendered artifacts cover 5,297 sources across 812 overview paragraphs and nine topics.
+
+Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

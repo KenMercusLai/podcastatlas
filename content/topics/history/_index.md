@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2850
+topic_total_pages: 2853
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2225,6 +2225,9 @@ topic_entities:
   - key: "Fuliang"
     title: "Fuliang / 浮梁"
     url: "/wiki/entities/fuliang/"
+  - key: "GananathObeyesekere"
+    title: "Gananath Obeyesekere"
+    url: "/wiki/entities/gananathobeyesekere/"
   - key: "GeHong"
     title: "Ge Hong / 葛洪"
     url: "/wiki/entities/gehong/"
@@ -2390,6 +2393,9 @@ topic_entities:
   - key: "Mariupol"
     title: "Mariupol / 马里乌波尔"
     url: "/wiki/entities/mariupol/"
+  - key: "MarshallSahlins"
+    title: "Marshall Sahlins"
+    url: "/wiki/entities/marshallsahlins/"
   - key: "Masada"
     title: "Masada"
     url: "/wiki/entities/masada/"
@@ -7335,6 +7341,9 @@ topic_sources:
   - key: "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488"
     title: "725. The Death of Captain Cook: At World's End (Part 1)"
     url: "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+  - key: "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115"
+    title: "726. The Death of Captain Cook: Massacre on the Beach (Part 2)"
+    url: "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
   - key: "73-england-v-italy-glt3184835237"
     title: "73. England v Italy"
     url: "/wiki/sources/73-england-v-italy-glt3184835237/"

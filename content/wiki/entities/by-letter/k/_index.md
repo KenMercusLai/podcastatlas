@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14886
+wiki_total_pages: 14889
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "Kakapo"
     title: "Kakapo / 宵鹦鹉"
     url: "/wiki/entities/kakapo/"
+  - key: "Kalaniopuu"
+    title: "Kalaniʻōpuʻu"
+    url: "/wiki/entities/kalaniopuu/"
   - key: "KaleGreen"
     title: "Kale Green"
     url: "/wiki/entities/kalegreen/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [726. The Death of Captain Cook: Massacre on the Beach (Part 2)](sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115.md) — The Rest Is History reconstructs Cook's Hawaiian reception, failed Arctic mission, unexpected return, attempted royal hostage-taking, death, and contested Lono and martyr interpretations.
 - [AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？](sources/fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282.md) — 端聞追踪山西永和县“宝妈”标注工的就业收益、计件控制、内容审核伤害，以及基础任务自动化后的地方性失业。
 - [Why Silicon Valley can’t let go of its superstar CEOs](sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128.md) — Marketplace Tech on founder indispensability, venture-network amplification, succession risk, and public-company accountability.
 - [Why Is It So Hard (and Expensive) to Build Anything in America? (Update)](sources/default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951-default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951.md) — Freakonomics Radio on construction-productivity stagnation, fragmented incentives, land-use constraints, and the institutional requirements for modular building.
@@ -20417,6 +20418,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hudson River Trading](entities/HudsonRiverTrading.md) — Electronic quantitative trading firm named in the episode's sector survey.
 - [Eckhart Tolle](entities/EckhartTolle.md) — Spiritual teacher presenting sensory attention, stillness, and non-identification with thought as practices for ordinary life.
 
+- [Kalaniʻōpuʻu](entities/Kalaniopuu.md) — Hawaiian king whose ceremonial exchange with Cook, concern at the expedition's return, and resistance to attempted abduction shaped the fatal Kealakekua confrontation.
+
+- [Marshall Sahlins](entities/MarshallSahlins.md) — Anthropologist whose Makahiki interpretation connects Cook's route, timing, symbols, and ceremonies to the return of Lono.
+- [Gananath Obeyesekere](entities/GananathObeyesekere.md) — Anthropologist whose colonial-projection critique disputes a simple literal reading of Cook as a Hawaiian god.
+
 ## Concepts
 - [Data Annotation Labor / 数据标注劳动](concepts/DataAnnotationLabor.md) — Human labeling, transcription, classification, and checking work behind machine-learning systems.
 - [Algorithmic Piece-Rate Control / 算法化计件控制](concepts/AlgorithmicPieceRateControl.md) — Work regime combining per-item pay with target speed, accuracy gates, comparison, and retraining.
@@ -32365,5 +32371,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Community Mental Health Support / 社區精神健康支持](concepts/CommunityMentalHealthSupport.md) — 在急性醫療之外連結個案管理、復健、居住、工作、照顧者支持、地方交付與鄰里接納的持續支持層。
 - [Conceptual Identity and Direct Awareness](concepts/ConceptualIdentityAndDirectAwareness.md) — Distinguishes useful concepts, labels, and judgments from direct perception and the awareness in which mental representations appear.
+
+- [Cook–Lono Debate](concepts/CookLonoDebate.md) — Contested interpretation of whether Cook's Makahiki reception made him Lono, an exceptional chief, or a figure poorly captured by Western human-divine categories.
 
 ## Syntheses

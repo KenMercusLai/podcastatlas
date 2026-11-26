@@ -70437,6 +70437,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/conversationalutilitypayment/"
     },
+    "CookLonoDebate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/cooklonodebate/"
+    },
     "CookingAsCivilizationalLabor": {
       "episode_count": 1,
       "show_count": 1,
@@ -109475,9 +109491,9 @@
       "url": "/wiki/concepts/expeditionteamtrust/"
     },
     "ExpeditionaryCommandDeterioration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6692579488 [GLT6692579488].md",
@@ -109485,9 +109501,16 @@
           "show": "The Rest Is History",
           "title": "725. The Death of Captain Cook: At World's End (Part 1)",
           "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+        },
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
         }
       ],
-      "updated": "2026-11-23",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/expeditionarycommanddeterioration/"
     },
     "ExperienceAsInterpretiveLensAndConstraint": {
@@ -117646,9 +117669,9 @@
       "url": "/wiki/entities/firstbattleofypres/"
     },
     "FirstContactNonInterference": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -117663,9 +117686,16 @@
           "show": "The Rest Is History",
           "title": "725. The Death of Captain Cook: At World's End (Part 1)",
           "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+        },
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
         }
       ],
-      "updated": "2026-11-23",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/firstcontactnoninterference/"
     },
     "FirstDingxiangCampaignWesternHan": {
@@ -128109,6 +128139,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/ganzhongkewesternhan/"
+    },
+    "GananathObeyesekere": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/gananathobeyesekere/"
     },
     "Ganesha": {
       "episode_count": 1,
@@ -172771,9 +172817,9 @@
       "url": "/wiki/entities/jamesconnolly/"
     },
     "JamesCook": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -172809,9 +172855,16 @@
           "show": "The Rest Is History",
           "title": "725. The Death of Captain Cook: At World's End (Part 1)",
           "url": "/wiki/sources/725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488/"
+        },
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
         }
       ],
-      "updated": "2026-11-23",
+      "updated": "2026-11-26",
       "url": "/wiki/entities/jamescook/"
     },
     "JamesDouglasEarlOfMorton": {
@@ -183225,6 +183278,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/kaiserwilhelmii/"
+    },
+    "Kalaniopuu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/kalaniopuu/"
     },
     "KaleGreen": {
       "episode_count": 1,
@@ -216000,6 +216069,22 @@
       ],
       "updated": "2026-10-22",
       "url": "/wiki/concepts/marriagetimelineautonomy/"
+    },
+    "MarshallSahlins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770007115 [GLT2770007115].md",
+          "key": "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+          "show": "The Rest Is History",
+          "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)",
+          "url": "/wiki/sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/marshallsahlins/"
     },
     "MarshmallowTestContext": {
       "episode_count": 1,

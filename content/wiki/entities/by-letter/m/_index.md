@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14886
+wiki_total_pages: 14889
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "MarshallMcLuhan"
     title: "Marshall McLuhan / 麦克卢汉"
     url: "/wiki/entities/marshallmcluhan/"
+  - key: "MarshallSahlins"
+    title: "Marshall Sahlins"
+    url: "/wiki/entities/marshallsahlins/"
   - key: "MarthaBeck"
     title: "Martha Beck"
     url: "/wiki/entities/marthabeck/"

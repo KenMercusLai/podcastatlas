@@ -812,12 +812,12 @@
       "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
       "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a",
       "d26832b5069872e77e47b2673ef7c74133a8832a9ca6aef8f2dd087e358b7636",
-      "9c0b33a0a99a82b94d55bde89b546def24f14cffa52da627c4c1325f56774f04"
+      "57517a9111d61947f0e8919eac32c0355ba0d2c3d53a67c3546b99ffe88484a0"
     ],
     "paragraph_count": 812
   },
-  "overview_commit": "5d446c12a54fca582e100852b05fd623b951eb1b",
-  "overview_digest": "268434e0d648793dd5c9da68c4f4977e440b7f06279357249fa87fd2e7a5a067",
+  "overview_commit": "d97ebcdfe246900fa4756bb50ab2381dcf56793c",
+  "overview_digest": "3cf58b26bac0e8c206c5447daf8ad3cbfa966384984d98f82baa015076b11f3c",
   "paragraphs": [
     {
       "id": "db527a52393f1b38fbff139f3a01ba168ed954b3ce175d1e2f9a667ddf61185f",
@@ -23628,23 +23628,24 @@
       ]
     },
     {
-      "id": "9c0b33a0a99a82b94d55bde89b546def24f14cffa52da627c4c1325f56774f04",
-      "primary_topic": "science-health-and-climate",
-      "secondary_topics": [],
-      "text": "The latest Pacific-history addition is [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488|725. The Death of Captain Cook: At World's End (Part 1)]], a [[TheRestIsHistory]] episode extending [[JamesCook]] from first-voyage survey, science, coercion, and territorial claim through the Antarctic achievement of the second voyage and punitive deterioration of the third. It adds [[Omai]], [[TobiasFurneaux]], and [[ExpeditionaryCommandDeterioration]] while resynthesizing [[ScientificExplorationImperialClaim]] and [[FirstContactNonInterference]]. Its core synthesis is that genuine scientific achievement, criticism of European contact damage, and attempts at restraint coexisted with kidnapping, killing, possession, and collective punishment; by the third voyage, unusually severe flogging, mutilation, and destruction marked a change recognized by Cook's officers. No settled contradiction is adopted. Exhaustion, illness, delay, crowding, shortage, and command pressure supply plausible context but not a diagnosis or single cause, while Pacific perspectives, exact casualties, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped through European records.",
+      "id": "57517a9111d61947f0e8919eac32c0355ba0d2c3d53a67c3546b99ffe88484a0",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The latest Pacific-history addition is [[726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115|726. The Death of Captain Cook: Massacre on the Beach (Part 2)]], a [[TheRestIsHistory]] episode completing [[JamesCook]]'s third voyage from the failed Northwest Passage search through his ceremonial reception, storm-forced return, attempt to take [[Kalaniopuu|Kalaniʻōpuʻu]] hostage, and death at Kealakekua Bay. It adds Kalaniʻōpuʻu and the [[CookLonoDebate]] while resynthesizing Cook, [[ExpeditionaryCommandDeterioration]], and [[FirstContactNonInterference]]. Its core synthesis is that Makahiki strongly shaped Cook's reception without settling whether Hawaiians regarded him literally as Lono, while mission strain, resource pressure, theft, punishment, blockade, unequal firepower, and royal abduction converted cultural uncertainty into reciprocal escalation. No settled contradiction is adopted. The British humane-martyr image suppresses Cook's coercive final decisions, but a flat colonial-villain image also compresses change over time and real scientific achievement; Hawaiian ritual categories, motives for the colder welcome, eyewitness reconstruction, and Cook's final intentions remain source-scoped through records dominated by British testimony.",
       "topic_scores": {
         "history-and-geopolitics": 1,
-        "science-health-and-climate": 3
+        "science-health-and-climate": 1
       },
       "wikilinks": [
-        "725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488",
+        "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115",
+        "CookLonoDebate",
         "ExpeditionaryCommandDeterioration",
         "FirstContactNonInterference",
         "JamesCook",
-        "Omai",
-        "ScientificExplorationImperialClaim",
-        "TheRestIsHistory",
-        "TobiasFurneaux"
+        "Kalaniopuu",
+        "TheRestIsHistory"
       ]
     }
   ],

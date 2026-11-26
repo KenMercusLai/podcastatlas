@@ -8340,6 +8340,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "73-england-v-italy-glt3184835237": [
     {
       "key": "history",
@@ -43214,6 +43221,13 @@
       "url": "/topics/history/"
     }
   ],
+  "GananathObeyesekere": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "GanquanPalace": [
     {
       "key": "technology",
@@ -63640,6 +63654,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MarshallSahlins": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MarshmallowTestContext": [

@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-11-23
-as_of_overview_commit: 72f0ef185b654a3651fdacbdf8880db4e5e8e3a3
-input_digest: 88d0c93d2252ffbf983a55f2c2a382b56e2edbf28fb576fabb31cd80befe1e6d
+as_of_overview_commit: d97ebcdfe246900fa4756bb50ab2381dcf56793c
+input_digest: d995ca77839d85e390f1c3f1cefb0842ce5669891481f9bf4281fcc380bd4506
 ---
 
 # Science, Health, and Climate
@@ -1026,12 +1026,13 @@ The Conti series opener adds a health-literacy boundary: [[MentalHealthStructure
 
 ### Expeditionary Science And Command Change Need Power And Diagnosis Boundaries
 
-[[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488|The Cook episode]] adds a historical science-and-command boundary: [[ScientificExplorationImperialClaim]] joins genuine navigational, cartographic, chronometer, and Antarctic knowledge to strategic route search, possession, and coercion; [[FirstContactNonInterference]] shows that criticism of European contact damage did not end kidnapping or collective punishment; and [[ExpeditionaryCommandDeterioration]] treats the third voyage's unusually severe flogging, mutilation, and destruction as an observed behavioral change without converting strain into a diagnosis.
+[[726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115|The Cook finale]] preserves a historical science-and-command boundary: [[ExpeditionaryCommandDeterioration]] extends through the failed Arctic mission, blockade, confidence in firearms, and attempted royal hostage-taking, while the [[CookLonoDebate]] keeps Hawaiian ritual status unresolved rather than medicalizing or simplifying the fatal encounter.
 
-**Evidence:** [[725-the-death-of-captain-cook-at-worlds-end-part-1-glt6692579488]], [[JamesCook]], [[ScientificExplorationImperialClaim]], [[FirstContactNonInterference]], [[ExpeditionaryCommandDeterioration]], [[Omai]], [[TobiasFurneaux]]
+**Evidence:** [[726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115]], [[JamesCook]], [[FirstContactNonInterference]], [[ExpeditionaryCommandDeterioration]], [[CookLonoDebate]], [[Kalaniopuu]], [[TheRestIsHistory]]
 
 **Qualifications:**
 
-- The episode is a popular-history synthesis based largely on European records, so Pacific perspectives, exact casualties, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped.
+- The two-part account is a popular-history synthesis based largely on European records, so Pacific perspectives, Hawaiian ritual categories, exact casualties, quoted wording, and Cook's health and final intentions remain source-scoped.
 - Earlier kidnapping, lethal force, territorial claim, and collective coercion prevent the third voyage from being framed as a fall from complete nonviolence.
-- Exhaustion, illness, delay, crowding, shortage, and prolonged command pressure are plausible context but do not establish a medical diagnosis, one psychological mechanism, or sole causation.
+- Exhaustion, illness, failed Arctic passage, delay, resource pressure, and prolonged command strain are plausible context but do not establish a medical diagnosis, one psychological mechanism, or sole causation.
+- Makahiki alignment supports a serious Lono interpretation but does not establish one literal or uniform Hawaiian belief.
