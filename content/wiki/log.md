@@ -43973,6 +43973,16 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-26] ingest | A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit
+
+Added the episode with historian [[LaurieRogersStokes]] on the [[Puritans]], [[MassachusettsBayColony]], and the [[GreatMigrationNewEngland|Great Migration to New England]]. Created [[PuritanCovenantalCommonwealth]] to connect congregational autonomy, town representation, literacy, public law, mediation, and bounded membership, and [[PuritanHistoricalMythmaking]] to separate correction of familiar stereotypes from moral rehabilitation.
+
+The episode qualifies claims that Puritans uniformly wore black, rejected music or marital pleasure, prohibited divorce, routinely imposed scarlet-letter punishment, or treated Salem's evidentiary breakdown as normal justice. No settled contradiction was adopted: procedural protections, education, internal representation, and communal restoration coexist with patriarchy, compulsory conformity, Quaker executions, Indigenous land seizure, enslavement, cultural suppression, and war.
+
+Migration totals, literacy comparisons, witchcraft figures, casualty estimates, legal “firsts,” and causal claims about charter revocation remain episode-attributed because the supplied file is a structured summary without full citations or transcript context. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,300 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-26] ingest | 726. The Death of Captain Cook: Massacre on the Beach (Part 2)
 
 Added the [[TheRestIsHistory]] continuation covering [[JamesCook]]'s failed Arctic mission, Hawaiian ceremonial reception, unexpected return, attempt to take [[Kalaniopuu|Kalaniʻōpuʻu]] hostage, death at Kealakekua Bay, and contested public memory. Created Kalaniʻōpuʻu, [[MarshallSahlins]], [[GananathObeyesekere]], and the [[CookLonoDebate]].
@@ -44014,6 +44024,10 @@ Created synthesis-first profiles for Qilin, the book, Martin, and Qipeishi, plus
 No settled contradiction was adopted. The title-body 齐林/麒麟 discrepancy remains explicit; historical-photography authorship claims, conflict and casualty accounts, route details, conservation politics, and the effects of documentary images remain source-scoped because the supplied file is a structured summary without complete citations or transcript context. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,299 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-26] lint | Wiki health check
 

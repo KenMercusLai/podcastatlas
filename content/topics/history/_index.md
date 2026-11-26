@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2853
+topic_total_pages: 2854
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7440,6 +7440,9 @@ topic_sources:
   - key: "99-thermopylae-salamis-episode-2-glt9857497334"
     title: "99. Thermopylae & Salamis Episode 2"
     url: "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+  - key: "a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks"
+    title: "A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit"
+    url: "/wiki/sources/a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks/"
   - key: "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey"
     title: "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War"
     url: "/wiki/sources/a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey/"

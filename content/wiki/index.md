@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit](sources/a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks.md) — Laurie Rogers Stokes reconstructs Puritan institutions and everyday life while preserving religious coercion, patriarchy, Indigenous dispossession, enslavement, and war.
 - [726. The Death of Captain Cook: Massacre on the Beach (Part 2)](sources/726-the-death-of-captain-cook-massacre-on-the-beach-part-2-glt2770007115.md) — The Rest Is History reconstructs Cook's Hawaiian reception, failed Arctic mission, unexpected return, attempted royal hostage-taking, death, and contested Lono and martyr interpretations.
 - [AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？](sources/fd1dff2221c6059b14dbae1c9b96e032-fd1dff2221c6059b14dbae1c9b96e032mp3aid6b06b256ea5e837f8fe77554chid66b07190af99592282.md) — 端聞追踪山西永和县“宝妈”标注工的就业收益、计件控制、内容审核伤害，以及基础任务自动化后的地方性失业。
 - [Why Silicon Valley can’t let go of its superstar CEOs](sources/tech-20261125-1125-mp-tech-pod-128-tech-20261125-1125-mp-tech-pod-128.md) — Marketplace Tech on founder indispensability, venture-network amplification, succession risk, and public-company accountability.
@@ -5434,6 +5435,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)](sources/vmp5702291377-vmp5702291377.md) — How I Built This interview on Wikipedia's low-barrier collaboration, volunteer governance, sourcing norms, nonprofit structure, and small-donor funding.
 
 ## Entities
+- [Laurie Rogers Stokes](entities/LaurieRogersStokes.md) — Historian using institutional and everyday records to complicate Puritan stereotypes without minimizing colonial violence.
+- [Puritans](entities/Puritans.md) — English Protestant reformers whose Massachusetts commonwealth joined congregational self-government to bounded liberty and settler-colonial coercion.
+- [Massachusetts Bay Colony](entities/MassachusettsBayColony.md) — Charter-based Puritan colony combining towns, representation, literacy, written law, conformity, and Indigenous dispossession.
+- [Great Migration to New England](entities/GreatMigrationNewEngland.md) — Family-based movement that supplied the demographic and professional base for a permanent Puritan commonwealth.
 - [山西永和县 / Yonghe County](entities/YongheCounty.md) — Basic AI annotation briefly expanded local employment, but the small county could not retain demand as tasks required specialist graduate cohorts.
 - [永和爱豆科技 / Yonghe Aido Technology](entities/YongheAidoTechnology.md) — County annotation employer whose rapid growth, tightly measured work, hazardous review, and contraction anchor the episode.
 - [David Karp](entities/DavidKarp.md) — George Washington University professor analyzing founder culture, venture networks, succession, and board accountability.
@@ -20437,6 +20442,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wikimedia Foundation](entities/WikimediaFoundation.md) — Nonprofit institutional layer associated with Wikipedia's small-donor model and public-knowledge mission.
 
 ## Concepts
+- [Puritan Covenantal Commonwealth](concepts/PuritanCovenantalCommonwealth.md) — Religious-civic model joining congregational autonomy, town government, literacy, public law, discipline, and bounded membership.
+- [Puritan Historical Mythmaking](concepts/PuritanHistoricalMythmaking.md) — Competing simplifications of Puritan New England as joyless theocracy, repressive origin, cradle of liberty, or godly national model.
 - [Data Annotation Labor / 数据标注劳动](concepts/DataAnnotationLabor.md) — Human labeling, transcription, classification, and checking work behind machine-learning systems.
 - [Algorithmic Piece-Rate Control / 算法化计件控制](concepts/AlgorithmicPieceRateControl.md) — Work regime combining per-item pay with target speed, accuracy gates, comparison, and retraining.
 - [Content Moderation Occupational Harm / 内容审核职业伤害](concepts/ContentModerationOccupationalHarm.md) — Physical and psychological burden from repeated disturbing-content review under production targets.

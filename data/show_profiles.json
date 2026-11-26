@@ -1020,8 +1020,8 @@
       "earliest_episode_date": "2016-06-03",
       "latest_episode_date": "2026-11-26",
       "latest_episode_file": "A_Day_in_the_Life_of_a_Puritan_A_Thanksgiving_Special_from_American_History_Hit [A_Day_in_the_Life_of_a_Puritan_A_Thanks.md",
-      "source_note_count": 215,
-      "topic_matched_source_note_count": 82,
+      "source_note_count": 216,
+      "topic_matched_source_note_count": 83,
       "topics": [
         {
           "key": "culture",
@@ -1033,7 +1033,7 @@
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "politics",
@@ -1108,7 +1108,7 @@
       ],
       "start_here_episode_files": [
         "Pete_Hegseth_s_Spiritual_Adviser_Wants_a_Christian_America_From_Reveal [Pete_Hegseth_s_Spiritual_Adviser_Wants_a_Christi.md",
-        "President_Barack_Obama_Malcolm_Gladwell_How_Reconstruction_Still_Defines_America [President_Barack_Obama_Malcolm_Gladwel.md",
+        "A_Day_in_the_Life_of_a_Puritan_A_Thanksgiving_Special_from_American_History_Hit [A_Day_in_the_Life_of_a_Puritan_A_Thanks.md",
         "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
         "Rat_vs_Raccoon [Rat_vs_Raccoon].md"
       ]

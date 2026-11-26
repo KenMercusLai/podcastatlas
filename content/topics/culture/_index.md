@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3835
+topic_total_pages: 3836
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3064,6 +3064,9 @@ topic_concepts:
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"
+  - key: "PuritanHistoricalMythmaking"
+    title: "Puritan Historical Mythmaking"
+    url: "/wiki/concepts/puritanhistoricalmythmaking/"
   - key: "PurposeIdentityLockIn"
     title: "Purpose Identity Lock-In / 目标身份锁定"
     url: "/wiki/concepts/purposeidentitylockin/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14898
+wiki_total_pages: 14902
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "Mashie"
     title: "Mashie"
     url: "/wiki/entities/mashie/"
+  - key: "MassachusettsBayColony"
+    title: "Massachusetts Bay Colony"
+    url: "/wiki/entities/massachusettsbaycolony/"
   - key: "MassachusettsInvestorsTrust"
     title: "Massachusetts Investors Trust"
     url: "/wiki/entities/massachusettsinvestorstrust/"

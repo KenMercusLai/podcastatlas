@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11838
+wiki_total_pages: 11840
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3074,6 +3074,12 @@ wiki_pages:
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"
+  - key: "PuritanCovenantalCommonwealth"
+    title: "Puritan Covenantal Commonwealth"
+    url: "/wiki/concepts/puritancovenantalcommonwealth/"
+  - key: "PuritanHistoricalMythmaking"
+    title: "Puritan Historical Mythmaking"
+    url: "/wiki/concepts/puritanhistoricalmythmaking/"
   - key: "PuritanEnlightenmentPracticalEthic"
     title: "Puritan-Enlightenment Practical Ethic"
     url: "/wiki/concepts/puritanenlightenmentpracticalethic/"

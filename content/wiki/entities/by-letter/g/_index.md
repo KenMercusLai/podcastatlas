@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14898
+wiki_total_pages: 14902
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "GreatIrishFamine"
     title: "Great Irish Famine"
     url: "/wiki/entities/greatirishfamine/"
+  - key: "GreatMigrationNewEngland"
+    title: "Great Migration to New England"
+    url: "/wiki/entities/greatmigrationnewengland/"
   - key: "GreatMosqueOfCordoba"
     title: "Great Mosque of Cordoba"
     url: "/wiki/entities/greatmosqueofcordoba/"

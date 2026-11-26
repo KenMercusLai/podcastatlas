@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14898
+wiki_total_pages: 14902
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "LaurieBarber"
     title: "Laurie Barber"
     url: "/wiki/entities/lauriebarber/"
+  - key: "LaurieRogersStokes"
+    title: "Laurie Rogers Stokes"
+    url: "/wiki/entities/laurierogersstokes/"
   - key: "LaurieSantos"
     title: "Laurie Santos"
     url: "/wiki/entities/lauriesantos/"

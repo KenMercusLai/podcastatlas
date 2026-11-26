@@ -42995,6 +42995,10 @@
     "title": "Great Irish Famine",
     "url": "/wiki/entities/greatirishfamine/"
   },
+  "GreatMigrationNewEngland": {
+    "title": "Great Migration to New England",
+    "url": "/wiki/entities/greatmigrationnewengland/"
+  },
   "GreatMosqueOfCordoba": {
     "title": "Great Mosque of Cordoba",
     "url": "/wiki/entities/greatmosqueofcordoba/"
@@ -57803,6 +57807,10 @@
     "title": "劳丽·加勒特 / Laurie Garrett",
     "url": "/wiki/entities/lauriegarrett/"
   },
+  "LaurieRogersStokes": {
+    "title": "Laurie Rogers Stokes",
+    "url": "/wiki/entities/laurierogersstokes/"
+  },
   "LaurieSantos": {
     "title": "Laurie Santos",
     "url": "/wiki/entities/lauriesantos/"
@@ -64950,6 +64958,10 @@
   "MassRetailProductionDeadline": {
     "title": "Mass Retail Production Deadline",
     "url": "/wiki/concepts/massretailproductiondeadline/"
+  },
+  "MassachusettsBayColony": {
+    "title": "Massachusetts Bay Colony",
+    "url": "/wiki/entities/massachusettsbaycolony/"
   },
   "MassachusettsInvestorsTrust": {
     "title": "Massachusetts Investors Trust",
@@ -80323,9 +80335,21 @@
     "title": "Pure Rationality Trap",
     "url": "/wiki/concepts/purerationalitytrap/"
   },
+  "PuritanCovenantalCommonwealth": {
+    "title": "Puritan Covenantal Commonwealth",
+    "url": "/wiki/concepts/puritancovenantalcommonwealth/"
+  },
   "PuritanEnlightenmentPracticalEthic": {
     "title": "Puritan-Enlightenment Practical Ethic",
     "url": "/wiki/concepts/puritanenlightenmentpracticalethic/"
+  },
+  "PuritanHistoricalMythmaking": {
+    "title": "Puritan Historical Mythmaking",
+    "url": "/wiki/concepts/puritanhistoricalmythmaking/"
+  },
+  "Puritans": {
+    "title": "Puritans",
+    "url": "/wiki/entities/puritans/"
   },
   "PurposeAnchoredIdentity": {
     "title": "Purpose-Anchored Identity",
@@ -112034,6 +112058,10 @@
   "Zynn": {
     "title": "Zynn",
     "url": "/wiki/entities/zynn/"
+  },
+  "a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks": {
+    "title": "A Day in the Life of a Puritan: A Thanksgiving Special from American History Hit",
+    "url": "/wiki/sources/a-day-in-the-life-of-a-puritan-a-thanksgiving-special-from-american-history-hit-a-day-in-the-life-of-a-puritan-a-thanks/"
   },
   "a-dollop-crossover-ben-naddaff-hafrey-on-staten-island-and-the-revolutionary-war-a-dollop-crossover-ben-naddaff-hafrey": {
     "title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",

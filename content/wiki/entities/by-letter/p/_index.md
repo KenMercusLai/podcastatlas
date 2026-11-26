@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14898
+wiki_total_pages: 14902
 wiki_pages:
   - key: "PearlHarborAttack"
     title: "Attack on Pearl Harbor"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "PureFitness"
     title: "Pure Fitness / Pure"
     url: "/wiki/entities/purefitness/"
+  - key: "Puritans"
+    title: "Puritans"
+    url: "/wiki/entities/puritans/"
   - key: "PushkinIndustries"
     title: "Pushkin Industries"
     url: "/wiki/entities/pushkinindustries/"
