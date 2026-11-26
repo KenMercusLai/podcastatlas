@@ -27699,6 +27699,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "CommunityEmbeddedMarketGovernance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CommunityFeeling": [
     {
       "key": "culture",
@@ -28531,6 +28543,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ConsumerFoodKnowledge": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ConsumerGradeDeveloperInfrastructure": [

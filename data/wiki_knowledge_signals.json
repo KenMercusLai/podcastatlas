@@ -65823,6 +65823,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/communitybankaiadoption/"
     },
+    "CommunityEmbeddedMarketGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/communityembeddedmarketgovernance/"
+    },
     "CommunityGroceryCuration": {
       "episode_count": 1,
       "show_count": 1,
@@ -69131,6 +69147,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumerdatadeletion/"
+    },
+    "ConsumerFoodKnowledge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/consumerfoodknowledge/"
     },
     "ConsumerHealthAIGovernance": {
       "episode_count": 2,
@@ -124177,9 +124209,9 @@
       "url": "/wiki/concepts/freshbeveragebrandbottledexpansion/"
     },
     "FreshGroceryEcommerceEconomics": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
@@ -124201,9 +124233,16 @@
           "show": "无时差研究所",
           "title": "EP176-巨头混战的社区团购，魅力何在？",
           "url": "/wiki/sources/ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a/"
+        },
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/freshgroceryecommerceeconomics/"
     },
     "FreshKillsPark": {
@@ -203827,6 +203866,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/localfirstmemorylayer/"
     },
+    "LocalFreshnessVsTechnicalFreshness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/localfreshnessvstechnicalfreshness/"
+    },
     "LocalGovernanceAsCare": {
       "episode_count": 4,
       "show_count": 3,
@@ -215818,9 +215873,9 @@
       "url": "/wiki/entities/markedownapp/"
     },
     "MarketFreshnessCulture": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "66.鱼翅与花椒：聊吃的我可就不困了 [659957536].md",
@@ -215835,9 +215890,16 @@
           "show": "Talk三联",
           "title": "EP287 一起逛早市：寻找北方最鲜活的早晨",
           "url": "/wiki/sources/ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi/"
+        },
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/marketfreshnessculture/"
     },
     "MarketMaking": {
@@ -305023,9 +305085,9 @@
       "url": "/wiki/concepts/smallvenueculturalincubation/"
     },
     "SmallholderMarketAndClimateRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "98b809db-0025-4671-9ca4-195f6e0c722f [98b809db-0025-4671-9ca4-195f6e0c722f].md",
@@ -305033,9 +305095,16 @@
           "show": "声东击西",
           "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
           "url": "/wiki/sources/98b809db-0025-4671-9ca4-195f6e0c722f-98b809db-0025-4671-9ca4-195f6e0c722f/"
+        },
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
         }
       ],
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "url": "/wiki/concepts/smallholdermarketandclimaterisk/"
     },
     "SmartCityConveniencePrivacyTradeoff": {
@@ -350153,6 +350222,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/westlaw/"
     },
+    "WetMarketFoodSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/concepts/wetmarketfoodsystem/"
+    },
     "WetlandMarginalSpace": {
       "episode_count": 1,
       "show_count": 1,
@@ -373465,6 +373550,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/entities/zhongshanshan/"
+    },
+    "ZhongShuru": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a [486d1fea-dd57-4ff1-8de9-cfea1f9de16a].md",
+          "key": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+          "show": "声东击西",
+          "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+          "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
+        }
+      ],
+      "updated": "2026-11-26",
+      "url": "/wiki/entities/zhongshuru/"
     },
     "ZhongTaiAI": {
       "episode_count": 1,

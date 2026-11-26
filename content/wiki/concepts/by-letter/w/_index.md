@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11843
+wiki_total_pages: 11847
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "WesternHanLimitLandAndSlaves"
     title: "Western Han Land and Slave Caps / 西汉限田限奴改革"
     url: "/wiki/concepts/westernhanlimitlandandslaves/"
+  - key: "WetMarketFoodSystem"
+    title: "Wet Market Food System / 菜市场食物系统"
+    url: "/wiki/concepts/wetmarketfoodsystem/"
   - key: "WetStateHumanAgency"
     title: "Wet-State Human Agency"
     url: "/wiki/concepts/wetstatehumanagency/"

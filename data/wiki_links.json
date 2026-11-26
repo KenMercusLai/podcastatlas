@@ -3551,6 +3551,10 @@
     "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
     "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
   },
+  "486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a": {
+    "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+    "url": "/wiki/sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a/"
+  },
   "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021": {
     "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
     "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
@@ -24095,6 +24099,10 @@
     "title": "Community-Embedded Business",
     "url": "/wiki/concepts/communityembeddedbusiness/"
   },
+  "CommunityEmbeddedMarketGovernance": {
+    "title": "Community-Embedded Market Governance / 社区嵌入式菜市场治理",
+    "url": "/wiki/concepts/communityembeddedmarketgovernance/"
+  },
   "CommunityFeeling": {
     "title": "Community Feeling",
     "url": "/wiki/concepts/communityfeeling/"
@@ -24926,6 +24934,10 @@
   "ConsumerElectronicsLifecycle": {
     "title": "Consumer Electronics Lifecycle",
     "url": "/wiki/concepts/consumerelectronicslifecycle/"
+  },
+  "ConsumerFoodKnowledge": {
+    "title": "Consumer Food Knowledge / 消费者食物知识",
+    "url": "/wiki/concepts/consumerfoodknowledge/"
   },
   "ConsumerGradeDeveloperInfrastructure": {
     "title": "Consumer-Grade Developer Infrastructure",
@@ -61246,6 +61258,10 @@
   "LocalFirstMemoryLayer": {
     "title": "Local-First Memory Layer",
     "url": "/wiki/concepts/localfirstmemorylayer/"
+  },
+  "LocalFreshnessVsTechnicalFreshness": {
+    "title": "Local Freshness vs Technical Freshness / 本地新鲜与技术新鲜",
+    "url": "/wiki/concepts/localfreshnessvstechnicalfreshness/"
   },
   "LocalGovernanceAsCare": {
     "title": "Local Governance As Care / 地方治理作为照护",
@@ -103987,6 +104003,10 @@
     "title": "Westside Federation for Senior and Supportive Housing",
     "url": "/wiki/entities/westsidefederationforseniorandsupportivehousing/"
   },
+  "WetMarketFoodSystem": {
+    "title": "Wet Market Food System / 菜市场食物系统",
+    "url": "/wiki/concepts/wetmarketfoodsystem/"
+  },
   "WetStateHumanAgency": {
     "title": "Wet-State Human Agency",
     "url": "/wiki/concepts/wetstatehumanagency/"
@@ -111106,6 +111126,10 @@
   "ZhongShengli": {
     "title": "钟声礼",
     "url": "/wiki/entities/zhongshengli/"
+  },
+  "ZhongShuru": {
+    "title": "钟淑如 / Zhong Shuru",
+    "url": "/wiki/entities/zhongshuru/"
   },
   "ZhongTaiAI": {
     "title": "钟泰 / Zhong Tai",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11843
+wiki_total_pages: 11847
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "LocalExposureElectoralSalience"
     title: "Local Exposure Electoral Salience"
     url: "/wiki/concepts/localexposureelectoralsalience/"
+  - key: "LocalFreshnessVsTechnicalFreshness"
+    title: "Local Freshness vs Technical Freshness / 本地新鲜与技术新鲜"
+    url: "/wiki/concepts/localfreshnessvstechnicalfreshness/"
   - key: "LocalGovernanceAsCare"
     title: "Local Governance As Care / 地方治理作为照护"
     url: "/wiki/concepts/localgovernanceascare/"

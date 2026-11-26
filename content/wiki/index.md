@@ -5434,6 +5434,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Access the Power of Now to Experience Life More Fully | Eckhart Tolle](sources/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle-scim2906825276.md) — Huberman Lab conversation on thought, direct awareness, stillness, creativity, identity, acceptance, and integrating presence into ordinary life.
 
 - [Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)](sources/vmp5702291377-vmp5702291377.md) — How I Built This interview on Wikipedia's low-barrier collaboration, volunteer governance, sourcing norms, nonprofit structure, and small-donor funding.
+- [#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目](sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a.md) — 声东击西对话人类学家钟淑如，从海南田野调查解释菜市场如何连接小农、摊贩、地方食物、消费者知识与社区治理。
 
 ## Entities
 - [Laurie Rogers Stokes](entities/LaurieRogersStokes.md) — Historian using institutional and everyday records to complicate Puritan stereotypes without minimizing colonial violence.
@@ -20441,6 +20442,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nupedia](entities/Nupedia.md) — Expert-led free encyclopedia whose slow seven-stage review became the contrast case for Wikipedia.
 - [Bomis](entities/Bomis.md) — Early internet company that funded Nupedia and Wikipedia before the dot-com crash.
 - [Wikimedia Foundation](entities/WikimediaFoundation.md) — Nonprofit institutional layer associated with Wikipedia's small-donor model and public-knowledge mission.
+- [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
 - [Service-First Networking](concepts/ServiceFirstNetworking.md) — Builds professional trust through useful contribution, reliability, selective depth, and non-entitlement.
@@ -32406,5 +32408,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Low-Barrier Collaborative Production](concepts/LowBarrierCollaborativeProduction.md) — Shared-work design where small useful contributions compound before a participant produces a finished work alone.
 - [Distributed Volunteer Governance](concepts/DistributedVolunteerGovernance.md) — Community monitoring, correction, rulemaking, and dispute response without ordinary managerial command.
 - [Mission-Aligned Revenue Model](concepts/MissionAlignedRevenueModel.md) — Funding design that keeps payer incentives and operating resilience compatible with institutional purpose.
+- [Wet Market Food System / 菜市场食物系统](concepts/WetMarketFoodSystem.md) — 以灵活摊贩网络连接分散生产、非标准食材与具备辨识和烹饪知识的城市消费者。
+- [Local Freshness vs Technical Freshness / 本地新鲜与技术新鲜](concepts/LocalFreshnessVsTechnicalFreshness.md) — 区分短时间、在地、当季的新鲜逻辑与冷链、保鲜、标准化维持的新鲜逻辑。
+- [Consumer Food Knowledge / 消费者食物知识](concepts/ConsumerFoodKnowledge.md) — 通过感官、烹饪、反复购买与交谈累积的食材辨识、品质判断和使用能力。
+- [Community-Embedded Market Governance / 社区嵌入式菜市场治理](concepts/CommunityEmbeddedMarketGovernance.md) — 管理者、摊贩与居民共同维持日常供给、服务适配、摊贩能力与全年龄使用的治理模式。
 
 ## Syntheses

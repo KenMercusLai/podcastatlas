@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14902
+wiki_total_pages: 14903
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -2057,6 +2057,9 @@ wiki_pages:
   - key: "ZhongTaiAI"
     title: "钟泰 / Zhong Tai"
     url: "/wiki/entities/zhongtaiai/"
+  - key: "ZhongShuru"
+    title: "钟淑如 / Zhong Shuru"
+    url: "/wiki/entities/zhongshuru/"
   - key: "ZhongLingTianLongBaBu"
     title: "钟灵（《天龙八部》） / Zhong Ling"
     url: "/wiki/entities/zhonglingtianlongbabu/"

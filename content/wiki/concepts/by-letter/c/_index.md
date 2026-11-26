@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11843
+wiki_total_pages: 11847
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2096,6 +2096,9 @@ wiki_pages:
   - key: "CommunityEmbeddedBusiness"
     title: "Community-Embedded Business"
     url: "/wiki/concepts/communityembeddedbusiness/"
+  - key: "CommunityEmbeddedMarketGovernance"
+    title: "Community-Embedded Market Governance / 社区嵌入式菜市场治理"
+    url: "/wiki/concepts/communityembeddedmarketgovernance/"
   - key: "CommunityLedSaaSGrowth"
     title: "Community-Led SaaS Growth"
     url: "/wiki/concepts/communityledsaasgrowth/"
@@ -2609,6 +2612,9 @@ wiki_pages:
   - key: "ConsumerElectronicsLifecycle"
     title: "Consumer Electronics Lifecycle"
     url: "/wiki/concepts/consumerelectronicslifecycle/"
+  - key: "ConsumerFoodKnowledge"
+    title: "Consumer Food Knowledge / 消费者食物知识"
+    url: "/wiki/concepts/consumerfoodknowledge/"
   - key: "ConsumerHardwareStartupRisk"
     title: "Consumer Hardware Startup Risk"
     url: "/wiki/concepts/consumerhardwarestartuprisk/"

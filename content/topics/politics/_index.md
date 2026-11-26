@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3615
+topic_total_pages: 3616
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -931,6 +931,9 @@ topic_concepts:
   - key: "Communism"
     title: "Communism"
     url: "/wiki/concepts/communism/"
+  - key: "CommunityEmbeddedMarketGovernance"
+    title: "Community-Embedded Market Governance / 社区嵌入式菜市场治理"
+    url: "/wiki/concepts/communityembeddedmarketgovernance/"
   - key: "CompanionAnimalPublicSymbolism"
     title: "Companion Animal Public Symbolism"
     url: "/wiki/concepts/companionanimalpublicsymbolism/"

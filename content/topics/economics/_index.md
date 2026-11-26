@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2430
+topic_total_pages: 2432
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -751,6 +751,9 @@ topic_concepts:
   - key: "CommunityEmbeddedBusiness"
     title: "Community-Embedded Business"
     url: "/wiki/concepts/communityembeddedbusiness/"
+  - key: "CommunityEmbeddedMarketGovernance"
+    title: "Community-Embedded Market Governance / 社区嵌入式菜市场治理"
+    url: "/wiki/concepts/communityembeddedmarketgovernance/"
   - key: "CompanyGameDifficultyStrategy"
     title: "Company Game Difficulty Strategy"
     url: "/wiki/concepts/companygamedifficultystrategy/"
@@ -799,6 +802,9 @@ topic_concepts:
   - key: "ConsumerBrandMoat"
     title: "Consumer Brand Moat"
     url: "/wiki/concepts/consumerbrandmoat/"
+  - key: "ConsumerFoodKnowledge"
+    title: "Consumer Food Knowledge / 消费者食物知识"
+    url: "/wiki/concepts/consumerfoodknowledge/"
   - key: "ConsumerLoanRisk"
     title: "Consumer Loan Risk"
     url: "/wiki/concepts/consumerloanrisk/"
