@@ -19,7 +19,8 @@ sources:
   - default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097
   - default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490
   - default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190
-last_updated: 2026-11-20
+  - defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583
+last_updated: 2026-11-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,7 +30,7 @@ knowledge_schema: synthesis-v1
 Tomorrow Today is a podcast hosted in the current sources by [[ShekharNatarajan]]. Its represented episodes pair long-form interviews and one short dramatized family narrative with questions about business identity, resilience, spirituality, survival, cognitive difference, public institutions, creative careers, acting, comedy, elite sport, inequality, organizational transformation, technology, leadership, and human meaning.
 
 ## Current Profile
-The wiki knows Tomorrow Today through fifteen interviews and one short narrative. The interviews connect branding, mountaineering, Buddhism, government, acting, writing, survival, artistic swimming, creator operations, diplomacy, futures, transformation, comedy, Jyotisha, institutions, and attention to recurring questions about purpose, dignity, judgment, and AI. [[VarunSharma]] adds opportunity-search labor and collaborative screen comedy; [[KikuSharda]] adds costume-led character embodiment, live improvisational atmosphere, parody risk, grief, and a concrete synthetic-likeness offer. [[AbhigyanAnand]] adds world-order cycles, food resilience, sovereign algorithms, and delayed gratification while requiring a sharper separation between practical governance arguments and unvalidated astrological forecasts. The [[AshokNatarajan]] story changes the format: it uses a childhood notebook, delayed recognition, brotherly reconciliation, and a proposed “Ashok's Sight” system to argue for [[CognitiveDifferenceReframing]]. Its inspirational value is preserved without treating the alleged lunar prediction, AI performance, or water deployment as independently documented.
+The wiki knows Tomorrow Today through sixteen interviews and one short narrative. The interviews connect branding, mountaineering, Buddhism, government, acting, writing, survival, artistic swimming, creator operations, diplomacy, futures, transformation, comedy, Jyotisha, robotics, institutions, and attention to recurring questions about purpose, dignity, judgment, and AI. [[HonorebelSWalker]] adds remote infrastructure inspection, multi-robot orchestration, cybersecurity, regulation, data liability, and competitive-moat testing. [[AbhigyanAnand]] adds world-order cycles, food resilience, sovereign algorithms, and delayed gratification while requiring a sharper separation between practical governance arguments and unvalidated astrological forecasts. The [[AshokNatarajan]] story changes the format: it uses a childhood notebook, delayed recognition, brotherly reconciliation, and a proposed “Ashok's Sight” system to argue for [[CognitiveDifferenceReframing]]. Its inspirational value is preserved without treating the alleged lunar prediction, AI performance, or water deployment as independently documented.
 
 ## Key Characteristics
 - Identified in source metadata as Tomorrow, Today and hosted by [[ShekharNatarajan]].
@@ -55,14 +56,15 @@ The wiki knows Tomorrow Today through fifteen interviews and one short narrative
 - Acting search, resilience, and comedy production - [[default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097]] adds Sharma's casting-room learning, months of opportunity search, family backing, mental-health qualification, ensemble comedy model, and consent-centered AI use.
 - Character embodiment, live comedy, and synthetic performance - [[default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490-default-mp3-ywr3ahjkcgo-e7b27d162b2cc1beac33f5fd47cdf71e-120218490]] adds Sharda's costume and backstory method, relational comic timing, parody arrest, laughter-and-grief account, and image-and-voice licensing offer.
 - Jyotisha, world order, and attention - [[default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190-default-mp3-ywr3ahjkcgo-cf601625e7f597f0d9bb5a437119829d-132502190]] adds Anand's historical-astrology framework, food-security scenarios, algorithmic-sovereignty argument, and long-horizon discipline frame with explicit evidence qualifications.
+- Robotics, infrastructure, and adversarial questioning - [[defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583]] adds Walker's robotic-outpost thesis while testing regulation, cybersecurity, liability, product boundaries, and moat evidence.
 
 ## Qualifications
-Only sixteen Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. Several episodes rely heavily on first-person testimony and conversational interpretation. The Ashok source is more compressed and dramatized than the interview set; it does not independently establish family biography, diagnosis, lunar prediction, AI architecture, water safety or output, or refugee impact. The Anand source is a structured summary rather than a forecast archive and does not validate Jyotisha, the cited prediction record, or dated geopolitical and economic outcomes.
+Only seventeen Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. Several episodes rely heavily on first-person testimony and conversational interpretation. The Ashok source is more compressed and dramatized than the interview set; it does not independently establish family biography, diagnosis, lunar prediction, AI architecture, water safety or output, or refugee impact. The Anand source is a structured summary rather than a forecast archive and does not validate Jyotisha, the cited prediction record, or dated geopolitical and economic outcomes. The Walker source does not independently establish cybersecurity, liability allocation, persistent uptime, pilot impact, or moat durability.
 
 ## What Changed
-- Added Jyotisha and civilizational history while making forecast verification an explicit evidence boundary.
-- Extended AI governance into algorithmic sovereignty, attention capture, and cross-border digital identity.
-- Added food resilience and delayed gratification without adopting the episode's astrological timing.
+- Added remote critical-infrastructure robotics and an observation-first product boundary.
+- Extended adversarial questioning into regulation, cybersecurity, calibration, liability, and moat testing.
+- Preserved company deployment and resilience claims as source-scoped rather than demonstrated performance.
 
 ## Relationships
 - [[ShekharNatarajan]] - host in the represented sources.
@@ -81,6 +83,7 @@ Only sixteen Tomorrow Today sources are represented. The page describes an obser
 - [[VarunSharma]] - acting, rejection, comedy, and creative-AI guest.
 - [[KikuSharda]] - acting, character embodiment, television comedy, grief, and AI-performance guest.
 - [[AbhigyanAnand]] - Jyotisha and history guest who develops forecast, institution, food, attention, and algorithmic-governance questions.
+- [[HonorebelSWalker]] - robotics founder who develops remote inspection, infrastructure-security, and persistent-deployment questions.
 - [[AngelicIntelligence]] - recurring human-centered AI frame.
 - [[AthleteCenteredPerformanceCulture]] - newest team-purpose and autonomy frame.
 - [[CreatorFormatReinvention]] - creator adaptation frame added by the newest interview.

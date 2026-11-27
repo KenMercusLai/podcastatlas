@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [THE HIDDEN THREATS TO OUR POWER, PORTS AND ENERGY SYSTEMS | Shekhar Natarajan x Honorebel S. Walker](sources/defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583.md) — Tomorrow Today on Spacetime Industries' robotic outposts, remote inspection, multi-robot orchestration, regulation, cybersecurity, liability, and moat uncertainty.
 - [California wants receipts on AI's impact on climate change](sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128.md) — Marketplace Tech on AI emissions-accounting gaps, California's large-company disclosure rule, its litigation boundary, and unverified net-climate-benefit claims.
 - [说得好听EP57-音乐人的音乐人-郑兴歌里住了谁](sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685.md) — 说得好听追踪郑兴从早期影响、台北求学与第一张专辑，到协作创作、巡演与艺术身份更新的路径。
 - [Social-insecurity numbers: the money behind the manosphere](sources/social-insecurity-numbers-the-money-behind-the-manosphere-7eb4966be1685ee4f19adde69e240aaa.md) — Economist Podcasts on manosphere monetization, China’s provincial amateur-football boom, and Annette Green’s fragrance legacy.
@@ -5446,6 +5447,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [697. Whose Game Are You Playing?](sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825.md) — Freakonomics Radio conversation on voluntary game constraints, playfulness, metric value capture, and preserving plural values alongside useful measurement.
 
 ## Entities
+- [Spacetime Industries](entities/SpacetimeIndustries.md) — Early-stage company developing hardware-flexible robotic monitoring outposts for remote critical infrastructure.
+- [Honorebel S. Walker](entities/HonorebelSWalker.md) — Spacetime Industries founder connecting robotics, field safety, infrastructure monitoring, and resilience.
 - [Eric Masanet](entities/EricMasanet.md) — UC Santa Barbara professor cited on AI emissions estimation, workload attribution, and uncertain net climate benefits.
 - [Mary Nichols](entities/MaryNichols.md) — Former California Air Resources Board chair connecting data-center disclosure to community resource and grid oversight.
 - [C. Thi Nguyen](entities/CThiNguyen.md) — Philosopher connecting games, chosen struggle, rule-world flexibility, and resistance to metric-driven value substitution.

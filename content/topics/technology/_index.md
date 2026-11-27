@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3949
+topic_total_pages: 3952
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6974,6 +6974,9 @@ topic_entities:
   - key: "Honor"
     title: "Honor"
     url: "/wiki/entities/honor/"
+  - key: "HonorebelSWalker"
+    title: "Honorebel S. Walker"
+    url: "/wiki/entities/honorebelswalker/"
   - key: "Hookie"
     title: "Hookie"
     url: "/wiki/entities/hookie/"
@@ -8600,6 +8603,9 @@ topic_entities:
   - key: "SouthToNorthWaterTransferProject"
     title: "South-to-North Water Transfer Project / 南水北调"
     url: "/wiki/entities/southtonorthwatertransferproject/"
+  - key: "SpacetimeIndustries"
+    title: "Spacetime Industries"
+    url: "/wiki/entities/spacetimeindustries/"
   - key: "SpaceX"
     title: "SpaceX"
     url: "/wiki/entities/spacex/"
@@ -11202,6 +11208,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920"
     title: "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+  - key: "defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583"
+    title: "THE HIDDEN THREATS TO OUR POWER, PORTS AND ENERGY SYSTEMS | Shekhar Natarajan x Honorebel S. Walker"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
     title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"

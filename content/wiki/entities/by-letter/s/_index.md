@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14922
+wiki_total_pages: 14924
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1451,6 +1451,9 @@ wiki_pages:
   - key: "SpaceShuttleChallenger"
     title: "Space Shuttle Challenger / 挑战者号"
     url: "/wiki/entities/spaceshuttlechallenger/"
+  - key: "SpacetimeIndustries"
+    title: "Spacetime Industries"
+    url: "/wiki/entities/spacetimeindustries/"
   - key: "SpaceX"
     title: "SpaceX"
     url: "/wiki/entities/spacex/"
