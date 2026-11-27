@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14909
+wiki_total_pages: 14912
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1826,6 +1826,9 @@ wiki_pages:
   - key: "CosimoIMedici"
     title: "Cosimo I de' Medici / 科西默一世"
     url: "/wiki/entities/cosimoimedici/"
+  - key: "Cosmax"
+    title: "COSMAX / 科丝美诗"
+    url: "/wiki/entities/cosmax/"
   - key: "CosmicCrisp"
     title: "Cosmic Crisp"
     url: "/wiki/entities/cosmiccrisp/"

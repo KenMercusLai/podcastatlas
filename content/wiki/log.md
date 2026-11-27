@@ -44088,3 +44088,17 @@ Downstream synthesis found no dirty controlled topic. The max-age gate required 
 ## [2026-11-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-27] ingest | E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？
+
+Added the [[SiliconValley101|硅谷101]] episode on K-Beauty's U.S. and European expansion through [[KBeautyHeroProductModel|hero products]], [[PerformedBeautyEfficacy|performed efficacy]], [[BeautyODMInfrastructure|ODM infrastructure]], cultural distribution, [[Silicon2|global wholesale]], and [[OliveYoung|OLIVE YOUNG]] retail discovery.
+
+Created synthesis-first profiles for [[Cosmax]], [[KolmarKorea|Kolmar Korea]], and Silicon2, plus [[KBeautyHeroProductModel]], [[PerformedBeautyEfficacy]], [[BeautyODMInfrastructure]], and [[BeautyValueChainProfitPools]]. Resynthesized [[KBeautyGlobalTrust]], OLIVE YOUNG, and [[KoreanCultureLedConsumerMarketing]] from their complete preserved evidence inventories before appending the new source once.
+
+No settled contradiction was adopted. The episode's speed thesis is also its main qualification: shared manufacturing and distribution can produce repeated hits while increasing homogeneity, traffic dependence, and short brand lives. Export rankings, household penetration, company metrics, R&D ratios, development times, retail shares, and comparative efficacy claims remain source-scoped. Topical PDRN products are not equated with injections, and immediate sensory or visual change is not treated as long-term efficacy proof. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,305 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

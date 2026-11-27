@@ -34575,6 +34575,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/beautyformulationcontrol/"
     },
+    "BeautyODMInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/beautyodminfrastructure/"
+    },
     "BeautyRetailNetworkReallocation": {
       "episode_count": 1,
       "show_count": 1,
@@ -34590,6 +34606,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/beautyretailnetworkreallocation/"
+    },
+    "BeautyValueChainProfitPools": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/beautyvaluechainprofitpools/"
     },
     "BeaverFurTrade": {
       "episode_count": 1,
@@ -71528,6 +71560,22 @@
       ],
       "updated": "2026-10-29",
       "url": "/wiki/entities/cosimoimedici/"
+    },
+    "Cosmax": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/cosmax/"
     },
     "CosmeticProcedureExpectationManagement": {
       "episode_count": 4,
@@ -183243,9 +183291,9 @@
       "url": "/wiki/concepts/jyotishahistoricalforecasting/"
     },
     "KBeautyGlobalTrust": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
@@ -183260,10 +183308,33 @@
           "show": "疯投圈",
           "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
           "url": "/wiki/sources/ep152-ep152/"
+        },
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/kbeautyglobaltrust/"
+    },
+    "KBeautyHeroProductModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/kbeautyheroproductmodel/"
     },
     "KFC": {
       "episode_count": 3,
@@ -186469,6 +186540,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/kojagentar/"
     },
+    "KolmarKorea": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/kolmarkorea/"
+    },
     "KondratiSelivanov": {
       "episode_count": 1,
       "show_count": 1,
@@ -186942,9 +187029,9 @@
       "url": "/wiki/entities/konstantinastankovic/"
     },
     "KoreanCultureLedConsumerMarketing": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
@@ -186966,9 +187053,16 @@
           "show": "疯投圈",
           "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
           "url": "/wiki/sources/ep152-ep152/"
+        },
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/koreancultureledconsumermarketing/"
     },
     "KoreanGiveUpGenerationPressure": {
@@ -243837,9 +243931,9 @@
       "url": "/wiki/entities/olipop/"
     },
     "OliveYoung": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
@@ -243861,9 +243955,16 @@
           "show": "疯投圈",
           "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
           "url": "/wiki/sources/ep152-ep152/"
+        },
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "url": "/wiki/entities/oliveyoung/"
     },
     "OliverCarroll": {
@@ -254336,6 +254437,22 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/concepts/performativeshamelessnesscountercontrol/"
+    },
+    "PerformedBeautyEfficacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/performedbeautyefficacy/"
     },
     "PerformedNonattachment": {
       "episode_count": 1,
@@ -302717,6 +302834,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/silixiaoweiwesternhan/"
+    },
+    "Silicon2": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79 [9753c5f7-03dd-4cfa-8d4a-40531f7c4b79].md",
+          "key": "e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+          "show": "硅谷101",
+          "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+          "url": "/wiki/sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/silicon2/"
     },
     "SiliconValleyInnovationSystem": {
       "episode_count": 3,

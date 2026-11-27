@@ -6,7 +6,8 @@ sources:
   - 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1
   - meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226
   - ep152-ep152
-last_updated: 2026-11-18
+  - e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79
+last_updated: 2026-11-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ OLIVE YOUNG is represented in the wiki as a Korean beauty-retail network that co
 
 ## Current Profile
 
-The current evidence moves OLIVE YOUNG from a general Korean marketing benchmark toward an ecosystem role. [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] places it within Korea's globally legible beauty and fan-economy system. [[meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226]] shows the channel making mini beauty products visible as standalone merchandise. [[ep152-ep152]] adds the host-observed breadth of Korean brands reaching meaningful sales through the chain, suggesting that channel strength and brand formation reinforce one another.
+The current evidence moves OLIVE YOUNG from a general Korean marketing benchmark toward an ecosystem role. [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] places it within Korea's globally legible beauty and fan-economy system. [[meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226]] shows the channel making mini beauty products visible as standalone merchandise. [[ep152-ep152]] adds the host-observed breadth of Korean brands reaching meaningful sales through the chain. [[e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79]] adds rankings, concentrated merchandising, ecommerce, delivery, tourist discovery, and demand feedback, while qualifying whether the same economics and experience can be reproduced overseas.
 
 ## Key Characteristics
 
@@ -26,6 +27,7 @@ The current evidence moves OLIVE YOUNG from a general Korean marketing benchmark
 - Channel where emerging Korean brands can gain visibility, trial, comparison, and sales.
 - Connects beauty products to packaging, creators, celebrity attention, and social-platform circulation.
 - Merchandising surface that can teach consumers to treat new formats, including minis, as standalone goods.
+- Rankings, selection, and concentrated display that reduce decision cost and feed demand signals back to suppliers.
 - Ecosystem node whose strength depends on continued brand creation as well as store execution.
 
 ## Evidence
@@ -33,16 +35,16 @@ The current evidence moves OLIVE YOUNG from a general Korean marketing benchmark
 - Global-marketing benchmark: [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] places OLIVE YOUNG within the Korea-side beauty, entertainment, fan, and TikTok-visible marketing system.
 - Product-format education: [[meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226]] names OLIVE YOUNG among channels expanding or displaying mini makeup products.
 - Brand-ecosystem surface: [[ep152-ep152]] reports a large domestic store network and a headquarters display of many mainly Korean brands passing a stated annual channel-sales threshold.
+- Discovery and overseas boundary: [[e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79]] connects rankings, ecommerce, delivery, tourist-heavy stores, and supplier influence, then argues that overseas stores may not reproduce Korean assortment, price, convenience, or familiarity.
 
 ## Qualifications
 
-The store count, brand count, and channel-sales threshold are episode-attributed and not independently verified here. The current sources do not establish chain-level financials, sell-through, brand survival, overseas-store economics, or whether channel concentration strengthens or weakens supplier bargaining power. A display of threshold-crossing brands shows ecosystem breadth at one point in time, not durable success for every brand.
+Store counts, brand counts, channel-sales thresholds, tourist shares, and market claims are episode-attributed and not independently verified here. The current sources do not establish chain-level financials, sell-through, brand survival, overseas-store economics, or whether channel concentration strengthens or weakens supplier bargaining power. A display of threshold-crossing brands shows ecosystem breadth at one point in time, not durable success for every brand; Korean density and familiarity may be difficult to export.
 
 ## What Changed
 
-- Added the beauty-brand ecosystem role from the complete three-source evidence set.
-- Distinguished channel strength from the continued creation and survival of underlying brands.
-- Retained mini-product merchandising as one example of retail-led category education.
+- Added rankings, ecommerce, tourist discovery, demand feedback, and overseas replication limits.
+- Strengthened the distinction between domestic ecosystem power and exportable store economics.
 
 ## Relationships
 
@@ -52,3 +54,5 @@ The store count, brand count, and channel-sales threshold are episode-attributed
 - [[MiniBeautyStandaloneProduct]] - product format made legible through beauty merchandising.
 - [[RetailDisplayAsBrandSurface]] - explains how channel display teaches product meaning.
 - [[ConsumerBrandMoat]] - tests whether channel success becomes durable brand demand.
+- [[Silicon2]] - cross-border distributor that complements OLIVE YOUNG's discovery role.
+- [[BeautyValueChainProfitPools]] - downstream value-capture thesis the retailer helps illustrate.

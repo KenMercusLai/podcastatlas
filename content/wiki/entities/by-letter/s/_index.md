@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14909
+wiki_total_pages: 14912
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1058,6 +1058,9 @@ wiki_pages:
   - key: "SiliconValleyBank"
     title: "Silicon Valley Bank"
     url: "/wiki/entities/siliconvalleybank/"
+  - key: "Silicon2"
+    title: "Silicon2"
+    url: "/wiki/entities/silicon2/"
   - key: "SilkRoad"
     title: "Silk Road"
     url: "/wiki/entities/silkroad/"

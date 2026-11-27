@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14909
+wiki_total_pages: 14912
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "Koji"
     title: "Koji"
     url: "/wiki/entities/koji/"
+  - key: "KolmarKorea"
+    title: "Kolmar Korea / 韩国科玛"
+    url: "/wiki/entities/kolmarkorea/"
   - key: "Komeito"
     title: "Komeito / 公明党"
     url: "/wiki/entities/komeito/"

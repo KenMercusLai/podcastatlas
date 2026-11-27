@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79.md) — 硅谷101拆解韩妆的爆品带牌、功效表演、ODM研发制造、文化协同、全球分销与零售体系，并检视同质化、流量依赖和品牌短命风险。
 - [Left in the lurch: Spain’s general election](sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0.md) — Economist Podcasts on Spain's rightward electoral shift, Mattel's entertainment strategy, and the challenge of adapting the Ramayana for a global audience.
 - [AI food slop is on the menu](sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128.md) — Marketplace Tech and Brady Brickner-Wood on uncanny generated food, small-business advertising constraints, embodied appetite, and novelty decay.
 - [Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss](sources/essentials-how-to-learn-better-create-your-best-future-tim-ferriss-scim6636160771.md) — Huberman Lab Essentials on edge-case discovery, self-experimentation, service-first networking, reciprocal mentorship, annual review, and bounded disclosure of severe personal pain.
@@ -5439,6 +5440,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目](sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a.md) — 声东击西对话人类学家钟淑如，从海南田野调查解释菜市场如何连接小农、摊贩、地方食物、消费者知识与社区治理。
 
 ## Entities
+- [COSMAX / 科丝美诗](entities/Cosmax.md) — Korean beauty R&D and manufacturing infrastructure spanning formulation, packaging, testing, production, and localization.
+- [Kolmar Korea / 韩国科玛](entities/KolmarKorea.md) — Korean beauty ODM company presented as reusable product-development and market-entry infrastructure.
+- [Silicon2](entities/Silicon2.md) — Korean beauty distributor combining brand aggregation, overseas logistics, retail access, market data, and compliance support.
 - [Alberto Núñez Feijóo](entities/AlbertoNunezFeijoo.md) — Centre-right Spanish leader favored by source-dated polling, with a possible Vox coalition as the central governing constraint.
 - [Santiago Abascal](entities/SantiagoAbascal.md) — Vox leader presented as a possible coalition power broker and source of anti-Vox electoral mobilization.
 - [Mattel](entities/Mattel.md) — Toy company testing whether familiar brands can support a repeatable, profitable entertainment business.
@@ -20453,6 +20457,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
+- [K-Beauty Hero-Product Model / 韩妆爆品带牌模式](concepts/KBeautyHeroProductModel.md) — Product-first growth route from short-video demonstration to marketplaces and offline retail.
+- [Performed Beauty Efficacy / 美妆功效表演](concepts/PerformedBeautyEfficacy.md) — Separation of legible claims and immediate experience from demonstrated long-term beauty efficacy.
+- [Beauty ODM Infrastructure / 美妆ODM基础设施](concepts/BeautyODMInfrastructure.md) — Shared research, formulation, packaging, production, testing, and compliance layer for beauty brands.
+- [Beauty Value-Chain Profit Pools / 美妆价值链利润池](concepts/BeautyValueChainProfitPools.md) — Conditional thesis that reusable manufacturers, distributors, and retailers may outlast trend-dependent beauty brands.
 - [Headline Growth–Voter Experience Gap](concepts/HeadlineGrowthVoterExperienceGap.md) — Divergence between favorable aggregate indicators and household or electoral experience under scarcity and institutional strain.
 - [Toy-IP Entertainment Diversification](concepts/ToyIPEntertainmentDiversification.md) — Strategy of extending toy brands into films, games, attractions, and experiences, where value capture and repeatability remain decisive.
 - [Sacred-Epic Adaptation Constraint](concepts/SacredEpicAdaptationConstraint.md) — Dual pressure to preserve a revered story's legitimacy while creating dramatic and globally accessible cinema.

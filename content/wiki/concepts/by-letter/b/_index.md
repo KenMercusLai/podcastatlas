@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11851
+wiki_total_pages: 11855
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -269,12 +269,18 @@ wiki_pages:
   - key: "BeautyInCommunication"
     title: "Beauty in Communication"
     url: "/wiki/concepts/beautyincommunication/"
+  - key: "BeautyODMInfrastructure"
+    title: "Beauty ODM Infrastructure / 美妆ODM基础设施"
+    url: "/wiki/concepts/beautyodminfrastructure/"
   - key: "BeautyProblemNaming"
     title: "Beauty Problem Naming / 审美问题命名"
     url: "/wiki/concepts/beautyproblemnaming/"
   - key: "BeautyRetailNetworkReallocation"
     title: "Beauty Retail Network Reallocation / 美妆零售网络再分配"
     url: "/wiki/concepts/beautyretailnetworkreallocation/"
+  - key: "BeautyValueChainProfitPools"
+    title: "Beauty Value-Chain Profit Pools / 美妆价值链利润池"
+    url: "/wiki/concepts/beautyvaluechainprofitpools/"
   - key: "BeaverFurTrade"
     title: "Beaver Fur Trade"
     url: "/wiki/concepts/beaverfurtrade/"
