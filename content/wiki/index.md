@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [说得好听EP57-音乐人的音乐人-郑兴歌里住了谁](sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685.md) — 说得好听追踪郑兴从早期影响、台北求学与第一张专辑，到协作创作、巡演与艺术身份更新的路径。
 - [Social-insecurity numbers: the money behind the manosphere](sources/social-insecurity-numbers-the-money-behind-the-manosphere-7eb4966be1685ee4f19adde69e240aaa.md) — Economist Podcasts on manosphere monetization, China’s provincial amateur-football boom, and Annette Green’s fragrance legacy.
 - [Vol. 179 老黄龙王归位，Gemini 黑马逆袭](sources/podcast179-v1-podcast179-v1.md) — 枫言枫语以多模型编程工作流为主线，连接模型能力、额度、地区限制、客户端成熟度，并延伸到金融 Agent、客服、联网玩具与具身养老的治理边界。
 - [E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79.md) — 硅谷101拆解韩妆的爆品带牌、功效表演、ODM研发制造、文化协同、全球分销与零售体系，并检视同质化、流量依赖和品牌短命风险。
@@ -5443,6 +5444,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08.md) — What's Next year-end review on AI bubble measures, capex ROI, GPU rental prices, model-company revenue, credit spreads, and free cash flow.
 
 ## Entities
+- [郑兴 / Zheng Xing (musician)](entities/ZhengXingMusician.md) — 以个人经验、移动概念、协作制作与现场演出不断更新创作身份的唱作人。
+- [陈小霞 / Chen Xiaoxia](entities/ChenXiaoxia.md) — 以旋律、词曲咬合和回望性书写影响郑兴早期创作的音乐人。
 - [Annette Green](entities/AnnetteGreen.md) — Fragrance advocate who promoted mood-based everyday scent use, research, and interdisciplinary education.
 - [Fragrance Foundation](entities/FragranceFoundation.md) — Industry organization used by Annette Green to convene interdisciplinary fragrance education.
 - [Kick (streaming platform)](entities/KickStreaming.md) — Alternative streaming platform competing through creator economics and gambling-linked distribution.

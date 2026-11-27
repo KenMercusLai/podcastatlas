@@ -15055,9 +15055,9 @@
       "url": "/wiki/concepts/albigensiancrusade/"
     },
     "AlbumAsIntegratedWork": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljzsLBjyHPpWf11pKWO009U2hxii [ljzsLBjyHPpWf11pKWO009U2hxii].md",
@@ -15065,9 +15065,16 @@
           "show": "罗永浩的十字路口",
           "title": "崔健×罗永浩！去天堂和去地狱，都要带上艺术家",
           "url": "/wiki/sources/cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii/"
+        },
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/albumasintegratedwork/"
     },
     "AlchemyChemistryContinuity": {
@@ -54975,6 +54982,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/chenxiaoqing/"
+    },
+    "ChenXiaoxia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/chenxiaoxia/"
     },
     "ChenXuanzangConqueringDemons": {
       "episode_count": 2,
@@ -203870,9 +203893,9 @@
       "url": "/wiki/concepts/liveindomesticworkboundary/"
     },
     "LiveMusicHumanConnection": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljzsLBjyHPpWf11pKWO009U2hxii [ljzsLBjyHPpWf11pKWO009U2hxii].md",
@@ -203887,9 +203910,16 @@
           "show": "天真不天真",
           "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
           "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        },
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/livemusichumanconnection/"
     },
     "LiveTheatreCoPresence": {
@@ -279053,9 +279083,9 @@
       "url": "/wiki/concepts/relationaljoy/"
     },
     "RelationalMusicProduction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
@@ -279063,9 +279093,16 @@
           "show": "天真不天真",
           "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
           "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        },
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/relationalmusicproduction/"
     },
     "RelationalSelfConceptSelection": {
@@ -302611,9 +302648,9 @@
       "url": "/wiki/entities/shumeiwanwu/"
     },
     "ShuoDeHaoTing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
@@ -302621,9 +302658,16 @@
           "show": "说得好听",
           "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
           "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        },
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-27",
       "url": "/wiki/entities/shuodehaoting/"
     },
     "ShuofangCommanderyWesternHan": {
@@ -308283,9 +308327,9 @@
       "url": "/wiki/entities/songtsam/"
     },
     "SongwritingEmotionalProcessing": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5781731754 [GLT5781731754].md",
@@ -308307,6 +308351,13 @@
           "show": "Revisionist History",
           "title": "Malcolm Breaks Down the Perfect Break Up Song",
           "url": "/wiki/sources/malcolm-breaks-down-the-perfect-break-up-song-malcolm-breaks-down-the-perfect-break-up-song/"
+        },
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
         }
       ],
       "updated": "2026-11-16",
@@ -373377,6 +373428,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/zhengxingeasternhan/"
+    },
+    "ZhengXingMusician": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
+          "key": "5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685",
+          "show": "说得好听",
+          "title": "说得好听EP57-音乐人的音乐人-郑兴歌里住了谁",
+          "url": "/wiki/sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/zhengxingmusician/"
     },
     "ZhengZhiWriter": {
       "episode_count": 1,

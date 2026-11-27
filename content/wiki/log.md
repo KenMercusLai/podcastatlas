@@ -44142,3 +44142,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-27] ingest | 说得好听EP57-音乐人的音乐人-郑兴歌里住了谁
+
+Added the [[ShuoDeHaoTing|说得好听]] conversation with [[ZhengXingMusician|郑兴]] on [[ChenXiaoxia|陈小霞]]'s melodic influence, Taipei songwriting and band formation, a movement-centered first album, low-budget ensemble recording, delegated authorship, touring, and changeable artistic identity.
+
+Created synthesis-first profiles for Zheng Xing and Chen Xiaoxia. Resynthesized 说得好听, [[SongwritingEmotionalProcessing]], [[AlbumAsIntegratedWork]], [[RelationalMusicProduction]], and [[LiveMusicHumanConnection]] from their complete preserved evidence inventories before appending the new source once.
+
+No settled contradiction was adopted. The title's 郑兴 and the body summary's repeated 郑欣 are normalized to the musician 郑兴 while preserving the discrepancy as a qualification. Dates, credits, venue history, recording proportions, influence claims, and career interpretations remain episode-scoped because the supplied file is a structured summary rather than a transcript, credits database, archive, or independent biography. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and the global compaction gate was not due. Rendered artifacts validate 5,309 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
