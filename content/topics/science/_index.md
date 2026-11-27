@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1745
+topic_total_pages: 1750
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -79,6 +79,9 @@ topic_concepts:
   - key: "AIConsciousnessBoundary"
     title: "AI Consciousness Boundary"
     url: "/wiki/concepts/aiconsciousnessboundary/"
+  - key: "AIEmissionsAccounting"
+    title: "AI Emissions Accounting"
+    url: "/wiki/concepts/aiemissionsaccounting/"
   - key: "AIExistentialMeaningAnxiety"
     title: "AI Existential Meaning Anxiety"
     url: "/wiki/concepts/aiexistentialmeaninganxiety/"
@@ -343,6 +346,9 @@ topic_concepts:
   - key: "CalibratedSelfDoubt"
     title: "Calibrated Self-Doubt"
     url: "/wiki/concepts/calibratedselfdoubt/"
+  - key: "CaliforniaCorporateEmissionsDisclosure"
+    title: "California Corporate Emissions Disclosure"
+    url: "/wiki/concepts/californiacorporateemissionsdisclosure/"
   - key: "CaliforniaEnergyPermittingPolitics"
     title: "California Energy Permitting Politics"
     url: "/wiki/concepts/californiaenergypermittingpolitics/"
@@ -3116,6 +3122,9 @@ topic_entities:
   - key: "EricJohnsonChoiceResearcher"
     title: "Eric Johnson (choice researcher)"
     url: "/wiki/entities/ericjohnsonchoiceresearcher/"
+  - key: "EricMasanet"
+    title: "Eric Masanet"
+    url: "/wiki/entities/ericmasanet/"
   - key: "EricWeinstein"
     title: "Eric Weinstein"
     url: "/wiki/entities/ericweinstein/"
@@ -3428,6 +3437,9 @@ topic_entities:
   - key: "MaryHelenImmordinoYang"
     title: "Mary Helen Immordino-Yang"
     url: "/wiki/entities/maryhelenimmordinoyang/"
+  - key: "MaryNichols"
+    title: "Mary Nichols"
+    url: "/wiki/entities/marynichols/"
   - key: "MaryFrancesOConnor"
     title: "Mary-Frances O'Connor"
     url: "/wiki/entities/maryfrancesoconnor/"
@@ -4314,6 +4326,9 @@ topic_sources:
   - key: "tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128"
     title: "California buildings must limit \"embodied carbon.\" Here's what that means"
     url: "/wiki/sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128/"
+  - key: "tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128"
+    title: "California wants receipts on AI's impact on climate change"
+    url: "/wiki/sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
     title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"

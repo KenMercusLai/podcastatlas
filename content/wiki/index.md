@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [California wants receipts on AI's impact on climate change](sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128.md) — Marketplace Tech on AI emissions-accounting gaps, California's large-company disclosure rule, its litigation boundary, and unverified net-climate-benefit claims.
 - [说得好听EP57-音乐人的音乐人-郑兴歌里住了谁](sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685.md) — 说得好听追踪郑兴从早期影响、台北求学与第一张专辑，到协作创作、巡演与艺术身份更新的路径。
 - [Social-insecurity numbers: the money behind the manosphere](sources/social-insecurity-numbers-the-money-behind-the-manosphere-7eb4966be1685ee4f19adde69e240aaa.md) — Economist Podcasts on manosphere monetization, China’s provincial amateur-football boom, and Annette Green’s fragrance legacy.
 - [Vol. 179 老黄龙王归位，Gemini 黑马逆袭](sources/podcast179-v1-podcast179-v1.md) — 枫言枫语以多模型编程工作流为主线，连接模型能力、额度、地区限制、客户端成熟度，并延伸到金融 Agent、客服、联网玩具与具身养老的治理边界。
@@ -5445,6 +5446,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [697. Whose Game Are You Playing?](sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825.md) — Freakonomics Radio conversation on voluntary game constraints, playfulness, metric value capture, and preserving plural values alongside useful measurement.
 
 ## Entities
+- [Eric Masanet](entities/EricMasanet.md) — UC Santa Barbara professor cited on AI emissions estimation, workload attribution, and uncertain net climate benefits.
+- [Mary Nichols](entities/MaryNichols.md) — Former California Air Resources Board chair connecting data-center disclosure to community resource and grid oversight.
 - [C. Thi Nguyen](entities/CThiNguyen.md) — Philosopher connecting games, chosen struggle, rule-world flexibility, and resistance to metric-driven value substitution.
 - [Stephen Dubner](entities/StephenDubner.md) — Freakonomics Radio host framing intrinsically worthwhile play and adult responsibility as compatible goods.
 - [郑兴 / Zheng Xing (musician)](entities/ZhengXingMusician.md) — 以个人经验、移动概念、协作制作与现场演出不断更新创作身份的唱作人。
@@ -20470,6 +20473,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
+- [AI Emissions Accounting](concepts/AIEmissionsAccounting.md) — Measurement and attribution of greenhouse-gas emissions to AI workloads rather than only aggregate companies or data centers.
+- [California Corporate Emissions Disclosure](concepts/CaliforniaCorporateEmissionsDisclosure.md) — State reporting regime whose core company and purchased-energy layer survived while broader supply-chain reporting was rejected in the episode's account.
 - [Voluntary-Obstacle Play](concepts/VoluntaryObstaclePlay.md) — Account of games as freely chosen unnecessary constraints that create intrinsically worthwhile forms of struggle and action.
 - [Metric Value Capture](concepts/MetricValueCapture.md) — Replacement of a rich contextual value by a portable quantified proxy until the proxy becomes the operative value.
 - [Manosphere Monetization](concepts/ManosphereMonetization.md) — Conversion of young men’s insecurity and aspiration into attention, products, platform income, and gambling-linked revenue.

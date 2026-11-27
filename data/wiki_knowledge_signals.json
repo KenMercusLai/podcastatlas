@@ -3483,6 +3483,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/aielectionmisinformationrisk/"
     },
+    "AIEmissionsAccounting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261127_1127_MP_TECH_pod_128 [tech_20261127_1127_MP_TECH_pod_128].md",
+          "key": "tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California wants receipts on AI's impact on climate change",
+          "url": "/wiki/sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/aiemissionsaccounting/"
+    },
     "AIEmpireSovereigntyRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -45435,6 +45451,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/californiabuildingcostcapture/"
+    },
+    "CaliforniaCorporateEmissionsDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261127_1127_MP_TECH_pod_128 [tech_20261127_1127_MP_TECH_pod_128].md",
+          "key": "tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California wants receipts on AI's impact on climate change",
+          "url": "/wiki/sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/californiacorporateemissionsdisclosure/"
     },
     "CaliforniaDeleteAct": {
       "episode_count": 2,
@@ -106986,6 +107018,22 @@
       ],
       "updated": "2026-11-17",
       "url": "/wiki/entities/ericjohnsonchoiceresearcher/"
+    },
+    "EricMasanet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261127_1127_MP_TECH_pod_128 [tech_20261127_1127_MP_TECH_pod_128].md",
+          "key": "tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California wants receipts on AI's impact on climate change",
+          "url": "/wiki/sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/ericmasanet/"
     },
     "EricTheRed": {
       "episode_count": 1,
@@ -217629,6 +217677,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/maryjanekelly/"
+    },
+    "MaryNichols": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261127_1127_MP_TECH_pod_128 [tech_20261127_1127_MP_TECH_pod_128].md",
+          "key": "tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California wants receipts on AI's impact on climate change",
+          "url": "/wiki/sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/marynichols/"
     },
     "MaryNorris": {
       "episode_count": 1,

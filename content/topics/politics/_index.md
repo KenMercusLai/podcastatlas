@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3620
+topic_total_pages: 3621
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -661,6 +661,9 @@ topic_concepts:
   - key: "CaliforniaBuildingCostCapture"
     title: "California Building Cost Capture"
     url: "/wiki/concepts/californiabuildingcostcapture/"
+  - key: "CaliforniaCorporateEmissionsDisclosure"
+    title: "California Corporate Emissions Disclosure"
+    url: "/wiki/concepts/californiacorporateemissionsdisclosure/"
   - key: "CampaignSpendingArmsRace"
     title: "Campaign Spending Arms Race"
     url: "/wiki/concepts/campaignspendingarmsrace/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11860
+wiki_total_pages: 11862
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "AIElectionMisinformationRisk"
     title: "AI Election Misinformation Risk"
     url: "/wiki/concepts/aielectionmisinformationrisk/"
+  - key: "AIEmissionsAccounting"
+    title: "AI Emissions Accounting"
+    url: "/wiki/concepts/aiemissionsaccounting/"
   - key: "AIEmpireSovereigntyRisk"
     title: "AI Empire Sovereignty Risk"
     url: "/wiki/concepts/aiempiresovereigntyrisk/"

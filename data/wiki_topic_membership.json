@@ -10285,6 +10285,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIEmissionsAccounting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AIEmpireSovereigntyRisk": [
     {
       "key": "technology",
@@ -22798,6 +22810,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CaliforniaCorporateEmissionsDisclosure": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CaliforniaDreamAndReinvention": [
@@ -37714,6 +37738,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "EricMasanet": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "EricMigicovsky": [
@@ -63883,6 +63914,13 @@
       "label": "Culture",
       "url": "/topics/culture/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "MaryNichols": [
     {
       "key": "science",
       "label": "Science",
@@ -117310,6 +117348,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns": [

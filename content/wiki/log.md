@@ -44170,3 +44170,17 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-27] ingest | California wants receipts on AI's impact on climate change
+
+Added the [[MarketplaceTech]] episode on the inability to calculate reliable per-query or industry-wide AI emissions from incomplete, inconsistent, and non-workload-specific reporting.
+
+Created synthesis-first pages for [[AIEmissionsAccounting]], [[CaliforniaCorporateEmissionsDisclosure]], [[EricMasanet]], and [[MaryNichols]]. The episode connects California's large-company reporting baseline to community resource and grid visibility while preserving the distinction between corporate disclosure, AI workload attribution, and demonstrated emissions reductions.
+
+No settled contradiction was adopted. The appellate outcome is treated as a scope boundary: the initial direct and purchased-energy reports survived in the episode's account while the following year's detailed supply-chain reports did not. Coverage, thresholds, legal holdings, disclosure histories, inventory practices, and climate-benefit claims remain episode-scoped because the supplied file is a structured summary rather than statutory text, a judicial opinion, audited emissions data, company reports, or underlying research. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,311 sources across 812 overview paragraphs and nine topics. New canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

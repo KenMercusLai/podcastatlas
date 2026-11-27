@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11860
+wiki_total_pages: 11862
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "CaliforniaBuildingCostCapture"
     title: "California Building Cost Capture"
     url: "/wiki/concepts/californiabuildingcostcapture/"
+  - key: "CaliforniaCorporateEmissionsDisclosure"
+    title: "California Corporate Emissions Disclosure"
+    url: "/wiki/concepts/californiacorporateemissionsdisclosure/"
   - key: "CaliforniaDeleteAct"
     title: "California Delete Act"
     url: "/wiki/concepts/californiadeleteact/"
