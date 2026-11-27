@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务](sources/ep153-ep153.md) — 疯投圈访谈新氧创始人金星，以平台转直营诊所拆解复杂服务的供给控制、标准化、无预付信任、复购、单店模型与AI诊所边界。
 - [THE HIDDEN THREATS TO OUR POWER, PORTS AND ENERGY SYSTEMS | Shekhar Natarajan x Honorebel S. Walker](sources/defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583.md) — Tomorrow Today on Spacetime Industries' robotic outposts, remote inspection, multi-robot orchestration, regulation, cybersecurity, liability, and moat uncertainty.
 - [California wants receipts on AI's impact on climate change](sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128.md) — Marketplace Tech on AI emissions-accounting gaps, California's large-company disclosure rule, its litigation boundary, and unverified net-climate-benefit claims.
 - [说得好听EP57-音乐人的音乐人-郑兴歌里住了谁](sources/5f912c9a3957c933351ee56baa580685-5f912c9a3957c933351ee56baa580685.md) — 说得好听追踪郑兴从早期影响、台北求学与第一张专辑，到协作创作、巡演与艺术身份更新的路径。
@@ -20475,6 +20476,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wikimedia Foundation](entities/WikimediaFoundation.md) — Nonprofit institutional layer associated with Wikipedia's small-donor model and public-knowledge mission.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
+- [So-Young / 新氧](entities/SoYoung.md) — 从医美导流平台转向总部控制轻医美诊所网络的上市公司案例。
+- [Jin Xing (So-Young) / 金星（新氧）](entities/JinXingSoYoung.md) — 新氧创始人兼CEO，以供给端控制、长期复购和资本纪律解释公司的二次创业。
+
 ## Concepts
 - [AI Emissions Accounting](concepts/AIEmissionsAccounting.md) — Measurement and attribution of greenhouse-gas emissions to AI workloads rather than only aggregate companies or data centers.
 - [California Corporate Emissions Disclosure](concepts/CaliforniaCorporateEmissionsDisclosure.md) — State reporting regime whose core company and purchased-energy layer survived while broader supply-chain reporting was rejected in the episode's account.
@@ -32458,5 +32462,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Freshness vs Technical Freshness / 本地新鲜与技术新鲜](concepts/LocalFreshnessVsTechnicalFreshness.md) — 区分短时间、在地、当季的新鲜逻辑与冷链、保鲜、标准化维持的新鲜逻辑。
 - [Consumer Food Knowledge / 消费者食物知识](concepts/ConsumerFoodKnowledge.md) — 通过感官、烹饪、反复购买与交谈累积的食材辨识、品质判断和使用能力。
 - [Community-Embedded Market Governance / 社区嵌入式菜市场治理](concepts/CommunityEmbeddedMarketGovernance.md) — 管理者、摊贩与居民共同维持日常供给、服务适配、摊贩能力与全年龄使用的治理模式。
+
+- [Complex Service Chain Operating System / 复杂服务连锁操作系统](concepts/ComplexServiceChainOperatingSystem.md) — 以总部控制、有限服务、培训、可见流程、激励设计、复购和单店经济复制高信任服务的系统。
 
 ## Syntheses

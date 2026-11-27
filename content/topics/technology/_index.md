@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3952
+topic_total_pages: 3954
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7190,6 +7190,9 @@ topic_entities:
   - key: "Jimeng"
     title: "Jimeng / 即梦"
     url: "/wiki/entities/jimeng/"
+  - key: "JinXingSoYoung"
+    title: "Jin Xing (So-Young) / 金星（新氧）"
+    url: "/wiki/entities/jinxingsoyoung/"
   - key: "JoannaStern"
     title: "Joanna Stern"
     url: "/wiki/entities/joannastern/"
@@ -9846,6 +9849,9 @@ topic_sources:
   - key: "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz"
     title: "152.关于2026年的四个猜想"
     url: "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+  - key: "ep153-ep153"
+    title: "153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务"
+    url: "/wiki/sources/ep153-ep153/"
   - key: "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p"
     title: "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”"
     url: "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"

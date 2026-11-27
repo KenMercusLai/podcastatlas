@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14924
+wiki_total_pages: 14926
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "JimmyWales"
     title: "Jimmy Wales"
     url: "/wiki/entities/jimmywales/"
+  - key: "JinXingSoYoung"
+    title: "Jin Xing (So-Young) / 金星（新氧）"
+    url: "/wiki/entities/jinxingsoyoung/"
   - key: "JingFang"
     title: "Jing Fang / 京房"
     url: "/wiki/entities/jingfang/"

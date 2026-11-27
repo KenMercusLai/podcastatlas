@@ -67066,6 +67066,22 @@
       "updated": "2026-11-16",
       "url": "/wiki/concepts/complexnaturalproductsynergy/"
     },
+    "ComplexServiceChainOperatingSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep153 [ep153].md",
+          "key": "ep153-ep153",
+          "show": "疯投圈",
+          "title": "153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务",
+          "url": "/wiki/sources/ep153-ep153/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/concepts/complexservicechainoperatingsystem/"
+    },
     "ComplexTraumaRecognition": {
       "episode_count": 10,
       "show_count": 2,
@@ -178578,6 +178594,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/jinxiaolin/"
     },
+    "JinXingSoYoung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep153 [ep153].md",
+          "key": "ep153-ep153",
+          "show": "疯投圈",
+          "title": "153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务",
+          "url": "/wiki/sources/ep153-ep153/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/entities/jinxingsoyoung/"
+    },
     "JinYiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -220385,9 +220417,9 @@
       "url": "/wiki/concepts/medicalimagingmodalityprinciples/"
     },
     "MedicalPlatformTrustCrisis": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
@@ -220416,9 +220448,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.223 “莆田系”医事：从电线杆到手术台",
           "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        },
+        {
+          "episode_file": "ep153 [ep153].md",
+          "key": "ep153-ep153",
+          "show": "疯投圈",
+          "title": "153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务",
+          "url": "/wiki/sources/ep153-ep153/"
         }
       ],
-      "updated": "2026-10-21",
+      "updated": "2026-11-28",
       "url": "/wiki/concepts/medicalplatformtrustcrisis/"
     },
     "MedicalSupportCapacityTransfer": {
@@ -297405,6 +297444,43 @@
       "updated": "2026-11-15",
       "url": "/wiki/concepts/servantleadershiptrustrenewal/"
     },
+    "ServiceBrandStandardization": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Curt Richardson of OtterBox [e94bf774-de11-4434-843b-a551309a6773].md",
+          "key": "advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Curt Richardson of OtterBox",
+          "url": "/wiki/sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773/"
+        },
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "140.酒店集团为什么都热衷于打造会员和积分体系？｜ 串台远行者与碎冰匠 [lj_XA3WXzJOG6_8Zm9nfAkH6UleW].md",
+          "key": "140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew",
+          "show": "起朱楼宴宾客",
+          "title": "140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠",
+          "url": "/wiki/sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew/"
+        },
+        {
+          "episode_file": "ep153 [ep153].md",
+          "key": "ep153-ep153",
+          "show": "疯投圈",
+          "title": "153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务",
+          "url": "/wiki/sources/ep153-ep153/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/concepts/servicebrandstandardization/"
+    },
     "ServiceDeliveryDemocraticTrust": {
       "episode_count": 1,
       "show_count": 1,
@@ -306574,6 +306650,22 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/entities/somanysteves/"
+    },
+    "SoYoung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep153 [ep153].md",
+          "key": "ep153-ep153",
+          "show": "疯投圈",
+          "title": "153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务",
+          "url": "/wiki/sources/ep153-ep153/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/entities/soyoung/"
     },
     "SocialAttentionAsymmetry": {
       "episode_count": 2,

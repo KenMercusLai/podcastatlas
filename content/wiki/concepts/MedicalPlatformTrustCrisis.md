@@ -7,7 +7,8 @@ sources:
   - 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394
   - no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500
   - gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox
-last_updated: 2026-10-21
+  - ep153-ep153
+last_updated: 2026-11-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,12 +20,15 @@ A medical platform trust crisis occurs when search rank, advertising, hospital b
 ## Current Synthesis
 The bounded sources show three distinct routes to false authority: commercial promotion and outsourced hospital activity around the [[WeiZexiIncident|魏则西 event]]; ordinary patients overmapping context-free symptom snippets onto themselves; and evidence-oriented AI products whose ranking could still be compromised by advertising or pharmaceutical promotion. The Putian medical history adds the offline and organizational substrate—department contracting, renamed cooperation, costly acquisition, opaque control, and weak self-regulation—that can sit behind a trusted search or hospital surface.
 
+A different but related failure appears when a platform improves listings, prices, reviews, and complaint handling yet still lacks control over what happens inside an independent clinic. In New Oxygen's account, aggressive selling, prepaid lock-in, and uneven delivery persisted after information became more transparent. The episode therefore separates information trust from delivery control and explains the company's move into owned supply as an attempt to accept direct responsibility for incentives, workflow, and follow-through. [[ep153-ep153]]
+
 ## Key Claims
 - Ranking, ad placement, hospital names, and professional-looking interfaces can be mistaken for clinical validation.
 - Trust failures arise across a chain of platforms, providers, hospitals, advertisers, operators, and regulators rather than at one screen alone.
 - Ordinary symptom search can create false authority without paid deception when fragmented results lack clinical context.
 - Evidence-grounded physician tools can improve retrieval quality while still requiring separation between commercial revenue and medical ranking.
 - Opaque department cooperation and changing ownership make the responsible medical operator difficult for patients to identify.
+- Information transparency and post-complaint penalties do not by themselves control offline sales incentives or treatment delivery.
 - Repair requires clear promotion labels, evidence provenance, qualified clinical responsibility, legible control, and enforceable oversight.
 
 ## Evidence
@@ -32,17 +36,19 @@ The bounded sources show three distinct routes to false authority: commercial pr
 - **Patient-side search anxiety:** A physician-book discussion shows how context-free symptom results can amplify fear and displace diagnostic reasoning even without an advertising scandal. [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]]
 - **Industry turning point:** The internet-healthcare history connects Wei Zexi, medical advertising, hospital outsourcing, and disputed treatment claims to a wider contraction in platform trust and enthusiasm. [[no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]]
 - **Operating substrate:** The Putian medical history adds department contracting, equipment cooperation, high-cost acquisition, misleading promotion, renamed project cooperation, and weak association enforcement behind the visible platform layer. [[gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox]]
+- **Information-versus-delivery boundary:** [[ep153-ep153]] reports New Oxygen's conclusion that more transparent information and complaint-based platform sanctions could not prevent aggressive selling, prepaid-card incentives, or inconsistent independent-clinic delivery.
+- **Direct-responsibility response:** [[ep153-ep153]] presents owned clinics, headquarters control, transaction-by-transaction payment, physician-consultation tests, visible preparation, and ratings as an attempted repair rather than proof that the trust problem has been solved.
 
 ## Counterevidence & Qualifications
 - Search, advertising, private ownership, hospital cooperation, or AI assistance do not individually prove unsafe care.
 - Patient anxiety from ordinary search is a different mechanism from documented deceptive promotion and should not be merged into one allegation.
 - Evidence-grounded AI can reduce some open-web weaknesses, but the supplied source does not establish long-run outcome gains or complete insulation from commercial incentives.
 - “莆田系” is a loose label; shared origin or brand does not establish current ownership or responsibility for a specific trust failure.
+- Direct ownership and visible workflow can change incentives and accountability without proving clinical appropriateness, safety, outcomes, or freedom from sales pressure.
 
 ## What Changed
-- The crisis now includes the offline control and acquisition structures behind platform-visible medical claims.
-- Operator identity and current ownership join ad labeling and evidence quality as trust requirements.
-- Ordinary search anxiety, deceptive promotion, and AI monetization are retained as separate mechanisms.
+- Separated information transparency from control over offline service incentives and delivery.
+- Added direct supply ownership as a possible accountability response without treating it as proof of safe or appropriate care.
 
 ## Related Concepts
 - [[WeiZexiIncident|魏则西事件]] - central search, hospital-cooperation, and misleading-promotion case.
@@ -51,3 +57,5 @@ The bounded sources show three distinct routes to false authority: commercial pr
 - [[MedicalAIMarketingRisk]] - AI-era conflict between useful evidence access and commercial influence.
 - [[OnlineHealthcareRegulatoryBoundary]] - licensing and responsibility boundary for online medical services.
 - [[DoctorPatientCommunication]] - clinical context and second-opinion route that search snippets cannot replace.
+- [[ComplexServiceChainOperatingSystem]] - New Oxygen's attempted supply-side response through headquarters control and repeated delivery.
+- [[MedicalAestheticProviderVerification]] - independent check that remains necessary after platform or chain trust signals.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14924
+wiki_total_pages: 14926
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "SoManySteves"
     title: "So Many Steves: Afternoons with Steve Martin"
     url: "/wiki/entities/somanysteves/"
+  - key: "SoYoung"
+    title: "So-Young / 新氧"
+    url: "/wiki/entities/soyoung/"
   - key: "Soccernomics"
     title: "Soccernomics / 《足球经济学》"
     url: "/wiki/entities/soccernomics/"
