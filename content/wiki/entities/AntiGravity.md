@@ -4,36 +4,47 @@ type: entity
 tags: [ai-tool, coding, agents]
 sources:
   - ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252
-last_updated: 2026-09-02
+  - podcast179-v1-podcast179-v1
+last_updated: 2026-11-27
 knowledge_schema: synthesis-v1
 ---
 
-# Anti-Gravity
-
 ## Overview
-Anti-Gravity is a source-scoped AI coding tool/entity grouped with Codex and Cursor in the episode's agent-first editor discussion.
+Anti-Gravity is an AI coding client discussed as part of the shift from editor-first development toward agent sessions, tool orchestration, and multi-agent execution.
 
 ## Current Profile
-The episode mentions Anti-Gravity 2.0 as part of a converging 2026 pattern for coding tools. Its relevance in the wiki is comparative: the source uses it to show that multiple products are moving from traditional file-tree-first coding toward agent sessions, conversations, diffs, and review loops.
+The sources place Anti-Gravity in the same broad agent-first direction as Codex and Cursor, but not at the same maturity level. The earlier episode uses it as evidence of interface convergence around instructions, diffs, and review; Vol. 179 reports hands-on friction in feature completeness, interaction design, and model ordering while also noting MCP support, a Swarm-like mode, and continuing updates.
+
+Its wiki significance is comparative rather than a definitive product review: it shows that a strong model and an effective coding client are separable, and that execution-model choice, tools, state, and review surfaces can determine whether capability is usable.
 
 ## Key Characteristics
-- It is cited as an agent-first coding tool rather than a traditional editor-only tool.
-- It is grouped with Codex and Cursor as evidence of product convergence around command centers.
-- Its details remain source-scoped because the ingested episode provides only a comparative mention.
+- It is presented as an agent-first coding client rather than a traditional editor-only tool.
+- Its interface is organized around agent work, instructions, results, and review.
+- The newer source reports MCP support and a multi-agent Swarm-style mode.
+- The newer source also reports missing functions, unintuitive interactions, confusing model ordering, and restricted execution-model choice.
+- Its value depends on coordination with Gemini models and the surrounding harness, not only on the visible client.
 
 ## Evidence
-- The episode groups Anti-Gravity with Codex and Cursor in the agent-first editor comparison: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]].
-- The source references Anti-Gravity 2.0 as part of the 2026 coding-tool interface shift: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]].
-- The same discussion uses the tool to support the broader agent command-center concept: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]].
+### Agent-first interface direction
+- [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]] groups Anti-Gravity with Codex and Cursor as evidence of coding interfaces moving toward agent sessions and command centers.
+
+### Current workflow experience
+- [[podcast179-v1-podcast179-v1]] reports that the hosts use Anti-Gravity in a Gemini-centered workflow but find it less mature than Claude Code and Codex clients.
+- [[podcast179-v1-podcast179-v1]] says MCP and a Swarm-like mode have been added while model-selection and interaction constraints remain.
 
 ## Qualifications
-The wiki has no broader independent profile for Anti-Gravity yet. Product name, version, and capabilities should remain source-scoped until later sources corroborate or refine them.
+Both sources are podcast accounts rather than product documentation, release notes, telemetry, or controlled usability studies. Product names, versions, capabilities, subscription interoperability, and rankings can change quickly. The reported client weaknesses do not establish weak underlying Gemini model capability, and the earlier command-center prediction does not prove that agent-first interfaces will replace source-oriented editors for code reading.
 
 ## What Changed
-- Created a source-scoped entity for the episode's Anti-Gravity comparison.
+- Added hands-on evidence separating underlying Gemini capability from client maturity.
+- Added MCP and multi-agent orchestration to the profile.
+- Added execution-model choice and interaction design as current constraints.
 
 ## Relationships
-- [[Codex]] - peer tool in the agent-first editor comparison.
-- [[Cursor]] - peer tool in the agent-first editor comparison.
-- [[AgentCommandCenter]] - interface pattern Anti-Gravity helps illustrate in the source.
-- [[AgentHarness]] - infrastructure layer implied by the agent-first coding workflow.
+- [[Gemini]] - model family used through the client in the newer source.
+- [[Codex]] - peer coding tool and client used in both interface and maturity comparisons.
+- [[ClaudeCode]] - mature orchestration benchmark in the newer comparison.
+- [[Cursor]] - peer product in the earlier agent-first interface comparison.
+- [[AgentCommandCenter]] - interface pattern that Anti-Gravity helps illustrate.
+- [[AgentHarness]] - execution, context, tool, permission, and review layer determining practical value.
+- [[SelfBuiltAgentWorkflow]] - multi-provider workflow in which the client is one replaceable component.

@@ -2964,20 +2964,26 @@
       "earliest_episode_date": "2026-02-01",
       "latest_episode_date": "2026-11-26",
       "latest_episode_file": "Podcast179_v1 [Podcast179_v1].md",
-      "source_note_count": 17,
-      "topic_matched_source_note_count": 15,
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 16,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 15
+          "source_note_count": 16
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 2
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
         },
         {
           "key": "science",
@@ -3031,10 +3037,10 @@
         }
       ],
       "start_here_episode_files": [
-        "Podcast178_v1 [Podcast178_v1].md",
+        "Podcast179_v1 [Podcast179_v1].md",
         "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
         "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
-        "Podcast179_v1 [Podcast179_v1].md"
+        "Podcast178_v1 [Podcast178_v1].md"
       ]
     },
     "独树不成林": {

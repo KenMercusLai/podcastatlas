@@ -6909,6 +6909,29 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/aitasksubstitutionreliabilityboundary/"
     },
+    "AIToyCompanionship": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
+          "key": "ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4",
+          "show": "Talk三联",
+          "title": "EP253 爆火的AI好物，到底是“真香”还是智商税？",
+          "url": "/wiki/sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4/"
+        },
+        {
+          "episode_file": "Podcast179_v1 [Podcast179_v1].md",
+          "key": "podcast179-v1-podcast179-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 179 老黄龙王归位，Gemini 黑马逆袭",
+          "url": "/wiki/sources/podcast179-v1-podcast179-v1/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/aitoycompanionship/"
+    },
     "AITrading": {
       "episode_count": 1,
       "show_count": 1,
@@ -22594,9 +22617,9 @@
       "url": "/wiki/concepts/antiglycolyticconditioning/"
     },
     "AntiGravity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8218230840_466252 [8218230840_466252].md",
@@ -22604,9 +22627,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "Podcast179_v1 [Podcast179_v1].md",
+          "key": "podcast179-v1-podcast179-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 179 老黄龙王归位，Gemini 黑马逆袭",
+          "url": "/wiki/sources/podcast179-v1-podcast179-v1/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-11-27",
       "url": "/wiki/entities/antigravity/"
     },
     "AntiHouthiCoalitionFragmentation": {
@@ -76546,6 +76576,29 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/customerinterviewledpositioning/"
     },
+    "CustomerServiceSludge": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260723_0723_MP_TECH_pod_128 [tech_20260723_0723_MP_TECH_pod_128].md",
+          "key": "tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A modern-day odyssey through AI chatbot hellscape",
+          "url": "/wiki/sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Podcast179_v1 [Podcast179_v1].md",
+          "key": "podcast179-v1-podcast179-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 179 老黄龙王归位，Gemini 黑马逆袭",
+          "url": "/wiki/sources/podcast179-v1-podcast179-v1/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/customerservicesludge/"
+    },
     "CustomerSignalDrivenPivot": {
       "episode_count": 2,
       "show_count": 2,
@@ -117568,6 +117621,50 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/finalspark/"
+    },
+    "FinancialAIAgents": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿 [lr4TVDrq25bY7FUGoqkqoJW6VWDk].md",
+          "key": "11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk",
+          "show": "十字路口Crossing",
+          "title": "11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿",
+          "url": "/wiki/sources/11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk/"
+        },
+        {
+          "episode_file": "对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局 [lqtILT8FLVmV99v0GsHhyFyraiBe].md",
+          "key": "duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe",
+          "show": "十字路口Crossing",
+          "title": "对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局",
+          "url": "/wiki/sources/duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe/"
+        },
+        {
+          "episode_file": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？ [lhvIGzza2uGmAYezkBrxUfKmP4L1].md",
+          "key": "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1",
+          "show": "一劳永逸",
+          "title": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？",
+          "url": "/wiki/sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1/"
+        },
+        {
+          "episode_file": "EP69 AI时代来临，投资不再是单机模式 [lpPXMDl3wLRRtswXWpZEkZ-qzygN].md",
+          "key": "ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn",
+          "show": "一劳永逸",
+          "title": "EP69 AI时代来临，投资不再是单机模式",
+          "url": "/wiki/sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn/"
+        },
+        {
+          "episode_file": "Podcast179_v1 [Podcast179_v1].md",
+          "key": "podcast179-v1-podcast179-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 179 老黄龙王归位，Gemini 黑马逆袭",
+          "url": "/wiki/sources/podcast179-v1-podcast179-v1/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/financialaiagents/"
     },
     "FinancialAIQuantitativeTrading": {
       "episode_count": 1,
@@ -295740,9 +295837,9 @@
       "url": "/wiki/concepts/selfattachmentbelonging/"
     },
     "SelfBuiltAgentWorkflow": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
@@ -295750,9 +295847,16 @@
           "show": "枫言枫语",
           "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
           "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        },
+        {
+          "episode_file": "Podcast179_v1 [Podcast179_v1].md",
+          "key": "podcast179-v1-podcast179-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 179 老黄龙王归位，Gemini 黑马逆袭",
+          "url": "/wiki/sources/podcast179-v1-podcast179-v1/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/selfbuiltagentworkflow/"
     },
     "SelfClarificationEdict": {

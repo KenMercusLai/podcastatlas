@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3945
+topic_total_pages: 3946
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11337,6 +11337,9 @@ topic_sources:
   - key: "podcast178-v1-podcast178-v1"
     title: "Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天"
     url: "/wiki/sources/podcast178-v1-podcast178-v1/"
+  - key: "podcast179-v1-podcast179-v1"
+    title: "Vol. 179 老黄龙王归位，Gemini 黑马逆袭"
+    url: "/wiki/sources/podcast179-v1-podcast179-v1/"
   - key: "lsh8sdro6i9mkt5nug4zkibv95tn"
     title: "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles"
     url: "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 179 老黄龙王归位，Gemini 黑马逆袭](sources/podcast179-v1-podcast179-v1.md) — 枫言枫语以多模型编程工作流为主线，连接模型能力、额度、地区限制、客户端成熟度，并延伸到金融 Agent、客服、联网玩具与具身养老的治理边界。
 - [E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79.md) — 硅谷101拆解韩妆的爆品带牌、功效表演、ODM研发制造、文化协同、全球分销与零售体系，并检视同质化、流量依赖和品牌短命风险。
 - [Left in the lurch: Spain’s general election](sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0.md) — Economist Podcasts on Spain's rightward electoral shift, Mattel's entertainment strategy, and the challenge of adapting the Ramayana for a global audience.
 - [AI food slop is on the menu](sources/tech-20261126-1126-mp-tech-pod-128-tech-20261126-1126-mp-tech-pod-128.md) — Marketplace Tech and Brady Brickner-Wood on uncanny generated food, small-business advertising constraints, embodied appetite, and novelty decay.

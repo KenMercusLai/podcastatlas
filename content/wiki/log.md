@@ -44102,3 +44102,15 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-27] ingest | Vol. 179 老黄龙王归位，Gemini 黑马逆袭
+
+Added the [[FengyanFengyu|枫言枫语]] technology roundup on Nvidia founder dependence, multi-model coding workflows, Gemini and Claude Code access, Anti-Gravity client maturity, AI research and security, bank-connected finance, multilingual customer service, connected toys, and embodied elder care.
+
+Resynthesized [[SelfBuiltAgentWorkflow]], [[AntiGravity]], [[FinancialAIAgents]], [[AIToyCompanionship]], and [[CustomerServiceSludge]] from their complete preserved evidence inventories before appending the new source once. No settled contradiction was adopted. Model rankings, tier names, quotas, regional policies, management events, research results, security findings, acquisitions, funding, product capabilities, market records, technical measurements, and release status remain episode-scoped because the supplied file is a structured summary rather than a transcript, benchmark, filing, research paper, security advisory, regulator notice, or controlled test. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,306 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
