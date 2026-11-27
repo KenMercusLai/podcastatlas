@@ -3952,10 +3952,10 @@
       ]
     },
     "说得好听": {
-      "episode_count": 1,
+      "episode_count": 2,
       "earliest_episode_date": "2026-08-26",
-      "latest_episode_date": "2026-08-26",
-      "latest_episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+      "latest_episode_date": "2026-11-27",
+      "latest_episode_file": "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md",
       "source_note_count": 1,
       "topic_matched_source_note_count": 1,
       "topics": [
@@ -3974,7 +3974,8 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md"
+        "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+        "5f912c9a3957c933351ee56baa580685 [5f912c9a3957c933351ee56baa580685].md"
       ]
     },
     "读报teleread": {
