@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3946
+topic_total_pages: 3947
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -11751,6 +11751,9 @@ topic_sources:
   - key: "lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp"
     title: "李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活"
     url: "/wiki/sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp/"
+  - key: "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08"
+    title: "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37"
+    url: "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
   - key: "paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78"
     title: "泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授"
     url: "/wiki/sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78/"

@@ -1664,6 +1664,64 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/aibenchmarkgaming/"
     },
+    "AICapexReturnWindow": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "175.公募基金二季报：极致的抱团与割裂之后 [lv20UPRXRCW0tde5UgOhu29tmlG6].md",
+          "key": "175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6",
+          "show": "起朱楼宴宾客",
+          "title": "175.公募基金二季报：极致的抱团与割裂之后",
+          "url": "/wiki/sources/175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6/"
+        },
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260721_0721_MP_TECH_pod_128 [tech_20260721_0721_MP_TECH_pod_128].md",
+          "key": "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI debt is flooding the bond market",
+          "url": "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？ [luPeQjDszON-wp5zdq06w3ustw2d].md",
+          "key": "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d",
+          "show": "起朱楼宴宾客",
+          "title": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？",
+          "url": "/wiki/sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
+          "key": "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08",
+          "show": "What's Next｜科技早知道",
+          "title": "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37",
+          "url": "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/aicapexreturnwindow/"
+    },
     "AICapitalMarketCrowding": {
       "episode_count": 1,
       "show_count": 1,
@@ -1776,9 +1834,9 @@
       "url": "/wiki/concepts/aichipspecialization/"
     },
     "AICircularInfrastructureFinancing": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 9,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -1842,9 +1900,16 @@
           "show": "Planet Money",
           "title": "Two ways big bets on data centers might affect you (Two Indicators)",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354-default-mp3-ywr3ahjkcgo-924563be400ac2ec88b87ea5dedb9ab0-20631354/"
+        },
+        {
+          "episode_file": "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
+          "key": "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08",
+          "show": "What's Next｜科技早知道",
+          "title": "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37",
+          "url": "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
         }
       ],
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
     "AIClientGrowthRetentionAgent": {
@@ -2399,9 +2464,9 @@
       "url": "/wiki/concepts/aicomputecommitmentdurationmismatch/"
     },
     "AIComputePriceRisk": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
@@ -2423,9 +2488,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
           "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        },
+        {
+          "episode_file": "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
+          "key": "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08",
+          "show": "What's Next｜科技早知道",
+          "title": "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37",
+          "url": "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/aicomputepricerisk/"
     },
     "AIComputeRevenueEfficiency": {
@@ -5010,6 +5082,78 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/aiinvestmentmargindrag/"
     },
+    "AIInvestmentMetrics": {
+      "episode_count": 9,
+      "show_count": 5,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "tech_20260721_0721_MP_TECH_pod_128 [tech_20260721_0721_MP_TECH_pod_128].md",
+          "key": "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI debt is flooding the bond market",
+          "url": "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS [lh_CQyoSs_DztmYB5kmBjaPA6W9V].md",
+          "key": "136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+          "url": "/wiki/sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v/"
+        },
+        {
+          "episode_file": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller [lg4SPHlAUnrJuULqRaXS_1Gc5ufZ].md",
+          "key": "142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller",
+          "url": "/wiki/sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz/"
+        },
+        {
+          "episode_file": "E155.似乎没什么人再提「AI 泡沫论」了 [lkon87VgPkdkQ9Ll_fG0eaBnUubF].md",
+          "key": "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf",
+          "show": "面基",
+          "title": "E155.似乎没什么人再提「AI 泡沫论」了",
+          "url": "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"
+        },
+        {
+          "episode_file": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people [limyZCH9lA0bBwE8y9GEOfgQARGL].md",
+          "key": "e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl",
+          "show": "面基",
+          "title": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people",
+          "url": "/wiki/sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl/"
+        },
+        {
+          "episode_file": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接 [lmeczS2JtKzE79rKpVM-RC5yw22M].md",
+          "key": "141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接",
+          "url": "/wiki/sources/141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m/"
+        },
+        {
+          "episode_file": "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
+          "key": "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08",
+          "show": "What's Next｜科技早知道",
+          "title": "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37",
+          "url": "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/aiinvestmentmetrics/"
+    },
     "AIJobCreationCounterweight": {
       "episode_count": 1,
       "show_count": 1,
@@ -6380,9 +6524,9 @@
       "url": "/wiki/concepts/airesistantexperientialconsumption/"
     },
     "AIRevenueLegibility": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -6425,9 +6569,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
+        },
+        {
+          "episode_file": "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
+          "key": "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08",
+          "show": "What's Next｜科技早知道",
+          "title": "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37",
+          "url": "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-27",
       "url": "/wiki/concepts/airevenuelegibility/"
     },
     "AISafetyComputeDemand": {

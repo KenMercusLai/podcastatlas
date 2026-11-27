@@ -1490,20 +1490,20 @@
       "earliest_episode_date": "2026-04-29",
       "latest_episode_date": "2026-11-27",
       "latest_episode_file": "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
-      "source_note_count": 30,
-      "topic_matched_source_note_count": 25,
+      "source_note_count": 31,
+      "topic_matched_source_note_count": 26,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 23
+          "source_note_count": 24
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "science",
@@ -1571,10 +1571,10 @@
         }
       ],
       "start_here_episode_files": [
-        "7b500b8f-cfde-4da1-9559-8128adcea8f6 [7b500b8f-cfde-4da1-9559-8128adcea8f6].md",
-        "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
         "a2f80cf4-a36c-4650-9801-56e2049fdc08 [a2f80cf4-a36c-4650-9801-56e2049fdc08].md",
-        "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md"
+        "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+        "c11cceb2-07c2-4c2f-9124-95bd1187c7ec [c11cceb2-07c2-4c2f-9124-95bd1187c7ec].md",
+        "7b500b8f-cfde-4da1-9559-8128adcea8f6 [7b500b8f-cfde-4da1-9559-8128adcea8f6].md"
       ]
     },
     "一劳永逸": {

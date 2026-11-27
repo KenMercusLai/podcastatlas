@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2434
+topic_total_pages: 2435
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7293,6 +7293,9 @@ topic_sources:
   - key: "lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228"
     title: "李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路"
     url: "/wiki/sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228/"
+  - key: "a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08"
+    title: "极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37"
+    url: "/wiki/sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08/"
   - key: "paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78"
     title: "泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授"
     url: "/wiki/sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78/"

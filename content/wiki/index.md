@@ -5439,6 +5439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)](sources/vmp5702291377-vmp5702291377.md) — How I Built This interview on Wikipedia's low-barrier collaboration, volunteer governance, sourcing norms, nonprofit structure, and small-donor funding.
 - [#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目](sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a.md) — 声东击西对话人类学家钟淑如，从海南田野调查解释菜市场如何连接小农、摊贩、地方食物、消费者知识与社区治理。
+- [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08.md) — What's Next year-end review on AI bubble measures, capex ROI, GPU rental prices, model-company revenue, credit spreads, and free cash flow.
 
 ## Entities
 - [COSMAX / 科丝美诗](entities/Cosmax.md) — Korean beauty R&D and manufacturing infrastructure spanning formulation, packaging, testing, production, and localization.
