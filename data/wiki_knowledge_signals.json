@@ -88076,6 +88076,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
+    "DirectSubscriptionRelationship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876 [default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876].md",
+          "key": "the-economics-of-podcasting-and-npr-plus",
+          "show": "Planet Money",
+          "title": "The economics of podcasting and NPR+",
+          "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/concepts/directsubscriptionrelationship/"
+    },
     "DirectionSettingDelegatedGovernance": {
       "episode_count": 2,
       "show_count": 2,
@@ -191973,6 +191989,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/learningstylematchingboundary/"
     },
+    "LedaMeritz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876 [default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876].md",
+          "key": "the-economics-of-podcasting-and-npr-plus",
+          "show": "Planet Money",
+          "title": "The economics of podcasting and NPR+",
+          "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/entities/ledameritz/"
+    },
     "LeeCCamp": {
       "episode_count": 1,
       "show_count": 1,
@@ -198385,6 +198417,29 @@
       ],
       "updated": "2026-11-15",
       "url": "/wiki/concepts/listenerparticipatorydiscovery/"
+    },
+    "ListenerSupportedMedia": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e9d3e667dcb716080dc7d103a2b6fb5b_2422244 [default.mp3_ywr3ahjkcgo_e9d3e667dcb716080dc7d103a2b6fb5b_2422244].md",
+          "key": "congress-has-voted-to-eliminate-government-funding-for-public-media",
+          "show": "Planet Money",
+          "title": "Congress has voted to eliminate government funding for public media",
+          "url": "/wiki/sources/congress-has-voted-to-eliminate-government-funding-for-public-media/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876 [default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876].md",
+          "key": "the-economics-of-podcasting-and-npr-plus",
+          "show": "Planet Money",
+          "title": "The economics of podcasting and NPR+",
+          "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/concepts/listenersupportedmedia/"
     },
     "ListeningBarCulturalExport": {
       "episode_count": 1,
@@ -234181,6 +234236,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/nio/"
     },
+    "NPRPlus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876 [default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876].md",
+          "key": "the-economics-of-podcasting-and-npr-plus",
+          "show": "Planet Money",
+          "title": "The economics of podcasting and NPR+",
+          "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/entities/nprplus/"
+    },
     "Nabonidus": {
       "episode_count": 1,
       "show_count": 1,
@@ -260478,6 +260549,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/concepts/podcastscoringasnarrativedesign/"
     },
+    "PodcastSubscriptionBundling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876 [default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876].md",
+          "key": "the-economics-of-podcasting-and-npr-plus",
+          "show": "Planet Money",
+          "title": "The economics of podcasting and NPR+",
+          "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/concepts/podcastsubscriptionbundling/"
+    },
     "PoeticCausality": {
       "episode_count": 1,
       "show_count": 1,
@@ -271046,6 +271133,29 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/publicinterviewaudienceduty/"
+    },
+    "PublicMediaFunding": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e9d3e667dcb716080dc7d103a2b6fb5b_2422244 [default.mp3_ywr3ahjkcgo_e9d3e667dcb716080dc7d103a2b6fb5b_2422244].md",
+          "key": "congress-has-voted-to-eliminate-government-funding-for-public-media",
+          "show": "Planet Money",
+          "title": "Congress has voted to eliminate government funding for public media",
+          "url": "/wiki/sources/congress-has-voted-to-eliminate-government-funding-for-public-media/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876 [default.mp3_ywr3ahjkcgo_29a2e4d0b68199b79bdb0b1defd4421c_26196876].md",
+          "key": "the-economics-of-podcasting-and-npr-plus",
+          "show": "Planet Money",
+          "title": "The economics of podcasting and NPR+",
+          "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
+        }
+      ],
+      "updated": "2026-11-28",
+      "url": "/wiki/concepts/publicmediafunding/"
     },
     "PublicMutualFundEcosystem": {
       "episode_count": 7,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11863
+wiki_total_pages: 11865
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1256,6 +1256,9 @@ wiki_pages:
   - key: "PodcastScoringAsNarrativeDesign"
     title: "Podcast Scoring as Narrative Design"
     url: "/wiki/concepts/podcastscoringasnarrativedesign/"
+  - key: "PodcastSubscriptionBundling"
+    title: "Podcast Subscription Bundling"
+    url: "/wiki/concepts/podcastsubscriptionbundling/"
   - key: "PodcastToBookSystematization"
     title: "Podcast To Book Systematization"
     url: "/wiki/concepts/podcasttobooksystematization/"

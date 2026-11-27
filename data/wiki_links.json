@@ -30183,6 +30183,10 @@
     "title": "直谏入罪 / Direct Remonstrance Criminalization",
     "url": "/wiki/concepts/directremonstrancecriminalization/"
   },
+  "DirectSubscriptionRelationship": {
+    "title": "Direct Subscription Relationship",
+    "url": "/wiki/concepts/directsubscriptionrelationship/"
+  },
   "DirectTeacherEdtechPilot": {
     "title": "Direct-Teacher Edtech Pilot",
     "url": "/wiki/concepts/directteacheredtechpilot/"
@@ -58247,6 +58251,10 @@
     "title": "Lebor Gabala Erenn / 《入侵之书》",
     "url": "/wiki/entities/leborgabalaerenn/"
   },
+  "LedaMeritz": {
+    "title": "Leda Meritz",
+    "url": "/wiki/entities/ledameritz/"
+  },
   "LeeCCamp": {
     "title": "Lee C. Camp",
     "url": "/wiki/entities/leeccamp/"
@@ -69679,6 +69687,10 @@
     "title": "NPR",
     "url": "/wiki/entities/npr/"
   },
+  "NPRPlus": {
+    "title": "NPR+",
+    "url": "/wiki/entities/nprplus/"
+  },
   "NRAVullo": {
     "title": "NRA v. Vullo",
     "url": "/wiki/entities/nravullo/"
@@ -77262,6 +77274,10 @@
   "PodcastScoringAsNarrativeDesign": {
     "title": "Podcast Scoring as Narrative Design",
     "url": "/wiki/concepts/podcastscoringasnarrativedesign/"
+  },
+  "PodcastSubscriptionBundling": {
+    "title": "Podcast Subscription Bundling",
+    "url": "/wiki/concepts/podcastsubscriptionbundling/"
   },
   "PodcastToBookSystematization": {
     "title": "Podcast To Book Systematization",
@@ -119974,6 +119990,10 @@
   "the-dominos-pizza-tracker-theory-of-everything": {
     "title": "The Domino's Pizza Tracker Theory of Everything",
     "url": "/wiki/sources/the-dominos-pizza-tracker-theory-of-everything/"
+  },
+  "the-economics-of-podcasting-and-npr-plus": {
+    "title": "The economics of podcasting and NPR+",
+    "url": "/wiki/sources/the-economics-of-podcasting-and-npr-plus/"
   },
   "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427": {
     "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",

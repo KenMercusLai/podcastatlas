@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11863
+wiki_total_pages: 11865
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "DirectPCBuildToOrderModel"
     title: "Direct PC Build-to-Order Model"
     url: "/wiki/concepts/directpcbuildtoordermodel/"
+  - key: "DirectSubscriptionRelationship"
+    title: "Direct Subscription Relationship"
+    url: "/wiki/concepts/directsubscriptionrelationship/"
   - key: "DirectToConsumerCashFlow"
     title: "Direct To Consumer Cash Flow"
     url: "/wiki/concepts/directtoconsumercashflow/"

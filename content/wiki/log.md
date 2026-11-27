@@ -44214,3 +44214,19 @@ Downstream synthesis found no dirty controlled topic. The global compact map was
 ## [2026-11-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-28] ingest | The economics of podcasting and NPR+
+
+Added a [[PlanetMoney|Planet Money]] explanation of [[NPRPlus|NPR+]] with [[LedaMeritz]] and [[AlexGoldmark]], covering the shift from separate show subscriptions to a network bundle, pooled support for NPR and member stations, direct-versus-Apple enrollment, customer data, churn, advertising, supporter benefits, and the policy against paying interview subjects.
+
+Created synthesis-first profiles for NPR+ and Leda Meritz, plus [[PodcastSubscriptionBundling]] and [[DirectSubscriptionRelationship]]. Resynthesized [[PublicMediaFunding]] and [[ListenerSupportedMedia]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: paid benefits can create private value while financing a wider free public service, but the economics depend on bundling, allocation, intermediary fees, supporter contact, retention, and participation. Show-level attribution may inform investment without ring-fencing revenue, and direct enrollment can preserve both more net value and a longer-term membership relationship while still allowing listening through a third-party app.
+
+No settled contradiction was adopted. Prices, platform fees, contribution rates, lifetime subscription returns, churn, administrative costs, allocation, advertising effects, and product benefits remain episode- and date-scoped because the supplied file is a structured summary and institutional fundraising explanation rather than a transcript, audited financial record, platform contract, station allocation report, or independent market study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,314 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

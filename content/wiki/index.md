@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The economics of podcasting and NPR+](sources/the-economics-of-podcasting-and-npr-plus.md) — Planet Money explains NPR+'s bundle, public-radio revenue allocation, direct-versus-Apple enrollment, churn, advertising, and supporter relationship.
 - [153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务](sources/ep153-ep153.md) — 疯投圈访谈新氧创始人金星，以平台转直营诊所拆解复杂服务的供给控制、标准化、无预付信任、复购、单店模型与AI诊所边界。
 - [THE HIDDEN THREATS TO OUR POWER, PORTS AND ENERGY SYSTEMS | Shekhar Natarajan x Honorebel S. Walker](sources/defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583.md) — Tomorrow Today on Spacetime Industries' robotic outposts, remote inspection, multi-robot orchestration, regulation, cybersecurity, liability, and moat uncertainty.
 - [California wants receipts on AI's impact on climate change](sources/tech-20261127-1127-mp-tech-pod-128-tech-20261127-1127-mp-tech-pod-128.md) — Marketplace Tech on AI emissions-accounting gaps, California's large-company disclosure rule, its litigation boundary, and unverified net-climate-benefit claims.
@@ -5448,6 +5449,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [697. Whose Game Are You Playing?](sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825.md) — Freakonomics Radio conversation on voluntary game constraints, playfulness, metric value capture, and preserving plural values alongside useful measurement.
 
 ## Entities
+- [NPR+](entities/NPRPlus.md) — NPR's network-wide podcast subscription and membership product supporting the wider public-radio system.
+- [Leda Meritz](entities/LedaMeritz.md) — NPR subscriptions-growth leader explaining bundling, allocation, direct enrollment, and retention.
 - [Spacetime Industries](entities/SpacetimeIndustries.md) — Early-stage company developing hardware-flexible robotic monitoring outposts for remote critical infrastructure.
 - [Honorebel S. Walker](entities/HonorebelSWalker.md) — Spacetime Industries founder connecting robotics, field safety, infrastructure monitoring, and resilience.
 - [Eric Masanet](entities/EricMasanet.md) — UC Santa Barbara professor cited on AI emissions estimation, workload attribution, and uncertain net climate benefits.
@@ -20480,6 +20483,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jin Xing (So-Young) / 金星（新氧）](entities/JinXingSoYoung.md) — 新氧创始人兼CEO，以供给端控制、长期复购和资本纪律解释公司的二次创业。
 
 ## Concepts
+- [Podcast Subscription Bundling](concepts/PodcastSubscriptionBundling.md) — Consolidation of show-level paid offers into a network bundle with shared benefits, infrastructure, and funding.
+- [Direct Subscription Relationship](concepts/DirectSubscriptionRelationship.md) — First-party enrollment that preserves more payment value and supporter contact than intermediary-controlled enrollment.
 - [AI Emissions Accounting](concepts/AIEmissionsAccounting.md) — Measurement and attribution of greenhouse-gas emissions to AI workloads rather than only aggregate companies or data centers.
 - [California Corporate Emissions Disclosure](concepts/CaliforniaCorporateEmissionsDisclosure.md) — State reporting regime whose core company and purchased-energy layer survived while broader supply-chain reporting was rejected in the episode's account.
 - [Voluntary-Obstacle Play](concepts/VoluntaryObstaclePlay.md) — Account of games as freely chosen unnecessary constraints that create intrinsically worthwhile forms of struggle and action.

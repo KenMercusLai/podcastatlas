@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14926
+wiki_total_pages: 14928
 wiki_pages:
   - key: "LiuBeiHanzhongKingship219LateHan"
     title: "219年刘备称汉中王后的布局 / Liu Bei's Post-Hanzhong Kingship Settlement (219 CE)"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "LeBronJames"
     title: "LeBron James"
     url: "/wiki/entities/lebronjames/"
+  - key: "LedaMeritz"
+    title: "Leda Meritz"
+    url: "/wiki/entities/ledameritz/"
   - key: "LeeCCamp"
     title: "Lee C. Camp"
     url: "/wiki/entities/leeccamp/"
