@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14912
+wiki_total_pages: 14916
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "KhwarazmianEmpire"
     title: "Khwarazmian Empire"
     url: "/wiki/entities/khwarazmianempire/"
+  - key: "KickStreaming"
+    title: "Kick (streaming platform)"
+    url: "/wiki/entities/kickstreaming/"
   - key: "Kickstarter"
     title: "Kickstarter"
     url: "/wiki/entities/kickstarter/"

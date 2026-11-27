@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14912
+wiki_total_pages: 14916
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1586,6 +1586,9 @@ wiki_pages:
   - key: "StacySims"
     title: "Stacy Sims"
     url: "/wiki/entities/stacysims/"
+  - key: "StakeCasino"
+    title: "Stake (gambling network)"
+    url: "/wiki/entities/stakecasino/"
   - key: "Stammy"
     title: "Stammy"
     url: "/wiki/entities/stammy/"

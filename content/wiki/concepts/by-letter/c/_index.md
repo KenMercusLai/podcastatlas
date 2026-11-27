@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11855
+wiki_total_pages: 11858
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "ChinesePrivateAirlineOpening"
     title: "Chinese Private Airline Opening"
     url: "/wiki/concepts/chineseprivateairlineopening/"
+  - key: "ChineseProvincialAmateurFootball"
+    title: "Chinese Provincial Amateur Football"
+    url: "/wiki/concepts/chineseprovincialamateurfootball/"
   - key: "ChineseRockSocialFormation"
     title: "Chinese Rock Social Formation / 中国摇滚的社会生成"
     url: "/wiki/concepts/chineserocksocialformation/"

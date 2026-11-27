@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-27] ingest | Social-insecurity numbers: the money behind the manosphere
+
+Added an [[EconomistPodcasts]] episode spanning [[ManosphereMonetization]], [[DeplatformingDistributionResilience]], [[ChineseProvincialAmateurFootball]], and [[AnnetteGreen]]'s fragrance legacy. Created qualified profiles for Annette Green, [[KickStreaming|Kick]], and [[StakeCasino|Stake]], then resynthesized [[FragranceWardrobe]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: the manosphere operates as a distributed commercial system in which insecurity, aspirational wealth, controversy, favorable alternative-platform economics, clipping accounts, and gambling can reinforce one another. China's provincial amateur leagues derive demand from local identity and credibility rather than elite quality, but government competition and the absence of a broad childhood pipeline limit what popularity can accomplish. Green's wardrobe advocacy helped recast fragrance as everyday emotional self-expression while earlier evidence shows that the metaphor predated her.
+
+No settled contradiction was adopted. Deplatforming can constrain direct access even when established creators preserve reach elsewhere; amateur leagues can grow attachment without immediately developing national-team players; and Green's influence does not establish sole authorship or explain industry growth by itself. Audience, revenue-share, deposit, legality, attendance, market-growth, and causal claims remain episode-scoped because the supplied file is a structured summary rather than the underlying studies, contracts, court records, accounts, or market data. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty topics and the global compaction gate was not due. The renderer refreshed corpus counts to 5,308 episodes and sources while preserving 812 overview paragraphs across nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-26] ingest | AI數據標注，能否為縣城「寶媽」帶來「就業賦能」？
 
 Added a [[DuanwenNewsPodcast|端聞]] episode on mothers doing [[DataAnnotationLabor]] at [[YongheAidoTechnology|永和爱豆科技]] in [[YongheCounty|山西永和县]]. Created synthesis-first pages for the county, company, annotation labor, [[AlgorithmicPieceRateControl]], [[ContentModerationOccupationalHarm]], [[AITrainingLaborDisplacement]], [[CareCompatibleLocalEmployment]], and [[ShortLivedDigitalEmploymentEmpowerment]], then resynthesized the show and [[AntGroup|蚂蚁集团]] from their complete preserved evidence inventories before appending the new source once.
@@ -44124,6 +44134,10 @@ Resynthesized [[AIInvestmentMetrics]], [[AICapexReturnWindow]], [[AIRevenueLegib
 No settled contradiction was adopted. Lower public-equity prices can reduce one form of bubble risk without resolving customer ROI, infrastructure leverage, contract fragility, or application adoption. Strong HBM orders do not remove ordinary-memory cyclicality, and long compute contracts improve bankability without making end demand or counterparties risk-free. Nvidia leadership events, Anthropic listing performance, company valuations, policy trajectories, market reactions, and 2027 forecasts remain episode-scoped because the supplied file is a structured summary rather than a transcript, filing, audited financial record, regulator notice, or market dataset. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,307 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-27] lint | Wiki health check
 

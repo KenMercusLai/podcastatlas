@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11855
+wiki_total_pages: 11858
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "DentalProviderQualificationAssessment"
     title: "Dental Provider Qualification Assessment / 牙医与口腔机构资质判断"
     url: "/wiki/concepts/dentalproviderqualificationassessment/"
+  - key: "DeplatformingDistributionResilience"
+    title: "Deplatforming Distribution Resilience"
+    url: "/wiki/concepts/deplatformingdistributionresilience/"
   - key: "DepositGuaranteeCrisisResponse"
     title: "Deposit Guarantee Crisis Response"
     url: "/wiki/concepts/depositguaranteecrisisresponse/"

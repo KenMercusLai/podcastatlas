@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Social-insecurity numbers: the money behind the manosphere](sources/social-insecurity-numbers-the-money-behind-the-manosphere-7eb4966be1685ee4f19adde69e240aaa.md) — Economist Podcasts on manosphere monetization, China’s provincial amateur-football boom, and Annette Green’s fragrance legacy.
 - [Vol. 179 老黄龙王归位，Gemini 黑马逆袭](sources/podcast179-v1-podcast179-v1.md) — 枫言枫语以多模型编程工作流为主线，连接模型能力、额度、地区限制、客户端成熟度，并延伸到金融 Agent、客服、联网玩具与具身养老的治理边界。
 - [E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](sources/e261-biaoyan-youxiao-zutuan-chuhai-hanguo-meizhuang-ruhe-qiangzhan-meiguo-shichang-9753c5f7-03dd-4cfa-8d4a-40531f7c4b79.md) — 硅谷101拆解韩妆的爆品带牌、功效表演、ODM研发制造、文化协同、全球分销与零售体系，并检视同质化、流量依赖和品牌短命风险。
 - [Left in the lurch: Spain’s general election](sources/left-in-the-lurch-spains-general-election-f9a9608c40ea7371c98aaab648d8d8b0.md) — Economist Podcasts on Spain's rightward electoral shift, Mattel's entertainment strategy, and the challenge of adapting the Ramayana for a global audience.
@@ -5442,6 +5443,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08.md) — What's Next year-end review on AI bubble measures, capex ROI, GPU rental prices, model-company revenue, credit spreads, and free cash flow.
 
 ## Entities
+- [Annette Green](entities/AnnetteGreen.md) — Fragrance advocate who promoted mood-based everyday scent use, research, and interdisciplinary education.
+- [Fragrance Foundation](entities/FragranceFoundation.md) — Industry organization used by Annette Green to convene interdisciplinary fragrance education.
+- [Kick (streaming platform)](entities/KickStreaming.md) — Alternative streaming platform competing through creator economics and gambling-linked distribution.
+- [Stake (gambling network)](entities/StakeCasino.md) — Gambling network whose streamed games anchor contested claims about the manosphere economy.
 - [COSMAX / 科丝美诗](entities/Cosmax.md) — Korean beauty R&D and manufacturing infrastructure spanning formulation, packaging, testing, production, and localization.
 - [Kolmar Korea / 韩国科玛](entities/KolmarKorea.md) — Korean beauty ODM company presented as reusable product-development and market-entry infrastructure.
 - [Silicon2](entities/Silicon2.md) — Korean beauty distributor combining brand aggregation, overseas logistics, retail access, market data, and compliance support.
@@ -20459,6 +20464,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
+- [Manosphere Monetization](concepts/ManosphereMonetization.md) — Conversion of young men’s insecurity and aspiration into attention, products, platform income, and gambling-linked revenue.
+- [Deplatforming Distribution Resilience](concepts/DeplatformingDistributionResilience.md) — Conditional persistence of creator reach and income through alternative platforms and redistributed clips.
+- [Chinese Provincial Amateur Football](concepts/ChineseProvincialAmateurFootball.md) — Local leagues combining civic authenticity, accessible spectacle, consumption policy, and a limited player-development role.
 - [K-Beauty Hero-Product Model / 韩妆爆品带牌模式](concepts/KBeautyHeroProductModel.md) — Product-first growth route from short-video demonstration to marketplaces and offline retail.
 - [Performed Beauty Efficacy / 美妆功效表演](concepts/PerformedBeautyEfficacy.md) — Separation of legible claims and immediate experience from demonstrated long-term beauty efficacy.
 - [Beauty ODM Infrastructure / 美妆ODM基础设施](concepts/BeautyODMInfrastructure.md) — Shared research, formulation, packaging, production, testing, and compliance layer for beauty brands.

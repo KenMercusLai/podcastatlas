@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11855
+wiki_total_pages: 11858
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "ManifestDestiny"
     title: "Manifest Destiny"
     url: "/wiki/concepts/manifestdestiny/"
+  - key: "ManosphereMonetization"
+    title: "Manosphere Monetization"
+    url: "/wiki/concepts/manospheremonetization/"
   - key: "ManualComplianceMVP"
     title: "Manual Compliance MVP"
     url: "/wiki/concepts/manualcompliancemvp/"

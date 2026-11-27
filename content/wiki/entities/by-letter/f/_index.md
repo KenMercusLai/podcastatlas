@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14912
+wiki_total_pages: 14916
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "FoxconnIndustrialInternet"
     title: "Foxconn Industrial Internet / 工业富联"
     url: "/wiki/entities/foxconnindustrialinternet/"
+  - key: "FragranceFoundation"
+    title: "Fragrance Foundation"
+    url: "/wiki/entities/fragrancefoundation/"
   - key: "France"
     title: "France"
     url: "/wiki/entities/france/"
