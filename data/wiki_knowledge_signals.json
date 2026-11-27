@@ -44487,6 +44487,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/cssedit/"
     },
+    "CThiNguyen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825 [default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825].md",
+          "key": "default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825",
+          "show": "Freakonomics Radio",
+          "title": "697. Whose Game Are You Playing?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/cthinguyen/"
+    },
     "CUDA": {
       "episode_count": 6,
       "show_count": 6,
@@ -123939,9 +123955,9 @@
       "url": "/wiki/concepts/fraternitypartysexualviolencerisk/"
     },
     "FreakonomicsRadio": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813 [default.mp3_ywr3ahjkcgo_58f17fc3725ef3102277ae962324f7dd_59875813].md",
@@ -123963,9 +123979,16 @@
           "show": "Freakonomics Radio",
           "title": "Why Is It So Hard (and Expensive) to Build Anything in America? (Update)",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951-default-mp3-ywr3ahjkcgo-76efcd195d1b26a4faab0a64b31c1972-52966951/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825 [default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825].md",
+          "key": "default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825",
+          "show": "Freakonomics Radio",
+          "title": "697. Whose Game Are You Playing?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825/"
         }
       ],
-      "updated": "2026-11-25",
+      "updated": "2026-11-27",
       "url": "/wiki/entities/freakonomicsradio/"
     },
     "FredJordan": {
@@ -223536,6 +223559,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/metisheroiccunning/"
     },
+    "MetricValueCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825 [default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825].md",
+          "key": "default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825",
+          "show": "Freakonomics Radio",
+          "title": "697. Whose Game Are You Playing?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/metricvaluecapture/"
+    },
     "Metroland": {
       "episode_count": 1,
       "show_count": 1,
@@ -313080,6 +313119,22 @@
       "updated": "2026-11-15",
       "url": "/wiki/entities/stephendavis/"
     },
+    "StephenDubner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825 [default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825].md",
+          "key": "default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825",
+          "show": "Freakonomics Radio",
+          "title": "697. Whose Game Are You Playing?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/entities/stephendubner/"
+    },
     "StephenFry": {
       "episode_count": 1,
       "show_count": 1,
@@ -343524,6 +343579,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
+    },
+    "VoluntaryObstaclePlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825 [default.mp3_ywr3ahjkcgo_6abee3c124a8134e46fbc03d3d8edac7_63678825].md",
+          "key": "default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825",
+          "show": "Freakonomics Radio",
+          "title": "697. Whose Game Are You Playing?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825/"
+        }
+      ],
+      "updated": "2026-11-27",
+      "url": "/wiki/concepts/voluntaryobstacleplay/"
     },
     "VoluntaryPayItForwardEducation": {
       "episode_count": 1,

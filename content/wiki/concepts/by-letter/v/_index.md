@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 11858
+wiki_total_pages: 11860
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "VoluntaryPayItForwardEducation"
     title: "Voluntary Pay-It-Forward Education"
     url: "/wiki/concepts/voluntarypayitforwardeducation/"
+  - key: "VoluntaryObstaclePlay"
+    title: "Voluntary-Obstacle Play"
+    url: "/wiki/concepts/voluntaryobstacleplay/"
   - key: "VolunteerCareReciprocity"
     title: "Volunteer Care Reciprocity"
     url: "/wiki/concepts/volunteercarereciprocity/"

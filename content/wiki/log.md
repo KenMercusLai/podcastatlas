@@ -44156,3 +44156,17 @@ Downstream synthesis found no dirty controlled topic and the global compaction g
 ## [2026-11-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-27] ingest | 697. Whose Game Are You Playing?
+
+Added the [[FreakonomicsRadio]] conversation between [[StephenDubner]] and philosopher [[CThiNguyen]] on games, playfulness, metrics, and plural value.
+
+Created synthesis-first profiles for C. Thi Nguyen and Stephen Dubner, plus [[VoluntaryObstaclePlay]] and [[MetricValueCapture]]. Resynthesized Freakonomics Radio from its complete preserved evidence inventory before appending the new source once.
+
+No settled contradiction was adopted. The episode does not reject quantification: medical and public-health measures can provide lifesaving information, but portable scores remain incomplete and should not automatically defeat beauty, community, creativity, pleasure, or context-sensitive judgment. Value capture is kept distinct from [[GoodhartsLaw]]: target gaming can occur while the underlying goal remains visible, whereas capture means the proxy becomes the operative value. Biographical details, quotations, institutional effects, AI-art examples, and causal claims remain episode-scoped because the supplied file is a structured summary rather than a full transcript, book text, dataset, or underlying research record. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,310 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

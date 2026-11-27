@@ -5442,8 +5442,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)](sources/vmp5702291377-vmp5702291377.md) — How I Built This interview on Wikipedia's low-barrier collaboration, volunteer governance, sourcing norms, nonprofit structure, and small-donor funding.
 - [#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目](sources/486d1fea-dd57-4ff1-8de9-cfea1f9de16a-486d1fea-dd57-4ff1-8de9-cfea1f9de16a.md) — 声东击西对话人类学家钟淑如，从海南田野调查解释菜市场如何连接小农、摊贩、地方食物、消费者知识与社区治理。
 - [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](sources/a2f80cf4-a36c-4650-9801-56e2049fdc08-a2f80cf4-a36c-4650-9801-56e2049fdc08.md) — What's Next year-end review on AI bubble measures, capex ROI, GPU rental prices, model-company revenue, credit spreads, and free cash flow.
+- [697. Whose Game Are You Playing?](sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825.md) — Freakonomics Radio conversation on voluntary game constraints, playfulness, metric value capture, and preserving plural values alongside useful measurement.
 
 ## Entities
+- [C. Thi Nguyen](entities/CThiNguyen.md) — Philosopher connecting games, chosen struggle, rule-world flexibility, and resistance to metric-driven value substitution.
+- [Stephen Dubner](entities/StephenDubner.md) — Freakonomics Radio host framing intrinsically worthwhile play and adult responsibility as compatible goods.
 - [郑兴 / Zheng Xing (musician)](entities/ZhengXingMusician.md) — 以个人经验、移动概念、协作制作与现场演出不断更新创作身份的唱作人。
 - [陈小霞 / Chen Xiaoxia](entities/ChenXiaoxia.md) — 以旋律、词曲咬合和回望性书写影响郑兴早期创作的音乐人。
 - [Annette Green](entities/AnnetteGreen.md) — Fragrance advocate who promoted mood-based everyday scent use, research, and interdisciplinary education.
@@ -20467,6 +20470,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟淑如 / Zhong Shuru](entities/ZhongShuru.md) — 研究中国菜市场、海鲜供应链、食物知识、生态农业与城乡食物系统的人类学家。
 
 ## Concepts
+- [Voluntary-Obstacle Play](concepts/VoluntaryObstaclePlay.md) — Account of games as freely chosen unnecessary constraints that create intrinsically worthwhile forms of struggle and action.
+- [Metric Value Capture](concepts/MetricValueCapture.md) — Replacement of a rich contextual value by a portable quantified proxy until the proxy becomes the operative value.
 - [Manosphere Monetization](concepts/ManosphereMonetization.md) — Conversion of young men’s insecurity and aspiration into attention, products, platform income, and gambling-linked revenue.
 - [Deplatforming Distribution Resilience](concepts/DeplatformingDistributionResilience.md) — Conditional persistence of creator reach and income through alternative platforms and redistributed clips.
 - [Chinese Provincial Amateur Football](concepts/ChineseProvincialAmateurFootball.md) — Local leagues combining civic authenticity, accessible spectacle, consumption policy, and a limited player-development role.

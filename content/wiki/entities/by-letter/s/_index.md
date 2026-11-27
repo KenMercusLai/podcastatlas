@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14918
+wiki_total_pages: 14920
 wiki_pages:
   - key: "StatenIslandSecession1993"
     title: "1993 Staten Island Secession Referendum"
@@ -1778,6 +1778,9 @@ wiki_pages:
   - key: "StephenDavis"
     title: "Stephen Davis"
     url: "/wiki/entities/stephendavis/"
+  - key: "StephenDubner"
+    title: "Stephen Dubner"
+    url: "/wiki/entities/stephendubner/"
   - key: "StephenFry"
     title: "Stephen Fry"
     url: "/wiki/entities/stephenfry/"

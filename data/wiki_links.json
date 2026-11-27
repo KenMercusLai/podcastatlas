@@ -17831,6 +17831,10 @@
     "title": "CTA-102",
     "url": "/wiki/entities/cta102/"
   },
+  "CThiNguyen": {
+    "title": "C. Thi Nguyen",
+    "url": "/wiki/entities/cthinguyen/"
+  },
   "CUDA": {
     "title": "CUDA",
     "url": "/wiki/entities/cuda/"
@@ -66639,6 +66643,10 @@
     "title": "Metis Heroic Cunning / 莫提斯英雄狡智",
     "url": "/wiki/concepts/metisheroiccunning/"
   },
+  "MetricValueCapture": {
+    "title": "Metric Value Capture",
+    "url": "/wiki/concepts/metricvaluecapture/"
+  },
   "Metroland": {
     "title": "Metroland",
     "url": "/wiki/entities/metroland/"
@@ -92763,6 +92771,10 @@
     "title": "Stephen Davis",
     "url": "/wiki/entities/stephendavis/"
   },
+  "StephenDubner": {
+    "title": "Stephen Dubner",
+    "url": "/wiki/entities/stephendubner/"
+  },
   "StephenFry": {
     "title": "Stephen Fry",
     "url": "/wiki/entities/stephenfry/"
@@ -101986,6 +101998,10 @@
   "VoluntaryAISafetyCommitments": {
     "title": "Voluntary AI Safety Commitments",
     "url": "/wiki/concepts/voluntaryaisafetycommitments/"
+  },
+  "VoluntaryObstaclePlay": {
+    "title": "Voluntary-Obstacle Play",
+    "url": "/wiki/concepts/voluntaryobstacleplay/"
   },
   "VoluntaryPayItForwardEducation": {
     "title": "Voluntary Pay-It-Forward Education",
@@ -113778,6 +113794,10 @@
   "default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403": {
     "title": "What Art Does For Your Brain",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403-default-mp3-ywr3ahjkcgo-6aaa4c79fff3c55a5053383f6c9c253b-51902403/"
+  },
+  "default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825": {
+    "title": "697. Whose Game Are You Playing?",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825/"
   },
   "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176": {
     "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
