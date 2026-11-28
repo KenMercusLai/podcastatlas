@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11865
+wiki_total_pages: 11867
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "DigitalPreservation"
     title: "Digital Preservation"
     url: "/wiki/concepts/digitalpreservation/"
+  - key: "DigitalProtege"
+    title: "Digital Protégé"
+    url: "/wiki/concepts/digitalprotege/"
   - key: "DigitalPublicSphereEpistemicAuthority"
     title: "Digital Public Sphere Epistemic Authority / 数字公共领域知识权威"
     url: "/wiki/concepts/digitalpublicsphereepistemicauthority/"

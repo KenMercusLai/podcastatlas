@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN](sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036.md) — Tomorrow Today on named digital expert representation, contextual questioning, human escalation, institutional knowledge transfer, and unresolved labor and capability risks.
 - [The economics of podcasting and NPR+](sources/the-economics-of-podcasting-and-npr-plus.md) — Planet Money explains NPR+'s bundle, public-radio revenue allocation, direct-versus-Apple enrollment, churn, advertising, and supporter relationship.
 - [153 ✪ 从互联网到线下连锁：一家上市公司的二次创业——用信任破局复杂服务](sources/ep153-ep153.md) — 疯投圈访谈新氧创始人金星，以平台转直营诊所拆解复杂服务的供给控制、标准化、无预付信任、复购、单店模型与AI诊所边界。
 - [THE HIDDEN THREATS TO OUR POWER, PORTS AND ENERGY SYSTEMS | Shekhar Natarajan x Honorebel S. Walker](sources/defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583-defaultmp3-ywr3ahjkcgo-88af56d4a4570dc2f86f2102752f8496-21472583.md) — Tomorrow Today on Spacetime Industries' robotic outposts, remote inspection, multi-robot orchestration, regulation, cybersecurity, liability, and moat uncertainty.
@@ -5449,6 +5450,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [697. Whose Game Are You Playing?](sources/default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825-default-mp3-ywr3ahjkcgo-6abee3c124a8134e46fbc03d3d8edac7-63678825.md) — Freakonomics Radio conversation on voluntary game constraints, playfulness, metric value capture, and preserving plural values alongside useful measurement.
 
 ## Entities
+- [Apex Replicate](entities/ApexReplicate.md) — AI platform presented as creating named digital expert protégés for marketplace access and enterprise knowledge retention.
+- [Drew Harris](entities/DrewHarris.md) — Apex Replicate representative connecting instructional design, expert interviewing, and AI supervision.
+- [Alan Kadish](entities/AlanKadish.md) — Apex Replicate representative focused on expert access, enterprise retention, escalation, and worker development.
 - [NPR+](entities/NPRPlus.md) — NPR's network-wide podcast subscription and membership product supporting the wider public-radio system.
 - [Leda Meritz](entities/LedaMeritz.md) — NPR subscriptions-growth leader explaining bundling, allocation, direct enrollment, and retention.
 - [Spacetime Industries](entities/SpacetimeIndustries.md) — Early-stage company developing hardware-flexible robotic monitoring outposts for remote critical infrastructure.
@@ -20483,6 +20487,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jin Xing (So-Young) / 金星（新氧）](entities/JinXingSoYoung.md) — 新氧创始人兼CEO，以供给端控制、长期复购和资本纪律解释公司的二次创业。
 
 ## Concepts
+- [Digital Protégé](concepts/DigitalProtege.md) — Named-expert AI interface combining contextual dialogue, knowledge-boundary disclosure, and human escalation.
+- [Socratic Expert Dialogue](concepts/SocraticExpertDialogue.md) — AI interaction pattern that asks targeted contextual questions before offering bounded advice.
 - [Podcast Subscription Bundling](concepts/PodcastSubscriptionBundling.md) — Consolidation of show-level paid offers into a network bundle with shared benefits, infrastructure, and funding.
 - [Direct Subscription Relationship](concepts/DirectSubscriptionRelationship.md) — First-party enrollment that preserves more payment value and supporter contact than intermediary-controlled enrollment.
 - [AI Emissions Accounting](concepts/AIEmissionsAccounting.md) — Measurement and attribution of greenhouse-gas emissions to AI workloads rather than only aggregate companies or data centers.

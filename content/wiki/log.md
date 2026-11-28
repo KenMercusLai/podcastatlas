@@ -44215,6 +44215,18 @@ Downstream synthesis found no dirty controlled topic. The global compact map was
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-29] ingest | CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN
+
+Added the [[TomorrowToday]] interview with [[DrewHarris]] and [[AlanKadish]] of [[ApexReplicate]] on representing a named professional's judgment through a [[DigitalProtege]].
+
+Created synthesis-first profiles for Apex Replicate, Drew Harris, and Alan Kadish, plus [[DigitalProtege]] and [[SocraticExpertDialogue]]. Resynthesized [[InstitutionalKnowledgeTransfer]] and [[ExpertiseAmplifiedAIUse]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: named provenance, contextual questioning, explicit uncertainty, and human escalation can make some specialized judgment more available without equating the interface with a general-purpose model or autonomous agent. The mechanism can support enterprise handoff and lower-cost professional access, but elicited knowledge is not proven equivalent to tacit expertise, and users still need to assess expert fit, disagreement, evidence, and accountability.
+
+No settled contradiction was adopted. Fidelity, security behavior, qualification screening, adoption, pricing, demographic statistics, productivity, learning, and labor claims remain participant-reported and episode-scoped because the supplied file is a structured summary rather than a transcript, independent benchmark, audit, labor study, or customer-outcome record. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,315 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The repository-wide scan still reports 66 pre-existing broken wikilinks outside the changed pages.
+
 ## [2026-11-28] ingest | The economics of podcasting and NPR+
 
 Added a [[PlanetMoney|Planet Money]] explanation of [[NPRPlus|NPR+]] with [[LedaMeritz]] and [[AlexGoldmark]], covering the shift from separate show subscriptions to a network bundle, pooled support for NPR and member stations, direct-versus-Apple enrollment, customer data, churn, advertising, supporter benefits, and the policy against paying interview subjects.
@@ -44228,5 +44240,9 @@ No settled contradiction was adopted. Prices, platform fees, contribution rates,
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,314 sources across 812 overview paragraphs and nine topics.
 
 ## [2026-11-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

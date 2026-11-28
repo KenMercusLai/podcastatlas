@@ -14432,6 +14432,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AlanKadish": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AlanTalmor": [
     {
       "key": "technology",
@@ -16837,6 +16844,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ApexReplicate": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AphasiaRhythmCueing": [
@@ -33215,6 +33229,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DigitalProtege": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DigitalSexualSubstituteRisk": [
     {
       "key": "technology",
@@ -34448,6 +34469,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DrewHarris": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DrewHarwell": [
@@ -88378,6 +88406,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SocraticExpertDialogue": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SodiumWaterHomeostasis": [
     {
       "key": "science",
@@ -110155,6 +110190,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036": [
     {
       "key": "technology",
       "label": "Technology",

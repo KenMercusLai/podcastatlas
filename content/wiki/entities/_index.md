@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14928
+wiki_total_pages: 14931
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "AlanJackson"
     title: "Alan Jackson"
     url: "/wiki/entities/alanjackson/"
+  - key: "AlanKadish"
+    title: "Alan Kadish"
+    url: "/wiki/entities/alankadish/"
   - key: "AlanNewman"
     title: "Alan Newman"
     url: "/wiki/entities/alannewman/"
@@ -1787,6 +1790,9 @@ wiki_pages:
   - key: "ApexDigital"
     title: "APEX Digital"
     url: "/wiki/entities/apexdigital/"
+  - key: "ApexReplicate"
+    title: "Apex Replicate"
+    url: "/wiki/entities/apexreplicate/"
   - key: "Apodex"
     title: "Apodex"
     url: "/wiki/entities/apodex/"

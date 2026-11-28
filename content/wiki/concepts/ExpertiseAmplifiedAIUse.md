@@ -7,7 +7,8 @@ sources:
   - tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128
   - no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81
   - no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i
-last_updated: 2026-10-10
+  - default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036
+last_updated: 2026-11-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,26 +24,31 @@ The Chouxiangzai episode adds a video-creator version. [[Chouxiangzai|抽象仔 
 
 The Maimai interview generalizes that mechanism beyond creative work. [[LinFanMaimai|林凡]] argues that useful experience is not seniority alone; it is a stock of diagnostic models, taste, judgment, and feedback ability. An experienced operator can let AI generate options or perform routine work, then identify faults, choose the strongest result, and correct the workflow. AI is therefore a force multiplier for expertise that knows both where to aim and when the output floor is too weak for delegation.
 
+The [[ApexReplicate]] interview adds two connected mechanisms. First, [[DrewHarris]] describes AI coding tools as junior engineers whose usefulness depends on architecture, direction, context, and correction from an experienced supervisor. Second, a [[DigitalProtege]] tries to make some expert judgment reusable through interviews and human escalation. The source therefore extends expertise amplification from using AI well to designing an AI interface around a named expert, while leaving unproven how faithfully that interface reproduces the expert.
+
 ## Key Claims
 - AI rewards users who can define a task, recognize a good answer, and catch a bad one.
 - Expertise matters because taste and judgment are not automatically supplied by a model.
 - AI can help people learn, but learning still depends on active questioning, comparison, and correction.
 - [[AIAssistantAugmentation]] can widen capability without eliminating the need for domain knowledge.
 - In creative production, AI cost reduction is strongest when it amplifies existing craft rather than substituting for all craft.
-- Prior work experience can become more valuable, not less, when AI removes some execution bottlenecks and exposes the need for direction, selection, and taste.
 - Experience creates AI leverage only when it has become transferable judgment, diagnosis, feedback, and workflow knowledge rather than tenure alone.
+- Representing an expert in AI may scale access to judgment, but it does not establish that elicited knowledge is complete or independently reliable.
 
 ## Evidence
 - Assistant-not-replacement evidence - [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] has [[ChristopherMims]] argue that experts benefit because they know what to ask, what quality looks like, and how to catch errors when AI lacks judgment, taste, or agency.
 - Indie-game evidence - [[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] says AI can help with code, translation, and assets, but creators still need game-production skills and quality control.
 - AI-video evidence - [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] shows [[Chouxiangzai|抽象仔 / 抽象宅]] transferring documentary directing, advertising, platform, and client skills into viral AI video and commercial services.
 - Experienced-review evidence - [[no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i]] argues that experienced workers add value by judging alternatives, finding faults, giving feedback, and deciding which tasks can safely be delegated.
+- Supervision and representation evidence - [[default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036]] uses the junior-engineer analogy for expert-directed AI coding and proposes contextual questioning plus human escalation for representing a named professional's judgment.
 - Learning qualification - [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] allows that AI can teach users how to use it, but the broader source still requires experimentation and review.
 
 ## Counterevidence & Qualifications
-The concept does not deny that AI can help novices learn faster or attempt work they previously could not do. Its claim is narrower: the strongest, safest, and most commercially useful results still depend on human expertise, judgment, and correction. Both the Chouxiangzai and Lin Fan additions are interview-based practitioner cases, not proof that every expert benefits, that age itself is protective, or that organizations will preserve experienced roles after automating their tasks.
+The concept does not deny that AI can help novices learn faster or attempt work they previously could not do. Its claim is narrower: the strongest, safest, and most commercially useful results still depend on human expertise, judgment, and correction. The Chouxiangzai, Lin Fan, and Apex Replicate additions are interview-based practitioner or company cases, not proof that every expert benefits, that age itself is protective, that a digital representation has validated fidelity, or that organizations will preserve experienced roles after automating their tasks.
 
 ## What Changed
+- Added expert-directed AI coding and named-expert digital representation as two further expertise-amplification mechanisms.
+- Qualified digital representation by separating scalable access from validated fidelity or complete tacit-knowledge capture.
 - Added experienced diagnosis, selection, feedback, and delegation judgment as the mechanism linking career experience to AI leverage.
 - Qualified the argument so tenure and age alone do not count as expertise.
 
@@ -56,3 +62,4 @@ The concept does not deny that AI can help novices learn faster or attempt work 
 - [[AITaskSubstitutionReliabilityBoundary]] - explains why expert review matters more when output floors and error costs vary.
 - [[StatefulCareerCapital]] - retained context and relationships that can make expertise more durable across tasks.
 - [[AIHallucination]] - failure mode novices may miss.
+- [[DigitalProtege]] - attempt to make a selected expert's judgment available through a contextual, escalating AI interface.

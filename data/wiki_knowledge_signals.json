@@ -14850,6 +14850,22 @@
       "updated": "2026-11-17",
       "url": "/wiki/entities/alanjackson/"
     },
+    "AlanKadish": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
+        }
+      ],
+      "updated": "2026-11-29",
+      "url": "/wiki/entities/alankadish/"
+    },
     "AlanNewman": {
       "episode_count": 2,
       "show_count": 1,
@@ -23746,6 +23762,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/apathyactioninitiation/"
+    },
+    "ApexReplicate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
+        }
+      ],
+      "updated": "2026-11-29",
+      "url": "/wiki/entities/apexreplicate/"
     },
     "AphasiaRhythmCueing": {
       "episode_count": 1,
@@ -87165,6 +87197,22 @@
       "updated": "2026-10-29",
       "url": "/wiki/concepts/digitalolfaction/"
     },
+    "DigitalProtege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
+        }
+      ],
+      "updated": "2026-11-29",
+      "url": "/wiki/concepts/digitalprotege/"
+    },
     "DigitalPublicSphereEpistemicAuthority": {
       "episode_count": 1,
       "show_count": 1,
@@ -92425,6 +92473,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/dredscott/"
+    },
+    "DrewHarris": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
+        }
+      ],
+      "updated": "2026-11-29",
+      "url": "/wiki/entities/drewharris/"
     },
     "DrewHaven": {
       "episode_count": 1,
@@ -110658,9 +110722,9 @@
       "url": "/wiki/concepts/expertuncertaintycommunication/"
     },
     "ExpertiseAmplifiedAIUse": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP242 独立游戏，是一条搞钱好赛道吗？ [lrqbZrCEumbuGGzuERo5QB4Jv3zu].md",
@@ -110689,9 +110753,16 @@
           "show": "三五环",
           "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
           "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-29",
       "url": "/wiki/concepts/expertiseamplifiedaiuse/"
     },
     "ExplainableAILending": {
@@ -167241,6 +167312,36 @@
       ],
       "updated": "2026-11-16",
       "url": "/wiki/concepts/institutionalinnovationadoptionresistance/"
+    },
+    "InstitutionalKnowledgeTransfer": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332 [default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332].md",
+          "key": "older-workers-arent-retiring-should-they-be-forced-to",
+          "show": "Planet Money",
+          "title": "Older workers aren't retiring. Should they be forced to?",
+          "url": "/wiki/sources/older-workers-arent-retiring-should-they-be-forced-to/"
+        },
+        {
+          "episode_file": "tech_20260416_0416_MP_TECH_pod_128 [tech_20260416_0416_MP_TECH_pod_128].md",
+          "key": "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "One way to avoid AI altogether? Retire early",
+          "url": "/wiki/sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
+        }
+      ],
+      "updated": "2026-11-29",
+      "url": "/wiki/concepts/institutionalknowledgetransfer/"
     },
     "InstitutionalLegacyReinvention": {
       "episode_count": 1,
@@ -307884,6 +307985,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/socratesfootballer/"
+    },
+    "SocraticExpertDialogue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036 [default.mp3_ywr3ahjkcgo_b2e7195d073c9bba42b0d145c13c1339_51026036].md",
+          "key": "default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036",
+          "show": "Tomorrow, Today",
+          "title": "CAN AI PRESERVE HUMAN EXPERTISE BEFORE IT DISAPPEARS | DREW HARRIS & DR. ALAN KADISH | SHEKHAR NATARAJAN",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036-default-mp3-ywr3ahjkcgo-b2e7195d073c9bba42b0d145c13c1339-51026036/"
+        }
+      ],
+      "updated": "2026-11-29",
+      "url": "/wiki/concepts/socraticexpertdialogue/"
     },
     "SodiumWaterHomeostasis": {
       "episode_count": 2,
